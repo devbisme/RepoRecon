@@ -1,0 +1,42 @@
+[
+    {
+        "title": "KiCad",
+        "search_terms": "kicad",
+        "JSON_file": "kicad"
+    },
+    {
+        "title": "FreeCAD",
+        "search_terms": "freecad",
+        "JSON_file": "freecad"
+    },
+    {
+        "title": "SKiDL",
+        "search_terms": "skidl",
+        "JSON_file": "skidl"
+    },
+    {
+        "title": "LiteX",
+        "search_terms": "litex",
+        "JSON_file": "litex"
+    },
+    {
+        "title": "MyHDL",
+        "search_terms": "myhdl",
+        "JSON_file": "myhdl"
+    },
+    {
+        "title": "FOSS Chip",
+        "search_terms": "skywater OR sky130 OR efabless OR chipIgnite OR openlane",
+        "JSON_file": "foss_chips"
+    },
+    {
+        "title": "Kendryte Microcontroller",
+        "search_terms": "maix OR kendryte OR K210 OR K230 OR K510",
+        "JSON_file": "kendryte_uc"
+    },
+    {
+        "title": "El-Cheapo Microcontroller",
+        "search_terms": "RP2040 OR CH32V003 OR PY32F",
+        "JSON_file": "el_cheapo_uc"
+    }
+]
