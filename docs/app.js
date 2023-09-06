@@ -87,7 +87,7 @@ function populateTable(data) {
     table.innerHTML = '';
 
     // One table column for each field of a row of data.
-    let columns = Object.keys(data[0]);
+    let columns = Object.keys(jsonData[0]); // Get column headers from total data set.
 
     // Create header for the table.
     let headerRow = document.createElement('tr');
@@ -163,6 +163,7 @@ function populateTable(data) {
         updateProgressBar(100);
     }
     dataRows();
+    showRepoCount(); // Show the number of repos in the table.
 }
 
 // Update the progress bar with the progress value between 0..100.
@@ -227,12 +228,7 @@ function filterTable() {
     }
 
     // Show the rows (if any) that have all the search values.
-    if (filteredData.length != 0) {
-        populateTable(filteredData);
-    }
-
-    // Report the number of data rows found.
-    alert(`${filteredData.length} projects found.`);
+    populateTable(filteredData);
 }
 
 // Initiate filtering if return/enter key is pressed.
@@ -275,4 +271,18 @@ function sortTableDesc(data, column) {
     sortedData.sort((a, b) => (a[column] < b[column]) ? 1 : -1);
     sortDirection[column] = 'asc';
     populateTable(sortedData);
+}
+
+numReposField = document.getElementById('numRepos');
+
+// Show the number of repos in the table.
+function showRepoCount() {
+    if (filteredData === null)
+        numReposField.textContent = `(${jsonData.length} total repos)`;
+    else
+        numReposField.textContent = `(${filteredData.length} filtered repos)`;
+}
+
+function hideRepoCount() {
+    numReposField.textContent = "";
 }

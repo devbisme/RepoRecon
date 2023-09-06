@@ -2,6 +2,10 @@ h1, h2, h3 {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
 }
 
+h1 {
+    font-style: italic;
+}
+
 #srclink {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
     font-size: 12px;
@@ -19,6 +23,12 @@ h1, h2, h3 {
 
 #topicTitle {
     display: inline-block;
+}
+
+#numRepos {
+    display: inline-block;
+    font-size: 14px;
+    font-style: italic;
 }
 
 #progressbar > div {
