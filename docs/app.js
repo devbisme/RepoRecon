@@ -57,10 +57,6 @@ function preprocessData(data) {
                     row[column] = `<a href="${row["url"]}" target="_blank">${row[column]}</a>`;
                     break;
 
-                case 'owner':
-                    row[column] = row[column].toLowerCase();
-                    break;
-
                 case 'updated':
                     // Split off the time; only keep the Y/M/D.
                     date = row[column];
@@ -206,10 +202,11 @@ function filterTable() {
 
     // Get the column to search in for a space-delimited list of values.
     [col, vals] = filterStr.split(":", 2);
+    col = col.toLowerCase();
     // Search for a column whose label starts with the given column name.
     foundCol = null;
     for (let column of Object.keys(jsonData[0])) {
-        if (column.startsWith(col)) {
+        if (column.toLowerCase().startsWith(col)) {
             // Found one.
             foundCol = column;
             break;
