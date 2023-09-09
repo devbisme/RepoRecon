@@ -57,7 +57,7 @@ function preprocessData(data) {
                     row[column] = `<a href="${row["url"]}" target="_blank">${row[column]}</a>`;
                     break;
 
-                case 'updated':
+                case 'pushed':
                     // Split off the time; only keep the Y/M/D.
                     date = row[column];
                     row[column] = date.split("T")[0];
@@ -71,7 +71,7 @@ function preprocessData(data) {
         // Remove this data so it isn't displayed.
         delete row.url;
         delete row.created;
-        delete row.pushed;
+        delete row.updated;
         delete row.id;
     })
 }
@@ -241,7 +241,7 @@ function showAllRepos() {
     filterInput.placeholder = "Column:Value";
     filterInput.value = "";
     filteredData = null;
-    sortTableDesc(jsonData, "updated"); // Show *ALL* repos sorted by date of last update, newest at top.
+    sortTableDesc(jsonData, "pushed"); // Show *ALL* repos sorted by date of last push, newest at top.
 }
 
 // Sort the table based on the contents of a column and its sorting button state.

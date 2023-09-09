@@ -30,7 +30,7 @@ elif (( $(cat $repo_file | jq '.|length') == 0 )); then
     start_mo=$earliest_start_mo
 else
     # If the file has data, then get the start year/month from the most recent (last) repo.
-    last_date=$(cat $repo_file | jq '.[-1].created')
+    last_date=$(cat $repo_file | jq '.[-1].pushed')
     # Get the year/month of the most recent repo.
     start_yr=$(echo $last_date | cut -d'-' -f1 | sed 's/^.//')
     start_mo=$(echo $last_date | cut -d'-' -f2 | sed 's/^.//')
@@ -73,8 +73,8 @@ do
         # Clear the screen and report progress.
         echo "Gathering $title repos for $y/$m ..."
         
-        # Search for repos created in this month-year.
-        created_on="${y}-${m}"
+        # Search for repos updated in this month-year.
+        pushed_at="${y}-${m}"
         
         # Scan through each page of search results until a non-full page appears.
         num_repos_on_page=$page_size
@@ -84,7 +84,7 @@ do
             # Search Github for the year-month and process the page of results.
             # This will create an array of JSON objects, one for each repo.
             curl -G https://api.github.com/search/repositories \
-            --data-urlencode "q=$search_term in:name,description,topics,readme created:$created_on" \
+            --data-urlencode "q=$search_term in:name,description,topics,readme pushed:$pushed_at" \
             --data-urlencode "per_page=$page_size" \
             --data-urlencode "page=$pg" \
             --data-urlencode "sort=updated" \
