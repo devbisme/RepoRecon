@@ -73,18 +73,19 @@ do
         # Clear the screen and report progress.
         echo "Gathering $title repos for $y/$m ..."
         
-        # Search for repos updated in this month-year.
-        pushed_at="${y}-${m}"
+        # Search for repos created in this month-year.
+        search_date="${y}-${m}"
         
         # Scan through each page of search results until a non-full page appears.
+        # Search is limited to 1000 results so stop after page .
         num_repos_on_page=$page_size
-        for((pg=1;num_repos_on_page==$page_size;pg++))
+        for((pg=1;num_repos_on_page==$page_size && pg<11;pg++))
         do
-            
+
             # Search Github for the year-month and process the page of results.
             # This will create an array of JSON objects, one for each repo.
             curl -G https://api.github.com/search/repositories \
-            --data-urlencode "q=$search_term in:name,description,topics,readme pushed:$pushed_at" \
+            --data-urlencode "q=$search_term in:name,description,topics,readme created:$search_date" \
             --data-urlencode "per_page=$page_size" \
             --data-urlencode "page=$pg" \
             --data-urlencode "sort=updated" \
@@ -134,5 +135,5 @@ done  # Year done.
 
 # Remove duplicate repos. (Dups could be caused by rerunning this script with overlapping search dates.)
 cp $repo_file $tmpfile
-cat $tmpfile | jq 'unique_by(.id)' > $repo_file
+cat $tmpfile | jq '.|unique_by(.id)' > $repo_file
 
