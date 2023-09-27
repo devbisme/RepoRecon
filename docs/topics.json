@@ -1,5 +1,10 @@
 [
     {
+        "title": "Embedded RTOS",
+        "search_terms": "FreeRTOS OR NuttX OR ((Zephyr OR RIOT) AND RTOS)",
+        "JSON_file": "embedded_rtos"
+    },
+    {
         "title": "KiCad",
         "search_terms": "kicad",
         "JSON_file": "kicad"

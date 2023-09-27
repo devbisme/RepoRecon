@@ -76,56 +76,69 @@ do
         # Search for repos created in this month-year.
         search_date="${y}-${m}"
         
-        # Scan through each page of search results until a non-full page appears.
-        # Search is limited to 1000 results so stop after page .
-        num_repos_on_page=$page_size
-        for((pg=1;num_repos_on_page==$page_size && pg<11;pg++))
+        # Do searches for repos based on these different types of dates.
+        # There will always be more updated repos because all the older repos can potentially be updated.
+        # This could exceed the search limit of 1000 results, so also search based on creation date
+        # so that new repos aren't missed (there will be fewer of them).
+        for date_type in created updated
         do
 
-            # Search Github for the year-month and process the page of results.
-            # This will create an array of JSON objects, one for each repo.
-            curl -G https://api.github.com/search/repositories \
-            --data-urlencode "q=$search_term in:name,description,topics,readme created:$search_date" \
-            --data-urlencode "per_page=$page_size" \
-            --data-urlencode "page=$pg" \
-            --data-urlencode "sort=updated" \
-            -H "Accept: application/vnd.github+json" \
-            2>/dev/null \
-            | jq "
-                    [ \
-                        .items[] | \
-                        { \
-                            repo:.name, \
-                            description, \
-                            owner:.owner.login, \
-                            stars:.stargazers_count, \
-                            forks:.forks_count, \
-                            size, \
-                            created:.created_at, \
-                            updated:.updated_at, \
-                            pushed:.pushed_at, \
-                            url:.html_url, \
-                            id \
-                        } \
-            ]" > $page_repos
-            
-            # Observe rate-limit of Github search (10 searches / minute)
-            sleep 6s
-            
-            # Get the number of repos on the current page of results.
-            # This will stop the loop if the page is not full.
-            num_repos_on_page=`cat $page_repos | jq ".|length"`
-            
-            if (( $num_repos_on_page != 0 )); then
-                # Append page results to the end of the repo JSON file.
-                # Create an array containing two subarrays: [ [page repos], [total repos] ]
-                # (Place the new page repos before the total repos so they will be retained when unique is done.)
-                (echo '['; cat $page_repos; echo ','; cat $repo_file; echo ']') > $tmpfile
-                # Now merge the two subarrays into a single array.
-                cat $tmpfile | jq ".[0]+.[1]" > $repo_file
-            fi
-            
-        done  # Page done.
+            echo "Searching repos for $date_type:$search_date ..."
+
+            # Scan through each page of search results until a non-full page appears.
+            # Search is limited to 1000 results so stop after page .
+            num_repos_on_page=$page_size
+            for((pg=1;num_repos_on_page==$page_size && pg<11;pg++))
+            do
+
+                # Search Github for the year-month and process the page of results.
+                # This will create an array of JSON objects, one for each repo.
+                # Order the results by stars so we'll always get the most popular repos first
+                # in case we exceed the search limit of 1000 repos.
+                curl -G https://api.github.com/search/repositories \
+                --data-urlencode "q=$search_term in:name,description,topics,readme $date_type:$search_date" \
+                --data-urlencode "per_page=$page_size" \
+                --data-urlencode "page=$pg" \
+                --data-urlencode "sort=stars" \
+                --data-urlencode "order=desc" \
+                -H "Accept: application/vnd.github+json" \
+                2>/dev/null \
+                | jq "
+                        [ \
+                            .items[] | \
+                            { \
+                                repo:.name, \
+                                description, \
+                                owner:.owner.login, \
+                                stars:.stargazers_count, \
+                                forks:.forks_count, \
+                                size, \
+                                created:.created_at, \
+                                updated:.updated_at, \
+                                pushed:.pushed_at, \
+                                url:.html_url, \
+                                id \
+                            } \
+                ]" > $page_repos
+                
+                # Observe rate-limit of Github search (10 searches / minute)
+                sleep 6s
+                
+                # Get the number of repos on the current page of results.
+                # This will stop the loop if the page is not full.
+                num_repos_on_page=`cat $page_repos | jq ".|length"`
+                
+                if (( $num_repos_on_page != 0 )); then
+                    # Append page results to the end of the repo JSON file.
+                    # Create an array containing two subarrays: [ [page repos], [total repos] ]
+                    # (Place the new page repos before the total repos so they will be retained when unique is done.)
+                    (echo '['; cat $page_repos; echo ','; cat $repo_file; echo ']') > $tmpfile
+                    # Now merge the two subarrays into a single array.
+                    cat $tmpfile | jq ".[0]+.[1]" > $repo_file
+                fi
+                
+            done  # Page done.
+        done  # Date type done.
     done  # Month done.
 
     # Reset the start month to 1 for the next year.
