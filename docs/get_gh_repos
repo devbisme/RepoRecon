@@ -71,16 +71,17 @@ do
     do
         
         # Clear the screen and report progress.
-        echo "Gathering $title repos for $y/$m ..."
+        echo "Gathering $title repos for $y-$m ..."
         
         # Search for repos created in this month-year.
         search_date="${y}-${m}"
         
         # Do searches for repos based on these different types of dates.
-        # There will always be more updated repos because all the older repos can potentially be updated.
+        # There will always be more pushed repos because all the older repos can potentially be pushed.
         # This could exceed the search limit of 1000 results, so also search based on creation date
         # so that new repos aren't missed (there will be fewer of them).
-        for date_type in created updated
+        # Never use "updated"! It seems to grab a lot of repos without regard to dates.
+        for date_type in created pushed
         do
 
             echo "Searching repos for $date_type:$search_date ..."
