@@ -29,8 +29,8 @@ elif (( $(cat $repo_file | jq '.|length') == 0 )); then
     start_yr=$earliest_start_yr
     start_mo=$earliest_start_mo
 else
-    # If the file has data, then get the start year/month from the most recent (last) repo.
-    last_date=$(cat $repo_file | jq '.[-1].pushed')
+    # If the file has data, then get the start year/month from the most recent repo.
+    last_date=$(cat $repo_file | jq '. | sort_by(.pushed)[-1].pushed')
     # Get the year/month of the most recent repo.
     start_yr=$(echo $last_date | cut -d'-' -f1 | sed 's/^.//')
     start_mo=$(echo $last_date | cut -d'-' -f2 | sed 's/^.//')
