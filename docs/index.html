@@ -2,11 +2,16 @@
 <html>
 <head>
     <title>RepoRecon</title>
+    <meta property="og:title" content="RepoRecon">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Scan through collections of GitHub repositories on various topics.">
+    <meta property="og:image" content="https://devbisme.github.io/RepoRecon/logo.png">
+    <meta property="og:url" content="https://devbisme.github.io/RepoRecon/">
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <h1>RepoRecon <a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a></h1>
+    <h1><img style="vertical-align:middle" id="logo", src="logo.png" alt="RepoRecon">&nbsp;&nbsp;&nbsp;<a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a></h1>
     <h3>Topic:
         <select id="topicSelector" onchange="loadTopic()">
         </select>
