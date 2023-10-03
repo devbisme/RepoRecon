@@ -4,30 +4,46 @@ let sortDirection = {};
 let topicSelector = document.getElementById('topicSelector');
 let topicTitle = document.getElementById("topicTitle");
 
-function rmvQuotes(str) {
-    if (typeof str === 'string' && str.length >= 2 && str[0] === str[str.length-1] && "\"'".includes(str[0])) {
-      return str.slice(1, -1);
+function preprocessParam(param) {
+    function rmvQuotes(str) {
+        if (typeof str === 'string' && str.length >= 2 && str[0] === str[str.length - 1] && "\"'".includes(str[0])) {
+            return str.slice(1, -1);
+        }
+        return str;
     }
-    return str;
-  }
 
-window.onload = function () {
+    return rmvQuotes(decodeURIComponent(param.toLowerCase()));
+}
+
+function getQueryParams() {
     queryParams = new URLSearchParams(window.location.search);
+
+    topic = null;
     if (queryParams.has('topic')) {
         // A topic was specified in the URL query string.
-        topic = rmvQuotes(decodeURIComponent(queryParams.get('topic').toLowerCase()));
-    } else {
-        // No topic was specified in the URL query string.
-        topic = null;
+        topic = preprocessParam(queryParams.get('topic'));
     }
+
+    filterColumn = null;
+    filterExpr = null;
     if (queryParams.has('filter')) {
         // A filter was specified in the URL query string.
-        [filterColumn, filterExpr] = rmvQuotes(decodeURIComponent(queryParams.get('filter').toLowerCase())).split(":", 2);
-    } 
+        filterInput.value = preprocessParam(queryParams.get('filter'));
+        [filterColumn, filterExpr] = preprocessParam(queryParams.get('filter')).split(":", 2);
+    }
+
+    sortColumn = null;
+    sortDir = null;
     if (queryParams.has('sort')) {
         // A column for sorting was specified in the URL query string.
-        [sortColumn, sortDir] = rmvQuotes(decodeURIComponent(queryParams.get('sort').toLowerCase())).split(":", 2);
-    } 
+        [sortColumn, sortDir] = preprocessParam(queryParams.get('sort')).split(":", 2);
+    }
+
+    return [topic, filterColumn, filterExpr, sortColumn, sortDir];
+}
+
+window.onload = function () {
+    [topic, filterColumn, filterExpr, sortColumn, sortDir] = getQueryParams();
     fetch("topics.json")
         .then(response => response.json())
         .then(data => {
@@ -42,37 +58,34 @@ window.onload = function () {
                 option.text = topic.title;
                 topicSelector.appendChild(option);
             });
+            for (let option of topicSelector.options) {
+                if (option.value === topic || option.text.toLowerCase().includes(topic)) {
+                    // Found the topic in the selector.
+                    topicSelector.selectedIndex = option.index;
+                    break;
+                }
+            }
+            loadTopic();
         })
-        .then(_ => {loadTopic(topic);});
 }
 
-function loadTopic(topic=null) {
-    if (topic === null) {
-        // No topic was specified in the URL query string.
-        jsonFile = topicSelector.value;
-        topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
-    } else {
-        // A topic was specified in the URL query string.
-        jsonFile = "";
-        for (let option of topicSelector.options) {
-            if (option.value === topic || option.text.toLowerCase().includes(topic)) {
-                // Found the topic in the selector.
-                topicSelector.selectedIndex = option.index;
-                jsonFile = option.value;
-                topicTitle.textContent = option.text;
-                break;
-            }
-        }
-    }
-    if (jsonFile === "")
+function loadTopic() {
+
+    jsonFile = topicSelector.value;
+    if (jsonFile === "") {
+        topicTitle.textContent = "";
         return;
+    }
+    topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
+
     // Load the rows of Github repo data from the JSON file.
     fetch(jsonFile + '.json')
         .then(response => response.json())
         .then(data => {
             preprocessData(data);
             jsonData = data;
-            showAllRepos(); // New topic so clear repo filter and show all repos.
+            filterTable()
+            // showAllRepos(); // New topic so clear repo filter and show all repos.
         });
 }
 
