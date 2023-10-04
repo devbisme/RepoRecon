@@ -1,9 +1,34 @@
-let jsonData = [];
-let sortDirection = {};
-
+// Elements of the web pageXOffset.
 let topicSelector = document.getElementById('topicSelector');
 let topicTitle = document.getElementById("topicTitle");
+let filterInput = document.getElementById('filterField');
+let numRepos = document.getElementById('numRepos');
 
+// Arrays for storing topic data for display in the table.
+let topicData = [];
+let filteredData = null;
+
+// Column and direction for sorting table data.
+let sortString = null;
+let sortDirection = {};
+
+
+// Find the column index for a given column name.
+function findColumn(column, data = topicData) {
+    col = column.toLowerCase();
+    // Search for a column whose label starts with the given column name.
+    foundCol = null;
+    for (let column of Object.keys(data[0])) {
+        if (column.toLowerCase().startsWith(col)) {
+            // Found one.
+            foundCol = column;
+            break;
+        }
+    }
+    return foundCol;
+}
+
+// Preprocess a parameter from the URL query string.
 function preprocessParam(param) {
     function rmvQuotes(str) {
         if (typeof str === 'string' && str.length >= 2 && str[0] === str[str.length - 1] && "\"'".includes(str[0])) {
@@ -15,6 +40,7 @@ function preprocessParam(param) {
     return rmvQuotes(decodeURIComponent(param.toLowerCase()));
 }
 
+// Get the topic, filter, and sort parameters from the URL query string.
 function getQueryParams() {
     queryParams = new URLSearchParams(window.location.search);
 
@@ -24,69 +50,19 @@ function getQueryParams() {
         topic = preprocessParam(queryParams.get('topic'));
     }
 
-    filterColumn = null;
-    filterExpr = null;
+    filter = null;
     if (queryParams.has('filter')) {
         // A filter was specified in the URL query string.
-        filterInput.value = preprocessParam(queryParams.get('filter'));
-        [filterColumn, filterExpr] = preprocessParam(queryParams.get('filter')).split(":", 2);
+        filter = preprocessParam(queryParams.get('filter'));
     }
 
-    sortColumn = null;
-    sortDir = null;
+    sort = null;
     if (queryParams.has('sort')) {
-        // A column for sorting was specified in the URL query string.
-        [sortColumn, sortDir] = preprocessParam(queryParams.get('sort')).split(":", 2);
+        // A column & direction for sorting was specified in the URL query string.
+        sort = preprocessParam(queryParams.get('sort'));
     }
 
-    return [topic, filterColumn, filterExpr, sortColumn, sortDir];
-}
-
-window.onload = function () {
-    [topic, filterColumn, filterExpr, sortColumn, sortDir] = getQueryParams();
-    fetch("topics.json")
-        .then(response => response.json())
-        .then(data => {
-            let option = document.createElement('option');
-            option.value = "";
-            option.text = "---Select a topic---";
-            topicSelector.appendChild(option);
-            data.forEach((topic, idx) => {
-                // Add a new option to the topic selector.
-                option = document.createElement('option');
-                option.value = topic.JSON_file;
-                option.text = topic.title;
-                topicSelector.appendChild(option);
-            });
-            for (let option of topicSelector.options) {
-                if (option.value === topic || option.text.toLowerCase().includes(topic)) {
-                    // Found the topic in the selector.
-                    topicSelector.selectedIndex = option.index;
-                    break;
-                }
-            }
-            loadTopic();
-        })
-}
-
-function loadTopic() {
-
-    jsonFile = topicSelector.value;
-    if (jsonFile === "") {
-        topicTitle.textContent = "";
-        return;
-    }
-    topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
-
-    // Load the rows of Github repo data from the JSON file.
-    fetch(jsonFile + '.json')
-        .then(response => response.json())
-        .then(data => {
-            preprocessData(data);
-            jsonData = data;
-            filterTable()
-            // showAllRepos(); // New topic so clear repo filter and show all repos.
-        });
+    return [topic, filter, sort];
 }
 
 // Preprocess the rows of data.
@@ -126,14 +102,68 @@ function preprocessData(data) {
     })
 }
 
-function populateTable(data) {
+// *** Called from index.html. ***
+// Load the rows of Github repo data from the JSON file for that topic and display them.
+function loadTopic() {
+
+    jsonFile = topicSelector.value;
+    if (jsonFile === "") {
+        topicTitle.textContent = "";
+        return;
+    }
+    topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
+
+    // Load the rows of Github repo data from the JSON file.
+    fetch(jsonFile + '.json')
+        .then(response => response.json())
+        .then(data => {
+            topicData = data;
+            preprocessData(topicData);
+            filteredData = filterData(topicData)
+            sortData(filteredData, sortString)
+            populateTable(filteredData);
+        });
+}
+
+// When the web page first appears, load the rows of Github repo data from the JSON file and display them.
+window.onload = function () {
+    [topic, filter, sort] = getQueryParams();
+    filterInput.value = filter;
+    sortString = sort;
+    fetch("topics.json")
+        .then(response => response.json())
+        .then(data => {
+            let option = document.createElement('option');
+            option.value = "";
+            option.text = "---Select a topic---";
+            topicSelector.appendChild(option);
+            data.forEach((topic, idx) => {
+                // Add a new option to the topic selector.
+                option = document.createElement('option');
+                option.value = topic.JSON_file;
+                option.text = topic.title;
+                topicSelector.appendChild(option);
+            });
+            for (let option of topicSelector.options) {
+                if (option.value === topic || option.text.toLowerCase().includes(topic)) {
+                    // Found the topic in the selector.
+                    topicSelector.selectedIndex = option.index;
+                    break;
+                }
+            }
+            loadTopic();
+        })
+}
+
+// Populate the table in the web page with the rows of data.
+function populateTable(data = topicData) {
 
     // Creat empty table.
     const table = document.getElementById('dataTable');
     table.innerHTML = '';
 
     // One table column for each field of a row of data.
-    let columns = Object.keys(jsonData[0]); // Get column headers from total data set.
+    let columns = Object.keys(data[0]); // Get column headers from total data set.
 
     // Create header for the table.
     let headerRow = document.createElement('tr');
@@ -212,67 +242,46 @@ function populateTable(data) {
     showRepoCount(); // Show the number of repos in the table.
 }
 
-// Update the progress bar with the progress value between 0..100.
-function updateProgressBar(progress) {
-    bar = $("#progressbar");
-    if (progress < 100) {
-        // Show the progress bar if the progress is less than 100.
-        // This also shows an indeterminate progress bar if progress is Boolean false.
-        bar.show();
-        bar.progressbar("option", "value", progress);
-    }
-    else {
-        // Hide progress bar once progress reaches or exceeds 100.
-        bar.hide();
-    }
-}
-
-// Create an indeterminate progress bar upon page load.
-$("#progressbar").progressbar({
-    value: false
-});
-
-let filteredData = null;
-let filterInput = document.getElementById('filterField');
-
-function filterTable() {
+// Filter the data based on the contents of the filter field.
+function filterData(data = topicData) {
+    filteredData = [...data];
     filterStr = filterInput.value.trim();
 
     if (filterStr === null || filterStr === undefined || filterStr.length === 0) {
         // Filter string is blank so restore all repo data.
         showAllRepos();  // Clear the filter field and show all repo data.
-        return;
+        return filteredData;
     }
 
     // Check filter string syntax.
     if (! /^\w+:(\w+\s*)+$/.test(filterStr)) {
         alert(`Malformed filter: ${filterStr}`);
-        return;
+        return filteredData;
     }
 
-    // Get the column to search in for a space-delimited list of values.
+    // Get the column to search in.
     [col, vals] = filterStr.split(":", 2);
-    col = col.toLowerCase();
-    // Search for a column whose label starts with the given column name.
-    foundCol = null;
-    for (let column of Object.keys(jsonData[0])) {
-        if (column.toLowerCase().startsWith(col)) {
-            // Found one.
-            foundCol = column;
-            break;
-        }
-    }
+    foundCol = findColumn(col, data);
     if (foundCol === null) {
         alert(`No column matches ${col}.`);
-        return;
+        return filteredData;
     }
 
-    // Search for rows containing all the search values.
-    filteredData = [...jsonData]; // Start with all the data rows.
+    // Search for rows where the specified column contains all the search values.
+    filteredData = [...data]; // Start with all the data rows.
     for (val of vals.split(" ")) {
         // Retain only the remaining rows that match the current value in the array of values.
         filteredData = filteredData.filter(row => row[foundCol].toLowerCase().includes(val.toLowerCase()));
     }
+    return filteredData;
+}
+
+// *** Called from index.html. ***
+// Filter the table based on the contents of the filter field.
+function filterTable(data = topicData) {
+
+    // Filter the data based on the contents of the filter field.
+    filteredData = filterData(data);
 
     // Show the rows (if any) that have all the search values.
     populateTable(filteredData);
@@ -286,18 +295,48 @@ filterInput.addEventListener("keypress", function (event) {
     }
 });
 
+// *** Called from index.html. ***
 // Clear the filter field and show all rows of the repo data.
 function showAllRepos() {
     filterInput.placeholder = "Column:Value";
     filterInput.value = "";
     filteredData = null;
-    sortTableDesc(jsonData, "pushed"); // Show *ALL* repos sorted by date of last push, newest at top.
+    sortTableDesc(topicData, "pushed"); // Show *ALL* repos sorted by date of last push, newest at top.
+}
+
+// Sort a table of data based on the contents of a column as specified by column name:direction.
+function sortData(data, sortString) {
+    if (sortString === null || sortString === undefined || sortString.length === 0) {
+        // No sort string so sort by date of last push, newest at top.
+        sortTableDesc(data, "pushed");
+        return;
+    }
+
+    // Check sort string syntax.
+    if (! /^\w+:(asc|desc)$/.test(sortString)) {
+        alert(`Malformed sort: ${sortString}`);
+        return;
+    }
+
+    // Get the column to sort on.
+    [col, dir] = sortString.split(":", 2);
+    foundCol = findColumn(col, data);
+    if (foundCol === null) {
+        alert(`No column matches ${col}.`);
+        return;
+    }
+
+    // Sort the data on the specified column.
+    if (dir === 'asc')
+        data.sort((a, b) => (a[foundCol] > b[foundCol]) ? 1 : -1);
+    else
+        data.sort((a, b) => (a[foundCol] < b[foundCol]) ? 1 : -1);
 }
 
 // Sort the table based on the contents of a column and its sorting button state.
 function sortTable(column) {
     // If the data has been filtered, then sort that. Otherwise, sort all the data.
-    sortData = (filteredData === null) ? jsonData : filteredData;
+    sortData = (filteredData === null) ? topicData : filteredData;
     if (sortDirection[column] === 'asc')
         sortTableAsc(sortData, column);
     else
@@ -320,16 +359,35 @@ function sortTableDesc(data, column) {
     populateTable(sortedData);
 }
 
-numReposField = document.getElementById('numRepos');
-
 // Show the number of repos in the table.
 function showRepoCount() {
     if (filteredData === null)
-        numReposField.textContent = `(${jsonData.length} total repos)`;
+        numRepos.textContent = `(${topicData.length} total repos)`;
     else
-        numReposField.textContent = `(${filteredData.length} filtered repos)`;
+        numRepos.textContent = `(${filteredData.length} filtered repos)`;
 }
 
+// Hide the number of repos in the table.
 function hideRepoCount() {
-    numReposField.textContent = "";
+    numRepos.textContent = "";
 }
+
+// Update the progress bar with the progress value between 0..100.
+function updateProgressBar(progress) {
+    bar = $("#progressbar");
+    if (progress < 100) {
+        // Show the progress bar if the progress is less than 100.
+        // This also shows an indeterminate progress bar if progress is Boolean false.
+        bar.show();
+        bar.progressbar("option", "value", progress);
+    }
+    else {
+        // Hide progress bar once progress reaches or exceeds 100.
+        bar.hide();
+    }
+}
+
+// Create an indeterminate progress bar upon page load.
+$("#progressbar").progressbar({
+    value: false
+});
