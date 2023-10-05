@@ -12,12 +12,15 @@ let filteredData = null;
 let sortString = null;
 let sortDirection = {};
 
+// Unicode arrows for sorting buttons.
+let upArrow = '&#9660;';
+let dwnArrow = '&#9650;';
 
 // Find the column index for a given column name.
 function findColumn(column, data = topicData) {
-    col = column.toLowerCase();
+    let col = column.toLowerCase();
     // Search for a column whose label starts with the given column name.
-    foundCol = null;
+    let foundCol = null;
     for (let column of Object.keys(data[0])) {
         if (column.toLowerCase().startsWith(col)) {
             // Found one.
@@ -42,21 +45,21 @@ function preprocessParam(param) {
 
 // Get the topic, filter, and sort parameters from the URL query string.
 function getQueryParams() {
-    queryParams = new URLSearchParams(window.location.search);
+    let queryParams = new URLSearchParams(window.location.search);
 
-    topic = null;
+    let topic = null;
     if (queryParams.has('topic')) {
         // A topic was specified in the URL query string.
         topic = preprocessParam(queryParams.get('topic'));
     }
 
-    filter = null;
+    let filter = null;
     if (queryParams.has('filter')) {
         // A filter was specified in the URL query string.
         filter = preprocessParam(queryParams.get('filter'));
     }
 
-    sort = null;
+    let sort = null;
     if (queryParams.has('sort')) {
         // A column & direction for sorting was specified in the URL query string.
         sort = preprocessParam(queryParams.get('sort'));
@@ -67,7 +70,7 @@ function getQueryParams() {
 
 // Preprocess the rows of data.
 function preprocessData(data) {
-    columns = Object.keys(data[0]);
+    let columns = Object.keys(data[0]);
     data.forEach((row, idx) => {
         columns.forEach(column => {
 
@@ -85,7 +88,7 @@ function preprocessData(data) {
 
                 case 'pushed':
                     // Split off the time; only keep the Y/M/D.
-                    date = row[column];
+                    let date = row[column];
                     row[column] = date.split("T")[0];
                     break;
 
@@ -106,7 +109,7 @@ function preprocessData(data) {
 // Load the rows of Github repo data from the JSON file for that topic and display them.
 function loadTopic() {
 
-    jsonFile = topicSelector.value;
+    let jsonFile = topicSelector.value;
     if (jsonFile === "") {
         topicTitle.textContent = "";
         return;
@@ -120,8 +123,7 @@ function loadTopic() {
             topicData = data;
             preprocessData(topicData);
             filteredData = filterData(topicData)
-            sortData(filteredData, sortString)
-            populateTable(filteredData);
+            sortTable(sortString)
         });
 }
 
@@ -152,6 +154,7 @@ window.onload = function () {
                 }
             }
             loadTopic();
+            sortString = null;
         })
 }
 
@@ -184,8 +187,9 @@ function populateTable(data = topicData) {
         if (!['repo', 'description'].includes(column)) {
             let div_updwn = document.createElement('div');
             div_updwn.className = "sort-button";
-            div_updwn.innerHTML = '&nbsp;' + (sortDirection[column] === 'asc' ? '&#9660;' : '&#9650;');
-            div_updwn.onclick = function () { sortTable(column); }
+            div_updwn.innerHTML = '&nbsp;' + (sortDirection[column] === 'asc' ? upArrow : dwnArrow);
+            let toggleDirection = sortDirection[column] === 'asc' ? 'desc' : 'asc';
+            div_updwn.onclick = function () { sortTable(column + ":" + toggleDirection); }
             th.appendChild(div_updwn);
         }
 
@@ -245,7 +249,7 @@ function populateTable(data = topicData) {
 // Filter the data based on the contents of the filter field.
 function filterData(data = topicData) {
     filteredData = [...data];
-    filterStr = filterInput.value.trim();
+    let filterStr = filterInput.value.trim();
 
     if (filterStr === null || filterStr === undefined || filterStr.length === 0) {
         // Filter string is blank so restore all repo data.
@@ -301,19 +305,18 @@ function showAllRepos() {
     filterInput.placeholder = "Column:Value";
     filterInput.value = "";
     filteredData = null;
-    sortTableDesc(topicData, "pushed"); // Show *ALL* repos sorted by date of last push, newest at top.
+    sortTable("pushed:desc"); // Show *ALL* repos sorted by date of last push, newest at top.
 }
 
 // Sort a table of data based on the contents of a column as specified by column name:direction.
 function sortData(data, sortString) {
-    if (sortString === null || sortString === undefined || sortString.length === 0) {
+
+    if (sortString === null || sortString === undefined || sortString.length === 0)
         // No sort string so sort by date of last push, newest at top.
-        sortTableDesc(data, "pushed");
-        return;
-    }
+        sortString = "pushed:desc";
 
     // Check sort string syntax.
-    if (! /^\w+:(asc|desc)$/.test(sortString)) {
+    if (! /^\w+:(a|d)\w*\s*$/.test(sortString)) {
         alert(`Malformed sort: ${sortString}`);
         return;
     }
@@ -327,37 +330,42 @@ function sortData(data, sortString) {
     }
 
     // Sort the data on the specified column.
-    if (dir === 'asc')
+    if (dir.startsWith("a")) {
+        // Ascending values as they go downward in the table.
         data.sort((a, b) => (a[foundCol] > b[foundCol]) ? 1 : -1);
-    else
+        sortDirection[foundCol] = "desc";
+    }
+    else {
+        // Descending values as they go downward in the table.
         data.sort((a, b) => (a[foundCol] < b[foundCol]) ? 1 : -1);
+        sortDirection[foundCol] = "asc";
+    }
 }
 
+// *** Called from column header injected into table in index.html. ***
 // Sort the table based on the contents of a column and its sorting button state.
-function sortTable(column) {
+function sortTable(sortString) {
     // If the data has been filtered, then sort that. Otherwise, sort all the data.
-    sortData = (filteredData === null) ? topicData : filteredData;
-    if (sortDirection[column] === 'asc')
-        sortTableAsc(sortData, column);
-    else
-        sortTableDesc(sortData, column);
+    data = (filteredData === null) ? topicData : filteredData;
+    sortData(data, sortString);
+    populateTable(data);
 }
 
-// Sort data into ascending values as it goes downward in the table.
-function sortTableAsc(data, column) {
-    let sortedData = [...data];
-    sortedData.sort((a, b) => (a[column] > b[column]) ? 1 : -1);
-    sortDirection[column] = 'desc';
-    populateTable(sortedData);
-}
+// // Sort data into ascending values as it goes downward in the table.
+// function sortTableAsc(data, column) {
+//     let sortedData = [...data];
+//     sortedData.sort((a, b) => (a[column] > b[column]) ? 1 : -1);
+//     sortDirection[column] = 'desc';
+//     populateTable(sortedData);
+// }
 
-// Sort data into descending values as it goes downward in the table.
-function sortTableDesc(data, column) {
-    let sortedData = [...data];
-    sortedData.sort((a, b) => (a[column] < b[column]) ? 1 : -1);
-    sortDirection[column] = 'asc';
-    populateTable(sortedData);
-}
+// // Sort data into descending values as it goes downward in the table.
+// function sortTableDesc(data, column) {
+//     let sortedData = [...data];
+//     sortedData.sort((a, b) => (a[column] < b[column]) ? 1 : -1);
+//     sortDirection[column] = 'asc';
+//     populateTable(sortedData);
+// }
 
 // Show the number of repos in the table.
 function showRepoCount() {
@@ -374,7 +382,7 @@ function hideRepoCount() {
 
 // Update the progress bar with the progress value between 0..100.
 function updateProgressBar(progress) {
-    bar = $("#progressbar");
+    let bar = $("#progressbar");
     if (progress < 100) {
         // Show the progress bar if the progress is less than 100.
         // This also shows an indeterminate progress bar if progress is Boolean false.
