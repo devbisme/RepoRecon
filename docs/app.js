@@ -120,7 +120,7 @@ function loadTopic() {
     fetch(jsonFile + '.json')
         .then(response => response.json())
         .then(data => {
-            topicData = data;
+            topicData = [...data];
             preprocessData(topicData);
             filteredData = filterData(topicData)
             sortTable(sortString)
@@ -399,3 +399,16 @@ function updateProgressBar(progress) {
 $("#progressbar").progressbar({
     value: false
 });
+
+
+function topicCallback(){
+    ;
+}
+
+function filterCallback(){
+    ;
+}
+
+function clearFilterCallback(){
+    ;
+}
