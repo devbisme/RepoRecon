@@ -13,23 +13,23 @@ let sortString = null;
 let sortDirection = {};
 
 // Unicode arrows for sorting buttons.
-let upArrow = '&#9660;';
-let dwnArrow = '&#9650;';
-
-// Find the column index for a given column name.
-function findColumn(column, data = topicData) {
-    let col = column.toLowerCase();
-    // Search for a column whose label starts with the given column name.
-    let foundCol = null;
-    for (let column of Object.keys(data[0])) {
-        if (column.toLowerCase().startsWith(col)) {
-            // Found one.
-            foundCol = column;
-            break;
-        }
-    }
-    return foundCol;
-}
+let upArrow = '&#9650;';
+let dwnArrow = '&#9660;';
+let updwnArrow = '&#11021;';
+let sortIndicator = {
+    'asc': upArrow,
+    'desc': dwnArrow,
+    'none': updwnArrow,
+    null: updwnArrow,
+    undefined: updwnArrow
+};
+let nextSortDirection = {
+    'asc': 'desc',
+    'desc': 'asc',
+    'none': 'desc',
+    null: 'desc',
+    undefined: 'desc'
+};
 
 // Create an indeterminate progress bar upon page load.
 $("#progressbar").progressbar({
@@ -51,7 +51,7 @@ function updateProgressBar(progress) {
     }
 }
 
-// Populate the table in the web page with the rows of data.
+// Populate the table in the web page with the rows of topic data.
 function populateTable(data) {
 
     // Create empty table.
@@ -91,10 +91,10 @@ function populateTable(data) {
         if (!['repo', 'description'].includes(column)) {
             let div_updwn = document.createElement('div');
             div_updwn.className = "sort-button";
-            div_updwn.innerHTML = '&nbsp;' + (sortDirection[column] === 'asc' ? upArrow : dwnArrow);
-            // let toggleDirection = sortDirection[column] === 'asc' ? 'desc' : 'asc';
-            let toggleDirection = sortDirection[column] === 'asc' ? 'asc' : 'desc';
-            div_updwn.onclick = makeColumnSortFunction(column, toggleDirection);
+            div_updwn.innerHTML = '&nbsp;' + sortIndicator[sortDirection[column]];
+            // div_updwn.innerHTML = '&nbsp;' + (sortDirection[column] === 'asc' ? upArrow : dwnArrow);
+            // let direction = sortDirection in ['asc', 'desc'] ? sortDirection : 'desc';
+            div_updwn.onclick = makeColumnSortFunction(column, nextSortDirection[sortDirection[column]]);
             th.appendChild(div_updwn);
         }
 
@@ -158,8 +158,23 @@ function showRepoCount(data) {
     numRepos.textContent = `(${data.length} repos shown)`;
 }
 
+// Find the column index for a given column name.
+function findColumn(column, data) {
+    let col = column.toLowerCase();
+    // Search for a column whose label starts with the given column name.
+    let foundCol = null;
+    for (let column of Object.keys(data[0])) {
+        if (column.toLowerCase().startsWith(col)) {
+            // Found one.
+            foundCol = column;
+            break;
+        }
+    }
+    return foundCol;
+}
+
 // Filter the data based on the contents of the filter field.
-function filterData(data = topicData) {
+function filterData(data) {
     tableData = [...data];
     let filterStr = filterInput.value.trim();
 
@@ -201,13 +216,13 @@ filterInput.addEventListener("keypress", function (event) {
 
 // Sort a table of data based on the contents of a column as specified by column name:direction.
 function sortData(data, sortString) {
-
-    console.log(`sortString: ${sortString}`);
-
+    
     if (data === null || data === undefined || data.length === 0) {
         // No data to sort.
         return;
     }
+    
+    clearSortDirections(data);
 
     if (sortString === null || sortString === undefined || sortString.length === 0)
         // No sort string so sort by date of last push, newest at top.
@@ -231,12 +246,12 @@ function sortData(data, sortString) {
     if (dir.startsWith("a")) {
         // Ascending values as they go downward in the table.
         data.sort((a, b) => (a[foundCol] > b[foundCol]) ? 1 : -1);
-        sortDirection[foundCol] = "desc";
+        sortDirection[foundCol] = "asc";
     }
     else {
         // Descending values as they go downward in the table.
         data.sort((a, b) => (a[foundCol] < b[foundCol]) ? 1 : -1);
-        sortDirection[foundCol] = "asc";
+        sortDirection[foundCol] = "desc";
     }
 }
 
@@ -247,9 +262,21 @@ function sortTable(sortString) {
     populateTable(tableData);
 }
 
+// Clear sort directions for all columns of data.
+function clearSortDirections(data) {
+    let columns = Object.keys(data[0]);
+    for (column of columns) {
+        sortDirection[column] = "none";
+    }
+}
+
 // Preprocess the rows of data.
 function preprocessData(data) {
+
+    // Look at the keys of the first row of data to get the names of the table columns.
     let columns = Object.keys(data[0]);
+
+    // Process each row of data, column by column.
     data.forEach((row, idx) => {
         columns.forEach(column => {
 
@@ -299,6 +326,7 @@ function loadTopic() {
         .then(response => response.json())
         .then(data => {
             topicData = [...data];
+            clearSortDirections(topicData);
             preprocessData(topicData);
             tableData = filterData(topicData)
             sortTable(sortString)
@@ -374,17 +402,24 @@ function getQueryParams() {
 
 // When the web page first appears, load the rows of Github repo data from the JSON file and display them.
 window.onload = function () {
+
+    // Get the topic, filter, and sort parameters from the URL query string.
     let [topic, filter, sort] = getQueryParams();
-    console.log(`topic: ${topic}, filter: ${filter}, sort: ${sort}`)
     filterInput.value = filter;
     sortString = sort;
+
+    // Fetch the available topics, add them to the topic selector, and then load data for the selected topic.
     fetch("topics.json")
         .then(response => response.json())
         .then(data => {
+
+            // Add a blank option to the topic selector.
             let option = document.createElement('option');
             option.value = "";
             option.text = "---Select a topic---";
             topicSelector.appendChild(option);
+
+            // Add each topic to the topic selector.
             data.forEach((topic, idx) => {
                 // Add a new option to the topic selector.
                 option = document.createElement('option');
@@ -392,6 +427,8 @@ window.onload = function () {
                 option.text = topic.title;
                 topicSelector.appendChild(option);
             });
+
+            // Select the topic specified in the URL query string.            
             for (let option of topicSelector.options) {
                 if (option.value === topic || option.text.toLowerCase().includes(topic)) {
                     // Found the topic in the selector.
@@ -399,6 +436,8 @@ window.onload = function () {
                     break;
                 }
             }
+
+            // Load the data for the selected topic.
             loadTopic();
         })
 }
