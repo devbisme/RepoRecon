@@ -33,7 +33,7 @@ else
     last_date=$(cat $repo_file | jq '. | sort_by(.pushed)[-1].pushed')
     # Get the year/month of the most recent repo.
     start_yr=$(echo $last_date | cut -d'-' -f1 | sed 's/^.//')
-    start_mo=$(echo $last_date | cut -d'-' -f2 | sed 's/^.//')
+    start_mo=$(echo $last_date | cut -d'-' -f2)
     # Default start year/month if JSON file is empty.
     if [ -z "$start_yr" ]; then
         start_yr=$earliest_start_yr
