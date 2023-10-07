@@ -18,14 +18,14 @@
 <body>
     <h1><img style="vertical-align:middle" id="logo", src="logo.png" alt="RepoRecon">&nbsp;&nbsp;&nbsp;<a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a></h1>
     <h3>Topic:
-        <select id="topicSelector" onchange="loadTopic()">
+        <select id="topicSelector" onchange="topicCallback()">
         </select>
     </h3>
     <h2><div id="topicTitle"></div> Repositories &nbsp;<div id="numRepos"></div> &nbsp;&nbsp; <div id="progressbar"></div></h2>
     <div id="filterDiv">
         <input type="text" id="filterField" placeholder="Column:Value">
-        <button id="filterButton", onclick="filterTable()">Filter</button>
-        <button id="clearFilterButton", onclick="showAllRepos()">Clear</button>
+        <button id="filterButton", onclick="filterCallback()">Filter</button>
+        <button id="clearFilterButton", onclick="clearFilterCallback()">Clear</button>
     </div>
     <div class="table-container">
         <table id="dataTable">
