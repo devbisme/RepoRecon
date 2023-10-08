@@ -25,6 +25,20 @@ If you want to modify the list of topics for collecting repositories, do this:
 2. Run the `recon_repos` script. (This will take some time if you add a new topic.)
 3. Refresh your web browser page.
 
+If you want to create a link that displays a table of collected repositories on a specific topic,
+you can attach *query parameters* to the RepoRecon link like so:
+```
+devbisme.github.io/RepoRecon?topic=kicad&filter=desc:raspberry&sort=stars:desc
+```
+The link above will display a table of KiCad repositories that have the string `raspberry` in their
+descriptions starting with the most starred repositories.
+The `topic` parameter must specify a string that matches a substring within the list of topics.
+The `filter` and `sort` parameters each start with a label that matches the beginning of
+one of the following table column names: `description`, `owner`, `stars`, `forks`, `size`, `pushed`.
+For the `filter` parameter, the column label is followed with a colon and a string to search for.
+For the `sort` parameter, the column label is followed by `asc` or `desc` to sort the table entries
+by the contents of the specified column in ascending or descending order going downwards.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
