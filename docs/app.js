@@ -1,8 +1,10 @@
-// Elements of the web pageXOffset.
+// Elements of the web page.
 let topicSelector = document.getElementById('topicSelector');
 let topicTitle = document.getElementById("topicTitle");
 let filterInput = document.getElementById('filterField');
 let numRepos = document.getElementById('numRepos');
+
+let repoTable = null;
 
 // Arrays for storing topic data for display in the table.
 let topicData = [];
@@ -53,6 +55,33 @@ function updateProgressBar(progress) {
 
 // Populate the table in the web page with the rows of topic data.
 function populateTable(data) {
+
+    if(repoTable !== null && repoTable !== undefined) {
+        repoTable.destroy();
+    }
+
+    repoTable = new DataTable('#dataTable', {
+        data: data,
+            "language": {
+                "processing": "DataTables is currently busy"
+            },
+            columns: [
+                { className: 'repo', data: 'repo', title: 'Repo' },
+                { className: 'description', data: 'description', title: 'Description' },
+                { className: 'owner', data: 'owner', title: 'Owner' },
+                { className: 'stars', data: 'stars', title: 'Stars' },
+                { className: 'forks', data: 'forks', title: 'Forks' },
+                { className: 'size', data: 'size', title: 'Size' },
+                { className: 'date', data: 'pushed', title: 'Pushed' }
+            ],
+            order: [[6, 'desc']]
+    });
+
+    // Show the number of repos in the table.
+    showRepoCount(data);
+
+    return;
+
 
     // Create empty table.
     const table = document.getElementById('dataTable');
