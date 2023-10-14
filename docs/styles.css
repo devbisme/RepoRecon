@@ -42,7 +42,7 @@ h1 {
 
 #dataTable {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
-    width: 100%;
+    width: 100% !important;
     table-layout: fixed;
 }
 
@@ -54,15 +54,23 @@ h1 {
     z-index: 10;
 }
 
-.repo {
-    width: 20%;
+th.repo {
+    width: 20% !important;
+}
+
+td.repo {
+    width: 20% !important;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;    
 }
 
-.description {
-    /* width: 45%; */
+th.description {
+    width: 45% !important;
+}
+
+td.description {
+    width: 45% !important;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 10;
@@ -70,21 +78,34 @@ h1 {
     overflow: hidden;
 }
 
-.owner {
-    width: 10%;
+th.owner {
+    width: 10% !important;
+}
+
+td.owner {
+    width: 10% !important;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;    
 }
 
-.stars, .forks, .size {
-    text-align: right;
-    width: 5%;
+th.stars, th.forks, th.size {
+    width: 5% !important;
 }
 
-.updated {
+td.stars, td.forks, td.size {
+    text-align: right;
+    width: 5% !important;
+}
+
+th.date {
     text-align: center;
-    width: 10%;
+    width: 10% !important;
+}
+
+td.date {
+    text-align: center;
+    width: 10% !important;
 }
 
 th, td {
@@ -106,16 +127,16 @@ th {
     display: inline-block;
 }
 
-.odd-row {
-    background-color: #f2f2f2;
+.odd, .odd-row {
+    background-color: #f2f2f2 !important;
 }
 
-.even-row {
-    background-color: #a8ecb8;
+.even, .even-row {
+    background-color: #a8ecb8 !important;
 }
 
 tr:hover {
-    background-color: #a5d7fe;
+    background-color: #a5d7fe !important;
 }
 
 div.sort-button:hover {

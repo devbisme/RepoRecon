@@ -14,7 +14,11 @@
     <meta name="twitter:url" content="https://devbisme.github.io/RepoRecon/">
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+  
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script>
+    </head>
 <body>
     <h1><img style="vertical-align:middle" id="logo", src="logo.png" alt="RepoRecon">&nbsp;&nbsp;&nbsp;<a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a></h1>
     <h3>Topic:
@@ -28,13 +32,13 @@
         <button id="clearFilterButton", onclick="clearFilterCallback()">Clear</button>
     </div>
     <div class="table-container">
-        <table id="dataTable">
+        <table id="dataTable" class="hover cell-border order-column">
             <thead></thead>
             <tbody class="scrollable-body"></tbody>
         </table>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <!-- <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script> -->
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     <script src="app.js"></script>
 </body>
