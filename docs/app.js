@@ -5,6 +5,8 @@ let filterInput = document.getElementById('filterField');
 let numRepos = document.getElementById('numRepos');
 
 let repoTable = null;
+let searchColumn = "description";
+let searchValue = "";
 
 // Arrays for storing topic data for display in the table.
 let topicData = [];
@@ -55,31 +57,38 @@ function updateProgressBar(progress) {
 
 // Populate the table in the web page with the rows of topic data.
 function populateTable(data) {
-
-    if(repoTable !== null && repoTable !== undefined) {
+    
+    if (repoTable !== null && repoTable !== undefined) {
         repoTable.destroy();
     }
 
+    searchable = { 'repo': true, 'description': true, 'owner': true, 'stars': true, 'forks': true, 'size': true, 'pushed': true };
+    if (searchValue !== "") {
+        for (key of Object.keys(searchable)) {
+            searchable[key] = false;
+        }
+        searchable[searchColumn] = true;
+    }
+
     repoTable = new DataTable('#dataTable', {
+        "search": { "search": searchValue },
+        scrollX: false,
         data: data,
-            "language": {
-                "processing": "DataTables is currently busy"
-            },
-            columns: [
-                { className: 'repo', data: 'repo', title: 'Repo' },
-                { className: 'description', data: 'description', title: 'Description' },
-                { className: 'owner', data: 'owner', title: 'Owner' },
-                { className: 'stars', data: 'stars', title: 'Stars' },
-                { className: 'forks', data: 'forks', title: 'Forks' },
-                { className: 'size', data: 'size', title: 'Size' },
-                { className: 'date', data: 'pushed', title: 'Pushed' }
-            ],
-            order: [[6, 'desc']]
+        columns: [
+            { className: 'repo', data: 'repo', title: 'Repo', "width": '25%', "searchable": searchable['repo'] },
+            { className: 'description', data: 'description', title: 'Description', "width": '40%', "searchable": searchable['description'] },
+            { className: 'owner', data: 'owner', title: 'Owner', "width": '10%', "searchable": searchable['owner'] },
+            { className: 'stars', data: 'stars', title: 'Stars', "width": '5%', "searchable": searchable['stars'] },
+            { className: 'forks', data: 'forks', title: 'Forks', "width": '5%', "searchable": searchable['forks'] },
+            { className: 'size', data: 'size', title: 'Size', "width": '5%', "searchable": searchable['size'] },
+            { className: 'date', data: 'pushed', title: 'Pushed', "width": '10%', "searchable": searchable['pushed'] }
+        ],
+        order: [[6, 'desc']]
     });
 
     // Show the number of repos in the table.
-    showRepoCount(data);
-
+    showRepoCount(repoTable);
+    
     return;
 
 
@@ -183,8 +192,8 @@ function populateTable(data) {
 }
 
 // Show the number of repos in the table.
-function showRepoCount(data) {
-    numRepos.textContent = `(${data.length} repos shown)`;
+function showRepoCount(repoTable) {
+    numRepos.textContent = `(${repoTable.rows({search:"applied"}).count()} repos shown)`;
 }
 
 // Find the column index for a given column name.
@@ -225,6 +234,9 @@ function filterData(data) {
         alert(`No column matches ${col}.`);
         return tableData;
     }
+    searchColumn = foundCol;
+    searchValue = vals;
+    return tableData;
 
     // Search for rows where the specified column contains all the search values.
     tableData = [...data]; // Start with all the data rows.
@@ -245,12 +257,12 @@ filterInput.addEventListener("keypress", function (event) {
 
 // Sort a table of data based on the contents of a column as specified by column name:direction.
 function sortData(data, sortString) {
-    
+
     if (data === null || data === undefined || data.length === 0) {
         // No data to sort.
         return;
     }
-    
+
     clearSortDirections(data);
 
     if (sortString === null || sortString === undefined || sortString.length === 0)
@@ -358,12 +370,13 @@ function loadTopic() {
             clearSortDirections(topicData);
             preprocessData(topicData);
             tableData = filterData(topicData)
+            // showRepoCount(tableData);
             sortTable(sortString)
         });
 }
 
 // Clear filter so all data will be shown in table.
-function clearFilter(){
+function clearFilter() {
     filterInput.placeholder = "Column:Value";
     filterInput.value = "";
     tableData = [];
@@ -371,14 +384,14 @@ function clearFilter(){
 
 // *** Called from index.html. ***
 // The filter button was clicked, so extract any topic data matching the filter string and display it in the table.
-function filterCallback(){
+function filterCallback() {
     tableData = filterData(topicData);
     sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
 }
 
 // *** Called from index.html. ***
 // The clear filter button was clicked.
-function clearFilterCallback(){
+function clearFilterCallback() {
     clearFilter();
     tableData = [...topicData]; // Clearing filter causes all topic data to be shown.
     sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
@@ -386,7 +399,7 @@ function clearFilterCallback(){
 
 // *** Called from index.html. ***
 // A topic has been selected from the topic selector, so display that topic's data.
-function topicCallback(){
+function topicCallback() {
     clearFilter();  // New topic, so clear any existing filter.
     sortString = "pushed:desc"; // New topic so use default sorting by last push date, newest at top.
     loadTopic(); // Load the rows of Github repo data from the JSON file for that topic, filter and sort them, and then display the table.
