@@ -1,4 +1,6 @@
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
 }
 
@@ -31,19 +33,31 @@ h1 {
     font-style: italic;
 }
 
-#progressbar > div {
+#progressbar>div {
     background: #a8ecb8;
 }
 
-.dataTables_length, .dataTables_filter, #dataTable_paginate {
+#filterDiv,
+.dataTables_length,
+.dataTables_filter,
+#dataTable_paginate {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#filterDiv {
+    /* display: inline-block; */
+    text-align: right;
+    padding-bottom: 10px;
+}
+
+#dataTable_info {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
     font-style: italic;
 }
 
 #dataTable {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
-    /* width: 100% !important; */
-    /* table-layout: fixed; */
 }
 
 #dataTable thead {
@@ -74,7 +88,12 @@ td.owner {
     /* white-space: nowrap;     */
 }
 
-th.stars, th.forks, th.size, td.stars, td.forks, td.size {
+th.stars,
+th.forks,
+th.size,
+td.stars,
+td.forks,
+td.size {
     text-align: right !important;
 }
 
@@ -86,36 +105,32 @@ td.date {
     text-align: center;
 }
 
-/*
-th, td {
-    padding: 8px;
-    border-bottom: 1px solid #ddd;
-}
-*/
 th {
-    background-color: #f2f2f2;
-    position: sticky;
-    top: 0;
+    color: white;
+    background-color: #0044aa;
+    border: 1px solid #fff;
+    /* background-color: #f2f2f2; */
 }
 
-.column, .sort-button {
-    display: inline-block;
-}
 
-#filterDiv {
-    display: inline-block;
-}
-
-.odd, .odd-row {
+.odd,
+.odd-row {
     background-color: #f2f2f2 !important;
 }
 
-.even, .even-row {
-    background-color: #a8ecb8 !important;
+.even,
+.even-row {
+    background-color: #ffccaa !important;
+    /* background-color: #a8ecb8 !important; */
 }
 
 tr:hover {
     background-color: #a5d7fe !important;
+}
+
+.column,
+.sort-button {
+    display: inline-block;
 }
 
 div.sort-button:hover {

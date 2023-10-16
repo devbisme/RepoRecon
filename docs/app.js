@@ -5,8 +5,6 @@ let filterInput = document.getElementById('filterField');
 let numRepos = document.getElementById('numRepos');
 
 let repoTable = null;
-let searchColumn = "description";
-let searchValue = "";
 
 // Arrays for storing topic data for display in the table.
 let topicData = [];
@@ -57,38 +55,35 @@ function updateProgressBar(progress) {
 
 // Populate the table in the web page with the rows of topic data.
 function populateTable(data) {
-    
+
+    // Show the number of repos in the table.
+    showRepoCount(data);
+
     if (repoTable !== null && repoTable !== undefined) {
         repoTable.destroy();
     }
 
-    searchable = { 'repo': true, 'description': true, 'owner': true, 'stars': true, 'forks': true, 'size': true, 'pushed': true };
-    if (searchValue !== "") {
-        for (key of Object.keys(searchable)) {
-            searchable[key] = false;
-        }
-        searchable[searchColumn] = true;
+    let columnDefs = [
+        { className: 'repo', data: 'repo', title: 'Repo', "width": '25%' },
+        { className: 'description', data: 'description', title: 'Description', "width": '40%' },
+        { className: 'owner', data: 'owner', title: 'Owner', "width": '10%' },
+        { className: 'stars', data: 'stars', title: 'Stars', "width": '5%' },
+        { className: 'forks', data: 'forks', title: 'Forks', "width": '5%' },
+        { className: 'size', data: 'size', title: 'Size', "width": '5%' },
+        { className: 'date', data: 'pushed', title: 'Pushed', "width": '10%' }
+    ];
+
+    function columnNameToIndex(name) {
+        return columnDefs.findIndex((col) => col.className === name);
     }
 
     repoTable = new DataTable('#dataTable', {
-        "search": { "search": searchValue },
         scrollX: false,
         data: data,
-        columns: [
-            { className: 'repo', data: 'repo', title: 'Repo', "width": '25%', "searchable": searchable['repo'] },
-            { className: 'description', data: 'description', title: 'Description', "width": '40%', "searchable": searchable['description'] },
-            { className: 'owner', data: 'owner', title: 'Owner', "width": '10%', "searchable": searchable['owner'] },
-            { className: 'stars', data: 'stars', title: 'Stars', "width": '5%', "searchable": searchable['stars'] },
-            { className: 'forks', data: 'forks', title: 'Forks', "width": '5%', "searchable": searchable['forks'] },
-            { className: 'size', data: 'size', title: 'Size', "width": '5%', "searchable": searchable['size'] },
-            { className: 'date', data: 'pushed', title: 'Pushed', "width": '10%', "searchable": searchable['pushed'] }
-        ],
-        order: [[6, 'desc']]
+        columns: columnDefs,
+        order: [[columnNameToIndex('date'), 'desc']]
     });
 
-    // Show the number of repos in the table.
-    showRepoCount(repoTable);
-    
     return;
 
 
@@ -192,8 +187,8 @@ function populateTable(data) {
 }
 
 // Show the number of repos in the table.
-function showRepoCount(repoTable) {
-    numRepos.textContent = `(${repoTable.rows({search:"applied"}).count()} repos shown)`;
+function showRepoCount(data) {
+    numRepos.textContent = `(${data.length} repos)`;
 }
 
 // Find the column index for a given column name.
@@ -234,9 +229,6 @@ function filterData(data) {
         alert(`No column matches ${col}.`);
         return tableData;
     }
-    searchColumn = foundCol;
-    searchValue = vals;
-    return tableData;
 
     // Search for rows where the specified column contains all the search values.
     tableData = [...data]; // Start with all the data rows.
@@ -247,11 +239,18 @@ function filterData(data) {
     return tableData;
 }
 
-// Initiate filtering if return/enter key is pressed.
-filterInput.addEventListener("keypress", function (event) {
-    if (event.key === "Enter") {
-        event.preventDefault();
-        document.getElementById("filterButton").click();
+filterInput.addEventListener("search", function (event) {
+    filterString = filterInput.value;
+    if (filterString.length === 0) {
+        // Clear filtering if the "X" in the filter field is clicked or the field is empty.
+        clearFilter();
+        tableData = [...topicData]; // Clearing filter causes all topic data to be shown.
+        sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
+    }
+    else{
+        // Filter the table based on the contents of the non-empty filter field.
+        tableData = filterData(topicData);
+        sortTable(sortString);
     }
 });
 
@@ -377,7 +376,6 @@ function loadTopic() {
 
 // Clear filter so all data will be shown in table.
 function clearFilter() {
-    filterInput.placeholder = "Column:Value";
     filterInput.value = "";
     tableData = [];
 }

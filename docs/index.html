@@ -28,9 +28,8 @@
     </h3>
     <h2><div id="topicTitle"></div> Repositories &nbsp;<div id="numRepos"></div> &nbsp;&nbsp; <div id="progressbar"></div></h2>
     <div id="filterDiv">
-        <input type="text" id="filterField" placeholder="Column:Value">
-        <button id="filterButton", onclick="filterCallback()">Filter</button>
-        <button id="clearFilterButton", onclick="clearFilterCallback()">Clear</button>
+        <label for="filterField">Filter:</label>
+        <input type="search" id="filterField" placeholder="Column:Value <Enter>">
     </div>
 
     <table id="dataTable" class="hover cell-border order-column"></table>
