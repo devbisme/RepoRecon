@@ -21,15 +21,29 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     </head>
 <body>
-    <h1><img style="vertical-align:middle" id="logo", src="logo.png" alt="RepoRecon">&nbsp;&nbsp;&nbsp;<a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a></h1>
-    <h3>Topic:
-        <select id="topicSelector" onchange="topicCallback()">
-        </select>
-    </h3>
-    <h2><div id="topicTitle"></div> Repositories &nbsp;<div id="numRepos"></div> &nbsp;&nbsp; <div id="progressbar"></div></h2>
-    <div id="filterDiv">
-        <label for="filterField">Filter:</label>
-        <input type="search" id="filterField" placeholder="Column:Value <Enter>">
+    <div id="waiting" style="display:none;">
+        <img src="animated_hourglass.gif" alt="Loading..." width="75px">
+    </div>
+  
+    <div style="padding-bottom: 20px;">
+        <img style="vertical-align:middle; background-color: rgba(0, 0, 0, 0);" id="logo", src="logo.png" alt="RepoRecon">
+        &nbsp;&nbsp;&nbsp;
+        <a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a>
+    </div>
+    <div id="topicFilterDiv" style="display:flex; justify-content:space-between;">
+        <div id="topicSelectorDiv" style="text-align:left;">
+            <label id="topicSelectorLabel" for="topicSelector">Topic:</label>
+            <select id="topicSelector" onchange="topicCallback()"></select>
+        </div>
+        <div id="topicTitleDiv" style="text-align:center">
+            <div id="topicTitle"></div>
+            Repositories
+            <div id="numRepos"></div>
+        </div>
+        <div id="filterDiv" style="text-align:right;">
+            <label for="filterField">Filter:</label>
+            <input type="search" id="filterField" placeholder="Column:Value <Enter>">
+        </div>
     </div>
 
     <table id="dataTable" class="hover cell-border order-column"></table>

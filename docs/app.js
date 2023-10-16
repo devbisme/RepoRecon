@@ -33,24 +33,14 @@ let nextSortDirection = {
     undefined: 'desc'
 };
 
-// Create an indeterminate progress bar upon page load.
-$("#progressbar").progressbar({
-    value: false
-});
+function show_waiting() {
+    console.log("show_waiting");
+    document.getElementById("waiting").style.display = "block";
+}
 
-// Update the progress bar with the progress value between 0..100.
-function updateProgressBar(progress) {
-    let bar = $("#progressbar");
-    if (progress < 100) {
-        // Show the progress bar if the progress is less than 100.
-        // This also shows an indeterminate progress bar if progress is Boolean false.
-        bar.show();
-        bar.progressbar("option", "value", progress);
-    }
-    else {
-        // Hide progress bar once progress reaches or exceeds 100.
-        bar.hide();
-    }
+function hide_waiting() {
+    console.log("hide_waiting");
+    document.getElementById("waiting").style.display = "none";
 }
 
 // Populate the table in the web page with the rows of topic data.
@@ -83,6 +73,8 @@ function populateTable(data) {
         columns: columnDefs,
         order: [[columnNameToIndex('date'), 'desc']]
     });
+
+    hide_waiting();
 
     return;
 
@@ -208,6 +200,7 @@ function findColumn(column, data) {
 
 // Filter the data based on the contents of the filter field.
 function filterData(data) {
+
     tableData = [...data];
     let filterStr = filterInput.value.trim();
 
@@ -236,10 +229,12 @@ function filterData(data) {
         // Retain only the remaining rows that match the current value in the array of values.
         tableData = tableData.filter(row => row[foundCol].toLowerCase().includes(val.toLowerCase()));
     }
+
     return tableData;
 }
 
 filterInput.addEventListener("search", function (event) {
+    show_waiting();
     filterString = filterInput.value;
     if (filterString.length === 0) {
         // Clear filtering if the "X" in the filter field is clicked or the field is empty.
@@ -359,6 +354,9 @@ function loadTopic() {
         topicTitle.textContent = "";
         return;
     }
+
+    show_waiting();
+
     topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
 
     // Load the rows of Github repo data from the JSON file.
