@@ -34,57 +34,36 @@ let nextSortDirection = {
     undefined: 'desc'
 };
 
-let async_flag = true;
+// Column definitions for DataTables.
+let columnDefs = [
+    { className: 'repo', data: 'repo', title: 'Repo', "width": '25%' },
+    { className: 'description', data: 'description', title: 'Description', "width": '40%' },
+    { className: 'owner', data: 'owner', title: 'Owner', "width": '10%' },
+    { className: 'stars', data: 'stars', title: 'Stars', "width": '5%' },
+    { className: 'forks', data: 'forks', title: 'Forks', "width": '5%' },
+    { className: 'size', data: 'size', title: 'Size', "width": '5%' },
+    { className: 'pushed', data: 'pushed', title: 'Pushed', "width": '10%' }
+];
+
 function async_run(f) {
-    if (async_flag) {
-        f();
-        flag = false;
-        setTimeout(async_run, 0);
-    }
-    return;
+    setTimeout(f, 0);
 }
 
+function show() {
+    document.getElementById('waiting').style.display = "block";
+    // hourglass.style.display = "block";
+}
 function show_waiting() {
-    async_flag = true;
-    function show() {
-        hourglass.style.display = "block";
-    }
     async_run(show);
 }
 
+function hide() {
+    document.getElementById('waiting').style.display = "none";
+    // hourglass.style.display = "none";
+}
 function hide_waiting() {
-    async_flag = true;
-    function hide() {
-        hourglass.style.display = "none";
-    }
     async_run(hide);
 }
-
-// function checkSortString(sortString) {
-
-//     if (sortString === null || sortString === undefined || sortString.length === 0)
-//         // No sort string so sort by date of last push, newest at top.
-//         sortString = "pushed:desc";
-
-//     // Check sort string syntax.
-//     if (! /^\w+:(a|d)\w*\s*$/.test(sortString)) {
-//         alert(`Malformed sort: ${sortString}`);
-//         return false;
-//     }
-
-//     return true;
-// }
-
-// function get_sort_column_and_direction(sortString) {
-//     // Get the column to sort on.
-//     [col, dir] = sortString.split(":", 2);
-//     foundCol = findColumn(col, data);
-//     if (foundCol === null) {
-//         alert(`No column matches ${col}.`);
-//         return;
-//     }
-//     return [foundCol, dir];
-// }
 
 // Populate the table in the web page with the rows of topic data.
 function populateTable(data) {
@@ -96,25 +75,18 @@ function populateTable(data) {
         repoTable.destroy();
     }
 
-    let columnDefs = [
-        { className: 'repo', data: 'repo', title: 'Repo', "width": '25%' },
-        { className: 'description', data: 'description', title: 'Description', "width": '40%' },
-        { className: 'owner', data: 'owner', title: 'Owner', "width": '10%' },
-        { className: 'stars', data: 'stars', title: 'Stars', "width": '5%' },
-        { className: 'forks', data: 'forks', title: 'Forks', "width": '5%' },
-        { className: 'size', data: 'size', title: 'Size', "width": '5%' },
-        { className: 'date', data: 'pushed', title: 'Pushed', "width": '10%' }
-    ];
-
     function columnNameToIndex(name) {
         return columnDefs.findIndex((col) => col.className === name);
     }
+
+    [sortCol, sortDir] = sortString.split(":", 2);
+    console.log(`sortString: ${sortString} sortCol: ${sortCol}, sortDir: ${sortDir}`);
 
     repoTable = new DataTable('#dataTable', {
         scrollX: false,
         data: data,
         columns: columnDefs,
-        order: [[columnNameToIndex('date'), 'desc']]
+        order: [[columnNameToIndex(sortCol), sortDir]]
     });
 
     hide_waiting();
@@ -123,31 +95,30 @@ function populateTable(data) {
 }
 
 // Find the column index for a given column name.
-function findColumn(column, data) {
+function findColumn(column) {
     let col = column.toLowerCase();
     // Search for a column whose label starts with the given column name.
-    let foundCol = null;
-    for (let column of Object.keys(data[0])) {
-        if (column.toLowerCase().startsWith(col)) {
+    for (let column of columnDefs) {
+        if (column['className'].toLowerCase().startsWith(col)) {
             // Found one.
-            foundCol = column;
-            break;
+            return column['className'];
         }
     }
-    return foundCol;
+    return null;
 }
 
 // Filter the data based on the contents of the filter field.
 function filterData(data) {
-
+    show_waiting();
+    
     tableData = [...data];
     let filterStr = filterInput.value.trim();
-
+    
     if (filterStr === null || filterStr === undefined || filterStr.length === 0) {
         // Filter string is blank so restore all repo data.
         return tableData;
     }
-
+    
     // Check filter string syntax.
     if (! /^\w+:(\w+\s*)+$/.test(filterStr)) {
         alert(`Malformed filter: ${filterStr}`);
@@ -161,16 +132,21 @@ function filterData(data) {
         alert(`No column matches ${col}.`);
         return tableData;
     }
-
+    
     // Search for rows where the specified column contains all the search values.
     tableData = [...data]; // Start with all the data rows.
     for (val of vals.split(" ")) {
         // Retain only the remaining rows that match the current value in the array of values.
         tableData = tableData.filter(row => row[foundCol].toLowerCase().includes(val.toLowerCase()));
     }
-
+    
     return tableData;
 }
+
+topicTitle.addEventListener("click", function(event) {
+    show_waiting();
+});
+
 
 filterInput.addEventListener("search", function (event) {
     show_waiting();
@@ -326,6 +302,29 @@ function topicCallback() {
     loadTopic(); // Load the rows of Github repo data from the JSON file for that topic, filter and sort them, and then display the table.
 }
 
+function convertSortParam(s) {
+
+    if (s === null || s === undefined || s === 0)
+        // No sort string so sort by date of last push, newest at top.
+        s = "pushed:desc";
+
+    // Check sort string syntax.
+    else if (! /^\w+:(a|d)\w*\s*$/.test(s)) {
+        alert(`Malformed sort: ${s}`);
+        return "pushed:desc";
+    }
+
+    // Get the column to sort on.
+    [col, dir] = s.split(":", 2);
+    foundCol = findColumn(col);
+    if (foundCol === null) {
+        alert(`No column matches ${col}.`);
+        return "pushed:desc";
+    }
+
+    return `${foundCol}:${dir}`;
+}
+
 // Preprocess a parameter from the URL query string.
 function preprocessParam(param) {
     function rmvQuotes(str) {
@@ -358,6 +357,7 @@ function getQueryParams() {
     if (queryParams.has('sort')) {
         // A column & direction for sorting was specified in the URL query string.
         sort = preprocessParam(queryParams.get('sort'));
+        sort = convertSortParam(sort);
     }
 
     return [topic, filter, sort];
