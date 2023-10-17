@@ -3,6 +3,7 @@ let topicSelector = document.getElementById('topicSelector');
 let topicTitle = document.getElementById("topicTitle");
 let filterInput = document.getElementById('filterField');
 let numRepos = document.getElementById('numRepos');
+let hourglass = document.getElementById('waiting');
 
 let repoTable = null;
 
@@ -33,21 +34,63 @@ let nextSortDirection = {
     undefined: 'desc'
 };
 
+let async_flag = true;
+function async_run(f) {
+    if (async_flag) {
+        f();
+        flag = false;
+        setTimeout(async_run, 0);
+    }
+    return;
+}
+
 function show_waiting() {
-    console.log("show_waiting");
-    document.getElementById("waiting").style.display = "block";
+    async_flag = true;
+    function show() {
+        hourglass.style.display = "block";
+    }
+    async_run(show);
 }
 
 function hide_waiting() {
-    console.log("hide_waiting");
-    document.getElementById("waiting").style.display = "none";
+    async_flag = true;
+    function hide() {
+        hourglass.style.display = "none";
+    }
+    async_run(hide);
 }
+
+// function checkSortString(sortString) {
+
+//     if (sortString === null || sortString === undefined || sortString.length === 0)
+//         // No sort string so sort by date of last push, newest at top.
+//         sortString = "pushed:desc";
+
+//     // Check sort string syntax.
+//     if (! /^\w+:(a|d)\w*\s*$/.test(sortString)) {
+//         alert(`Malformed sort: ${sortString}`);
+//         return false;
+//     }
+
+//     return true;
+// }
+
+// function get_sort_column_and_direction(sortString) {
+//     // Get the column to sort on.
+//     [col, dir] = sortString.split(":", 2);
+//     foundCol = findColumn(col, data);
+//     if (foundCol === null) {
+//         alert(`No column matches ${col}.`);
+//         return;
+//     }
+//     return [foundCol, dir];
+// }
 
 // Populate the table in the web page with the rows of topic data.
 function populateTable(data) {
 
     // Show the number of repos in the table.
-    showRepoCount(data);
+    numRepos.textContent = `(${data.length} Repositories)`;
 
     if (repoTable !== null && repoTable !== undefined) {
         repoTable.destroy();
@@ -77,110 +120,6 @@ function populateTable(data) {
     hide_waiting();
 
     return;
-
-
-    // Create empty table.
-    const table = document.getElementById('dataTable');
-    table.innerHTML = '';
-
-    // Don't display table if it's empty.
-    if (data === null || data === undefined || data.length === 0) {
-        // Show the number of repos (0) in the table.
-        showRepoCount(data);
-        return;
-    }
-
-    // One table column for each field of a row of data.
-    let columns = Object.keys(data[0]); // Get column headers from total data set.
-
-    function makeColumnSortFunction(column, direction) {
-        return function () { sortTable(column + ":" + direction); }
-    }
-
-    // Create header for the table.
-    let headerRow = document.createElement('tr');
-    columns.forEach(column => {
-
-        // Create header for a column of the table.
-        let th = document.createElement('th');
-        th.classList.add(column);
-
-        // Add a div to hold the text of the column header.
-        let div_column = document.createElement('div');
-        // Capitalize the first letter of the column name.
-        div_column.innerHTML = column.charAt(0).toUpperCase() + column.slice(1);
-        div_column.className = "column";
-        th.appendChild(div_column);
-
-        // Add sorting buttons to every column except the project name and description.
-        if (!['repo', 'description'].includes(column)) {
-            let div_updwn = document.createElement('div');
-            div_updwn.className = "sort-button";
-            div_updwn.innerHTML = '&nbsp;' + sortIndicator[sortDirection[column]];
-            // div_updwn.innerHTML = '&nbsp;' + (sortDirection[column] === 'asc' ? upArrow : dwnArrow);
-            // let direction = sortDirection in ['asc', 'desc'] ? sortDirection : 'desc';
-            div_updwn.onclick = makeColumnSortFunction(column, nextSortDirection[sortDirection[column]]);
-            th.appendChild(div_updwn);
-        }
-
-        headerRow.appendChild(th);
-    });
-
-    // Add the header row to the table.
-    let thead = document.createElement('thead');
-    thead.appendChild(headerRow);
-    table.appendChild(thead);
-
-    // Create rows of data for the table.
-    let tbody = document.createElement('tbody');
-    let show_table = true;
-    let idx = 0;
-
-    // Function to add table rows in sections and allow progress bar to update.
-    function dataRows() {
-        while (idx < data.length) {
-
-            // Create a row of data.
-            let tr = document.createElement('tr');
-            tr.className = idx % 2 === 0 ? 'even-row' : 'odd-row';
-            row = data[idx++]; // Get data and inc index to next row.
-            columns.forEach(column => {
-                let td = document.createElement('td');
-                td.innerHTML = row[column];
-                td.classList.add(column);
-                tr.appendChild(td);
-            });
-            tbody.appendChild(tr);
-
-            if (idx % 1000 === 0) {
-                // This set of data rows is done, so process the next set.
-                updateProgressBar((100 * idx) / data.length);
-                setTimeout(dataRows, 0); // Set up to process next set of data upon return.
-                return; // Leave func so progress bar updates.
-            }
-        }
-
-        if (show_table) {
-            // Display an indeterminate progress bar while body is added to table.
-            updateProgressBar(false); // indeterminate progress bar.
-            show_table = false; // Don't come back here.
-            setTimeout(dataRows, 0); // When we exit, set up to come back to the next phase.
-            return; // Leave func so progress bar updates.
-        }
-
-        // Add the body to the table. This will take a while (multiple seconds)!
-        table.appendChild(tbody);
-        updateProgressBar(100);
-    }
-    dataRows();
-
-    // Show the number of repos in the table.
-    showRepoCount(data);
-}
-
-// Show the number of repos in the table.
-function showRepoCount(data) {
-    numRepos.textContent = `(${data.length} repos)`;
 }
 
 // Find the column index for a given column name.
@@ -240,12 +179,14 @@ filterInput.addEventListener("search", function (event) {
         // Clear filtering if the "X" in the filter field is clicked or the field is empty.
         clearFilter();
         tableData = [...topicData]; // Clearing filter causes all topic data to be shown.
-        sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
+        populateTable(tableData);
+        // sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
     }
-    else{
+    else {
         // Filter the table based on the contents of the non-empty filter field.
         tableData = filterData(topicData);
-        sortTable(sortString);
+        populateTable(tableData);
+        // sortTable(sortString);
     }
 });
 
@@ -367,8 +308,7 @@ function loadTopic() {
             clearSortDirections(topicData);
             preprocessData(topicData);
             tableData = filterData(topicData)
-            // showRepoCount(tableData);
-            sortTable(sortString)
+            populateTable(tableData);
         });
 }
 
@@ -376,21 +316,6 @@ function loadTopic() {
 function clearFilter() {
     filterInput.value = "";
     tableData = [];
-}
-
-// *** Called from index.html. ***
-// The filter button was clicked, so extract any topic data matching the filter string and display it in the table.
-function filterCallback() {
-    tableData = filterData(topicData);
-    sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
-}
-
-// *** Called from index.html. ***
-// The clear filter button was clicked.
-function clearFilterCallback() {
-    clearFilter();
-    tableData = [...topicData]; // Clearing filter causes all topic data to be shown.
-    sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
 }
 
 // *** Called from index.html. ***
