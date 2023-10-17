@@ -21,15 +21,13 @@
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
     </head>
 <body>
-    <div id="waiting" style="display:none;">
-        <img src="animated_hourglass.gif" alt="Loading..." width="75px">
+
+    <div id="bannerDiv"  style="display:flex; justify-content:space-between;padding-bottom: 20px;">
+        <img id="logo" style="vertical-align:middle; text-align:left; background-color: rgba(0, 0, 0, 0);" src="logo.png" alt="RepoRecon">
+        <img id="waiting" style="display:none; text-align:center" src="animated_hourglass.gif" alt="Loading..." width="65px">
+        <a id="srclink" style="text-align:right" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a>
     </div>
-  
-    <div style="padding-bottom: 20px;">
-        <img style="vertical-align:middle; background-color: rgba(0, 0, 0, 0);" id="logo", src="logo.png" alt="RepoRecon">
-        &nbsp;&nbsp;&nbsp;
-        <a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a>
-    </div>
+
     <div id="topicFilterDiv" style="display:flex; justify-content:space-between;">
         <div id="topicSelectorDiv" style="text-align:left;">
             <label id="topicSelectorLabel" for="topicSelector">Topic:</label>
@@ -37,7 +35,6 @@
         </div>
         <div id="topicTitleDiv" style="text-align:center">
             <div id="topicTitle"></div>
-            Repositories
             <div id="numRepos"></div>
         </div>
         <div id="filterDiv" style="text-align:right;">
@@ -49,5 +46,6 @@
     <table id="dataTable" class="hover cell-border order-column"></table>
 
     <script src="app.js"></script>
+
 </body>
 </html>
