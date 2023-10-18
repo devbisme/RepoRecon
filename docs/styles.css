@@ -1,24 +1,15 @@
-h1, h2, h3 {
-    font-family: Arial, sans-serif, Helvetica, sans-serif;
-}
-
-h1 {
-    font-style: italic;
-}
-
 #srclink {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
     font-size: 12px;
     /* color: #808080; */
 }
 
-#progressbar {
-    width: 30%;
-    height: 15px;
-    background: #808080;
-    border-color: #808080;
-    border-radius: 20px;
-    display: inline-block;
+#waiting {
+    z-index: 9999;
+}
+
+#topicSelector, #filterField {
+    padding: 5px;
 }
 
 #topicTitle {
@@ -31,19 +22,27 @@ h1 {
     font-style: italic;
 }
 
-#progressbar > div {
-    background: #a8ecb8;
+#topicFilterDiv,
+.dataTables_length,
+.dataTables_filter,
+#dataTable_paginate {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-weight: bold;
 }
 
-.table-container {
-    overflow: auto;
-    max-height: calc(100vh - 100px);
+#filterDiv {
+    /* display: inline-block; */
+    text-align: right;
+    padding-bottom: 10px;
+}
+
+#dataTable_info {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-style: italic;
 }
 
 #dataTable {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
-    width: 100%;
-    table-layout: fixed;
 }
 
 #dataTable thead {
@@ -54,15 +53,13 @@ h1 {
     z-index: 10;
 }
 
-.repo {
-    width: 20%;
+td.repo {
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;    
+    /* white-space: nowrap;     */
 }
 
-.description {
-    /* width: 45%; */
+td.description {
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 10;
@@ -70,52 +67,53 @@ h1 {
     overflow: hidden;
 }
 
-.owner {
-    width: 10%;
+td.owner {
     overflow: hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;    
+    /* white-space: nowrap;     */
 }
 
-.stars, .forks, .size {
-    text-align: right;
-    width: 5%;
+th.stars,
+th.forks,
+th.size,
+td.stars,
+td.forks,
+td.size {
+    text-align: right !important;
 }
 
-.updated {
+th.date {
+    text-align: center !important;
+}
+
+td.date {
     text-align: center;
-    width: 10%;
-}
-
-th, td {
-    padding: 8px;
-    border-bottom: 1px solid #ddd;
 }
 
 th {
-    background-color: #f2f2f2;
-    position: sticky;
-    top: 0;
+    color: white;
+    background-color: #007fd4;
+    border: 1px solid #fff;
 }
 
-.column, .sort-button {
-    display: inline-block;
-}
 
-#filterDiv {
-    display: inline-block;
-}
-
+.odd,
 .odd-row {
-    background-color: #f2f2f2;
+    background-color: #f2f2f2 !important;
 }
 
+.even,
 .even-row {
-    background-color: #a8ecb8;
+    background-color: #ffd080 !important;
 }
 
 tr:hover {
-    background-color: #a5d7fe;
+    background-color: #a5d7fe !important;
+}
+
+.column,
+.sort-button {
+    display: inline-block;
 }
 
 div.sort-button:hover {

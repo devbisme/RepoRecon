@@ -14,28 +14,38 @@
     <meta name="twitter:url" content="https://devbisme.github.io/RepoRecon/">
     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <link rel="stylesheet" type="text/css" href="styles.css">
-</head>
+  
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    </head>
 <body>
-    <h1><img style="vertical-align:middle" id="logo", src="logo.png" alt="RepoRecon">&nbsp;&nbsp;&nbsp;<a id="srclink" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a></h1>
-    <h3>Topic:
-        <select id="topicSelector" onchange="topicCallback()">
-        </select>
-    </h3>
-    <h2><div id="topicTitle"></div> Repositories &nbsp;<div id="numRepos"></div> &nbsp;&nbsp; <div id="progressbar"></div></h2>
-    <div id="filterDiv">
-        <input type="text" id="filterField" placeholder="Column:Value">
-        <button id="filterButton", onclick="filterCallback()">Filter</button>
-        <button id="clearFilterButton", onclick="clearFilterCallback()">Clear</button>
-    </div>
-    <div class="table-container">
-        <table id="dataTable">
-            <thead></thead>
-            <tbody class="scrollable-body"></tbody>
-        </table>
+
+    <div id="bannerDiv"  style="display:flex; justify-content:space-between;padding-bottom: 20px;">
+        <img id="logo" style="vertical-align:middle; text-align:left; background-color: rgba(0, 0, 0, 0);" src="logo.png" alt="RepoRecon">
+        <img id="waiting" style="display:none; text-align:center" src="loading51.gif" alt="Loading..." width="65px">
+        <a id="srclink" style="text-align:right" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <div id="topicFilterDiv" style="display:flex; justify-content:space-between;">
+        <div id="topicSelectorDiv" style="text-align:left;">
+            <label id="topicSelectorLabel" for="topicSelector">Topic:</label>
+            <select id="topicSelector" onchange="topicCallback()"></select>
+        </div>
+        <div id="topicTitleDiv" style="text-align:center">
+            <div id="topicTitle"></div>
+            <div id="numRepos"></div>
+        </div>
+        <div id="filterDiv" style="text-align:right;">
+            <label for="filterField">Filter:</label>
+            <input type="search" id="filterField" placeholder="Column:Value <Enter>">
+        </div>
+    </div>
+
+    <table id="dataTable" class="hover cell-border order-column"></table>
+
     <script src="app.js"></script>
+
 </body>
 </html>
