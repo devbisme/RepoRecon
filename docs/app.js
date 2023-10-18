@@ -29,86 +29,59 @@ let numRepos = document.getElementById('numRepos');
 let waitingIcon = document.getElementById('waiting');
 
 
-
-topicTitle.addEventListener("click", function (event) {
-    show_waiting();
-    sortString = "owner:asc";
-    filterInput.value = "owner:devbisme"
-    tableData = filterData(topicData);
-    populateTable(tableData);
-});
-
-function async_run(f) {
-    setTimeout(f, 0);
-}
-
-function show() {
+// Show animated loading icon for long-running operations.
+function showWaiting() {
     waitingIcon.style.display = "block";
 }
-function show_waiting() {
-    console.log("show_waiting");
-    async_run(show);
-}
 
-function hide() {
+// Hide animated loading icon after long-running operations are complete.
+function hideWaiting() {
     waitingIcon.style.display = "none";
 }
-function hide_waiting() {
-    console.log("hide_waiting");
-    async_run(hide);
+
+// Show the number of repos displayed in the table.
+function showRepos(data) {
+    numRepos.textContent = `(${data.length} Repositories)`;
 }
 
+// Find the column index for a possibly partial column name.
+function columnNameToIndex(name) {
+    name = name.toLowerCase();
+    return columnDefs.findIndex((column) => column.className.toLowerCase().startsWith(name));
+}
 
+// Find the complete column name for a possibly partial name.
+function findColumn(name) {
+    let idx = columnNameToIndex(name);
+    if (idx == -1) {
+        alert(`Unknown table column name: ${name}.`);
+        return null;
+    }
+    return columnDefs[idx].className;
+}
 
 // Populate the table in the web page with rows of topic data.
 function populateTable(data) {
 
-    // Show the number of repos in the table.
-    numRepos.textContent = `(${data.length} Repositories)`;
-
+    // Release any existing DataTable object.
     if (repoTable !== null && repoTable !== undefined) {
         repoTable.destroy();
-    }
-
-    // Function to convert column name to column index.
-    function columnNameToIndex(name) {
-        return columnDefs.findIndex((col) => col.className === name);
     }
 
     // Get column name and direction for initial sorting of table data.
     [sortCol, sortDir] = sortString.split(":", 2);
 
     repoTable = new DataTable('#dataTable', {
+        initComplete: hideWaiting, // Remove loading icon after table has been generated and displayed.
         scrollX: false,
         data: data,
         columns: columnDefs,
         order: [[columnNameToIndex(sortCol), sortDir]]
     });
-
-    // Remove the waiting icon after the repo table has been generated and displayed.
-    hide_waiting();
-}
-
-// Find the column index for a given column name.
-function findColumn(column) {
-
-    let col = column.toLowerCase();
-
-    // Search for a column whose label starts with the given column name.
-    for (let column of columnDefs) {
-        if (column['className'].toLowerCase().startsWith(col)) {
-            // Found one.
-            return column['className'];
-        }
-    }
-    return null;
 }
 
 // Filter the data based on the contents of the filter field.
 function filterData(data) {
-
-    // Indicate that this may take a while...
-    show_waiting();
 
     // Start off with table data being everything on a topic.
     tableData = [...data];
@@ -131,7 +104,7 @@ function filterData(data) {
     [col, vals] = filterStr.split(":", 2);
     foundCol = findColumn(col, data);
     if (foundCol === null) {
-        alert(`No column matches ${col}.`);
+        clearFilter();
         return tableData;
     }
 
@@ -145,11 +118,17 @@ function filterData(data) {
     return tableData;
 }
 
+// Clear filter so all data will be shown in the table.
+function clearFilter() {
+    filterInput.value = "";
+    tableData = [...topicData];
+}
+
 // Initiate filtering when the user types <enter> clicks the "X" in the filter field.
 filterInput.addEventListener("search", function (event) {
 
     // Indicate that this may take a while...
-    show_waiting();
+    showWaiting();
 
     // Get column:value from the web page filter imput field.
     filterString = filterInput.value;
@@ -157,14 +136,21 @@ filterInput.addEventListener("search", function (event) {
     if (filterString.length === 0) {
         // Clear filtering if the "X" in the filter field is clicked or the field is empty.
         clearFilter();
-        tableData = [...topicData]; // Clearing filter causes all topic data to be shown.
-        populateTable(tableData);
+        // tableData = [...topicData];
     }
     else {
         // Filter the table based on the contents of the non-empty filter field.
         tableData = filterData(topicData);
-        populateTable(tableData);
     }
+
+    // Show the number of repos in the table.
+    showRepos(tableData);
+
+    // For some reason, the loading icon and the # of repos won't update unless the
+    // table is generated inside a fetch() call.
+    fetch('').then(_ => {
+        populateTable(tableData);
+    });
 });
 
 // Preprocess the rows of data.
@@ -218,26 +204,25 @@ function loadTopic() {
     }
 
     // Indicate that loading and displaying data on a topic may take a while...
-    show_waiting();
+    showWaiting();
 
     // Display the topic title.
     topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
 
-    // Load the rows of Github repo data from the JSON file.
+    // Load the rows of Github repo data from the JSON file for this topic.
     fetch(jsonFile + '.json')
         .then(response => response.json())
         .then(data => {
-            topicData = [...data];
-            preprocessData(topicData);
-            tableData = filterData(topicData)
-            populateTable(tableData);
+            topicData = [...data]; // Save the data for this topic.
+            preprocessData(topicData); // Preprocess the rows of data in place.
+            tableData = filterData(topicData) // Filter the topic data.
+            showRepos(tableData); // Show the number of repos in the table.
+            // For some reason, the loading icon and the # of repos won't update unless the
+            // table is generated inside a fetch() call.
+            fetch('').then(_ => {
+                populateTable(tableData);
+            });
         });
-}
-
-// Clear filter so all data will be shown in table.
-function clearFilter() {
-    filterInput.value = "";
-    tableData = [];
 }
 
 // *** Called from index.html. ***
@@ -265,9 +250,14 @@ function convertSortParam(s) {
     [col, dir] = s.split(":", 2);
     foundCol = findColumn(col);
     if (foundCol === null) {
-        alert(`No column matches ${col}.`);
         return defaultSortString;
     }
+
+    // Set the sort direction.
+    if (dir.startsWith("a"))
+        dir = "asc";
+    else
+        dir = "desc";
 
     return `${foundCol}:${dir}`;
 }
@@ -310,7 +300,7 @@ function getQueryParams() {
     return [topic, filter, sort];
 }
 
-// When the web page first appears, load the rows of Github repo data from the JSON file and display them.
+// When the web page first appears, load & display the Github repos for the topic in the URL.
 window.onload = function () {
 
     // Get the topic, filter, and sort parameters from the URL query string.
@@ -339,12 +329,19 @@ window.onload = function () {
             });
 
             // Select the topic specified in the URL query string.            
+            let found = false;
             for (let option of topicSelector.options) {
                 if (option.value === topic || option.text.toLowerCase().includes(topic)) {
                     // Found the topic in the selector.
+                    found = true;
                     topicSelector.selectedIndex = option.index;
                     break;
                 }
+            }
+            if (!found) {
+                // Didn't find the topic in the selector.
+                alert(`Unknown topic: ${topic}`);
+                topicSelector.selectedIndex = 0;
             }
 
             // Load and display the data for the selected topic.
