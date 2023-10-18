@@ -1,185 +1,96 @@
-// Elements of the web pageXOffset.
+
+// Arrays for storing topic data for display in the table.
+let topicData = [];    // All data on a particular topic.
+let tableData = null;  // Data (possibly filtered) to be displayed in the table.
+
+// Column name and direction for initial sorting of table data.
+let sortString = null;
+let defaultSortString = "pushed:desc";
+
+// DataTable object for the table of repo data.
+let repoTable = null;
+
+// Column definitions for repo DataTable.
+let columnDefs = [
+    { className: 'repo', data: 'repo', title: 'Repo', "width": '25%' },
+    { className: 'description', data: 'description', title: 'Description', "width": '40%' },
+    { className: 'owner', data: 'owner', title: 'Owner', "width": '10%' },
+    { className: 'stars', data: 'stars', title: 'Stars', "width": '5%' },
+    { className: 'forks', data: 'forks', title: 'Forks', "width": '5%' },
+    { className: 'size', data: 'size', title: 'Size', "width": '5%' },
+    { className: 'pushed', data: 'pushed', title: 'Pushed', "width": '10%' }
+];
+
+// Elements of the web page.
 let topicSelector = document.getElementById('topicSelector');
 let topicTitle = document.getElementById("topicTitle");
 let filterInput = document.getElementById('filterField');
 let numRepos = document.getElementById('numRepos');
+let waitingIcon = document.getElementById('waiting');
 
-// Arrays for storing topic data for display in the table.
-let topicData = [];
-let tableData = null;
 
-// Column and direction for sorting table data.
-let sortString = null;
-let sortDirection = {};
-
-// Unicode arrows for sorting buttons.
-let upArrow = '&#9650;';
-let dwnArrow = '&#9660;';
-let updwnArrow = '&#11021;';
-let sortIndicator = {
-    'asc': upArrow,
-    'desc': dwnArrow,
-    'none': updwnArrow,
-    null: updwnArrow,
-    undefined: updwnArrow
-};
-let nextSortDirection = {
-    'asc': 'desc',
-    'desc': 'asc',
-    'none': 'desc',
-    null: 'desc',
-    undefined: 'desc'
-};
-
-// Create an indeterminate progress bar upon page load.
-$("#progressbar").progressbar({
-    value: false
-});
-
-// Update the progress bar with the progress value between 0..100.
-function updateProgressBar(progress) {
-    let bar = $("#progressbar");
-    if (progress < 100) {
-        // Show the progress bar if the progress is less than 100.
-        // This also shows an indeterminate progress bar if progress is Boolean false.
-        bar.show();
-        bar.progressbar("option", "value", progress);
-    }
-    else {
-        // Hide progress bar once progress reaches or exceeds 100.
-        bar.hide();
-    }
+// Show animated loading icon for long-running operations.
+function showWaiting() {
+    waitingIcon.style.display = "block";
 }
 
-// Populate the table in the web page with the rows of topic data.
+// Hide animated loading icon after long-running operations are complete.
+function hideWaiting() {
+    waitingIcon.style.display = "none";
+}
+
+// Show the number of repos displayed in the table.
+function showRepos(data) {
+    numRepos.textContent = `(${data.length} Repositories)`;
+}
+
+// Find the column index for a possibly partial column name.
+function columnNameToIndex(name) {
+    name = name.toLowerCase();
+    return columnDefs.findIndex((column) => column.className.toLowerCase().startsWith(name));
+}
+
+// Find the complete column name for a possibly partial name.
+function findColumn(name) {
+    let idx = columnNameToIndex(name);
+    if (idx == -1) {
+        alert(`Unknown table column name: ${name}.`);
+        return null;
+    }
+    return columnDefs[idx].className;
+}
+
+// Populate the table in the web page with rows of topic data.
 function populateTable(data) {
 
-    // Create empty table.
-    const table = document.getElementById('dataTable');
-    table.innerHTML = '';
-
-    // Don't display table if it's empty.
-    if (data === null || data === undefined || data.length === 0) {
-        // Show the number of repos (0) in the table.
-        showRepoCount(data);
-        return;
+    // Release any existing DataTable object.
+    if (repoTable !== null && repoTable !== undefined) {
+        repoTable.destroy();
     }
 
-    // One table column for each field of a row of data.
-    let columns = Object.keys(data[0]); // Get column headers from total data set.
+    // Get column name and direction for initial sorting of table data.
+    [sortCol, sortDir] = sortString.split(":", 2);
 
-    function makeColumnSortFunction(column, direction) {
-        return function () { sortTable(column + ":" + direction); }
-    }
-
-    // Create header for the table.
-    let headerRow = document.createElement('tr');
-    columns.forEach(column => {
-
-        // Create header for a column of the table.
-        let th = document.createElement('th');
-        th.classList.add(column);
-
-        // Add a div to hold the text of the column header.
-        let div_column = document.createElement('div');
-        // Capitalize the first letter of the column name.
-        div_column.innerHTML = column.charAt(0).toUpperCase() + column.slice(1);
-        div_column.className = "column";
-        th.appendChild(div_column);
-
-        // Add sorting buttons to every column except the project name and description.
-        if (!['repo', 'description'].includes(column)) {
-            let div_updwn = document.createElement('div');
-            div_updwn.className = "sort-button";
-            div_updwn.innerHTML = '&nbsp;' + sortIndicator[sortDirection[column]];
-            // div_updwn.innerHTML = '&nbsp;' + (sortDirection[column] === 'asc' ? upArrow : dwnArrow);
-            // let direction = sortDirection in ['asc', 'desc'] ? sortDirection : 'desc';
-            div_updwn.onclick = makeColumnSortFunction(column, nextSortDirection[sortDirection[column]]);
-            th.appendChild(div_updwn);
-        }
-
-        headerRow.appendChild(th);
+    repoTable = new DataTable('#dataTable', {
+        initComplete: hideWaiting, // Remove loading icon after table has been generated and displayed.
+        scrollX: false,
+        data: data,
+        columns: columnDefs,
+        order: [[columnNameToIndex(sortCol), sortDir]]
     });
-
-    // Add the header row to the table.
-    let thead = document.createElement('thead');
-    thead.appendChild(headerRow);
-    table.appendChild(thead);
-
-    // Create rows of data for the table.
-    let tbody = document.createElement('tbody');
-    let show_table = true;
-    let idx = 0;
-
-    // Function to add table rows in sections and allow progress bar to update.
-    function dataRows() {
-        while (idx < data.length) {
-
-            // Create a row of data.
-            let tr = document.createElement('tr');
-            tr.className = idx % 2 === 0 ? 'even-row' : 'odd-row';
-            row = data[idx++]; // Get data and inc index to next row.
-            columns.forEach(column => {
-                let td = document.createElement('td');
-                td.innerHTML = row[column];
-                td.classList.add(column);
-                tr.appendChild(td);
-            });
-            tbody.appendChild(tr);
-
-            if (idx % 1000 === 0) {
-                // This set of data rows is done, so process the next set.
-                updateProgressBar((100 * idx) / data.length);
-                setTimeout(dataRows, 0); // Set up to process next set of data upon return.
-                return; // Leave func so progress bar updates.
-            }
-        }
-
-        if (show_table) {
-            // Display an indeterminate progress bar while body is added to table.
-            updateProgressBar(false); // indeterminate progress bar.
-            show_table = false; // Don't come back here.
-            setTimeout(dataRows, 0); // When we exit, set up to come back to the next phase.
-            return; // Leave func so progress bar updates.
-        }
-
-        // Add the body to the table. This will take a while (multiple seconds)!
-        table.appendChild(tbody);
-        updateProgressBar(100);
-    }
-    dataRows();
-
-    // Show the number of repos in the table.
-    showRepoCount(data);
-}
-
-// Show the number of repos in the table.
-function showRepoCount(data) {
-    numRepos.textContent = `(${data.length} repos shown)`;
-}
-
-// Find the column index for a given column name.
-function findColumn(column, data) {
-    let col = column.toLowerCase();
-    // Search for a column whose label starts with the given column name.
-    let foundCol = null;
-    for (let column of Object.keys(data[0])) {
-        if (column.toLowerCase().startsWith(col)) {
-            // Found one.
-            foundCol = column;
-            break;
-        }
-    }
-    return foundCol;
 }
 
 // Filter the data based on the contents of the filter field.
 function filterData(data) {
+
+    // Start off with table data being everything on a topic.
     tableData = [...data];
+
+    // Get column:value from the web page filter imput field.
     let filterStr = filterInput.value.trim();
 
     if (filterStr === null || filterStr === undefined || filterStr.length === 0) {
-        // Filter string is blank so restore all repo data.
+        // Filter string is blank so use all repo data.
         return tableData;
     }
 
@@ -193,7 +104,7 @@ function filterData(data) {
     [col, vals] = filterStr.split(":", 2);
     foundCol = findColumn(col, data);
     if (foundCol === null) {
-        alert(`No column matches ${col}.`);
+        clearFilter();
         return tableData;
     }
 
@@ -203,72 +114,44 @@ function filterData(data) {
         // Retain only the remaining rows that match the current value in the array of values.
         tableData = tableData.filter(row => row[foundCol].toLowerCase().includes(val.toLowerCase()));
     }
+
     return tableData;
 }
 
-// Initiate filtering if return/enter key is pressed.
-filterInput.addEventListener("keypress", function (event) {
-    if (event.key === "Enter") {
-        event.preventDefault();
-        document.getElementById("filterButton").click();
-    }
-});
+// Clear filter so all data will be shown in the table.
+function clearFilter() {
+    filterInput.value = "";
+    tableData = [...topicData];
+}
 
-// Sort a table of data based on the contents of a column as specified by column name:direction.
-function sortData(data, sortString) {
-    
-    if (data === null || data === undefined || data.length === 0) {
-        // No data to sort.
-        return;
-    }
-    
-    clearSortDirections(data);
+// Initiate filtering when the user types <enter> clicks the "X" in the filter field.
+filterInput.addEventListener("search", function (event) {
 
-    if (sortString === null || sortString === undefined || sortString.length === 0)
-        // No sort string so sort by date of last push, newest at top.
-        sortString = "pushed:desc";
+    // Indicate that this may take a while...
+    showWaiting();
 
-    // Check sort string syntax.
-    if (! /^\w+:(a|d)\w*\s*$/.test(sortString)) {
-        alert(`Malformed sort: ${sortString}`);
-        return;
-    }
+    // Get column:value from the web page filter imput field.
+    filterString = filterInput.value;
 
-    // Get the column to sort on.
-    [col, dir] = sortString.split(":", 2);
-    foundCol = findColumn(col, data);
-    if (foundCol === null) {
-        alert(`No column matches ${col}.`);
-        return;
-    }
-
-    // Sort the data on the specified column.
-    if (dir.startsWith("a")) {
-        // Ascending values as they go downward in the table.
-        data.sort((a, b) => (a[foundCol] > b[foundCol]) ? 1 : -1);
-        sortDirection[foundCol] = "asc";
+    if (filterString.length === 0) {
+        // Clear filtering if the "X" in the filter field is clicked or the field is empty.
+        clearFilter();
+        // tableData = [...topicData];
     }
     else {
-        // Descending values as they go downward in the table.
-        data.sort((a, b) => (a[foundCol] < b[foundCol]) ? 1 : -1);
-        sortDirection[foundCol] = "desc";
+        // Filter the table based on the contents of the non-empty filter field.
+        tableData = filterData(topicData);
     }
-}
 
-// *** Called from column header injected into table in index.html. ***
-// Sort the table based on the contents of a column and its sorting button state.
-function sortTable(sortString) {
-    sortData(tableData, sortString);
-    populateTable(tableData);
-}
+    // Show the number of repos in the table.
+    showRepos(tableData);
 
-// Clear sort directions for all columns of data.
-function clearSortDirections(data) {
-    let columns = Object.keys(data[0]);
-    for (column of columns) {
-        sortDirection[column] = "none";
-    }
-}
+    // For some reason, the loading icon and the # of repos won't update unless the
+    // table is generated inside a fetch() call.
+    fetch('').then(_ => {
+        populateTable(tableData);
+    });
+});
 
 // Preprocess the rows of data.
 function preprocessData(data) {
@@ -311,7 +194,7 @@ function preprocessData(data) {
     })
 }
 
-// Load the rows of Github repo data from the JSON file for that topic, filter and sort them, and then display the table.
+// Load the rows of Github repo data from the JSON file for that topic, filter them, and then display the table.
 function loadTopic() {
 
     let jsonFile = topicSelector.value;
@@ -319,48 +202,64 @@ function loadTopic() {
         topicTitle.textContent = "";
         return;
     }
+
+    // Indicate that loading and displaying data on a topic may take a while...
+    showWaiting();
+
+    // Display the topic title.
     topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
 
-    // Load the rows of Github repo data from the JSON file.
+    // Load the rows of Github repo data from the JSON file for this topic.
     fetch(jsonFile + '.json')
         .then(response => response.json())
         .then(data => {
-            topicData = [...data];
-            clearSortDirections(topicData);
-            preprocessData(topicData);
-            tableData = filterData(topicData)
-            sortTable(sortString)
+            topicData = [...data]; // Save the data for this topic.
+            preprocessData(topicData); // Preprocess the rows of data in place.
+            tableData = filterData(topicData) // Filter the topic data.
+            showRepos(tableData); // Show the number of repos in the table.
+            // For some reason, the loading icon and the # of repos won't update unless the
+            // table is generated inside a fetch() call.
+            fetch('').then(_ => {
+                populateTable(tableData);
+            });
         });
-}
-
-// Clear filter so all data will be shown in table.
-function clearFilter(){
-    filterInput.placeholder = "Column:Value";
-    filterInput.value = "";
-    tableData = [];
-}
-
-// *** Called from index.html. ***
-// The filter button was clicked, so extract any topic data matching the filter string and display it in the table.
-function filterCallback(){
-    tableData = filterData(topicData);
-    sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
-}
-
-// *** Called from index.html. ***
-// The clear filter button was clicked.
-function clearFilterCallback(){
-    clearFilter();
-    tableData = [...topicData]; // Clearing filter causes all topic data to be shown.
-    sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
 }
 
 // *** Called from index.html. ***
 // A topic has been selected from the topic selector, so display that topic's data.
-function topicCallback(){
+function topicCallback() {
     clearFilter();  // New topic, so clear any existing filter.
-    sortString = "pushed:desc"; // New topic so use default sorting by last push date, newest at top.
-    loadTopic(); // Load the rows of Github repo data from the JSON file for that topic, filter and sort them, and then display the table.
+    sortString = defaultSortString; // New topic so use default sorting by last push date, newest at top.
+    loadTopic(); // Load the rows of Github repo data from the JSON file for that topic, filter them, and then display the table.
+}
+
+// Convert the URL sort parameter into a valid column:direction string.
+function convertSortParam(s) {
+
+    if (s === null || s === undefined || s === 0)
+        // No sort string so sort by date of last push, newest at top.
+        s = defaultSortString;
+
+    // Check sort string syntax.
+    else if (! /^\w+:(a|d)\w*\s*$/.test(s)) {
+        alert(`Malformed sort: ${s}`);
+        return defaultSortString;
+    }
+
+    // Get the column to sort on.
+    [col, dir] = s.split(":", 2);
+    foundCol = findColumn(col);
+    if (foundCol === null) {
+        return defaultSortString;
+    }
+
+    // Set the sort direction.
+    if (dir.startsWith("a"))
+        dir = "asc";
+    else
+        dir = "desc";
+
+    return `${foundCol}:${dir}`;
 }
 
 // Preprocess a parameter from the URL query string.
@@ -391,16 +290,17 @@ function getQueryParams() {
         filter = preprocessParam(queryParams.get('filter'));
     }
 
-    let sort = null;
+    let sort = defaultSortString;
     if (queryParams.has('sort')) {
         // A column & direction for sorting was specified in the URL query string.
         sort = preprocessParam(queryParams.get('sort'));
+        sort = convertSortParam(sort);
     }
 
     return [topic, filter, sort];
 }
 
-// When the web page first appears, load the rows of Github repo data from the JSON file and display them.
+// When the web page first appears, load & display the Github repos for the topic in the URL.
 window.onload = function () {
 
     // Get the topic, filter, and sort parameters from the URL query string.
@@ -429,15 +329,22 @@ window.onload = function () {
             });
 
             // Select the topic specified in the URL query string.            
+            let found = false;
             for (let option of topicSelector.options) {
                 if (option.value === topic || option.text.toLowerCase().includes(topic)) {
                     // Found the topic in the selector.
+                    found = true;
                     topicSelector.selectedIndex = option.index;
                     break;
                 }
             }
+            if (!found) {
+                // Didn't find the topic in the selector.
+                alert(`Unknown topic: ${topic}`);
+                topicSelector.selectedIndex = 0;
+            }
 
-            // Load the data for the selected topic.
+            // Load and display the data for the selected topic.
             loadTopic();
         })
 }
