@@ -1,40 +1,16 @@
-// Elements of the web page.
-let topicSelector = document.getElementById('topicSelector');
-let topicTitle = document.getElementById("topicTitle");
-let filterInput = document.getElementById('filterField');
-let numRepos = document.getElementById('numRepos');
-let hourglass = document.getElementById('waiting');
-
-let repoTable = null;
 
 // Arrays for storing topic data for display in the table.
-let topicData = [];
-let tableData = null;
+let topicData = [];    // All data on a particular topic.
+let tableData = null;  // Data (possibly filtered) to be displayed in the table.
 
-// Column and direction for sorting table data.
+// Column name and direction for initial sorting of table data.
 let sortString = null;
-let sortDirection = {};
+let defaultSortString = "pushed:desc";
 
-// Unicode arrows for sorting buttons.
-let upArrow = '&#9650;';
-let dwnArrow = '&#9660;';
-let updwnArrow = '&#11021;';
-let sortIndicator = {
-    'asc': upArrow,
-    'desc': dwnArrow,
-    'none': updwnArrow,
-    null: updwnArrow,
-    undefined: updwnArrow
-};
-let nextSortDirection = {
-    'asc': 'desc',
-    'desc': 'asc',
-    'none': 'desc',
-    null: 'desc',
-    undefined: 'desc'
-};
+// DataTable object for the table of repo data.
+let repoTable = null;
 
-// Column definitions for DataTables.
+// Column definitions for repo DataTable.
 let columnDefs = [
     { className: 'repo', data: 'repo', title: 'Repo', "width": '25%' },
     { className: 'description', data: 'description', title: 'Description', "width": '40%' },
@@ -45,27 +21,46 @@ let columnDefs = [
     { className: 'pushed', data: 'pushed', title: 'Pushed', "width": '10%' }
 ];
 
+// Elements of the web page.
+let topicSelector = document.getElementById('topicSelector');
+let topicTitle = document.getElementById("topicTitle");
+let filterInput = document.getElementById('filterField');
+let numRepos = document.getElementById('numRepos');
+let waitingIcon = document.getElementById('waiting');
+
+
+
+topicTitle.addEventListener("click", function (event) {
+    show_waiting();
+    sortString = "owner:asc";
+    filterInput.value = "owner:devbisme"
+    tableData = filterData(topicData);
+    populateTable(tableData);
+});
+
 function async_run(f) {
     setTimeout(f, 0);
 }
 
 function show() {
-    document.getElementById('waiting').style.display = "block";
-    // hourglass.style.display = "block";
+    waitingIcon.style.display = "block";
 }
 function show_waiting() {
+    console.log("show_waiting");
     async_run(show);
 }
 
 function hide() {
-    document.getElementById('waiting').style.display = "none";
-    // hourglass.style.display = "none";
+    waitingIcon.style.display = "none";
 }
 function hide_waiting() {
+    console.log("hide_waiting");
     async_run(hide);
 }
 
-// Populate the table in the web page with the rows of topic data.
+
+
+// Populate the table in the web page with rows of topic data.
 function populateTable(data) {
 
     // Show the number of repos in the table.
@@ -75,12 +70,13 @@ function populateTable(data) {
         repoTable.destroy();
     }
 
+    // Function to convert column name to column index.
     function columnNameToIndex(name) {
         return columnDefs.findIndex((col) => col.className === name);
     }
 
+    // Get column name and direction for initial sorting of table data.
     [sortCol, sortDir] = sortString.split(":", 2);
-    console.log(`sortString: ${sortString} sortCol: ${sortCol}, sortDir: ${sortDir}`);
 
     repoTable = new DataTable('#dataTable', {
         scrollX: false,
@@ -89,14 +85,15 @@ function populateTable(data) {
         order: [[columnNameToIndex(sortCol), sortDir]]
     });
 
+    // Remove the waiting icon after the repo table has been generated and displayed.
     hide_waiting();
-
-    return;
 }
 
 // Find the column index for a given column name.
 function findColumn(column) {
+
     let col = column.toLowerCase();
+
     // Search for a column whose label starts with the given column name.
     for (let column of columnDefs) {
         if (column['className'].toLowerCase().startsWith(col)) {
@@ -109,16 +106,21 @@ function findColumn(column) {
 
 // Filter the data based on the contents of the filter field.
 function filterData(data) {
+
+    // Indicate that this may take a while...
     show_waiting();
-    
+
+    // Start off with table data being everything on a topic.
     tableData = [...data];
+
+    // Get column:value from the web page filter imput field.
     let filterStr = filterInput.value.trim();
-    
+
     if (filterStr === null || filterStr === undefined || filterStr.length === 0) {
-        // Filter string is blank so restore all repo data.
+        // Filter string is blank so use all repo data.
         return tableData;
     }
-    
+
     // Check filter string syntax.
     if (! /^\w+:(\w+\s*)+$/.test(filterStr)) {
         alert(`Malformed filter: ${filterStr}`);
@@ -132,95 +134,38 @@ function filterData(data) {
         alert(`No column matches ${col}.`);
         return tableData;
     }
-    
+
     // Search for rows where the specified column contains all the search values.
     tableData = [...data]; // Start with all the data rows.
     for (val of vals.split(" ")) {
         // Retain only the remaining rows that match the current value in the array of values.
         tableData = tableData.filter(row => row[foundCol].toLowerCase().includes(val.toLowerCase()));
     }
-    
+
     return tableData;
 }
 
-topicTitle.addEventListener("click", function(event) {
-    show_waiting();
-});
-
-
+// Initiate filtering when the user types <enter> clicks the "X" in the filter field.
 filterInput.addEventListener("search", function (event) {
+
+    // Indicate that this may take a while...
     show_waiting();
+
+    // Get column:value from the web page filter imput field.
     filterString = filterInput.value;
+
     if (filterString.length === 0) {
         // Clear filtering if the "X" in the filter field is clicked or the field is empty.
         clearFilter();
         tableData = [...topicData]; // Clearing filter causes all topic data to be shown.
         populateTable(tableData);
-        // sortTable(sortString);  // Sort the table based on the contents of a column and a direction (ascending/descending).
     }
     else {
         // Filter the table based on the contents of the non-empty filter field.
         tableData = filterData(topicData);
         populateTable(tableData);
-        // sortTable(sortString);
     }
 });
-
-// Sort a table of data based on the contents of a column as specified by column name:direction.
-function sortData(data, sortString) {
-
-    if (data === null || data === undefined || data.length === 0) {
-        // No data to sort.
-        return;
-    }
-
-    clearSortDirections(data);
-
-    if (sortString === null || sortString === undefined || sortString.length === 0)
-        // No sort string so sort by date of last push, newest at top.
-        sortString = "pushed:desc";
-
-    // Check sort string syntax.
-    if (! /^\w+:(a|d)\w*\s*$/.test(sortString)) {
-        alert(`Malformed sort: ${sortString}`);
-        return;
-    }
-
-    // Get the column to sort on.
-    [col, dir] = sortString.split(":", 2);
-    foundCol = findColumn(col, data);
-    if (foundCol === null) {
-        alert(`No column matches ${col}.`);
-        return;
-    }
-
-    // Sort the data on the specified column.
-    if (dir.startsWith("a")) {
-        // Ascending values as they go downward in the table.
-        data.sort((a, b) => (a[foundCol] > b[foundCol]) ? 1 : -1);
-        sortDirection[foundCol] = "asc";
-    }
-    else {
-        // Descending values as they go downward in the table.
-        data.sort((a, b) => (a[foundCol] < b[foundCol]) ? 1 : -1);
-        sortDirection[foundCol] = "desc";
-    }
-}
-
-// *** Called from column header injected into table in index.html. ***
-// Sort the table based on the contents of a column and its sorting button state.
-function sortTable(sortString) {
-    sortData(tableData, sortString);
-    populateTable(tableData);
-}
-
-// Clear sort directions for all columns of data.
-function clearSortDirections(data) {
-    let columns = Object.keys(data[0]);
-    for (column of columns) {
-        sortDirection[column] = "none";
-    }
-}
 
 // Preprocess the rows of data.
 function preprocessData(data) {
@@ -263,7 +208,7 @@ function preprocessData(data) {
     })
 }
 
-// Load the rows of Github repo data from the JSON file for that topic, filter and sort them, and then display the table.
+// Load the rows of Github repo data from the JSON file for that topic, filter them, and then display the table.
 function loadTopic() {
 
     let jsonFile = topicSelector.value;
@@ -272,8 +217,10 @@ function loadTopic() {
         return;
     }
 
+    // Indicate that loading and displaying data on a topic may take a while...
     show_waiting();
 
+    // Display the topic title.
     topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
 
     // Load the rows of Github repo data from the JSON file.
@@ -281,7 +228,6 @@ function loadTopic() {
         .then(response => response.json())
         .then(data => {
             topicData = [...data];
-            clearSortDirections(topicData);
             preprocessData(topicData);
             tableData = filterData(topicData)
             populateTable(tableData);
@@ -298,20 +244,21 @@ function clearFilter() {
 // A topic has been selected from the topic selector, so display that topic's data.
 function topicCallback() {
     clearFilter();  // New topic, so clear any existing filter.
-    sortString = "pushed:desc"; // New topic so use default sorting by last push date, newest at top.
-    loadTopic(); // Load the rows of Github repo data from the JSON file for that topic, filter and sort them, and then display the table.
+    sortString = defaultSortString; // New topic so use default sorting by last push date, newest at top.
+    loadTopic(); // Load the rows of Github repo data from the JSON file for that topic, filter them, and then display the table.
 }
 
+// Convert the URL sort parameter into a valid column:direction string.
 function convertSortParam(s) {
 
     if (s === null || s === undefined || s === 0)
         // No sort string so sort by date of last push, newest at top.
-        s = "pushed:desc";
+        s = defaultSortString;
 
     // Check sort string syntax.
     else if (! /^\w+:(a|d)\w*\s*$/.test(s)) {
         alert(`Malformed sort: ${s}`);
-        return "pushed:desc";
+        return defaultSortString;
     }
 
     // Get the column to sort on.
@@ -319,7 +266,7 @@ function convertSortParam(s) {
     foundCol = findColumn(col);
     if (foundCol === null) {
         alert(`No column matches ${col}.`);
-        return "pushed:desc";
+        return defaultSortString;
     }
 
     return `${foundCol}:${dir}`;
@@ -353,7 +300,7 @@ function getQueryParams() {
         filter = preprocessParam(queryParams.get('filter'));
     }
 
-    let sort = null;
+    let sort = defaultSortString;
     if (queryParams.has('sort')) {
         // A column & direction for sorting was specified in the URL query string.
         sort = preprocessParam(queryParams.get('sort'));
@@ -400,7 +347,7 @@ window.onload = function () {
                 }
             }
 
-            // Load the data for the selected topic.
+            // Load and display the data for the selected topic.
             loadTopic();
         })
 }
