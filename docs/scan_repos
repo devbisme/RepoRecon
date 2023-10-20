@@ -100,9 +100,7 @@ def gather_github_repos(title, search_term, repo_file):
                     # This will create an array of JSON objects, one for each repo.
                     # Order the results by stars so we'll always get the most popular repos first
                     # in case we exceed the search limit of 1000 repos.
-                    try:
-                        rtn = subprocess.run(
-                            [
+                    cmd =   [
                                 "curl",
                                 "-G", "https://api.github.com/search/repositories",
                                 "--data-urlencode", f"\"q={search_term} in:name,description,topics,readme {date_type}:{search_date}\"",
@@ -111,20 +109,34 @@ def gather_github_repos(title, search_term, repo_file):
                                 "--data-urlencode", "\"sort=stars\"",
                                 "--data-urlencode", "\"order=desc\"",
                                 "-H", "\"Accept: application/vnd.github+json\"",
-                            ],
+                            ]
+                    cmd_str = " ".join(cmd)
+                    try:
+                        p = subprocess.Popen(
+                            cmd,
+                            # check=True,
                             # text = True,
                             encoding = "utf-8",
-                            capture_output=True,
-                            # stdout=subprocess.PIPE,
-                            # stderr=subprocess.PIPE,
+                            stdout=subprocess.PIPE,
+                            stderr=subprocess.PIPE,
                         )
                     except subprocess.CalledProcessError as e:
-                        print(f"Error: {e.stderr.decode()}")
+                        print(f"Error: {e.stderr}")
+                        # print(f"Error: {e.stderr.decode()}")
                         sys.exit(1)
+
+                    search_results = []
+                    while True:
+                        output = p.stdout.read(4096)
+                        if not output:
+                            break
+                        search_results.append(output)
+                    search_results = "".join(search_results)
 
                     # repos = json.loads(rtn.stdout)
                     breakpoint()
-                    repos = json.loads(rtn.stdout.decode())
+                    # repos = json.loads(rtn.stdout.decode())
+                    repos = json.loads(search_results)
                     repos = [
                         {
                             "repo": item["name"],
