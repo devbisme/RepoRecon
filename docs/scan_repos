@@ -1,10 +1,18 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 import json
 import os
 import subprocess
 import sys
 from datetime import datetime, timedelta
+from datetime import datetime as dt
+from github import Github
+
+
+# Authenticate with GitHub using a personal access token.
+g = Github() # Slower access.
+# g = Github("YOUR_PERSONAL_ACCESS_TOKEN")
+
 
 def gather_github_repos(title, search_term, repo_file):
     '''
@@ -18,53 +26,43 @@ def gather_github_repos(title, search_term, repo_file):
     Supporting documentation:
       Github search API: https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28#search-repositories
       Github search examples: https://gist.github.com/jasonrudolph/6065289
-      jq JSON processor: https://manpages.ubuntu.com/manpages/xenial/man1/jq.1.html
     '''
 
     # Filename for storing Github repos as JSON.
     repo_file = repo_file + ".json"
 
-    earliest_start_yr = 2023
-    # earliest_start_yr = 2008
+    # Load the previously found repos from the JSON file.
+    try:
+        with open(repo_file, "r") as f:
+            try:
+                prev_repos = json.load(f)
+            except json.JSONDecodeError:
+                prev_repos = []
+    except FileNotFoundError:
+        prev_repos = []
+
+    # earliest_start_yr = 2023
+    earliest_start_yr = 2008
+    # earliest_start_mo = 6
     earliest_start_mo = 1
-    if not os.path.exists(repo_file) or os.path.getsize(repo_file) == 0:
-        # If file doesn't exist or is empty, then make a file with an empty array of repository data.
-        with open(repo_file, "w") as f:
-            f.write("[]")
+    if not prev_repos:
+        # If no repos from a previous search, then start search at earliest possible data.
         start_yr = earliest_start_yr
         start_mo = earliest_start_mo
     else:
-        # If the file has data, then get the start year/month from the most recent repo.
-        with open(repo_file, "r") as f:
-            data = json.load(f)
-        if len(data) == 0:
-            # If file just has an empty JSON array.
-            with open(repo_file, "w") as f:
-                f.write("[]")
-            start_yr = earliest_start_yr
-            start_mo = earliest_start_mo
-        else:
-            # If the file has data, then get the start year/month from the most recent repo.
-            last_date = max(data, key=lambda x: x["pushed"])["pushed"]
-            # Get the year/month of the most recent repo.
-            start_yr = int(last_date.split("-")[0][1:])
-            start_mo = int(last_date.split("-")[1])
-            # Default start year/month if JSON file is empty.
-            if not start_yr:
-                start_yr = earliest_start_yr
-                start_mo = earliest_start_mo
+        # Else, find the most recent repo and start searching from that year/month.
+        for repo in prev_repos:
+            repo["pushed"] = repo["pushed"] or repo["created"] or repo["updated"]
+        latest_repo = max(prev_repos, key=lambda x: dt.strptime(x["pushed"][0:7], "%Y-%m"))
+        # Get the year/month of the most recent repo.
+        start_yr = int(latest_repo["pushed"][0:4])
+        start_mo = int(latest_repo["pushed"][5:7])
 
     # The current year is the last year of the search range.
-    end_yr = datetime.now().year
-
-    # Temporary files for search results.
-    page_repos = os.path.join(os.path.dirname(repo_file), "page_repos.json")
-    tmpfile = os.path.join(os.path.dirname(repo_file), "tmpfile.json")
-
-    # Number of results per page returned by Github search API.
-    page_size = 100
+    end_yr = dt.now().year
 
     # Search for repos from start year to end year.
+    new_repos = []
     for y in range(start_yr, end_yr + 1):
         # Search for repos in each month of the year. This keeps #repos < 1000 (Github search API limit).
 
@@ -92,108 +90,62 @@ def gather_github_repos(title, search_term, repo_file):
             for date_type in ["created", "pushed"]:
                 print(f"Searching repos for {date_type}:{search_date} ...")
 
-                # Scan through each page of search results until a non-full page appears.
-                # Search is limited to 1000 results so stop after page .
-                num_repos_on_page = page_size
-                for pg in range(1, 11):
-                    # Search Github for the year-month and process the page of results.
-                    # This will create an array of JSON objects, one for each repo.
-                    # Order the results by stars so we'll always get the most popular repos first
-                    # in case we exceed the search limit of 1000 repos.
-                    cmd =   [
-                                "curl",
-                                "-G", "https://api.github.com/search/repositories",
-                                "--data-urlencode", f"\"q={search_term} in:name,description,topics,readme {date_type}:{search_date}\"",
-                                "--data-urlencode", f"\"per_page={page_size}\"",
-                                "--data-urlencode", f"\"page={pg}\"",
-                                "--data-urlencode", "\"sort=stars\"",
-                                "--data-urlencode", "\"order=desc\"",
-                                "-H", "\"Accept: application/vnd.github+json\"",
-                            ]
-                    cmd_str = " ".join(cmd)
-                    try:
-                        p = subprocess.Popen(
-                            cmd,
-                            # check=True,
-                            # text = True,
-                            encoding = "utf-8",
-                            stdout=subprocess.PIPE,
-                            stderr=subprocess.PIPE,
-                        )
-                    except subprocess.CalledProcessError as e:
-                        print(f"Error: {e.stderr}")
-                        # print(f"Error: {e.stderr.decode()}")
-                        sys.exit(1)
+                # Define the search query.
+                query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"
 
-                    search_results = []
-                    while True:
-                        output = p.stdout.read(4096)
-                        if not output:
-                            break
-                        search_results.append(output)
-                    search_results = "".join(search_results)
+                # Search for repositories matching the query.
+                yr_mo_repos = g.search_repositories(query)
 
-                    # repos = json.loads(rtn.stdout)
-                    breakpoint()
-                    # repos = json.loads(rtn.stdout.decode())
-                    repos = json.loads(search_results)
-                    repos = [
-                        {
-                            "repo": item["name"],
-                            "description": item["description"],
-                            "owner": item["owner"]["login"],
-                            "stars": item["stargazers_count"],
-                            "forks": item["forks_count"],
-                            "size": item["size"],
-                            "created": item["created_at"],
-                            "updated": item["updated_at"],
-                            "pushed": item["pushed_at"],
-                            "url": item["html_url"],
-                            "id": item["id"],
-                        }
-                        for item in repos["items"]
-                    ]
+                # Loop through all pages of results and extract the desired information.
+                for repo in yr_mo_repos:
+                    repo_info = {
+                        "repo": repo.name,
+                        "description": repo.description,
+                        "owner": repo.owner.login,
+                        "stars": repo.stargazers_count,
+                        "forks": repo.forks_count,
+                        "size": repo.size,
+                        "created": repo.created_at.isoformat(),
+                        "updated": repo.updated_at.isoformat(),
+                        "pushed": repo.pushed_at.isoformat(),
+                        "url": repo.html_url,
+                        "id": repo.id,
+                    }
+                    new_repos.append(repo_info)
 
-                    # Observe rate-limit of Github search (10 searches / minute)
-                    time.sleep(6)
-
-                    # Get the number of repos on the current page of results.
-                    # This will stop the loop if the page is not full.
-                    num_repos_on_page = len(repos)
-                    if num_repos_on_page != 0:
-                        # Append page results to the end of the repo JSON file.
-                        # Create an array containing two subarrays: [ [page repos], [total repos] ]
-                        # (Place the new page repos before the total repos so they will be retained when unique is done.)
-                        with open(repo_file, "r") as f:
-                            data = json.load(f)
-                        with open(page_repos, "w") as f:
-                            json.dump(repos, f)
-                        with open(tmpfile, "w") as f:
-                            json.dump([repos, data], f)
-                        # Now merge the two subarrays into a single array.
-                        with open(tmpfile, "r") as f:
-                            data = json.load(f)
-                        with open(repo_file, "w") as f:
-                            json.dump(data[0] + data[1], f)
-
-                # Page done.
             # Date type done.
         # Month done.
 
         # Reset the start month to 1 for the next year.
         start_mo = 1
 
-    # Remove duplicate repos. (Dups could be caused by rerunning this script with overlapping search dates.)
-    with open(repo_file, "r") as f:
-        data = json.load(f)
-    data = [dict(t) for t in {tuple(d.items()) for d in data}]
+    total_repos = prev_repos
+    total_repos.extend(new_repos)
+
+    # Create a dictionary to store the latest date for each repo id.
+    latest_repo_dates = {}
+    for repo in total_repos:
+        repo_id = repo["id"]
+        repo_date = dt.strptime(repo["pushed"].split("T")[0], "%Y-%m-%d").date()
+        if repo_id not in latest_repo_dates or repo_date > latest_repo_dates[repo_id]:
+            latest_repo_dates[repo_id] = repo_date
+
+    # Filter the list to keep only the latest repo for any duplicated repos with the same id.
+    no_dup_repos = []
+    for repo in total_repos:
+        repo_id = repo["id"]
+        repo_date = dt.strptime(repo["pushed"].split("T")[0], "%Y-%m-%d").date()
+        if repo_id in latest_repo_dates and repo_date == latest_repo_dates[repo_id]:
+            no_dup_repos.append(repo)
+            # Created & updated scans will duplicate repos with the same dates, so remove this date to prevent dupes.
+            del latest_repo_dates[repo_id]
+
     with open(repo_file, "w") as f:
-        json.dump(data, f)
+        json.dump(no_dup_repos, f, indent=4)
 
 if __name__ == "__main__":
     with open(sys.argv[1], "r") as topic_file:
         topics = json.load(topic_file)
         for topic in topics:
             gather_github_repos(topic["title"], topic["search_terms"], topic["JSON_file"])
-            # subprocess.run(["./get_gh_repos", topic["title"], topic["search_terms"], topic["JSON_file"]])
 
