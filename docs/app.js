@@ -278,7 +278,7 @@ function preprocessParam(param) {
 function getQueryParams() {
     let queryParams = new URLSearchParams(window.location.search);
 
-    let topic = null;
+    let topic = "";
     if (queryParams.has('topic')) {
         // A topic was specified in the URL query string.
         topic = preprocessParam(queryParams.get('topic'));
