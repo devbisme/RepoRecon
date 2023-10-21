@@ -169,19 +169,6 @@
         "id": 42150817
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2391,
-        "forks": 481,
-        "size": 16026,
-        "created": "2015-11-07T12:02:12Z",
-        "updated": "2023-10-17T15:50:45Z",
-        "pushed": "2023-10-17T15:37:38Z",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "HDMI2USB-litex-firmware-old",
         "description": "Opsis SoC based on LiteX",
         "owner": "mithro",
@@ -4769,19 +4756,6 @@
         "pushed": "2021-08-20T19:24:12Z",
         "url": "https://github.com/CarlosM96/FM_BER_Test",
         "id": 329131043
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 17755,
-        "created": "2021-01-18T21:41:11Z",
-        "updated": "2022-02-11T15:07:58Z",
-        "pushed": "2023-10-18T00:59:57Z",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "androidx-litex",
@@ -11037,19 +11011,6 @@
         "id": 183392076
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 520,
-        "forks": 48,
-        "size": 901,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-10-20T13:28:06+00:00",
-        "pushed": "2023-10-20T02:00:44+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11076,19 +11037,6 @@
         "id": 464657430
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1252,
-        "forks": 175,
-        "size": 199821,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-10-19T22:36:07+00:00",
-        "pushed": "2023-10-19T15:47:51+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -11100,19 +11048,6 @@
         "pushed": "2023-10-18T12:40:04+00:00",
         "url": "https://github.com/SpinalHDL/NaxRiscv",
         "id": 413357087
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1037,
-        "forks": 155,
-        "size": 37417,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2023-10-18T11:58:01+00:00",
-        "pushed": "2023-10-20T20:11:28+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "appkit",
@@ -11219,15 +11154,67 @@
         "id": 237940918
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2396,
+        "forks": 481,
+        "size": 16026,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2023-10-20T22:29:03+00:00",
+        "pushed": "2023-10-21T10:11:31+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 520,
+        "forks": 49,
+        "size": 901,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-10-20T13:28:06+00:00",
+        "pushed": "2023-10-21T01:48:52+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1252,
+        "forks": 175,
+        "size": 199839,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-10-19T22:36:07+00:00",
+        "pushed": "2023-10-21T05:09:16+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1038,
+        "forks": 155,
+        "size": 37576,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2023-10-21T08:36:30+00:00",
+        "pushed": "2023-10-21T04:27:05+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
         "stars": 16,
         "forks": 1,
-        "size": 4065,
+        "size": 4166,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2023-10-03T12:05:56+00:00",
-        "pushed": "2023-10-20T13:36:07+00:00",
+        "pushed": "2023-10-21T12:55:19+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11237,12 +11224,25 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1078,
+        "size": 1146,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-10-20T04:35:26+00:00",
+        "pushed": "2023-10-21T04:34:45+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 18473,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2023-10-21T00:58:19+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -11250,10 +11250,10 @@
         "owner": "hiifong",
         "stars": 2,
         "forks": 0,
-        "size": 30119,
+        "size": 30455,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-03-03T15:24:45+00:00",
-        "pushed": "2023-10-20T15:18:35+00:00",
+        "pushed": "2023-10-21T15:17:30+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

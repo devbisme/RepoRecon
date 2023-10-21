@@ -2574,19 +2574,6 @@
         "id": 143414106
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 28,
-        "forks": 23,
-        "size": 41124,
-        "created": "2018-08-04T10:46:25Z",
-        "updated": "2023-07-22T03:52:44Z",
-        "pushed": "2023-10-17T14:16:13Z",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "VLSI-Design",
         "description": null,
         "owner": "rajeshbabua",
@@ -2650,19 +2637,6 @@
         "pushed": "2018-10-07T16:57:45Z",
         "url": "https://github.com/ithinuel/fpga_sandbox_lib",
         "id": 151963360
-    },
-    {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 4,
-        "forks": 1,
-        "size": 4332,
-        "created": "2018-10-24T07:32:54Z",
-        "updated": "2023-05-28T02:41:24Z",
-        "pushed": "2023-10-07T20:41:19Z",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
     },
     {
         "repo": "hdlModelicaInterfaceGen",
@@ -4691,5 +4665,31 @@
         "pushed": "2023-10-20T20:17:20+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 28,
+        "forks": 23,
+        "size": 41128,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2023-07-22T03:52:44+00:00",
+        "pushed": "2023-10-21T02:07:05+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 4,
+        "forks": 1,
+        "size": 4381,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2023-05-28T02:41:24+00:00",
+        "pushed": "2023-10-21T10:27:03+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
     }
 ]
