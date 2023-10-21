@@ -16,8 +16,9 @@ If you want to run it locally, do this:
 4. Use your web browser to open `0.0.0.0:8000`.
 
 If you want to update the tables with the latest repository information, do this:
+1. Install this Python dependency: `pip install PyGithub`
 1. Go into the `docs` directory.
-2. Run the `recon_repos` script.
+2. Run the `scan_repos` script.
 3. Refresh your web browser page.
 
 If you want to modify the list of topics for collecting repositories, do this:

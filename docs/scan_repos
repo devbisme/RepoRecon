@@ -86,7 +86,7 @@ def gather_github_repos(title, search_term, repo_file):
             # so that new repos aren't missed (there will be fewer of them).
             # Never use "updated"! It seems to grab a lot of repos without regard to dates.
             for date_type in ["created", "pushed"]:
-                print(f"    Searching repos for {date_type}:{search_date} ...")
+                print(f"    Searching {title} repos for {date_type}:{search_date} ...")
 
                 # Define the search query.
                 query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"

@@ -12,13 +12,13 @@ let repoTable = null;
 
 // Column definitions for repo DataTable.
 let columnDefs = [
-    { className: 'repo', data: 'repo', title: 'Repo', "width": '25%' },
-    { className: 'description', data: 'description', title: 'Description', "width": '40%' },
-    { className: 'owner', data: 'owner', title: 'Owner', "width": '10%' },
-    { className: 'stars', data: 'stars', title: 'Stars', "width": '5%' },
-    { className: 'forks', data: 'forks', title: 'Forks', "width": '5%' },
-    { className: 'size', data: 'size', title: 'Size', "width": '5%' },
-    { className: 'pushed', data: 'pushed', title: 'Pushed', "width": '10%' }
+    { className: 'repo', data: 'repo', title: 'Repo', width: '25%' },
+    { className: 'description', data: 'description', title: 'Description', width: '40%' },
+    { className: 'owner', data: 'owner', title: 'Owner', width: '10%' },
+    { className: 'stars', data: 'stars', title: 'Stars', width: '5%' },
+    { className: 'forks', data: 'forks', title: 'Forks', width: '5%' },
+    { className: 'size', data: 'size', title: 'Size', width: '5%' },
+    { className: 'pushed', data: 'pushed', title: 'Pushed', width: '10%' }
 ];
 
 // Elements of the web page.
@@ -76,6 +76,7 @@ function populateTable(data) {
         scrollX: false,
         data: data,
         columns: columnDefs,
+        autoWidth: false,
         order: [[columnNameToIndex(sortCol), sortDir]]
     });
 }
