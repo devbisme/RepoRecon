@@ -41,9 +41,7 @@ def gather_github_repos(title, search_term, repo_file):
     except FileNotFoundError:
         prev_repos = []
 
-    # earliest_start_yr = 2023
     earliest_start_yr = 2008
-    # earliest_start_mo = 6
     earliest_start_mo = 1
     if not prev_repos:
         # If no repos from a previous search, then start search at earliest possible data.
@@ -88,7 +86,7 @@ def gather_github_repos(title, search_term, repo_file):
             # so that new repos aren't missed (there will be fewer of them).
             # Never use "updated"! It seems to grab a lot of repos without regard to dates.
             for date_type in ["created", "pushed"]:
-                print(f"Searching repos for {date_type}:{search_date} ...")
+                print(f"    Searching repos for {date_type}:{search_date} ...")
 
                 # Define the search query.
                 query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"
@@ -144,7 +142,13 @@ def gather_github_repos(title, search_term, repo_file):
         json.dump(no_dup_repos, f, indent=4)
 
 if __name__ == "__main__":
-    with open(sys.argv[1], "r") as topic_file:
+    import argparse
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("topic_file", nargs="?", default="topics.json", help="The name of the topics file.")
+    args = parser.parse_args()
+
+    with open(args.topic_file, "r") as topic_file:
         topics = json.load(topic_file)
         for topic in topics:
             gather_github_repos(topic["title"], topic["search_terms"], topic["JSON_file"])
