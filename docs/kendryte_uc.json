@@ -572,6 +572,19 @@
         "id": 7287136
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8868,
+        "forks": 4679,
+        "size": 774905,
+        "created": "2013-01-02T14:49:21Z",
+        "updated": "2023-10-22T17:45:04Z",
+        "pushed": "2023-10-22T16:21:20Z",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
         "repo": "Celero",
         "description": "C++ Benchmark Authoring Library/Framework",
         "owner": "DigitalInBlue",
@@ -1654,11 +1667,11 @@
         "repo": "Micropython-Editor",
         "description": "Small on-board editor for PyBoard, WiPy, ESP8266, ESP32, RP2040, W60x, XBEE 3, Sipeed K210, as well as PyCom and Adafruit devices written in Python",
         "owner": "robert-hh",
-        "stars": 198,
-        "forks": 45,
+        "stars": 199,
+        "forks": 46,
         "size": 6018,
         "created": "2015-05-21T20:09:21Z",
-        "updated": "2023-10-16T11:13:25Z",
+        "updated": "2023-10-19T07:53:41Z",
         "pushed": "2023-10-17T09:16:02Z",
         "url": "https://github.com/robert-hh/Micropython-Editor",
         "id": 36034940
@@ -4537,6 +4550,19 @@
         "id": 127736485
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 619,
+        "forks": 180,
+        "size": 54420,
+        "created": "2018-04-04T12:11:19Z",
+        "updated": "2023-10-19T02:34:41Z",
+        "pushed": "2023-10-20T12:32:44Z",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
         "repo": "Brizy",
         "description": "Brizy is the most user-friendly visual page builder in town! No designer or developer skills required. The only tools you'll need to master are clicks and drags.",
         "owner": "ThemeFuse",
@@ -4548,6 +4574,19 @@
         "pushed": "2023-09-26T13:08:24Z",
         "url": "https://github.com/ThemeFuse/Brizy",
         "id": 129259916
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 81,
+        "forks": 32,
+        "size": 530888,
+        "created": "2018-04-17T18:44:22Z",
+        "updated": "2023-10-16T19:52:30Z",
+        "pushed": "2023-10-22T12:21:34Z",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     },
     {
         "repo": "APAC-Conferences",
@@ -4810,6 +4849,19 @@
         "id": 142366406
     },
     {
+        "repo": "wmt_arduino_study",
+        "description": "My Arduino Uno study",
+        "owner": "weimingtom",
+        "stars": 1,
+        "forks": 0,
+        "size": 916,
+        "created": "2018-08-01T00:23:42Z",
+        "updated": "2023-04-02T08:00:43Z",
+        "pushed": "2023-10-21T12:57:10Z",
+        "url": "https://github.com/weimingtom/wmt_arduino_study",
+        "id": 143083301
+    },
+    {
         "repo": "neve",
         "description": "A fast, lightweight, AMP ready WordPress theme built with speed and usability in mind.",
         "owner": "Codeinwp",
@@ -4899,6 +4951,19 @@
         "pushed": "2018-08-24T07:02:38Z",
         "url": "https://github.com/mxt7481500/maixiaoting",
         "id": 145955288
+    },
+    {
+        "repo": "wmt_ai_study",
+        "description": "My AI study",
+        "owner": "weimingtom",
+        "stars": 17,
+        "forks": 2,
+        "size": 1720,
+        "created": "2018-08-26T09:31:59Z",
+        "updated": "2023-08-20T12:40:39Z",
+        "pushed": "2023-10-21T09:47:39Z",
+        "url": "https://github.com/weimingtom/wmt_ai_study",
+        "id": 146167925
     },
     {
         "repo": "objectbox-c",
@@ -6829,7 +6894,7 @@
         "description": "micropython scripts for MaixPy",
         "owner": "sipeed",
         "stars": 591,
-        "forks": 431,
+        "forks": 432,
         "size": 17181,
         "created": "2019-03-16T07:28:41Z",
         "updated": "2023-10-12T09:03:17Z",
@@ -7785,6 +7850,19 @@
         "pushed": "2019-05-25T02:38:02Z",
         "url": "https://github.com/ai-alloy/alloyTi-Doc",
         "id": 188255313
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 3173,
+        "forks": 336,
+        "size": 769,
+        "created": "2019-05-25T15:46:00Z",
+        "updated": "2023-10-22T10:56:14Z",
+        "pushed": "2023-10-20T12:01:28Z",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
     },
     {
         "repo": "animeTrackerList",
@@ -9644,6 +9722,19 @@
         "pushed": "2023-09-07T02:32:28Z",
         "url": "https://github.com/KittenBot/pxt-koi",
         "id": 218461602
+    },
+    {
+        "repo": "tech",
+        "description": null,
+        "owner": "cenzwong",
+        "stars": 0,
+        "forks": 0,
+        "size": 18476,
+        "created": "2019-10-31T07:30:35Z",
+        "updated": "2022-01-07T02:29:52Z",
+        "pushed": "2023-10-19T14:16:56Z",
+        "url": "https://github.com/cenzwong/tech",
+        "id": 218708914
     },
     {
         "repo": "awesome-k210",
@@ -15551,11 +15642,11 @@
         "repo": "rCore-Tutorial-v3",
         "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
         "owner": "rcore-os",
-        "stars": 1170,
-        "forks": 346,
+        "stars": 1179,
+        "forks": 352,
         "size": 46322,
         "created": "2020-10-29T07:21:08Z",
-        "updated": "2023-10-17T14:33:55Z",
+        "updated": "2023-10-22T18:04:12Z",
         "pushed": "2023-10-15T07:29:44Z",
         "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
         "id": 308248461
@@ -18525,6 +18616,19 @@
         "id": 356293069
     },
     {
+        "repo": "masks-detect-for-k210",
+        "description": "\u4e00\u4e2a\u4eba\u8138\u68c0\u6d4b for k210",
+        "owner": "liyang8246",
+        "stars": 4,
+        "forks": 0,
+        "size": 19606,
+        "created": "2021-04-11T07:14:37Z",
+        "updated": "2023-10-22T05:46:52Z",
+        "pushed": "2023-10-22T05:46:48Z",
+        "url": "https://github.com/liyang8246/masks-detect-for-k210",
+        "id": 356795330
+    },
+    {
         "repo": "MaixPy_examples",
         "description": "Examples of MaixPy, only for study.",
         "owner": "uniartisan",
@@ -18666,6 +18770,19 @@
         "pushed": "2023-09-19T16:04:20Z",
         "url": "https://github.com/Purp1eW0lf/Blue-Team-Notes",
         "id": 359216482
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 143,
+        "forks": 109,
+        "size": 236,
+        "created": "2021-04-21T05:45:00Z",
+        "updated": "2023-10-22T15:54:47Z",
+        "pushed": "2023-10-21T01:49:40Z",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
     },
     {
         "repo": "rustsbi",
@@ -18965,6 +19082,19 @@
         "pushed": "2021-06-09T04:26:09Z",
         "url": "https://github.com/Gstalker/OSKernel2021-StitchOS",
         "id": 365696748
+    },
+    {
+        "repo": "rustpie",
+        "description": "Rustpi Enhanced",
+        "owner": "tonnylyz",
+        "stars": 3,
+        "forks": 3,
+        "size": 1584,
+        "created": "2021-05-09T08:29:27Z",
+        "updated": "2022-10-18T05:49:48Z",
+        "pushed": "2023-10-22T13:43:35Z",
+        "url": "https://github.com/tonnylyz/rustpie",
+        "id": 365704100
     },
     {
         "repo": "tongji-undergrad-thesis",
@@ -19903,6 +20033,19 @@
         "id": 385054950
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 76,
+        "forks": 25,
+        "size": 137989,
+        "created": "2021-07-12T02:24:17Z",
+        "updated": "2023-10-21T21:56:47Z",
+        "pushed": "2023-10-21T19:18:55Z",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
         "repo": "innovators2021-waste-recognition",
         "description": null,
         "owner": "fjlacevedo",
@@ -20083,6 +20226,19 @@
         "pushed": "2021-07-27T07:40:05Z",
         "url": "https://github.com/maixx2525/maixx2525",
         "id": 389891361
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 424,
+        "forks": 128,
+        "size": 897,
+        "created": "2021-07-29T07:22:20Z",
+        "updated": "2023-10-22T00:15:28Z",
+        "pushed": "2023-10-21T13:18:28Z",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
     },
     {
         "repo": "MaixPy3_scripts",
@@ -22932,6 +23088,19 @@
         "id": 456352026
     },
     {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 737,
+        "created": "2022-02-08T05:17:55Z",
+        "updated": "2022-07-02T18:33:48Z",
+        "pushed": "2023-10-22T17:19:31Z",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awnn",
         "description": "Implementing neural networks on maix-ii dock based on Allwinner v831 SoC.",
         "owner": "happy-charity",
@@ -23099,6 +23268,19 @@
         "pushed": "2023-04-24T21:43:03Z",
         "url": "https://github.com/bureado/awesome-software-supply-chain-security",
         "id": 461401576
+    },
+    {
+        "repo": "wmt_lvgl_study",
+        "description": "My LVGL study",
+        "owner": "weimingtom",
+        "stars": 2,
+        "forks": 0,
+        "size": 1212,
+        "created": "2022-02-20T07:04:41Z",
+        "updated": "2023-07-10T21:39:03Z",
+        "pushed": "2023-10-21T13:23:24Z",
+        "url": "https://github.com/weimingtom/wmt_lvgl_study",
+        "id": 461410963
     },
     {
         "repo": "MaiXuanDieu",
@@ -23985,6 +24167,19 @@
         "id": 476636351
     },
     {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 12,
+        "forks": 1,
+        "size": 660469,
+        "created": "2022-04-01T20:52:53Z",
+        "updated": "2023-09-18T15:41:20Z",
+        "pushed": "2023-10-18T20:17:43Z",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
         "repo": "maixpy",
         "description": "maixpy_prueba",
         "owner": "legend20021",
@@ -24217,6 +24412,19 @@
         "pushed": "2023-09-06T01:43:40Z",
         "url": "https://github.com/kakao/recoteam",
         "id": 480285529
+    },
+    {
+        "repo": "Sumasta_AI_Face_Recognition",
+        "description": "AI Face recognition tracking unit running and tested on Kendryte K210 SoC. 3 Models used Face model, Face landmark detection and face feature extractionand face ",
+        "owner": "sumastavr",
+        "stars": 0,
+        "forks": 0,
+        "size": 12,
+        "created": "2022-04-11T10:27:15Z",
+        "updated": "2022-04-11T10:27:44Z",
+        "pushed": "2023-10-20T16:24:44Z",
+        "url": "https://github.com/sumastavr/Sumasta_AI_Face_Recognition",
+        "id": 480331219
     },
     {
         "repo": "yolo",
@@ -29718,6 +29926,19 @@
         "id": 606758804
     },
     {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 3,
+        "forks": 1,
+        "size": 868,
+        "created": "2023-02-26T23:41:46Z",
+        "updated": "2023-10-17T20:11:04Z",
+        "pushed": "2023-10-21T15:02:25Z",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
         "repo": "K210",
         "description": "Learn to port an os to k210.Continue on Hust-OS/xv6-k210",
         "owner": "ZEMINGMA",
@@ -30470,6 +30691,19 @@
         "pushed": "2023-09-12T14:14:03Z",
         "url": "https://github.com/PJLab-ADG/neuralsim",
         "id": 624792454
+    },
+    {
+        "repo": "Use-LLMs-in-Colab",
+        "description": "\ud83e\udd16 \u96c6\u5408\u4f17\u591a\u5927\u6a21\u578b\u5728Colab\u4e0a\u7684\u4f7f\u7528 | LLMs is all you need.",
+        "owner": "WangRongsheng",
+        "stars": 87,
+        "forks": 22,
+        "size": 81827,
+        "created": "2023-04-08T07:43:49Z",
+        "updated": "2023-10-11T00:52:58Z",
+        "pushed": "2023-10-19T11:24:54Z",
+        "url": "https://github.com/WangRongsheng/Use-LLMs-in-Colab",
+        "id": 625144481
     },
     {
         "repo": "ChatGLM-Efficient-Tuning",
@@ -32555,14 +32789,27 @@
         "repo": "k230_sdk",
         "description": "Kendryte K230 SDK",
         "owner": "kendryte",
-        "stars": 58,
+        "stars": 63,
         "forks": 14,
         "size": 392841,
         "created": "2023-07-07T05:53:35Z",
-        "updated": "2023-10-16T07:40:23Z",
+        "updated": "2023-10-20T12:55:12Z",
         "pushed": "2023-10-13T06:18:39Z",
         "url": "https://github.com/kendryte/k230_sdk",
         "id": 663357545
+    },
+    {
+        "repo": "k230_docs",
+        "description": "Kendryte K230 SDK Docs",
+        "owner": "kendryte",
+        "stars": 29,
+        "forks": 1,
+        "size": 236025,
+        "created": "2023-07-07T08:24:19Z",
+        "updated": "2023-10-22T13:25:41Z",
+        "pushed": "2023-10-20T07:51:31Z",
+        "url": "https://github.com/kendryte/k230_docs",
+        "id": 663411081
     },
     {
         "repo": "Rope",
@@ -33566,6 +33813,32 @@
         "id": 685103492
     },
     {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 5476,
+        "created": "2023-08-31T01:07:36Z",
+        "updated": "2023-08-31T01:09:14Z",
+        "pushed": "2023-10-22T01:40:05Z",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "mechaScratch_404",
+        "description": null,
+        "owner": "A-N-M-Noor",
+        "stars": 0,
+        "forks": 0,
+        "size": 12963,
+        "created": "2023-08-31T13:55:56Z",
+        "updated": "2023-10-13T09:00:39Z",
+        "pushed": "2023-10-20T08:33:10Z",
+        "url": "https://github.com/A-N-M-Noor/mechaScratch_404",
+        "id": 685558653
+    },
+    {
         "repo": "ProPainter",
         "description": "[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting",
         "owner": "sczhou",
@@ -33813,6 +34086,19 @@
         "id": 693967105
     },
     {
+        "repo": "kendryte-standalone-sdk",
+        "description": "Standalone SDK for kendryte K210",
+        "owner": "xu-yingjing",
+        "stars": 0,
+        "forks": 0,
+        "size": 29868,
+        "created": "2023-09-20T08:18:45Z",
+        "updated": "2023-09-20T08:19:46Z",
+        "pushed": "2023-10-18T09:47:49Z",
+        "url": "https://github.com/xu-yingjing/kendryte-standalone-sdk",
+        "id": 694047059
+    },
+    {
         "repo": "rcore_tutorial_v3",
         "description": "my implementation for core",
         "owner": "akaganeite",
@@ -33969,6 +34255,19 @@
         "id": 701090859
     },
     {
+        "repo": "HuskyLens-Spike",
+        "description": "Una camara de inteligencia artificial con diversos modos de funcionamientos.",
+        "owner": "IITADiegoCABJ",
+        "stars": 0,
+        "forks": 0,
+        "size": 35,
+        "created": "2023-10-06T22:09:08Z",
+        "updated": "2023-10-06T23:02:38Z",
+        "pushed": "2023-10-20T23:41:13Z",
+        "url": "https://github.com/IITADiegoCABJ/HuskyLens-Spike",
+        "id": 701547279
+    },
+    {
         "repo": "K2306IPC",
         "description": null,
         "owner": "JohnsonJinyu",
@@ -34047,6 +34346,19 @@
         "id": 702874031
     },
     {
+        "repo": "k210comb",
+        "description": "SPI Flash inspection tools for Kendryte k210 based devices",
+        "owner": "jdlcdl",
+        "stars": 0,
+        "forks": 1,
+        "size": 110,
+        "created": "2023-10-10T13:30:15Z",
+        "updated": "2023-10-10T14:24:18Z",
+        "pushed": "2023-10-19T18:26:44Z",
+        "url": "https://github.com/jdlcdl/k210comb",
+        "id": 703037721
+    },
+    {
         "repo": "myos-kernel",
         "description": null,
         "owner": "FisherInNorth",
@@ -34097,6 +34409,19 @@
         "pushed": "2023-10-12T17:14:22Z",
         "url": "https://github.com/vhurtadodemendoza/git_workshop",
         "id": 704144926
+    },
+    {
+        "repo": "K210_Tutorial_Public",
+        "description": null,
+        "owner": "universpirit",
+        "stars": 0,
+        "forks": 1,
+        "size": 117525,
+        "created": "2023-10-13T02:53:20Z",
+        "updated": "2023-10-13T05:56:04Z",
+        "pushed": "2023-10-21T09:10:28Z",
+        "url": "https://github.com/universpirit/K210_Tutorial_Public",
+        "id": 704325630
     },
     {
         "repo": "things-2-K21065123",
@@ -34151,30 +34476,17 @@
         "id": 705558445
     },
     {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 1,
-        "forks": 0,
-        "size": 8079,
-        "created": "2023-10-17T08:04:23Z",
-        "updated": "2023-10-18T02:22:51Z",
-        "pushed": "2023-10-17T10:54:21Z",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
-    },
-    {
-        "repo": "k210comb",
-        "description": "SPI Flash inspection tools for Kendryte k210 based devices",
-        "owner": "jdlcdl",
+        "repo": "pokemon_who_am_i",
+        "description": "base on k210",
+        "owner": "tailor997",
         "stars": 0,
-        "forks": 1,
-        "size": 110,
-        "created": "2023-10-10T13:30:15+00:00",
-        "updated": "2023-10-10T14:24:18+00:00",
-        "pushed": "2023-10-19T18:26:44+00:00",
-        "url": "https://github.com/jdlcdl/k210comb",
-        "id": 703037721
+        "forks": 0,
+        "size": 9625,
+        "created": "2023-10-16T15:02:19Z",
+        "updated": "2023-10-16T16:28:13Z",
+        "pushed": "2023-10-18T16:21:16Z",
+        "url": "https://github.com/tailor997/pokemon_who_am_i",
+        "id": 705719348
     },
     {
         "repo": "k230_canmv_docs",
@@ -34183,37 +34495,24 @@
         "stars": 0,
         "forks": 0,
         "size": 6251,
-        "created": "2023-10-17T07:31:49+00:00",
-        "updated": "2023-10-17T07:31:49+00:00",
-        "pushed": "2023-10-20T08:00:26+00:00",
+        "created": "2023-10-17T07:31:49Z",
+        "updated": "2023-10-17T07:31:49Z",
+        "pushed": "2023-10-20T08:00:26Z",
         "url": "https://github.com/kendryte/k230_canmv_docs",
         "id": 706039729
     },
     {
-        "repo": "HuskyLens-Spike",
-        "description": "Una camara de inteligencia artificial con diversos modos de funcionamientos.",
-        "owner": "IITADiegoCABJ",
-        "stars": 0,
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 6,
         "forks": 0,
-        "size": 24,
-        "created": "2023-10-06T22:09:08+00:00",
-        "updated": "2023-10-06T23:02:38+00:00",
-        "pushed": "2023-10-20T19:47:13+00:00",
-        "url": "https://github.com/IITADiegoCABJ/HuskyLens-Spike",
-        "id": 701547279
-    },
-    {
-        "repo": "pokemon_who_am_i",
-        "description": "base on k210",
-        "owner": "tailor997",
-        "stars": 0,
-        "forks": 0,
-        "size": 9625,
-        "created": "2023-10-16T15:02:19+00:00",
-        "updated": "2023-10-16T16:28:13+00:00",
-        "pushed": "2023-10-18T16:21:16+00:00",
-        "url": "https://github.com/tailor997/pokemon_who_am_i",
-        "id": 705719348
+        "size": 8079,
+        "created": "2023-10-17T08:04:23Z",
+        "updated": "2023-10-19T12:34:47Z",
+        "pushed": "2023-10-17T10:54:21Z",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
     },
     {
         "repo": "marover",
@@ -34222,167 +34521,11 @@
         "stars": 1,
         "forks": 0,
         "size": 2483,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2023-10-20T11:16:35+00:00",
-        "pushed": "2023-10-20T13:06:08+00:00",
+        "created": "2023-10-18T09:23:59Z",
+        "updated": "2023-10-20T11:16:35Z",
+        "pushed": "2023-10-20T13:06:08Z",
         "url": "https://github.com/maroziza/marover",
         "id": 706606213
-    },
-    {
-        "repo": "things-2-k21082681",
-        "description": "things-2-k21082681 created by GitHub Classroom",
-        "owner": "KCL-SEG",
-        "stars": 0,
-        "forks": 0,
-        "size": 11,
-        "created": "2023-10-19T01:56:46+00:00",
-        "updated": "2023-10-19T01:56:51+00:00",
-        "pushed": "2023-10-19T02:33:42+00:00",
-        "url": "https://github.com/KCL-SEG/things-2-k21082681",
-        "id": 706984851
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 619,
-        "forks": 180,
-        "size": 54420,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-10-19T02:34:41+00:00",
-        "pushed": "2023-10-20T12:32:44+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "k230_docs",
-        "description": "Kendryte K230 SDK Docs",
-        "owner": "kendryte",
-        "stars": 27,
-        "forks": 1,
-        "size": 236025,
-        "created": "2023-07-07T08:24:19+00:00",
-        "updated": "2023-10-20T18:14:50+00:00",
-        "pushed": "2023-10-20T07:51:31+00:00",
-        "url": "https://github.com/kendryte/k230_docs",
-        "id": 663411081
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 12,
-        "forks": 1,
-        "size": 660469,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2023-09-18T15:41:20+00:00",
-        "pushed": "2023-10-18T20:17:43+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
-        "repo": "kendryte-standalone-sdk",
-        "description": "Standalone SDK for kendryte K210",
-        "owner": "xu-yingjing",
-        "stars": 0,
-        "forks": 0,
-        "size": 29868,
-        "created": "2023-09-20T08:18:45+00:00",
-        "updated": "2023-09-20T08:19:46+00:00",
-        "pushed": "2023-10-18T09:47:49+00:00",
-        "url": "https://github.com/xu-yingjing/kendryte-standalone-sdk",
-        "id": 694047059
-    },
-    {
-        "repo": "Use-LLMs-in-Colab",
-        "description": "\ud83e\udd16 \u96c6\u5408\u4f17\u591a\u5927\u6a21\u578b\u5728Colab\u4e0a\u7684\u4f7f\u7528 | LLMs is all you need.",
-        "owner": "WangRongsheng",
-        "stars": 87,
-        "forks": 22,
-        "size": 81827,
-        "created": "2023-04-08T07:43:49+00:00",
-        "updated": "2023-10-11T00:52:58+00:00",
-        "pushed": "2023-10-19T11:24:54+00:00",
-        "url": "https://github.com/WangRongsheng/Use-LLMs-in-Colab",
-        "id": 625144481
-    },
-    {
-        "repo": "Sumasta_AI_Face_Recognition",
-        "description": "AI Face recognition tracking unit running and tested on Kendryte K210 SoC. 3 Models used Face model, Face landmark detection and face feature extractionand face ",
-        "owner": "sumastavr",
-        "stars": 0,
-        "forks": 0,
-        "size": 12,
-        "created": "2022-04-11T10:27:15+00:00",
-        "updated": "2022-04-11T10:27:44+00:00",
-        "pushed": "2023-10-20T16:24:44+00:00",
-        "url": "https://github.com/sumastavr/Sumasta_AI_Face_Recognition",
-        "id": 480331219
-    },
-    {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 3164,
-        "forks": 336,
-        "size": 769,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2023-10-20T17:00:50+00:00",
-        "pushed": "2023-10-20T12:01:28+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
-        "repo": "mechaScratch_404",
-        "description": null,
-        "owner": "A-N-M-Noor",
-        "stars": 0,
-        "forks": 0,
-        "size": 12963,
-        "created": "2023-08-31T13:55:56+00:00",
-        "updated": "2023-10-13T09:00:39+00:00",
-        "pushed": "2023-10-20T08:33:10+00:00",
-        "url": "https://github.com/A-N-M-Noor/mechaScratch_404",
-        "id": 685558653
-    },
-    {
-        "repo": "tech",
-        "description": null,
-        "owner": "cenzwong",
-        "stars": 0,
-        "forks": 0,
-        "size": 18476,
-        "created": "2019-10-31T07:30:35+00:00",
-        "updated": "2022-01-07T02:29:52+00:00",
-        "pushed": "2023-10-19T14:16:56+00:00",
-        "url": "https://github.com/cenzwong/tech",
-        "id": 218708914
-    },
-    {
-        "repo": "K210_Tutorial_Public",
-        "description": null,
-        "owner": "universpirit",
-        "stars": 0,
-        "forks": 1,
-        "size": 117525,
-        "created": "2023-10-13T02:53:20+00:00",
-        "updated": "2023-10-13T05:56:04+00:00",
-        "pushed": "2023-10-21T09:10:28+00:00",
-        "url": "https://github.com/universpirit/K210_Tutorial_Public",
-        "id": 704325630
-    },
-    {
-        "repo": "sipeed_m0sense",
-        "description": "Notes on how to code the M0Sense board",
-        "owner": "muriel-guedes",
-        "stars": 0,
-        "forks": 0,
-        "size": 509,
-        "created": "2023-10-21T07:14:26+00:00",
-        "updated": "2023-10-21T08:59:41+00:00",
-        "pushed": "2023-10-21T09:02:49+00:00",
-        "url": "https://github.com/muriel-guedes/sipeed_m0sense",
-        "id": 707988567
     },
     {
         "repo": "rust_sipeed_m0sense",
@@ -34391,11 +34534,37 @@
         "stars": 0,
         "forks": 0,
         "size": 1519,
-        "created": "2023-10-18T11:29:19+00:00",
-        "updated": "2023-10-21T07:14:39+00:00",
-        "pushed": "2023-10-21T07:09:21+00:00",
+        "created": "2023-10-18T11:29:19Z",
+        "updated": "2023-10-21T07:14:39Z",
+        "pushed": "2023-10-21T07:09:21Z",
         "url": "https://github.com/muriel-guedes/rust_sipeed_m0sense",
         "id": 706656697
+    },
+    {
+        "repo": "things-2-k21082681",
+        "description": "things-2-k21082681 created by GitHub Classroom",
+        "owner": "KCL-SEG",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2023-10-19T01:56:46Z",
+        "updated": "2023-10-19T01:56:51Z",
+        "pushed": "2023-10-19T02:33:42Z",
+        "url": "https://github.com/KCL-SEG/things-2-k21082681",
+        "id": 706984851
+    },
+    {
+        "repo": "sipeed_m0sense",
+        "description": "Notes on how to code the M0Sense board",
+        "owner": "muriel-guedes",
+        "stars": 0,
+        "forks": 0,
+        "size": 509,
+        "created": "2023-10-21T07:14:26Z",
+        "updated": "2023-10-21T08:59:41Z",
+        "pushed": "2023-10-21T09:02:49Z",
+        "url": "https://github.com/muriel-guedes/sipeed_m0sense",
+        "id": 707988567
     },
     {
         "repo": "MaiXuanThien",
@@ -34404,179 +34573,10 @@
         "stars": 0,
         "forks": 0,
         "size": 0,
-        "created": "2023-10-21T15:26:03+00:00",
-        "updated": "2023-10-21T15:26:04+00:00",
-        "pushed": "2023-10-21T15:26:04+00:00",
+        "created": "2023-10-21T15:26:03Z",
+        "updated": "2023-10-21T15:26:04Z",
+        "pushed": "2023-10-21T15:26:04Z",
         "url": "https://github.com/MaiXuanThien/MaiXuanThien",
         "id": 708118693
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 142,
-        "forks": 109,
-        "size": 236,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2023-10-20T07:59:34+00:00",
-        "pushed": "2023-10-21T01:49:40+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 423,
-        "forks": 127,
-        "size": 897,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2023-10-18T04:14:29+00:00",
-        "pushed": "2023-10-21T13:18:28+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
-    },
-    {
-        "repo": "wmt_ai_study",
-        "description": "My AI study",
-        "owner": "weimingtom",
-        "stars": 17,
-        "forks": 2,
-        "size": 1720,
-        "created": "2018-08-26T09:31:59+00:00",
-        "updated": "2023-08-20T12:40:39+00:00",
-        "pushed": "2023-10-21T09:47:39+00:00",
-        "url": "https://github.com/weimingtom/wmt_ai_study",
-        "id": 146167925
-    },
-    {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 3,
-        "forks": 1,
-        "size": 844,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-10-17T20:11:04+00:00",
-        "pushed": "2023-10-21T15:02:25+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
-        "repo": "wmt_lvgl_study",
-        "description": "My LVGL study",
-        "owner": "weimingtom",
-        "stars": 2,
-        "forks": 0,
-        "size": 1212,
-        "created": "2022-02-20T07:04:41+00:00",
-        "updated": "2023-07-10T21:39:03+00:00",
-        "pushed": "2023-10-21T13:23:24+00:00",
-        "url": "https://github.com/weimingtom/wmt_lvgl_study",
-        "id": 461410963
-    },
-    {
-        "repo": "wmt_arduino_study",
-        "description": "My Arduino Uno study",
-        "owner": "weimingtom",
-        "stars": 1,
-        "forks": 0,
-        "size": 916,
-        "created": "2018-08-01T00:23:42+00:00",
-        "updated": "2023-04-02T08:00:43+00:00",
-        "pushed": "2023-10-21T12:57:10+00:00",
-        "url": "https://github.com/weimingtom/wmt_arduino_study",
-        "id": 143083301
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 76,
-        "forks": 25,
-        "size": 137989,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-10-21T21:56:47+00:00",
-        "pushed": "2023-10-21T19:18:55+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8867,
-        "forks": 4679,
-        "size": 774905,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-10-22T16:32:03+00:00",
-        "pushed": "2023-10-22T16:21:20+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "rustpie",
-        "description": "Rustpi Enhanced",
-        "owner": "tonnylyz",
-        "stars": 3,
-        "forks": 3,
-        "size": 1584,
-        "created": "2021-05-09T08:29:27+00:00",
-        "updated": "2022-10-18T05:49:48+00:00",
-        "pushed": "2023-10-22T13:43:35+00:00",
-        "url": "https://github.com/tonnylyz/rustpie",
-        "id": 365704100
-    },
-    {
-        "repo": "masks-detect-for-k210",
-        "description": "\u4e00\u4e2a\u4eba\u8138\u68c0\u6d4b for k210",
-        "owner": "liyang8246",
-        "stars": 4,
-        "forks": 0,
-        "size": 19606,
-        "created": "2021-04-11T07:14:37+00:00",
-        "updated": "2023-10-22T05:46:52+00:00",
-        "pushed": "2023-10-22T05:46:48+00:00",
-        "url": "https://github.com/liyang8246/masks-detect-for-k210",
-        "id": 356795330
-    },
-    {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 733,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-10-22T17:19:31+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 5476,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-10-22T01:40:05+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 81,
-        "forks": 32,
-        "size": 530888,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-10-16T19:52:30+00:00",
-        "pushed": "2023-10-22T12:21:34+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
     }
 ]

@@ -715,6 +715,19 @@
         "id": 29550709
     },
     {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 952,
+        "forks": 236,
+        "size": 13387,
+        "created": "2015-02-07T19:50:27Z",
+        "updated": "2023-10-20T11:17:15Z",
+        "pushed": "2023-10-19T18:54:26Z",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
         "repo": "verilog-flowgen",
         "description": "Ethernet flow generator framework",
         "owner": "alexforencich",
@@ -791,6 +804,19 @@
         "pushed": "2018-06-03T09:07:29Z",
         "url": "https://github.com/Chennaipy/talks",
         "id": 31850054
+    },
+    {
+        "repo": "Veriutils",
+        "description": "Verification Utilities for MyHDL",
+        "owner": "hgomersall",
+        "stars": 17,
+        "forks": 3,
+        "size": 434,
+        "created": "2015-03-13T20:28:43Z",
+        "updated": "2023-10-19T11:35:32Z",
+        "pushed": "2023-10-19T11:35:27Z",
+        "url": "https://github.com/hgomersall/Veriutils",
+        "id": 32179276
     },
     {
         "repo": "myhdl_exercises",
@@ -2574,6 +2600,19 @@
         "id": 143414106
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 28,
+        "forks": 23,
+        "size": 41128,
+        "created": "2018-08-04T10:46:25Z",
+        "updated": "2023-07-22T03:52:44Z",
+        "pushed": "2023-10-21T02:07:05Z",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "VLSI-Design",
         "description": null,
         "owner": "rajeshbabua",
@@ -2637,6 +2676,19 @@
         "pushed": "2018-10-07T16:57:45Z",
         "url": "https://github.com/ithinuel/fpga_sandbox_lib",
         "id": 151963360
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 4,
+        "forks": 1,
+        "size": 4381,
+        "created": "2018-10-24T07:32:54Z",
+        "updated": "2023-05-28T02:41:24Z",
+        "pushed": "2023-10-21T10:27:03Z",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
     },
     {
         "repo": "hdlModelicaInterfaceGen",
@@ -2754,6 +2806,19 @@
         "pushed": "2018-12-17T17:53:21Z",
         "url": "https://github.com/baran0119/softmax_function",
         "id": 162117953
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 6,
+        "forks": 3,
+        "size": 554,
+        "created": "2018-12-17T13:05:20Z",
+        "updated": "2023-01-31T17:34:01Z",
+        "pushed": "2023-10-19T12:00:55Z",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
     },
     {
         "repo": "fixed_point",
@@ -3679,6 +3744,19 @@
         "id": 355868479
     },
     {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 44,
+        "forks": 9,
+        "size": 1448,
+        "created": "2021-04-23T03:21:13Z",
+        "updated": "2023-10-10T13:33:42Z",
+        "pushed": "2023-10-20T23:16:00Z",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
+    },
+    {
         "repo": "PyMIPS",
         "description": "MIPS CPU Implemented with MyHDL",
         "owner": "TianyiFranklinWang",
@@ -4085,11 +4163,11 @@
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
-        "stars": 1517,
-        "forks": 126,
+        "stars": 1535,
+        "forks": 128,
         "size": 123,
         "created": "2022-04-07T19:18:24Z",
-        "updated": "2023-10-17T13:15:17Z",
+        "updated": "2023-10-21T22:48:43Z",
         "pushed": "2023-10-13T16:48:32Z",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
@@ -4459,6 +4537,19 @@
         "id": 642350603
     },
     {
+        "repo": "gubscruz",
+        "description": null,
+        "owner": "Gubscruz",
+        "stars": 0,
+        "forks": 0,
+        "size": 26,
+        "created": "2023-05-27T14:06:20Z",
+        "updated": "2023-05-27T14:06:21Z",
+        "pushed": "2023-10-20T13:48:04Z",
+        "url": "https://github.com/Gubscruz/gubscruz",
+        "id": 646169567
+    },
+    {
         "repo": "myhdl2.0",
         "description": "MyHDL2.0 builds on MyHDL (https://github.com/myhdl/myhdl - https://www.myhdl.org)",
         "owner": "myhdl2",
@@ -4595,101 +4686,10 @@
         "stars": 0,
         "forks": 0,
         "size": 0,
-        "created": "2023-10-19T03:26:25+00:00",
-        "updated": "2023-10-19T03:26:25+00:00",
-        "pushed": "2023-10-19T03:26:25+00:00",
+        "created": "2023-10-19T03:26:25Z",
+        "updated": "2023-10-19T03:26:25Z",
+        "pushed": "2023-10-19T03:26:25Z",
         "url": "https://github.com/mdzakirhussain/myhdl123",
         "id": 707008319
-    },
-    {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 952,
-        "forks": 236,
-        "size": 13387,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2023-10-20T11:17:15+00:00",
-        "pushed": "2023-10-19T18:54:26+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
-        "repo": "Veriutils",
-        "description": "Verification Utilities for MyHDL",
-        "owner": "hgomersall",
-        "stars": 17,
-        "forks": 3,
-        "size": 434,
-        "created": "2015-03-13T20:28:43+00:00",
-        "updated": "2023-10-19T11:35:32+00:00",
-        "pushed": "2023-10-19T11:35:27+00:00",
-        "url": "https://github.com/hgomersall/Veriutils",
-        "id": 32179276
-    },
-    {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 6,
-        "forks": 3,
-        "size": 554,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2023-01-31T17:34:01+00:00",
-        "pushed": "2023-10-19T12:00:55+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
-        "repo": "gubscruz",
-        "description": null,
-        "owner": "Gubscruz",
-        "stars": 0,
-        "forks": 0,
-        "size": 26,
-        "created": "2023-05-27T14:06:20+00:00",
-        "updated": "2023-05-27T14:06:21+00:00",
-        "pushed": "2023-10-20T13:48:04+00:00",
-        "url": "https://github.com/Gubscruz/gubscruz",
-        "id": 646169567
-    },
-    {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 44,
-        "forks": 9,
-        "size": 1424,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2023-10-10T13:33:42+00:00",
-        "pushed": "2023-10-20T20:17:20+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 28,
-        "forks": 23,
-        "size": 41128,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2023-07-22T03:52:44+00:00",
-        "pushed": "2023-10-21T02:07:05+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 4,
-        "forks": 1,
-        "size": 4381,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2023-05-28T02:41:24+00:00",
-        "pushed": "2023-10-21T10:27:03+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
     }
 ]

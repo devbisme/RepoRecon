@@ -107,11 +107,11 @@
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
-        "stars": 405,
+        "stars": 406,
         "forks": 97,
         "size": 1547,
         "created": "2015-09-07T08:45:27Z",
-        "updated": "2023-10-18T03:09:12Z",
+        "updated": "2023-10-19T16:08:43Z",
         "pushed": "2023-10-09T13:04:36Z",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
@@ -146,11 +146,11 @@
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
-        "stars": 177,
+        "stars": 178,
         "forks": 75,
         "size": 1309,
         "created": "2015-09-07T11:13:19Z",
-        "updated": "2023-10-16T19:19:26Z",
+        "updated": "2023-10-20T04:00:41Z",
         "pushed": "2023-10-13T12:31:16Z",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
@@ -167,6 +167,19 @@
         "pushed": "2021-08-03T05:45:13Z",
         "url": "https://github.com/litex-hub/litex-conda-packages",
         "id": 42150817
+    },
+    {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2401,
+        "forks": 481,
+        "size": 16026,
+        "created": "2015-11-07T12:02:12Z",
+        "updated": "2023-10-22T12:25:10Z",
+        "pushed": "2023-10-22T06:53:13Z",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
     },
     {
         "repo": "HDMI2USB-litex-firmware-old",
@@ -936,6 +949,19 @@
         "id": 137648453
     },
     {
+        "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
+        "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 VPS or Dedicated Servers",
+        "owner": "goodthebest",
+        "stars": 42,
+        "forks": 49,
+        "size": 430,
+        "created": "2018-06-18T01:53:03Z",
+        "updated": "2023-10-03T07:28:19Z",
+        "pushed": "2023-10-22T10:12:52Z",
+        "url": "https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
+        "id": 137700800
+    },
+    {
         "repo": "ber_analyzer_gtp",
         "description": "Bit error ratio analyzer for high speed serial transreception. Uses LiteX libraries. ",
         "owner": "harshgugale",
@@ -973,6 +999,19 @@
         "pushed": "2019-07-03T07:53:48Z",
         "url": "https://github.com/xobs/wishbone-adapter",
         "id": 138613446
+    },
+    {
+        "repo": "sanpy",
+        "description": "Santiment API Python Client",
+        "owner": "santiment",
+        "stars": 88,
+        "forks": 27,
+        "size": 1103,
+        "created": "2018-07-02T07:33:48Z",
+        "updated": "2023-10-17T07:31:44Z",
+        "pushed": "2023-10-20T07:42:48Z",
+        "url": "https://github.com/santiment/sanpy",
+        "id": 139407496
     },
     {
         "repo": "ltx",
@@ -1355,11 +1394,11 @@
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
-        "stars": 1100,
-        "forks": 156,
+        "stars": 1102,
+        "forks": 157,
         "size": 12731,
         "created": "2018-10-31T07:15:00Z",
-        "updated": "2023-10-17T15:10:03Z",
+        "updated": "2023-10-22T02:39:12Z",
         "pushed": "2023-10-16T19:43:14Z",
         "url": "https://github.com/olofk/serv",
         "id": 155514739
@@ -1664,6 +1703,19 @@
         "id": 183391336
     },
     {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 484,
+        "forks": 158,
+        "size": 9718,
+        "created": "2019-04-25T08:36:15Z",
+        "updated": "2023-10-09T18:19:32Z",
+        "pushed": "2023-10-20T09:38:16Z",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
         "repo": "litexa",
         "description": "Language and toolchain for writing Alexa skills.",
         "owner": "alexa-games",
@@ -1805,6 +1857,19 @@
         "pushed": "2021-09-22T15:02:34Z",
         "url": "https://github.com/litex-hub/litex-renode",
         "id": 190912303
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 306,
+        "forks": 251,
+        "size": 3732,
+        "created": "2019-06-10T15:09:10Z",
+        "updated": "2023-10-20T20:55:27Z",
+        "pushed": "2023-10-19T19:47:32Z",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
     },
     {
         "repo": "wishbone-utils",
@@ -2366,6 +2431,19 @@
         "id": 225145536
     },
     {
+        "repo": "appkit",
+        "description": "Android app boilerplate + image loader",
+        "owner": "grishka",
+        "stars": 38,
+        "forks": 17,
+        "size": 231,
+        "created": "2019-12-03T14:40:58Z",
+        "updated": "2023-09-28T16:12:38Z",
+        "pushed": "2023-10-20T20:23:30Z",
+        "url": "https://github.com/grishka/appkit",
+        "id": 225642630
+    },
+    {
         "repo": "LiteX",
         "description": "A lightweight version of popular AndroidX UI components without AppCompat dependency. API 21+",
         "owner": "grishka",
@@ -2585,6 +2663,19 @@
         "pushed": "2020-01-25T15:23:24Z",
         "url": "https://github.com/andref796/litexbuild-env",
         "id": 236187669
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "Collect useful and interesting tools or projects in embedded world and also share some hot news | \u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 224,
+        "forks": 30,
+        "size": 126127,
+        "created": "2020-02-03T10:36:21Z",
+        "updated": "2023-10-22T14:58:44Z",
+        "pushed": "2023-10-22T13:59:11Z",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
     },
     {
         "repo": "migen-playground",
@@ -3406,6 +3497,19 @@
         "id": 261935333
     },
     {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1038,
+        "forks": 155,
+        "size": 37576,
+        "created": "2020-05-07T21:38:30Z",
+        "updated": "2023-10-21T08:36:30Z",
+        "pushed": "2023-10-21T04:27:05Z",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
         "repo": "minimal-artix",
         "description": "minimal litex/migen project for teaching purposes",
         "owner": "bunnie",
@@ -3487,11 +3591,11 @@
         "repo": "learn-fpga",
         "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
         "owner": "BrunoLevy",
-        "stars": 2063,
-        "forks": 192,
+        "stars": 2069,
+        "forks": 196,
         "size": 239497,
         "created": "2020-05-27T15:04:05Z",
-        "updated": "2023-10-17T19:54:51Z",
+        "updated": "2023-10-22T11:02:13Z",
         "pushed": "2023-10-07T09:53:23Z",
         "url": "https://github.com/BrunoLevy/learn-fpga",
         "id": 267350664
@@ -3573,6 +3677,19 @@
         "pushed": "2021-06-15T16:15:18Z",
         "url": "https://github.com/enjoy-digital/fk33_hbm2_test",
         "id": 273157858
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1252,
+        "forks": 175,
+        "size": 199839,
+        "created": "2020-06-23T15:29:41Z",
+        "updated": "2023-10-19T22:36:07Z",
+        "pushed": "2023-10-21T05:09:16Z",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
     },
     {
         "repo": "litex-docker",
@@ -4745,6 +4862,19 @@
         "id": 329131043
     },
     {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 18473,
+        "created": "2021-01-18T21:41:11Z",
+        "updated": "2022-02-11T15:07:58Z",
+        "pushed": "2023-10-21T00:58:19Z",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
         "repo": "androidx-litex",
         "description": "A lightweight version of popular AndroidX UI components without AppCompat dependency. API 21+",
         "owner": "mashtechk",
@@ -4795,6 +4925,19 @@
         "pushed": "2021-11-21T03:31:03Z",
         "url": "https://github.com/SMB784/SQRL_quickstart",
         "id": 334542383
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 520,
+        "forks": 49,
+        "size": 901,
+        "created": "2021-02-01T08:34:29Z",
+        "updated": "2023-10-20T13:28:06Z",
+        "pushed": "2023-10-22T01:59:53Z",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
     },
     {
         "repo": "pir_at",
@@ -5003,6 +5146,19 @@
         "pushed": "2021-04-04T19:28:51Z",
         "url": "https://github.com/RobertWilbrandt/litex_zephyr_export",
         "id": 346137023
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 413,
+        "forks": 99,
+        "size": 41652,
+        "created": "2021-03-09T21:38:18Z",
+        "updated": "2023-10-19T20:02:09Z",
+        "pushed": "2023-10-19T02:10:18Z",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
     },
     {
         "repo": "my-litex-board",
@@ -6082,6 +6238,19 @@
         "pushed": "2021-10-04T05:17:54Z",
         "url": "https://github.com/candeira/circuitpython",
         "id": 413281994
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 182,
+        "forks": 30,
+        "size": 3747,
+        "created": "2021-10-04T09:31:06Z",
+        "updated": "2023-10-20T14:24:07Z",
+        "pushed": "2023-10-18T12:40:04Z",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
     },
     {
         "repo": "fpga-isp-core",
@@ -7241,6 +7410,19 @@
         "id": 462946070
     },
     {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 36,
+        "forks": 12,
+        "size": 23059,
+        "created": "2022-02-28T21:58:22Z",
+        "updated": "2023-10-22T04:05:54Z",
+        "pushed": "2023-10-19T20:36:04Z",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
         "repo": "fpga_pcie_ethernet",
         "description": null,
         "owner": "tongchen126",
@@ -7304,6 +7486,19 @@
         "pushed": "2022-03-09T01:14:36Z",
         "url": "https://github.com/curliph/tang_nano_9k_test",
         "id": 467527028
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 14,
+        "forks": 5,
+        "size": 19703,
+        "created": "2022-03-09T17:28:30Z",
+        "updated": "2023-10-16T13:09:39Z",
+        "pushed": "2023-10-22T15:12:11Z",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
     },
     {
         "repo": "litex-can",
@@ -7439,11 +7634,11 @@
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
-        "stars": 1517,
-        "forks": 126,
+        "stars": 1535,
+        "forks": 128,
         "size": 123,
         "created": "2022-04-07T19:18:24Z",
-        "updated": "2023-10-17T13:15:17Z",
+        "updated": "2023-10-21T22:48:43Z",
         "pushed": "2023-10-13T16:48:32Z",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
@@ -7473,6 +7668,19 @@
         "pushed": "2022-04-14T07:31:22Z",
         "url": "https://github.com/wutingting19937/timvideosv",
         "id": 481509219
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 2,
+        "forks": 2,
+        "size": 995,
+        "created": "2022-04-20T04:38:48Z",
+        "updated": "2023-10-08T19:10:45Z",
+        "pushed": "2023-10-20T23:22:32Z",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
     },
     {
         "repo": "litex-bin",
@@ -7917,6 +8125,32 @@
         "id": 504681283
     },
     {
+        "repo": "litex_reference_designs",
+        "description": "Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.",
+        "owner": "RapidSilicon",
+        "stars": 7,
+        "forks": 1,
+        "size": 2822,
+        "created": "2022-06-20T12:48:11Z",
+        "updated": "2023-09-27T01:03:19Z",
+        "pushed": "2023-10-19T10:39:17Z",
+        "url": "https://github.com/RapidSilicon/litex_reference_designs",
+        "id": 505438688
+    },
+    {
+        "repo": "pogobot",
+        "description": "Pogobot is an open-source open-hardware robotic platform for swarm robotics",
+        "owner": "nekonaute",
+        "stars": 3,
+        "forks": 1,
+        "size": 96024,
+        "created": "2022-06-20T13:59:40Z",
+        "updated": "2023-10-09T07:38:39Z",
+        "pushed": "2023-10-20T07:11:26Z",
+        "url": "https://github.com/nekonaute/pogobot",
+        "id": 505464574
+    },
+    {
         "repo": "pogobot-sdk",
         "description": "SDK for the Pogobot open-source open-hardware robotic platform for swarm robotics",
         "owner": "nekonaute",
@@ -8240,6 +8474,19 @@
         "pushed": "2022-08-25T11:12:31Z",
         "url": "https://github.com/Lefteris-B/Risc-V-SoC-Using-LiteX",
         "id": 520052803
+    },
+    {
+        "repo": "timing-scripts",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 1,
+        "size": 2559,
+        "created": "2022-08-04T14:43:40Z",
+        "updated": "2022-11-15T21:41:40Z",
+        "pushed": "2023-10-19T10:59:25Z",
+        "url": "https://github.com/efabless/timing-scripts",
+        "id": 521304090
     },
     {
         "repo": "svb-vit74-faeboli",
@@ -8593,6 +8840,19 @@
         "id": 545166594
     },
     {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 1147,
+        "created": "2022-10-04T18:56:03Z",
+        "updated": "2022-12-15T00:48:05Z",
+        "pushed": "2023-10-22T04:34:52Z",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "litex_board_nexys_A7",
         "description": null,
         "owner": "Crateus",
@@ -8747,6 +9007,32 @@
         "pushed": "2022-10-28T16:06:26Z",
         "url": "https://github.com/jevinskie/litex-fork-searchable",
         "id": 558928941
+    },
+    {
+        "repo": "VintageBusFPGA_Common",
+        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
+        "owner": "rdolbeau",
+        "stars": 3,
+        "forks": 0,
+        "size": 643,
+        "created": "2022-10-31T14:30:10Z",
+        "updated": "2023-01-17T11:30:07Z",
+        "pushed": "2023-10-22T07:10:34Z",
+        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
+        "id": 559997034
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 2,
+        "forks": 0,
+        "size": 30904,
+        "created": "2022-11-02T05:52:24Z",
+        "updated": "2023-03-03T15:24:45Z",
+        "pushed": "2023-10-22T15:18:27Z",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     },
     {
         "repo": "linux-on-litex-openc906",
@@ -10309,6 +10595,19 @@
         "id": 658001305
     },
     {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 16,
+        "forks": 1,
+        "size": 4166,
+        "created": "2023-06-26T07:33:05Z",
+        "updated": "2023-10-03T12:05:56Z",
+        "pushed": "2023-10-22T00:14:56Z",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "renode-models-analyzer",
         "description": null,
         "owner": "antmicro",
@@ -10933,212 +11232,30 @@
         "id": 703024693
     },
     {
-        "repo": "jesd_test",
-        "description": null,
-        "owner": "openchips",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2023-10-19T14:32:29+00:00",
-        "updated": "2023-10-19T14:34:19+00:00",
-        "pushed": "2023-10-19T14:38:58+00:00",
-        "url": "https://github.com/openchips/jesd_test",
-        "id": 707259278
-    },
-    {
         "repo": "tn_vdp",
         "description": null,
         "owner": "Vakon84",
         "stars": 0,
         "forks": 0,
         "size": 177563,
-        "created": "2023-10-18T23:08:37+00:00",
-        "updated": "2023-10-18T23:12:25+00:00",
-        "pushed": "2023-10-18T23:11:33+00:00",
+        "created": "2023-10-18T23:08:37Z",
+        "updated": "2023-10-18T23:12:25Z",
+        "pushed": "2023-10-18T23:11:33Z",
         "url": "https://github.com/Vakon84/tn_vdp",
         "id": 706946632
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 306,
-        "forks": 251,
-        "size": 3732,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2023-10-20T20:55:27+00:00",
-        "pushed": "2023-10-19T19:47:32+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 484,
-        "forks": 158,
-        "size": 9718,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2023-10-09T18:19:32+00:00",
-        "pushed": "2023-10-20T09:38:16+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 413,
-        "forks": 98,
-        "size": 41652,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2023-10-19T20:02:09+00:00",
-        "pushed": "2023-10-19T02:10:18+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 35,
-        "forks": 12,
-        "size": 23059,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2023-10-19T08:02:36+00:00",
-        "pushed": "2023-10-19T20:36:04+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
-        "repo": "NaxRiscv",
+        "repo": "jesd_test",
         "description": null,
-        "owner": "SpinalHDL",
-        "stars": 182,
-        "forks": 30,
-        "size": 3747,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2023-10-20T14:24:07+00:00",
-        "pushed": "2023-10-18T12:40:04+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
-    },
-    {
-        "repo": "appkit",
-        "description": "Android app boilerplate + image loader",
-        "owner": "grishka",
-        "stars": 38,
-        "forks": 17,
-        "size": 231,
-        "created": "2019-12-03T14:40:58+00:00",
-        "updated": "2023-09-28T16:12:38+00:00",
-        "pushed": "2023-10-20T20:23:30+00:00",
-        "url": "https://github.com/grishka/appkit",
-        "id": 225642630
-    },
-    {
-        "repo": "litex_reference_designs",
-        "description": "Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.",
-        "owner": "RapidSilicon",
-        "stars": 7,
-        "forks": 1,
-        "size": 2822,
-        "created": "2022-06-20T12:48:11+00:00",
-        "updated": "2023-09-27T01:03:19+00:00",
-        "pushed": "2023-10-19T10:39:17+00:00",
-        "url": "https://github.com/RapidSilicon/litex_reference_designs",
-        "id": 505438688
-    },
-    {
-        "repo": "pogobot",
-        "description": "Pogobot is an open-source open-hardware robotic platform for swarm robotics",
-        "owner": "nekonaute",
-        "stars": 3,
-        "forks": 1,
-        "size": 96024,
-        "created": "2022-06-20T13:59:40+00:00",
-        "updated": "2023-10-09T07:38:39+00:00",
-        "pushed": "2023-10-20T07:11:26+00:00",
-        "url": "https://github.com/nekonaute/pogobot",
-        "id": 505464574
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 2,
-        "forks": 2,
-        "size": 996,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2023-10-08T19:10:45+00:00",
-        "pushed": "2023-10-20T04:14:02+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
-        "repo": "sanpy",
-        "description": "Santiment API Python Client",
-        "owner": "santiment",
-        "stars": 88,
-        "forks": 27,
-        "size": 1103,
-        "created": "2018-07-02T07:33:48+00:00",
-        "updated": "2023-10-17T07:31:44+00:00",
-        "pushed": "2023-10-20T07:42:48+00:00",
-        "url": "https://github.com/santiment/sanpy",
-        "id": 139407496
-    },
-    {
-        "repo": "timing-scripts",
-        "description": null,
-        "owner": "efabless",
+        "owner": "openchips",
         "stars": 0,
-        "forks": 1,
-        "size": 2559,
-        "created": "2022-08-04T14:43:40+00:00",
-        "updated": "2022-11-15T21:41:40+00:00",
-        "pushed": "2023-10-19T10:59:25+00:00",
-        "url": "https://github.com/efabless/timing-scripts",
-        "id": 521304090
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1252,
-        "forks": 175,
-        "size": 199839,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-10-19T22:36:07+00:00",
-        "pushed": "2023-10-21T05:09:16+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1038,
-        "forks": 155,
-        "size": 37576,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2023-10-21T08:36:30+00:00",
-        "pushed": "2023-10-21T04:27:05+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
         "forks": 0,
-        "size": 18473,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2023-10-21T00:58:19+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
+        "size": 8,
+        "created": "2023-10-19T14:32:29Z",
+        "updated": "2023-10-19T14:34:19Z",
+        "pushed": "2023-10-19T14:38:58Z",
+        "url": "https://github.com/openchips/jesd_test",
+        "id": 707259278
     },
     {
         "repo": "open-eda-course",
@@ -11147,127 +11264,10 @@
         "stars": 0,
         "forks": 0,
         "size": 78671,
-        "created": "2023-10-21T18:44:38+00:00",
-        "updated": "2023-10-21T18:58:29+00:00",
-        "pushed": "2023-10-21T19:32:20+00:00",
+        "created": "2023-10-21T18:44:38Z",
+        "updated": "2023-10-21T18:58:29Z",
+        "pushed": "2023-10-21T19:32:20Z",
         "url": "https://github.com/asinghani/open-eda-course",
         "id": 708175332
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2401,
-        "forks": 481,
-        "size": 16026,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2023-10-22T12:25:10+00:00",
-        "pushed": "2023-10-22T06:53:13+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 520,
-        "forks": 49,
-        "size": 901,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-10-20T13:28:06+00:00",
-        "pushed": "2023-10-22T01:59:53+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 14,
-        "forks": 5,
-        "size": 19703,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-10-16T13:09:39+00:00",
-        "pushed": "2023-10-22T15:12:11+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "VintageBusFPGA_Common",
-        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
-        "owner": "rdolbeau",
-        "stars": 3,
-        "forks": 0,
-        "size": 643,
-        "created": "2022-10-31T14:30:10+00:00",
-        "updated": "2023-01-17T11:30:07+00:00",
-        "pushed": "2023-10-22T07:10:34+00:00",
-        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
-        "id": 559997034
-    },
-    {
-        "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
-        "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 VPS or Dedicated Servers",
-        "owner": "goodthebest",
-        "stars": 42,
-        "forks": 49,
-        "size": 430,
-        "created": "2018-06-18T01:53:03+00:00",
-        "updated": "2023-10-03T07:28:19+00:00",
-        "pushed": "2023-10-22T10:12:52+00:00",
-        "url": "https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
-        "id": 137700800
-    },
-    {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "Collect useful and interesting tools or projects in embedded world and also share some hot news | \u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 224,
-        "forks": 30,
-        "size": 126127,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2023-10-22T14:58:44+00:00",
-        "pushed": "2023-10-22T13:59:11+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 16,
-        "forks": 1,
-        "size": 4166,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2023-10-03T12:05:56+00:00",
-        "pushed": "2023-10-22T00:14:56+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 1147,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-10-22T04:34:52+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 2,
-        "forks": 0,
-        "size": 30904,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2023-03-03T15:24:45+00:00",
-        "pushed": "2023-10-22T15:18:27+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
     }
 ]
