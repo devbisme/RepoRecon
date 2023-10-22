@@ -84,7 +84,7 @@ do
         for date_type in created pushed
         do
 
-            echo "Searching repos for $date_type:$search_date ..."
+            echo "    Searching $title repos for $date_type:$search_date ..."
 
             # Scan through each page of search results until a non-full page appears.
             # Search is limited to 1000 results so stop after page .
