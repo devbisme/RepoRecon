@@ -9,9 +9,8 @@ from datetime import datetime as dt
 from github import Github
 
 
-# Authenticate with GitHub using a personal access token.
-g = Github() # Slower access.
-# g = Github("YOUR_PERSONAL_ACCESS_TOKEN")
+# Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
+g = Github(os.environ.get("REPORECON_GITHUB_TOKEN"))
 
 
 def gather_github_repos(title, search_term, repo_file):
