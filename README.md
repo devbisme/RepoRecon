@@ -1,8 +1,8 @@
 # RepoRecon
 
 This project consists of two tools:
-1. A shell script that queries Github for groups of repositories mentioning various topics and
-   stores information about them in a set of JSON files.
+1. A Python script that queries Github for groups of repositories mentioning various topics and
+   stores information about them in a set of JSON files. (There is also a shell-script version of this.)
 2. A single-page Javascript app that displays the collections of repos as a set of BATs (big-ass tables)
    that allow searching, filtering, and sorting.
 
@@ -18,12 +18,12 @@ If you want to run it locally, do this:
 If you want to update the tables with the latest repository information, do this:
 1. Install this Python dependency: `pip install PyGithub`
 1. Go into the `docs` directory.
-2. Run the `scan_repos` script.
+2. Run the `scan_repos.py` script (requires Python 3) or the `scan_repos` shell script.
 3. Refresh your web browser page.
 
 If you want to modify the list of topics for collecting repositories, do this:
 1. Edit the contents of the `docs/topics.json` file.
-2. Run the `recon_repos` script. (This will take some time if you add a new topic.)
+2. Run the `scan_repos.py` or `scan_repos` script. (This will take some time if you add a new topic.)
 3. Refresh your web browser page.
 
 If you want to create a link that displays a table of collected repositories on a specific topic,
