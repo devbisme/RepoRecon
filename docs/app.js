@@ -55,7 +55,7 @@ function findColumn(name) {
     let idx = columnNameToIndex(name);
     if (idx == -1) {
         alert(`Unknown table column name: ${name}.`);
-        return null;
+        throw `Unknown table column name: ${name}.`;
     }
     return columnDefs[idx].className;
 }
@@ -95,27 +95,31 @@ function filterData(data) {
         return tableData;
     }
 
-    // Check filter string syntax.
-    if (! /^\w+:(\w+\s*)+$/.test(filterStr)) {
-        alert(`Malformed filter: ${filterStr}`);
+    // Look for strings immediately followed by colons and convert strings into full column labels.
+    // Convert strings or comma-delimited strings following a colon into .toLowerCase().includes(string.toLowerCase()).
+    // Convert 
+    
+    // Replace all matched substrings with their corresponding dictionary values.
+    try {
+        const columnNameRegex = /([^a-zA-Z]*)([a-zA-Z]+):/g;
+        filterStr = filterStr.replace(columnNameRegex, (match, beginChar, col) => {
+            const columnName = findColumn(col);
+            return beginChar + columnName + ":";
+        });
+    }
+    catch (e) {
         return tableData;
     }
 
-    // Get the column to search in.
-    [col, vals] = filterStr.split(":", 2);
-    foundCol = findColumn(col, data);
-    if (foundCol === null) {
-        clearFilter();
-        return tableData;
-    }
+    const columnValueRegex = /([a-zA-Z]+):\s*([a-zA-Z]+)/g;
+    filterExpr = filterStr.replace(columnValueRegex, (match, col, val) => {
+        return `row["${col}"].toLowerCase().includes("${val}".toLowerCase())`;
+    });
+    // console.log(`filterExpr = ${filterExpr}`);
 
-    // Search for rows where the specified column contains all the search values.
+    // Search for rows where the specified column contains the search value.
     tableData = [...data]; // Start with all the data rows.
-    for (val of vals.split(" ")) {
-        // Retain only the remaining rows that match the current value in the array of values.
-        tableData = tableData.filter(row => row[foundCol].toLowerCase().includes(val.toLowerCase()));
-    }
-
+    tableData = tableData.filter(row => eval(filterExpr))
     return tableData;
 }
 
@@ -249,8 +253,10 @@ function convertSortParam(s) {
 
     // Get the column to sort on.
     [col, dir] = s.split(":", 2);
-    foundCol = findColumn(col);
-    if (foundCol === null) {
+    try {
+        foundCol = findColumn(col);
+    }
+    catch (e) {
         return defaultSortString;
     }
 
