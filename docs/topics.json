@@ -1,10 +1,5 @@
 [
     {
-        "title": "Embedded RTOSes",
-        "search_terms": "FreeRTOS OR NuttX OR Zephyr OR RIOT",
-        "JSON_file": "embedded_rtos"
-    },
-    {
         "title": "KiCad",
         "search_terms": "kicad",
         "JSON_file": "kicad"
@@ -33,6 +28,11 @@
         "title": "FOSS Chips",
         "search_terms": "skywater OR sky130 OR efabless OR chipIgnite OR openlane",
         "JSON_file": "foss_chips"
+    },
+    {
+        "title": "Embedded RTOSes",
+        "search_terms": "FreeRTOS OR NuttX OR Zephyr OR RIOT",
+        "JSON_file": "embedded_rtos"
     },
     {
         "title": "Kendryte Microcontrollers",
