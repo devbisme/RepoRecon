@@ -73,57 +73,67 @@ function populateTable(data) {
 
     repoTable = new DataTable('#dataTable', {
         initComplete: hideWaiting, // Remove loading icon after table has been generated and displayed.
-        scrollX: false,
-        data: data,
+        scrollX: false, // Table fits within screen width, so no need for X scrolling.
+        autoWidth: false, // Necessary to DataTable respects manual column width settings.
+        order: [[columnNameToIndex(sortCol), sortDir]], // Initial sorting of table data.
         columns: columnDefs,
-        autoWidth: false,
-        order: [[columnNameToIndex(sortCol), sortDir]]
+        data: data
     });
 }
 
 // Filter the data based on the contents of the filter field.
 function filterData(data) {
 
-    // Start off with table data being everything on a topic.
+    // Start off with table data being everything given.
     tableData = [...data];
 
     // Get column:value from the web page filter imput field.
     let filterStr = filterInput.value.trim();
 
     if (filterStr === null || filterStr === undefined || filterStr.length === 0) {
-        // Filter string is blank so use all repo data.
+        // Filter string is blank so use all the given data.
         return tableData;
     }
 
-    // Look for strings immediately followed by colons and convert strings into full column labels.
-    // Convert strings or comma-delimited strings following a colon into .toLowerCase().includes(string.toLowerCase()).
-    // Convert 
-    
-    // Replace all matched substrings with their corresponding dictionary values.
+    // The following code converts the filter string into an expression that can be evaluated.
+
+    // Replace all full/abbreviated column labels (words followed by ":") with full column labels.
     try {
-        const columnNameRegex = /([^a-zA-Z]*)([a-zA-Z]+):/g;
+        const columnNameRegex = /(\W*)(\w+):/g;
         filterStr = filterStr.replace(columnNameRegex, (match, beginChar, col) => {
             const columnName = findColumn(col);
             return beginChar + columnName + ":";
         });
     }
     catch (e) {
+        // Unknown column name found, so abort and just use all the data.
         return tableData;
     }
 
-    const columnValueRegex = /([a-zA-Z]+):\s*([a-zA-Z]+)/g;
+    // Replace column labels followed by a string with expression to find the string within the column in a row of data.
+    const columnValueRegex = /(\w+):\s*(\w+)/g;
     filterExpr = filterStr.replace(columnValueRegex, (match, col, val) => {
         return `row["${col}"].toLowerCase().includes("${val}".toLowerCase())`;
     });
 
+    // Replace any remaining column labels with an expression to get that column from the row of data.
     const columnNameRegex = /([a-zA-Z]+):/g;
     filterExpr = filterExpr.replace(columnNameRegex, (match, col) => {
         return `row["${col}"]`;
     });
     console.log(`filterExpr = ${filterExpr}`);
 
-    // Search for rows where the specified column contains the search value.
-    tableData = tableData.filter(row => eval(filterExpr))
+    // Search for rows that trigger the filter expression.
+    try{
+        tableData = tableData.filter(row => eval(filterExpr))
+    }
+    catch(e){
+        // Invalid filter expression, so abort and just use all the data.
+        alert(e);
+        return tableData;
+    }
+
+    // Return the filtered data.
     return tableData;
 }
 
