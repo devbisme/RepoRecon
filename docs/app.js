@@ -115,10 +115,14 @@ function filterData(data) {
     filterExpr = filterStr.replace(columnValueRegex, (match, col, val) => {
         return `row["${col}"].toLowerCase().includes("${val}".toLowerCase())`;
     });
-    // console.log(`filterExpr = ${filterExpr}`);
+
+    const columnNameRegex = /([a-zA-Z]+):/g;
+    filterExpr = filterExpr.replace(columnNameRegex, (match, col) => {
+        return `row["${col}"]`;
+    });
+    console.log(`filterExpr = ${filterExpr}`);
 
     // Search for rows where the specified column contains the search value.
-    tableData = [...data]; // Start with all the data rows.
     tableData = tableData.filter(row => eval(filterExpr))
     return tableData;
 }
