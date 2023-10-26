@@ -75,6 +75,8 @@ function populateTable(data) {
         initComplete: hideWaiting, // Remove loading icon after table has been generated and displayed.
         scrollX: false, // Table fits within screen width, so no need for X scrolling.
         autoWidth: false, // Necessary to DataTable respects manual column width settings.
+        pageLength: 100,
+        lengthMenu: [10, 30, 100, 300, 1000],
         order: [[columnNameToIndex(sortCol), sortDir]], // Initial sorting of table data.
         columns: columnDefs,
         data: data
@@ -124,22 +126,33 @@ function filterData(data) {
     console.log(`filterExpr = ${filterExpr}`);
 
     // Search for rows that trigger the filter expression.
-    try{
+    try {
         tableData = tableData.filter(row => eval(filterExpr))
     }
-    catch(e){
+    catch (e) {
         // Invalid filter expression, so abort and just use all the data.
         alert(e);
         return tableData;
     }
 
+    // Replace the URL in the browser search bar with a URL for the filtered page.
+    showFilteredURL();
+
     // Return the filtered data.
     return tableData;
+}
+
+// Replace the URL in the browser search bar with a URL for the current filtered page.
+function showFilteredURL() {
+    encodedFilter = encodeURIComponent(filterInput.value);
+    filteredURL = `${window.location.origin}/?topic=${topicSelector.value}&filter=${encodedFilter}&sort=${sortString}`
+    window.history.replaceState(null, null, filteredURL)
 }
 
 // Clear filter so all data will be shown in the table.
 function clearFilter() {
     filterInput.value = "";
+    showFilteredURL();
     tableData = [...topicData];
 }
 
