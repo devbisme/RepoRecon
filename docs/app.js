@@ -123,7 +123,6 @@ function filterData(data) {
     filterExpr = filterExpr.replace(columnNameRegex, (match, col) => {
         return `row["${col}"]`;
     });
-    console.log(`filterExpr = ${filterExpr}`);
 
     // Search for rows that trigger the filter expression.
     try {
@@ -145,7 +144,7 @@ function filterData(data) {
 // Replace the URL in the browser search bar with a URL for the current filtered page.
 function showFilteredURL() {
     encodedFilter = encodeURIComponent(filterInput.value);
-    filteredURL = `${window.location.origin}/?topic=${topicSelector.value}&filter=${encodedFilter}&sort=${sortString}`
+    filteredURL = `${window.location.origin}${window.location.pathname}?topic=${topicSelector.value}&filter=${encodedFilter}&sort=${sortString}`
     window.history.replaceState(null, null, filteredURL)
 }
 
