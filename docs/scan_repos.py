@@ -10,7 +10,7 @@ from github import Github
 
 
 # Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
-g = Github(os.environ.get("REPORECON_GITHUB_TOKEN"))
+g = Github(os.getenv("REPORECON_GITHUB_TOKEN"))
 
 
 def gather_github_repos(title, search_term, repo_file):
@@ -46,6 +46,8 @@ def gather_github_repos(title, search_term, repo_file):
         # If no repos from a previous search, then start search at earliest possible data.
         start_yr = earliest_start_yr
         start_mo = earliest_start_mo
+        # If no existing repos, just search for repos by creation date.
+        date_types = ["created"]
     else:
         # Else, find the most recent repo and start searching from that year/month.
         for repo in prev_repos:
@@ -54,6 +56,8 @@ def gather_github_repos(title, search_term, repo_file):
         # Get the year/month of the most recent repo.
         start_yr = int(latest_repo["pushed"][0:4])
         start_mo = int(latest_repo["pushed"][5:7])
+        # If there are existing repos, also search by pushed date to catch old repos that were recently pushed.
+        date_types = ["pushed", "created"]
 
     # The current year is the last year of the search range.
     end_yr = dt.now().year
@@ -84,7 +88,7 @@ def gather_github_repos(title, search_term, repo_file):
             # This could exceed the search limit of 1000 results, so also search based on creation date
             # so that new repos aren't missed (there will be fewer of them).
             # Never use "updated"! It seems to grab a lot of repos without regard to dates.
-            for date_type in ["created", "pushed"]:
+            for date_type in date_types:
                 print(f"    Searching {title} repos for {date_type}:{search_date} ...")
 
                 # Define the search query.
@@ -112,6 +116,10 @@ def gather_github_repos(title, search_term, repo_file):
 
             # Date type done.
         # Month done.
+
+        # Dump what we have so far.
+        # with open("checkpoint.json", "w") as f:
+        #     json.dump(new_repos, f, indent=4)
 
         # Reset the start month to 1 for the next year.
         start_mo = 1
