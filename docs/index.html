@@ -38,6 +38,31 @@
             <div id="numRepos"></div>
         </div>
         <div id="filterDiv" style="text-align:right;">
+            <div class="info-icon">
+                <img id="info-icon" src="info.png" alt="Info" width="20px" vertical-align="sub">
+                <span class="help-text">
+                    <h3 style="margin-top:0px">Filter</h3>
+                    <p>
+                    This constructs a table by extracting rows from the complete data set whose column entries
+                    match specified values.
+                    Columns are referenced using the first few letters of their name followed by a colon (:)
+                    and then the value to match.
+                    For example, the filter <b><code>desc:raspberrypi</code></b> would extract all rows having
+                    the string <b><code>raspberrypi</code></b> in their <b>Description</b> column.
+                    <p>
+                    You can use logical operators (&&, ||, and !) and comparison operators (<, >, ==) along with
+                    parentheses for grouping. For example, this would filter for repos having combined stars and forks
+                    greater than 100 and a size of at least 10000:
+                    <p>
+                    <code>(stars: + forks: > 100) && size:>=10000</code>
+                    
+                    <h3>Search</h3>
+                    <p>
+                    This is for "quick-and-dirty" searching. It will do a live search of all columns for the text you enter.
+                    As you type in this field, rows of filtered data that have no matching text in any column will be hidden, leaving
+                    only matching rows.
+                </span>
+            </div>
             <label for="filterField">Filter:</label>
             <input type="search" id="filterField" placeholder="Column:Value <Enter>">
         </div>
