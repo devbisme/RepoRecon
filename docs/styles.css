@@ -35,6 +35,37 @@
     padding-bottom: 10px;
 }
 
+.info-icon {
+    position: relative;
+    bottom: -10%; /* Align icon with Filter label. */
+    display: inline-block;
+}
+
+.info-icon .help-text {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    visibility: hidden;
+    width: 400px;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+    text-align: left;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 100;
+    top: 125%; /* Position the tooltip below the icon */
+    right: 0%; /* Position the tooltip to the right of the icon */
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.info-icon:hover .help-text {
+    visibility: visible;
+    opacity: 1;
+}
+
 #dataTable_info {
     font-family: Arial, sans-serif, Helvetica, sans-serif;
     font-style: italic;
