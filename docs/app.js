@@ -113,7 +113,8 @@ function filterData(data) {
     }
 
     // Replace column labels followed by a string with expression to find the string within the column in a row of data.
-    const columnValueRegex = /(\w+):\s*(\w+)/g;
+    // const columnValueRegex = /(\w+):\s*(\w+)/g;
+    const columnValueRegex = /(\w+):\s*([^()&|!+*/%<=>~]+)/g;
     filterExpr = filterStr.replace(columnValueRegex, (match, col, val) => {
         return `row["${col}"].toLowerCase().includes("${val}".toLowerCase())`;
     });
@@ -123,6 +124,8 @@ function filterData(data) {
     filterExpr = filterExpr.replace(columnNameRegex, (match, col) => {
         return `row["${col}"]`;
     });
+
+    console.log(filterExpr);
 
     // Search for rows that trigger the filter expression.
     try {
