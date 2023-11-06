@@ -35,6 +35,11 @@
         "JSON_file": "embedded_rtos"
     },
     {
+        "title": "Arduino",
+        "search_terms": "arduino",
+        "JSON_file": "arduino"
+    },
+    {
         "title": "Kendryte Microcontrollers",
         "search_terms": "maix OR kendryte OR K210 OR K230 OR K510",
         "JSON_file": "kendryte_uc"

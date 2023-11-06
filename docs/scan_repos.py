@@ -4,7 +4,7 @@ import json
 import os
 import subprocess
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime
 from datetime import datetime as dt
 from github import Github
 
@@ -99,19 +99,36 @@ def gather_github_repos(title, search_term, repo_file):
 
                 # Loop through all pages of results and extract the desired information.
                 for repo in yr_mo_repos:
-                    repo_info = {
-                        "repo": repo.name,
-                        "description": repo.description,
-                        "owner": repo.owner.login,
-                        "stars": repo.stargazers_count,
-                        "forks": repo.forks_count,
-                        "size": repo.size,
-                        "created": repo.created_at.isoformat(),
-                        "updated": repo.updated_at.isoformat(),
-                        "pushed": repo.pushed_at.isoformat(),
-                        "url": repo.html_url,
-                        "id": repo.id,
-                    }
+                    try:
+                        repo_info = {
+                            "repo": repo.name,
+                            "description": repo.description,
+                            "owner": repo.owner.login,
+                            "stars": repo.stargazers_count,
+                            "forks": repo.forks_count,
+                            "size": repo.size,
+                            "created": repo.created_at.isoformat(),
+                            "updated": repo.updated_at.isoformat(),
+                            "pushed": repo.pushed_at.isoformat(),
+                            "url": repo.html_url,
+                            "id": repo.id,
+                        }
+                    except AttributeError as e:
+                        # Missing dates are a problem for some repos.
+                        dflt_date = dt.strptime(search_date + "-01", "%Y-%m-%d").isoformat()
+                        repo_info = {
+                            "repo": repo.name,
+                            "description": repo.description,
+                            "owner": repo.owner.login,
+                            "stars": repo.stargazers_count,
+                            "forks": repo.forks_count,
+                            "size": repo.size,
+                            "created": dflt_date,
+                            "updated": dflt_date,
+                            "pushed": dflt_date,
+                            "url": repo.html_url,
+                            "id": repo.id,
+                        }
                     new_repos.append(repo_info)
 
             # Date type done.
