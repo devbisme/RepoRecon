@@ -2600,19 +2600,6 @@
         "id": 143414106
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 28,
-        "forks": 23,
-        "size": 41233,
-        "created": "2018-08-04T10:46:25Z",
-        "updated": "2023-07-22T03:52:44Z",
-        "pushed": "2023-10-31T13:32:05Z",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "VLSI-Design",
         "description": null,
         "owner": "rajeshbabua",
@@ -2793,19 +2780,6 @@
         "pushed": "2018-12-17T17:53:21Z",
         "url": "https://github.com/baran0119/softmax_function",
         "id": 162117953
-    },
-    {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 6,
-        "forks": 3,
-        "size": 788,
-        "created": "2018-12-17T13:05:20Z",
-        "updated": "2023-01-31T17:34:01Z",
-        "pushed": "2023-10-31T11:17:42Z",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
     },
     {
         "repo": "fixed_point",
@@ -4134,19 +4108,6 @@
         "id": 478084618
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1541,
-        "forks": 130,
-        "size": 124,
-        "created": "2022-04-07T19:18:24Z",
-        "updated": "2023-10-30T23:28:12Z",
-        "pushed": "2023-11-01T01:30:10Z",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "z80fpga",
         "description": null,
         "owner": "senormeow",
@@ -4680,15 +4641,54 @@
         "id": 154458175
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 28,
+        "forks": 23,
+        "size": 41117,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2023-07-22T03:52:44+00:00",
+        "pushed": "2023-11-07T16:09:10+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 7,
+        "forks": 3,
+        "size": 756,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2023-11-02T17:22:02+00:00",
+        "pushed": "2023-11-03T10:48:53+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1551,
+        "forks": 130,
+        "size": 142,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2023-11-07T00:16:36+00:00",
+        "pushed": "2023-11-04T15:21:25+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator written entirely in Python.",
         "owner": "kyaso",
         "stars": 2,
         "forks": 0,
-        "size": 518,
+        "size": 570,
         "created": "2020-11-20T21:27:59+00:00",
         "updated": "2023-10-14T05:02:11+00:00",
-        "pushed": "2023-11-01T19:52:41+00:00",
+        "pushed": "2023-11-07T23:21:40+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
     }
