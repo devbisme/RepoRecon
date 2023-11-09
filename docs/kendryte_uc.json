@@ -34437,19 +34437,6 @@
         "id": 712604206
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 624,
-        "forks": 180,
-        "size": 54572,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-06T15:47:04+00:00",
-        "pushed": "2023-11-08T09:28:08+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k510_buildroot",
         "description": "Kendryte K510 SDK",
         "owner": "kendryte",
@@ -34539,45 +34526,6 @@
         "pushed": "2023-11-04T07:04:03+00:00",
         "url": "https://github.com/tonnylyz/rustpie",
         "id": 365704100
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 434,
-        "forks": 130,
-        "size": 927,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2023-11-08T09:51:17+00:00",
-        "pushed": "2023-11-07T14:05:17+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8924,
-        "forks": 4692,
-        "size": 779112,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-08T10:31:34+00:00",
-        "pushed": "2023-11-08T10:18:40+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 13,
-        "forks": 1,
-        "size": 625791,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2023-11-02T00:08:46+00:00",
-        "pushed": "2023-11-07T20:33:09+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
     },
     {
         "repo": "inf351",
@@ -34814,32 +34762,6 @@
         "id": 456793068
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 662,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-06T01:39:27+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 81,
-        "forks": 33,
-        "size": 540800,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-10-27T08:10:33+00:00",
-        "pushed": "2023-11-07T12:23:47+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "acpphint",
         "description": "A C++ variation on the serial and pthread HINT benchmarks, tailored to my use.",
         "owner": "markmi",
@@ -34851,5 +34773,83 @@
         "pushed": "2023-11-05T22:19:42+00:00",
         "url": "https://github.com/markmi/acpphint",
         "id": 214611123
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 625,
+        "forks": 180,
+        "size": 54619,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-09T02:41:52+00:00",
+        "pushed": "2023-11-09T02:32:05+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 434,
+        "forks": 130,
+        "size": 929,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2023-11-08T09:51:17+00:00",
+        "pushed": "2023-11-09T05:12:39+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8928,
+        "forks": 4692,
+        "size": 779112,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-09T05:52:33+00:00",
+        "pushed": "2023-11-09T07:11:05+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 13,
+        "forks": 1,
+        "size": 630952,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2023-11-02T00:08:46+00:00",
+        "pushed": "2023-11-08T17:22:18+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 1055,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-11-09T01:37:49+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 81,
+        "forks": 33,
+        "size": 540801,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2023-10-27T08:10:33+00:00",
+        "pushed": "2023-11-08T12:23:26+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]
