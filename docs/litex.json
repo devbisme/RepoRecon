@@ -39,19 +39,6 @@
         "id": 16130245
     },
     {
-        "repo": "litedram",
-        "description": "Small footprint and configurable DRAM core",
-        "owner": "enjoy-digital",
-        "stars": 318,
-        "forks": 107,
-        "size": 3367,
-        "created": "2015-02-22T00:43:35Z",
-        "updated": "2023-09-25T23:55:44Z",
-        "pushed": "2023-09-18T06:42:08Z",
-        "url": "https://github.com/enjoy-digital/litedram",
-        "id": 31147284
-    },
-    {
         "repo": "alexa_top_sites_cz",
         "description": null,
         "owner": "lubomir-sach",
@@ -10621,19 +10608,6 @@
         "id": 681767500
     },
     {
-        "repo": "laboratorio-I",
-        "description": "Laboratorio I de Electr\u00f3nica Digital I",
-        "owner": "2023-2S-digital",
-        "stars": 0,
-        "forks": 0,
-        "size": 6216,
-        "created": "2023-08-23T23:48:18Z",
-        "updated": "2023-09-26T13:24:05Z",
-        "pushed": "2023-09-26T17:46:15Z",
-        "url": "https://github.com/2023-2S-digital/laboratorio-I",
-        "id": 682324439
-    },
-    {
         "repo": "Digital_Informe_1",
         "description": null,
         "owner": "Juanpalo123",
@@ -11076,19 +11050,6 @@
         "id": 664743738
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1258,
-        "forks": 176,
-        "size": 199731,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-11-07T12:54:57+00:00",
-        "pushed": "2023-11-07T12:28:22+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -11284,19 +11245,6 @@
         "id": 330793471
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2438,
-        "forks": 488,
-        "size": 16367,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2023-11-09T05:42:14+00:00",
-        "pushed": "2023-11-09T06:07:51+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -11310,32 +11258,6 @@
         "id": 191191221
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 411,
-        "forks": 100,
-        "size": 1553,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2023-11-08T11:01:13+00:00",
-        "pushed": "2023-11-08T14:23:24+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 532,
-        "forks": 51,
-        "size": 897,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-11-09T03:11:16+00:00",
-        "pushed": "2023-11-09T01:58:20+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11347,32 +11269,6 @@
         "pushed": "2023-11-09T02:11:37+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 37,
-        "forks": 13,
-        "size": 23111,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2023-11-01T22:10:59+00:00",
-        "pushed": "2023-11-08T21:36:31+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1052,
-        "forks": 156,
-        "size": 37264,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2023-11-09T00:06:34+00:00",
-        "pushed": "2023-11-09T04:42:12+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "ljinux",
@@ -11414,32 +11310,6 @@
         "id": 716166482
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 886,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-09T04:35:56+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "golang-trending-archive",
-        "description": "track golang trending in github",
-        "owner": "zengzzzzz",
-        "stars": 0,
-        "forks": 0,
-        "size": 1022,
-        "created": "2023-10-09T13:00:57+00:00",
-        "updated": "2023-10-09T13:23:05+00:00",
-        "pushed": "2023-11-09T01:43:10+00:00",
-        "url": "https://github.com/zengzzzzz/golang-trending-archive",
-        "id": 702508231
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -11453,45 +11323,6 @@
         "id": 310692215
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 37621,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-11-09T03:19:27+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
-        "repo": "githubTrending",
-        "description": null,
-        "owner": "ZonghaoLi777",
-        "stars": 0,
-        "forks": 0,
-        "size": 1382,
-        "created": "2023-09-25T08:11:03+00:00",
-        "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-11-09T02:22:33+00:00",
-        "url": "https://github.com/ZonghaoLi777/githubTrending",
-        "id": 696165186
-    },
-    {
-        "repo": "github-trending",
-        "description": null,
-        "owner": "sampsonv",
-        "stars": 0,
-        "forks": 0,
-        "size": 1755,
-        "created": "2023-10-13T00:23:25+00:00",
-        "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-11-09T02:20:44+00:00",
-        "url": "https://github.com/sampsonv/github-trending",
-        "id": 704286506
-    },
-    {
         "repo": "GithubTrending",
         "description": null,
         "owner": "jafshare",
@@ -11503,5 +11334,174 @@
         "pushed": "2023-11-09T00:36:15+00:00",
         "url": "https://github.com/jafshare/GithubTrending",
         "id": 701683842
+    },
+    {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2443,
+        "forks": 490,
+        "size": 16460,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2023-11-10T01:24:52+00:00",
+        "pushed": "2023-11-10T05:39:51+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 411,
+        "forks": 100,
+        "size": 1562,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2023-11-08T11:01:13+00:00",
+        "pushed": "2023-11-09T17:52:58+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "litedram",
+        "description": "Small footprint and configurable DRAM core",
+        "owner": "enjoy-digital",
+        "stars": 330,
+        "forks": 109,
+        "size": 3368,
+        "created": "2015-02-22T00:43:35+00:00",
+        "updated": "2023-11-08T11:01:06+00:00",
+        "pushed": "2023-11-09T10:43:27+00:00",
+        "url": "https://github.com/enjoy-digital/litedram",
+        "id": 31147284
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 532,
+        "forks": 51,
+        "size": 897,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-11-09T03:11:16+00:00",
+        "pushed": "2023-11-10T02:09:32+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 37,
+        "forks": 13,
+        "size": 23115,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2023-11-01T22:10:59+00:00",
+        "pushed": "2023-11-09T22:46:30+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1259,
+        "forks": 175,
+        "size": 199739,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-11-08T22:05:31+00:00",
+        "pushed": "2023-11-09T17:05:37+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1053,
+        "forks": 156,
+        "size": 37531,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2023-11-09T16:40:26+00:00",
+        "pushed": "2023-11-10T03:58:40+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "laboratorio-I",
+        "description": "Laboratorio I de Electr\u00f3nica Digital I",
+        "owner": "2023-2S-digital",
+        "stars": 0,
+        "forks": 0,
+        "size": 6257,
+        "created": "2023-08-23T23:48:18+00:00",
+        "updated": "2023-10-01T15:11:52+00:00",
+        "pushed": "2023-11-09T22:10:46+00:00",
+        "url": "https://github.com/2023-2S-digital/laboratorio-I",
+        "id": 682324439
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 954,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2023-11-10T04:35:22+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "golang-trending-archive",
+        "description": "track golang trending in github",
+        "owner": "zengzzzzz",
+        "stars": 0,
+        "forks": 0,
+        "size": 1036,
+        "created": "2023-10-09T13:00:57+00:00",
+        "updated": "2023-10-09T13:23:05+00:00",
+        "pushed": "2023-11-10T01:42:40+00:00",
+        "url": "https://github.com/zengzzzzz/golang-trending-archive",
+        "id": 702508231
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 38020,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2023-11-03T17:36:59+00:00",
+        "pushed": "2023-11-10T03:19:45+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
+    },
+    {
+        "repo": "github-trending",
+        "description": null,
+        "owner": "sampsonv",
+        "stars": 0,
+        "forks": 0,
+        "size": 1874,
+        "created": "2023-10-13T00:23:25+00:00",
+        "updated": "2023-10-13T14:57:27+00:00",
+        "pushed": "2023-11-10T02:20:44+00:00",
+        "url": "https://github.com/sampsonv/github-trending",
+        "id": 704286506
+    },
+    {
+        "repo": "githubTrending",
+        "description": null,
+        "owner": "ZonghaoLi777",
+        "stars": 0,
+        "forks": 0,
+        "size": 1394,
+        "created": "2023-09-25T08:11:03+00:00",
+        "updated": "2023-09-25T08:12:30+00:00",
+        "pushed": "2023-11-10T02:22:52+00:00",
+        "url": "https://github.com/ZonghaoLi777/githubTrending",
+        "id": 696165186
     }
 ]

@@ -4641,19 +4641,6 @@
         "id": 154458175
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 28,
-        "forks": 23,
-        "size": 41117,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2023-07-22T03:52:44+00:00",
-        "pushed": "2023-11-07T16:09:10+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "Kea",
         "description": "Some HDL tools built on MyHDL, including a register subsystem.",
         "owner": "SmartAcoustics",
@@ -4680,15 +4667,28 @@
         "id": 479118982
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 28,
+        "forks": 23,
+        "size": 41124,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2023-07-22T03:52:44+00:00",
+        "pushed": "2023-11-09T13:24:14+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator written entirely in Python.",
         "owner": "kyaso",
         "stars": 2,
         "forks": 0,
-        "size": 605,
+        "size": 624,
         "created": "2020-11-20T21:27:59+00:00",
         "updated": "2023-10-14T05:02:11+00:00",
-        "pushed": "2023-11-08T22:56:30+00:00",
+        "pushed": "2023-11-09T20:46:51+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
     }

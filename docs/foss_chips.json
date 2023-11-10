@@ -42536,19 +42536,6 @@
         "id": 625733186
     },
     {
-        "repo": "EF_TCC32",
-        "description": "A 32-bit Timer/Counter/Capture Soft IP (Verilog)",
-        "owner": "efabless",
-        "stars": 2,
-        "forks": 2,
-        "size": 360,
-        "created": "2023-04-10T12:22:03Z",
-        "updated": "2023-08-16T10:04:02Z",
-        "pushed": "2023-10-24T09:37:11Z",
-        "url": "https://github.com/efabless/EF_TCC32",
-        "id": 625926798
-    },
-    {
         "repo": "Norberto_IPN_V1",
         "description": null,
         "owner": "jedicomo22",
@@ -43782,19 +43769,6 @@
         "pushed": "2023-05-10T15:59:21Z",
         "url": "https://github.com/marnovandermaas/efabless_playground",
         "id": 639031866
-    },
-    {
-        "repo": "sky130_ldo_rl",
-        "description": "This repo contains the code that runs RL+GNN to optimize LDOs in SKY130 process.",
-        "owner": "ChrisZonghaoLi",
-        "stars": 7,
-        "forks": 3,
-        "size": 5401,
-        "created": "2023-05-10T20:17:19Z",
-        "updated": "2023-11-01T04:52:34Z",
-        "pushed": "2023-10-27T03:34:33Z",
-        "url": "https://github.com/ChrisZonghaoLi/sky130_ldo_rl",
-        "id": 639125913
     },
     {
         "repo": "Selector_8bit",
@@ -45680,19 +45654,6 @@
         "pushed": "2023-08-10T08:39:34Z",
         "url": "https://github.com/sangamanathpuncham/Openlane",
         "id": 652464091
-    },
-    {
-        "repo": "SNN_IPN",
-        "description": "Desarrollo de la biblioteca de celdas est\u00e1ndar para hardware neuromorfico, del laboratorio de MICROSE-CIC-IPN",
-        "owner": "AlejandroJuarezLora",
-        "stars": 0,
-        "forks": 0,
-        "size": 25,
-        "created": "2023-06-12T19:01:08Z",
-        "updated": "2023-06-12T19:01:08Z",
-        "pushed": "2023-09-05T18:46:16Z",
-        "url": "https://github.com/AlejandroJuarezLora/SNN_IPN",
-        "id": 652769734
     },
     {
         "repo": "updown_counter_openlane",
@@ -48670,19 +48631,6 @@
         "pushed": "2023-09-04T15:27:13Z",
         "url": "https://github.com/Shubhashree359/pes_asic_class",
         "id": 679682881
-    },
-    {
-        "repo": "MS_QSPI_XIP_CACHE",
-        "description": "AHB-Lite Quad I/O SPI Flash memory controller with direct mapped cache and support for XiP",
-        "owner": "shalan",
-        "stars": 3,
-        "forks": 2,
-        "size": 535,
-        "created": "2023-08-17T13:14:52Z",
-        "updated": "2023-09-28T01:38:18Z",
-        "pushed": "2023-10-31T12:51:34Z",
-        "url": "https://github.com/shalan/MS_QSPI_XIP_CACHE",
-        "id": 679718764
     },
     {
         "repo": "pes_asic_class",
@@ -55055,32 +55003,6 @@
         "id": 626834056
     },
     {
-        "repo": "openframe_riscduino_dcore",
-        "description": null,
-        "owner": "dineshannayya",
-        "stars": 0,
-        "forks": 0,
-        "size": 156019,
-        "created": "2023-10-14T17:16:56+00:00",
-        "updated": "2023-11-02T03:06:28+00:00",
-        "pushed": "2023-11-02T03:06:22+00:00",
-        "url": "https://github.com/dineshannayya/openframe_riscduino_dcore",
-        "id": 704977232
-    },
-    {
-        "repo": "sky130_ef_ip__xtal_osc_32k",
-        "description": "Low power, low speed (32.768kHz) crystal oscillator circuit for sky130 technology",
-        "owner": "RTimothyEdwards",
-        "stars": 1,
-        "forks": 0,
-        "size": 215,
-        "created": "2023-11-01T18:52:57+00:00",
-        "updated": "2023-11-01T22:16:42+00:00",
-        "pushed": "2023-11-01T18:56:04+00:00",
-        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__xtal_osc_32k",
-        "id": 713059489
-    },
-    {
         "repo": "Home-Automation-System",
         "description": null,
         "owner": "ShubhamGitHub528",
@@ -55380,19 +55302,6 @@
         "id": 699184063
     },
     {
-        "repo": "OpenLane",
-        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1043,
-        "forks": 335,
-        "size": 873354,
-        "created": "2020-07-20T19:35:02+00:00",
-        "updated": "2023-11-08T08:35:28+00:00",
-        "pushed": "2023-11-03T01:30:21+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
-        "id": 281208911
-    },
-    {
         "repo": "caravel",
         "description": "Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.",
         "owner": "efabless",
@@ -55560,19 +55469,6 @@
         "pushed": "2023-11-03T13:18:54+00:00",
         "url": "https://github.com/stineje/ecen4303F23",
         "id": 693873141
-    },
-    {
-        "repo": "DriveAGI",
-        "description": "Embracing Foundation Models into Autonomous Agent and System",
-        "owner": "OpenDriveLab",
-        "stars": 133,
-        "forks": 2,
-        "size": 2286,
-        "created": "2023-04-24T17:59:42+00:00",
-        "updated": "2023-11-08T06:59:44+00:00",
-        "pushed": "2023-11-08T06:14:17+00:00",
-        "url": "https://github.com/OpenDriveLab/DriveAGI",
-        "id": 632101482
     },
     {
         "repo": "caravel-lite",
@@ -56043,32 +55939,6 @@
         "id": 685910048
     },
     {
-        "repo": "sky130_ef_ip__rc_osc_500k",
-        "description": "Medium-speed low-power oscillator (500kHz) with enable.",
-        "owner": "RTimothyEdwards",
-        "stars": 0,
-        "forks": 1,
-        "size": 132,
-        "created": "2023-11-04T16:28:02+00:00",
-        "updated": "2023-11-04T16:36:52+00:00",
-        "pushed": "2023-11-06T18:45:40+00:00",
-        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__rc_osc_500k",
-        "id": 714345557
-    },
-    {
-        "repo": "PES_bfloat_adder",
-        "description": null,
-        "owner": "Lo-kesh4",
-        "stars": 0,
-        "forks": 0,
-        "size": 2685,
-        "created": "2023-09-01T08:58:27+00:00",
-        "updated": "2023-10-20T15:24:05+00:00",
-        "pushed": "2023-11-04T04:12:18+00:00",
-        "url": "https://github.com/Lo-kesh4/PES_bfloat_adder",
-        "id": 685895620
-    },
-    {
         "repo": "pes_fb_piso",
         "description": null,
         "owner": "Srini-web",
@@ -56095,19 +55965,6 @@
         "id": 685910877
     },
     {
-        "repo": "openlane2-step-unit-tests",
-        "description": "Step-specific Unit Tests for OpenLane 2.0.0+",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 5209,
-        "created": "2023-10-01T17:22:30+00:00",
-        "updated": "2023-10-26T12:26:11+00:00",
-        "pushed": "2023-11-08T10:54:12+00:00",
-        "url": "https://github.com/efabless/openlane2-step-unit-tests",
-        "id": 699019034
-    },
-    {
         "repo": "pes_elevator",
         "description": null,
         "owner": "dsingla54",
@@ -56132,19 +55989,6 @@
         "pushed": "2023-11-07T11:53:49+00:00",
         "url": "https://github.com/efabless/EF_DLL_SKY130",
         "id": 713484723
-    },
-    {
-        "repo": "Samsung-PD-training-",
-        "description": null,
-        "owner": "Avi991",
-        "stars": 0,
-        "forks": 0,
-        "size": 21738,
-        "created": "2023-08-17T06:46:25+00:00",
-        "updated": "2023-08-20T12:56:41+00:00",
-        "pushed": "2023-11-04T16:20:42+00:00",
-        "url": "https://github.com/Avi991/Samsung-PD-training-",
-        "id": 679578793
     },
     {
         "repo": "pes_demux_1_8",
@@ -56340,19 +56184,6 @@
         "pushed": "2023-11-04T01:23:45+00:00",
         "url": "https://github.com/poornima-chetty/pes_ser",
         "id": 686097264
-    },
-    {
-        "repo": "Silicon_Contact_3GBT",
-        "description": "SiliconContact submission project for ChipIgnite CI2311",
-        "owner": "embelon",
-        "stars": 0,
-        "forks": 0,
-        "size": 304349,
-        "created": "2023-11-03T13:11:32+00:00",
-        "updated": "2023-11-06T15:54:05+00:00",
-        "pushed": "2023-11-06T20:38:12+00:00",
-        "url": "https://github.com/embelon/Silicon_Contact_3GBT",
-        "id": 713892587
     },
     {
         "repo": "Frequency-Divider",
@@ -56563,19 +56394,6 @@
         "id": 686002207
     },
     {
-        "repo": "pes_sipo",
-        "description": null,
-        "owner": "Akshay1000101",
-        "stars": 0,
-        "forks": 0,
-        "size": 4531,
-        "created": "2023-09-01T08:58:28+00:00",
-        "updated": "2023-09-01T09:01:36+00:00",
-        "pushed": "2023-11-04T14:33:17+00:00",
-        "url": "https://github.com/Akshay1000101/pes_sipo",
-        "id": 685895625
-    },
-    {
         "repo": "Visruat-VSD-HDP",
         "description": "all material for the VSD-HDP program ",
         "owner": "Visruat",
@@ -56587,19 +56405,6 @@
         "pushed": "2023-11-07T16:24:46+00:00",
         "url": "https://github.com/Visruat/Visruat-VSD-HDP",
         "id": 600459714
-    },
-    {
-        "repo": "Samsung-PD-Training-",
-        "description": null,
-        "owner": "Luffy-7744",
-        "stars": 1,
-        "forks": 0,
-        "size": 34598,
-        "created": "2023-08-17T06:45:36+00:00",
-        "updated": "2023-08-21T02:41:32+00:00",
-        "pushed": "2023-11-08T07:11:10+00:00",
-        "url": "https://github.com/Luffy-7744/Samsung-PD-Training-",
-        "id": 679578490
     },
     {
         "repo": "pes_ringcounter",
@@ -56823,19 +56628,6 @@
         "id": 700792870
     },
     {
-        "repo": "tt05-psg-sn76489",
-        "description": "TinyTapeout submission with the SN76489 Digital Complex Sound Generator (DCSG) programmable sound generator (PSG) chip from Texas Instruments.",
-        "owner": "rejunity",
-        "stars": 40,
-        "forks": 3,
-        "size": 73218,
-        "created": "2023-09-11T19:57:38+00:00",
-        "updated": "2023-11-05T20:40:54+00:00",
-        "pushed": "2023-11-07T21:39:15+00:00",
-        "url": "https://github.com/rejunity/tt05-psg-sn76489",
-        "id": 690236569
-    },
-    {
         "repo": "hf",
         "description": null,
         "owner": "ramdev604",
@@ -56847,19 +56639,6 @@
         "pushed": "2023-11-03T17:09:42+00:00",
         "url": "https://github.com/ramdev604/hf",
         "id": 706835990
-    },
-    {
-        "repo": "Industrial_Production_Line_Counter_System",
-        "description": null,
-        "owner": "nitishkumar515",
-        "stars": 0,
-        "forks": 0,
-        "size": 106,
-        "created": "2023-10-04T17:26:23+00:00",
-        "updated": "2023-10-04T17:26:24+00:00",
-        "pushed": "2023-11-08T10:48:53+00:00",
-        "url": "https://github.com/nitishkumar515/Industrial_Production_Line_Counter_System",
-        "id": 700486254
     },
     {
         "repo": "vsd-hdp",
@@ -57122,19 +56901,6 @@
         "id": 715563678
     },
     {
-        "repo": "Samsung-PD-Training",
-        "description": null,
-        "owner": "Sidv005",
-        "stars": 0,
-        "forks": 0,
-        "size": 47136,
-        "created": "2023-08-17T06:47:57+00:00",
-        "updated": "2023-09-12T10:24:31+00:00",
-        "pushed": "2023-11-02T18:55:00+00:00",
-        "url": "https://github.com/Sidv005/Samsung-PD-Training",
-        "id": 679579347
-    },
-    {
         "repo": "IIITB_auto_room_lc",
         "description": null,
         "owner": "mrdunker",
@@ -57198,19 +56964,6 @@
         "pushed": "2023-11-03T17:02:55+00:00",
         "url": "https://github.com/Chentianyu-Juventus/VSD",
         "id": 713935305
-    },
-    {
-        "repo": "sky130_ef_ip__xtal_osc_16M",
-        "description": "High speed (16MHz) crystal oscillator in sky130 technology",
-        "owner": "RTimothyEdwards",
-        "stars": 1,
-        "forks": 1,
-        "size": 136,
-        "created": "2023-11-04T01:52:33+00:00",
-        "updated": "2023-11-04T15:19:58+00:00",
-        "pushed": "2023-11-04T01:55:04+00:00",
-        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__xtal_osc_16M",
-        "id": 714127764
     },
     {
         "repo": "tinytapeout",
@@ -58344,19 +58097,6 @@
         "id": 714091907
     },
     {
-        "repo": "samsung-pd-training",
-        "description": null,
-        "owner": "jagdishthakur904",
-        "stars": 0,
-        "forks": 0,
-        "size": 39953,
-        "created": "2023-08-17T06:45:22+00:00",
-        "updated": "2023-09-04T09:19:19+00:00",
-        "pushed": "2023-11-02T18:45:05+00:00",
-        "url": "https://github.com/jagdishthakur904/samsung-pd-training",
-        "id": 679578392
-    },
-    {
         "repo": "joey-tiny-tapeout-5",
         "description": null,
         "owner": "joeycastillo",
@@ -58407,45 +58147,6 @@
         "pushed": "2023-11-04T16:38:29+00:00",
         "url": "https://github.com/matheus-VBLabs/tty05_test_3",
         "id": 714112207
-    },
-    {
-        "repo": "Samsung-PD-Training-",
-        "description": "Samsung PD Training ",
-        "owner": "05TharunKM",
-        "stars": 0,
-        "forks": 0,
-        "size": 87736,
-        "created": "2023-08-17T06:45:18+00:00",
-        "updated": "2023-08-20T14:04:28+00:00",
-        "pushed": "2023-11-07T08:58:36+00:00",
-        "url": "https://github.com/05TharunKM/Samsung-PD-Training-",
-        "id": 679578369
-    },
-    {
-        "repo": "Samsung_PD_Training",
-        "description": null,
-        "owner": "SakshithVarambally",
-        "stars": 0,
-        "forks": 1,
-        "size": 58344,
-        "created": "2023-08-17T06:46:49+00:00",
-        "updated": "2023-08-20T14:20:59+00:00",
-        "pushed": "2023-11-02T18:15:46+00:00",
-        "url": "https://github.com/SakshithVarambally/Samsung_PD_Training",
-        "id": 679578923
-    },
-    {
-        "repo": "tt05-psg-ay8913",
-        "description": "TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.",
-        "owner": "rejunity",
-        "stars": 0,
-        "forks": 0,
-        "size": 12858,
-        "created": "2023-10-03T16:16:45+00:00",
-        "updated": "2023-11-07T20:31:30+00:00",
-        "pushed": "2023-11-07T21:26:29+00:00",
-        "url": "https://github.com/rejunity/tt05-psg-ay8913",
-        "id": 699936201
     },
     {
         "repo": "tt05-i2c-bert",
@@ -58604,19 +58305,6 @@
         "id": 711290922
     },
     {
-        "repo": "SAMSUNG-PD-TRAINING-",
-        "description": "Samsung PD training",
-        "owner": "18vishaka",
-        "stars": 0,
-        "forks": 0,
-        "size": 59179,
-        "created": "2023-08-17T06:46:28+00:00",
-        "updated": "2023-08-21T03:21:58+00:00",
-        "pushed": "2023-11-02T18:47:30+00:00",
-        "url": "https://github.com/18vishaka/SAMSUNG-PD-TRAINING-",
-        "id": 679578801
-    },
-    {
         "repo": "caravel_usb1_project",
         "description": null,
         "owner": "lx071",
@@ -58747,19 +58435,6 @@
         "id": 699753451
     },
     {
-        "repo": "Samsungpdtraining",
-        "description": "PD training ",
-        "owner": "gohilnihar07",
-        "stars": 0,
-        "forks": 0,
-        "size": 157334,
-        "created": "2023-08-17T06:46:22+00:00",
-        "updated": "2023-08-21T02:22:35+00:00",
-        "pushed": "2023-11-03T10:54:06+00:00",
-        "url": "https://github.com/gohilnihar07/Samsungpdtraining",
-        "id": 679578777
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -58771,19 +58446,6 @@
         "pushed": "2023-11-08T01:06:40+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1008,
-        "forks": 381,
-        "size": 620996,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2023-11-09T06:24:59+00:00",
-        "pushed": "2023-11-09T06:34:01+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
     },
     {
         "repo": "openlane2",
@@ -58890,32 +58552,6 @@
         "id": 318892320
     },
     {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 674,
-        "forks": 73,
-        "size": 341631,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2023-10-31T23:03:59+00:00",
-        "pushed": "2023-11-09T00:09:38+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
-        "repo": "tt-support-tools",
-        "description": "tools used by project repos to test configuration, generate OpenLane run summaries and documentation",
-        "owner": "TinyTapeout",
-        "stars": 7,
-        "forks": 8,
-        "size": 4277,
-        "created": "2023-02-21T12:43:26+00:00",
-        "updated": "2023-11-08T17:31:44+00:00",
-        "pushed": "2023-11-06T10:19:32+00:00",
-        "url": "https://github.com/TinyTapeout/tt-support-tools",
-        "id": 604615670
-    },
-    {
         "repo": "piel",
         "description": "Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.",
         "owner": "daquintero",
@@ -58994,19 +58630,6 @@
         "id": 716242636
     },
     {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 144,
-        "forks": 78,
-        "size": 31461,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2023-11-06T15:44:33+00:00",
-        "pushed": "2023-11-09T07:00:38+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
-    },
-    {
         "repo": "pes_brg",
         "description": "Baud rate generator",
         "owner": "RohithNagesh",
@@ -59046,19 +58669,6 @@
         "id": 653783344
     },
     {
-        "repo": "IPM",
-        "description": "Open-source IPs Package Manager (IPM)",
-        "owner": "efabless",
-        "stars": 2,
-        "forks": 1,
-        "size": 269,
-        "created": "2022-09-09T08:53:13+00:00",
-        "updated": "2023-08-30T11:41:55+00:00",
-        "pushed": "2023-11-08T17:05:46+00:00",
-        "url": "https://github.com/efabless/IPM",
-        "id": 534569093
-    },
-    {
         "repo": "openlane2-ci-designs",
         "description": "Continuous Integration Designs for OpenLane 2.0.0 or higher",
         "owner": "efabless",
@@ -59070,19 +58680,6 @@
         "pushed": "2023-11-09T06:01:15+00:00",
         "url": "https://github.com/efabless/openlane2-ci-designs",
         "id": 672630932
-    },
-    {
-        "repo": "x-heep",
-        "description": "eXtendable Heterogeneous Energy-Efficient Platform based on RISC-V",
-        "owner": "esl-epfl",
-        "stars": 78,
-        "forks": 40,
-        "size": 24100,
-        "created": "2022-01-07T18:19:11+00:00",
-        "updated": "2023-11-06T02:56:19+00:00",
-        "pushed": "2023-11-08T16:43:46+00:00",
-        "url": "https://github.com/esl-epfl/x-heep",
-        "id": 445614410
     },
     {
         "repo": "sky130_ef_ip__xtal_osc_16M_DI",
@@ -59135,32 +58732,6 @@
         "pushed": "2023-11-09T05:03:14+00:00",
         "url": "https://github.com/Knightmare-0/Vishnu-VSD-HDP",
         "id": 636934598
-    },
-    {
-        "repo": "Vaishnav_Physical_design",
-        "description": null,
-        "owner": "NkVaishnav",
-        "stars": 0,
-        "forks": 0,
-        "size": 241921,
-        "created": "2023-08-17T06:51:20+00:00",
-        "updated": "2023-09-19T09:40:34+00:00",
-        "pushed": "2023-11-08T17:01:10+00:00",
-        "url": "https://github.com/NkVaishnav/Vaishnav_Physical_design",
-        "id": 679580589
-    },
-    {
-        "repo": "iiitb_r2_4bit_bm-Rohit",
-        "description": "Project",
-        "owner": "Rohitkadam31",
-        "stars": 0,
-        "forks": 0,
-        "size": 19,
-        "created": "2023-11-06T13:44:00+00:00",
-        "updated": "2023-11-08T12:37:45+00:00",
-        "pushed": "2023-11-08T14:05:39+00:00",
-        "url": "https://github.com/Rohitkadam31/iiitb_r2_4bit_bm-Rohit",
-        "id": 715105367
     },
     {
         "repo": "OpenLane_designs",
@@ -59293,19 +58864,6 @@
         "id": 716303854
     },
     {
-        "repo": "Samsungpdtraining",
-        "description": "Pd training ",
-        "owner": "Dhananjay411",
-        "stars": 0,
-        "forks": 0,
-        "size": 92764,
-        "created": "2023-08-17T06:46:21+00:00",
-        "updated": "2023-08-20T17:55:36+00:00",
-        "pushed": "2023-11-08T16:23:41+00:00",
-        "url": "https://github.com/Dhananjay411/Samsungpdtraining",
-        "id": 679578773
-    },
-    {
         "repo": "awesome-and-novel-works-in-slam",
         "description": "collecting some new ideas for slam (semantic, NeRF, BEV, Nav, Learning Methods) and will update this repo weekly, for both engineering and academic usings.",
         "owner": "runjtu",
@@ -59317,19 +58875,6 @@
         "pushed": "2023-11-09T04:17:35+00:00",
         "url": "https://github.com/runjtu/awesome-and-novel-works-in-slam",
         "id": 676825917
-    },
-    {
-        "repo": "tt05-qif",
-        "description": null,
-        "owner": "Sahanahn",
-        "stars": 0,
-        "forks": 0,
-        "size": 64,
-        "created": "2023-11-06T00:16:14+00:00",
-        "updated": "2023-11-06T20:17:19+00:00",
-        "pushed": "2023-11-09T01:42:01+00:00",
-        "url": "https://github.com/Sahanahn/tt05-qif",
-        "id": 714840545
     },
     {
         "repo": "UABC_PRUEBA",
@@ -59397,58 +58942,6 @@
         "id": 686644438
     },
     {
-        "repo": "analog_daddy",
-        "description": "This library is an attempt to make transistor sizing for Analog design less painful.",
-        "owner": "siddhantladdha",
-        "stars": 5,
-        "forks": 0,
-        "size": 518,
-        "created": "2023-11-03T21:53:14+00:00",
-        "updated": "2023-11-08T18:30:22+00:00",
-        "pushed": "2023-11-08T12:59:52+00:00",
-        "url": "https://github.com/siddhantladdha/analog_daddy",
-        "id": 714080829
-    },
-    {
-        "repo": "Samsung_pd",
-        "description": null,
-        "owner": "AbhishekChinchani",
-        "stars": 0,
-        "forks": 0,
-        "size": 61146,
-        "created": "2023-08-17T06:46:00+00:00",
-        "updated": "2023-09-20T10:37:19+00:00",
-        "pushed": "2023-11-08T18:53:40+00:00",
-        "url": "https://github.com/AbhishekChinchani/Samsung_pd",
-        "id": 679578673
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 886,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-09T04:35:56+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "Awesome-Transformer-Attention",
-        "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
-        "owner": "cmhungsteve",
-        "stars": 3624,
-        "forks": 421,
-        "size": 5633,
-        "created": "2021-09-15T07:16:24+00:00",
-        "updated": "2023-11-09T01:53:11+00:00",
-        "pushed": "2023-11-08T17:39:01+00:00",
-        "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
-        "id": 406653146
-    },
-    {
         "repo": "Samsung-PD-",
         "description": null,
         "owner": "mynkv",
@@ -59462,15 +58955,548 @@
         "id": 679578571
     },
     {
+        "repo": "OpenLane",
+        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1045,
+        "forks": 336,
+        "size": 873358,
+        "created": "2020-07-20T19:35:02+00:00",
+        "updated": "2023-11-10T06:28:07+00:00",
+        "pushed": "2023-11-10T05:23:47+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
+        "id": 281208911
+    },
+    {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1008,
+        "forks": 382,
+        "size": 620979,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2023-11-10T05:26:21+00:00",
+        "pushed": "2023-11-10T06:21:20+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 674,
+        "forks": 73,
+        "size": 341641,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2023-10-31T23:03:59+00:00",
+        "pushed": "2023-11-10T00:09:09+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "tt-support-tools",
+        "description": "tools used by project repos to test configuration, generate OpenLane run summaries and documentation",
+        "owner": "TinyTapeout",
+        "stars": 7,
+        "forks": 8,
+        "size": 4290,
+        "created": "2023-02-21T12:43:26+00:00",
+        "updated": "2023-11-08T17:31:44+00:00",
+        "pushed": "2023-11-09T16:04:46+00:00",
+        "url": "https://github.com/TinyTapeout/tt-support-tools",
+        "id": 604615670
+    },
+    {
+        "repo": "DriveAGI",
+        "description": "Embracing Foundation Models into Autonomous Agent and System",
+        "owner": "OpenDriveLab",
+        "stars": 144,
+        "forks": 2,
+        "size": 2314,
+        "created": "2023-04-24T17:59:42+00:00",
+        "updated": "2023-11-10T06:15:58+00:00",
+        "pushed": "2023-11-10T05:43:13+00:00",
+        "url": "https://github.com/OpenDriveLab/DriveAGI",
+        "id": 632101482
+    },
+    {
+        "repo": "sky130_ldo_rl",
+        "description": "This repo contains the code that runs RL+GNN to optimize LDOs in SKY130 process.",
+        "owner": "ChrisZonghaoLi",
+        "stars": 9,
+        "forks": 3,
+        "size": 5409,
+        "created": "2023-05-10T20:17:19+00:00",
+        "updated": "2023-11-05T15:15:57+00:00",
+        "pushed": "2023-11-09T20:47:12+00:00",
+        "url": "https://github.com/ChrisZonghaoLi/sky130_ldo_rl",
+        "id": 639125913
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 144,
+        "forks": 78,
+        "size": 31450,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2023-11-06T15:44:33+00:00",
+        "pushed": "2023-11-10T00:55:46+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "MS_QSPI_XIP_CACHE",
+        "description": "AHB-Lite Quad I/O SPI Flash memory controller with direct mapped cache and support for XiP",
+        "owner": "shalan",
+        "stars": 3,
+        "forks": 2,
+        "size": 538,
+        "created": "2023-08-17T13:14:52+00:00",
+        "updated": "2023-09-28T01:38:18+00:00",
+        "pushed": "2023-11-09T14:41:23+00:00",
+        "url": "https://github.com/shalan/MS_QSPI_XIP_CACHE",
+        "id": 679718764
+    },
+    {
+        "repo": "IPM",
+        "description": "Open-source IPs Package Manager (IPM)",
+        "owner": "efabless",
+        "stars": 2,
+        "forks": 1,
+        "size": 276,
+        "created": "2022-09-09T08:53:13+00:00",
+        "updated": "2023-08-30T11:41:55+00:00",
+        "pushed": "2023-11-09T15:39:49+00:00",
+        "url": "https://github.com/efabless/IPM",
+        "id": 534569093
+    },
+    {
+        "repo": "sky130_ef_ip__xtal_osc_32k",
+        "description": "Low power, low speed (32.768kHz) crystal oscillator circuit for sky130 technology",
+        "owner": "RTimothyEdwards",
+        "stars": 2,
+        "forks": 1,
+        "size": 281,
+        "created": "2023-11-01T18:52:57+00:00",
+        "updated": "2023-11-04T16:52:23+00:00",
+        "pushed": "2023-11-09T16:31:37+00:00",
+        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__xtal_osc_32k",
+        "id": 713059489
+    },
+    {
+        "repo": "PES_bfloat_adder",
+        "description": null,
+        "owner": "Lo-kesh4",
+        "stars": 0,
+        "forks": 0,
+        "size": 2693,
+        "created": "2023-09-01T08:58:27+00:00",
+        "updated": "2023-10-20T15:24:05+00:00",
+        "pushed": "2023-11-09T08:36:43+00:00",
+        "url": "https://github.com/Lo-kesh4/PES_bfloat_adder",
+        "id": 685895620
+    },
+    {
+        "repo": "sky130_ef_ip__rc_osc_500k",
+        "description": "Medium-speed low-power oscillator (500kHz) with enable.",
+        "owner": "RTimothyEdwards",
+        "stars": 0,
+        "forks": 1,
+        "size": 188,
+        "created": "2023-11-04T16:28:02+00:00",
+        "updated": "2023-11-04T16:36:52+00:00",
+        "pushed": "2023-11-09T16:40:54+00:00",
+        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__rc_osc_500k",
+        "id": 714345557
+    },
+    {
+        "repo": "Samsung-PD-training-",
+        "description": null,
+        "owner": "Avi991",
+        "stars": 0,
+        "forks": 0,
+        "size": 21851,
+        "created": "2023-08-17T06:46:25+00:00",
+        "updated": "2023-08-20T12:56:41+00:00",
+        "pushed": "2023-11-09T22:33:39+00:00",
+        "url": "https://github.com/Avi991/Samsung-PD-training-",
+        "id": 679578793
+    },
+    {
+        "repo": "openframe_riscduino_dcore",
+        "description": null,
+        "owner": "dineshannayya",
+        "stars": 0,
+        "forks": 0,
+        "size": 398240,
+        "created": "2023-10-14T17:16:56+00:00",
+        "updated": "2023-11-02T03:06:28+00:00",
+        "pushed": "2023-11-10T06:04:54+00:00",
+        "url": "https://github.com/dineshannayya/openframe_riscduino_dcore",
+        "id": 704977232
+    },
+    {
+        "repo": "openlane2-step-unit-tests",
+        "description": "Step-specific Unit Tests for OpenLane 2.0.0+",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 38994,
+        "created": "2023-10-01T17:22:30+00:00",
+        "updated": "2023-10-26T12:26:11+00:00",
+        "pushed": "2023-11-09T13:50:20+00:00",
+        "url": "https://github.com/efabless/openlane2-step-unit-tests",
+        "id": 699019034
+    },
+    {
+        "repo": "x-heep",
+        "description": "eXtendable Heterogeneous Energy-Efficient Platform based on RISC-V",
+        "owner": "esl-epfl",
+        "stars": 79,
+        "forks": 40,
+        "size": 24111,
+        "created": "2022-01-07T18:19:11+00:00",
+        "updated": "2023-11-09T17:54:20+00:00",
+        "pushed": "2023-11-09T13:16:16+00:00",
+        "url": "https://github.com/esl-epfl/x-heep",
+        "id": 445614410
+    },
+    {
+        "repo": "Silicon_Contact_3GBT",
+        "description": "SiliconContact submission project for ChipIgnite CI2311",
+        "owner": "embelon",
+        "stars": 0,
+        "forks": 0,
+        "size": 314247,
+        "created": "2023-11-03T13:11:32+00:00",
+        "updated": "2023-11-06T15:54:05+00:00",
+        "pushed": "2023-11-09T20:31:14+00:00",
+        "url": "https://github.com/embelon/Silicon_Contact_3GBT",
+        "id": 713892587
+    },
+    {
+        "repo": "EF_TCC32",
+        "description": "A 32-bit Timer/Counter/Capture Soft IP (Verilog)",
+        "owner": "efabless",
+        "stars": 2,
+        "forks": 2,
+        "size": 364,
+        "created": "2023-04-10T12:22:03+00:00",
+        "updated": "2023-08-16T10:04:02+00:00",
+        "pushed": "2023-11-09T09:37:42+00:00",
+        "url": "https://github.com/efabless/EF_TCC32",
+        "id": 625926798
+    },
+    {
+        "repo": "pes_sipo",
+        "description": null,
+        "owner": "Akshay1000101",
+        "stars": 0,
+        "forks": 0,
+        "size": 4591,
+        "created": "2023-09-01T08:58:28+00:00",
+        "updated": "2023-09-01T09:01:36+00:00",
+        "pushed": "2023-11-09T14:28:37+00:00",
+        "url": "https://github.com/Akshay1000101/pes_sipo",
+        "id": 685895625
+    },
+    {
+        "repo": "Vaishnav_Physical_design",
+        "description": null,
+        "owner": "NkVaishnav",
+        "stars": 0,
+        "forks": 0,
+        "size": 242705,
+        "created": "2023-08-17T06:51:20+00:00",
+        "updated": "2023-09-19T09:40:34+00:00",
+        "pushed": "2023-11-09T16:55:32+00:00",
+        "url": "https://github.com/NkVaishnav/Vaishnav_Physical_design",
+        "id": 679580589
+    },
+    {
+        "repo": "Samsung-PD-Training-",
+        "description": null,
+        "owner": "Luffy-7744",
+        "stars": 1,
+        "forks": 0,
+        "size": 35328,
+        "created": "2023-08-17T06:45:36+00:00",
+        "updated": "2023-08-21T02:41:32+00:00",
+        "pushed": "2023-11-09T10:52:29+00:00",
+        "url": "https://github.com/Luffy-7744/Samsung-PD-Training-",
+        "id": 679578490
+    },
+    {
+        "repo": "3GBT",
+        "description": null,
+        "owner": "ellen-wood",
+        "stars": 0,
+        "forks": 0,
+        "size": 259692,
+        "created": "2023-11-09T16:09:52+00:00",
+        "updated": "2023-11-09T16:23:12+00:00",
+        "pushed": "2023-11-09T16:15:48+00:00",
+        "url": "https://github.com/ellen-wood/3GBT",
+        "id": 716669296
+    },
+    {
+        "repo": "iiitb_r2_4bit_bm-Rohit",
+        "description": "Project",
+        "owner": "Rohitkadam31",
+        "stars": 0,
+        "forks": 0,
+        "size": 26,
+        "created": "2023-11-06T13:44:00+00:00",
+        "updated": "2023-11-08T12:37:45+00:00",
+        "pushed": "2023-11-10T06:45:52+00:00",
+        "url": "https://github.com/Rohitkadam31/iiitb_r2_4bit_bm-Rohit",
+        "id": 715105367
+    },
+    {
+        "repo": "tt05-psg-sn76489",
+        "description": "TinyTapeout submission with the SN76489 Digital Complex Sound Generator (DCSG) programmable sound generator (PSG) chip from Texas Instruments.",
+        "owner": "rejunity",
+        "stars": 40,
+        "forks": 3,
+        "size": 73250,
+        "created": "2023-09-11T19:57:38+00:00",
+        "updated": "2023-11-05T20:40:54+00:00",
+        "pushed": "2023-11-09T17:28:52+00:00",
+        "url": "https://github.com/rejunity/tt05-psg-sn76489",
+        "id": 690236569
+    },
+    {
+        "repo": "samsung-pd-training",
+        "description": null,
+        "owner": "jagdishthakur904",
+        "stars": 0,
+        "forks": 0,
+        "size": 42683,
+        "created": "2023-08-17T06:45:22+00:00",
+        "updated": "2023-09-04T09:19:19+00:00",
+        "pushed": "2023-11-10T02:24:08+00:00",
+        "url": "https://github.com/jagdishthakur904/samsung-pd-training",
+        "id": 679578392
+    },
+    {
+        "repo": "SNN_IPN",
+        "description": "Desarrollo de la biblioteca de celdas est\u00e1ndar para hardware neuromorfico, del laboratorio de MICROSE-CIC-IPN",
+        "owner": "AlejandroJuarezLora",
+        "stars": 0,
+        "forks": 0,
+        "size": 47,
+        "created": "2023-06-12T19:01:08+00:00",
+        "updated": "2023-11-09T21:22:12+00:00",
+        "pushed": "2023-11-09T21:22:07+00:00",
+        "url": "https://github.com/AlejandroJuarezLora/SNN_IPN",
+        "id": 652769734
+    },
+    {
+        "repo": "Samsungpdtraining",
+        "description": "Pd training ",
+        "owner": "Dhananjay411",
+        "stars": 0,
+        "forks": 0,
+        "size": 93432,
+        "created": "2023-08-17T06:46:21+00:00",
+        "updated": "2023-08-20T17:55:36+00:00",
+        "pushed": "2023-11-09T09:27:17+00:00",
+        "url": "https://github.com/Dhananjay411/Samsungpdtraining",
+        "id": 679578773
+    },
+    {
+        "repo": "Samsung-PD-Training",
+        "description": null,
+        "owner": "Sidv005",
+        "stars": 0,
+        "forks": 0,
+        "size": 50444,
+        "created": "2023-08-17T06:47:57+00:00",
+        "updated": "2023-09-12T10:24:31+00:00",
+        "pushed": "2023-11-09T17:03:48+00:00",
+        "url": "https://github.com/Sidv005/Samsung-PD-Training",
+        "id": 679579347
+    },
+    {
+        "repo": "sky130_ef_ip__xtal_osc_16M",
+        "description": "High speed (16MHz) crystal oscillator in sky130 technology",
+        "owner": "RTimothyEdwards",
+        "stars": 1,
+        "forks": 1,
+        "size": 179,
+        "created": "2023-11-04T01:52:33+00:00",
+        "updated": "2023-11-04T15:19:58+00:00",
+        "pushed": "2023-11-09T16:31:07+00:00",
+        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__xtal_osc_16M",
+        "id": 714127764
+    },
+    {
+        "repo": "MahmoudMagdi.github.io",
+        "description": null,
+        "owner": "MahmouodMagdi",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2023-11-10T00:04:28+00:00",
+        "updated": "2023-11-10T00:04:29+00:00",
+        "pushed": "2023-11-10T00:21:58+00:00",
+        "url": "https://github.com/MahmouodMagdi/MahmoudMagdi.github.io",
+        "id": 716819284
+    },
+    {
+        "repo": "tt05-qif",
+        "description": null,
+        "owner": "Sahanahn",
+        "stars": 0,
+        "forks": 0,
+        "size": 71,
+        "created": "2023-11-06T00:16:14+00:00",
+        "updated": "2023-11-06T20:17:19+00:00",
+        "pushed": "2023-11-10T03:57:43+00:00",
+        "url": "https://github.com/Sahanahn/tt05-qif",
+        "id": 714840545
+    },
+    {
+        "repo": "Samsung-PD-Training-",
+        "description": "Samsung PD Training ",
+        "owner": "05TharunKM",
+        "stars": 0,
+        "forks": 0,
+        "size": 89409,
+        "created": "2023-08-17T06:45:18+00:00",
+        "updated": "2023-08-20T14:04:28+00:00",
+        "pushed": "2023-11-09T11:24:46+00:00",
+        "url": "https://github.com/05TharunKM/Samsung-PD-Training-",
+        "id": 679578369
+    },
+    {
+        "repo": "Samsung_PD_Training",
+        "description": null,
+        "owner": "SakshithVarambally",
+        "stars": 0,
+        "forks": 1,
+        "size": 61636,
+        "created": "2023-08-17T06:46:49+00:00",
+        "updated": "2023-08-20T14:20:59+00:00",
+        "pushed": "2023-11-09T17:49:05+00:00",
+        "url": "https://github.com/SakshithVarambally/Samsung_PD_Training",
+        "id": 679578923
+    },
+    {
+        "repo": "tt05-psg-ay8913",
+        "description": "TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.",
+        "owner": "rejunity",
+        "stars": 0,
+        "forks": 0,
+        "size": 12865,
+        "created": "2023-10-03T16:16:45+00:00",
+        "updated": "2023-11-07T20:31:30+00:00",
+        "pushed": "2023-11-09T17:31:43+00:00",
+        "url": "https://github.com/rejunity/tt05-psg-ay8913",
+        "id": 699936201
+    },
+    {
+        "repo": "Industrial_Production_Line_Counter_System",
+        "description": null,
+        "owner": "nitishkumar515",
+        "stars": 0,
+        "forks": 0,
+        "size": 173,
+        "created": "2023-10-04T17:26:23+00:00",
+        "updated": "2023-10-04T17:26:24+00:00",
+        "pushed": "2023-11-09T12:30:57+00:00",
+        "url": "https://github.com/nitishkumar515/Industrial_Production_Line_Counter_System",
+        "id": 700486254
+    },
+    {
+        "repo": "analog_daddy",
+        "description": "This library is an attempt to make transistor sizing for Analog design less painful.",
+        "owner": "siddhantladdha",
+        "stars": 5,
+        "forks": 0,
+        "size": 535,
+        "created": "2023-11-03T21:53:14+00:00",
+        "updated": "2023-11-08T18:30:22+00:00",
+        "pushed": "2023-11-10T02:42:25+00:00",
+        "url": "https://github.com/siddhantladdha/analog_daddy",
+        "id": 714080829
+    },
+    {
+        "repo": "SAMSUNG-PD-TRAINING-",
+        "description": "Samsung PD training",
+        "owner": "18vishaka",
+        "stars": 0,
+        "forks": 0,
+        "size": 66501,
+        "created": "2023-08-17T06:46:28+00:00",
+        "updated": "2023-08-21T03:21:58+00:00",
+        "pushed": "2023-11-09T19:03:11+00:00",
+        "url": "https://github.com/18vishaka/SAMSUNG-PD-TRAINING-",
+        "id": 679578801
+    },
+    {
+        "repo": "Samsung_pd",
+        "description": null,
+        "owner": "AbhishekChinchani",
+        "stars": 0,
+        "forks": 0,
+        "size": 61249,
+        "created": "2023-08-17T06:46:00+00:00",
+        "updated": "2023-09-20T10:37:19+00:00",
+        "pushed": "2023-11-09T14:44:06+00:00",
+        "url": "https://github.com/AbhishekChinchani/Samsung_pd",
+        "id": 679578673
+    },
+    {
+        "repo": "Samsungpdtraining",
+        "description": "PD training ",
+        "owner": "gohilnihar07",
+        "stars": 0,
+        "forks": 0,
+        "size": 161432,
+        "created": "2023-08-17T06:46:22+00:00",
+        "updated": "2023-08-21T02:22:35+00:00",
+        "pushed": "2023-11-09T18:42:57+00:00",
+        "url": "https://github.com/gohilnihar07/Samsungpdtraining",
+        "id": 679578777
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 954,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2023-11-10T04:35:22+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Awesome-Transformer-Attention",
+        "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
+        "owner": "cmhungsteve",
+        "stars": 3629,
+        "forks": 422,
+        "size": 1909,
+        "created": "2021-09-15T07:16:24+00:00",
+        "updated": "2023-11-10T05:35:51+00:00",
+        "pushed": "2023-11-09T16:09:28+00:00",
+        "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
+        "id": 406653146
+    },
+    {
         "repo": "Transformer-in-Computer-Vision",
         "description": "A paper list of some recent Transformer-based CV works.",
         "owner": "Yangzhangcst",
         "stars": 776,
-        "forks": 104,
-        "size": 3403,
+        "forks": 105,
+        "size": 3565,
         "created": "2021-04-14T05:14:41+00:00",
         "updated": "2023-11-09T05:58:57+00:00",
-        "pushed": "2023-11-09T03:13:26+00:00",
+        "pushed": "2023-11-10T02:56:13+00:00",
         "url": "https://github.com/Yangzhangcst/Transformer-in-Computer-Vision",
         "id": 357782288
     },
@@ -59480,10 +59506,10 @@
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 1055,
+        "size": 1448,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-09T01:37:49+00:00",
+        "pushed": "2023-11-10T01:36:51+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -59493,10 +59519,10 @@
         "owner": "fasiha",
         "stars": 3,
         "forks": 0,
-        "size": 75831,
+        "size": 76175,
         "created": "2023-01-05T08:49:05+00:00",
         "updated": "2023-07-12T00:35:18+00:00",
-        "pushed": "2023-11-08T23:57:28+00:00",
+        "pushed": "2023-11-09T23:57:20+00:00",
         "url": "https://github.com/fasiha/finviz-git-scraper",
         "id": 585468833
     }

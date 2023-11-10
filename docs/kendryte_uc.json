@@ -21619,19 +21619,6 @@
         "id": 428061541
     },
     {
-        "repo": "maixnor",
-        "description": "Config files for my GitHub profile.",
-        "owner": "maixnor",
-        "stars": 0,
-        "forks": 0,
-        "size": 4,
-        "created": "2021-11-16T14:01:49Z",
-        "updated": "2021-12-14T14:56:28Z",
-        "pushed": "2022-08-13T05:08:54Z",
-        "url": "https://github.com/maixnor/maixnor",
-        "id": 428678256
-    },
-    {
         "repo": "k210_gfx",
         "description": "HAGL speed tests for K210 boards",
         "owner": "tuupola",
@@ -34606,19 +34593,6 @@
         "id": 714374003
     },
     {
-        "repo": "pokemon_who_am_i",
-        "description": "base on k210",
-        "owner": "tailor997",
-        "stars": 0,
-        "forks": 0,
-        "size": 30209,
-        "created": "2023-10-16T15:02:19+00:00",
-        "updated": "2023-10-16T16:28:13+00:00",
-        "pushed": "2023-11-07T15:19:53+00:00",
-        "url": "https://github.com/tailor997/pokemon_who_am_i",
-        "id": 705719348
-    },
-    {
         "repo": "al_k510_ubuntu",
         "description": null,
         "owner": "wangjilong9597",
@@ -34775,19 +34749,6 @@
         "id": 214611123
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 625,
-        "forks": 180,
-        "size": 54619,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-09T02:41:52+00:00",
-        "pushed": "2023-11-09T02:32:05+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -34799,19 +34760,6 @@
         "pushed": "2023-11-09T05:12:39+00:00",
         "url": "https://github.com/opencv/opencv_zoo",
         "id": 390637491
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8928,
-        "forks": 4692,
-        "size": 779112,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-09T05:52:33+00:00",
-        "pushed": "2023-11-09T07:11:05+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "krux_binaries",
@@ -34827,15 +34775,80 @@
         "id": 476865621
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 625,
+        "forks": 180,
+        "size": 54619,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-09T02:41:52+00:00",
+        "pushed": "2023-11-10T04:47:36+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8933,
+        "forks": 4692,
+        "size": 779458,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-10T06:53:51+00:00",
+        "pushed": "2023-11-10T06:26:41+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "pokemon_who_am_i",
+        "description": "base on k210",
+        "owner": "tailor997",
+        "stars": 0,
+        "forks": 0,
+        "size": 30209,
+        "created": "2023-10-16T15:02:19+00:00",
+        "updated": "2023-10-16T16:28:13+00:00",
+        "pushed": "2023-11-09T09:34:32+00:00",
+        "url": "https://github.com/tailor997/pokemon_who_am_i",
+        "id": 705719348
+    },
+    {
+        "repo": "maixnor",
+        "description": "Config files for my GitHub profile.",
+        "owner": "maixnor",
+        "stars": 0,
+        "forks": 0,
+        "size": 5,
+        "created": "2021-11-16T14:01:49+00:00",
+        "updated": "2021-12-14T14:56:28+00:00",
+        "pushed": "2023-11-10T05:44:55+00:00",
+        "url": "https://github.com/maixnor/maixnor",
+        "id": 428678256
+    },
+    {
+        "repo": "xv6-k210",
+        "description": null,
+        "owner": "zHappyFish",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2023-11-10T05:43:30+00:00",
+        "updated": "2023-11-10T05:43:30+00:00",
+        "pushed": "2023-11-10T05:43:30+00:00",
+        "url": "https://github.com/zHappyFish/xv6-k210",
+        "id": 716903643
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 1055,
+        "size": 1448,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-09T01:37:49+00:00",
+        "pushed": "2023-11-10T01:36:51+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -34845,10 +34858,10 @@
         "owner": "androidtrackers",
         "stars": 81,
         "forks": 33,
-        "size": 540801,
+        "size": 543473,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-10-27T08:10:33+00:00",
-        "pushed": "2023-11-08T12:23:26+00:00",
+        "pushed": "2023-11-09T12:25:05+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
