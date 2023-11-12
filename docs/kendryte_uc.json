@@ -3471,19 +3471,6 @@
         "id": 91787940
     },
     {
-        "repo": "platformio-vscode-ide",
-        "description": "PlatformIO IDE for VSCode: The next generation integrated development environment for IoT",
-        "owner": "platformio",
-        "stars": 1053,
-        "forks": 201,
-        "size": 2030,
-        "created": "2017-05-24T21:01:01Z",
-        "updated": "2023-09-07T20:44:11Z",
-        "pushed": "2023-08-11T11:40:08Z",
-        "url": "https://github.com/platformio/platformio-vscode-ide",
-        "id": 92336263
-    },
-    {
         "repo": "maixon",
         "description": null,
         "owner": "maixon",
@@ -4899,19 +4886,6 @@
         "pushed": "2018-08-24T07:02:38Z",
         "url": "https://github.com/mxt7481500/maixiaoting",
         "id": 145955288
-    },
-    {
-        "repo": "wmt_ai_study",
-        "description": "My AI study",
-        "owner": "weimingtom",
-        "stars": 18,
-        "forks": 3,
-        "size": 1776,
-        "created": "2018-08-26T09:31:59Z",
-        "updated": "2023-10-27T09:21:52Z",
-        "pushed": "2023-10-26T11:44:09Z",
-        "url": "https://github.com/weimingtom/wmt_ai_study",
-        "id": 146167925
     },
     {
         "repo": "objectbox-c",
@@ -34476,19 +34450,6 @@
         "id": 365704100
     },
     {
-        "repo": "inf351",
-        "description": "Sistemas Embarcados com Arduino, NodeMCU, Esp32, K210",
-        "owner": "arduinoufv",
-        "stars": 7,
-        "forks": 4,
-        "size": 8123,
-        "created": "2020-03-01T09:07:41+00:00",
-        "updated": "2023-09-04T11:43:44+00:00",
-        "pushed": "2023-11-06T20:29:51+00:00",
-        "url": "https://github.com/arduinoufv/inf351",
-        "id": 244118295
-    },
-    {
         "repo": "vihal",
         "description": "Embedded Hardware Access Library",
         "owner": "nvitya",
@@ -34645,19 +34606,6 @@
         "id": 714628474
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 3289,
-        "forks": 343,
-        "size": 1361,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2023-11-08T08:15:56+00:00",
-        "pushed": "2023-11-03T13:07:09+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "RISC-V-Guide",
         "description": "RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.",
         "owner": "mikeroyal",
@@ -34788,19 +34736,6 @@
         "id": 716903643
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 1448,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-10T01:36:51+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -34812,19 +34747,6 @@
         "pushed": "2023-11-08T19:42:32+00:00",
         "url": "https://github.com/selfcustody/krux",
         "id": 385102171
-    },
-    {
-        "repo": "cmake4eclipse",
-        "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
-        "owner": "15knots",
-        "stars": 84,
-        "forks": 25,
-        "size": 1883,
-        "created": "2015-03-18T20:10:43+00:00",
-        "updated": "2023-10-31T02:21:09+00:00",
-        "pushed": "2023-11-10T20:14:17+00:00",
-        "url": "https://github.com/15knots/cmake4eclipse",
-        "id": 32481601
     },
     {
         "repo": "halcyon",
@@ -34853,15 +34775,93 @@
         "id": 456793068
     },
     {
+        "repo": "platformio-vscode-ide",
+        "description": "PlatformIO IDE for VSCode: The next generation integrated development environment for IoT",
+        "owner": "platformio",
+        "stars": 1090,
+        "forks": 202,
+        "size": 2030,
+        "created": "2017-05-24T21:01:01+00:00",
+        "updated": "2023-11-11T16:35:30+00:00",
+        "pushed": "2023-11-11T00:35:17+00:00",
+        "url": "https://github.com/platformio/platformio-vscode-ide",
+        "id": 92336263
+    },
+    {
+        "repo": "cmake4eclipse",
+        "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
+        "owner": "15knots",
+        "stars": 84,
+        "forks": 25,
+        "size": 1897,
+        "created": "2015-03-18T20:10:43+00:00",
+        "updated": "2023-10-31T02:21:09+00:00",
+        "pushed": "2023-11-11T17:42:45+00:00",
+        "url": "https://github.com/15knots/cmake4eclipse",
+        "id": 32481601
+    },
+    {
+        "repo": "inf351",
+        "description": "Sistemas Embarcados com Arduino, NodeMCU, Esp32, K210",
+        "owner": "arduinoufv",
+        "stars": 7,
+        "forks": 4,
+        "size": 8129,
+        "created": "2020-03-01T09:07:41+00:00",
+        "updated": "2023-09-04T11:43:44+00:00",
+        "pushed": "2023-11-12T01:56:56+00:00",
+        "url": "https://github.com/arduinoufv/inf351",
+        "id": 244118295
+    },
+    {
+        "repo": "wmt_ai_study",
+        "description": "My AI study",
+        "owner": "weimingtom",
+        "stars": 18,
+        "forks": 3,
+        "size": 1850,
+        "created": "2018-08-26T09:31:59+00:00",
+        "updated": "2023-10-27T09:21:52+00:00",
+        "pushed": "2023-11-12T01:56:37+00:00",
+        "url": "https://github.com/weimingtom/wmt_ai_study",
+        "id": 146167925
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 3319,
+        "forks": 343,
+        "size": 1496,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2023-11-11T19:08:40+00:00",
+        "pushed": "2023-11-11T07:27:42+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 1841,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-11-12T01:42:05+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 81,
         "forks": 33,
-        "size": 543473,
+        "size": 543478,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-10-27T08:10:33+00:00",
-        "pushed": "2023-11-10T12:23:21+00:00",
+        "pushed": "2023-11-11T12:23:32+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
