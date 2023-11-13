@@ -21138,19 +21138,6 @@
         "id": 417909189
     },
     {
-        "repo": "bookmarks",
-        "description": "Sreedev's Web Browser Bookmarks",
-        "owner": "sreedevk",
-        "stars": 4,
-        "forks": 0,
-        "size": 1845,
-        "created": "2021-10-17T17:03:46Z",
-        "updated": "2023-04-26T18:03:28Z",
-        "pushed": "2023-08-30T18:56:00Z",
-        "url": "https://github.com/sreedevk/bookmarks",
-        "id": 418199179
-    },
-    {
         "repo": "SuperYOLO",
         "description": "SuperYOLO",
         "owner": "icey-zhang",
@@ -27976,19 +27963,6 @@
         "id": 564716440
     },
     {
-        "repo": "wmt_uclinux_study",
-        "description": "My uclinux study",
-        "owner": "weimingtom",
-        "stars": 1,
-        "forks": 0,
-        "size": 357,
-        "created": "2022-11-11T19:05:19Z",
-        "updated": "2023-03-04T03:07:58Z",
-        "pushed": "2023-08-10T17:48:11Z",
-        "url": "https://github.com/weimingtom/wmt_uclinux_study",
-        "id": 564897516
-    },
-    {
         "repo": "Sound-source-location",
         "description": "This was done using the K210 development board and microphone array",
         "owner": "leezisheng",
@@ -34632,19 +34606,6 @@
         "id": 547874241
     },
     {
-        "repo": "acpphint",
-        "description": "A C++ variation on the serial and pthread HINT benchmarks, tailored to my use.",
-        "owner": "markmi",
-        "stars": 0,
-        "forks": 0,
-        "size": 18805,
-        "created": "2019-10-12T08:40:13+00:00",
-        "updated": "2023-05-15T22:00:25+00:00",
-        "pushed": "2023-11-05T22:19:42+00:00",
-        "url": "https://github.com/markmi/acpphint",
-        "id": 214611123
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -34669,32 +34630,6 @@
         "pushed": "2023-11-08T17:22:18+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 625,
-        "forks": 180,
-        "size": 54619,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-09T02:41:52+00:00",
-        "pushed": "2023-11-10T04:47:36+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8933,
-        "forks": 4692,
-        "size": 779458,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-10T06:53:51+00:00",
-        "pushed": "2023-11-10T06:26:41+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "pokemon_who_am_i",
@@ -34734,19 +34669,6 @@
         "pushed": "2023-11-10T05:43:30+00:00",
         "url": "https://github.com/zHappyFish/xv6-k210",
         "id": 716903643
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 78,
-        "forks": 25,
-        "size": 137944,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-10T10:30:46+00:00",
-        "pushed": "2023-11-08T19:42:32+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "halcyon",
@@ -34840,15 +34762,80 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 625,
+        "forks": 180,
+        "size": 54630,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-09T02:41:52+00:00",
+        "pushed": "2023-11-13T07:13:05+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 78,
+        "forks": 25,
+        "size": 137944,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-11T21:33:51+00:00",
+        "pushed": "2023-11-12T16:37:32+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8939,
+        "forks": 4694,
+        "size": 778238,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-13T06:10:41+00:00",
+        "pushed": "2023-11-12T16:57:10+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "bookmarks",
+        "description": "Sreedev's Web Browser Bookmarks",
+        "owner": "sreedevk",
+        "stars": 5,
+        "forks": 0,
+        "size": 1825,
+        "created": "2021-10-17T17:03:46+00:00",
+        "updated": "2023-11-12T14:16:51+00:00",
+        "pushed": "2023-11-12T23:27:02+00:00",
+        "url": "https://github.com/sreedevk/bookmarks",
+        "id": 418199179
+    },
+    {
+        "repo": "wmt_uclinux_study",
+        "description": "My uclinux study",
+        "owner": "weimingtom",
+        "stars": 1,
+        "forks": 0,
+        "size": 367,
+        "created": "2022-11-11T19:05:19+00:00",
+        "updated": "2023-03-04T03:07:58+00:00",
+        "pushed": "2023-11-12T08:00:42+00:00",
+        "url": "https://github.com/weimingtom/wmt_uclinux_study",
+        "id": 564897516
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 1841,
+        "size": 2234,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-12T01:42:05+00:00",
+        "pushed": "2023-11-13T01:39:24+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -34861,8 +34848,21 @@
         "size": 543478,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-10-27T08:10:33+00:00",
-        "pushed": "2023-11-11T12:23:32+00:00",
+        "pushed": "2023-11-12T12:21:45+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "acpphint",
+        "description": "A C++ variation on the serial and pthread HINT benchmarks, tailored to my use.",
+        "owner": "markmi",
+        "stars": 0,
+        "forks": 0,
+        "size": 19128,
+        "created": "2019-10-12T08:40:13+00:00",
+        "updated": "2023-05-15T22:00:25+00:00",
+        "pushed": "2023-11-12T22:28:18+00:00",
+        "url": "https://github.com/markmi/acpphint",
+        "id": 214611123
     }
 ]

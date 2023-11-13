@@ -11102,19 +11102,6 @@
         "id": 434342707
     },
     {
-        "repo": "VexRiscv",
-        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
-        "owner": "SpinalHDL",
-        "stars": 2071,
-        "forks": 362,
-        "size": 13232,
-        "created": "2017-03-08T21:14:28+00:00",
-        "updated": "2023-11-09T01:58:02+00:00",
-        "pushed": "2023-11-08T14:15:05+00:00",
-        "url": "https://github.com/SpinalHDL/VexRiscv",
-        "id": 84366787
-    },
-    {
         "repo": "chip-tinkerer",
         "description": "Compiling various open-source projects to extract their best features, we aim to create a streamlined full-stack platform for SoC (System on a Chip) design verification.",
         "owner": "x-tinkerer",
@@ -11152,19 +11139,6 @@
         "pushed": "2023-11-09T00:36:15+00:00",
         "url": "https://github.com/jafshare/GithubTrending",
         "id": 701683842
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2443,
-        "forks": 490,
-        "size": 16460,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2023-11-10T01:24:52+00:00",
-        "pushed": "2023-11-10T05:39:51+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "LiteX-CNC",
@@ -11232,19 +11206,6 @@
         "id": 31147284
     },
     {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 182,
-        "forks": 77,
-        "size": 1312,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2023-11-08T11:01:26+00:00",
-        "pushed": "2023-11-10T15:14:33+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
         "repo": "litescope",
         "description": "Small footprint and configurable embedded FPGA logic analyzer",
         "owner": "enjoy-digital",
@@ -11256,19 +11217,6 @@
         "pushed": "2023-11-10T09:46:43+00:00",
         "url": "https://github.com/enjoy-digital/litescope",
         "id": 42044258
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 416,
-        "forks": 100,
-        "size": 41652,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2023-11-03T15:34:01+00:00",
-        "pushed": "2023-11-11T02:29:18+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
     },
     {
         "repo": "litesdcard",
@@ -11349,19 +11297,6 @@
         "id": 413357087
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1121,
-        "forks": 160,
-        "size": 12745,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2023-11-11T03:28:01+00:00",
-        "pushed": "2023-11-11T02:54:25+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "accelerator-interface-generator",
         "description": null,
         "owner": "antmicro",
@@ -11388,19 +11323,6 @@
         "id": 717340386
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 533,
-        "forks": 51,
-        "size": 897,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-11-10T12:05:34+00:00",
-        "pushed": "2023-11-12T01:53:10+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litesata",
         "description": "Small footprint and configurable SATA core",
         "owner": "enjoy-digital",
@@ -11412,19 +11334,6 @@
         "pushed": "2023-11-11T12:31:48+00:00",
         "url": "https://github.com/enjoy-digital/litesata",
         "id": 42045393
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 9,
-        "size": 20874,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-07T07:23:20+00:00",
-        "pushed": "2023-11-11T13:24:19+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11453,15 +11362,106 @@
         "id": 237940918
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2449,
+        "forks": 491,
+        "size": 16348,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2023-11-12T14:00:35+00:00",
+        "pushed": "2023-11-13T05:35:02+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 182,
+        "forks": 77,
+        "size": 1312,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2023-11-08T11:01:26+00:00",
+        "pushed": "2023-11-12T18:35:29+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 533,
+        "forks": 51,
+        "size": 897,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-11-10T12:05:34+00:00",
+        "pushed": "2023-11-13T01:50:14+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 416,
+        "forks": 102,
+        "size": 41652,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2023-11-03T15:34:01+00:00",
+        "pushed": "2023-11-13T02:13:21+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1121,
+        "forks": 161,
+        "size": 12745,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2023-11-11T03:28:01+00:00",
+        "pushed": "2023-11-12T21:41:19+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 9,
+        "size": 21068,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-07T07:23:20+00:00",
+        "pushed": "2023-11-12T23:46:05+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "VexRiscv",
+        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
+        "owner": "SpinalHDL",
+        "stars": 2076,
+        "forks": 364,
+        "size": 13232,
+        "created": "2017-03-08T21:14:28+00:00",
+        "updated": "2023-11-12T20:31:49+00:00",
+        "pushed": "2023-11-13T02:02:11+00:00",
+        "url": "https://github.com/SpinalHDL/VexRiscv",
+        "id": 84366787
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1091,
+        "size": 1093,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-12T04:34:54+00:00",
+        "pushed": "2023-11-13T04:35:20+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11471,10 +11471,10 @@
         "owner": "zengzzzzz",
         "stars": 0,
         "forks": 0,
-        "size": 1070,
+        "size": 1091,
         "created": "2023-10-09T13:00:57+00:00",
         "updated": "2023-10-09T13:23:05+00:00",
-        "pushed": "2023-11-12T01:48:23+00:00",
+        "pushed": "2023-11-13T01:44:56+00:00",
         "url": "https://github.com/zengzzzzz/golang-trending-archive",
         "id": 702508231
     },
@@ -11484,10 +11484,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 38803,
+        "size": 31994,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-11-12T03:18:57+00:00",
+        "pushed": "2023-11-13T03:19:41+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -11497,10 +11497,10 @@
         "owner": "ZonghaoLi777",
         "stars": 0,
         "forks": 0,
-        "size": 1739,
+        "size": 2072,
         "created": "2023-09-25T08:11:03+00:00",
         "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-11-12T02:25:18+00:00",
+        "pushed": "2023-11-13T02:25:24+00:00",
         "url": "https://github.com/ZonghaoLi777/githubTrending",
         "id": 696165186
     },
@@ -11510,10 +11510,10 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 2090,
+        "size": 2188,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-11-12T02:23:57+00:00",
+        "pushed": "2023-11-13T02:23:20+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
     }
