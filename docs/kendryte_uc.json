@@ -8957,19 +8957,6 @@
         "id": 206158002
     },
     {
-        "repo": "ESP32CAM-OV7725-TFT-ambilight",
-        "description": "camera based TV ambilight ",
-        "owner": "WASmars",
-        "stars": 1,
-        "forks": 0,
-        "size": 7748,
-        "created": "2019-09-04T03:40:03Z",
-        "updated": "2023-08-08T13:08:16Z",
-        "pushed": "2023-10-25T07:37:57Z",
-        "url": "https://github.com/WASmars/ESP32CAM-OV7725-TFT-ambilight",
-        "id": 206225019
-    },
-    {
         "repo": "pixel_engine",
         "description": "A reproduction of the oldPixelGameEngine(by OneLoneCoder) written in rust ",
         "owner": "Maix0",
@@ -15507,32 +15494,6 @@
         "pushed": "2020-10-27T11:48:28Z",
         "url": "https://github.com/hujiese/Maixduino_esp32_fimware_for_ArduinoIDE",
         "id": 307681936
-    },
-    {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1194,
-        "forks": 355,
-        "size": 46328,
-        "created": "2020-10-29T07:21:08Z",
-        "updated": "2023-10-31T21:00:43Z",
-        "pushed": "2023-10-25T14:00:06Z",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
-        "repo": "rCore-Tutorial-Book-v3",
-        "description": "A book about how to write  OS kernels in Rust easily.",
-        "owner": "rcore-os",
-        "stars": 990,
-        "forks": 161,
-        "size": 91370,
-        "created": "2020-10-29T14:01:52Z",
-        "updated": "2023-11-01T05:36:26Z",
-        "pushed": "2023-10-26T16:36:58Z",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
-        "id": 308346100
     },
     {
         "repo": "test",
@@ -34580,19 +34541,6 @@
         "id": 714628474
     },
     {
-        "repo": "RISC-V-Guide",
-        "description": "RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.",
-        "owner": "mikeroyal",
-        "stars": 378,
-        "forks": 28,
-        "size": 1081,
-        "created": "2020-12-15T21:10:56+00:00",
-        "updated": "2023-11-04T21:31:17+00:00",
-        "pushed": "2023-11-03T21:06:15+00:00",
-        "url": "https://github.com/mikeroyal/RISC-V-Guide",
-        "id": 321789911
-    },
-    {
         "repo": "BlackFingersTeam",
         "description": null,
         "owner": "BlackFingerTeam",
@@ -34762,45 +34710,6 @@
         "id": 188584527
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 625,
-        "forks": 180,
-        "size": 54630,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-09T02:41:52+00:00",
-        "pushed": "2023-11-13T07:13:05+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 78,
-        "forks": 25,
-        "size": 137944,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-11T21:33:51+00:00",
-        "pushed": "2023-11-12T16:37:32+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8939,
-        "forks": 4694,
-        "size": 778238,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-13T06:10:41+00:00",
-        "pushed": "2023-11-12T16:57:10+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "bookmarks",
         "description": "Sreedev's Web Browser Bookmarks",
         "owner": "sreedevk",
@@ -34827,32 +34736,6 @@
         "id": 564897516
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 2234,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-13T01:39:24+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 81,
-        "forks": 33,
-        "size": 543478,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-10-27T08:10:33+00:00",
-        "pushed": "2023-11-12T12:21:45+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "acpphint",
         "description": "A C++ variation on the serial and pthread HINT benchmarks, tailored to my use.",
         "owner": "markmi",
@@ -34864,5 +34747,122 @@
         "pushed": "2023-11-12T22:28:18+00:00",
         "url": "https://github.com/markmi/acpphint",
         "id": 214611123
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 625,
+        "forks": 180,
+        "size": 55639,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-09T02:41:52+00:00",
+        "pushed": "2023-11-14T07:00:55+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1214,
+        "forks": 361,
+        "size": 46329,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2023-11-13T06:44:54+00:00",
+        "pushed": "2023-11-13T15:38:38+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 78,
+        "forks": 25,
+        "size": 137946,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-11T21:33:51+00:00",
+        "pushed": "2023-11-13T20:10:27+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8941,
+        "forks": 4695,
+        "size": 778233,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-14T02:24:08+00:00",
+        "pushed": "2023-11-13T14:49:20+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rCore-Tutorial-Book-v3",
+        "description": "A book about how to write  OS kernels in Rust easily.",
+        "owner": "rcore-os",
+        "stars": 998,
+        "forks": 162,
+        "size": 91551,
+        "created": "2020-10-29T14:01:52+00:00",
+        "updated": "2023-11-12T11:19:31+00:00",
+        "pushed": "2023-11-13T15:55:38+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
+        "id": 308346100
+    },
+    {
+        "repo": "RISC-V-Guide",
+        "description": "RISC-V Guide. Learn all about the RISC-V computer architecture along with the Development Tools and Operating Systems to develop on RISC-V hardware.",
+        "owner": "mikeroyal",
+        "stars": 382,
+        "forks": 28,
+        "size": 1081,
+        "created": "2020-12-15T21:10:56+00:00",
+        "updated": "2023-11-10T16:35:25+00:00",
+        "pushed": "2023-11-13T22:03:52+00:00",
+        "url": "https://github.com/mikeroyal/RISC-V-Guide",
+        "id": 321789911
+    },
+    {
+        "repo": "ESP32CAM-OV7725-TFT-ambilight",
+        "description": "camera based TV ambilight ",
+        "owner": "WASmars",
+        "stars": 1,
+        "forks": 0,
+        "size": 7753,
+        "created": "2019-09-04T03:40:03+00:00",
+        "updated": "2023-08-08T13:08:16+00:00",
+        "pushed": "2023-11-14T03:22:37+00:00",
+        "url": "https://github.com/WASmars/ESP32CAM-OV7725-TFT-ambilight",
+        "id": 206225019
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 2628,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-11-14T01:38:03+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 81,
+        "forks": 33,
+        "size": 546149,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2023-10-27T08:10:33+00:00",
+        "pushed": "2023-11-13T12:25:00+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]

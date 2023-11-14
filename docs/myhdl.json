@@ -4667,19 +4667,6 @@
         "id": 143520625
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator written entirely in Python.",
-        "owner": "kyaso",
-        "stars": 2,
-        "forks": 0,
-        "size": 624,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2023-10-14T05:02:11+00:00",
-        "pushed": "2023-11-09T20:46:51+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -4691,5 +4678,18 @@
         "pushed": "2023-11-02T23:19:56+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator written entirely in Python.",
+        "owner": "kyaso",
+        "stars": 2,
+        "forks": 0,
+        "size": 764,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2023-10-14T05:02:11+00:00",
+        "pushed": "2023-11-13T21:20:05+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
