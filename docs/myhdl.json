@@ -4654,32 +4654,6 @@
         "id": 479118982
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 28,
-        "forks": 23,
-        "size": 41124,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2023-07-22T03:52:44+00:00",
-        "pushed": "2023-11-09T13:24:14+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 45,
-        "forks": 9,
-        "size": 1381,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2023-11-10T14:23:12+00:00",
-        "pushed": "2023-11-02T23:19:56+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator written entirely in Python.",
         "owner": "kyaso",
@@ -4691,5 +4665,44 @@
         "pushed": "2023-11-13T21:20:05+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 28,
+        "forks": 23,
+        "size": 41149,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2023-07-22T03:52:44+00:00",
+        "pushed": "2023-11-14T12:42:05+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "MyHDL",
+        "description": null,
+        "owner": "sirampy",
+        "stars": 1,
+        "forks": 0,
+        "size": 6,
+        "created": "2023-11-14T19:50:35+00:00",
+        "updated": "2023-11-15T01:04:06+00:00",
+        "pushed": "2023-11-15T00:57:57+00:00",
+        "url": "https://github.com/sirampy/MyHDL",
+        "id": 718785748
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 45,
+        "forks": 9,
+        "size": 1405,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2023-11-10T14:23:12+00:00",
+        "pushed": "2023-11-14T19:05:34+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
     }
 ]
