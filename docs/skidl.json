@@ -481,19 +481,6 @@
         "id": 226540355
     },
     {
-        "repo": "zyc",
-        "description": "GUI utility for searching and selecting parts and footprints for use with SKiDL.",
-        "owner": "devbisme",
-        "stars": 4,
-        "forks": 5,
-        "size": 590,
-        "created": "2019-12-17T14:29:37Z",
-        "updated": "2023-02-09T05:45:11Z",
-        "pushed": "2023-02-19T21:12:13Z",
-        "url": "https://github.com/devbisme/zyc",
-        "id": 228634524
-    },
-    {
         "repo": "keyboard-pcb-helper",
         "description": "Generate kicad file from keyboard layout files",
         "owner": "aweltsch",
@@ -1194,5 +1181,18 @@
         "pushed": "2023-11-05T23:32:04+00:00",
         "url": "https://github.com/kcaisley/forst",
         "id": 666390134
+    },
+    {
+        "repo": "zyc",
+        "description": "GUI utility for searching and selecting parts and footprints for use with SKiDL.",
+        "owner": "devbisme",
+        "stars": 4,
+        "forks": 5,
+        "size": 575,
+        "created": "2019-12-17T14:29:37+00:00",
+        "updated": "2023-02-09T05:45:11+00:00",
+        "pushed": "2023-11-02T21:25:26+00:00",
+        "url": "https://github.com/devbisme/zyc",
+        "id": 228634524
     }
 ]

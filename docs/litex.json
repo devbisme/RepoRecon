@@ -6071,19 +6071,6 @@
         "id": 418623960
     },
     {
-        "repo": "caravel_mgmt_soc_litex",
-        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
-        "owner": "efabless",
-        "stars": 24,
-        "forks": 17,
-        "size": 4257846,
-        "created": "2021-10-21T17:04:00Z",
-        "updated": "2023-10-18T02:22:41Z",
-        "pushed": "2023-10-23T14:59:55Z",
-        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
-        "id": 419809304
-    },
-    {
         "repo": "litExplor",
         "description": "R package to help filter search terms for literature reviews",
         "owner": "ransomts",
@@ -8099,19 +8086,6 @@
         "id": 520052803
     },
     {
-        "repo": "timing-scripts",
-        "description": null,
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 1,
-        "size": 2525,
-        "created": "2022-08-04T14:43:40Z",
-        "updated": "2022-11-15T21:41:40Z",
-        "pushed": "2023-10-31T20:04:31Z",
-        "url": "https://github.com/efabless/timing-scripts",
-        "id": 521304090
-    },
-    {
         "repo": "svb-vit74-faeboli",
         "description": "Local try for Fabio Eboly Lcnc",
         "owner": "lifpnc",
@@ -8435,19 +8409,6 @@
         "pushed": "2022-10-03T20:55:23Z",
         "url": "https://github.com/kitspace-forks/reform-kintex-som",
         "id": 545132398
-    },
-    {
-        "repo": "caravel_mgmt_soc_gf180mcu",
-        "description": "This repository is the GF180MCU port of management core for Caravel.  For more information about the Caravel management SoC, see https://github.com/efabless/caravel_mgmt_soc_litex.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 2,
-        "size": 48167,
-        "created": "2022-10-03T22:38:58Z",
-        "updated": "2022-12-19T16:28:34Z",
-        "pushed": "2023-10-31T20:04:28Z",
-        "url": "https://github.com/efabless/caravel_mgmt_soc_gf180mcu",
-        "id": 545166594
     },
     {
         "repo": "litex_board_nexys_A7",
@@ -10166,19 +10127,6 @@
         "id": 658001305
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 18,
-        "forks": 1,
-        "size": 2404,
-        "created": "2023-06-26T07:33:05Z",
-        "updated": "2023-10-29T15:55:28Z",
-        "pushed": "2023-11-01T00:13:46Z",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "renode-models-analyzer",
         "description": null,
         "owner": "antmicro",
@@ -10398,19 +10346,6 @@
         "pushed": "2023-08-18T09:46:03Z",
         "url": "https://github.com/combinatorylogic/devenv",
         "id": 676901611
-    },
-    {
-        "repo": "eurorack-pmod-litex",
-        "description": "Basic example of using eurorack-pmod inside a LiteX environment with firmware written in Rust.",
-        "owner": "apfelaudio",
-        "stars": 0,
-        "forks": 0,
-        "size": 129,
-        "created": "2023-08-13T10:24:29Z",
-        "updated": "2023-08-13T17:06:43Z",
-        "pushed": "2023-09-07T16:24:34Z",
-        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
-        "id": 677990151
     },
     {
         "repo": "AAML-Lab1",
@@ -11102,19 +11037,6 @@
         "id": 682324439
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 411,
-        "forks": 101,
-        "size": 1566,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2023-11-10T09:06:22+00:00",
-        "pushed": "2023-11-10T09:45:00+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -11245,19 +11167,6 @@
         "id": 45734719
     },
     {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1053,
-        "forks": 156,
-        "size": 38006,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2023-11-09T16:40:26+00:00",
-        "pushed": "2023-11-14T06:27:38+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
         "repo": "kakao",
         "description": "Kakao Linux",
         "owner": "machdyne",
@@ -11269,19 +11178,6 @@
         "pushed": "2023-11-14T06:14:25+00:00",
         "url": "https://github.com/machdyne/kakao",
         "id": 591257216
-    },
-    {
-        "repo": "accelerator-interface-generator",
-        "description": null,
-        "owner": "antmicro",
-        "stars": 3,
-        "forks": 0,
-        "size": 2336,
-        "created": "2023-06-17T07:40:08+00:00",
-        "updated": "2023-10-12T18:21:31+00:00",
-        "pushed": "2023-11-13T13:47:38+00:00",
-        "url": "https://github.com/antmicro/accelerator-interface-generator",
-        "id": 654873278
     },
     {
         "repo": "sechzig",
@@ -11308,19 +11204,6 @@
         "pushed": "2023-11-14T18:28:04+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 537,
-        "forks": 51,
-        "size": 902,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-11-15T01:20:03+00:00",
-        "pushed": "2023-11-15T02:03:41+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -11388,19 +11271,6 @@
         "id": 413357087
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 9,
-        "size": 21045,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-07T07:23:20+00:00",
-        "pushed": "2023-11-14T19:12:49+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "ljinux",
         "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
         "owner": "bill88t",
@@ -11412,19 +11282,6 @@
         "pushed": "2023-11-14T16:11:26+00:00",
         "url": "https://github.com/bill88t/ljinux",
         "id": 434342707
-    },
-    {
-        "repo": "pogobot",
-        "description": "Pogobot is an open-source open-hardware robotic platform for swarm robotics",
-        "owner": "nekonaute",
-        "stars": 3,
-        "forks": 1,
-        "size": 99168,
-        "created": "2022-06-20T13:59:40+00:00",
-        "updated": "2023-10-09T07:38:39+00:00",
-        "pushed": "2023-11-14T15:05:40+00:00",
-        "url": "https://github.com/nekonaute/pogobot",
-        "id": 505464574
     },
     {
         "repo": "LitExtract",
@@ -11453,32 +11310,6 @@
         "id": 84366787
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 1095,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-15T04:35:48+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "golang-trending-archive",
-        "description": "track golang trending in github",
-        "owner": "zengzzzzz",
-        "stars": 0,
-        "forks": 0,
-        "size": 1132,
-        "created": "2023-10-09T13:00:57+00:00",
-        "updated": "2023-10-09T13:23:05+00:00",
-        "pushed": "2023-11-15T01:46:13+00:00",
-        "url": "https://github.com/zengzzzzz/golang-trending-archive",
-        "id": 702508231
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -11492,15 +11323,184 @@
         "id": 310692215
     },
     {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 411,
+        "forks": 101,
+        "size": 1576,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2023-11-10T09:06:22+00:00",
+        "pushed": "2023-11-15T13:40:51+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 538,
+        "forks": 51,
+        "size": 902,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-11-16T03:08:02+00:00",
+        "pushed": "2023-11-16T01:58:14+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "caravel_mgmt_soc_litex",
+        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
+        "owner": "efabless",
+        "stars": 24,
+        "forks": 17,
+        "size": 4257922,
+        "created": "2021-10-21T17:04:00+00:00",
+        "updated": "2023-10-18T02:22:41+00:00",
+        "pushed": "2023-11-15T22:52:28+00:00",
+        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
+        "id": 419809304
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 10,
+        "size": 20885,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-07T07:23:20+00:00",
+        "pushed": "2023-11-15T20:23:11+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1054,
+        "forks": 156,
+        "size": 38003,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2023-11-15T04:29:23+00:00",
+        "pushed": "2023-11-15T23:43:28+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "caravel_mgmt_soc_gf180mcu",
+        "description": "This repository is the GF180MCU port of management core for Caravel.  For more information about the Caravel management SoC, see https://github.com/efabless/caravel_mgmt_soc_litex.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 2,
+        "size": 48168,
+        "created": "2022-10-03T22:38:58+00:00",
+        "updated": "2022-12-19T16:28:34+00:00",
+        "pushed": "2023-11-15T22:59:14+00:00",
+        "url": "https://github.com/efabless/caravel_mgmt_soc_gf180mcu",
+        "id": 545166594
+    },
+    {
+        "repo": "pogobot",
+        "description": "Pogobot is an open-source open-hardware robotic platform for swarm robotics",
+        "owner": "nekonaute",
+        "stars": 3,
+        "forks": 1,
+        "size": 99177,
+        "created": "2022-06-20T13:59:40+00:00",
+        "updated": "2023-10-09T07:38:39+00:00",
+        "pushed": "2023-11-15T14:58:29+00:00",
+        "url": "https://github.com/nekonaute/pogobot",
+        "id": 505464574
+    },
+    {
+        "repo": "accelerator-interface-generator",
+        "description": null,
+        "owner": "antmicro",
+        "stars": 3,
+        "forks": 0,
+        "size": 2396,
+        "created": "2023-06-17T07:40:08+00:00",
+        "updated": "2023-10-12T18:21:31+00:00",
+        "pushed": "2023-11-15T07:47:22+00:00",
+        "url": "https://github.com/antmicro/accelerator-interface-generator",
+        "id": 654873278
+    },
+    {
+        "repo": "eurorack-pmod-litex",
+        "description": "Basic example of using eurorack-pmod inside a LiteX environment with firmware written in Rust.",
+        "owner": "apfelaudio",
+        "stars": 0,
+        "forks": 0,
+        "size": 2015,
+        "created": "2023-08-13T10:24:29+00:00",
+        "updated": "2023-08-13T17:06:43+00:00",
+        "pushed": "2023-11-15T21:43:40+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
+        "id": 677990151
+    },
+    {
+        "repo": "timing-scripts",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 1,
+        "size": 2525,
+        "created": "2022-08-04T14:43:40+00:00",
+        "updated": "2022-11-15T21:41:40+00:00",
+        "pushed": "2023-11-13T23:19:34+00:00",
+        "url": "https://github.com/efabless/timing-scripts",
+        "id": 521304090
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 18,
+        "forks": 1,
+        "size": 2404,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2023-10-29T15:55:28+00:00",
+        "pushed": "2023-11-16T00:12:06+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 1164,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2023-11-16T04:36:57+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "golang-trending-archive",
+        "description": "track golang trending in github",
+        "owner": "zengzzzzz",
+        "stars": 0,
+        "forks": 0,
+        "size": 1153,
+        "created": "2023-10-09T13:00:57+00:00",
+        "updated": "2023-10-09T13:23:05+00:00",
+        "pushed": "2023-11-16T01:47:17+00:00",
+        "url": "https://github.com/zengzzzzz/golang-trending-archive",
+        "id": 702508231
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 32786,
+        "size": 33186,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-11-15T03:20:05+00:00",
+        "pushed": "2023-11-16T03:20:52+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -11510,10 +11510,10 @@
         "owner": "ZonghaoLi777",
         "stars": 0,
         "forks": 0,
-        "size": 2424,
+        "size": 2443,
         "created": "2023-09-25T08:11:03+00:00",
         "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-11-15T02:26:25+00:00",
+        "pushed": "2023-11-16T02:26:54+00:00",
         "url": "https://github.com/ZonghaoLi777/githubTrending",
         "id": 696165186
     },
@@ -11523,10 +11523,10 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 2415,
+        "size": 2543,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-11-15T02:24:36+00:00",
+        "pushed": "2023-11-16T02:25:20+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
     }

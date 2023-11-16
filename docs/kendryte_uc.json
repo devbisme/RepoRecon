@@ -10296,19 +10296,6 @@
         "id": 228707955
     },
     {
-        "repo": "u-boot",
-        "description": "My patches for U-Boot, mostly centered on K210 support. master should usually have the latest collection of patches.",
-        "owner": "Forty-Bot",
-        "stars": 7,
-        "forks": 2,
-        "size": 165649,
-        "created": "2019-12-18T01:24:10Z",
-        "updated": "2022-03-18T01:03:19Z",
-        "pushed": "2021-06-11T04:42:32Z",
-        "url": "https://github.com/Forty-Bot/u-boot",
-        "id": 228731771
-    },
-    {
         "repo": "StarWars-Chars-AIClassifier",
         "description": "A simple machine vision classifier of StarWars characters runs on K210, using MaixPy",
         "owner": "andriyadi",
@@ -25649,19 +25636,6 @@
         "id": 516333968
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 3,
-        "forks": 1,
-        "size": 1467,
-        "created": "2022-07-22T00:29:35Z",
-        "updated": "2023-09-24T19:14:30Z",
-        "pushed": "2023-09-24T21:30:10Z",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "k210",
         "description": null,
         "owner": "heartfell",
@@ -33709,19 +33683,6 @@
         "id": 694206722
     },
     {
-        "repo": "MDU-robot-grupp5",
-        "description": "iwrigbfeywbkfwykgfk",
-        "owner": "abbchrjer",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2023-09-25T13:22:55Z",
-        "updated": "2023-09-27T11:18:57Z",
-        "pushed": "2023-09-27T11:22:42Z",
-        "url": "https://github.com/abbchrjer/MDU-robot-grupp5",
-        "id": 696293680
-    },
-    {
         "repo": "Unishyper",
         "description": "A Rust-based Unikernel Enhancing Reliability and Efficiency of Embedded Systems.",
         "owner": "hky1999",
@@ -34346,19 +34307,6 @@
         "id": 360045993
     },
     {
-        "repo": "rustpie",
-        "description": "Rustpi Enhanced",
-        "owner": "tonnylyz",
-        "stars": 3,
-        "forks": 3,
-        "size": 1602,
-        "created": "2021-05-09T08:29:27+00:00",
-        "updated": "2022-10-18T05:49:48+00:00",
-        "pushed": "2023-11-04T07:04:03+00:00",
-        "url": "https://github.com/tonnylyz/rustpie",
-        "id": 365704100
-    },
-    {
         "repo": "vihal",
         "description": "Embedded Hardware Access Library",
         "owner": "nvitya",
@@ -34567,19 +34515,6 @@
         "id": 461751706
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 1016,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-11-11T00:26:16+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "platformio-vscode-ide",
         "description": "PlatformIO IDE for VSCode: The next generation integrated development environment for IoT",
         "owner": "platformio",
@@ -34723,32 +34658,6 @@
         "id": 206225019
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 626,
-        "forks": 181,
-        "size": 55730,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-14T09:26:34+00:00",
-        "pushed": "2023-11-15T07:14:34+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 78,
-        "forks": 25,
-        "size": 137971,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-11T21:33:51+00:00",
-        "pushed": "2023-11-14T19:14:19+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -34762,19 +34671,6 @@
         "id": 390637491
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8948,
-        "forks": 4695,
-        "size": 778244,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-15T06:29:48+00:00",
-        "pushed": "2023-11-15T05:54:27+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -34786,19 +34682,6 @@
         "pushed": "2023-11-14T17:20:02+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "bookmarks",
-        "description": "Sreedev's Web Browser Bookmarks",
-        "owner": "sreedevk",
-        "stars": 5,
-        "forks": 0,
-        "size": 1896,
-        "created": "2021-10-17T17:03:46+00:00",
-        "updated": "2023-11-12T14:16:51+00:00",
-        "pushed": "2023-11-14T23:43:58+00:00",
-        "url": "https://github.com/sreedevk/bookmarks",
-        "id": 418199179
     },
     {
         "repo": "rvos",
@@ -34827,32 +34710,6 @@
         "id": 704135197
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 3022,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-15T01:41:09+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 81,
-        "forks": 33,
-        "size": 546149,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-10-27T08:10:33+00:00",
-        "pushed": "2023-11-14T12:23:42+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "homepage",
         "description": "free time attempt to create a bit prettier web page",
         "owner": "macabset",
@@ -34864,5 +34721,161 @@
         "pushed": "2023-11-14T18:31:39+00:00",
         "url": "https://github.com/macabset/homepage",
         "id": 113545974
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 626,
+        "forks": 181,
+        "size": 55271,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-14T09:26:34+00:00",
+        "pushed": "2023-11-16T04:22:11+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 78,
+        "forks": 24,
+        "size": 137964,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-11T21:33:51+00:00",
+        "pushed": "2023-11-15T17:15:56+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rustpie",
+        "description": "Rustpi Enhanced",
+        "owner": "tonnylyz",
+        "stars": 3,
+        "forks": 3,
+        "size": 1622,
+        "created": "2021-05-09T08:29:27+00:00",
+        "updated": "2022-10-18T05:49:48+00:00",
+        "pushed": "2023-11-15T14:33:01+00:00",
+        "url": "https://github.com/tonnylyz/rustpie",
+        "id": 365704100
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8953,
+        "forks": 4695,
+        "size": 781850,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-16T05:28:19+00:00",
+        "pushed": "2023-11-16T06:46:47+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "bookmarks",
+        "description": "Sreedev's Web Browser Bookmarks",
+        "owner": "sreedevk",
+        "stars": 5,
+        "forks": 0,
+        "size": 1876,
+        "created": "2021-10-17T17:03:46+00:00",
+        "updated": "2023-11-12T14:16:51+00:00",
+        "pushed": "2023-11-15T21:26:42+00:00",
+        "url": "https://github.com/sreedevk/bookmarks",
+        "id": 418199179
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 3,
+        "forks": 1,
+        "size": 1472,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2023-09-24T19:14:30+00:00",
+        "pushed": "2023-11-01T09:03:08+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "u-boot",
+        "description": "My patches for U-Boot, mostly centered on K210 support. master should usually have the latest collection of patches.",
+        "owner": "Forty-Bot",
+        "stars": 7,
+        "forks": 2,
+        "size": 212140,
+        "created": "2019-12-18T01:24:10+00:00",
+        "updated": "2022-03-18T01:03:19+00:00",
+        "pushed": "2023-11-10T13:35:44+00:00",
+        "url": "https://github.com/Forty-Bot/u-boot",
+        "id": 228731771
+    },
+    {
+        "repo": "MDU-robot-grupp5",
+        "description": "iwrigbfeywbkfwykgfk",
+        "owner": "abbchrjer",
+        "stars": 0,
+        "forks": 0,
+        "size": 8,
+        "created": "2023-09-25T13:22:55+00:00",
+        "updated": "2023-09-27T11:18:57+00:00",
+        "pushed": "2023-11-15T11:25:20+00:00",
+        "url": "https://github.com/abbchrjer/MDU-robot-grupp5",
+        "id": 696293680
+    },
+    {
+        "repo": "BlackFingersTeam",
+        "description": null,
+        "owner": "abdo20050",
+        "stars": 0,
+        "forks": 0,
+        "size": 11628,
+        "created": "2023-11-10T23:29:09+00:00",
+        "updated": "2023-11-10T23:29:09+00:00",
+        "pushed": "2023-11-07T04:30:58+00:00",
+        "url": "https://github.com/abdo20050/BlackFingersTeam",
+        "id": 717255048
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 1022,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2023-11-15T19:33:02+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 3195,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-11-16T01:39:02+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 82,
+        "forks": 33,
+        "size": 547934,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2023-11-16T05:10:02+00:00",
+        "pushed": "2023-11-15T12:25:34+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]
