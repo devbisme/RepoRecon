@@ -33813,19 +33813,6 @@
         "id": 701090859
     },
     {
-        "repo": "HuskyLens-Spike",
-        "description": "Una camara de inteligencia artificial con diversos modos de funcionamientos.",
-        "owner": "IITADiegoCABJ",
-        "stars": 0,
-        "forks": 0,
-        "size": 40,
-        "created": "2023-10-06T22:09:08Z",
-        "updated": "2023-10-06T23:02:38Z",
-        "pushed": "2023-10-27T23:58:28Z",
-        "url": "https://github.com/IITADiegoCABJ/HuskyLens-Spike",
-        "id": 701547279
-    },
-    {
         "repo": "K2306IPC",
         "description": null,
         "owner": "JohnsonJinyu",
@@ -34294,19 +34281,6 @@
         "id": 557141473
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 3,
-        "forks": 2,
-        "size": 7521,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-05-09T06:23:21+00:00",
-        "pushed": "2023-11-05T12:21:42+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "Use-LLMs-in-Colab",
         "description": "\ud83e\udd16 \u96c6\u5408\u4f17\u591a\u5927\u6a21\u578b\u5728Colab\u4e0a\u7684\u4f7f\u7528 | LLMs is all you need.",
         "owner": "WangRongsheng",
@@ -34318,19 +34292,6 @@
         "pushed": "2023-11-06T01:02:58+00:00",
         "url": "https://github.com/WangRongsheng/Use-LLMs-in-Colab",
         "id": 625144481
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 3,
-        "forks": 0,
-        "size": 7330,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2023-10-27T13:59:31+00:00",
-        "pushed": "2023-11-02T23:23:21+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
     },
     {
         "repo": "2023Ti",
@@ -34775,32 +34736,6 @@
         "id": 128056991
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 78,
-        "forks": 25,
-        "size": 137966,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-11T21:33:51+00:00",
-        "pushed": "2023-11-16T15:52:00+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 148,
-        "forks": 109,
-        "size": 245,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2023-11-13T13:52:31+00:00",
-        "pushed": "2023-11-16T13:43:15+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "rustpie",
         "description": "Rustpi Enhanced",
         "owner": "tonnylyz",
@@ -34879,15 +34814,106 @@
         "id": 206225019
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 78,
+        "forks": 25,
+        "size": 137969,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-11T21:33:51+00:00",
+        "pushed": "2023-11-18T02:07:17+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 148,
+        "forks": 109,
+        "size": 254,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2023-11-13T13:52:31+00:00",
+        "pushed": "2023-11-17T09:56:19+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "Personal-project-summary",
+        "description": "A summary of some of the projects I have done in recent years.",
+        "owner": "ShulinJ",
+        "stars": 2,
+        "forks": 0,
+        "size": 75363,
+        "created": "2023-11-15T14:39:04+00:00",
+        "updated": "2023-11-17T09:30:06+00:00",
+        "pushed": "2023-11-17T13:03:57+00:00",
+        "url": "https://github.com/ShulinJ/Personal-project-summary",
+        "id": 719140114
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 3,
+        "forks": 2,
+        "size": 7527,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-05-09T06:23:21+00:00",
+        "pushed": "2023-11-17T20:40:07+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "rcore-lab",
+        "description": "\u64cd\u4f5c\u7cfb\u7edf\u4f5c\u4e1a",
+        "owner": "Etavioxy",
+        "stars": 0,
+        "forks": 0,
+        "size": 999,
+        "created": "2023-11-17T11:35:39+00:00",
+        "updated": "2023-11-17T11:37:34+00:00",
+        "pushed": "2023-11-17T11:37:21+00:00",
+        "url": "https://github.com/Etavioxy/rcore-lab",
+        "id": 720009644
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 3,
+        "forks": 0,
+        "size": 7331,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2023-10-27T13:59:31+00:00",
+        "pushed": "2023-11-17T22:42:57+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "HuskyLens-Spike",
+        "description": "Una camara de inteligencia artificial con diversos modos de funcionamientos.",
+        "owner": "IITADiegoCABJ",
+        "stars": 0,
+        "forks": 0,
+        "size": 49,
+        "created": "2023-10-06T22:09:08+00:00",
+        "updated": "2023-10-06T23:02:38+00:00",
+        "pushed": "2023-11-17T22:24:32+00:00",
+        "url": "https://github.com/IITADiegoCABJ/HuskyLens-Spike",
+        "id": 701547279
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 82,
         "forks": 33,
-        "size": 547936,
+        "size": 547938,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-16T12:25:23+00:00",
+        "pushed": "2023-11-17T12:24:21+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
