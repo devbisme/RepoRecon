@@ -6474,19 +6474,6 @@
         "id": 439995883
     },
     {
-        "repo": "NuBusFPGA",
-        "description": "Stuff to put a FPGA in a NuBus Macintosh",
-        "owner": "rdolbeau",
-        "stars": 38,
-        "forks": 1,
-        "size": 34080,
-        "created": "2021-12-21T07:22:10Z",
-        "updated": "2023-10-14T08:38:00Z",
-        "pushed": "2023-10-14T08:37:56Z",
-        "url": "https://github.com/rdolbeau/NuBusFPGA",
-        "id": 440426688
-    },
-    {
         "repo": "Litextension",
         "description": null,
         "owner": "huskyloveme",
@@ -8567,19 +8554,6 @@
         "id": 558928941
     },
     {
-        "repo": "VintageBusFPGA_Common",
-        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
-        "owner": "rdolbeau",
-        "stars": 3,
-        "forks": 0,
-        "size": 643,
-        "created": "2022-10-31T14:30:10Z",
-        "updated": "2023-01-17T11:30:07Z",
-        "pushed": "2023-10-22T07:10:34Z",
-        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
-        "id": 559997034
-    },
-    {
         "repo": "linux-on-litex-openc906",
         "description": "Running Linux on LiteX with OpenC906.",
         "owner": "Icenowy",
@@ -8851,19 +8825,6 @@
         "pushed": "2022-12-22T23:11:30Z",
         "url": "https://github.com/tucanae47/litex_etpu",
         "id": 580884046
-    },
-    {
-        "repo": "TangNano-20K-example",
-        "description": "TangNano-20K-example",
-        "owner": "sipeed",
-        "stars": 46,
-        "forks": 11,
-        "size": 3089,
-        "created": "2022-12-22T11:53:41Z",
-        "updated": "2023-09-07T07:13:42Z",
-        "pushed": "2023-08-25T03:10:32Z",
-        "url": "https://github.com/sipeed/TangNano-20K-example",
-        "id": 581146705
     },
     {
         "repo": "konfekt",
@@ -11180,19 +11141,6 @@
         "id": 100942867
     },
     {
-        "repo": "ljinux",
-        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
-        "owner": "bill88t",
-        "stars": 197,
-        "forks": 13,
-        "size": 10456,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2023-11-08T17:41:22+00:00",
-        "pushed": "2023-11-14T16:11:26+00:00",
-        "url": "https://github.com/bill88t/ljinux",
-        "id": 434342707
-    },
-    {
         "repo": "LitExtract",
         "description": "Python-based project facilitates text extraction from PDFs formatted in article style. It must be tuned to the your targets, so please refer to the README.md.",
         "owner": "PariaNaghavi",
@@ -11271,19 +11219,6 @@
         "id": 521304090
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1265,
-        "forks": 176,
-        "size": 200033,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-11-16T03:23:45+00:00",
-        "pushed": "2023-11-16T18:06:03+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -11349,19 +11284,6 @@
         "id": 42041717
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 538,
-        "forks": 51,
-        "size": 902,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-11-16T03:08:02+00:00",
-        "pushed": "2023-11-18T01:56:21+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11399,19 +11321,6 @@
         "pushed": "2023-11-17T12:53:35+00:00",
         "url": "https://github.com/olofk/serv",
         "id": 155514739
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 10,
-        "size": 20923,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-07T07:23:20+00:00",
-        "pushed": "2023-11-17T13:37:52+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11466,6 +11375,97 @@
         "id": 483508371
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 538,
+        "forks": 51,
+        "size": 902,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-11-16T03:08:02+00:00",
+        "pushed": "2023-11-19T02:07:00+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "TangNano-20K-example",
+        "description": "TangNano-20K-example",
+        "owner": "sipeed",
+        "stars": 62,
+        "forks": 16,
+        "size": 3089,
+        "created": "2022-12-22T11:53:41+00:00",
+        "updated": "2023-11-19T06:28:00+00:00",
+        "pushed": "2023-11-15T10:41:36+00:00",
+        "url": "https://github.com/sipeed/TangNano-20K-example",
+        "id": 581146705
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1265,
+        "forks": 176,
+        "size": 200011,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-11-16T03:23:45+00:00",
+        "pushed": "2023-11-18T22:59:52+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 10,
+        "size": 20993,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-07T07:23:20+00:00",
+        "pushed": "2023-11-19T02:29:32+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "ljinux",
+        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
+        "owner": "bill88t",
+        "stars": 197,
+        "forks": 13,
+        "size": 10478,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2023-11-08T17:41:22+00:00",
+        "pushed": "2023-11-18T16:47:17+00:00",
+        "url": "https://github.com/bill88t/ljinux",
+        "id": 434342707
+    },
+    {
+        "repo": "VintageBusFPGA_Common",
+        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
+        "owner": "rdolbeau",
+        "stars": 3,
+        "forks": 0,
+        "size": 598,
+        "created": "2022-10-31T14:30:10+00:00",
+        "updated": "2023-01-17T11:30:07+00:00",
+        "pushed": "2023-11-18T14:53:59+00:00",
+        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
+        "id": 559997034
+    },
+    {
+        "repo": "NuBusFPGA",
+        "description": "Stuff to put a FPGA in a NuBus Macintosh",
+        "owner": "rdolbeau",
+        "stars": 39,
+        "forks": 1,
+        "size": 34101,
+        "created": "2021-12-21T07:22:10+00:00",
+        "updated": "2023-11-16T11:06:38+00:00",
+        "pushed": "2023-11-18T16:36:41+00:00",
+        "url": "https://github.com/rdolbeau/NuBusFPGA",
+        "id": 440426688
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11474,7 +11474,7 @@
         "size": 2404,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2023-11-18T00:11:44+00:00",
+        "pushed": "2023-11-19T00:12:42+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11484,10 +11484,10 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1274,
+        "size": 1343,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-18T04:35:59+00:00",
+        "pushed": "2023-11-19T04:35:11+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11497,10 +11497,10 @@
         "owner": "zengzzzzz",
         "stars": 0,
         "forks": 0,
-        "size": 183,
+        "size": 230,
         "created": "2023-10-09T13:00:57+00:00",
         "updated": "2023-10-09T13:23:05+00:00",
-        "pushed": "2023-11-18T01:44:18+00:00",
+        "pushed": "2023-11-19T01:52:53+00:00",
         "url": "https://github.com/zengzzzzz/golang-trending-archive",
         "id": 702508231
     },
@@ -11510,10 +11510,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 33970,
+        "size": 34362,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-11-18T03:20:01+00:00",
+        "pushed": "2023-11-19T03:19:54+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -11523,10 +11523,10 @@
         "owner": "ZonghaoLi777",
         "stars": 0,
         "forks": 0,
-        "size": 2803,
+        "size": 3144,
         "created": "2023-09-25T08:11:03+00:00",
         "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-11-18T02:24:42+00:00",
+        "pushed": "2023-11-19T02:28:17+00:00",
         "url": "https://github.com/ZonghaoLi777/githubTrending",
         "id": 696165186
     },
@@ -11536,10 +11536,10 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 2781,
+        "size": 2890,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-11-18T02:22:48+00:00",
+        "pushed": "2023-11-19T02:26:21+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
     }

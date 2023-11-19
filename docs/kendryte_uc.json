@@ -34593,19 +34593,6 @@
         "id": 390637491
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 13,
-        "forks": 1,
-        "size": 636947,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2023-11-02T00:08:46+00:00",
-        "pushed": "2023-11-14T17:20:02+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
@@ -34697,32 +34684,6 @@
         "id": 717255048
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 1022,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-11-15T19:33:02+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 3195,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-16T01:39:02+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "nncase",
         "description": "Open deep learning compiler stack for Kendryte AI accelerator",
         "owner": "kendryte",
@@ -34734,19 +34695,6 @@
         "pushed": "2023-11-17T06:47:59+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "rustpie",
-        "description": "Rustpi Enhanced",
-        "owner": "tonnylyz",
-        "stars": 3,
-        "forks": 3,
-        "size": 1622,
-        "created": "2021-05-09T08:29:27+00:00",
-        "updated": "2022-10-18T05:49:48+00:00",
-        "pushed": "2023-11-16T07:56:35+00:00",
-        "url": "https://github.com/tonnylyz/rustpie",
-        "id": 365704100
     },
     {
         "repo": "rt-thread",
@@ -34905,15 +34853,80 @@
         "id": 701547279
     },
     {
+        "repo": "rustpie",
+        "description": "Rustpi Enhanced",
+        "owner": "tonnylyz",
+        "stars": 3,
+        "forks": 3,
+        "size": 1630,
+        "created": "2021-05-09T08:29:27+00:00",
+        "updated": "2022-10-18T05:49:48+00:00",
+        "pushed": "2023-11-19T03:23:38+00:00",
+        "url": "https://github.com/tonnylyz/rustpie",
+        "id": 365704100
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 13,
+        "forks": 1,
+        "size": 642130,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2023-11-02T00:08:46+00:00",
+        "pushed": "2023-11-18T13:24:56+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "archives",
+        "description": "My cloud storage",
+        "owner": "steward-fu",
+        "stars": 18,
+        "forks": 2,
+        "size": 5090,
+        "created": "2023-03-20T01:01:53+00:00",
+        "updated": "2023-11-19T02:59:38+00:00",
+        "pushed": "2023-11-19T02:28:50+00:00",
+        "url": "https://github.com/steward-fu/archives",
+        "id": 616233611
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 1024,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2023-11-18T19:01:51+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 3593,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-11-19T01:45:18+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 82,
         "forks": 33,
-        "size": 547938,
+        "size": 547943,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-17T12:24:21+00:00",
+        "pushed": "2023-11-18T12:23:34+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
