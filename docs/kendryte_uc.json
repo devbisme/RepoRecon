@@ -33826,19 +33826,6 @@
         "id": 702034962
     },
     {
-        "repo": "K510Buildroot",
-        "description": null,
-        "owner": "hanskimvz",
-        "stars": 0,
-        "forks": 0,
-        "size": 6025,
-        "created": "2023-10-08T23:12:42Z",
-        "updated": "2023-10-08T23:26:06Z",
-        "pushed": "2023-10-08T23:25:59Z",
-        "url": "https://github.com/hanskimvz/K510Buildroot",
-        "id": 702247517
-    },
-    {
         "repo": "car",
         "description": "\u5c0f\u8f66\u8ddf\u968f\u884c\u9a76\u7cfb\u7edf",
         "owner": "y6s6k6",
@@ -34268,19 +34255,6 @@
         "id": 245462564
     },
     {
-        "repo": "canmv_examples",
-        "description": " canmv examples",
-        "owner": "kendryte",
-        "stars": 10,
-        "forks": 8,
-        "size": 19459,
-        "created": "2022-10-25T06:37:03+00:00",
-        "updated": "2023-06-20T10:01:16+00:00",
-        "pushed": "2023-11-08T08:09:10+00:00",
-        "url": "https://github.com/kendryte/canmv_examples",
-        "id": 557141473
-    },
-    {
         "repo": "Use-LLMs-in-Colab",
         "description": "\ud83e\udd16 \u96c6\u5408\u4f17\u591a\u5927\u6a21\u578b\u5728Colab\u4e0a\u7684\u4f7f\u7528 | LLMs is all you need.",
         "owner": "WangRongsheng",
@@ -34684,32 +34658,6 @@
         "id": 717255048
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 627,
-        "forks": 181,
-        "size": 55321,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-16T13:47:28+00:00",
-        "pushed": "2023-11-17T06:47:59+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8960,
-        "forks": 4697,
-        "size": 781851,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-17T06:36:02+00:00",
-        "pushed": "2023-11-17T03:13:38+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "Miscellaneous",
         "description": "\u4e71\u4e03\u516b\u7cdf\u5c0f\u4e1c\u897f\u7684\u6574\u5408",
         "owner": "balmung08",
@@ -34749,19 +34697,6 @@
         "id": 719384157
     },
     {
-        "repo": "ESP32CAM-OV7725-TFT-ambilight",
-        "description": "camera based TV ambilight ",
-        "owner": "WASmars",
-        "stars": 1,
-        "forks": 0,
-        "size": 7979,
-        "created": "2019-09-04T03:40:03+00:00",
-        "updated": "2023-08-08T13:08:16+00:00",
-        "pushed": "2023-11-17T05:01:59+00:00",
-        "url": "https://github.com/WASmars/ESP32CAM-OV7725-TFT-ambilight",
-        "id": 206225019
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -34799,19 +34734,6 @@
         "pushed": "2023-11-17T13:03:57+00:00",
         "url": "https://github.com/ShulinJ/Personal-project-summary",
         "id": 719140114
-    },
-    {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 3,
-        "forks": 2,
-        "size": 7527,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-05-09T06:23:21+00:00",
-        "pushed": "2023-11-17T20:40:07+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
     },
     {
         "repo": "rcore-lab",
@@ -34892,15 +34814,93 @@
         "id": 616233611
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 627,
+        "forks": 181,
+        "size": 55241,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-16T13:47:28+00:00",
+        "pushed": "2023-11-20T02:33:30+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "canmv_examples",
+        "description": " canmv examples",
+        "owner": "kendryte",
+        "stars": 10,
+        "forks": 8,
+        "size": 19459,
+        "created": "2022-10-25T06:37:03+00:00",
+        "updated": "2023-06-20T10:01:16+00:00",
+        "pushed": "2023-11-20T02:05:00+00:00",
+        "url": "https://github.com/kendryte/canmv_examples",
+        "id": 557141473
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8972,
+        "forks": 4700,
+        "size": 781867,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-20T03:58:18+00:00",
+        "pushed": "2023-11-20T06:31:04+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 3,
+        "forks": 2,
+        "size": 7801,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-05-09T06:23:21+00:00",
+        "pushed": "2023-11-19T18:15:48+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "K510Buildroot",
+        "description": null,
+        "owner": "hanskimvz",
+        "stars": 0,
+        "forks": 0,
+        "size": 6026,
+        "created": "2023-10-08T23:12:42+00:00",
+        "updated": "2023-10-08T23:26:06+00:00",
+        "pushed": "2023-11-19T11:28:44+00:00",
+        "url": "https://github.com/hanskimvz/K510Buildroot",
+        "id": 702247517
+    },
+    {
+        "repo": "ESP32CAM-OV7725-TFT-ambilight",
+        "description": "camera based TV ambilight ",
+        "owner": "WASmars",
+        "stars": 1,
+        "forks": 0,
+        "size": 7990,
+        "created": "2019-09-04T03:40:03+00:00",
+        "updated": "2023-08-08T13:08:16+00:00",
+        "pushed": "2023-11-20T05:30:16+00:00",
+        "url": "https://github.com/WASmars/ESP32CAM-OV7725-TFT-ambilight",
+        "id": 206225019
+    },
+    {
         "repo": "ttt",
         "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
         "owner": "davidly",
         "stars": 0,
         "forks": 0,
-        "size": 1024,
+        "size": 1034,
         "created": "2022-02-08T05:17:55+00:00",
         "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-11-18T19:01:51+00:00",
+        "pushed": "2023-11-19T21:35:54+00:00",
         "url": "https://github.com/davidly/ttt",
         "id": 456793068
     },
@@ -34910,10 +34910,10 @@
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 3593,
+        "size": 3817,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-19T01:45:18+00:00",
+        "pushed": "2023-11-20T01:42:01+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -34923,10 +34923,10 @@
         "owner": "androidtrackers",
         "stars": 82,
         "forks": 33,
-        "size": 547943,
+        "size": 547948,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-18T12:23:34+00:00",
+        "pushed": "2023-11-19T12:24:01+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
