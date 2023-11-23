@@ -18044,19 +18044,6 @@
         "id": 348356194
     },
     {
-        "repo": "LilyGo-K210-Script",
-        "description": null,
-        "owner": "Xinyuan-LilyGO",
-        "stars": 5,
-        "forks": 2,
-        "size": 5578,
-        "created": "2021-03-18T01:49:27Z",
-        "updated": "2023-06-08T10:19:11Z",
-        "pushed": "2023-06-17T09:05:38Z",
-        "url": "https://github.com/Xinyuan-LilyGO/LilyGo-K210-Script",
-        "id": 348907199
-    },
-    {
         "repo": "project-0-MAIXIAN",
         "description": "project-0-MAIXIAN created by GitHub Classroom",
         "owner": "Web-dut-2021",
@@ -34177,19 +34164,6 @@
         "id": 486662551
     },
     {
-        "repo": "k230_sdk",
-        "description": "Kendryte K230 SDK",
-        "owner": "kendryte",
-        "stars": 71,
-        "forks": 17,
-        "size": 401373,
-        "created": "2023-07-07T05:53:35+00:00",
-        "updated": "2023-11-08T07:20:41+00:00",
-        "pushed": "2023-11-07T03:21:05+00:00",
-        "url": "https://github.com/kendryte/k230_sdk",
-        "id": 663357545
-    },
-    {
         "repo": "k230_docs",
         "description": "Kendryte K230 SDK Docs",
         "owner": "kendryte",
@@ -34749,19 +34723,6 @@
         "id": 702247517
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 79,
-        "forks": 25,
-        "size": 138073,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-20T08:01:33+00:00",
-        "pushed": "2023-11-21T01:17:52+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "K230_training_scripts",
         "description": null,
         "owner": "kendryte",
@@ -34840,32 +34801,6 @@
         "id": 456793068
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 627,
-        "forks": 181,
-        "size": 55265,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-16T13:47:28+00:00",
-        "pushed": "2023-11-21T11:13:08+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8978,
-        "forks": 4703,
-        "size": 782090,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-22T01:57:13+00:00",
-        "pushed": "2023-11-22T07:18:16+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -34905,15 +34840,80 @@
         "id": 668202218
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 627,
+        "forks": 181,
+        "size": 55320,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-16T13:47:28+00:00",
+        "pushed": "2023-11-23T07:14:57+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_sdk",
+        "description": "Kendryte K230 SDK",
+        "owner": "kendryte",
+        "stars": 74,
+        "forks": 20,
+        "size": 401373,
+        "created": "2023-07-07T05:53:35+00:00",
+        "updated": "2023-11-17T03:15:49+00:00",
+        "pushed": "2023-11-23T06:44:04+00:00",
+        "url": "https://github.com/kendryte/k230_sdk",
+        "id": 663357545
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 79,
+        "forks": 25,
+        "size": 138080,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-20T08:01:33+00:00",
+        "pushed": "2023-11-22T17:21:09+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8981,
+        "forks": 4706,
+        "size": 782127,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-23T03:46:33+00:00",
+        "pushed": "2023-11-23T06:16:53+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "LilyGo-K210-Script",
+        "description": null,
+        "owner": "Xinyuan-LilyGO",
+        "stars": 5,
+        "forks": 2,
+        "size": 5340,
+        "created": "2021-03-18T01:49:27+00:00",
+        "updated": "2023-06-08T10:19:11+00:00",
+        "pushed": "2023-11-22T09:41:42+00:00",
+        "url": "https://github.com/Xinyuan-LilyGO/LilyGo-K210-Script",
+        "id": 348907199
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 4215,
+        "size": 4614,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-22T01:43:37+00:00",
+        "pushed": "2023-11-23T01:40:40+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -34923,10 +34923,10 @@
         "owner": "androidtrackers",
         "stars": 82,
         "forks": 33,
-        "size": 547951,
+        "size": 550631,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-21T12:25:25+00:00",
+        "pushed": "2023-11-22T12:26:03+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
