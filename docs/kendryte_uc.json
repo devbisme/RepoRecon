@@ -33904,19 +33904,6 @@
         "id": 705558445
     },
     {
-        "repo": "k230_canmv_docs",
-        "description": "k230_canmv_docs",
-        "owner": "kendryte",
-        "stars": 0,
-        "forks": 0,
-        "size": 6251,
-        "created": "2023-10-17T07:31:49Z",
-        "updated": "2023-10-17T07:31:49Z",
-        "pushed": "2023-10-20T08:00:26Z",
-        "url": "https://github.com/kendryte/k230_canmv_docs",
-        "id": 706039729
-    },
-    {
         "repo": "rust_sipeed_m0sense",
         "description": "Embedded Rust examples running on M0Sense board",
         "owner": "mberehulka",
@@ -34671,19 +34658,6 @@
         "id": 206225019
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 1038,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-11-20T18:57:12+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -34697,19 +34671,6 @@
         "id": 476865621
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 3,
-        "forks": 2,
-        "size": 8020,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-05-09T06:23:21+00:00",
-        "pushed": "2023-11-21T14:15:54+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "tiny-prof",
         "description": null,
         "owner": "MrThanlon",
@@ -34721,19 +34682,6 @@
         "pushed": "2023-11-22T01:21:30+00:00",
         "url": "https://github.com/MrThanlon/tiny-prof",
         "id": 668202218
-    },
-    {
-        "repo": "k230_sdk",
-        "description": "Kendryte K230 SDK",
-        "owner": "kendryte",
-        "stars": 74,
-        "forks": 20,
-        "size": 401373,
-        "created": "2023-07-07T05:53:35+00:00",
-        "updated": "2023-11-17T03:15:49+00:00",
-        "pushed": "2023-11-23T06:44:04+00:00",
-        "url": "https://github.com/kendryte/k230_sdk",
-        "id": 663357545
     },
     {
         "repo": "rt-thread",
@@ -34773,19 +34721,6 @@
         "pushed": "2023-11-24T06:34:13+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 79,
-        "forks": 25,
-        "size": 138063,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-20T08:01:33+00:00",
-        "pushed": "2023-11-23T14:24:27+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "canmv_examples",
@@ -34918,15 +34853,106 @@
         "id": 218708914
     },
     {
+        "repo": "k230_sdk",
+        "description": "Kendryte K230 SDK",
+        "owner": "kendryte",
+        "stars": 74,
+        "forks": 20,
+        "size": 401368,
+        "created": "2023-07-07T05:53:35+00:00",
+        "updated": "2023-11-17T03:15:49+00:00",
+        "pushed": "2023-11-24T10:12:09+00:00",
+        "url": "https://github.com/kendryte/k230_sdk",
+        "id": 663357545
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 79,
+        "forks": 25,
+        "size": 138065,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-20T08:01:33+00:00",
+        "pushed": "2023-11-24T18:29:35+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "k230_canmv_docs",
+        "description": "k230_canmv_docs",
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 0,
+        "size": 6630,
+        "created": "2023-10-17T07:31:49+00:00",
+        "updated": "2023-11-24T09:34:51+00:00",
+        "pushed": "2023-11-24T10:05:39+00:00",
+        "url": "https://github.com/kendryte/k230_canmv_docs",
+        "id": 706039729
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 3,
+        "forks": 2,
+        "size": 8023,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-05-09T06:23:21+00:00",
+        "pushed": "2023-11-24T17:51:49+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "k230-blog-frontend",
+        "description": null,
+        "owner": "sananabbasov",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2023-11-25T07:13:54+00:00",
+        "updated": "2023-11-25T07:14:38+00:00",
+        "pushed": "2023-11-25T07:14:34+00:00",
+        "url": "https://github.com/sananabbasov/k230-blog-frontend",
+        "id": 723286060
+    },
+    {
+        "repo": "Contador-de-pollos-con-IA-en-Maix-ii-dock",
+        "description": "Automatizacion del Conteo de Pollos en el Sector Avicola Usando Imagenes e Inteligencia Artificial",
+        "owner": "chickencounter",
+        "stars": 0,
+        "forks": 0,
+        "size": 3373183,
+        "created": "2023-11-24T19:26:29+00:00",
+        "updated": "2023-11-24T20:29:03+00:00",
+        "pushed": "2023-11-25T01:49:03+00:00",
+        "url": "https://github.com/chickencounter/Contador-de-pollos-con-IA-en-Maix-ii-dock",
+        "id": 723134988
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 734,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2023-11-25T00:36:00+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 5012,
+        "size": 5411,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-24T01:38:41+00:00",
+        "pushed": "2023-11-25T01:37:01+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -34936,10 +34962,10 @@
         "owner": "androidtrackers",
         "stars": 82,
         "forks": 33,
-        "size": 550631,
+        "size": 550634,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-23T12:24:32+00:00",
+        "pushed": "2023-11-24T12:24:27+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

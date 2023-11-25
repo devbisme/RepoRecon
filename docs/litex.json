@@ -2795,19 +2795,6 @@
         "id": 243069496
     },
     {
-        "repo": "gateware",
-        "description": "IP submodules, formatted for easier CI integration",
-        "owner": "betrusted-io",
-        "stars": 24,
-        "forks": 3,
-        "size": 1828,
-        "created": "2020-02-26T06:59:47Z",
-        "updated": "2023-01-04T07:44:31Z",
-        "pushed": "2023-06-04T10:09:19Z",
-        "url": "https://github.com/betrusted-io/gateware",
-        "id": 243190844
-    },
-    {
         "repo": "ulx3s.github.io",
         "description": "community projects that can be used with the ULX3S FPGA ESP32 board",
         "owner": "ulx3s",
@@ -7982,19 +7969,6 @@
         "id": 515668267
     },
     {
-        "repo": "Lcnc",
-        "description": "Litex plus Linuxcnc make a great combo",
-        "owner": "faeboli",
-        "stars": 7,
-        "forks": 5,
-        "size": 23545,
-        "created": "2022-07-19T21:58:25Z",
-        "updated": "2023-05-24T01:43:39Z",
-        "pushed": "2023-01-06T18:31:20Z",
-        "url": "https://github.com/faeboli/Lcnc",
-        "id": 515752786
-    },
-    {
         "repo": "litex_toolchain_test",
         "description": null,
         "owner": "trabucayre",
@@ -9945,19 +9919,6 @@
         "id": 649875897
     },
     {
-        "repo": "my-stars",
-        "description": null,
-        "owner": "SatyrDiamond",
-        "stars": 0,
-        "forks": 0,
-        "size": 87,
-        "created": "2023-06-08T04:51:51Z",
-        "updated": "2023-06-08T04:51:52Z",
-        "pushed": "2023-06-08T04:52:12Z",
-        "url": "https://github.com/SatyrDiamond/my-stars",
-        "id": 650913012
-    },
-    {
         "repo": "Tang-Nano-20k-litex-blink",
         "description": "Tang Nano 20k litex blink example",
         "owner": "Podolyakofs",
@@ -11349,32 +11310,6 @@
         "id": 721393049
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 10,
-        "size": 21417,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-20T18:17:42+00:00",
-        "pushed": "2023-11-23T00:01:21+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "eurorack-pmod-litex",
-        "description": "Basic example of using eurorack-pmod inside a LiteX environment with firmware written in Rust.",
-        "owner": "apfelaudio",
-        "stars": 0,
-        "forks": 0,
-        "size": 2073,
-        "created": "2023-08-13T10:24:29+00:00",
-        "updated": "2023-08-13T17:06:43+00:00",
-        "pushed": "2023-11-22T17:07:41+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
-        "id": 677990151
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -11412,45 +11347,6 @@
         "pushed": "2023-11-23T15:30:34+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 542,
-        "forks": 51,
-        "size": 902,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-11-22T07:39:22+00:00",
-        "pushed": "2023-11-24T02:08:23+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 420,
-        "forks": 102,
-        "size": 41655,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2023-11-17T02:14:28+00:00",
-        "pushed": "2023-11-24T02:12:34+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1268,
-        "forks": 177,
-        "size": 200340,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-11-23T15:04:24+00:00",
-        "pushed": "2023-11-23T22:17:49+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "LiteXpansion",
@@ -11492,6 +11388,97 @@
         "id": 722476291
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 541,
+        "forks": 51,
+        "size": 902,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-11-24T20:11:12+00:00",
+        "pushed": "2023-11-25T01:53:20+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 419,
+        "forks": 102,
+        "size": 41656,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2023-11-24T20:12:25+00:00",
+        "pushed": "2023-11-25T02:11:23+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1267,
+        "forks": 179,
+        "size": 200459,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-11-24T20:04:08+00:00",
+        "pushed": "2023-11-25T06:10:02+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "gateware",
+        "description": "IP submodules, formatted for easier CI integration",
+        "owner": "betrusted-io",
+        "stars": 26,
+        "forks": 4,
+        "size": 1834,
+        "created": "2020-02-26T06:59:47+00:00",
+        "updated": "2023-11-01T12:01:06+00:00",
+        "pushed": "2023-11-24T07:33:40+00:00",
+        "url": "https://github.com/betrusted-io/gateware",
+        "id": 243190844
+    },
+    {
+        "repo": "Lcnc",
+        "description": "Litex plus Linuxcnc make a great combo",
+        "owner": "faeboli",
+        "stars": 9,
+        "forks": 7,
+        "size": 23546,
+        "created": "2022-07-19T21:58:25+00:00",
+        "updated": "2023-10-18T13:20:17+00:00",
+        "pushed": "2023-11-24T23:51:06+00:00",
+        "url": "https://github.com/faeboli/Lcnc",
+        "id": 515752786
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 10,
+        "size": 21417,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-20T18:17:42+00:00",
+        "pushed": "2023-11-24T20:19:40+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "eurorack-pmod-litex",
+        "description": "Basic example of using eurorack-pmod inside a LiteX environment with firmware written in Rust.",
+        "owner": "apfelaudio",
+        "stars": 0,
+        "forks": 0,
+        "size": 2082,
+        "created": "2023-08-13T10:24:29+00:00",
+        "updated": "2023-08-13T17:06:43+00:00",
+        "pushed": "2023-11-24T23:07:21+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
+        "id": 677990151
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11500,7 +11487,7 @@
         "size": 2404,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2023-11-24T00:11:50+00:00",
+        "pushed": "2023-11-25T00:11:54+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11510,12 +11497,25 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1484,
+        "size": 676,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-24T04:35:56+00:00",
+        "pushed": "2023-11-25T04:35:20+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "my-stars",
+        "description": null,
+        "owner": "SatyrDiamond",
+        "stars": 0,
+        "forks": 0,
+        "size": 200,
+        "created": "2023-06-08T04:51:51+00:00",
+        "updated": "2023-06-08T04:51:52+00:00",
+        "pushed": "2023-11-24T09:16:38+00:00",
+        "url": "https://github.com/SatyrDiamond/my-stars",
+        "id": 650913012
     },
     {
         "repo": "golang-trending-archive",
@@ -11523,10 +11523,10 @@
         "owner": "zengzzzzz",
         "stars": 0,
         "forks": 0,
-        "size": 343,
+        "size": 352,
         "created": "2023-10-09T13:00:57+00:00",
         "updated": "2023-10-09T13:23:05+00:00",
-        "pushed": "2023-11-24T01:43:33+00:00",
+        "pushed": "2023-11-25T01:41:37+00:00",
         "url": "https://github.com/zengzzzzz/golang-trending-archive",
         "id": 702508231
     },
@@ -11536,25 +11536,12 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 36355,
+        "size": 36761,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-11-24T03:20:21+00:00",
+        "pushed": "2023-11-25T03:20:29+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
-    },
-    {
-        "repo": "githubTrending",
-        "description": null,
-        "owner": "ZonghaoLi777",
-        "stars": 0,
-        "forks": 0,
-        "size": 3885,
-        "created": "2023-09-25T08:11:03+00:00",
-        "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-11-24T02:24:25+00:00",
-        "url": "https://github.com/ZonghaoLi777/githubTrending",
-        "id": 696165186
     },
     {
         "repo": "github-trending",
@@ -11562,11 +11549,24 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 3394,
+        "size": 3535,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-11-24T02:22:27+00:00",
+        "pushed": "2023-11-25T02:20:08+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
+    },
+    {
+        "repo": "githubTrending",
+        "description": null,
+        "owner": "ZonghaoLi777",
+        "stars": 0,
+        "forks": 0,
+        "size": 3914,
+        "created": "2023-09-25T08:11:03+00:00",
+        "updated": "2023-09-25T08:12:30+00:00",
+        "pushed": "2023-11-25T02:21:47+00:00",
+        "url": "https://github.com/ZonghaoLi777/githubTrending",
+        "id": 696165186
     }
 ]
