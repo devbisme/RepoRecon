@@ -34528,19 +34528,6 @@
         "id": 719384157
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 148,
-        "forks": 109,
-        "size": 254,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2023-11-13T13:52:31+00:00",
-        "pushed": "2023-11-17T09:56:19+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "rcore-lab",
         "description": "\u64cd\u4f5c\u7cfb\u7edf\u4f5c\u4e1a",
         "owner": "Etavioxy",
@@ -34552,19 +34539,6 @@
         "pushed": "2023-11-17T11:37:21+00:00",
         "url": "https://github.com/Etavioxy/rcore-lab",
         "id": 720009644
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 3,
-        "forks": 0,
-        "size": 7331,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2023-10-27T13:59:31+00:00",
-        "pushed": "2023-11-17T22:42:57+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
     },
     {
         "repo": "HuskyLens-Spike",
@@ -34632,19 +34606,6 @@
         "id": 684056600
     },
     {
-        "repo": "wmt_ai_study",
-        "description": "My AI study",
-        "owner": "weimingtom",
-        "stars": 18,
-        "forks": 3,
-        "size": 1860,
-        "created": "2018-08-26T09:31:59+00:00",
-        "updated": "2023-10-27T09:21:52+00:00",
-        "pushed": "2023-11-20T21:34:44+00:00",
-        "url": "https://github.com/weimingtom/wmt_ai_study",
-        "id": 146167925
-    },
-    {
         "repo": "ESP32CAM-OV7725-TFT-ambilight",
         "description": "camera based TV ambilight ",
         "owner": "WASmars",
@@ -34682,19 +34643,6 @@
         "pushed": "2023-11-22T01:21:30+00:00",
         "url": "https://github.com/MrThanlon/tiny-prof",
         "id": 668202218
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8981,
-        "forks": 4706,
-        "size": 782127,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-23T03:46:33+00:00",
-        "pushed": "2023-11-23T06:16:53+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "LilyGo-K210-Script",
@@ -34788,19 +34736,6 @@
         "id": 228707955
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 3,
-        "forks": 1,
-        "size": 1473,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2023-09-24T19:14:30+00:00",
-        "pushed": "2023-11-23T13:37:05+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "k210-",
         "description": "\u53ef\u4ee5\u5229\u7528k210\u5b9e\u73b0\u732b\u72d7\u5206\u7c7b",
         "owner": "WJH-makers",
@@ -34864,19 +34799,6 @@
         "pushed": "2023-11-24T10:12:09+00:00",
         "url": "https://github.com/kendryte/k230_sdk",
         "id": 663357545
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 79,
-        "forks": 25,
-        "size": 138065,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-20T08:01:33+00:00",
-        "pushed": "2023-11-24T18:29:35+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "k230_canmv_docs",
@@ -34944,15 +34866,93 @@
         "id": 456793068
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 79,
+        "forks": 25,
+        "size": 138065,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-20T08:01:33+00:00",
+        "pushed": "2023-11-26T00:48:59+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 151,
+        "forks": 112,
+        "size": 241,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2023-11-25T07:25:37+00:00",
+        "pushed": "2023-11-25T10:27:03+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 8988,
+        "forks": 4710,
+        "size": 782152,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-26T03:53:01+00:00",
+        "pushed": "2023-11-25T16:22:42+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "wmt_ai_study",
+        "description": "My AI study",
+        "owner": "weimingtom",
+        "stars": 18,
+        "forks": 3,
+        "size": 1871,
+        "created": "2018-08-26T09:31:59+00:00",
+        "updated": "2023-10-27T09:21:52+00:00",
+        "pushed": "2023-11-26T05:50:23+00:00",
+        "url": "https://github.com/weimingtom/wmt_ai_study",
+        "id": 146167925
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 3,
+        "forks": 1,
+        "size": 1475,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2023-09-24T19:14:30+00:00",
+        "pushed": "2023-11-25T13:57:07+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 3,
+        "forks": 0,
+        "size": 7354,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2023-10-27T13:59:31+00:00",
+        "pushed": "2023-11-25T22:56:38+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 5411,
+        "size": 5412,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-25T01:37:01+00:00",
+        "pushed": "2023-11-26T01:43:48+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -34965,7 +34965,7 @@
         "size": 550634,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-24T12:24:27+00:00",
+        "pushed": "2023-11-25T12:21:53+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
