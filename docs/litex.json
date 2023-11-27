@@ -3679,19 +3679,6 @@
         "id": 284027999
     },
     {
-        "repo": "rust-litex-hal",
-        "description": "A Rust embedded HAL crate for LiteX cores",
-        "owner": "pepijndevos",
-        "stars": 21,
-        "forks": 5,
-        "size": 53,
-        "created": "2020-08-04T14:03:13Z",
-        "updated": "2023-09-28T14:23:15Z",
-        "pushed": "2023-09-12T08:43:25Z",
-        "url": "https://github.com/pepijndevos/rust-litex-hal",
-        "id": 284997809
-    },
-    {
         "repo": "rust-litex-example",
         "description": "An example application that demonstrates litex-hal on the ULX3S",
         "owner": "pepijndevos",
@@ -11063,19 +11050,6 @@
         "id": 419809304
     },
     {
-        "repo": "caravel_mgmt_soc_gf180mcu",
-        "description": "This repository is the GF180MCU port of management core for Caravel.  For more information about the Caravel management SoC, see https://github.com/efabless/caravel_mgmt_soc_litex.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 2,
-        "size": 48168,
-        "created": "2022-10-03T22:38:58+00:00",
-        "updated": "2022-12-19T16:28:34+00:00",
-        "pushed": "2023-11-15T22:59:14+00:00",
-        "url": "https://github.com/efabless/caravel_mgmt_soc_gf180mcu",
-        "id": 545166594
-    },
-    {
         "repo": "accelerator-interface-generator",
         "description": null,
         "owner": "antmicro",
@@ -11310,19 +11284,6 @@
         "id": 323109039
     },
     {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1059,
-        "forks": 157,
-        "size": 39411,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2023-11-23T07:39:42+00:00",
-        "pushed": "2023-11-24T05:14:40+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
         "repo": "microwatt-gists",
         "description": null,
         "owner": "shingarov",
@@ -11347,19 +11308,6 @@
         "pushed": "2023-11-25T02:11:23+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1267,
-        "forks": 179,
-        "size": 200459,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-11-24T20:04:08+00:00",
-        "pushed": "2023-11-25T06:10:02+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "gateware",
@@ -11388,32 +11336,6 @@
         "id": 515752786
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 10,
-        "size": 21417,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-20T18:17:42+00:00",
-        "pushed": "2023-11-24T20:19:40+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "eurorack-pmod-litex",
-        "description": "Basic example of using eurorack-pmod inside a LiteX environment with firmware written in Rust.",
-        "owner": "apfelaudio",
-        "stars": 0,
-        "forks": 0,
-        "size": 2082,
-        "created": "2023-08-13T10:24:29+00:00",
-        "updated": "2023-08-13T17:06:43+00:00",
-        "pushed": "2023-11-24T23:07:21+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
-        "id": 677990151
-    },
-    {
         "repo": "my-stars",
         "description": null,
         "owner": "SatyrDiamond",
@@ -11425,19 +11347,6 @@
         "pushed": "2023-11-24T09:16:38+00:00",
         "url": "https://github.com/SatyrDiamond/my-stars",
         "id": 650913012
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 541,
-        "forks": 52,
-        "size": 902,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-11-24T20:11:12+00:00",
-        "pushed": "2023-11-26T01:49:19+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "pocket-riscv-rs",
@@ -11492,32 +11401,6 @@
         "id": 84366787
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 18,
-        "forks": 1,
-        "size": 2404,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2023-11-26T00:12:45+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 705,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-26T04:34:48+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -11557,19 +11440,6 @@
         "id": 330793471
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 37164,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-11-26T03:19:40+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "githubTrending",
         "description": null,
         "owner": "ZonghaoLi777",
@@ -11594,5 +11464,135 @@
         "pushed": "2023-11-26T02:25:26+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 541,
+        "forks": 52,
+        "size": 903,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-11-24T20:11:12+00:00",
+        "pushed": "2023-11-27T01:57:27+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1267,
+        "forks": 179,
+        "size": 200176,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-11-26T19:36:32+00:00",
+        "pushed": "2023-11-26T17:36:54+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "rust-litex-hal",
+        "description": "A Rust embedded HAL crate for LiteX cores",
+        "owner": "pepijndevos",
+        "stars": 21,
+        "forks": 5,
+        "size": 55,
+        "created": "2020-08-04T14:03:13+00:00",
+        "updated": "2023-09-28T14:23:15+00:00",
+        "pushed": "2023-11-27T06:41:39+00:00",
+        "url": "https://github.com/pepijndevos/rust-litex-hal",
+        "id": 284997809
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 10,
+        "size": 21417,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-20T18:17:42+00:00",
+        "pushed": "2023-11-26T20:26:33+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1058,
+        "forks": 157,
+        "size": 39181,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2023-11-24T20:02:24+00:00",
+        "pushed": "2023-11-27T06:51:57+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "caravel_mgmt_soc_gf180mcu",
+        "description": "This repository is the GF180MCU port of management core for Caravel.  For more information about the Caravel management SoC, see https://github.com/efabless/caravel_mgmt_soc_litex.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 2,
+        "size": 48174,
+        "created": "2022-10-03T22:38:58+00:00",
+        "updated": "2022-12-19T16:28:34+00:00",
+        "pushed": "2023-11-26T14:30:10+00:00",
+        "url": "https://github.com/efabless/caravel_mgmt_soc_gf180mcu",
+        "id": 545166594
+    },
+    {
+        "repo": "eurorack-pmod-litex",
+        "description": "Basic example of using eurorack-pmod inside a LiteX environment with firmware written in Rust.",
+        "owner": "apfelaudio",
+        "stars": 0,
+        "forks": 0,
+        "size": 2090,
+        "created": "2023-08-13T10:24:29+00:00",
+        "updated": "2023-08-13T17:06:43+00:00",
+        "pushed": "2023-11-26T13:19:05+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
+        "id": 677990151
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 18,
+        "forks": 1,
+        "size": 2404,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2023-10-29T15:55:28+00:00",
+        "pushed": "2023-11-27T00:12:34+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 774,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2023-11-27T04:36:28+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 37568,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2023-11-03T17:36:59+00:00",
+        "pushed": "2023-11-27T03:20:43+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
