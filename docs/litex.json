@@ -10725,19 +10725,6 @@
         "id": 664743738
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1551,
-        "forks": 130,
-        "size": 142,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2023-11-07T00:16:36+00:00",
-        "pushed": "2023-11-04T15:21:25+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "docker-linuxonlitex",
         "description": "Dockerfile and required toolchain for run Linux on Sipeed primer 20k",
         "owner": "gr8linux",
@@ -10944,19 +10931,6 @@
         "pushed": "2023-11-11T06:57:28+00:00",
         "url": "https://github.com/gregdavill/gf180-mpw1-frosty-ferret",
         "id": 717340386
-    },
-    {
-        "repo": "litesata",
-        "description": "Small footprint and configurable SATA core",
-        "owner": "enjoy-digital",
-        "stars": 117,
-        "forks": 31,
-        "size": 1156,
-        "created": "2015-09-07T09:57:59+00:00",
-        "updated": "2023-10-30T14:57:15+00:00",
-        "pushed": "2023-11-11T12:31:48+00:00",
-        "url": "https://github.com/enjoy-digital/litesata",
-        "id": 42045393
     },
     {
         "repo": "pzh-mcu-bi-weekly",
@@ -11180,19 +11154,6 @@
         "id": 440426688
     },
     {
-        "repo": "ljinux",
-        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
-        "owner": "bill88t",
-        "stars": 197,
-        "forks": 13,
-        "size": 10511,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2023-11-08T17:41:22+00:00",
-        "pushed": "2023-11-19T18:33:43+00:00",
-        "url": "https://github.com/bill88t/ljinux",
-        "id": 434342707
-    },
-    {
         "repo": "fsic_asic",
         "description": null,
         "owner": "bol-edu",
@@ -11295,19 +11256,6 @@
         "pushed": "2023-11-23T23:09:55+00:00",
         "url": "https://github.com/shingarov/microwatt-gists",
         "id": 722476291
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 419,
-        "forks": 102,
-        "size": 41656,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2023-11-24T20:12:25+00:00",
-        "pushed": "2023-11-25T02:11:23+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
     },
     {
         "repo": "gateware",
@@ -11466,19 +11414,6 @@
         "id": 704286506
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 541,
-        "forks": 52,
-        "size": 903,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-11-24T20:11:12+00:00",
-        "pushed": "2023-11-27T01:57:27+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -11503,19 +11438,6 @@
         "pushed": "2023-11-27T06:41:39+00:00",
         "url": "https://github.com/pepijndevos/rust-litex-hal",
         "id": 284997809
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 10,
-        "size": 21417,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-20T18:17:42+00:00",
-        "pushed": "2023-11-26T20:26:33+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11557,6 +11479,110 @@
         "id": 677990151
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 541,
+        "forks": 52,
+        "size": 903,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-11-24T20:11:12+00:00",
+        "pushed": "2023-11-28T01:58:31+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 419,
+        "forks": 103,
+        "size": 41657,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2023-11-24T20:12:25+00:00",
+        "pushed": "2023-11-28T02:15:10+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "litesata",
+        "description": "Small footprint and configurable SATA core",
+        "owner": "enjoy-digital",
+        "stars": 117,
+        "forks": 31,
+        "size": 1156,
+        "created": "2015-09-07T09:57:59+00:00",
+        "updated": "2023-10-30T14:57:15+00:00",
+        "pushed": "2023-11-27T20:44:24+00:00",
+        "url": "https://github.com/enjoy-digital/litesata",
+        "id": 42045393
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 10,
+        "size": 21455,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-27T17:57:41+00:00",
+        "pushed": "2023-11-27T21:55:10+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "ljinux",
+        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
+        "owner": "bill88t",
+        "stars": 196,
+        "forks": 13,
+        "size": 10513,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2023-11-24T20:20:35+00:00",
+        "pushed": "2023-11-27T15:45:19+00:00",
+        "url": "https://github.com/bill88t/ljinux",
+        "id": 434342707
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1567,
+        "forks": 132,
+        "size": 142,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2023-11-28T07:02:42+00:00",
+        "pushed": "2023-11-27T21:01:41+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
+        "repo": "edabk_litex",
+        "description": null,
+        "owner": "namnguyen269",
+        "stars": 0,
+        "forks": 0,
+        "size": 173877,
+        "created": "2023-11-27T11:41:54+00:00",
+        "updated": "2023-11-27T11:50:15+00:00",
+        "pushed": "2023-11-27T11:49:28+00:00",
+        "url": "https://github.com/namnguyen269/edabk_litex",
+        "id": 724094972
+    },
+    {
+        "repo": "edabk_SoC_SNN",
+        "description": "Integrate IP neural network into RISCV SoC based on Litex framework",
+        "owner": "namnguyen269",
+        "stars": 0,
+        "forks": 0,
+        "size": 179343,
+        "created": "2023-11-27T11:15:43+00:00",
+        "updated": "2023-11-27T11:28:06+00:00",
+        "pushed": "2023-11-27T11:27:52+00:00",
+        "url": "https://github.com/namnguyen269/edabk_SoC_SNN",
+        "id": 724084886
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11565,7 +11591,7 @@
         "size": 2404,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2023-11-27T00:12:34+00:00",
+        "pushed": "2023-11-28T00:12:12+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11575,10 +11601,10 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 774,
+        "size": 843,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-27T04:36:28+00:00",
+        "pushed": "2023-11-28T04:36:05+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11588,10 +11614,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 37568,
+        "size": 37960,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-11-27T03:20:43+00:00",
+        "pushed": "2023-11-28T03:20:51+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
