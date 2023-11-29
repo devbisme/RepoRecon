@@ -49686,19 +49686,6 @@
         "id": 687626889
     },
     {
-        "repo": "EF_ACMP_DI",
-        "description": "A digital Interface for the EF_R2RVC Analog Comparator",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 23,
-        "created": "2023-09-05T17:13:31Z",
-        "updated": "2023-09-05T18:10:23Z",
-        "pushed": "2023-10-29T10:44:09Z",
-        "url": "https://github.com/efabless/EF_ACMP_DI",
-        "id": 687631532
-    },
-    {
         "repo": "PHYSICAL-DESIGN",
         "description": null,
         "owner": "dillibabuporlapothula",
@@ -56823,19 +56810,6 @@
         "id": 715830843
     },
     {
-        "repo": "EF_DAC1001_DI",
-        "description": "A digital controller with a FIFO and bus wrappers for a 10-Bit Switching Capacitor Array  DAC",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 43,
-        "created": "2023-09-03T13:35:18+00:00",
-        "updated": "2023-10-18T13:21:56+00:00",
-        "pushed": "2023-11-08T16:53:48+00:00",
-        "url": "https://github.com/efabless/EF_DAC1001_DI",
-        "id": 686644438
-    },
-    {
         "repo": "sky130_ldo_rl",
         "description": "This repo contains the code that runs RL+GNN to optimize LDOs in SKY130 process.",
         "owner": "ChrisZonghaoLi",
@@ -57447,19 +57421,6 @@
         "id": 714695497
     },
     {
-        "repo": "EDToaster",
-        "description": null,
-        "owner": "EDToaster",
-        "stars": 0,
-        "forks": 0,
-        "size": 133,
-        "created": "2020-09-14T01:53:47+00:00",
-        "updated": "2021-12-17T09:48:48+00:00",
-        "pushed": "2023-11-12T23:35:25+00:00",
-        "url": "https://github.com/EDToaster/EDToaster",
-        "id": 295276500
-    },
-    {
         "repo": "sky130_workspace",
         "description": "Install xschem + xschem_sky130 + skywater-pdk + ngspice +adms +ASITICsky130",
         "owner": "hugodiasg",
@@ -57731,19 +57692,6 @@
         "pushed": "2023-11-14T04:22:20+00:00",
         "url": "https://github.com/mountains-high/tt05-Exp-IF-Model-in-Silicon",
         "id": 718123258
-    },
-    {
-        "repo": "usb_cdc_wrapper",
-        "description": null,
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 37646,
-        "created": "2023-11-07T16:54:13+00:00",
-        "updated": "2023-11-08T10:35:54+00:00",
-        "pushed": "2023-11-13T11:31:08+00:00",
-        "url": "https://github.com/efabless/usb_cdc_wrapper",
-        "id": 715700416
     },
     {
         "repo": "gf180-caravel-nand-controller",
@@ -58095,19 +58043,6 @@
         "pushed": "2023-11-15T19:31:11+00:00",
         "url": "https://github.com/akhiiasati/IIITB_Advanced_Physical_Design_using_OpenLANE_Sky130",
         "id": 687563798
-    },
-    {
-        "repo": "extra_be_checks",
-        "description": "Extra backend checks for sky130",
-        "owner": "d-m-bailey",
-        "stars": 5,
-        "forks": 2,
-        "size": 1185,
-        "created": "2022-03-09T08:25:34+00:00",
-        "updated": "2023-10-17T18:42:06+00:00",
-        "pushed": "2023-11-15T23:14:34+00:00",
-        "url": "https://github.com/d-m-bailey/extra_be_checks",
-        "id": 467838948
     },
     {
         "repo": "EF_DLL_SKY130",
@@ -58721,19 +58656,6 @@
         "id": 414716046
     },
     {
-        "repo": "efab_labs",
-        "description": null,
-        "owner": "khanasfar73",
-        "stars": 0,
-        "forks": 0,
-        "size": 85,
-        "created": "2023-07-06T17:25:23+00:00",
-        "updated": "2023-07-06T17:42:48+00:00",
-        "pushed": "2023-11-21T00:17:30+00:00",
-        "url": "https://github.com/khanasfar73/efab_labs",
-        "id": 663158522
-    },
-    {
         "repo": "openlane2-ci-designs",
         "description": "Continuous Integration Designs for OpenLane 2.0.0 or higher",
         "owner": "efabless",
@@ -58888,19 +58810,6 @@
         "pushed": "2023-11-21T05:20:54+00:00",
         "url": "https://github.com/SakshithVarambally/Samsung_PD_Training",
         "id": 679578923
-    },
-    {
-        "repo": "tt05-psg-ay8913",
-        "description": "TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.",
-        "owner": "rejunity",
-        "stars": 0,
-        "forks": 0,
-        "size": 30129,
-        "created": "2023-10-03T16:16:45+00:00",
-        "updated": "2023-11-16T12:35:48+00:00",
-        "pushed": "2023-11-20T22:02:52+00:00",
-        "url": "https://github.com/rejunity/tt05-psg-ay8913",
-        "id": 699936201
     },
     {
         "repo": "SAMSUNG-PD-TRAINING-",
@@ -59878,19 +59787,6 @@
         "id": 277372282
     },
     {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 81,
-        "forks": 9,
-        "size": 18557,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2023-11-22T19:46:11+00:00",
-        "pushed": "2023-11-27T00:11:46+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
         "repo": "mpw_precheck",
         "description": null,
         "owner": "efabless",
@@ -59902,19 +59798,6 @@
         "pushed": "2023-11-26T11:26:48+00:00",
         "url": "https://github.com/efabless/mpw_precheck",
         "id": 305781250
-    },
-    {
-        "repo": "caravel-gf180mcu",
-        "description": "This repository is the GF180MCU port of Caravel.  For more information about Caravel, see the original repo at https://github.com/efabless/caravel. ",
-        "owner": "efabless",
-        "stars": 7,
-        "forks": 8,
-        "size": 2624935,
-        "created": "2022-07-25T18:28:24+00:00",
-        "updated": "2023-07-25T14:59:43+00:00",
-        "pushed": "2023-11-26T12:45:06+00:00",
-        "url": "https://github.com/efabless/caravel-gf180mcu",
-        "id": 517777997
     },
     {
         "repo": "piel",
@@ -59941,19 +59824,6 @@
         "pushed": "2023-11-26T12:52:09+00:00",
         "url": "https://github.com/alfadelta10010/pes_riscv_processor",
         "id": 702149993
-    },
-    {
-        "repo": "caravel_mgmt_soc_gf180mcu",
-        "description": "This repository is the GF180MCU port of management core for Caravel.  For more information about the Caravel management SoC, see https://github.com/efabless/caravel_mgmt_soc_litex.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 2,
-        "size": 48174,
-        "created": "2022-10-03T22:38:58+00:00",
-        "updated": "2022-12-19T16:28:34+00:00",
-        "pushed": "2023-11-26T14:30:10+00:00",
-        "url": "https://github.com/efabless/caravel_mgmt_soc_gf180mcu",
-        "id": 545166594
     },
     {
         "repo": "pes_lcd",
@@ -59995,19 +59865,6 @@
         "id": 711348221
     },
     {
-        "repo": "journal",
-        "description": "Anton's journal of interesting project stuff",
-        "owner": "algofoogle",
-        "stars": 0,
-        "forks": 0,
-        "size": 67968,
-        "created": "2019-11-28T08:46:48+00:00",
-        "updated": "2022-04-02T13:56:11+00:00",
-        "pushed": "2023-11-27T02:01:40+00:00",
-        "url": "https://github.com/algofoogle/journal",
-        "id": 224608755
-    },
-    {
         "repo": "pes_pd",
         "description": "Physical Design of ASICs",
         "owner": "skudlur",
@@ -60019,32 +59876,6 @@
         "pushed": "2023-11-26T12:14:08+00:00",
         "url": "https://github.com/skudlur/pes_pd",
         "id": 693258033
-    },
-    {
-        "repo": "x-heep",
-        "description": "eXtendable Heterogeneous Energy-Efficient Platform based on RISC-V",
-        "owner": "esl-epfl",
-        "stars": 84,
-        "forks": 41,
-        "size": 23629,
-        "created": "2022-01-07T18:19:11+00:00",
-        "updated": "2023-11-22T02:26:44+00:00",
-        "pushed": "2023-11-26T11:19:32+00:00",
-        "url": "https://github.com/esl-epfl/x-heep",
-        "id": 445614410
-    },
-    {
-        "repo": "SKY130_OpAmp",
-        "description": "Operational amplifier for Skywater 130nm",
-        "owner": "embelon",
-        "stars": 1,
-        "forks": 1,
-        "size": 3131,
-        "created": "2023-04-12T08:52:11+00:00",
-        "updated": "2023-11-23T07:08:12+00:00",
-        "pushed": "2023-11-26T17:22:28+00:00",
-        "url": "https://github.com/embelon/SKY130_OpAmp",
-        "id": 626834056
     },
     {
         "repo": "OL-DFFRAM",
@@ -60084,19 +59915,6 @@
         "pushed": "2023-11-26T19:38:15+00:00",
         "url": "https://github.com/simarthethi/asic_project_blind-stick",
         "id": 700669906
-    },
-    {
-        "repo": "Breath_Analyser-Detecting_Presence_of_Alcohol-",
-        "description": null,
-        "owner": "DSatle",
-        "stars": 0,
-        "forks": 0,
-        "size": 141,
-        "created": "2023-10-05T07:38:34+00:00",
-        "updated": "2023-10-05T07:38:34+00:00",
-        "pushed": "2023-11-26T14:23:56+00:00",
-        "url": "https://github.com/DSatle/Breath_Analyser-Detecting_Presence_of_Alcohol-",
-        "id": 700736922
     },
     {
         "repo": "Efabless-testing",
@@ -60190,32 +60008,6 @@
         "id": 687333180
     },
     {
-        "repo": "EF_GPIO",
-        "description": "A generic GPIO peripheral",
-        "owner": "efabless",
-        "stars": 1,
-        "forks": 0,
-        "size": 26,
-        "created": "2023-08-28T09:23:08+00:00",
-        "updated": "2023-08-28T17:18:50+00:00",
-        "pushed": "2023-11-26T10:23:21+00:00",
-        "url": "https://github.com/efabless/EF_GPIO",
-        "id": 684017510
-    },
-    {
-        "repo": "central_CI",
-        "description": null,
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 144,
-        "created": "2023-08-22T08:52:47+00:00",
-        "updated": "2023-09-11T14:41:47+00:00",
-        "pushed": "2023-11-27T00:17:43+00:00",
-        "url": "https://github.com/efabless/central_CI",
-        "id": 681548908
-    },
-    {
         "repo": "TapeoutSzn",
         "description": "The road to tapeout is real. Welcome to my assignment hub! Physical Design w/ASICs Aug-Dec'23",
         "owner": "akarxxx1030",
@@ -60227,19 +60019,6 @@
         "pushed": "2023-11-26T16:50:54+00:00",
         "url": "https://github.com/akarxxx1030/TapeoutSzn",
         "id": 678026665
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 5636,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-27T01:40:51+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
     },
     {
         "repo": "tt05-full-adder",
@@ -60255,45 +60034,6 @@
         "id": 718721909
     },
     {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1038,
-        "forks": 388,
-        "size": 621595,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2023-11-27T11:51:25+00:00",
-        "pushed": "2023-11-28T06:14:41+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
-        "repo": "caravel_user_project",
-        "description": "https://caravel-user-project.readthedocs.io",
-        "owner": "efabless",
-        "stars": 147,
-        "forks": 307,
-        "size": 304932,
-        "created": "2021-04-05T15:14:33+00:00",
-        "updated": "2023-11-23T02:10:02+00:00",
-        "pushed": "2023-11-27T14:18:14+00:00",
-        "url": "https://github.com/efabless/caravel_user_project",
-        "id": 354876752
-    },
-    {
-        "repo": "hammer",
-        "description": "Hammer: Highly Agile Masks Made Effortlessly from RTL",
-        "owner": "ucb-bar",
-        "stars": 210,
-        "forks": 47,
-        "size": 7379,
-        "created": "2016-07-13T19:26:51+00:00",
-        "updated": "2023-11-20T15:34:11+00:00",
-        "pushed": "2023-11-28T06:58:32+00:00",
-        "url": "https://github.com/ucb-bar/hammer",
-        "id": 63273685
-    },
-    {
         "repo": "TopoNet",
         "description": "Topology Reasoning for Scene Perception in Autonomous Driving",
         "owner": "OpenDriveLab",
@@ -60305,19 +60045,6 @@
         "pushed": "2023-11-28T06:13:02+00:00",
         "url": "https://github.com/OpenDriveLab/TopoNet",
         "id": 619886354
-    },
-    {
-        "repo": "OpenFASOC",
-        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
-        "owner": "idea-fasoc",
-        "stars": 182,
-        "forks": 80,
-        "size": 417601,
-        "created": "2021-03-24T16:30:14+00:00",
-        "updated": "2023-11-23T14:33:15+00:00",
-        "pushed": "2023-11-28T02:10:29+00:00",
-        "url": "https://github.com/idea-fasoc/OpenFASOC",
-        "id": 351150248
     },
     {
         "repo": "awesome-opensource-hardware",
@@ -60346,45 +60073,6 @@
         "id": 318892320
     },
     {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 677,
-        "forks": 73,
-        "size": 341550,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2023-11-24T20:09:45+00:00",
-        "pushed": "2023-11-28T00:08:43+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
-        "repo": "ecen4303F23",
-        "description": "Files associated with Digital Integrated Circuits (ecen4303) at Oklahoma State University",
-        "owner": "stineje",
-        "stars": 9,
-        "forks": 0,
-        "size": 21602,
-        "created": "2023-09-19T22:14:28+00:00",
-        "updated": "2023-11-06T15:33:36+00:00",
-        "pushed": "2023-11-27T17:20:14+00:00",
-        "url": "https://github.com/stineje/ecen4303F23",
-        "id": 693873141
-    },
-    {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 152,
-        "forks": 79,
-        "size": 31714,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2023-11-25T21:02:23+00:00",
-        "pushed": "2023-11-28T01:02:21+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
-    },
-    {
         "repo": "tt-gds-action",
         "description": "Tiny Tapeout GDS Action (using OpenLane)",
         "owner": "TinyTapeout",
@@ -60409,19 +60097,6 @@
         "pushed": "2023-11-28T06:29:39+00:00",
         "url": "https://github.com/rahulk29/sram22_sky130_macros",
         "id": 605239956
-    },
-    {
-        "repo": "openlane-metrics",
-        "description": "Repository to store metric results for OpenLane 2.0.0+",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 31,
-        "created": "2023-11-26T13:01:01+00:00",
-        "updated": "2023-11-26T13:01:02+00:00",
-        "pushed": "2023-11-27T23:01:56+00:00",
-        "url": "https://github.com/efabless/openlane-metrics",
-        "id": 723682792
     },
     {
         "repo": "IIITB_Waterlevel_detector",
@@ -60476,19 +60151,6 @@
         "id": 723889276
     },
     {
-        "repo": "TIA_IPN",
-        "description": "Transimpedance amplifier developed in sky130 technology",
-        "owner": "AlejandroJuarezLora",
-        "stars": 0,
-        "forks": 0,
-        "size": 4300,
-        "created": "2023-11-15T00:32:49+00:00",
-        "updated": "2023-11-17T02:52:15+00:00",
-        "pushed": "2023-11-27T22:10:01+00:00",
-        "url": "https://github.com/AlejandroJuarezLora/TIA_IPN",
-        "id": 718868727
-    },
-    {
         "repo": "openlane-example",
         "description": null,
         "owner": "sajjadahmed677",
@@ -60541,19 +60203,6 @@
         "id": 611693003
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 843,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-11-28T04:36:05+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Awesome-Transformer-Attention",
         "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
         "owner": "cmhungsteve",
@@ -60580,17 +60229,407 @@
         "id": 709937471
     },
     {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1039,
+        "forks": 388,
+        "size": 621343,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2023-11-28T22:19:27+00:00",
+        "pushed": "2023-11-29T00:57:31+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 81,
+        "forks": 10,
+        "size": 18610,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2023-11-22T19:46:11+00:00",
+        "pushed": "2023-11-28T18:24:54+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "caravel_user_project",
+        "description": "https://caravel-user-project.readthedocs.io",
+        "owner": "efabless",
+        "stars": 147,
+        "forks": 307,
+        "size": 304897,
+        "created": "2021-04-05T15:14:33+00:00",
+        "updated": "2023-11-23T02:10:02+00:00",
+        "pushed": "2023-11-28T12:50:47+00:00",
+        "url": "https://github.com/efabless/caravel_user_project",
+        "id": 354876752
+    },
+    {
+        "repo": "hammer",
+        "description": "Hammer: Highly Agile Masks Made Effortlessly from RTL",
+        "owner": "ucb-bar",
+        "stars": 210,
+        "forks": 47,
+        "size": 7288,
+        "created": "2016-07-13T19:26:51+00:00",
+        "updated": "2023-11-20T15:34:11+00:00",
+        "pushed": "2023-11-29T01:18:11+00:00",
+        "url": "https://github.com/ucb-bar/hammer",
+        "id": 63273685
+    },
+    {
+        "repo": "OpenFASOC",
+        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
+        "owner": "idea-fasoc",
+        "stars": 182,
+        "forks": 80,
+        "size": 417601,
+        "created": "2021-03-24T16:30:14+00:00",
+        "updated": "2023-11-23T14:33:15+00:00",
+        "pushed": "2023-11-29T02:45:33+00:00",
+        "url": "https://github.com/idea-fasoc/OpenFASOC",
+        "id": 351150248
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 677,
+        "forks": 73,
+        "size": 341552,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2023-11-24T20:09:45+00:00",
+        "pushed": "2023-11-29T00:09:08+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "caravel-gf180mcu",
+        "description": "This repository is the GF180MCU port of Caravel.  For more information about Caravel, see the original repo at https://github.com/efabless/caravel. ",
+        "owner": "efabless",
+        "stars": 7,
+        "forks": 8,
+        "size": 2624939,
+        "created": "2022-07-25T18:28:24+00:00",
+        "updated": "2023-07-25T14:59:43+00:00",
+        "pushed": "2023-11-29T00:18:33+00:00",
+        "url": "https://github.com/efabless/caravel-gf180mcu",
+        "id": 517777997
+    },
+    {
+        "repo": "ecen4303F23",
+        "description": "Files associated with Digital Integrated Circuits (ecen4303) at Oklahoma State University",
+        "owner": "stineje",
+        "stars": 9,
+        "forks": 0,
+        "size": 21642,
+        "created": "2023-09-19T22:14:28+00:00",
+        "updated": "2023-11-06T15:33:36+00:00",
+        "pushed": "2023-11-28T23:26:57+00:00",
+        "url": "https://github.com/stineje/ecen4303F23",
+        "id": 693873141
+    },
+    {
+        "repo": "extra_be_checks",
+        "description": "Extra backend checks for sky130",
+        "owner": "d-m-bailey",
+        "stars": 5,
+        "forks": 2,
+        "size": 1228,
+        "created": "2022-03-09T08:25:34+00:00",
+        "updated": "2023-10-17T18:42:06+00:00",
+        "pushed": "2023-11-28T16:26:39+00:00",
+        "url": "https://github.com/d-m-bailey/extra_be_checks",
+        "id": 467838948
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 152,
+        "forks": 79,
+        "size": 31714,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2023-11-25T21:02:23+00:00",
+        "pushed": "2023-11-29T05:28:54+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "efab_labs",
+        "description": null,
+        "owner": "khanasfar73",
+        "stars": 0,
+        "forks": 0,
+        "size": 86,
+        "created": "2023-07-06T17:25:23+00:00",
+        "updated": "2023-07-06T17:42:48+00:00",
+        "pushed": "2023-11-28T21:42:50+00:00",
+        "url": "https://github.com/khanasfar73/efab_labs",
+        "id": 663158522
+    },
+    {
+        "repo": "caravel_mgmt_soc_gf180mcu",
+        "description": "This repository is the GF180MCU port of management core for Caravel.  For more information about the Caravel management SoC, see https://github.com/efabless/caravel_mgmt_soc_litex.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 2,
+        "size": 48176,
+        "created": "2022-10-03T22:38:58+00:00",
+        "updated": "2022-12-19T16:28:34+00:00",
+        "pushed": "2023-11-29T00:21:01+00:00",
+        "url": "https://github.com/efabless/caravel_mgmt_soc_gf180mcu",
+        "id": 545166594
+    },
+    {
+        "repo": "journal",
+        "description": "Anton's journal of interesting project stuff",
+        "owner": "algofoogle",
+        "stars": 0,
+        "forks": 0,
+        "size": 69272,
+        "created": "2019-11-28T08:46:48+00:00",
+        "updated": "2022-04-02T13:56:11+00:00",
+        "pushed": "2023-11-28T13:16:06+00:00",
+        "url": "https://github.com/algofoogle/journal",
+        "id": 224608755
+    },
+    {
+        "repo": "openlane-metrics",
+        "description": "Repository to store metric results for OpenLane 2.0.0+",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 33,
+        "created": "2023-11-26T13:01:01+00:00",
+        "updated": "2023-11-26T13:01:02+00:00",
+        "pushed": "2023-11-28T18:38:51+00:00",
+        "url": "https://github.com/efabless/openlane-metrics",
+        "id": 723682792
+    },
+    {
+        "repo": "x-heep",
+        "description": "eXtendable Heterogeneous Energy-Efficient Platform based on RISC-V",
+        "owner": "esl-epfl",
+        "stars": 85,
+        "forks": 41,
+        "size": 23629,
+        "created": "2022-01-07T18:19:11+00:00",
+        "updated": "2023-11-28T11:47:06+00:00",
+        "pushed": "2023-11-29T03:15:53+00:00",
+        "url": "https://github.com/esl-epfl/x-heep",
+        "id": 445614410
+    },
+    {
+        "repo": "SKY130_OpAmp",
+        "description": "Operational amplifier for Skywater 130nm",
+        "owner": "embelon",
+        "stars": 1,
+        "forks": 1,
+        "size": 3213,
+        "created": "2023-04-12T08:52:11+00:00",
+        "updated": "2023-11-23T07:08:12+00:00",
+        "pushed": "2023-11-28T20:09:59+00:00",
+        "url": "https://github.com/embelon/SKY130_OpAmp",
+        "id": 626834056
+    },
+    {
+        "repo": "Breath_Analyser-Detecting_Presence_of_Alcohol-",
+        "description": null,
+        "owner": "DSatle",
+        "stars": 0,
+        "forks": 0,
+        "size": 155,
+        "created": "2023-10-05T07:38:34+00:00",
+        "updated": "2023-10-05T07:38:34+00:00",
+        "pushed": "2023-11-29T05:13:59+00:00",
+        "url": "https://github.com/DSatle/Breath_Analyser-Detecting_Presence_of_Alcohol-",
+        "id": 700736922
+    },
+    {
+        "repo": "open_mpw_program_images",
+        "description": "Collection of photos and videos related to the Google's sponsored Open MPW Shuttle Program",
+        "owner": "mbalestrini",
+        "stars": 2,
+        "forks": 0,
+        "size": 96269,
+        "created": "2023-11-28T20:24:25+00:00",
+        "updated": "2023-11-28T23:59:37+00:00",
+        "pushed": "2023-11-28T22:44:21+00:00",
+        "url": "https://github.com/mbalestrini/open_mpw_program_images",
+        "id": 724800602
+    },
+    {
+        "repo": "osedatools",
+        "description": "script file to install open source eda[Electronic Design Automation] tools.",
+        "owner": "zakirhussainoseda",
+        "stars": 0,
+        "forks": 0,
+        "size": 13,
+        "created": "2023-11-28T06:24:55+00:00",
+        "updated": "2023-11-28T07:13:38+00:00",
+        "pushed": "2023-11-28T07:58:24+00:00",
+        "url": "https://github.com/zakirhussainoseda/osedatools",
+        "id": 724471416
+    },
+    {
+        "repo": "TIA_IPN",
+        "description": "Transimpedance amplifier developed in sky130 technology",
+        "owner": "AlejandroJuarezLora",
+        "stars": 0,
+        "forks": 0,
+        "size": 4381,
+        "created": "2023-11-15T00:32:49+00:00",
+        "updated": "2023-11-17T02:52:15+00:00",
+        "pushed": "2023-11-29T02:01:29+00:00",
+        "url": "https://github.com/AlejandroJuarezLora/TIA_IPN",
+        "id": 718868727
+    },
+    {
+        "repo": "EDToaster",
+        "description": null,
+        "owner": "EDToaster",
+        "stars": 0,
+        "forks": 0,
+        "size": 134,
+        "created": "2020-09-14T01:53:47+00:00",
+        "updated": "2021-12-17T09:48:48+00:00",
+        "pushed": "2023-11-28T08:08:23+00:00",
+        "url": "https://github.com/EDToaster/EDToaster",
+        "id": 295276500
+    },
+    {
+        "repo": "NeurIPS2023-Papers-about-Autonomous-Driving",
+        "description": "NeurIPS2023-Papers-about-Autonomous-Driving",
+        "owner": "autodriving-heart",
+        "stars": 2,
+        "forks": 0,
+        "size": 2,
+        "created": "2023-11-28T12:09:59+00:00",
+        "updated": "2023-11-29T01:10:10+00:00",
+        "pushed": "2023-11-28T12:14:31+00:00",
+        "url": "https://github.com/autodriving-heart/NeurIPS2023-Papers-about-Autonomous-Driving",
+        "id": 724597863
+    },
+    {
+        "repo": "usb_cdc_wrapper",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 37648,
+        "created": "2023-11-07T16:54:13+00:00",
+        "updated": "2023-11-08T10:35:54+00:00",
+        "pushed": "2023-11-28T14:30:31+00:00",
+        "url": "https://github.com/efabless/usb_cdc_wrapper",
+        "id": 715700416
+    },
+    {
+        "repo": "EF_ACMP_DI",
+        "description": "A digital Interface for the EF_R2RVC Analog Comparator",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 25,
+        "created": "2023-09-05T17:13:31+00:00",
+        "updated": "2023-09-05T18:10:23+00:00",
+        "pushed": "2023-11-28T15:09:42+00:00",
+        "url": "https://github.com/efabless/EF_ACMP_DI",
+        "id": 687631532
+    },
+    {
+        "repo": "central_CI",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 153,
+        "created": "2023-08-22T08:52:47+00:00",
+        "updated": "2023-09-11T14:41:47+00:00",
+        "pushed": "2023-11-28T14:17:52+00:00",
+        "url": "https://github.com/efabless/central_CI",
+        "id": 681548908
+    },
+    {
+        "repo": "EF_GPIO",
+        "description": "A generic GPIO peripheral",
+        "owner": "efabless",
+        "stars": 1,
+        "forks": 0,
+        "size": 26,
+        "created": "2023-08-28T09:23:08+00:00",
+        "updated": "2023-08-28T17:18:50+00:00",
+        "pushed": "2023-11-28T09:37:53+00:00",
+        "url": "https://github.com/efabless/EF_GPIO",
+        "id": 684017510
+    },
+    {
+        "repo": "EF_DAC1001_DI",
+        "description": "A digital controller with a FIFO and bus wrappers for a 10-Bit Switching Capacitor Array  DAC",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 44,
+        "created": "2023-09-03T13:35:18+00:00",
+        "updated": "2023-10-18T13:21:56+00:00",
+        "pushed": "2023-11-28T21:31:33+00:00",
+        "url": "https://github.com/efabless/EF_DAC1001_DI",
+        "id": 686644438
+    },
+    {
+        "repo": "tt05-psg-ay8913",
+        "description": "TinyTapeout submission with the AY-3-8913 a 3-voice programmable sound generator (PSG) chip from General Instruments.",
+        "owner": "rejunity",
+        "stars": 0,
+        "forks": 1,
+        "size": 30129,
+        "created": "2023-10-03T16:16:45+00:00",
+        "updated": "2023-11-16T12:35:48+00:00",
+        "pushed": "2023-11-28T15:03:18+00:00",
+        "url": "https://github.com/rejunity/tt05-psg-ay8913",
+        "id": 699936201
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 912,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2023-11-29T04:36:09+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "Transformer-in-Computer-Vision",
         "description": "A paper list of some recent Transformer-based CV works.",
         "owner": "Yangzhangcst",
         "stars": 787,
         "forks": 106,
-        "size": 6030,
+        "size": 6196,
         "created": "2021-04-14T05:14:41+00:00",
         "updated": "2023-11-28T01:41:56+00:00",
-        "pushed": "2023-11-27T09:31:26+00:00",
+        "pushed": "2023-11-28T09:30:59+00:00",
         "url": "https://github.com/Yangzhangcst/Transformer-in-Computer-Vision",
         "id": 357782288
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 6036,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-11-29T01:41:54+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
     },
     {
         "repo": "finviz-git-scraper",
@@ -60598,10 +60637,10 @@
         "owner": "fasiha",
         "stars": 3,
         "forks": 0,
-        "size": 80297,
+        "size": 80641,
         "created": "2023-01-05T08:49:05+00:00",
         "updated": "2023-07-12T00:35:18+00:00",
-        "pushed": "2023-11-27T23:57:22+00:00",
+        "pushed": "2023-11-28T23:57:21+00:00",
         "url": "https://github.com/fasiha/finviz-git-scraper",
         "id": 585468833
     },
@@ -60611,10 +60650,10 @@
         "owner": "andgar2010",
         "stars": 5,
         "forks": 0,
-        "size": 21050,
+        "size": 21297,
         "created": "2020-11-09T02:22:44+00:00",
         "updated": "2023-10-22T19:45:31+00:00",
-        "pushed": "2023-11-28T00:50:29+00:00",
+        "pushed": "2023-11-29T00:50:51+00:00",
         "url": "https://github.com/andgar2010/awesome-stars",
         "id": 311201466
     }
