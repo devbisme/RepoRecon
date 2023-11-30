@@ -34671,19 +34671,6 @@
         "id": 608178669
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 3411,
-        "forks": 350,
-        "size": 1699,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2023-11-24T05:44:03+00:00",
-        "pushed": "2023-11-23T09:58:45+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "tech",
         "description": null,
         "owner": "cenzwong",
@@ -34801,19 +34788,6 @@
         "id": 706606213
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 79,
-        "forks": 25,
-        "size": 138065,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-20T08:01:33+00:00",
-        "pushed": "2023-11-27T02:09:21+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "rustpie",
         "description": "Rustpi Enhanced",
         "owner": "tonnylyz",
@@ -34866,32 +34840,6 @@
         "id": 476865621
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 627,
-        "forks": 181,
-        "size": 55193,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-26T11:10:40+00:00",
-        "pushed": "2023-11-29T07:18:26+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 8999,
-        "forks": 4711,
-        "size": 782283,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-11-29T06:53:23+00:00",
-        "pushed": "2023-11-29T06:08:58+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "mini-rv32ima",
         "description": "A tiny C header-only risc-v emulator.",
         "owner": "cnlohr",
@@ -34918,19 +34866,6 @@
         "id": 218461602
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 3,
-        "forks": 2,
-        "size": 8065,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-05-09T06:23:21+00:00",
-        "pushed": "2023-11-28T20:08:43+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "TG_SCID-20231",
         "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
         "owner": "Dallana0107",
@@ -34944,15 +34879,80 @@
         "id": 691307904
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 627,
+        "forks": 181,
+        "size": 55060,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-26T11:10:40+00:00",
+        "pushed": "2023-11-30T02:22:45+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 80,
+        "forks": 25,
+        "size": 138032,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-11-28T04:09:00+00:00",
+        "pushed": "2023-11-29T17:39:59+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9004,
+        "forks": 4710,
+        "size": 782328,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-11-30T06:41:13+00:00",
+        "pushed": "2023-11-30T03:43:07+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 3,
+        "forks": 2,
+        "size": 8068,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-05-09T06:23:21+00:00",
+        "pushed": "2023-11-29T20:34:01+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 3455,
+        "forks": 353,
+        "size": 1835,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2023-11-30T03:02:28+00:00",
+        "pushed": "2023-11-30T06:01:50+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
         "repo": "ttt",
         "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
         "owner": "davidly",
         "stars": 0,
         "forks": 0,
-        "size": 743,
+        "size": 759,
         "created": "2022-02-08T05:17:55+00:00",
         "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-11-28T19:32:35+00:00",
+        "pushed": "2023-11-29T18:28:07+00:00",
         "url": "https://github.com/davidly/ttt",
         "id": 456793068
     },
@@ -34962,10 +34962,10 @@
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 6036,
+        "size": 6260,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-11-29T01:41:54+00:00",
+        "pushed": "2023-11-30T01:39:51+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -34978,7 +34978,7 @@
         "size": 553323,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-28T12:25:30+00:00",
+        "pushed": "2023-11-29T12:24:44+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
