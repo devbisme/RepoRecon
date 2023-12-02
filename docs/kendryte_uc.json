@@ -32123,19 +32123,6 @@
         "id": 659163102
     },
     {
-        "repo": "nncase-0.2.0-beta4",
-        "description": null,
-        "owner": "spg-one",
-        "stars": 0,
-        "forks": 0,
-        "size": 21610,
-        "created": "2023-06-27T12:05:14Z",
-        "updated": "2023-06-27T12:05:39Z",
-        "pushed": "2023-08-17T14:57:18Z",
-        "url": "https://github.com/spg-one/nncase-0.2.0-beta4",
-        "id": 659235542
-    },
-    {
         "repo": "Toucan-LLM",
         "description": "Self-trained Large Language Models based on Meta LLaMa",
         "owner": "kendryte",
@@ -34840,19 +34827,6 @@
         "id": 691307904
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 3,
-        "forks": 2,
-        "size": 8068,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-05-09T06:23:21+00:00",
-        "pushed": "2023-11-29T20:34:01+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "nncase",
         "description": "Open deep learning compiler stack for Kendryte AI accelerator",
         "owner": "kendryte",
@@ -34905,19 +34879,6 @@
         "id": 365704100
     },
     {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 3,
-        "forks": 0,
-        "size": 7517,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2023-10-27T13:59:31+00:00",
-        "pushed": "2023-11-30T22:47:47+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
-    },
-    {
         "repo": "k210_git",
         "description": null,
         "owner": "ychinata",
@@ -34929,32 +34890,6 @@
         "pushed": "2023-11-30T16:18:29+00:00",
         "url": "https://github.com/ychinata/k210_git",
         "id": 725638986
-    },
-    {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 768,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-11-30T17:10:57+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 82,
-        "forks": 33,
-        "size": 556006,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-11-16T05:10:02+00:00",
-        "pushed": "2023-11-30T12:25:04+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
     },
     {
         "repo": "TrashDetection",
@@ -34983,19 +34918,6 @@
         "id": 723229009
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9013,
-        "forks": 4711,
-        "size": 782341,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-01T04:13:36+00:00",
-        "pushed": "2023-12-01T06:43:11+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -35009,16 +34931,94 @@
         "id": 188584527
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9019,
+        "forks": 4712,
+        "size": 782412,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-02T04:18:45+00:00",
+        "pushed": "2023-12-02T05:56:38+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 3,
+        "forks": 2,
+        "size": 8071,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-05-09T06:23:21+00:00",
+        "pushed": "2023-12-01T20:35:07+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 3,
+        "forks": 0,
+        "size": 7520,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2023-10-27T13:59:31+00:00",
+        "pushed": "2023-12-01T20:27:04+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "nncase-0.2.0-beta4",
+        "description": null,
+        "owner": "spg-one",
+        "stars": 0,
+        "forks": 0,
+        "size": 21611,
+        "created": "2023-06-27T12:05:14+00:00",
+        "updated": "2023-06-27T12:05:39+00:00",
+        "pushed": "2023-12-01T08:06:45+00:00",
+        "url": "https://github.com/spg-one/nncase-0.2.0-beta4",
+        "id": 659235542
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 779,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2023-12-01T20:15:48+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 6660,
+        "size": 7061,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-12-01T01:48:29+00:00",
+        "pushed": "2023-12-02T01:37:17+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 90,
+        "forks": 34,
+        "size": 556009,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2023-12-01T17:33:34+00:00",
+        "pushed": "2023-12-01T12:24:56+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]

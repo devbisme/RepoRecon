@@ -8463,19 +8463,6 @@
         "id": 555563006
     },
     {
-        "repo": "TordBoyau",
-        "description": "A pipelined RISC-V processor",
-        "owner": "BrunoLevy",
-        "stars": 33,
-        "forks": 4,
-        "size": 972,
-        "created": "2022-10-23T09:09:31Z",
-        "updated": "2023-09-03T04:08:27Z",
-        "pushed": "2023-10-23T19:55:15Z",
-        "url": "https://github.com/BrunoLevy/TordBoyau",
-        "id": 556188165
-    },
-    {
         "repo": "litex-fork-searchable",
         "description": null,
         "owner": "jevinskie",
@@ -11466,32 +11453,6 @@
         "id": 109838222
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1275,
-        "forks": 179,
-        "size": 200776,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-12-01T02:29:26+00:00",
-        "pushed": "2023-12-01T05:37:13+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 10,
-        "size": 21685,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-29T18:31:16+00:00",
-        "pushed": "2023-11-30T09:29:12+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "pocket-riscv-rs",
         "description": "Repo for apps for the Pocket RISC-V core for Analogue Pocket/OpenFPGA. Multiple branches.",
         "owner": "mcclure",
@@ -11529,19 +11490,6 @@
         "pushed": "2023-11-30T16:30:24+00:00",
         "url": "https://github.com/mattvenn/wishbone_buttons_leds",
         "id": 256813194
-    },
-    {
-        "repo": "litex_64bit_addressing_test",
-        "description": "Test/PoC of 64-bit addressing in LiteX.",
-        "owner": "enjoy-digital",
-        "stars": 0,
-        "forks": 0,
-        "size": 2,
-        "created": "2023-11-30T09:15:26+00:00",
-        "updated": "2023-11-30T15:23:15+00:00",
-        "pushed": "2023-11-30T15:23:11+00:00",
-        "url": "https://github.com/enjoy-digital/litex_64bit_addressing_test",
-        "id": 725497871
     },
     {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
@@ -11583,19 +11531,6 @@
         "id": 719323329
     },
     {
-        "repo": "OpenXC7-LiteX",
-        "description": "Container for compiling LiteX HDL FPGA designs using the free OpenXC7 tool chain and GitHub code spaces",
-        "owner": "meriac",
-        "stars": 0,
-        "forks": 0,
-        "size": 2,
-        "created": "2023-11-30T12:19:29+00:00",
-        "updated": "2023-12-01T06:36:04+00:00",
-        "pushed": "2023-12-01T06:25:57+00:00",
-        "url": "https://github.com/meriac/OpenXC7-LiteX",
-        "id": 725567325
-    },
-    {
         "repo": "oss-cad-suite-build",
         "description": "Multi-platform nightly builds of open source digital design and verification tools",
         "owner": "YosysHQ",
@@ -11604,9 +11539,35 @@
         "size": 903,
         "created": "2021-02-01T08:34:29+00:00",
         "updated": "2023-12-01T03:51:11+00:00",
-        "pushed": "2023-12-01T02:04:11+00:00",
+        "pushed": "2023-12-02T01:53:30+00:00",
         "url": "https://github.com/YosysHQ/oss-cad-suite-build",
         "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1275,
+        "forks": 179,
+        "size": 200915,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-12-01T02:29:26+00:00",
+        "pushed": "2023-12-02T06:58:41+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 10,
+        "size": 21795,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-29T18:31:16+00:00",
+        "pushed": "2023-12-01T22:34:18+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11614,12 +11575,51 @@
         "owner": "google",
         "stars": 1059,
         "forks": 158,
-        "size": 41035,
+        "size": 41133,
         "created": "2020-05-07T21:38:30+00:00",
         "updated": "2023-12-01T03:35:01+00:00",
-        "pushed": "2023-12-01T01:58:22+00:00",
+        "pushed": "2023-12-02T02:23:31+00:00",
         "url": "https://github.com/google/xls",
         "id": 262163993
+    },
+    {
+        "repo": "TordBoyau",
+        "description": "A pipelined RISC-V processor",
+        "owner": "BrunoLevy",
+        "stars": 37,
+        "forks": 3,
+        "size": 976,
+        "created": "2022-10-23T09:09:31+00:00",
+        "updated": "2023-11-15T13:44:25+00:00",
+        "pushed": "2023-12-01T08:14:19+00:00",
+        "url": "https://github.com/BrunoLevy/TordBoyau",
+        "id": 556188165
+    },
+    {
+        "repo": "litex_64bit_addressing_test",
+        "description": "Test/PoC of 64-bit addressing in LiteX.",
+        "owner": "enjoy-digital",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2023-11-30T09:15:26+00:00",
+        "updated": "2023-11-30T15:23:15+00:00",
+        "pushed": "2023-12-01T16:40:57+00:00",
+        "url": "https://github.com/enjoy-digital/litex_64bit_addressing_test",
+        "id": 725497871
+    },
+    {
+        "repo": "OpenXC7-LiteX",
+        "description": "Container for compiling LiteX HDL FPGA designs using the free OpenXC7 tool chain and GitHub code spaces",
+        "owner": "meriac",
+        "stars": 0,
+        "forks": 0,
+        "size": 13,
+        "created": "2023-11-30T12:19:29+00:00",
+        "updated": "2023-12-01T06:36:04+00:00",
+        "pushed": "2023-12-02T04:54:53+00:00",
+        "url": "https://github.com/meriac/OpenXC7-LiteX",
+        "id": 725567325
     },
     {
         "repo": "starred",
@@ -11627,10 +11627,10 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1010,
+        "size": 1079,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-01T04:36:32+00:00",
+        "pushed": "2023-12-02T04:35:12+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11640,25 +11640,12 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 39141,
+        "size": 39531,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-01T03:20:51+00:00",
+        "pushed": "2023-12-02T03:20:03+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
-    },
-    {
-        "repo": "githubTrending",
-        "description": null,
-        "owner": "ZonghaoLi777",
-        "stars": 0,
-        "forks": 0,
-        "size": 4682,
-        "created": "2023-09-25T08:11:03+00:00",
-        "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-12-01T02:31:55+00:00",
-        "url": "https://github.com/ZonghaoLi777/githubTrending",
-        "id": 696165186
     },
     {
         "repo": "github-trending",
@@ -11666,11 +11653,24 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 289,
+        "size": 292,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-12-01T02:29:52+00:00",
+        "pushed": "2023-12-02T02:20:45+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
+    },
+    {
+        "repo": "githubTrending",
+        "description": null,
+        "owner": "ZonghaoLi777",
+        "stars": 0,
+        "forks": 0,
+        "size": 5037,
+        "created": "2023-09-25T08:11:03+00:00",
+        "updated": "2023-09-25T08:12:30+00:00",
+        "pushed": "2023-12-02T02:22:26+00:00",
+        "url": "https://github.com/ZonghaoLi777/githubTrending",
+        "id": 696165186
     }
 ]
