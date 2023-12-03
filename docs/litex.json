@@ -2262,19 +2262,6 @@
         "id": 225145536
     },
     {
-        "repo": "appkit",
-        "description": "Android app boilerplate + image loader",
-        "owner": "grishka",
-        "stars": 38,
-        "forks": 17,
-        "size": 231,
-        "created": "2019-12-03T14:40:58Z",
-        "updated": "2023-09-28T16:12:38Z",
-        "pushed": "2023-10-20T20:23:30Z",
-        "url": "https://github.com/grishka/appkit",
-        "id": 225642630
-    },
-    {
         "repo": "LiteX",
         "description": "A lightweight version of popular AndroidX UI components without AppCompat dependency. API 21+",
         "owner": "grishka",
@@ -9685,19 +9672,6 @@
         "id": 634195319
     },
     {
-        "repo": "tn_vdp",
-        "description": "Tang Nano 9K TMS 9118A VDP",
-        "owner": "lfantoniosi",
-        "stars": 71,
-        "forks": 12,
-        "size": 179689,
-        "created": "2023-05-01T03:14:48Z",
-        "updated": "2023-09-05T15:18:05Z",
-        "pushed": "2023-08-12T22:51:57Z",
-        "url": "https://github.com/lfantoniosi/tn_vdp",
-        "id": 634731200
-    },
-    {
         "repo": "laughing-octo-guacamole",
         "description": null,
         "owner": "terriellis120",
@@ -10907,19 +10881,6 @@
         "id": 717340386
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "Collect useful and interesting tools or projects in embedded world and also share some hot news | \u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 229,
-        "forks": 30,
-        "size": 130902,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2023-11-11T13:38:59+00:00",
-        "pushed": "2023-11-11T14:09:10+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -11102,32 +11063,6 @@
         "id": 581146705
     },
     {
-        "repo": "VintageBusFPGA_Common",
-        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
-        "owner": "rdolbeau",
-        "stars": 3,
-        "forks": 0,
-        "size": 598,
-        "created": "2022-10-31T14:30:10+00:00",
-        "updated": "2023-01-17T11:30:07+00:00",
-        "pushed": "2023-11-18T14:53:59+00:00",
-        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
-        "id": 559997034
-    },
-    {
-        "repo": "NuBusFPGA",
-        "description": "Stuff to put a FPGA in a NuBus Macintosh",
-        "owner": "rdolbeau",
-        "stars": 39,
-        "forks": 1,
-        "size": 34101,
-        "created": "2021-12-21T07:22:10+00:00",
-        "updated": "2023-11-16T11:06:38+00:00",
-        "pushed": "2023-11-18T16:36:41+00:00",
-        "url": "https://github.com/rdolbeau/NuBusFPGA",
-        "id": 440426688
-    },
-    {
         "repo": "fsic_asic",
         "description": null,
         "owner": "bol-edu",
@@ -11282,19 +11217,6 @@
         "pushed": "2023-11-26T01:17:18+00:00",
         "url": "https://github.com/aesc-silicon/elements-vexriscv",
         "id": 310692215
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 30451,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2023-11-26T01:07:47+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "rust-litex-hal",
@@ -11531,19 +11453,6 @@
         "id": 719323329
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 542,
-        "forks": 51,
-        "size": 903,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-12-01T03:51:11+00:00",
-        "pushed": "2023-12-02T01:53:30+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -11555,19 +11464,6 @@
         "pushed": "2023-12-02T06:58:41+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 16,
-        "forks": 10,
-        "size": 21795,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-11-29T18:31:16+00:00",
-        "pushed": "2023-12-01T22:34:18+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11622,17 +11518,121 @@
         "id": 725567325
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 542,
+        "forks": 51,
+        "size": 906,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-12-01T03:51:11+00:00",
+        "pushed": "2023-12-03T02:00:16+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 16,
+        "forks": 10,
+        "size": 21795,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-11-29T18:31:16+00:00",
+        "pushed": "2023-12-02T09:51:27+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "appkit",
+        "description": "Android app boilerplate + image loader",
+        "owner": "grishka",
+        "stars": 38,
+        "forks": 17,
+        "size": 235,
+        "created": "2019-12-03T14:40:58+00:00",
+        "updated": "2023-09-28T16:12:38+00:00",
+        "pushed": "2023-12-02T15:02:13+00:00",
+        "url": "https://github.com/grishka/appkit",
+        "id": 225642630
+    },
+    {
+        "repo": "tn_vdp",
+        "description": "Tang Nano 9K TMS 9118A VDP",
+        "owner": "lfantoniosi",
+        "stars": 86,
+        "forks": 15,
+        "size": 181962,
+        "created": "2023-05-01T03:14:48+00:00",
+        "updated": "2023-12-02T17:05:54+00:00",
+        "pushed": "2023-12-02T20:42:57+00:00",
+        "url": "https://github.com/lfantoniosi/tn_vdp",
+        "id": 634731200
+    },
+    {
+        "repo": "VintageBusFPGA_Common",
+        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
+        "owner": "rdolbeau",
+        "stars": 3,
+        "forks": 0,
+        "size": 600,
+        "created": "2022-10-31T14:30:10+00:00",
+        "updated": "2023-01-17T11:30:07+00:00",
+        "pushed": "2023-12-02T10:06:33+00:00",
+        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
+        "id": 559997034
+    },
+    {
+        "repo": "NuBusFPGA",
+        "description": "Stuff to put a FPGA in a NuBus Macintosh",
+        "owner": "rdolbeau",
+        "stars": 39,
+        "forks": 1,
+        "size": 34641,
+        "created": "2021-12-21T07:22:10+00:00",
+        "updated": "2023-11-16T11:06:38+00:00",
+        "pushed": "2023-12-02T11:01:39+00:00",
+        "url": "https://github.com/rdolbeau/NuBusFPGA",
+        "id": 440426688
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "Collect useful and interesting tools or projects in embedded world and also share some hot news | \u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 237,
+        "forks": 31,
+        "size": 132017,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2023-12-02T14:08:16+00:00",
+        "pushed": "2023-12-02T12:25:36+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1079,
+        "size": 1107,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-02T04:35:12+00:00",
+        "pushed": "2023-12-03T04:34:45+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 31631,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2023-12-03T01:08:37+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -11640,10 +11640,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 39531,
+        "size": 39935,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-02T03:20:03+00:00",
+        "pushed": "2023-12-03T03:19:57+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -11653,10 +11653,10 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 292,
+        "size": 566,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-12-02T02:20:45+00:00",
+        "pushed": "2023-12-03T02:25:18+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
     },
@@ -11666,10 +11666,10 @@
         "owner": "ZonghaoLi777",
         "stars": 0,
         "forks": 0,
-        "size": 5037,
+        "size": 5074,
         "created": "2023-09-25T08:11:03+00:00",
         "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-12-02T02:22:26+00:00",
+        "pushed": "2023-12-03T02:27:05+00:00",
         "url": "https://github.com/ZonghaoLi777/githubTrending",
         "id": 696165186
     }
