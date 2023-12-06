@@ -34749,32 +34749,6 @@
         "id": 723826243
     },
     {
-        "repo": "pxt-koi",
-        "description": "This is a MakeCode extension for the KittenBot KOI AI module",
-        "owner": "KittenBot",
-        "stars": 6,
-        "forks": 6,
-        "size": 9729,
-        "created": "2019-10-30T06:51:11+00:00",
-        "updated": "2023-01-15T23:57:22+00:00",
-        "pushed": "2023-11-28T09:37:20+00:00",
-        "url": "https://github.com/KittenBot/pxt-koi",
-        "id": 218461602
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 80,
-        "forks": 25,
-        "size": 138032,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-11-28T04:09:00+00:00",
-        "pushed": "2023-11-30T12:45:51+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "mini-rv32ima",
         "description": "A tiny C header-only risc-v emulator.",
         "owner": "cnlohr",
@@ -34827,19 +34801,6 @@
         "id": 725662233
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 3,
-        "forks": 2,
-        "size": 8071,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-05-09T06:23:21+00:00",
-        "pushed": "2023-12-01T20:35:07+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "nncase-0.2.0-beta4",
         "description": null,
         "owner": "spg-one",
@@ -34877,32 +34838,6 @@
         "pushed": "2023-12-03T12:31:42+00:00",
         "url": "https://github.com/maixiuzhu/maixiuzhu.github.io",
         "id": 726765868
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
-        "owner": "kendryte",
-        "stars": 627,
-        "forks": 181,
-        "size": 55155,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-11-26T11:10:40+00:00",
-        "pushed": "2023-12-04T09:14:33+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9033,
-        "forks": 4714,
-        "size": 782537,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-05T02:19:58+00:00",
-        "pushed": "2023-12-05T07:06:10+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "krux_binaries",
@@ -34983,19 +34918,6 @@
         "id": 723229009
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 3478,
-        "forks": 356,
-        "size": 740,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2023-12-05T06:38:09+00:00",
-        "pushed": "2023-12-04T12:45:56+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "ttt",
         "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
         "owner": "davidly",
@@ -35022,15 +34944,93 @@
         "id": 685317589
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator",
+        "owner": "kendryte",
+        "stars": 627,
+        "forks": 181,
+        "size": 55167,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-11-26T11:10:40+00:00",
+        "pushed": "2023-12-05T09:18:36+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 83,
+        "forks": 25,
+        "size": 138039,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-12-05T22:00:31+00:00",
+        "pushed": "2023-12-04T09:08:59+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9033,
+        "forks": 4717,
+        "size": 782681,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-06T06:43:37+00:00",
+        "pushed": "2023-12-06T07:12:15+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "pxt-koi",
+        "description": "This is a MakeCode extension for the KittenBot KOI AI module",
+        "owner": "KittenBot",
+        "stars": 6,
+        "forks": 6,
+        "size": 9746,
+        "created": "2019-10-30T06:51:11+00:00",
+        "updated": "2023-01-15T23:57:22+00:00",
+        "pushed": "2023-12-05T09:25:26+00:00",
+        "url": "https://github.com/KittenBot/pxt-koi",
+        "id": 218461602
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 3,
+        "forks": 2,
+        "size": 7727,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-05-09T06:23:21+00:00",
+        "pushed": "2023-12-05T21:44:09+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 3485,
+        "forks": 356,
+        "size": 808,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2023-12-06T04:59:21+00:00",
+        "pushed": "2023-12-05T11:11:07+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 90,
+        "stars": 94,
         "forks": 34,
-        "size": 558694,
+        "size": 558698,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-12-01T17:33:34+00:00",
-        "pushed": "2023-12-04T12:24:51+00:00",
+        "updated": "2023-12-05T23:17:20+00:00",
+        "pushed": "2023-12-05T12:26:05+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
