@@ -52,19 +52,6 @@
         "id": 35695204
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 186,
-        "forks": 25,
-        "size": 19676,
-        "created": "2015-05-19T17:45:47Z",
-        "updated": "2023-09-22T09:12:37Z",
-        "pushed": "2023-09-07T16:09:29Z",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "HDMI2USB-litex-firmware",
         "description": "A version of the HDMI2USB firmware based around LiteX tools produced by @Enjoy-Digital (based on misoc+migen created by @M-Labs)",
         "owner": "timvideos",
@@ -11388,19 +11375,6 @@
         "id": 210192052
     },
     {
-        "repo": "OpenXC7-LiteX",
-        "description": "Container for compiling LiteX HDL FPGA designs using the free OpenXC7 tool chain and GitHub code spaces",
-        "owner": "meriac",
-        "stars": 11,
-        "forks": 0,
-        "size": 4049,
-        "created": "2023-11-30T12:19:29+00:00",
-        "updated": "2023-12-06T06:27:29+00:00",
-        "pushed": "2023-12-06T06:18:14+00:00",
-        "url": "https://github.com/meriac/OpenXC7-LiteX",
-        "id": 725567325
-    },
-    {
         "repo": "riscv-isa-ci",
         "description": "CI/CD for RISC-V Cores",
         "owner": "JN513",
@@ -11412,32 +11386,6 @@
         "pushed": "2023-12-05T18:17:07+00:00",
         "url": "https://github.com/JN513/riscv-isa-ci",
         "id": 719323329
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1283,
-        "forks": 179,
-        "size": 201333,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-12-07T01:52:55+00:00",
-        "pushed": "2023-12-06T20:51:38+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "vlsi-101",
-        "description": null,
-        "owner": "johnnycubides",
-        "stars": 0,
-        "forks": 0,
-        "size": 1354,
-        "created": "2023-03-31T12:41:50+00:00",
-        "updated": "2023-04-14T15:14:59+00:00",
-        "pushed": "2023-12-07T02:41:09+00:00",
-        "url": "https://github.com/johnnycubides/vlsi-101",
-        "id": 621810319
     },
     {
         "repo": "litex-boards",
@@ -11466,19 +11414,6 @@
         "id": 42041717
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 421,
-        "forks": 103,
-        "size": 41657,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2023-12-05T07:40:04+00:00",
-        "pushed": "2023-12-08T02:15:28+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -11490,19 +11425,6 @@
         "pushed": "2023-12-07T08:05:38+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "ljinux",
-        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
-        "owner": "bill88t",
-        "stars": 196,
-        "forks": 13,
-        "size": 10597,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2023-11-24T20:20:35+00:00",
-        "pushed": "2023-12-08T00:46:30+00:00",
-        "url": "https://github.com/bill88t/ljinux",
-        "id": 434342707
     },
     {
         "repo": "awesome-opensource-hardware",
@@ -11557,19 +11479,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 546,
-        "forks": 52,
-        "size": 909,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-12-08T22:42:05+00:00",
-        "pushed": "2023-12-09T01:55:12+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -11622,19 +11531,6 @@
         "id": 723273466
     },
     {
-        "repo": "eurorack-pmod-litex",
-        "description": "Audio DSP on an FPGA using eurorack-pmod + LiteX with firmware in Rust.",
-        "owner": "apfelaudio",
-        "stars": 2,
-        "forks": 0,
-        "size": 2065,
-        "created": "2023-08-13T10:24:29+00:00",
-        "updated": "2023-12-06T09:27:24+00:00",
-        "pushed": "2023-12-08T12:16:30+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
-        "id": 677990151
-    },
-    {
         "repo": "buildroot-docker",
         "description": "A simple build environment for Buildroot by using Docker.",
         "owner": "niw",
@@ -11646,19 +11542,6 @@
         "pushed": "2023-12-08T07:54:26+00:00",
         "url": "https://github.com/niw/buildroot-docker",
         "id": 394820765
-    },
-    {
-        "repo": "NAF",
-        "description": "Network Attached FPGA",
-        "owner": "PietPtr",
-        "stars": 0,
-        "forks": 0,
-        "size": 27,
-        "created": "2023-12-03T15:34:31+00:00",
-        "updated": "2023-12-03T15:34:45+00:00",
-        "pushed": "2023-12-08T14:26:55+00:00",
-        "url": "https://github.com/PietPtr/NAF",
-        "id": 726850475
     },
     {
         "repo": "litex_64bit_addressing_test",
@@ -11674,15 +11557,132 @@
         "id": 725497871
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 548,
+        "forks": 52,
+        "size": 909,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-12-10T02:31:02+00:00",
+        "pushed": "2023-12-10T02:02:30+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 423,
+        "forks": 103,
+        "size": 41657,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2023-12-09T10:02:38+00:00",
+        "pushed": "2023-12-10T02:16:07+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1287,
+        "forks": 179,
+        "size": 201546,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-12-09T23:10:14+00:00",
+        "pushed": "2023-12-09T22:16:05+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "OpenXC7-LiteX",
+        "description": "Container for compiling LiteX HDL FPGA designs using the free OpenXC7 tool chain and GitHub code spaces",
+        "owner": "meriac",
+        "stars": 16,
+        "forks": 2,
+        "size": 4053,
+        "created": "2023-11-30T12:19:29+00:00",
+        "updated": "2023-12-08T09:56:16+00:00",
+        "pushed": "2023-12-09T13:22:01+00:00",
+        "url": "https://github.com/meriac/OpenXC7-LiteX",
+        "id": 725567325
+    },
+    {
+        "repo": "ljinux",
+        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
+        "owner": "bill88t",
+        "stars": 197,
+        "forks": 13,
+        "size": 10672,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2023-12-08T13:07:39+00:00",
+        "pushed": "2023-12-10T02:44:33+00:00",
+        "url": "https://github.com/bill88t/ljinux",
+        "id": 434342707
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 188,
+        "forks": 25,
+        "size": 19691,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2023-11-26T10:54:06+00:00",
+        "pushed": "2023-12-09T14:09:00+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "eurorack-pmod-litex",
+        "description": "Audio DSP on an FPGA using eurorack-pmod + LiteX with firmware in Rust.",
+        "owner": "apfelaudio",
+        "stars": 2,
+        "forks": 0,
+        "size": 2423,
+        "created": "2023-08-13T10:24:29+00:00",
+        "updated": "2023-12-06T09:27:24+00:00",
+        "pushed": "2023-12-09T19:49:13+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
+        "id": 677990151
+    },
+    {
+        "repo": "NAF",
+        "description": "Network Attached FPGA",
+        "owner": "PietPtr",
+        "stars": 0,
+        "forks": 0,
+        "size": 32,
+        "created": "2023-12-03T15:34:31+00:00",
+        "updated": "2023-12-03T15:34:45+00:00",
+        "pushed": "2023-12-09T11:52:26+00:00",
+        "url": "https://github.com/PietPtr/NAF",
+        "id": 726850475
+    },
+    {
+        "repo": "vlsi-101",
+        "description": null,
+        "owner": "johnnycubides",
+        "stars": 0,
+        "forks": 0,
+        "size": 1356,
+        "created": "2023-03-31T12:41:50+00:00",
+        "updated": "2023-04-14T15:14:59+00:00",
+        "pushed": "2023-12-09T18:23:19+00:00",
+        "url": "https://github.com/johnnycubides/vlsi-101",
+        "id": 621810319
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1358,
+        "size": 1359,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-09T04:35:27+00:00",
+        "pushed": "2023-12-10T04:35:26+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11692,10 +11692,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 33457,
+        "size": 33862,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-09T03:20:03+00:00",
+        "pushed": "2023-12-10T03:20:25+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -11705,10 +11705,10 @@
         "owner": "ZonghaoLi777",
         "stars": 0,
         "forks": 0,
-        "size": 6281,
+        "size": 6646,
         "created": "2023-09-25T08:11:03+00:00",
         "updated": "2023-09-25T08:12:30+00:00",
-        "pushed": "2023-12-09T02:24:10+00:00",
+        "pushed": "2023-12-10T02:28:37+00:00",
         "url": "https://github.com/ZonghaoLi777/githubTrending",
         "id": 696165186
     },
@@ -11718,10 +11718,10 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 1435,
+        "size": 1452,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-12-09T02:22:20+00:00",
+        "pushed": "2023-12-10T02:26:34+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
     }

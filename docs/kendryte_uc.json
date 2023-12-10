@@ -29809,19 +29809,6 @@
         "id": 616480828
     },
     {
-        "repo": "house_rocket_sales_insights",
-        "description": "Data analysis for House Rocket Sales Company database, including insights for sales optimization.",
-        "owner": "AndreMenezesDS",
-        "stars": 0,
-        "forks": 0,
-        "size": 2121,
-        "created": "2023-03-21T04:08:16Z",
-        "updated": "2023-03-21T21:28:30Z",
-        "pushed": "2023-03-24T03:43:36Z",
-        "url": "https://github.com/AndreMenezesDS/house_rocket_sales_insights",
-        "id": 616781373
-    },
-    {
         "repo": "testing",
         "description": null,
         "owner": "xm1015",
@@ -34749,19 +34736,6 @@
         "id": 218461602
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 3485,
-        "forks": 356,
-        "size": 808,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2023-12-06T04:59:21+00:00",
-        "pushed": "2023-12-05T11:11:07+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "embedded",
         "description": null,
         "owner": "Moken-Dapp-XRP",
@@ -34838,19 +34812,6 @@
         "pushed": "2023-12-07T20:45:11+00:00",
         "url": "https://github.com/selfcustody/krux",
         "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9047,
-        "forks": 4717,
-        "size": 782590,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-08T03:10:07+00:00",
-        "pushed": "2023-12-08T06:24:44+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "wmt_ai_study",
@@ -34957,19 +34918,6 @@
         "id": 360045993
     },
     {
-        "repo": "micropython-ulab",
-        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
-        "owner": "v923z",
-        "stars": 367,
-        "forks": 101,
-        "size": 3285,
-        "created": "2019-08-30T15:33:30+00:00",
-        "updated": "2023-12-08T23:53:02+00:00",
-        "pushed": "2023-12-08T14:39:22+00:00",
-        "url": "https://github.com/v923z/micropython-ulab",
-        "id": 205409848
-    },
-    {
         "repo": "archives",
         "description": "My cloud storage",
         "owner": "steward-fu",
@@ -35007,19 +34955,6 @@
         "pushed": "2023-12-09T04:30:34+00:00",
         "url": "https://github.com/JamaalGorczany/os_kernel_lab",
         "id": 729387874
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 7617,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2023-12-05T07:18:25+00:00",
-        "pushed": "2023-12-08T22:58:05+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
     },
     {
         "repo": "vg100-s1-fa23-group11-programs",
@@ -35074,19 +35009,6 @@
         "id": 456793068
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 8262,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-12-09T01:38:47+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "wmt_lvgl_study",
         "description": "My LVGL study",
         "owner": "weimingtom",
@@ -35100,15 +35022,93 @@
         "id": 461410963
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9055,
+        "forks": 4715,
+        "size": 782922,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-10T05:57:57+00:00",
+        "pushed": "2023-12-10T06:07:46+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "micropython-ulab",
+        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
+        "owner": "v923z",
+        "stars": 367,
+        "forks": 101,
+        "size": 3285,
+        "created": "2019-08-30T15:33:30+00:00",
+        "updated": "2023-12-08T23:53:02+00:00",
+        "pushed": "2023-12-09T19:23:38+00:00",
+        "url": "https://github.com/v923z/micropython-ulab",
+        "id": 205409848
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 7622,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2023-12-05T07:18:25+00:00",
+        "pushed": "2023-12-09T13:09:42+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 3504,
+        "forks": 357,
+        "size": 877,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2023-12-10T03:22:24+00:00",
+        "pushed": "2023-12-09T08:06:18+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
+        "repo": "house_rocket_sales_insights",
+        "description": "Data analysis for House Rocket Sales Company database, including insights for sales optimization.",
+        "owner": "AndreMenezesDS",
+        "stars": 0,
+        "forks": 0,
+        "size": 2122,
+        "created": "2023-03-21T04:08:16+00:00",
+        "updated": "2023-03-21T21:28:30+00:00",
+        "pushed": "2023-12-10T00:49:10+00:00",
+        "url": "https://github.com/AndreMenezesDS/house_rocket_sales_insights",
+        "id": 616781373
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 8662,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-12-10T01:45:45+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 96,
+        "stars": 97,
         "forks": 34,
-        "size": 563641,
+        "size": 563642,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-12-06T09:01:07+00:00",
-        "pushed": "2023-12-08T12:24:43+00:00",
+        "updated": "2023-12-09T18:26:36+00:00",
+        "pushed": "2023-12-09T12:22:13+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

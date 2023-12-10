@@ -923,19 +923,6 @@
         "id": 35874081
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 186,
-        "forks": 25,
-        "size": 19676,
-        "created": "2015-05-19T17:45:47Z",
-        "updated": "2023-09-22T09:12:37Z",
-        "pushed": "2023-09-07T16:09:29Z",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "SDRAM_Controller",
         "description": "Implementation of a SDRAM controller in MyHDL (http://www.myhdl.org/)",
         "owner": "udara28",
@@ -1675,19 +1662,6 @@
         "pushed": "2016-07-08T18:04:18Z",
         "url": "https://github.com/ravijain056/OmnidriveController",
         "id": 62907562
-    },
-    {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 33,
-        "forks": 6,
-        "size": 6359,
-        "created": "2016-07-10T21:13:00Z",
-        "updated": "2023-09-22T00:32:15Z",
-        "pushed": "2023-09-07T16:09:17Z",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
     },
     {
         "repo": "sds7102",
@@ -4730,5 +4704,31 @@
         "pushed": "2023-12-08T00:25:55+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 33,
+        "forks": 6,
+        "size": 6376,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2023-11-10T11:52:27+00:00",
+        "pushed": "2023-12-09T14:17:34+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 188,
+        "forks": 25,
+        "size": 19691,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2023-11-26T10:54:06+00:00",
+        "pushed": "2023-12-09T14:09:00+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
     }
 ]
