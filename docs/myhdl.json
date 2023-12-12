@@ -4589,19 +4589,6 @@
         "id": 707008319
     },
     {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 4,
-        "forks": 1,
-        "size": 4559,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2023-05-28T02:41:24+00:00",
-        "pushed": "2023-11-01T08:35:13+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
-    },
-    {
         "repo": "Kea",
         "description": "Some HDL tools built on MyHDL, including a register subsystem.",
         "owner": "SmartAcoustics",
@@ -4730,5 +4717,18 @@
         "pushed": "2023-12-09T14:09:00+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 4,
+        "forks": 1,
+        "size": 3918,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2023-05-28T02:41:24+00:00",
+        "pushed": "2023-12-10T10:40:23+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
     }
 ]
