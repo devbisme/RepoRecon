@@ -56719,19 +56719,6 @@
         "id": 370350292
     },
     {
-        "repo": "UABC_ELECTRONICA_2023",
-        "description": null,
-        "owner": "rogeermv",
-        "stars": 0,
-        "forks": 0,
-        "size": 44,
-        "created": "2023-10-30T05:52:58+00:00",
-        "updated": "2023-10-30T05:53:03+00:00",
-        "pushed": "2023-11-11T04:00:15+00:00",
-        "url": "https://github.com/rogeermv/UABC_ELECTRONICA_2023",
-        "id": 711760119
-    },
-    {
         "repo": "tt_um_rogelio",
         "description": null,
         "owner": "rogeermv",
@@ -57614,19 +57601,6 @@
         "pushed": "2023-11-13T23:19:34+00:00",
         "url": "https://github.com/efabless/timing-scripts",
         "id": 521304090
-    },
-    {
-        "repo": "ioplace_parser",
-        "description": "Antlr4-based parser for the input files to OpenLane custom IO placers.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 21,
-        "created": "2023-10-31T21:37:19+00:00",
-        "updated": "2023-10-31T21:41:32+00:00",
-        "pushed": "2023-11-13T22:01:49+00:00",
-        "url": "https://github.com/efabless/ioplace_parser",
-        "id": 712633983
     },
     {
         "repo": "tt05-psg-sn76489",
@@ -59371,19 +59345,6 @@
         "id": 699936201
     },
     {
-        "repo": "openlane2-ci-designs",
-        "description": "Continuous Integration Designs for OpenLane 2.0.0 or higher",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 48659,
-        "created": "2023-07-30T18:23:07+00:00",
-        "updated": "2023-07-30T18:27:28+00:00",
-        "pushed": "2023-11-29T12:17:00+00:00",
-        "url": "https://github.com/efabless/openlane2-ci-designs",
-        "id": 672630932
-    },
-    {
         "repo": "EF_I2S",
         "description": "Two-wire I2S synchronous serial interface, compatible with I2S specification.",
         "owner": "efabless",
@@ -59811,19 +59772,6 @@
         "pushed": "2023-12-05T06:48:32+00:00",
         "url": "https://github.com/ranan-usp/gf_analog",
         "id": 724846930
-    },
-    {
-        "repo": "open_pdks",
-        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
-        "owner": "RTimothyEdwards",
-        "stars": 216,
-        "forks": 81,
-        "size": 17444,
-        "created": "2020-07-05T19:46:38+00:00",
-        "updated": "2023-12-05T13:41:20+00:00",
-        "pushed": "2023-12-05T08:00:03+00:00",
-        "url": "https://github.com/RTimothyEdwards/open_pdks",
-        "id": 277372282
     },
     {
         "repo": "sky130_ldo_rl",
@@ -60476,45 +60424,6 @@
         "id": 710020660
     },
     {
-        "repo": "OpenLane",
-        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1071,
-        "forks": 341,
-        "size": 873494,
-        "created": "2020-07-20T19:35:02+00:00",
-        "updated": "2023-12-11T18:21:38+00:00",
-        "pushed": "2023-12-12T01:09:49+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
-        "id": 281208911
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1057,
-        "forks": 396,
-        "size": 599501,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2023-12-09T03:25:56+00:00",
-        "pushed": "2023-12-12T03:28:36+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 86,
-        "forks": 10,
-        "size": 18639,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2023-12-08T06:40:55+00:00",
-        "pushed": "2023-12-12T06:11:55+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
         "repo": "caravel_user_project",
         "description": "https://caravel-user-project.readthedocs.io",
         "owner": "efabless",
@@ -60528,19 +60437,6 @@
         "id": 354876752
     },
     {
-        "repo": "bazel_rules_hdl",
-        "description": "Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel (https://bazel.build)",
-        "owner": "hdl",
-        "stars": 85,
-        "forks": 30,
-        "size": 672,
-        "created": "2020-12-05T21:25:31+00:00",
-        "updated": "2023-11-28T13:19:30+00:00",
-        "pushed": "2023-12-11T18:48:48+00:00",
-        "url": "https://github.com/hdl/bazel_rules_hdl",
-        "id": 318892320
-    },
-    {
         "repo": "DriveAGI",
         "description": "Embracing Foundation Models into Autonomous Agent and System",
         "owner": "OpenDriveLab",
@@ -60552,19 +60448,6 @@
         "pushed": "2023-12-12T05:01:34+00:00",
         "url": "https://github.com/OpenDriveLab/DriveAGI",
         "id": 632101482
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 694,
-        "forks": 75,
-        "size": 341528,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2023-12-06T01:13:38+00:00",
-        "pushed": "2023-12-12T00:08:32+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
     },
     {
         "repo": "iEDA",
@@ -60619,19 +60502,6 @@
         "id": 700376981
     },
     {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 154,
-        "forks": 80,
-        "size": 31806,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2023-12-05T11:28:59+00:00",
-        "pushed": "2023-12-11T20:13:26+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
-    },
-    {
         "repo": "journal",
         "description": "Anton's journal of interesting project stuff",
         "owner": "algofoogle",
@@ -60669,19 +60539,6 @@
         "pushed": "2023-12-12T06:09:39+00:00",
         "url": "https://github.com/efabless/openlane2-step-unit-tests",
         "id": 699019034
-    },
-    {
-        "repo": "x-heep",
-        "description": "eXtendable Heterogeneous Energy-Efficient Platform based on RISC-V",
-        "owner": "esl-epfl",
-        "stars": 90,
-        "forks": 41,
-        "size": 23656,
-        "created": "2022-01-07T18:19:11+00:00",
-        "updated": "2023-12-06T13:55:52+00:00",
-        "pushed": "2023-12-11T13:06:39+00:00",
-        "url": "https://github.com/esl-epfl/x-heep",
-        "id": 445614410
     },
     {
         "repo": "efabless_vlsi_verilog",
@@ -61100,19 +60957,6 @@
         "id": 613427645
     },
     {
-        "repo": "openlane-test",
-        "description": null,
-        "owner": "wahaha999",
-        "stars": 0,
-        "forks": 0,
-        "size": 138,
-        "created": "2023-12-07T04:03:17+00:00",
-        "updated": "2023-12-07T04:04:41+00:00",
-        "pushed": "2023-12-11T01:50:35+00:00",
-        "url": "https://github.com/wahaha999/openlane-test",
-        "id": 728495466
-    },
-    {
         "repo": "RISCV_ASIC_2_player_arcade_game",
         "description": null,
         "owner": "ammulashiva",
@@ -61295,19 +61139,6 @@
         "id": 86965622
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 1470,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-12T04:36:25+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "FP_convertor_modules",
         "description": "Contains code for Floating point conversion between fp32, bfloat_16, cfloat8_1_4_3 & cfloat8_1_5_3 written in Bluespec System Verilog",
         "owner": "RohitSrinivasRG",
@@ -61319,19 +61150,6 @@
         "pushed": "2023-12-11T06:14:40+00:00",
         "url": "https://github.com/RohitSrinivasRG/FP_convertor_modules",
         "id": 710860269
-    },
-    {
-        "repo": "Awesome-Transformer-Attention",
-        "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
-        "owner": "cmhungsteve",
-        "stars": 3749,
-        "forks": 431,
-        "size": 3524,
-        "created": "2021-09-15T07:16:24+00:00",
-        "updated": "2023-12-12T06:31:35+00:00",
-        "pushed": "2023-12-11T17:35:31+00:00",
-        "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
-        "id": 406653146
     },
     {
         "repo": "Transformer-in-Computer-Vision",
@@ -61360,15 +61178,275 @@
         "id": 685317589
     },
     {
+        "repo": "OpenLane",
+        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1071,
+        "forks": 341,
+        "size": 873519,
+        "created": "2020-07-20T19:35:02+00:00",
+        "updated": "2023-12-11T18:21:38+00:00",
+        "pushed": "2023-12-13T06:56:51+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
+        "id": 281208911
+    },
+    {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1057,
+        "forks": 398,
+        "size": 599510,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2023-12-09T03:25:56+00:00",
+        "pushed": "2023-12-13T05:53:42+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "open_pdks",
+        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
+        "owner": "RTimothyEdwards",
+        "stars": 216,
+        "forks": 81,
+        "size": 17724,
+        "created": "2020-07-05T19:46:38+00:00",
+        "updated": "2023-12-05T13:41:20+00:00",
+        "pushed": "2023-12-12T08:00:03+00:00",
+        "url": "https://github.com/RTimothyEdwards/open_pdks",
+        "id": 277372282
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 86,
+        "forks": 10,
+        "size": 18686,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2023-12-08T06:40:55+00:00",
+        "pushed": "2023-12-13T06:45:21+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "bazel_rules_hdl",
+        "description": "Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel (https://bazel.build)",
+        "owner": "hdl",
+        "stars": 85,
+        "forks": 30,
+        "size": 672,
+        "created": "2020-12-05T21:25:31+00:00",
+        "updated": "2023-11-28T13:19:30+00:00",
+        "pushed": "2023-12-12T12:45:30+00:00",
+        "url": "https://github.com/hdl/bazel_rules_hdl",
+        "id": 318892320
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 694,
+        "forks": 75,
+        "size": 341661,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2023-12-06T01:13:38+00:00",
+        "pushed": "2023-12-13T02:59:45+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 154,
+        "forks": 80,
+        "size": 33479,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2023-12-05T11:28:59+00:00",
+        "pushed": "2023-12-13T02:51:00+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "openlane2-ci-designs",
+        "description": "Continuous Integration Designs for OpenLane 2.0.0 or higher",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 48666,
+        "created": "2023-07-30T18:23:07+00:00",
+        "updated": "2023-07-30T18:27:28+00:00",
+        "pushed": "2023-12-13T05:09:16+00:00",
+        "url": "https://github.com/efabless/openlane2-ci-designs",
+        "id": 672630932
+    },
+    {
+        "repo": "x-heep",
+        "description": "eXtendable Heterogeneous Energy-Efficient Platform based on RISC-V",
+        "owner": "esl-epfl",
+        "stars": 90,
+        "forks": 41,
+        "size": 23684,
+        "created": "2022-01-07T18:19:11+00:00",
+        "updated": "2023-12-06T13:55:52+00:00",
+        "pushed": "2023-12-12T16:35:14+00:00",
+        "url": "https://github.com/esl-epfl/x-heep",
+        "id": 445614410
+    },
+    {
+        "repo": "ioplace_parser",
+        "description": "Antlr4-based parser for the input files to OpenLane custom IO placers.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 22,
+        "created": "2023-10-31T21:37:19+00:00",
+        "updated": "2023-10-31T21:41:32+00:00",
+        "pushed": "2023-12-12T17:11:06+00:00",
+        "url": "https://github.com/efabless/ioplace_parser",
+        "id": 712633983
+    },
+    {
+        "repo": "RISCV_Heart_Rate_Monitor",
+        "description": null,
+        "owner": "Y09mogal",
+        "stars": 0,
+        "forks": 0,
+        "size": 19,
+        "created": "2023-10-05T17:08:02+00:00",
+        "updated": "2023-10-05T17:08:03+00:00",
+        "pushed": "2023-12-12T08:53:23+00:00",
+        "url": "https://github.com/Y09mogal/RISCV_Heart_Rate_Monitor",
+        "id": 700982037
+    },
+    {
+        "repo": "smartHomeRISCV",
+        "description": null,
+        "owner": "hypnotic2402",
+        "stars": 0,
+        "forks": 0,
+        "size": 2612,
+        "created": "2023-10-05T12:02:56+00:00",
+        "updated": "2023-12-12T07:22:58+00:00",
+        "pushed": "2023-12-12T07:22:53+00:00",
+        "url": "https://github.com/hypnotic2402/smartHomeRISCV",
+        "id": 700841266
+    },
+    {
+        "repo": "Project-Futo-Chip1",
+        "description": null,
+        "owner": "andylithia",
+        "stars": 0,
+        "forks": 0,
+        "size": 87877,
+        "created": "2022-11-26T13:51:41+00:00",
+        "updated": "2022-11-26T15:28:24+00:00",
+        "pushed": "2023-12-13T00:49:42+00:00",
+        "url": "https://github.com/andylithia/Project-Futo-Chip1",
+        "id": 570899811
+    },
+    {
+        "repo": "openlane-test",
+        "description": null,
+        "owner": "wahaha999",
+        "stars": 0,
+        "forks": 0,
+        "size": 141,
+        "created": "2023-12-07T04:03:17+00:00",
+        "updated": "2023-12-07T04:04:41+00:00",
+        "pushed": "2023-12-12T22:07:01+00:00",
+        "url": "https://github.com/wahaha999/openlane-test",
+        "id": 728495466
+    },
+    {
+        "repo": "testproject",
+        "description": "Testproject",
+        "owner": "muehlbachler-b",
+        "stars": 0,
+        "forks": 0,
+        "size": 10,
+        "created": "2023-12-12T16:59:35+00:00",
+        "updated": "2023-12-12T16:59:41+00:00",
+        "pushed": "2023-12-12T16:59:37+00:00",
+        "url": "https://github.com/muehlbachler-b/testproject",
+        "id": 730783370
+    },
+    {
+        "repo": "UABC_ELECTRONICA_2023",
+        "description": null,
+        "owner": "rogeermv",
+        "stars": 0,
+        "forks": 0,
+        "size": 51,
+        "created": "2023-10-30T05:52:58+00:00",
+        "updated": "2023-10-30T05:53:03+00:00",
+        "pushed": "2023-12-12T20:40:59+00:00",
+        "url": "https://github.com/rogeermv/UABC_ELECTRONICA_2023",
+        "id": 711760119
+    },
+    {
+        "repo": "nono",
+        "description": null,
+        "owner": "rogeermv",
+        "stars": 0,
+        "forks": 0,
+        "size": 10,
+        "created": "2023-12-12T20:26:30+00:00",
+        "updated": "2023-12-12T20:26:36+00:00",
+        "pushed": "2023-12-12T20:34:11+00:00",
+        "url": "https://github.com/rogeermv/nono",
+        "id": 730855186
+    },
+    {
+        "repo": "Yosys-Chinese-Manual",
+        "description": "\u5f00\u6e90\u7684HDL\u7efc\u5408\u5de5\u5177Yosys\u7684\u4e2d\u6587\u7248\u624b\u518c",
+        "owner": "alain6666",
+        "stars": 0,
+        "forks": 0,
+        "size": 78,
+        "created": "2023-12-12T13:45:20+00:00",
+        "updated": "2023-12-12T13:45:20+00:00",
+        "pushed": "2023-12-12T13:46:09+00:00",
+        "url": "https://github.com/alain6666/Yosys-Chinese-Manual",
+        "id": 730701882
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 1540,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2023-12-13T04:36:36+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Awesome-Transformer-Attention",
+        "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
+        "owner": "cmhungsteve",
+        "stars": 3755,
+        "forks": 431,
+        "size": 3929,
+        "created": "2021-09-15T07:16:24+00:00",
+        "updated": "2023-12-13T06:27:25+00:00",
+        "pushed": "2023-12-12T16:25:22+00:00",
+        "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
+        "id": 406653146
+    },
+    {
         "repo": "finviz-git-scraper",
         "description": "FinViz map of sectors and sub-sectors",
         "owner": "fasiha",
         "stars": 4,
         "forks": 0,
-        "size": 83732,
+        "size": 84075,
         "created": "2023-01-05T08:49:05+00:00",
         "updated": "2023-12-04T05:51:14+00:00",
-        "pushed": "2023-12-11T23:57:21+00:00",
+        "pushed": "2023-12-12T23:57:36+00:00",
         "url": "https://github.com/fasiha/finviz-git-scraper",
         "id": 585468833
     },
@@ -61378,10 +61456,10 @@
         "owner": "andgar2010",
         "stars": 5,
         "forks": 0,
-        "size": 13472,
+        "size": 13720,
         "created": "2020-11-09T02:22:44+00:00",
         "updated": "2023-10-22T19:45:31+00:00",
-        "pushed": "2023-12-12T00:50:34+00:00",
+        "pushed": "2023-12-13T00:50:32+00:00",
         "url": "https://github.com/andgar2010/awesome-stars",
         "id": 311201466
     }
