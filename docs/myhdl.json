@@ -481,19 +481,6 @@
         "id": 19424102
     },
     {
-        "repo": "verilog-i2c",
-        "description": "Verilog I2C interface for FPGA implementation",
-        "owner": "alexforencich",
-        "stars": 390,
-        "forks": 150,
-        "size": 130,
-        "created": "2014-05-05T08:49:01Z",
-        "updated": "2023-09-07T07:39:06Z",
-        "pushed": "2023-07-19T23:41:48Z",
-        "url": "https://github.com/alexforencich/verilog-i2c",
-        "id": 19449788
-    },
-    {
         "repo": "myhdl",
         "description": null,
         "owner": "stefaan-michielsen",
@@ -4654,32 +4641,6 @@
         "id": 314673708
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 30,
-        "forks": 23,
-        "size": 41229,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2023-11-22T09:05:17+00:00",
-        "pushed": "2023-11-30T14:29:21+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
-        "repo": "CSE3666",
-        "description": "Introduction to Computer Architecture (RISC-V ISA and Python MyHDL package)",
-        "owner": "ar1a3131",
-        "stars": 0,
-        "forks": 0,
-        "size": 20,
-        "created": "2023-12-01T18:27:34+00:00",
-        "updated": "2023-12-04T22:11:06+00:00",
-        "pushed": "2023-12-01T18:38:02+00:00",
-        "url": "https://github.com/ar1a3131/CSE3666",
-        "id": 726193071
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -4730,5 +4691,44 @@
         "pushed": "2023-12-12T15:58:38+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
+    },
+    {
+        "repo": "verilog-i2c",
+        "description": "Verilog I2C interface for FPGA implementation",
+        "owner": "alexforencich",
+        "stars": 412,
+        "forks": 155,
+        "size": 130,
+        "created": "2014-05-05T08:49:01+00:00",
+        "updated": "2023-12-14T17:31:33+00:00",
+        "pushed": "2023-12-13T10:02:36+00:00",
+        "url": "https://github.com/alexforencich/verilog-i2c",
+        "id": 19449788
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 32,
+        "forks": 23,
+        "size": 41232,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2023-12-14T03:59:53+00:00",
+        "pushed": "2023-12-14T12:25:58+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "CSE3666",
+        "description": "Introduction to Computer Architecture (RISC-V ISA and Python MyHDL package)",
+        "owner": "ar1a3131",
+        "stars": 0,
+        "forks": 0,
+        "size": 15368,
+        "created": "2023-12-01T18:27:34+00:00",
+        "updated": "2023-12-04T22:11:06+00:00",
+        "pushed": "2023-12-14T19:02:58+00:00",
+        "url": "https://github.com/ar1a3131/CSE3666",
+        "id": 726193071
     }
 ]
