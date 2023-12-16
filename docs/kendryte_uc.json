@@ -18018,19 +18018,6 @@
         "id": 350101607
     },
     {
-        "repo": "sreedevk",
-        "description": "Sreedev's Github Profile README",
-        "owner": "sreedevk",
-        "stars": 0,
-        "forks": 0,
-        "size": 67,
-        "created": "2021-03-22T05:18:12Z",
-        "updated": "2023-04-11T15:35:53Z",
-        "pushed": "2023-03-23T14:20:17Z",
-        "url": "https://github.com/sreedevk/sreedevk",
-        "id": 350216225
-    },
-    {
         "repo": "maixilele",
         "description": "Config files for my GitHub profile.",
         "owner": "maixilele",
@@ -34138,19 +34125,6 @@
         "id": 92336263
     },
     {
-        "repo": "cmake4eclipse",
-        "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
-        "owner": "15knots",
-        "stars": 84,
-        "forks": 25,
-        "size": 1897,
-        "created": "2015-03-18T20:10:43+00:00",
-        "updated": "2023-10-31T02:21:09+00:00",
-        "pushed": "2023-11-11T17:42:45+00:00",
-        "url": "https://github.com/15knots/cmake4eclipse",
-        "id": 32481601
-    },
-    {
         "repo": "inf351",
         "description": "Sistemas Embarcados com Arduino, NodeMCU, Esp32, K210",
         "owner": "arduinoufv",
@@ -34201,19 +34175,6 @@
         "pushed": "2023-11-14T07:50:16+00:00",
         "url": "https://github.com/opencv/opencv_zoo",
         "id": 390637491
-    },
-    {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 3,
-        "forks": 1,
-        "size": 1278,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-10-17T20:11:04+00:00",
-        "pushed": "2023-11-14T23:34:50+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
     },
     {
         "repo": "homepage",
@@ -35087,45 +35048,6 @@
         "id": 456793068
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 0,
-        "forks": 0,
-        "size": 482,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2023-12-15T01:38:27+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 771,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-12-15T01:42:32+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 99,
-        "forks": 34,
-        "size": 566340,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-12-15T03:04:57+00:00",
-        "pushed": "2023-12-14T12:25:30+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "acpphint",
         "description": "A C++ variation on the serial and pthread HINT benchmarks, tailored to my use.",
         "owner": "markmi",
@@ -35137,5 +35059,83 @@
         "pushed": "2023-12-15T07:02:56+00:00",
         "url": "https://github.com/markmi/acpphint",
         "id": 214611123
+    },
+    {
+        "repo": "cmake4eclipse",
+        "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
+        "owner": "15knots",
+        "stars": 84,
+        "forks": 25,
+        "size": 1913,
+        "created": "2015-03-18T20:10:43+00:00",
+        "updated": "2023-10-31T02:21:09+00:00",
+        "pushed": "2023-12-15T22:31:20+00:00",
+        "url": "https://github.com/15knots/cmake4eclipse",
+        "id": 32481601
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 4,
+        "forks": 1,
+        "size": 1306,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-11-29T20:00:44+00:00",
+        "pushed": "2023-12-15T19:18:14+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "sreedevk",
+        "description": "Sreedev's Github Profile README",
+        "owner": "sreedevk",
+        "stars": 0,
+        "forks": 0,
+        "size": 71,
+        "created": "2021-03-22T05:18:12+00:00",
+        "updated": "2023-04-11T15:35:53+00:00",
+        "pushed": "2023-12-15T15:14:22+00:00",
+        "url": "https://github.com/sreedevk/sreedevk",
+        "id": 350216225
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 0,
+        "forks": 0,
+        "size": 579,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2023-12-13T06:58:33+00:00",
+        "pushed": "2023-12-16T01:35:39+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 1172,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-12-16T01:39:31+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 99,
+        "forks": 34,
+        "size": 566343,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2023-12-15T03:04:57+00:00",
+        "pushed": "2023-12-15T12:24:50+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]

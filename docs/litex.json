@@ -845,19 +845,6 @@
         "id": 138613446
     },
     {
-        "repo": "sanpy",
-        "description": "Santiment API Python Client",
-        "owner": "santiment",
-        "stars": 88,
-        "forks": 27,
-        "size": 1103,
-        "created": "2018-07-02T07:33:48Z",
-        "updated": "2023-10-17T07:31:44Z",
-        "pushed": "2023-10-20T07:42:48Z",
-        "url": "https://github.com/santiment/sanpy",
-        "id": 139407496
-    },
-    {
         "repo": "ltx",
         "description": "LITEX COIN",
         "owner": "LTXcore",
@@ -7631,19 +7618,6 @@
         "id": 504681283
     },
     {
-        "repo": "litex_reference_designs",
-        "description": "Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.",
-        "owner": "RapidSilicon",
-        "stars": 7,
-        "forks": 1,
-        "size": 2822,
-        "created": "2022-06-20T12:48:11Z",
-        "updated": "2023-09-27T01:03:19Z",
-        "pushed": "2023-10-19T10:39:17Z",
-        "url": "https://github.com/RapidSilicon/litex_reference_designs",
-        "id": 505438688
-    },
-    {
         "repo": "pogobot-sdk",
         "description": "SDK for the Pogobot open-source open-hardware robotic platform for swarm robotics",
         "owner": "nekonaute",
@@ -11154,19 +11128,6 @@
         "id": 702508231
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 2,
-        "forks": 2,
-        "size": 986,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2023-10-08T19:10:45+00:00",
-        "pushed": "2023-11-30T20:34:43+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "wishbone_buttons_leds",
         "description": "simple wishbone client to read buttons and write leds",
         "owner": "mattvenn",
@@ -11544,19 +11505,6 @@
         "id": 237940918
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1289,
-        "forks": 179,
-        "size": 201618,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2023-12-10T17:24:26+00:00",
-        "pushed": "2023-12-12T21:19:07+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -11583,19 +11531,6 @@
         "id": 725497871
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 19,
-        "forks": 10,
-        "size": 22698,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-12-12T09:42:59+00:00",
-        "pushed": "2023-12-14T00:07:04+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "eurorack-pmod-litex",
         "description": "Audio DSP on an FPGA using eurorack-pmod + LiteX with firmware in Rust.",
         "owner": "apfelaudio",
@@ -11620,19 +11555,6 @@
         "pushed": "2023-12-13T16:19:12+00:00",
         "url": "https://github.com/PietPtr/NAF",
         "id": 726850475
-    },
-    {
-        "repo": "SucreLA",
-        "description": "Open source Logic Analyzer based on LiteX SoC",
-        "owner": "fallen",
-        "stars": 0,
-        "forks": 0,
-        "size": 16,
-        "created": "2023-12-13T21:00:19+00:00",
-        "updated": "2023-12-13T21:03:25+00:00",
-        "pushed": "2023-12-13T22:22:55+00:00",
-        "url": "https://github.com/fallen/SucreLA",
-        "id": 731331266
     },
     {
         "repo": "awesome-stars",
@@ -11674,19 +11596,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 551,
-        "forks": 52,
-        "size": 909,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-12-14T16:40:02+00:00",
-        "pushed": "2023-12-15T02:12:32+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11713,19 +11622,6 @@
         "id": 721777325
     },
     {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1064,
-        "forks": 160,
-        "size": 42438,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2023-12-12T07:47:57+00:00",
-        "pushed": "2023-12-15T06:38:32+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
         "repo": "fsic_asic",
         "description": null,
         "owner": "bol-edu",
@@ -11739,15 +11635,119 @@
         "id": 665787279
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 552,
+        "forks": 52,
+        "size": 909,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-12-15T09:26:17+00:00",
+        "pushed": "2023-12-16T01:56:13+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1298,
+        "forks": 179,
+        "size": 201622,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2023-12-15T07:17:55+00:00",
+        "pushed": "2023-12-16T05:51:27+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 19,
+        "forks": 10,
+        "size": 22515,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-12-12T09:42:59+00:00",
+        "pushed": "2023-12-15T23:49:45+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1066,
+        "forks": 160,
+        "size": 42599,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2023-12-16T00:38:33+00:00",
+        "pushed": "2023-12-16T01:18:32+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "litex_reference_designs",
+        "description": "Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.",
+        "owner": "RapidSilicon",
+        "stars": 7,
+        "forks": 1,
+        "size": 2832,
+        "created": "2022-06-20T12:48:11+00:00",
+        "updated": "2023-09-27T01:03:19+00:00",
+        "pushed": "2023-12-15T12:43:19+00:00",
+        "url": "https://github.com/RapidSilicon/litex_reference_designs",
+        "id": 505438688
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 2,
+        "forks": 2,
+        "size": 989,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2023-10-08T19:10:45+00:00",
+        "pushed": "2023-12-16T02:18:15+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "SucreLA",
+        "description": "Open source Logic Analyzer based on LiteX SoC",
+        "owner": "fallen",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2023-12-13T21:00:19+00:00",
+        "updated": "2023-12-13T21:03:25+00:00",
+        "pushed": "2023-12-15T15:48:38+00:00",
+        "url": "https://github.com/fallen/SucreLA",
+        "id": 731331266
+    },
+    {
+        "repo": "sanpy",
+        "description": "Santiment API Python Client",
+        "owner": "santiment",
+        "stars": 91,
+        "forks": 29,
+        "size": 1110,
+        "created": "2018-07-02T07:33:48+00:00",
+        "updated": "2023-12-10T16:37:31+00:00",
+        "pushed": "2023-12-15T10:27:09+00:00",
+        "url": "https://github.com/santiment/sanpy",
+        "id": 139407496
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1542,
+        "size": 1612,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-15T04:36:23+00:00",
+        "pushed": "2023-12-16T04:36:04+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11757,10 +11757,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 35873,
+        "size": 36266,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-15T03:21:24+00:00",
+        "pushed": "2023-12-16T03:20:09+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -11770,10 +11770,10 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 2357,
+        "size": 2384,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-12-15T02:26:38+00:00",
+        "pushed": "2023-12-16T02:22:56+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
     }
