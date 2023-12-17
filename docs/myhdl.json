@@ -4628,19 +4628,6 @@
         "id": 723253987
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 2,
-        "forks": 0,
-        "size": 838,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2023-11-16T10:24:09+00:00",
-        "pushed": "2023-11-26T15:09:38+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -4665,19 +4652,6 @@
         "pushed": "2023-12-09T14:17:34+00:00",
         "url": "https://github.com/Nic30/hwtLib",
         "id": 63018738
-    },
-    {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 4,
-        "forks": 1,
-        "size": 3918,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2023-05-28T02:41:24+00:00",
-        "pushed": "2023-12-10T10:40:23+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
     },
     {
         "repo": "hwt",
@@ -4730,5 +4704,31 @@
         "pushed": "2023-12-14T19:02:58+00:00",
         "url": "https://github.com/ar1a3131/CSE3666",
         "id": 726193071
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 4,
+        "forks": 1,
+        "size": 3934,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2023-05-28T02:41:24+00:00",
+        "pushed": "2023-12-17T00:24:05+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 3,
+        "forks": 0,
+        "size": 838,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2023-12-12T09:00:40+00:00",
+        "pushed": "2023-12-16T20:17:40+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
