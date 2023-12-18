@@ -11245,19 +11245,6 @@
         "id": 727504482
     },
     {
-        "repo": "sechzig",
-        "description": "Sechzig Compute Module",
-        "owner": "machdyne",
-        "stars": 4,
-        "forks": 1,
-        "size": 487,
-        "created": "2023-04-11T18:19:34+00:00",
-        "updated": "2023-12-04T10:51:10+00:00",
-        "pushed": "2023-12-04T10:51:06+00:00",
-        "url": "https://github.com/machdyne/sechzig",
-        "id": 626567971
-    },
-    {
         "repo": "betrusted-ec",
         "description": "Betrusted embedded controller (UP5K)",
         "owner": "betrusted-io",
@@ -11557,19 +11544,6 @@
         "id": 726850475
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 32816,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2023-12-14T01:09:37+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -11674,19 +11648,6 @@
         "id": 505438688
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 2,
-        "forks": 2,
-        "size": 989,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2023-10-08T19:10:45+00:00",
-        "pushed": "2023-12-16T02:18:15+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "SucreLA",
         "description": "Open source Logic Analyzer based on LiteX SoC",
         "owner": "fallen",
@@ -11716,12 +11677,12 @@
         "repo": "oss-cad-suite-build",
         "description": "Multi-platform nightly builds of open source digital design and verification tools",
         "owner": "YosysHQ",
-        "stars": 553,
+        "stars": 554,
         "forks": 52,
         "size": 909,
         "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-12-16T07:06:48+00:00",
-        "pushed": "2023-12-17T02:01:26+00:00",
+        "updated": "2023-12-17T17:52:01+00:00",
+        "pushed": "2023-12-18T01:58:51+00:00",
         "url": "https://github.com/YosysHQ/oss-cad-suite-build",
         "id": 334882062
     },
@@ -11731,12 +11692,51 @@
         "owner": "kuznia-rdzeni",
         "stars": 19,
         "forks": 10,
-        "size": 22789,
+        "size": 23238,
         "created": "2022-03-09T17:28:30+00:00",
         "updated": "2023-12-12T09:42:59+00:00",
-        "pushed": "2023-12-16T19:06:05+00:00",
+        "pushed": "2023-12-17T20:16:14+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 2,
+        "forks": 2,
+        "size": 1001,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2023-10-08T19:10:45+00:00",
+        "pushed": "2023-12-17T15:38:05+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "litepcie_driver_win",
+        "description": "Windows Driver for the LitePCIe LiteX core",
+        "owner": "NateMeyer",
+        "stars": 1,
+        "forks": 0,
+        "size": 40,
+        "created": "2023-12-17T15:19:19+00:00",
+        "updated": "2023-12-17T22:48:43+00:00",
+        "pushed": "2023-12-17T17:54:13+00:00",
+        "url": "https://github.com/NateMeyer/litepcie_driver_win",
+        "id": 732706164
+    },
+    {
+        "repo": "sechzig",
+        "description": "Sechzig Compute Module",
+        "owner": "machdyne",
+        "stars": 4,
+        "forks": 1,
+        "size": 488,
+        "created": "2023-04-11T18:19:34+00:00",
+        "updated": "2023-12-04T10:51:10+00:00",
+        "pushed": "2023-12-17T12:45:49+00:00",
+        "url": "https://github.com/machdyne/sechzig",
+        "id": 626567971
     },
     {
         "repo": "starred",
@@ -11744,12 +11744,25 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1681,
+        "size": 1723,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-17T04:35:46+00:00",
+        "pushed": "2023-12-18T04:36:57+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 34003,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2023-12-18T01:08:59+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -11757,10 +11770,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 36672,
+        "size": 37077,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-17T03:20:14+00:00",
+        "pushed": "2023-12-18T03:20:53+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -11770,10 +11783,10 @@
         "owner": "sampsonv",
         "stars": 0,
         "forks": 0,
-        "size": 2676,
+        "size": 2706,
         "created": "2023-10-13T00:23:25+00:00",
         "updated": "2023-10-13T14:57:27+00:00",
-        "pushed": "2023-12-17T02:26:48+00:00",
+        "pushed": "2023-12-18T02:26:20+00:00",
         "url": "https://github.com/sampsonv/github-trending",
         "id": 704286506
     }
