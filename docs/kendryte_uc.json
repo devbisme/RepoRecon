@@ -34333,19 +34333,6 @@
         "id": 348907199
     },
     {
-        "repo": "canmv_examples",
-        "description": " canmv examples",
-        "owner": "kendryte",
-        "stars": 10,
-        "forks": 8,
-        "size": 19517,
-        "created": "2022-10-25T06:37:03+00:00",
-        "updated": "2023-06-20T10:01:16+00:00",
-        "pushed": "2023-11-24T02:30:32+00:00",
-        "url": "https://github.com/kendryte/canmv_examples",
-        "id": 557141473
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -35022,19 +35009,6 @@
         "id": 476865621
     },
     {
-        "repo": "bookmarks",
-        "description": "Sreedev's Web Browser Bookmarks",
-        "owner": "sreedevk",
-        "stars": 5,
-        "forks": 0,
-        "size": 1928,
-        "created": "2021-10-17T17:03:46+00:00",
-        "updated": "2023-11-12T14:16:51+00:00",
-        "pushed": "2023-12-17T02:32:22+00:00",
-        "url": "https://github.com/sreedevk/bookmarks",
-        "id": 418199179
-    },
-    {
         "repo": "vihal",
         "description": "Embedded Hardware Access Library",
         "owner": "nvitya",
@@ -35046,32 +35020,6 @@
         "pushed": "2023-12-16T19:46:26+00:00",
         "url": "https://github.com/nvitya/vihal",
         "id": 411406144
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 632,
-        "forks": 181,
-        "size": 55275,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-12-13T16:43:43+00:00",
-        "pushed": "2023-12-18T06:50:29+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9081,
-        "forks": 4727,
-        "size": 783410,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-17T12:20:07+00:00",
-        "pushed": "2023-12-18T06:48:59+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "TG_SCID-20231",
@@ -35100,15 +35048,67 @@
         "id": 526036751
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 632,
+        "forks": 181,
+        "size": 55326,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-12-18T07:38:34+00:00",
+        "pushed": "2023-12-19T03:33:31+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "canmv_examples",
+        "description": " canmv examples",
+        "owner": "kendryte",
+        "stars": 11,
+        "forks": 8,
+        "size": 19517,
+        "created": "2022-10-25T06:37:03+00:00",
+        "updated": "2023-12-08T06:20:36+00:00",
+        "pushed": "2023-12-19T06:20:48+00:00",
+        "url": "https://github.com/kendryte/canmv_examples",
+        "id": 557141473
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9082,
+        "forks": 4729,
+        "size": 770916,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-19T06:05:39+00:00",
+        "pushed": "2023-12-19T05:54:34+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "bookmarks",
+        "description": "Sreedev's Web Browser Bookmarks",
+        "owner": "sreedevk",
+        "stars": 5,
+        "forks": 0,
+        "size": 1999,
+        "created": "2021-10-17T17:03:46+00:00",
+        "updated": "2023-11-12T14:16:51+00:00",
+        "pushed": "2023-12-18T14:52:04+00:00",
+        "url": "https://github.com/sreedevk/bookmarks",
+        "id": 418199179
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 1175,
+        "size": 1351,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-12-18T01:42:26+00:00",
+        "pushed": "2023-12-19T01:40:40+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35118,10 +35118,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 678,
+        "size": 776,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2023-12-18T01:38:29+00:00",
+        "pushed": "2023-12-19T01:36:50+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35129,12 +35129,12 @@
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 99,
+        "stars": 100,
         "forks": 34,
-        "size": 566344,
+        "size": 569036,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2023-12-15T03:04:57+00:00",
-        "pushed": "2023-12-17T12:22:13+00:00",
+        "updated": "2023-12-18T20:20:26+00:00",
+        "pushed": "2023-12-18T12:25:50+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
