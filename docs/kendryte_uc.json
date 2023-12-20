@@ -34801,19 +34801,6 @@
         "id": 616781373
     },
     {
-        "repo": "k230_docs",
-        "description": "Kendryte K230 SDK Docs",
-        "owner": "kendryte",
-        "stars": 40,
-        "forks": 4,
-        "size": 282113,
-        "created": "2023-07-07T08:24:19+00:00",
-        "updated": "2023-12-08T06:20:57+00:00",
-        "pushed": "2023-12-12T07:27:27+00:00",
-        "url": "https://github.com/kendryte/k230_docs",
-        "id": 663411081
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -34931,19 +34918,6 @@
         "id": 214611123
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 4,
-        "forks": 1,
-        "size": 1306,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-11-29T20:00:44+00:00",
-        "pushed": "2023-12-15T19:18:14+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "sreedevk",
         "description": "Sreedev's Github Profile README",
         "owner": "sreedevk",
@@ -35048,19 +35022,6 @@
         "id": 526036751
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 632,
-        "forks": 181,
-        "size": 55326,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-12-18T07:38:34+00:00",
-        "pushed": "2023-12-19T03:33:31+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_examples",
         "description": " canmv examples",
         "owner": "kendryte",
@@ -35072,19 +35033,6 @@
         "pushed": "2023-12-19T06:20:48+00:00",
         "url": "https://github.com/kendryte/canmv_examples",
         "id": 557141473
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9082,
-        "forks": 4729,
-        "size": 770916,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-19T06:05:39+00:00",
-        "pushed": "2023-12-19T05:54:34+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "bookmarks",
@@ -35113,15 +35061,67 @@
         "id": 685317589
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 633,
+        "forks": 181,
+        "size": 55333,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-12-20T03:30:52+00:00",
+        "pushed": "2023-12-20T05:55:13+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_docs",
+        "description": "Kendryte K230 SDK Docs",
+        "owner": "kendryte",
+        "stars": 40,
+        "forks": 4,
+        "size": 282114,
+        "created": "2023-07-07T08:24:19+00:00",
+        "updated": "2023-12-08T06:20:57+00:00",
+        "pushed": "2023-12-20T03:26:05+00:00",
+        "url": "https://github.com/kendryte/k230_docs",
+        "id": 663411081
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9083,
+        "forks": 4730,
+        "size": 771295,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-20T06:52:53+00:00",
+        "pushed": "2023-12-20T05:26:19+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 4,
+        "forks": 1,
+        "size": 1306,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-11-29T20:00:44+00:00",
+        "pushed": "2023-12-20T00:04:07+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 776,
+        "size": 874,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2023-12-19T01:36:50+00:00",
+        "pushed": "2023-12-20T01:16:53+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35134,7 +35134,7 @@
         "size": 569036,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-12-18T20:20:26+00:00",
-        "pushed": "2023-12-18T12:25:50+00:00",
+        "pushed": "2023-12-19T12:24:05+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
