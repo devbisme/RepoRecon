@@ -34164,19 +34164,6 @@
         "id": 321789911
     },
     {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 440,
-        "forks": 131,
-        "size": 929,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2023-11-14T00:03:27+00:00",
-        "pushed": "2023-11-14T07:50:16+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
-    },
-    {
         "repo": "homepage",
         "description": "free time attempt to create a bit prettier web page",
         "owner": "macabset",
@@ -34931,19 +34918,6 @@
         "id": 350216225
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 85,
-        "forks": 25,
-        "size": 138036,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-12-12T21:21:13+00:00",
-        "pushed": "2023-12-16T16:47:48+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "cmake4eclipse",
         "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
         "owner": "15knots",
@@ -34968,32 +34942,6 @@
         "pushed": "2023-12-17T04:17:14+00:00",
         "url": "https://github.com/steward-fu/archives",
         "id": 616233611
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 13,
-        "forks": 1,
-        "size": 754617,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2023-11-02T00:08:46+00:00",
-        "pushed": "2023-12-16T16:52:44+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 7756,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-12-12T02:51:21+00:00",
-        "pushed": "2023-12-16T19:46:26+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
     },
     {
         "repo": "TG_SCID-20231",
@@ -35048,32 +34996,6 @@
         "id": 418199179
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 1351,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-12-19T01:40:40+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 633,
-        "forks": 181,
-        "size": 55333,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-12-20T03:30:52+00:00",
-        "pushed": "2023-12-20T05:55:13+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_docs",
         "description": "Kendryte K230 SDK Docs",
         "owner": "kendryte",
@@ -35085,19 +35007,6 @@
         "pushed": "2023-12-20T03:26:05+00:00",
         "url": "https://github.com/kendryte/k230_docs",
         "id": 663411081
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9083,
-        "forks": 4730,
-        "size": 771295,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-20T06:52:53+00:00",
-        "pushed": "2023-12-20T05:26:19+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "rvos",
@@ -35113,15 +35022,119 @@
         "id": 606922823
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 633,
+        "forks": 181,
+        "size": 55340,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-12-20T10:19:50+00:00",
+        "pushed": "2023-12-21T03:57:11+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 89,
+        "forks": 25,
+        "size": 138167,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-12-19T16:26:00+00:00",
+        "pushed": "2023-12-20T20:17:50+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 456,
+        "forks": 134,
+        "size": 929,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2023-12-20T22:52:09+00:00",
+        "pushed": "2023-12-20T15:21:35+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9090,
+        "forks": 4732,
+        "size": 771329,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-21T05:59:21+00:00",
+        "pushed": "2023-12-21T06:28:04+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 13,
+        "forks": 1,
+        "size": 755984,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2023-11-02T00:08:46+00:00",
+        "pushed": "2023-12-20T14:29:37+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 7760,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-12-12T02:51:21+00:00",
+        "pushed": "2023-12-20T16:32:52+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "maixuandat.github.io",
+        "description": null,
+        "owner": "maixuandat08",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2023-12-21T06:44:30+00:00",
+        "updated": "2023-12-21T06:44:30+00:00",
+        "pushed": "2023-12-21T06:44:30+00:00",
+        "url": "https://github.com/maixuandat08/maixuandat.github.io",
+        "id": 734219855
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 1753,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2023-12-21T01:39:52+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 874,
+        "size": 972,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2023-12-20T01:16:53+00:00",
+        "pushed": "2023-12-21T01:35:59+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35131,10 +35144,10 @@
         "owner": "androidtrackers",
         "stars": 100,
         "forks": 34,
-        "size": 569036,
+        "size": 569039,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-12-18T20:20:26+00:00",
-        "pushed": "2023-12-19T12:24:05+00:00",
+        "pushed": "2023-12-20T12:20:40+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
