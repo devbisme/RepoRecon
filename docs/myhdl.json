@@ -4706,19 +4706,6 @@
         "id": 154458175
     },
     {
-        "repo": "MyHDL",
-        "description": null,
-        "owner": "sirampy",
-        "stars": 1,
-        "forks": 0,
-        "size": 12,
-        "created": "2023-11-14T19:50:35+00:00",
-        "updated": "2023-11-15T01:04:06+00:00",
-        "pushed": "2023-12-21T02:35:33+00:00",
-        "url": "https://github.com/sirampy/MyHDL",
-        "id": 718785748
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -4730,5 +4717,18 @@
         "pushed": "2023-12-21T19:05:45+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
+    },
+    {
+        "repo": "MyHDL",
+        "description": null,
+        "owner": "sirampy",
+        "stars": 1,
+        "forks": 0,
+        "size": 17,
+        "created": "2023-11-14T19:50:35+00:00",
+        "updated": "2023-11-15T01:04:06+00:00",
+        "pushed": "2023-12-22T15:50:05+00:00",
+        "url": "https://github.com/sirampy/MyHDL",
+        "id": 718785748
     }
 ]

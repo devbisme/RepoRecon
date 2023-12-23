@@ -34879,19 +34879,6 @@
         "id": 188584527
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 826,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-12-14T19:06:27+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "acpphint",
         "description": "A C++ variation on the serial and pthread HINT benchmarks, tailored to my use.",
         "owner": "markmi",
@@ -35009,19 +34996,6 @@
         "id": 663411081
     },
     {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 456,
-        "forks": 134,
-        "size": 929,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2023-12-20T22:52:09+00:00",
-        "pushed": "2023-12-20T15:21:35+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
-    },
-    {
         "repo": "vihal",
         "description": "Embedded Hardware Access Library",
         "owner": "nvitya",
@@ -35074,19 +35048,6 @@
         "id": 385102171
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9095,
-        "forks": 4733,
-        "size": 771339,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-22T04:15:27+00:00",
-        "pushed": "2023-12-22T03:58:25+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -35098,19 +35059,6 @@
         "pushed": "2023-12-21T16:53:40+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 6,
-        "forks": 1,
-        "size": 1363,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2023-12-21T16:30:57+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
     },
     {
         "repo": "awesome-stars",
@@ -35126,15 +35074,67 @@
         "id": 685317589
     },
     {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 458,
+        "forks": 135,
+        "size": 946,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2023-12-22T02:33:10+00:00",
+        "pushed": "2023-12-23T06:05:23+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9097,
+        "forks": 4736,
+        "size": 771339,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-23T03:59:14+00:00",
+        "pushed": "2023-12-23T07:00:23+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 6,
+        "forks": 1,
+        "size": 845,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-12-22T04:49:52+00:00",
+        "pushed": "2023-12-23T05:25:21+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 828,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2023-12-22T19:35:43+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1071,
+        "size": 1111,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2023-12-22T01:35:03+00:00",
+        "pushed": "2023-12-23T01:31:15+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35144,10 +35144,10 @@
         "owner": "androidtrackers",
         "stars": 101,
         "forks": 34,
-        "size": 569041,
+        "size": 569042,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-12-21T20:13:56+00:00",
-        "pushed": "2023-12-21T12:23:59+00:00",
+        "pushed": "2023-12-22T12:23:08+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
