@@ -33241,19 +33241,6 @@
         "id": 688172713
     },
     {
-        "repo": "OperatingSystemUbuntu",
-        "description": null,
-        "owner": "newstarming",
-        "stars": 0,
-        "forks": 0,
-        "size": 9824,
-        "created": "2023-09-07T11:12:26Z",
-        "updated": "2023-09-25T05:01:26Z",
-        "pushed": "2023-10-24T18:35:35Z",
-        "url": "https://github.com/newstarming/OperatingSystemUbuntu",
-        "id": 688444466
-    },
-    {
         "repo": "Four-axis-drone",
         "description": "\u56db\u8f74\u65e0\u4eba\u673a   \u4e3b\u63a7\u82af\u7247\uff1aSTM32F405RGT6   \u9640\u87ba\u4eea\uff1aMPU9250\u4e5d\u8f74\u9640\u87ba\u4eea\u3001\u5916\u63a5BMP280\u6c14\u538b\u8ba1\u7ec4\u621010\u8f74\uff08\u4e0d\u884c\u5c31\u7528\u516d\u8f74\uff09   \u673a\u67b6\uff1aF450\uff0845cm x 45cm\uff09   \u7535\u673a & \u87ba\u65cb\u6868 \uff1a2312A\uff08KV800\uff09\u642d\u914d 9450\u81ea\u9501\u87ba\u65cb\u6868   \u901a\u4fe1\uff1a4G\u6a21\u5757   \u5b9a\u4f4d\uff1aGPS\u6a21\u5757   \u7535\u6c60\uff1a3S\u30015200mah\u300135C   \u7535\u8c03\uff1a\u597d\u76c8\u7535\u8c03   \u89c6\u89c9\uff1aK210",
         "owner": "chunzhenda",
@@ -34762,19 +34749,6 @@
         "id": 616781373
     },
     {
-        "repo": "micropython-ulab",
-        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
-        "owner": "v923z",
-        "stars": 368,
-        "forks": 101,
-        "size": 3293,
-        "created": "2019-08-30T15:33:30+00:00",
-        "updated": "2023-12-11T20:04:39+00:00",
-        "pushed": "2023-12-12T18:45:22+00:00",
-        "url": "https://github.com/v923z/micropython-ulab",
-        "id": 205409848
-    },
-    {
         "repo": "iRoam-YoloK210",
         "description": null,
         "owner": "brucehacker66",
@@ -34983,19 +34957,6 @@
         "id": 734219855
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 89,
-        "forks": 25,
-        "size": 138168,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2023-12-19T16:26:00+00:00",
-        "pushed": "2023-12-21T16:52:43+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -35048,45 +35009,6 @@
         "id": 92336263
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 6,
-        "forks": 1,
-        "size": 926,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2023-12-24T05:07:36+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 635,
-        "forks": 182,
-        "size": 55315,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-12-25T02:41:33+00:00",
-        "pushed": "2023-12-25T07:03:18+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9105,
-        "forks": 4736,
-        "size": 771710,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-25T03:33:51+00:00",
-        "pushed": "2023-12-25T06:49:13+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux-installer",
         "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
         "owner": "selfcustody",
@@ -35113,15 +35035,80 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 636,
+        "forks": 182,
+        "size": 56811,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2023-12-26T03:26:58+00:00",
+        "pushed": "2023-12-26T05:57:42+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 90,
+        "forks": 25,
+        "size": 138168,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2023-12-22T23:59:55+00:00",
+        "pushed": "2023-12-25T18:13:20+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9108,
+        "forks": 4736,
+        "size": 781113,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-26T06:51:09+00:00",
+        "pushed": "2023-12-26T06:49:19+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "micropython-ulab",
+        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
+        "owner": "v923z",
+        "stars": 368,
+        "forks": 101,
+        "size": 3307,
+        "created": "2019-08-30T15:33:30+00:00",
+        "updated": "2023-12-11T20:04:39+00:00",
+        "pushed": "2023-12-25T09:56:16+00:00",
+        "url": "https://github.com/v923z/micropython-ulab",
+        "id": 205409848
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 6,
+        "forks": 1,
+        "size": 959,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-12-22T04:49:52+00:00",
+        "pushed": "2023-12-25T17:19:09+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 2733,
+        "size": 3136,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-12-25T01:40:31+00:00",
+        "pushed": "2023-12-26T01:37:16+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35131,10 +35118,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1311,
+        "size": 1412,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2023-12-25T01:37:11+00:00",
+        "pushed": "2023-12-26T01:33:27+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35144,10 +35131,10 @@
         "owner": "androidtrackers",
         "stars": 102,
         "forks": 34,
-        "size": 571735,
+        "size": 571737,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-12-24T09:10:04+00:00",
-        "pushed": "2023-12-24T12:21:41+00:00",
+        "pushed": "2023-12-25T12:23:29+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35157,11 +35144,24 @@
         "owner": "lupyuen",
         "stars": 21,
         "forks": 0,
-        "size": 346,
+        "size": 528,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2023-12-22T12:28:10+00:00",
-        "pushed": "2023-12-25T00:12:45+00:00",
+        "pushed": "2023-12-26T06:36:11+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "OperatingSystemUbuntu",
+        "description": null,
+        "owner": "newstarming",
+        "stars": 0,
+        "forks": 0,
+        "size": 10995,
+        "created": "2023-09-07T11:12:26+00:00",
+        "updated": "2023-09-25T05:01:26+00:00",
+        "pushed": "2023-12-25T09:28:44+00:00",
+        "url": "https://github.com/newstarming/OperatingSystemUbuntu",
+        "id": 688444466
     }
 ]
