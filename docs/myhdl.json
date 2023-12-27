@@ -4719,29 +4719,29 @@
         "id": 154458175
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 3,
-        "forks": 0,
-        "size": 898,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2023-12-12T09:00:40+00:00",
-        "pushed": "2023-12-25T00:09:47+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "syn-magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "khwong-c",
         "stars": 1,
         "forks": 0,
-        "size": 162,
+        "size": 100,
         "created": "2023-12-12T22:50:43+00:00",
         "updated": "2023-12-26T04:40:07+00:00",
-        "pushed": "2023-12-26T01:02:59+00:00",
+        "pushed": "2023-12-27T01:39:13+00:00",
         "url": "https://github.com/khwong-c/syn-magia",
         "id": 730892692
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 2,
+        "forks": 0,
+        "size": 937,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2023-12-26T02:23:50+00:00",
+        "pushed": "2023-12-26T18:43:36+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
