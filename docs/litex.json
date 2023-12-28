@@ -11232,19 +11232,6 @@
         "id": 629517604
     },
     {
-        "repo": "minze",
-        "description": "Minze Computer",
-        "owner": "machdyne",
-        "stars": 0,
-        "forks": 0,
-        "size": 1523,
-        "created": "2023-12-11T15:36:16+00:00",
-        "updated": "2023-12-11T16:03:13+00:00",
-        "pushed": "2023-12-11T17:30:11+00:00",
-        "url": "https://github.com/machdyne/minze",
-        "id": 730283249
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -11349,19 +11336,6 @@
         "id": 434342707
     },
     {
-        "repo": "MiSTeX-boards",
-        "description": "Core generation scripts for various FPGA boards",
-        "owner": "MiSTeX-devel",
-        "stars": 22,
-        "forks": 4,
-        "size": 637,
-        "created": "2023-03-04T08:03:05+00:00",
-        "updated": "2023-12-19T10:51:41+00:00",
-        "pushed": "2023-12-21T06:03:07+00:00",
-        "url": "https://github.com/MiSTeX-devel/MiSTeX-boards",
-        "id": 609452923
-    },
-    {
         "repo": "litex_reference_designs",
         "description": "Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.",
         "owner": "RapidSilicon",
@@ -11464,32 +11438,6 @@
         "pushed": "2023-12-23T10:13:03+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 19,
-        "forks": 10,
-        "size": 24465,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-12-12T09:42:59+00:00",
-        "pushed": "2023-12-23T14:44:47+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "SucreLA",
-        "description": "Open source Logic Analyzer based on LiteX SoC",
-        "owner": "fallen",
-        "stars": 1,
-        "forks": 0,
-        "size": 21,
-        "created": "2023-12-13T21:00:19+00:00",
-        "updated": "2023-12-24T01:17:00+00:00",
-        "pushed": "2023-12-24T00:58:59+00:00",
-        "url": "https://github.com/fallen/SucreLA",
-        "id": 731331266
     },
     {
         "repo": "github-trending",
@@ -11700,45 +11648,6 @@
         "id": 62586607
     },
     {
-        "repo": "litepcie_driver_win",
-        "description": "Windows Driver for the LitePCIe LiteX core",
-        "owner": "NateMeyer",
-        "stars": 5,
-        "forks": 1,
-        "size": 45,
-        "created": "2023-12-17T15:19:19+00:00",
-        "updated": "2023-12-26T03:47:49+00:00",
-        "pushed": "2023-12-26T02:29:46+00:00",
-        "url": "https://github.com/NateMeyer/litepcie_driver_win",
-        "id": 732706164
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 36839,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2023-12-26T01:07:42+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 560,
-        "forks": 52,
-        "size": 909,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-12-26T22:12:05+00:00",
-        "pushed": "2023-12-27T01:59:34+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11750,19 +11659,6 @@
         "pushed": "2023-12-27T02:11:51+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1074,
-        "forks": 162,
-        "size": 43316,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2023-12-23T05:47:19+00:00",
-        "pushed": "2023-12-27T05:35:28+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "fsic_asic",
@@ -11778,17 +11674,121 @@
         "id": 665787279
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 562,
+        "forks": 52,
+        "size": 909,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-12-27T15:34:14+00:00",
+        "pushed": "2023-12-28T01:51:01+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "MiSTeX-boards",
+        "description": "Core generation scripts for various FPGA boards",
+        "owner": "MiSTeX-devel",
+        "stars": 22,
+        "forks": 5,
+        "size": 637,
+        "created": "2023-03-04T08:03:05+00:00",
+        "updated": "2023-12-19T10:51:41+00:00",
+        "pushed": "2023-12-28T07:00:12+00:00",
+        "url": "https://github.com/MiSTeX-devel/MiSTeX-boards",
+        "id": 609452923
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 20,
+        "forks": 10,
+        "size": 24468,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-12-27T20:07:02+00:00",
+        "pushed": "2023-12-28T00:49:50+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1075,
+        "forks": 162,
+        "size": 43757,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2023-12-27T15:17:52+00:00",
+        "pushed": "2023-12-28T00:33:29+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "litepcie_driver_win",
+        "description": "Windows Driver for the LitePCIe LiteX core",
+        "owner": "NateMeyer",
+        "stars": 5,
+        "forks": 1,
+        "size": 51,
+        "created": "2023-12-17T15:19:19+00:00",
+        "updated": "2023-12-26T03:47:49+00:00",
+        "pushed": "2023-12-27T20:07:53+00:00",
+        "url": "https://github.com/NateMeyer/litepcie_driver_win",
+        "id": 732706164
+    },
+    {
         "repo": "litedram_p2",
         "description": null,
         "owner": "chinafpga",
         "stars": 0,
         "forks": 0,
-        "size": 980,
+        "size": 1004,
         "created": "2023-12-21T01:06:19+00:00",
         "updated": "2023-12-21T02:17:13+00:00",
-        "pushed": "2023-12-26T10:12:35+00:00",
+        "pushed": "2023-12-28T03:14:53+00:00",
         "url": "https://github.com/chinafpga/litedram_p2",
         "id": 734140077
+    },
+    {
+        "repo": "minze",
+        "description": "Minze Computer",
+        "owner": "machdyne",
+        "stars": 2,
+        "forks": 0,
+        "size": 1564,
+        "created": "2023-12-11T15:36:16+00:00",
+        "updated": "2023-12-19T15:14:13+00:00",
+        "pushed": "2023-12-27T20:22:02+00:00",
+        "url": "https://github.com/machdyne/minze",
+        "id": 730283249
+    },
+    {
+        "repo": "Mark1626",
+        "description": null,
+        "owner": "Mark1626",
+        "stars": 1,
+        "forks": 1,
+        "size": 16,
+        "created": "2020-08-07T13:16:17+00:00",
+        "updated": "2023-03-04T04:48:29+00:00",
+        "pushed": "2023-12-28T05:15:19+00:00",
+        "url": "https://github.com/Mark1626/Mark1626",
+        "id": 285833276
+    },
+    {
+        "repo": "SucreLA",
+        "description": "Open source Logic Analyzer based on LiteX SoC",
+        "owner": "fallen",
+        "stars": 1,
+        "forks": 0,
+        "size": 22,
+        "created": "2023-12-13T21:00:19+00:00",
+        "updated": "2023-12-24T01:17:00+00:00",
+        "pushed": "2023-12-27T13:41:48+00:00",
+        "url": "https://github.com/fallen/SucreLA",
+        "id": 731331266
     },
     {
         "repo": "nuttx-star64",
@@ -11799,7 +11799,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2023-12-27T00:13:06+00:00",
+        "pushed": "2023-12-28T00:11:46+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11809,12 +11809,25 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 891,
+        "size": 892,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-27T04:35:42+00:00",
+        "pushed": "2023-12-28T04:35:45+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 37301,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2023-12-28T00:57:31+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -11822,10 +11835,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 40740,
+        "size": 41146,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-27T03:20:29+00:00",
+        "pushed": "2023-12-28T03:20:17+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
