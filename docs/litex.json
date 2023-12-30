@@ -11128,19 +11128,6 @@
         "id": 696165186
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1139,
-        "forks": 161,
-        "size": 12764,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2023-12-12T01:45:08+00:00",
-        "pushed": "2023-12-11T10:46:28+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "riscv-isa-ci",
         "description": "CI/CD for RISC-V Cores",
         "owner": "JN513",
@@ -11583,19 +11570,6 @@
         "id": 665787279
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 20,
-        "forks": 10,
-        "size": 24468,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-12-27T20:07:02+00:00",
-        "pushed": "2023-12-28T00:49:50+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "litepcie_driver_win",
         "description": "Windows Driver for the LitePCIe LiteX core",
         "owner": "NateMeyer",
@@ -11672,45 +11646,6 @@
         "pushed": "2023-12-29T05:03:34+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 562,
-        "forks": 52,
-        "size": 909,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-12-27T15:34:14+00:00",
-        "pushed": "2023-12-29T01:46:24+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 430,
-        "forks": 108,
-        "size": 41601,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2023-12-24T20:13:06+00:00",
-        "pushed": "2023-12-29T02:09:37+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 40,
-        "forks": 14,
-        "size": 23130,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2023-12-07T09:12:56+00:00",
-        "pushed": "2023-12-28T22:22:18+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
     },
     {
         "repo": "MiSTeX-boards",
@@ -11804,19 +11739,6 @@
         "id": 730283249
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 18,
-        "forks": 1,
-        "size": 2507,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2023-12-29T00:10:40+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "circuitpython",
         "description": "Clone of Adafruit Circuitpython",
         "owner": "JeffersGlass",
@@ -11830,15 +11752,93 @@
         "id": 736742033
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 562,
+        "forks": 52,
+        "size": 909,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-12-27T15:34:14+00:00",
+        "pushed": "2023-12-30T01:53:31+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 430,
+        "forks": 108,
+        "size": 41601,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2023-12-24T20:13:06+00:00",
+        "pushed": "2023-12-30T02:11:50+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 40,
+        "forks": 14,
+        "size": 37832,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2023-12-07T09:12:56+00:00",
+        "pushed": "2023-12-29T21:34:24+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1158,
+        "forks": 162,
+        "size": 12769,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2023-12-27T01:50:17+00:00",
+        "pushed": "2023-12-29T21:39:11+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 21,
+        "forks": 10,
+        "size": 24508,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-12-29T18:06:35+00:00",
+        "pushed": "2023-12-29T12:20:53+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 18,
+        "forks": 1,
+        "size": 2507,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2023-10-29T15:55:28+00:00",
+        "pushed": "2023-12-30T00:12:04+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 893,
+        "size": 963,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-29T04:35:43+00:00",
+        "pushed": "2023-12-30T04:36:54+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11848,10 +11848,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 41548,
+        "size": 41951,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-29T03:20:35+00:00",
+        "pushed": "2023-12-30T03:20:06+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
