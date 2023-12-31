@@ -32838,19 +32838,6 @@
         "id": 677979511
     },
     {
-        "repo": "Personal_Assistant_Robot_TCC",
-        "description": null,
-        "owner": "thiagofcm",
-        "stars": 0,
-        "forks": 0,
-        "size": 42525,
-        "created": "2023-08-14T18:17:36Z",
-        "updated": "2023-10-14T16:11:44Z",
-        "pushed": "2023-10-14T17:12:10Z",
-        "url": "https://github.com/thiagofcm/Personal_Assistant_Robot_TCC",
-        "id": 678513389
-    },
-    {
         "repo": "LLMSpeculativeSampling",
         "description": "Fast inference from large lauguage models via speculative decoding",
         "owner": "feifeibear",
@@ -34658,19 +34645,6 @@
         "id": 706818428
     },
     {
-        "repo": "rCore-Tutorial-Book-v3",
-        "description": "A book about how to write  OS kernels in Rust easily.",
-        "owner": "rcore-os",
-        "stars": 1028,
-        "forks": 167,
-        "size": 97911,
-        "created": "2020-10-29T14:01:52+00:00",
-        "updated": "2023-12-14T06:27:45+00:00",
-        "pushed": "2023-12-13T11:03:11+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
-        "id": 308346100
-    },
-    {
         "repo": "marover",
         "description": "Maro small toy robot",
         "owner": "maroziza",
@@ -34827,19 +34801,6 @@
         "id": 476865621
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 828,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2023-12-22T19:35:43+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "platformio-vscode-ide",
         "description": "PlatformIO IDE for VSCode: The next generation integrated development environment for IoT",
         "owner": "platformio",
@@ -34931,19 +34892,6 @@
         "id": 385102171
     },
     {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 461,
-        "forks": 135,
-        "size": 1010,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2023-12-27T11:51:12+00:00",
-        "pushed": "2023-12-28T07:04:26+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
-    },
-    {
         "repo": "patch",
         "description": "Patches that add Embedded Go supported architectures to the reference Go compiler",
         "owner": "embeddedgo",
@@ -35007,19 +34955,6 @@
         "pushed": "2023-12-28T11:44:56+00:00",
         "url": "https://github.com/kendryte/k230_canmv",
         "id": 706052378
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9118,
-        "forks": 4739,
-        "size": 781290,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2023-12-29T07:12:30+00:00",
-        "pushed": "2023-12-29T07:05:55+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "k230_canmv_docs",
@@ -35113,19 +35048,6 @@
         "id": 709458177
     },
     {
-        "repo": "TG_SCID-20231",
-        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
-        "owner": "Dallana0107",
-        "stars": 0,
-        "forks": 0,
-        "size": 264557,
-        "created": "2023-09-13T23:19:24+00:00",
-        "updated": "2023-12-30T04:33:19+00:00",
-        "pushed": "2023-12-30T04:33:16+00:00",
-        "url": "https://github.com/Dallana0107/TG_SCID-20231",
-        "id": 691307904
-    },
-    {
         "repo": "k210-stm32c8t6",
         "description": null,
         "owner": "BRMBC",
@@ -35191,6 +35113,84 @@
         "id": 737003592
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9122,
+        "forks": 4739,
+        "size": 788443,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2023-12-30T12:45:42+00:00",
+        "pushed": "2023-12-30T14:06:00+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rCore-Tutorial-Book-v3",
+        "description": "A book about how to write  OS kernels in Rust easily.",
+        "owner": "rcore-os",
+        "stars": 1043,
+        "forks": 168,
+        "size": 98064,
+        "created": "2020-10-29T14:01:52+00:00",
+        "updated": "2023-12-31T06:37:54+00:00",
+        "pushed": "2023-12-31T03:28:27+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
+        "id": 308346100
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 465,
+        "forks": 135,
+        "size": 972,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2023-12-31T02:00:24+00:00",
+        "pushed": "2023-12-30T16:33:50+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "TG_SCID-20231",
+        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
+        "owner": "Dallana0107",
+        "stars": 0,
+        "forks": 0,
+        "size": 264537,
+        "created": "2023-09-13T23:19:24+00:00",
+        "updated": "2023-12-30T04:33:19+00:00",
+        "pushed": "2023-12-31T05:43:26+00:00",
+        "url": "https://github.com/Dallana0107/TG_SCID-20231",
+        "id": 691307904
+    },
+    {
+        "repo": "Personal_Assistant_Robot_TCC",
+        "description": "This project aims to build an intelligent Personal Assistant Robot capable of receiving voice commands and performing simple tasks, including following a specific person (Follow Mode), retrieving objects (Find Object Mode), and providing information (Info Mode)",
+        "owner": "thiagofcm",
+        "stars": 0,
+        "forks": 0,
+        "size": 42530,
+        "created": "2023-08-14T18:17:36+00:00",
+        "updated": "2023-12-12T12:41:33+00:00",
+        "pushed": "2023-12-30T16:18:18+00:00",
+        "url": "https://github.com/thiagofcm/Personal_Assistant_Robot_TCC",
+        "id": 678513389
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 831,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2023-12-30T16:02:27+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
@@ -35199,7 +35199,7 @@
         "size": 4524,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2023-12-30T01:36:33+00:00",
+        "pushed": "2023-12-31T01:41:47+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35209,10 +35209,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1758,
+        "size": 1861,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2023-12-30T01:32:44+00:00",
+        "pushed": "2023-12-31T01:40:34+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35222,10 +35222,10 @@
         "owner": "androidtrackers",
         "stars": 105,
         "forks": 34,
-        "size": 579385,
+        "size": 579386,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-12-28T02:17:40+00:00",
-        "pushed": "2023-12-29T12:21:05+00:00",
+        "pushed": "2023-12-30T12:21:43+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35238,7 +35238,7 @@
         "size": 577,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2023-12-22T12:28:10+00:00",
-        "pushed": "2023-12-30T00:13:13+00:00",
+        "pushed": "2023-12-31T00:14:20+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

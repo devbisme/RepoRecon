@@ -6071,19 +6071,6 @@
         "id": 425616502
     },
     {
-        "repo": "PipelineC-Graphics",
-        "description": "Graphics demos",
-        "owner": "JulianKemmerer",
-        "stars": 88,
-        "forks": 8,
-        "size": 5438,
-        "created": "2021-11-09T23:34:23Z",
-        "updated": "2023-10-31T01:12:52Z",
-        "pushed": "2023-10-29T20:33:51Z",
-        "url": "https://github.com/JulianKemmerer/PipelineC-Graphics",
-        "id": 426420528
-    },
-    {
         "repo": "dfu-runtime-soc",
         "description": "Example LiteX Soc that makes use of TinyUSB and Luna to create a runtime DFU device",
         "owner": "butterstick-fpga",
@@ -10023,19 +10010,6 @@
         "id": 670874444
     },
     {
-        "repo": "vivado-on-silicon-mac_with_vnc",
-        "description": "Based on https://github.com/ichi4096/vivado-on-silicon-mac Vivado tool launch with VNC connection",
-        "owner": "ValentiWorkLearning",
-        "stars": 3,
-        "forks": 0,
-        "size": 12,
-        "created": "2023-07-27T17:57:12Z",
-        "updated": "2023-08-18T11:45:29Z",
-        "pushed": "2023-09-03T22:06:09Z",
-        "url": "https://github.com/ValentiWorkLearning/vivado-on-silicon-mac_with_vnc",
-        "id": 671608288
-    },
-    {
         "repo": "SURP_2023_HybridAttestation",
         "description": "Summer Undergraduate Research 2023",
         "owner": "SteveZ-Cal",
@@ -11401,19 +11375,6 @@
         "id": 735426342
     },
     {
-        "repo": "NAF",
-        "description": "Network Attached FPGA",
-        "owner": "PietPtr",
-        "stars": 0,
-        "forks": 0,
-        "size": 43,
-        "created": "2023-12-03T15:34:31+00:00",
-        "updated": "2023-12-03T15:34:45+00:00",
-        "pushed": "2023-12-24T15:53:22+00:00",
-        "url": "https://github.com/PietPtr/NAF",
-        "id": 726850475
-    },
-    {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp/Miningcore/NOMP Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 VPS or Dedicated Servers",
         "owner": "goodthebest",
@@ -11752,19 +11713,6 @@
         "id": 736742033
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 562,
-        "forks": 52,
-        "size": 909,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2023-12-27T15:34:14+00:00",
-        "pushed": "2023-12-30T01:53:31+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11817,6 +11765,58 @@
         "id": 468027705
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 563,
+        "forks": 52,
+        "size": 909,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2023-12-31T06:42:15+00:00",
+        "pushed": "2023-12-31T01:53:36+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "PipelineC-Graphics",
+        "description": "Graphics demos",
+        "owner": "JulianKemmerer",
+        "stars": 88,
+        "forks": 8,
+        "size": 5498,
+        "created": "2021-11-09T23:34:23+00:00",
+        "updated": "2023-10-31T01:12:52+00:00",
+        "pushed": "2023-12-31T06:21:18+00:00",
+        "url": "https://github.com/JulianKemmerer/PipelineC-Graphics",
+        "id": 426420528
+    },
+    {
+        "repo": "vivado-on-silicon-mac_with_vnc",
+        "description": "Based on https://github.com/ichi4096/vivado-on-silicon-mac Vivado tool launch with VNC connection",
+        "owner": "ValentiWorkLearning",
+        "stars": 3,
+        "forks": 0,
+        "size": 5881,
+        "created": "2023-07-27T17:57:12+00:00",
+        "updated": "2023-08-18T11:45:29+00:00",
+        "pushed": "2023-12-31T00:40:50+00:00",
+        "url": "https://github.com/ValentiWorkLearning/vivado-on-silicon-mac_with_vnc",
+        "id": 671608288
+    },
+    {
+        "repo": "NAF",
+        "description": "Network Attached FPGA",
+        "owner": "PietPtr",
+        "stars": 0,
+        "forks": 0,
+        "size": 48,
+        "created": "2023-12-03T15:34:31+00:00",
+        "updated": "2023-12-03T15:34:45+00:00",
+        "pushed": "2023-12-30T15:59:53+00:00",
+        "url": "https://github.com/PietPtr/NAF",
+        "id": 726850475
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11825,7 +11825,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2023-12-30T00:12:04+00:00",
+        "pushed": "2023-12-31T00:13:07+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11835,10 +11835,10 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 963,
+        "size": 1033,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2023-12-30T04:36:54+00:00",
+        "pushed": "2023-12-31T04:35:33+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11848,10 +11848,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 41951,
+        "size": 42362,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2023-12-30T03:20:06+00:00",
+        "pushed": "2023-12-31T03:20:20+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
