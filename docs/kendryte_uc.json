@@ -34476,19 +34476,6 @@
         "id": 258544188
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 152,
-        "forks": 112,
-        "size": 250,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2023-12-03T10:03:49+00:00",
-        "pushed": "2023-12-09T03:30:26+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "AI-Chip",
         "description": "AI chip related information, including related companies, software and hardware, and related scientific research",
         "owner": "guantongpeng",
@@ -34853,19 +34840,6 @@
         "id": 221804737
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 637,
-        "forks": 182,
-        "size": 56879,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2023-12-28T09:09:19+00:00",
-        "pushed": "2023-12-29T05:04:55+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_sdk",
         "description": "Kendryte K230 SDK",
         "owner": "kendryte",
@@ -35139,19 +35113,6 @@
         "id": 146167925
     },
     {
-        "repo": "TG_SCID-20231",
-        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
-        "owner": "Dallana0107",
-        "stars": 0,
-        "forks": 0,
-        "size": 264541,
-        "created": "2023-09-13T23:19:24+00:00",
-        "updated": "2023-12-30T04:33:19+00:00",
-        "pushed": "2024-01-01T03:01:11+00:00",
-        "url": "https://github.com/Dallana0107/TG_SCID-20231",
-        "id": 691307904
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
         "owner": "RT-Thread",
@@ -35191,19 +35152,6 @@
         "id": 703057974
     },
     {
-        "repo": "MaiXF-blog-Manage",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 2479,
-        "created": "2023-12-29T13:52:11+00:00",
-        "updated": "2023-12-29T13:52:59+00:00",
-        "pushed": "2024-01-01T16:15:18+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
-        "id": 736998715
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
@@ -35217,15 +35165,80 @@
         "id": 685317589
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 635,
+        "forks": 182,
+        "size": 56885,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-01-02T16:42:17+00:00",
+        "pushed": "2024-01-03T07:08:52+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 156,
+        "forks": 111,
+        "size": 250,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-01-03T02:41:52+00:00",
+        "pushed": "2024-01-01T12:56:40+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "K230",
+        "description": "https://riscv-edu.cn/course/230",
+        "owner": "riscvedu",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-01-03T06:54:25+00:00",
+        "updated": "2024-01-03T06:54:25+00:00",
+        "pushed": "2024-01-03T06:54:25+00:00",
+        "url": "https://github.com/riscvedu/K230",
+        "id": 738409990
+    },
+    {
+        "repo": "TG_SCID-20231",
+        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
+        "owner": "Dallana0107",
+        "stars": 0,
+        "forks": 0,
+        "size": 264548,
+        "created": "2023-09-13T23:19:24+00:00",
+        "updated": "2023-12-30T04:33:19+00:00",
+        "pushed": "2024-01-03T03:15:30+00:00",
+        "url": "https://github.com/Dallana0107/TG_SCID-20231",
+        "id": 691307904
+    },
+    {
+        "repo": "MaiXF-blog-Manage",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 2481,
+        "created": "2023-12-29T13:52:11+00:00",
+        "updated": "2023-12-29T13:52:59+00:00",
+        "pushed": "2024-01-02T14:28:52+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
+        "id": 736998715
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2069,
+        "size": 2173,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-02T01:37:13+00:00",
+        "pushed": "2024-01-03T01:35:52+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35235,10 +35248,10 @@
         "owner": "androidtrackers",
         "stars": 105,
         "forks": 34,
-        "size": 579816,
+        "size": 582085,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2023-12-28T02:17:40+00:00",
-        "pushed": "2024-01-01T12:23:30+00:00",
+        "pushed": "2024-01-02T12:24:19+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35251,7 +35264,7 @@
         "size": 623,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-01T11:32:30+00:00",
-        "pushed": "2024-01-02T00:12:23+00:00",
+        "pushed": "2024-01-03T00:12:18+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
