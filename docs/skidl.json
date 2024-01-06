@@ -637,19 +637,6 @@
         "id": 322665340
     },
     {
-        "repo": "kle2netlist",
-        "description": "Keyboard's layout json to KiCad netlist",
-        "owner": "adamws",
-        "stars": 4,
-        "forks": 2,
-        "size": 178,
-        "created": "2021-01-15T16:44:11Z",
-        "updated": "2023-08-18T08:25:56Z",
-        "pushed": "2023-08-19T21:02:46Z",
-        "url": "https://github.com/adamws/kle2netlist",
-        "id": 329968778
-    },
-    {
         "repo": "SKIDL_DRV8434S",
         "description": null,
         "owner": "adliechty",
@@ -1311,5 +1298,18 @@
         "pushed": "2024-01-05T00:28:26+00:00",
         "url": "https://github.com/KarelPeeters/TCpu",
         "id": 737790436
+    },
+    {
+        "repo": "kle2netlist",
+        "description": "Keyboard's layout json to KiCad netlist",
+        "owner": "adamws",
+        "stars": 4,
+        "forks": 2,
+        "size": 178,
+        "created": "2021-01-15T16:44:11+00:00",
+        "updated": "2023-08-18T08:25:56+00:00",
+        "pushed": "2024-01-05T19:57:07+00:00",
+        "url": "https://github.com/adamws/kle2netlist",
+        "id": 329968778
     }
 ]
