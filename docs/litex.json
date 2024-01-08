@@ -11375,19 +11375,6 @@
         "id": 734140077
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 40,
-        "forks": 14,
-        "size": 37832,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2023-12-07T09:12:56+00:00",
-        "pushed": "2023-12-29T21:34:24+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -11490,19 +11477,6 @@
         "pushed": "2024-01-01T14:27:26+00:00",
         "url": "https://github.com/enjoy-digital/litedram",
         "id": 31147284
-    },
-    {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 183,
-        "forks": 78,
-        "size": 1309,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2023-12-13T09:56:25+00:00",
-        "pushed": "2024-01-01T14:27:42+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
     },
     {
         "repo": "litescope",
@@ -11687,32 +11661,6 @@
         "id": 330793471
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2520,
-        "forks": 502,
-        "size": 16551,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-01-05T00:33:43+00:00",
-        "pushed": "2024-01-04T18:43:50+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 324,
-        "forks": 256,
-        "size": 3887,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-01-04T13:07:37+00:00",
-        "pushed": "2024-01-04T17:29:43+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "caravel_mgmt_soc_litex",
         "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
         "owner": "efabless",
@@ -11804,19 +11752,6 @@
         "id": 267350664
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 567,
-        "forks": 52,
-        "size": 945,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-06T19:05:49+00:00",
-        "pushed": "2024-01-07T02:20:56+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11843,19 +11778,6 @@
         "id": 274442284
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 21,
-        "forks": 10,
-        "size": 24072,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-12-29T18:06:35+00:00",
-        "pushed": "2024-01-06T18:14:12+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "NAF",
         "description": "Network Attached FPGA",
         "owner": "PietPtr",
@@ -11869,15 +11791,93 @@
         "id": 726850475
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2527,
+        "forks": 502,
+        "size": 16551,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-01-07T18:11:37+00:00",
+        "pushed": "2024-01-08T06:29:02+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 324,
+        "forks": 256,
+        "size": 3868,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-01-04T13:07:37+00:00",
+        "pushed": "2024-01-07T22:23:04+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 184,
+        "forks": 79,
+        "size": 1309,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-01-05T09:23:05+00:00",
+        "pushed": "2024-01-08T06:26:37+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 567,
+        "forks": 52,
+        "size": 945,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-06T19:05:49+00:00",
+        "pushed": "2024-01-08T01:51:57+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 43,
+        "forks": 14,
+        "size": 37849,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-01-04T04:43:44+00:00",
+        "pushed": "2024-01-07T21:53:47+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 21,
+        "forks": 10,
+        "size": 24072,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-12-29T18:06:35+00:00",
+        "pushed": "2024-01-07T11:31:20+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1179,
+        "size": 1249,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2024-01-07T04:37:30+00:00",
+        "pushed": "2024-01-08T04:36:47+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11887,10 +11887,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 37882,
+        "size": 38297,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-07T03:20:25+00:00",
+        "pushed": "2024-01-08T03:21:23+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
