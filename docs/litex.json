@@ -1521,19 +1521,6 @@
         "id": 183391336
     },
     {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 486,
-        "forks": 158,
-        "size": 9718,
-        "created": "2019-04-25T08:36:15Z",
-        "updated": "2023-10-25T18:58:13Z",
-        "pushed": "2023-10-20T09:38:16Z",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
-    },
-    {
         "repo": "litexa",
         "description": "Language and toolchain for writing Alexa skills.",
         "owner": "alexa-games",
@@ -11076,19 +11063,6 @@
         "id": 730465360
     },
     {
-        "repo": "riscv-isa-ci",
-        "description": "CI/CD for RISC-V Cores",
-        "owner": "LSC-Unicamp",
-        "stars": 1,
-        "forks": 0,
-        "size": 933,
-        "created": "2023-12-11T22:52:11+00:00",
-        "updated": "2023-12-11T22:54:12+00:00",
-        "pushed": "2023-12-11T22:52:23+00:00",
-        "url": "https://github.com/LSC-Unicamp/riscv-isa-ci",
-        "id": 730429159
-    },
-    {
         "repo": "QSPI_PSRAM_ATLAS",
         "description": "A\u00f1adir 64Mbytes en un formato QSPI, el cual puede alcanzar un m\u00e1ximo te\u00f3rico de 104Mhz. 64Mbytes in a 256MbitsX2 Pseudo ram in QSPI Format.",
         "owner": "AtlasFPGA",
@@ -11308,19 +11282,6 @@
         "pushed": "2023-12-26T08:00:29+00:00",
         "url": "https://github.com/bol-edu/fsic_asic",
         "id": 665787279
-    },
-    {
-        "repo": "Mark1626",
-        "description": null,
-        "owner": "Mark1626",
-        "stars": 1,
-        "forks": 1,
-        "size": 16,
-        "created": "2020-08-07T13:16:17+00:00",
-        "updated": "2023-03-04T04:48:29+00:00",
-        "pushed": "2023-12-28T05:15:19+00:00",
-        "url": "https://github.com/Mark1626/Mark1626",
-        "id": 285833276
     },
     {
         "repo": "SucreLA",
@@ -11648,19 +11609,6 @@
         "id": 734370233
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 39418,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-01-04T01:08:14+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "caravel_mgmt_soc_litex",
         "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
         "owner": "efabless",
@@ -11713,19 +11661,6 @@
         "id": 227140568
     },
     {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1083,
-        "forks": 162,
-        "size": 43226,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-01-04T16:45:43+00:00",
-        "pushed": "2024-01-06T00:39:42+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
         "repo": "renode-models-analyzer",
         "description": null,
         "owner": "antmicro",
@@ -11737,45 +11672,6 @@
         "pushed": "2024-01-05T11:15:46+00:00",
         "url": "https://github.com/antmicro/renode-models-analyzer",
         "id": 659573875
-    },
-    {
-        "repo": "learn-fpga",
-        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
-        "owner": "BrunoLevy",
-        "stars": 2210,
-        "forks": 208,
-        "size": 239416,
-        "created": "2020-05-27T15:04:05+00:00",
-        "updated": "2024-01-06T23:18:29+00:00",
-        "pushed": "2024-01-07T06:59:18+00:00",
-        "url": "https://github.com/BrunoLevy/learn-fpga",
-        "id": 267350664
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 430,
-        "forks": 110,
-        "size": 41601,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-01-05T20:55:10+00:00",
-        "pushed": "2024-01-07T02:16:37+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1314,
-        "forks": 180,
-        "size": 201954,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-01-06T13:55:43+00:00",
-        "pushed": "2024-01-06T20:17:50+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "NAF",
@@ -11830,19 +11726,6 @@
         "id": 42048653
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 567,
-        "forks": 52,
-        "size": 945,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-06T19:05:49+00:00",
-        "pushed": "2024-01-08T01:51:57+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -11856,17 +11739,147 @@
         "id": 464657430
     },
     {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 509,
+        "forks": 162,
+        "size": 9718,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2024-01-09T02:34:51+00:00",
+        "pushed": "2024-01-07T22:28:19+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "learn-fpga",
+        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
+        "owner": "BrunoLevy",
+        "stars": 2210,
+        "forks": 208,
+        "size": 239548,
+        "created": "2020-05-27T15:04:05+00:00",
+        "updated": "2024-01-06T23:18:29+00:00",
+        "pushed": "2024-01-08T08:02:44+00:00",
+        "url": "https://github.com/BrunoLevy/learn-fpga",
+        "id": 267350664
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 567,
+        "forks": 52,
+        "size": 963,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-06T19:05:49+00:00",
+        "pushed": "2024-01-09T02:16:08+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 430,
+        "forks": 115,
+        "size": 41601,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-01-05T20:55:10+00:00",
+        "pushed": "2024-01-09T02:15:41+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1317,
+        "forks": 181,
+        "size": 202038,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-01-09T01:27:37+00:00",
+        "pushed": "2024-01-08T21:31:59+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
         "stars": 21,
         "forks": 10,
-        "size": 24072,
+        "size": 24233,
         "created": "2022-03-09T17:28:30+00:00",
         "updated": "2023-12-29T18:06:35+00:00",
-        "pushed": "2024-01-07T11:31:20+00:00",
+        "pushed": "2024-01-08T11:02:21+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1083,
+        "forks": 163,
+        "size": 43258,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-01-04T16:45:43+00:00",
+        "pushed": "2024-01-09T02:11:48+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "Mark1626",
+        "description": null,
+        "owner": "Mark1626",
+        "stars": 1,
+        "forks": 1,
+        "size": 17,
+        "created": "2020-08-07T13:16:17+00:00",
+        "updated": "2023-03-04T04:48:29+00:00",
+        "pushed": "2024-01-08T11:57:00+00:00",
+        "url": "https://github.com/Mark1626/Mark1626",
+        "id": 285833276
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": null,
+        "owner": "apollo65524532",
+        "stars": 0,
+        "forks": 0,
+        "size": 19434,
+        "created": "2024-01-08T09:03:29+00:00",
+        "updated": "2024-01-08T09:26:32+00:00",
+        "pushed": "2024-01-08T09:28:05+00:00",
+        "url": "https://github.com/apollo65524532/CFU-Playground",
+        "id": 740395651
+    },
+    {
+        "repo": "AAML-Final",
+        "description": null,
+        "owner": "rroykuo",
+        "stars": 0,
+        "forks": 0,
+        "size": 17151,
+        "created": "2024-01-09T00:02:23+00:00",
+        "updated": "2024-01-09T01:34:55+00:00",
+        "pushed": "2024-01-09T05:30:15+00:00",
+        "url": "https://github.com/rroykuo/AAML-Final",
+        "id": 740727805
+    },
+    {
+        "repo": "riscv-isa-ci",
+        "description": "CI/CD for RISC-V Cores",
+        "owner": "LSC-Unicamp",
+        "stars": 1,
+        "forks": 0,
+        "size": 942,
+        "created": "2023-12-11T22:52:11+00:00",
+        "updated": "2023-12-11T22:54:12+00:00",
+        "pushed": "2024-01-09T02:40:03+00:00",
+        "url": "https://github.com/LSC-Unicamp/riscv-isa-ci",
+        "id": 730429159
     },
     {
         "repo": "starred",
@@ -11874,12 +11887,25 @@
         "owner": "pbsds",
         "stars": 2,
         "forks": 0,
-        "size": 1249,
+        "size": 1319,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2024-01-08T04:36:47+00:00",
+        "pushed": "2024-01-09T04:36:17+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 40612,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2024-01-09T01:08:35+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -11887,10 +11913,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 38297,
+        "size": 38699,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-08T03:21:23+00:00",
+        "pushed": "2024-01-09T03:21:02+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
