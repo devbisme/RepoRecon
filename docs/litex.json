@@ -10686,19 +10686,6 @@
         "id": 581146705
     },
     {
-        "repo": "LITEXCNC-HUB75HAT",
-        "description": "A PCB that turns the Colorlight 5A-75B into an easy to use LinuxCNC motion controller",
-        "owner": "Peter-van-Tol",
-        "stars": 2,
-        "forks": 0,
-        "size": 14450,
-        "created": "2023-09-10T20:51:52+00:00",
-        "updated": "2023-11-08T22:40:47+00:00",
-        "pushed": "2023-11-19T22:06:29+00:00",
-        "url": "https://github.com/Peter-van-Tol/LITEXCNC-HUB75HAT",
-        "id": 689769411
-    },
-    {
         "repo": "LitExtract",
         "description": "Python-based project facilitates text extraction from PDFs formatted in article style. It must be tuned to the your targets, so please refer to the README.md.",
         "owner": "PariaNaghavi",
@@ -11167,19 +11154,6 @@
         "id": 505438688
     },
     {
-        "repo": "pogobot",
-        "description": "Pogobot is an open-source open-hardware robotic platform for swarm robotics",
-        "owner": "nekonaute",
-        "stars": 4,
-        "forks": 2,
-        "size": 99248,
-        "created": "2022-06-20T13:59:40+00:00",
-        "updated": "2023-11-24T17:29:37+00:00",
-        "pushed": "2023-12-21T15:06:52+00:00",
-        "url": "https://github.com/nekonaute/pogobot",
-        "id": 505464574
-    },
-    {
         "repo": "sanpy",
         "description": "Santiment API Python Client",
         "owner": "santiment",
@@ -11284,19 +11258,6 @@
         "id": 665787279
     },
     {
-        "repo": "SucreLA",
-        "description": "Open source Logic Analyzer based on LiteX SoC",
-        "owner": "fallen",
-        "stars": 1,
-        "forks": 0,
-        "size": 22,
-        "created": "2023-12-13T21:00:19+00:00",
-        "updated": "2023-12-24T01:17:00+00:00",
-        "pushed": "2023-12-27T13:41:48+00:00",
-        "url": "https://github.com/fallen/SucreLA",
-        "id": 731331266
-    },
-    {
         "repo": "MiSTeX-boards",
         "description": "Core generation scripts for various FPGA boards",
         "owner": "MiSTeX-devel",
@@ -11399,19 +11360,6 @@
         "pushed": "2023-12-31T08:10:45+00:00",
         "url": "https://github.com/machdyne/minze",
         "id": 730283249
-    },
-    {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 18,
-        "forks": 1,
-        "size": 2507,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2023-10-29T15:55:28+00:00",
-        "pushed": "2024-01-01T00:13:32+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
     },
     {
         "repo": "litepcie",
@@ -11687,32 +11635,6 @@
         "id": 726850475
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2527,
-        "forks": 502,
-        "size": 16551,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-01-07T18:11:37+00:00",
-        "pushed": "2024-01-08T06:29:02+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 324,
-        "forks": 256,
-        "size": 3868,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-01-04T13:07:37+00:00",
-        "pushed": "2024-01-07T22:23:04+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -11765,32 +11687,6 @@
         "id": 267350664
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 567,
-        "forks": 52,
-        "size": 963,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-06T19:05:49+00:00",
-        "pushed": "2024-01-09T02:16:08+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 430,
-        "forks": 115,
-        "size": 41601,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-01-05T20:55:10+00:00",
-        "pushed": "2024-01-09T02:15:41+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -11802,32 +11698,6 @@
         "pushed": "2024-01-08T21:31:59+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 21,
-        "forks": 10,
-        "size": 24233,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-12-29T18:06:35+00:00",
-        "pushed": "2024-01-08T11:02:21+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1083,
-        "forks": 163,
-        "size": 43258,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-01-04T16:45:43+00:00",
-        "pushed": "2024-01-09T02:11:48+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "Mark1626",
@@ -11882,19 +11752,6 @@
         "id": 730429159
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 1319,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2024-01-09T04:36:17+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -11908,15 +11765,158 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2529,
+        "forks": 502,
+        "size": 16546,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-01-09T22:06:09+00:00",
+        "pushed": "2024-01-09T13:16:04+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 325,
+        "forks": 257,
+        "size": 3868,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-01-08T14:12:50+00:00",
+        "pushed": "2024-01-09T13:19:33+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 567,
+        "forks": 52,
+        "size": 1012,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-06T19:05:49+00:00",
+        "pushed": "2024-01-10T01:59:25+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 430,
+        "forks": 117,
+        "size": 41601,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-01-05T20:55:10+00:00",
+        "pushed": "2024-01-10T02:15:56+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 21,
+        "forks": 10,
+        "size": 24235,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-12-29T18:06:35+00:00",
+        "pushed": "2024-01-09T22:16:49+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1084,
+        "forks": 163,
+        "size": 43468,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-01-09T13:49:57+00:00",
+        "pushed": "2024-01-10T02:14:19+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "pogobot",
+        "description": "Pogobot is an open-source open-hardware robotic platform for swarm robotics",
+        "owner": "nekonaute",
+        "stars": 4,
+        "forks": 2,
+        "size": 99258,
+        "created": "2022-06-20T13:59:40+00:00",
+        "updated": "2023-11-24T17:29:37+00:00",
+        "pushed": "2024-01-09T09:32:14+00:00",
+        "url": "https://github.com/nekonaute/pogobot",
+        "id": 505464574
+    },
+    {
+        "repo": "LITEXCNC-HUB75HAT",
+        "description": "A PCB that turns the Colorlight 5A-75B into an easy to use LinuxCNC motion controller",
+        "owner": "Peter-van-Tol",
+        "stars": 6,
+        "forks": 0,
+        "size": 15819,
+        "created": "2023-09-10T20:51:52+00:00",
+        "updated": "2024-01-02T08:35:56+00:00",
+        "pushed": "2024-01-09T22:22:41+00:00",
+        "url": "https://github.com/Peter-van-Tol/LITEXCNC-HUB75HAT",
+        "id": 689769411
+    },
+    {
+        "repo": "SucreLA",
+        "description": "Open source Logic Analyzer based on LiteX SoC",
+        "owner": "fallen",
+        "stars": 1,
+        "forks": 0,
+        "size": 24,
+        "created": "2023-12-13T21:00:19+00:00",
+        "updated": "2023-12-24T01:17:00+00:00",
+        "pushed": "2024-01-09T20:48:44+00:00",
+        "url": "https://github.com/fallen/SucreLA",
+        "id": 731331266
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 19,
+        "forks": 1,
+        "size": 2507,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-01-09T09:06:57+00:00",
+        "pushed": "2024-01-10T00:13:05+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 1321,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2024-01-10T04:37:00+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 38699,
+        "size": 39104,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-09T03:21:02+00:00",
+        "pushed": "2024-01-10T03:21:10+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
