@@ -1261,32 +1261,6 @@
         "id": 65847289
     },
     {
-        "repo": "TCpu",
-        "description": null,
-        "owner": "KarelPeeters",
-        "stars": 0,
-        "forks": 0,
-        "size": 35,
-        "created": "2024-01-01T14:10:27+00:00",
-        "updated": "2024-01-01T14:10:55+00:00",
-        "pushed": "2024-01-05T00:28:26+00:00",
-        "url": "https://github.com/KarelPeeters/TCpu",
-        "id": 737790436
-    },
-    {
-        "repo": "kle2netlist",
-        "description": "Keyboard's layout json to KiCad netlist",
-        "owner": "adamws",
-        "stars": 4,
-        "forks": 2,
-        "size": 178,
-        "created": "2021-01-15T16:44:11+00:00",
-        "updated": "2023-08-18T08:25:56+00:00",
-        "pushed": "2024-01-05T19:57:07+00:00",
-        "url": "https://github.com/adamws/kle2netlist",
-        "id": 329968778
-    },
-    {
         "repo": "skidlist",
         "description": "A list of all the biggest skids in the com.",
         "owner": "iusemeteor",
@@ -1311,5 +1285,31 @@
         "pushed": "2024-01-09T01:08:35+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
+    },
+    {
+        "repo": "kle2netlist",
+        "description": "Keyboard's layout json to KiCad netlist",
+        "owner": "adamws",
+        "stars": 4,
+        "forks": 2,
+        "size": 192,
+        "created": "2021-01-15T16:44:11+00:00",
+        "updated": "2023-08-18T08:25:56+00:00",
+        "pushed": "2024-01-10T22:47:00+00:00",
+        "url": "https://github.com/adamws/kle2netlist",
+        "id": 329968778
+    },
+    {
+        "repo": "TCpu",
+        "description": null,
+        "owner": "KarelPeeters",
+        "stars": 0,
+        "forks": 0,
+        "size": 54,
+        "created": "2024-01-01T14:10:27+00:00",
+        "updated": "2024-01-01T14:10:55+00:00",
+        "pushed": "2024-01-10T20:46:54+00:00",
+        "url": "https://github.com/KarelPeeters/TCpu",
+        "id": 737790436
     }
 ]
