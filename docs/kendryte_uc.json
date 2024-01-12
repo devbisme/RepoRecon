@@ -34684,19 +34684,6 @@
         "id": 221804737
     },
     {
-        "repo": "k230_sdk",
-        "description": "Kendryte K230 SDK",
-        "owner": "kendryte",
-        "stars": 87,
-        "forks": 20,
-        "size": 410251,
-        "created": "2023-07-07T05:53:35+00:00",
-        "updated": "2023-12-29T07:07:39+00:00",
-        "pushed": "2023-12-29T04:27:00+00:00",
-        "url": "https://github.com/kendryte/k230_sdk",
-        "id": 663357545
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -35217,19 +35204,6 @@
         "id": 385102171
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9165,
-        "forks": 4748,
-        "size": 787519,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-01-11T05:56:46+00:00",
-        "pushed": "2024-01-11T05:02:30+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -35254,19 +35228,6 @@
         "pushed": "2024-01-11T05:32:10+00:00",
         "url": "https://github.com/Richyeoh/k230",
         "id": 741787040
-    },
-    {
-        "repo": "TG_SCID-20231",
-        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
-        "owner": "Dallana0107",
-        "stars": 0,
-        "forks": 0,
-        "size": 272179,
-        "created": "2023-09-13T23:19:24+00:00",
-        "updated": "2024-01-08T00:39:30+00:00",
-        "pushed": "2024-01-10T14:38:31+00:00",
-        "url": "https://github.com/Dallana0107/TG_SCID-20231",
-        "id": 691307904
     },
     {
         "repo": "rvos",
@@ -35347,15 +35308,67 @@
         "id": 685317589
     },
     {
+        "repo": "k230_sdk",
+        "description": "Kendryte K230 SDK",
+        "owner": "kendryte",
+        "stars": 121,
+        "forks": 22,
+        "size": 426356,
+        "created": "2023-07-07T05:53:35+00:00",
+        "updated": "2024-01-09T06:14:29+00:00",
+        "pushed": "2024-01-12T03:04:26+00:00",
+        "url": "https://github.com/kendryte/k230_sdk",
+        "id": 663357545
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9172,
+        "forks": 4747,
+        "size": 787506,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-01-12T06:40:18+00:00",
+        "pushed": "2024-01-12T07:06:03+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "TG_SCID-20231",
+        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
+        "owner": "Dallana0107",
+        "stars": 0,
+        "forks": 0,
+        "size": 280157,
+        "created": "2023-09-13T23:19:24+00:00",
+        "updated": "2024-01-08T00:39:30+00:00",
+        "pushed": "2024-01-12T04:00:36+00:00",
+        "url": "https://github.com/Dallana0107/TG_SCID-20231",
+        "id": 691307904
+    },
+    {
+        "repo": "aXeleRate-Fix-req",
+        "description": null,
+        "owner": "AhernarVega",
+        "stars": 0,
+        "forks": 0,
+        "size": 1707,
+        "created": "2024-01-11T12:57:04+00:00",
+        "updated": "2024-01-11T13:23:05+00:00",
+        "pushed": "2024-01-11T13:23:01+00:00",
+        "url": "https://github.com/AhernarVega/aXeleRate-Fix-req",
+        "id": 741950080
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 669,
+        "size": 775,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-11T01:38:27+00:00",
+        "pushed": "2024-01-12T01:38:53+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35363,12 +35376,12 @@
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 107,
+        "stars": 108,
         "forks": 34,
-        "size": 584797,
+        "size": 587497,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-01-09T19:32:33+00:00",
-        "pushed": "2024-01-10T12:24:56+00:00",
+        "updated": "2024-01-12T04:34:43+00:00",
+        "pushed": "2024-01-11T12:25:22+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35378,10 +35391,10 @@
         "owner": "lupyuen",
         "stars": 25,
         "forks": 0,
-        "size": 623,
+        "size": 181,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-09T08:13:44+00:00",
-        "pushed": "2024-01-11T00:12:37+00:00",
+        "pushed": "2024-01-12T00:13:07+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

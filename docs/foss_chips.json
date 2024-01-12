@@ -32136,19 +32136,6 @@
         "id": 537583981
     },
     {
-        "repo": "openfasoc-tapeouts",
-        "description": "Tapeouts done using OpenFASOC",
-        "owner": "idea-fasoc",
-        "stars": 7,
-        "forks": 8,
-        "size": 60551,
-        "created": "2022-09-16T22:01:17Z",
-        "updated": "2023-08-09T03:50:57Z",
-        "pushed": "2023-08-11T01:12:53Z",
-        "url": "https://github.com/idea-fasoc/openfasoc-tapeouts",
-        "id": 537631823
-    },
-    {
         "repo": "skywater130",
         "description": "laygo2 technology setup for skywater130",
         "owner": "niftylab",
@@ -44094,19 +44081,6 @@
         "pushed": "2023-06-03T08:30:45Z",
         "url": "https://github.com/Gauravrvjoshi/openLANE_sky130_PD_workshop_day1",
         "id": 648142231
-    },
-    {
-        "repo": "tt03p5-solo-squash",
-        "description": "Experimental Tiny Tapeout TT03p5 sub: Minimal VGA game like Pong but for 1 lonely player",
-        "owner": "algofoogle",
-        "stars": 0,
-        "forks": 0,
-        "size": 1744,
-        "created": "2023-06-01T11:17:41Z",
-        "updated": "2023-06-01T12:50:22Z",
-        "pushed": "2023-06-04T03:30:05Z",
-        "url": "https://github.com/algofoogle/tt03p5-solo-squash",
-        "id": 648172545
     },
     {
         "repo": "tt03p5-power-test",
@@ -61854,19 +61828,6 @@
         "id": 739538515
     },
     {
-        "repo": "tt05-cordic",
-        "description": null,
-        "owner": "MayrMichael",
-        "stars": 0,
-        "forks": 0,
-        "size": 107,
-        "created": "2023-12-15T14:28:10+00:00",
-        "updated": "2024-01-05T22:27:34+00:00",
-        "pushed": "2024-01-05T22:27:29+00:00",
-        "url": "https://github.com/MayrMichael/tt05-cordic",
-        "id": 732055448
-    },
-    {
         "repo": "tt06-verilog-template",
         "description": "Submission template for Tiny Tapeout 06 - Verilog HDL Projects",
         "owner": "TinyTapeout",
@@ -61982,19 +61943,6 @@
         "pushed": "2024-01-07T20:35:17+00:00",
         "url": "https://github.com/dinakaran2805/cs6230",
         "id": 728375591
-    },
-    {
-        "repo": "OpenLane",
-        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1087,
-        "forks": 344,
-        "size": 873564,
-        "created": "2020-07-20T19:35:02+00:00",
-        "updated": "2024-01-08T00:17:54+00:00",
-        "pushed": "2024-01-09T01:11:00+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
-        "id": 281208911
     },
     {
         "repo": "LaneSegNet",
@@ -62127,19 +62075,6 @@
         "id": 654966534
     },
     {
-        "repo": "openlane-designs",
-        "description": "This repository contains openlane configuration and source files for tutorials that I created ",
-        "owner": "mbaykenar",
-        "stars": 1,
-        "forks": 0,
-        "size": 47,
-        "created": "2024-01-09T20:45:11+00:00",
-        "updated": "2024-01-10T05:21:10+00:00",
-        "pushed": "2024-01-09T21:00:56+00:00",
-        "url": "https://github.com/mbaykenar/openlane-designs",
-        "id": 741165809
-    },
-    {
         "repo": "openlane4",
         "description": null,
         "owner": "sathwikc82",
@@ -62218,32 +62153,6 @@
         "id": 69924695
     },
     {
-        "repo": "Transformer-in-Computer-Vision",
-        "description": "A paper list of some recent Transformer-based CV works.",
-        "owner": "Yangzhangcst",
-        "stars": 848,
-        "forks": 111,
-        "size": 7781,
-        "created": "2021-04-14T05:14:41+00:00",
-        "updated": "2024-01-09T02:53:20+00:00",
-        "pushed": "2024-01-10T02:35:48+00:00",
-        "url": "https://github.com/Yangzhangcst/Transformer-in-Computer-Vision",
-        "id": 357782288
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1083,
-        "forks": 406,
-        "size": 595007,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-01-11T06:12:01+00:00",
-        "pushed": "2024-01-11T00:23:11+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
         "repo": "caravel",
         "description": "Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.",
         "owner": "efabless",
@@ -62257,32 +62166,6 @@
         "id": 414716046
     },
     {
-        "repo": "open_pdks",
-        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
-        "owner": "RTimothyEdwards",
-        "stars": 223,
-        "forks": 81,
-        "size": 17741,
-        "created": "2020-07-05T19:46:38+00:00",
-        "updated": "2024-01-10T23:35:18+00:00",
-        "pushed": "2024-01-10T14:23:20+00:00",
-        "url": "https://github.com/RTimothyEdwards/open_pdks",
-        "id": 277372282
-    },
-    {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 95,
-        "forks": 10,
-        "size": 21878,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-01-04T12:33:09+00:00",
-        "pushed": "2024-01-10T21:00:34+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
         "repo": "volare",
         "description": "Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs",
         "owner": "efabless",
@@ -62294,32 +62177,6 @@
         "pushed": "2024-01-10T15:03:43+00:00",
         "url": "https://github.com/efabless/volare",
         "id": 471300183
-    },
-    {
-        "repo": "caravel_mgmt_soc_litex",
-        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
-        "owner": "efabless",
-        "stars": 24,
-        "forks": 17,
-        "size": 4652979,
-        "created": "2021-10-21T17:04:00+00:00",
-        "updated": "2023-10-18T02:22:41+00:00",
-        "pushed": "2024-01-10T11:41:10+00:00",
-        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
-        "id": 419809304
-    },
-    {
-        "repo": "OpenFASOC",
-        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
-        "owner": "idea-fasoc",
-        "stars": 186,
-        "forks": 73,
-        "size": 417702,
-        "created": "2021-03-24T16:30:14+00:00",
-        "updated": "2024-01-08T17:22:20+00:00",
-        "pushed": "2024-01-10T10:23:14+00:00",
-        "url": "https://github.com/idea-fasoc/OpenFASOC",
-        "id": 351150248
     },
     {
         "repo": "mpw6",
@@ -62346,19 +62203,6 @@
         "pushed": "2024-01-11T00:08:59+00:00",
         "url": "https://github.com/hdl/bazel_rules_hdl",
         "id": 318892320
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 704,
-        "forks": 77,
-        "size": 345710,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-01-10T16:03:28+00:00",
-        "pushed": "2024-01-11T00:08:59+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
     },
     {
         "repo": "MiWu",
@@ -62400,19 +62244,6 @@
         "id": 446207276
     },
     {
-        "repo": "DriveLM",
-        "description": "DriveLM: Driving with Graph Visual Question Answering",
-        "owner": "OpenDriveLab",
-        "stars": 469,
-        "forks": 14,
-        "size": 223660,
-        "created": "2023-08-08T12:07:33+00:00",
-        "updated": "2024-01-10T14:09:08+00:00",
-        "pushed": "2024-01-11T03:52:08+00:00",
-        "url": "https://github.com/OpenDriveLab/DriveLM",
-        "id": 676089005
-    },
-    {
         "repo": "zero_to_asic_mpw4",
         "description": null,
         "owner": "mattvenn",
@@ -62437,19 +62268,6 @@
         "pushed": "2024-01-11T00:37:50+00:00",
         "url": "https://github.com/theatomb/Elpis-Light-MPW3",
         "id": 422650017
-    },
-    {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 164,
-        "forks": 83,
-        "size": 34541,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2024-01-10T16:26:52+00:00",
-        "pushed": "2024-01-10T20:15:47+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
     },
     {
         "repo": "adder_test1",
@@ -62517,19 +62335,6 @@
         "id": 442417510
     },
     {
-        "repo": "megaboom",
-        "description": null,
-        "owner": "The-OpenROAD-Project",
-        "stars": 6,
-        "forks": 2,
-        "size": 4249,
-        "created": "2023-12-13T21:04:40+00:00",
-        "updated": "2024-01-05T03:03:27+00:00",
-        "pushed": "2024-01-11T06:58:54+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/megaboom",
-        "id": 731332420
-    },
-    {
         "repo": "stdcell-characterizer",
         "description": "Python-based electronic design automation (EDA) tool for characterizing digital standard cells designed in SKY130 PDK. The characterization process is based in the Synopsys Liberty User Guides and Reference Manual Suite - Version 2017.06",
         "owner": "nelzeg",
@@ -62595,19 +62400,6 @@
         "id": 441858591
     },
     {
-        "repo": "EF_UART",
-        "description": "Universal Asynchronous Receiver/Transmitter (UART) with FIFOs Soft IP",
-        "owner": "efabless",
-        "stars": 1,
-        "forks": 1,
-        "size": 159,
-        "created": "2023-04-23T18:59:59+00:00",
-        "updated": "2023-12-08T11:25:37+00:00",
-        "pushed": "2024-01-10T17:35:05+00:00",
-        "url": "https://github.com/efabless/EF_UART",
-        "id": 631674000
-    },
-    {
         "repo": "ASIC_Design_Flow",
         "description": "ASIC_LearnHub: Your gateway to mastering ASIC design! Explore curated resources and examples for learning ASIC workflows. Ideal for students and novice engineers. Join us at ASIC_LearnHub to turbocharge your journey into the exciting world of ASICs! \ud83d\ude80 #ASIC #LearnASIC",
         "owner": "ZAIN-ALI-02",
@@ -62660,19 +62452,6 @@
         "id": 638110012
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 2,
-        "forks": 0,
-        "size": 1322,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2024-01-11T04:36:52+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Awesome-Transformer-Attention",
         "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
         "owner": "cmhungsteve",
@@ -62684,19 +62463,6 @@
         "pushed": "2024-01-10T07:31:34+00:00",
         "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
         "id": 406653146
-    },
-    {
-        "repo": "finviz-git-scraper",
-        "description": "FinViz map of sectors and sub-sectors",
-        "owner": "fasiha",
-        "stars": 5,
-        "forks": 0,
-        "size": 91060,
-        "created": "2023-01-05T08:49:05+00:00",
-        "updated": "2023-12-29T11:11:49+00:00",
-        "pushed": "2024-01-10T23:57:20+00:00",
-        "url": "https://github.com/fasiha/finviz-git-scraper",
-        "id": 585468833
     },
     {
         "repo": "awesome-stars",
@@ -62712,15 +62478,301 @@
         "id": 685317589
     },
     {
+        "repo": "OpenLane",
+        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1091,
+        "forks": 344,
+        "size": 873564,
+        "created": "2020-07-20T19:35:02+00:00",
+        "updated": "2024-01-11T16:10:39+00:00",
+        "pushed": "2024-01-12T01:09:58+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
+        "id": 281208911
+    },
+    {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1083,
+        "forks": 406,
+        "size": 595821,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-01-11T19:47:02+00:00",
+        "pushed": "2024-01-12T03:25:07+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "open_pdks",
+        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
+        "owner": "RTimothyEdwards",
+        "stars": 224,
+        "forks": 81,
+        "size": 17741,
+        "created": "2020-07-05T19:46:38+00:00",
+        "updated": "2024-01-12T01:35:05+00:00",
+        "pushed": "2024-01-11T08:00:04+00:00",
+        "url": "https://github.com/RTimothyEdwards/open_pdks",
+        "id": 277372282
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 95,
+        "forks": 10,
+        "size": 21910,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-01-04T12:33:09+00:00",
+        "pushed": "2024-01-11T17:02:49+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "caravel_mgmt_soc_litex",
+        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
+        "owner": "efabless",
+        "stars": 24,
+        "forks": 17,
+        "size": 4704336,
+        "created": "2021-10-21T17:04:00+00:00",
+        "updated": "2023-10-18T02:22:41+00:00",
+        "pushed": "2024-01-11T13:09:53+00:00",
+        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
+        "id": 419809304
+    },
+    {
+        "repo": "OpenFASOC",
+        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
+        "owner": "idea-fasoc",
+        "stars": 186,
+        "forks": 73,
+        "size": 417702,
+        "created": "2021-03-24T16:30:14+00:00",
+        "updated": "2024-01-08T17:22:20+00:00",
+        "pushed": "2024-01-11T15:43:48+00:00",
+        "url": "https://github.com/idea-fasoc/OpenFASOC",
+        "id": 351150248
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 705,
+        "forks": 77,
+        "size": 345710,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-01-11T18:29:36+00:00",
+        "pushed": "2024-01-12T00:09:01+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "openfasoc-tapeouts",
+        "description": "Tapeouts done using OpenFASOC",
+        "owner": "idea-fasoc",
+        "stars": 7,
+        "forks": 10,
+        "size": 110626,
+        "created": "2022-09-16T22:01:17+00:00",
+        "updated": "2023-08-09T03:50:57+00:00",
+        "pushed": "2024-01-12T04:49:27+00:00",
+        "url": "https://github.com/idea-fasoc/openfasoc-tapeouts",
+        "id": 537631823
+    },
+    {
+        "repo": "DriveLM",
+        "description": "DriveLM: Driving with Graph Visual Question Answering",
+        "owner": "OpenDriveLab",
+        "stars": 470,
+        "forks": 14,
+        "size": 223660,
+        "created": "2023-08-08T12:07:33+00:00",
+        "updated": "2024-01-12T06:51:52+00:00",
+        "pushed": "2024-01-12T06:32:04+00:00",
+        "url": "https://github.com/OpenDriveLab/DriveLM",
+        "id": 676089005
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 165,
+        "forks": 83,
+        "size": 34559,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2024-01-11T11:18:05+00:00",
+        "pushed": "2024-01-12T06:42:04+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "openlane-designs",
+        "description": "This repository contains openlane configuration and source files for tutorials that I created ",
+        "owner": "mbaykenar",
+        "stars": 4,
+        "forks": 0,
+        "size": 55,
+        "created": "2024-01-09T20:45:11+00:00",
+        "updated": "2024-01-11T08:53:09+00:00",
+        "pushed": "2024-01-11T12:29:57+00:00",
+        "url": "https://github.com/mbaykenar/openlane-designs",
+        "id": 741165809
+    },
+    {
+        "repo": "SMERF",
+        "description": null,
+        "owner": "NVlabs",
+        "stars": 2,
+        "forks": 0,
+        "size": 4101,
+        "created": "2023-10-26T19:15:16+00:00",
+        "updated": "2024-01-12T04:07:27+00:00",
+        "pushed": "2024-01-12T01:27:09+00:00",
+        "url": "https://github.com/NVlabs/SMERF",
+        "id": 710476298
+    },
+    {
+        "repo": "CMOS-inverter-implementation-and-analysis-using-sky130pdk",
+        "description": "Design and Analysis of a CMOS Inverter utilizing the sky130 Process Design Kit (PDK) along with various open-source tools.",
+        "owner": "ipremranjan",
+        "stars": 0,
+        "forks": 0,
+        "size": 32,
+        "created": "2024-01-12T05:09:30+00:00",
+        "updated": "2024-01-12T05:09:31+00:00",
+        "pushed": "2024-01-12T05:28:08+00:00",
+        "url": "https://github.com/ipremranjan/CMOS-inverter-implementation-and-analysis-using-sky130pdk",
+        "id": 742266104
+    },
+    {
+        "repo": "EF_UART",
+        "description": "Universal Asynchronous Receiver/Transmitter (UART) with FIFOs Soft IP",
+        "owner": "efabless",
+        "stars": 2,
+        "forks": 1,
+        "size": 235,
+        "created": "2023-04-23T18:59:59+00:00",
+        "updated": "2024-01-11T18:52:24+00:00",
+        "pushed": "2024-01-11T18:09:27+00:00",
+        "url": "https://github.com/efabless/EF_UART",
+        "id": 631674000
+    },
+    {
+        "repo": "megaboom",
+        "description": null,
+        "owner": "The-OpenROAD-Project",
+        "stars": 7,
+        "forks": 2,
+        "size": 4259,
+        "created": "2023-12-13T21:04:40+00:00",
+        "updated": "2024-01-11T08:55:49+00:00",
+        "pushed": "2024-01-12T06:44:08+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/megaboom",
+        "id": 731332420
+    },
+    {
+        "repo": "iu-vlsi",
+        "description": "IUB ENGR-E-399/599 VLSI Course Material",
+        "owner": "tdloveless",
+        "stars": 0,
+        "forks": 0,
+        "size": 6209,
+        "created": "2024-01-06T13:40:37+00:00",
+        "updated": "2024-01-11T19:37:42+00:00",
+        "pushed": "2024-01-11T20:49:06+00:00",
+        "url": "https://github.com/tdloveless/iu-vlsi",
+        "id": 739767893
+    },
+    {
+        "repo": "tt05-cordic",
+        "description": null,
+        "owner": "MayrMichael",
+        "stars": 0,
+        "forks": 0,
+        "size": 116,
+        "created": "2023-12-15T14:28:10+00:00",
+        "updated": "2024-01-05T22:27:34+00:00",
+        "pushed": "2024-01-11T17:33:17+00:00",
+        "url": "https://github.com/MayrMichael/tt05-cordic",
+        "id": 732055448
+    },
+    {
+        "repo": "P-coryan",
+        "description": null,
+        "owner": "P-coryan",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2024-01-12T00:41:52+00:00",
+        "updated": "2024-01-12T00:41:52+00:00",
+        "pushed": "2024-01-12T00:58:44+00:00",
+        "url": "https://github.com/P-coryan/P-coryan",
+        "id": 742200548
+    },
+    {
+        "repo": "tt03p5-solo-squash",
+        "description": "Experimental Tiny Tapeout TT03p5 sub: Minimal VGA game like Pong but for 1 lonely player",
+        "owner": "algofoogle",
+        "stars": 0,
+        "forks": 0,
+        "size": 1750,
+        "created": "2023-06-01T11:17:41+00:00",
+        "updated": "2023-06-01T12:50:22+00:00",
+        "pushed": "2024-01-11T09:58:53+00:00",
+        "url": "https://github.com/algofoogle/tt03p5-solo-squash",
+        "id": 648172545
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 2,
+        "forks": 0,
+        "size": 1392,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2022-12-15T00:48:05+00:00",
+        "pushed": "2024-01-12T04:36:55+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Transformer-in-Computer-Vision",
+        "description": "A paper list of some recent Transformer-based CV works.",
+        "owner": "Yangzhangcst",
+        "stars": 851,
+        "forks": 110,
+        "size": 8488,
+        "created": "2021-04-14T05:14:41+00:00",
+        "updated": "2024-01-12T00:14:48+00:00",
+        "pushed": "2024-01-11T07:54:46+00:00",
+        "url": "https://github.com/Yangzhangcst/Transformer-in-Computer-Vision",
+        "id": 357782288
+    },
+    {
+        "repo": "finviz-git-scraper",
+        "description": "FinViz map of sectors and sub-sectors",
+        "owner": "fasiha",
+        "stars": 5,
+        "forks": 0,
+        "size": 91395,
+        "created": "2023-01-05T08:49:05+00:00",
+        "updated": "2023-12-29T11:11:49+00:00",
+        "pushed": "2024-01-11T23:57:24+00:00",
+        "url": "https://github.com/fasiha/finviz-git-scraper",
+        "id": 585468833
+    },
+    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "andgar2010",
         "stars": 6,
         "forks": 0,
-        "size": 20981,
+        "size": 21233,
         "created": "2020-11-09T02:22:44+00:00",
         "updated": "2023-12-28T14:27:26+00:00",
-        "pushed": "2024-01-11T00:50:26+00:00",
+        "pushed": "2024-01-12T00:50:27+00:00",
         "url": "https://github.com/andgar2010/awesome-stars",
         "id": 311201466
     }
