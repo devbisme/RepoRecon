@@ -5577,19 +5577,6 @@
         "id": 396735067
     },
     {
-        "repo": "DECA_board",
-        "description": "Documentation and tools related to DECA FPGA board",
-        "owner": "DECAfpga",
-        "stars": 17,
-        "forks": 8,
-        "size": 45304,
-        "created": "2021-08-16T22:32:10Z",
-        "updated": "2023-05-25T19:11:38Z",
-        "pushed": "2023-09-09T12:27:55Z",
-        "url": "https://github.com/DECAfpga/DECA_board",
-        "id": 396996938
-    },
-    {
         "repo": "qtile-config",
         "description": null,
         "owner": "ericreeves",
@@ -9438,19 +9425,6 @@
         "id": 632513400
     },
     {
-        "repo": "litepcie_ptm_test",
-        "description": "LitePCIe PTM support / test repo.",
-        "owner": "enjoy-digital",
-        "stars": 1,
-        "forks": 1,
-        "size": 1695,
-        "created": "2023-04-26T13:26:45Z",
-        "updated": "2023-10-26T12:39:44Z",
-        "pushed": "2023-10-26T12:32:34Z",
-        "url": "https://github.com/enjoy-digital/litepcie_ptm_test",
-        "id": 632955985
-    },
-    {
         "repo": "colorlight_reverse",
         "description": "Reverse engineering some colorlight LED receiver cards like the i9+ and i5a-907",
         "owner": "chmousset",
@@ -10738,19 +10712,6 @@
         "id": 723490838
     },
     {
-        "repo": "rust-litex-hal",
-        "description": "A Rust embedded HAL crate for LiteX cores",
-        "owner": "pepijndevos",
-        "stars": 21,
-        "forks": 5,
-        "size": 55,
-        "created": "2020-08-04T14:03:13+00:00",
-        "updated": "2023-09-28T14:23:15+00:00",
-        "pushed": "2023-11-27T06:41:39+00:00",
-        "url": "https://github.com/pepijndevos/rust-litex-hal",
-        "id": 284997809
-    },
-    {
         "repo": "edabk_litex",
         "description": null,
         "owner": "namnguyen269",
@@ -10853,19 +10814,6 @@
         "pushed": "2023-12-02T11:01:39+00:00",
         "url": "https://github.com/rdolbeau/NuBusFPGA",
         "id": 440426688
-    },
-    {
-        "repo": "appkit",
-        "description": "Android app boilerplate + image loader",
-        "owner": "grishka",
-        "stars": 38,
-        "forks": 17,
-        "size": 236,
-        "created": "2019-12-03T14:40:58+00:00",
-        "updated": "2023-09-28T16:12:38+00:00",
-        "pushed": "2023-12-04T18:32:55+00:00",
-        "url": "https://github.com/grishka/appkit",
-        "id": 225642630
     },
     {
         "repo": "module_i2s_fpgacolorloght5A-75E",
@@ -11074,19 +11022,6 @@
         "pushed": "2023-12-19T00:10:30+00:00",
         "url": "https://github.com/GustavsC/SPDM-Hardware-Implementation",
         "id": 724325307
-    },
-    {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 192,
-        "forks": 30,
-        "size": 3741,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2023-12-04T15:26:43+00:00",
-        "pushed": "2023-12-19T16:08:08+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
     },
     {
         "repo": "openfpga-litex",
@@ -11323,19 +11258,6 @@
         "id": 730283249
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 417,
-        "forks": 102,
-        "size": 1606,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2023-12-15T08:29:48+00:00",
-        "pushed": "2024-01-01T14:28:51+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "litescope",
         "description": "Small footprint and configurable embedded FPGA logic analyzer",
         "owner": "enjoy-digital",
@@ -11531,19 +11453,6 @@
         "id": 659573875
     },
     {
-        "repo": "NAF",
-        "description": "Network Attached FPGA",
-        "owner": "PietPtr",
-        "stars": 0,
-        "forks": 0,
-        "size": 61,
-        "created": "2023-12-03T15:34:31+00:00",
-        "updated": "2023-12-03T15:34:45+00:00",
-        "pushed": "2024-01-06T11:58:06+00:00",
-        "url": "https://github.com/PietPtr/NAF",
-        "id": 726850475
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -11648,19 +11557,6 @@
         "id": 730429159
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 40612,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-01-09T01:08:35+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "pogobot",
         "description": "Pogobot is an open-source open-hardware robotic platform for swarm robotics",
         "owner": "nekonaute",
@@ -11726,19 +11622,6 @@
         "id": 45734719
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 325,
-        "forks": 257,
-        "size": 3910,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-01-08T14:12:50+00:00",
-        "pushed": "2024-01-11T12:54:49+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -11750,32 +11633,6 @@
         "pushed": "2024-01-11T08:48:00+00:00",
         "url": "https://github.com/enjoy-digital/litedram",
         "id": 31147284
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 571,
-        "forks": 53,
-        "size": 1017,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-11T21:09:11+00:00",
-        "pushed": "2024-01-12T02:13:12+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 430,
-        "forks": 117,
-        "size": 41601,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-01-05T20:55:10+00:00",
-        "pushed": "2024-01-12T02:15:58+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
     },
     {
         "repo": "caravel_mgmt_soc_litex",
@@ -11791,58 +11648,6 @@
         "id": 419809304
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1324,
-        "forks": 182,
-        "size": 201975,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-01-11T15:11:39+00:00",
-        "pushed": "2024-01-11T19:44:51+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 21,
-        "forks": 10,
-        "size": 24760,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-12-29T18:06:35+00:00",
-        "pushed": "2024-01-11T19:26:18+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1085,
-        "forks": 163,
-        "size": 44056,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-01-11T10:57:32+00:00",
-        "pushed": "2024-01-12T01:10:01+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
-        "repo": "ljinux",
-        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
-        "owner": "bill88t",
-        "stars": 200,
-        "forks": 13,
-        "size": 10738,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-01-04T17:03:46+00:00",
-        "pushed": "2024-01-11T21:14:54+00:00",
-        "url": "https://github.com/bill88t/ljinux",
-        "id": 434342707
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -11854,19 +11659,6 @@
         "pushed": "2024-01-11T08:43:01+00:00",
         "url": "https://github.com/buncram/cram-soc",
         "id": 564480301
-    },
-    {
-        "repo": "LITEXCNC-HUB75HAT",
-        "description": "A PCB that turns the Colorlight 5A-75B into an easy to use LinuxCNC motion controller",
-        "owner": "Peter-van-Tol",
-        "stars": 6,
-        "forks": 0,
-        "size": 19859,
-        "created": "2023-09-10T20:51:52+00:00",
-        "updated": "2024-01-02T08:35:56+00:00",
-        "pushed": "2024-01-11T22:37:10+00:00",
-        "url": "https://github.com/Peter-van-Tol/LITEXCNC-HUB75HAT",
-        "id": 689769411
     },
     {
         "repo": "pythondata-cpu-naxriscv",
@@ -11882,17 +11674,225 @@
         "id": 460381371
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 325,
+        "forks": 257,
+        "size": 3910,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-01-08T14:12:50+00:00",
+        "pushed": "2024-01-13T07:41:18+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 418,
+        "forks": 102,
+        "size": 1614,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-01-12T08:17:46+00:00",
+        "pushed": "2024-01-12T14:41:50+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 571,
+        "forks": 53,
+        "size": 1100,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-11T21:09:11+00:00",
+        "pushed": "2024-01-14T02:03:51+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 431,
+        "forks": 118,
+        "size": 41601,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-01-12T22:01:53+00:00",
+        "pushed": "2024-01-14T02:16:52+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1324,
+        "forks": 182,
+        "size": 202004,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-01-14T01:32:00+00:00",
+        "pushed": "2024-01-13T22:10:58+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 204,
+        "forks": 30,
+        "size": 3742,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2024-01-12T13:01:56+00:00",
+        "pushed": "2024-01-11T09:51:39+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "rust-litex-hal",
+        "description": "A Rust embedded HAL crate for LiteX cores",
+        "owner": "pepijndevos",
+        "stars": 22,
+        "forks": 6,
+        "size": 50,
+        "created": "2020-08-04T14:03:13+00:00",
+        "updated": "2024-01-06T00:07:57+00:00",
+        "pushed": "2024-01-12T16:29:57+00:00",
+        "url": "https://github.com/pepijndevos/rust-litex-hal",
+        "id": 284997809
+    },
+    {
+        "repo": "DECA_board",
+        "description": "Documentation and tools related to DECA FPGA board",
+        "owner": "DECAfpga",
+        "stars": 19,
+        "forks": 8,
+        "size": 45305,
+        "created": "2021-08-16T22:32:10+00:00",
+        "updated": "2023-11-24T21:26:12+00:00",
+        "pushed": "2024-01-14T00:00:43+00:00",
+        "url": "https://github.com/DECAfpga/DECA_board",
+        "id": 396996938
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 21,
+        "forks": 10,
+        "size": 24761,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-12-29T18:06:35+00:00",
+        "pushed": "2024-01-12T16:30:55+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1084,
+        "forks": 163,
+        "size": 44372,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-01-12T14:48:33+00:00",
+        "pushed": "2024-01-13T00:05:47+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "ljinux",
+        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
+        "owner": "bill88t",
+        "stars": 200,
+        "forks": 13,
+        "size": 10773,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-01-04T17:03:46+00:00",
+        "pushed": "2024-01-14T03:14:35+00:00",
+        "url": "https://github.com/bill88t/ljinux",
+        "id": 434342707
+    },
+    {
+        "repo": "appkit",
+        "description": "Android app boilerplate + image loader",
+        "owner": "grishka",
+        "stars": 40,
+        "forks": 17,
+        "size": 238,
+        "created": "2019-12-03T14:40:58+00:00",
+        "updated": "2023-12-11T17:20:19+00:00",
+        "pushed": "2024-01-14T00:18:28+00:00",
+        "url": "https://github.com/grishka/appkit",
+        "id": 225642630
+    },
+    {
+        "repo": "LITEXCNC-HUB75HAT",
+        "description": "A PCB that turns the Colorlight 5A-75B into an easy to use LinuxCNC motion controller",
+        "owner": "Peter-van-Tol",
+        "stars": 6,
+        "forks": 0,
+        "size": 20478,
+        "created": "2023-09-10T20:51:52+00:00",
+        "updated": "2024-01-02T08:35:56+00:00",
+        "pushed": "2024-01-13T21:32:13+00:00",
+        "url": "https://github.com/Peter-van-Tol/LITEXCNC-HUB75HAT",
+        "id": 689769411
+    },
+    {
         "repo": "tock-litex",
         "description": "Companion repository to Tock on LiteX SoCs, containing the hardware build scripts, documentation and bitstreams",
         "owner": "lschuermann",
         "stars": 1,
         "forks": 1,
-        "size": 145,
+        "size": 146,
         "created": "2020-12-20T10:06:37+00:00",
         "updated": "2021-10-05T08:52:25+00:00",
-        "pushed": "2024-01-11T23:29:28+00:00",
+        "pushed": "2024-01-12T10:17:40+00:00",
         "url": "https://github.com/lschuermann/tock-litex",
         "id": 323041945
+    },
+    {
+        "repo": "NAF",
+        "description": "Network Attached FPGA",
+        "owner": "PietPtr",
+        "stars": 0,
+        "forks": 0,
+        "size": 63,
+        "created": "2023-12-03T15:34:31+00:00",
+        "updated": "2023-12-03T15:34:45+00:00",
+        "pushed": "2024-01-12T18:59:16+00:00",
+        "url": "https://github.com/PietPtr/NAF",
+        "id": 726850475
+    },
+    {
+        "repo": "litepcie_ptm_test",
+        "description": "LitePCIe PTM support / test repo.",
+        "owner": "enjoy-digital",
+        "stars": 3,
+        "forks": 1,
+        "size": 1695,
+        "created": "2023-04-26T13:26:45+00:00",
+        "updated": "2023-11-24T17:36:55+00:00",
+        "pushed": "2024-01-12T14:42:45+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie_ptm_test",
+        "id": 632955985
+    },
+    {
+        "repo": "zyp-amaranth-libs",
+        "description": null,
+        "owner": "zyp",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2024-01-13T19:43:41+00:00",
+        "updated": "2024-01-13T19:44:09+00:00",
+        "pushed": "2024-01-13T19:44:06+00:00",
+        "url": "https://github.com/zyp/zyp-amaranth-libs",
+        "id": 742930567
     },
     {
         "repo": "nuttx-star64",
@@ -11903,7 +11903,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-01-09T09:06:57+00:00",
-        "pushed": "2024-01-12T00:12:06+00:00",
+        "pushed": "2024-01-14T00:13:23+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11911,14 +11911,27 @@
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
-        "stars": 2,
+        "stars": 1,
         "forks": 0,
-        "size": 1392,
+        "size": 1395,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2022-12-15T00:48:05+00:00",
-        "pushed": "2024-01-12T04:36:55+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-01-14T04:35:56+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 41806,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2024-01-14T01:08:11+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -11926,10 +11939,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 39911,
+        "size": 40735,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-12T03:21:07+00:00",
+        "pushed": "2024-01-14T03:21:00+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

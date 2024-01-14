@@ -923,19 +923,6 @@
         "id": 36871843
     },
     {
-        "repo": "FPGA-Elevator-Project",
-        "description": null,
-        "owner": "gralco",
-        "stars": 1,
-        "forks": 3,
-        "size": 59149,
-        "created": "2015-06-15T04:52:45Z",
-        "updated": "2019-02-11T07:51:39Z",
-        "pushed": "2016-05-22T20:28:01Z",
-        "url": "https://github.com/gralco/FPGA-Elevator-Project",
-        "id": 37444250
-    },
-    {
         "repo": "FPNA",
         "description": "Impelementing neural networks in FPGAs",
         "owner": "abyssxsy",
@@ -4667,19 +4654,6 @@
         "id": 314673708
     },
     {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 45,
-        "forks": 9,
-        "size": 1416,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2023-11-10T14:23:12+00:00",
-        "pushed": "2024-01-05T21:38:40+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
         "repo": "notes",
         "description": null,
         "owner": "changcs",
@@ -4719,15 +4693,28 @@
         "id": 143520625
     },
     {
+        "repo": "FPGA-Elevator-Project",
+        "description": "FPGA Elevator Project",
+        "owner": "gralco",
+        "stars": 1,
+        "forks": 3,
+        "size": 59153,
+        "created": "2015-06-15T04:52:45+00:00",
+        "updated": "2024-01-13T00:19:25+00:00",
+        "pushed": "2024-01-13T00:16:01+00:00",
+        "url": "https://github.com/gralco/FPGA-Elevator-Project",
+        "id": 37444250
+    },
+    {
         "repo": "syn-magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "khwong-c",
-        "stars": 4,
-        "forks": 1,
-        "size": 197,
+        "stars": 5,
+        "forks": 2,
+        "size": 211,
         "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-11T03:25:50+00:00",
-        "pushed": "2024-01-11T12:14:06+00:00",
+        "updated": "2024-01-13T08:38:10+00:00",
+        "pushed": "2024-01-13T01:23:19+00:00",
         "url": "https://github.com/khwong-c/syn-magia",
         "id": 730892692
     },
@@ -4737,11 +4724,24 @@
         "owner": "bonfireprocessor",
         "stars": 0,
         "forks": 1,
-        "size": 243,
+        "size": 252,
         "created": "2019-08-03T22:11:34+00:00",
         "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-01-11T23:19:52+00:00",
+        "pushed": "2024-01-13T17:58:30+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 45,
+        "forks": 9,
+        "size": 1416,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2023-11-10T14:23:12+00:00",
+        "pushed": "2024-01-13T07:10:44+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
     }
 ]
