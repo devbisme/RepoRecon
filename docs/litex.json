@@ -11128,19 +11128,6 @@
         "id": 137700800
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "Collect useful and interesting tools or projects in embedded world and also share some hot news | \u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 242,
-        "forks": 32,
-        "size": 133524,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2023-12-24T18:36:36+00:00",
-        "pushed": "2023-12-24T12:46:05+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "fsic_asic",
         "description": null,
         "owner": "bol-edu",
@@ -11492,19 +11479,6 @@
         "id": 183392076
     },
     {
-        "repo": "learn-fpga",
-        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
-        "owner": "BrunoLevy",
-        "stars": 2210,
-        "forks": 208,
-        "size": 239548,
-        "created": "2020-05-27T15:04:05+00:00",
-        "updated": "2024-01-06T23:18:29+00:00",
-        "pushed": "2024-01-08T08:02:44+00:00",
-        "url": "https://github.com/BrunoLevy/learn-fpga",
-        "id": 267350664
-    },
-    {
         "repo": "Mark1626",
         "description": null,
         "owner": "Mark1626",
@@ -11529,19 +11503,6 @@
         "pushed": "2024-01-08T09:28:05+00:00",
         "url": "https://github.com/apollo65524532/CFU-Playground",
         "id": 740395651
-    },
-    {
-        "repo": "AAML-Final",
-        "description": null,
-        "owner": "rroykuo",
-        "stars": 0,
-        "forks": 0,
-        "size": 17151,
-        "created": "2024-01-09T00:02:23+00:00",
-        "updated": "2024-01-09T01:34:55+00:00",
-        "pushed": "2024-01-09T05:30:15+00:00",
-        "url": "https://github.com/rroykuo/AAML-Final",
-        "id": 740727805
     },
     {
         "repo": "riscv-isa-ci",
@@ -11674,19 +11635,6 @@
         "id": 460381371
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 325,
-        "forks": 257,
-        "size": 3910,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-01-08T14:12:50+00:00",
-        "pushed": "2024-01-13T07:41:18+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -11698,19 +11646,6 @@
         "pushed": "2024-01-12T14:41:50+00:00",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 571,
-        "forks": 53,
-        "size": 1100,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-11T21:09:11+00:00",
-        "pushed": "2024-01-14T02:03:51+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -11726,19 +11661,6 @@
         "id": 346151420
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1324,
-        "forks": 182,
-        "size": 202004,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-01-14T01:32:00+00:00",
-        "pushed": "2024-01-13T22:10:58+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -11752,19 +11674,6 @@
         "id": 413357087
     },
     {
-        "repo": "rust-litex-hal",
-        "description": "A Rust embedded HAL crate for LiteX cores",
-        "owner": "pepijndevos",
-        "stars": 22,
-        "forks": 6,
-        "size": 50,
-        "created": "2020-08-04T14:03:13+00:00",
-        "updated": "2024-01-06T00:07:57+00:00",
-        "pushed": "2024-01-12T16:29:57+00:00",
-        "url": "https://github.com/pepijndevos/rust-litex-hal",
-        "id": 284997809
-    },
-    {
         "repo": "DECA_board",
         "description": "Documentation and tools related to DECA FPGA board",
         "owner": "DECAfpga",
@@ -11776,19 +11685,6 @@
         "pushed": "2024-01-14T00:00:43+00:00",
         "url": "https://github.com/DECAfpga/DECA_board",
         "id": 396996938
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 21,
-        "forks": 10,
-        "size": 24761,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2023-12-29T18:06:35+00:00",
-        "pushed": "2024-01-12T16:30:55+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11856,19 +11752,6 @@
         "id": 323041945
     },
     {
-        "repo": "NAF",
-        "description": "Network Attached FPGA",
-        "owner": "PietPtr",
-        "stars": 0,
-        "forks": 0,
-        "size": 63,
-        "created": "2023-12-03T15:34:31+00:00",
-        "updated": "2023-12-03T15:34:45+00:00",
-        "pushed": "2024-01-12T18:59:16+00:00",
-        "url": "https://github.com/PietPtr/NAF",
-        "id": 726850475
-    },
-    {
         "repo": "litepcie_ptm_test",
         "description": "LitePCIe PTM support / test repo.",
         "owner": "enjoy-digital",
@@ -11895,32 +11778,6 @@
         "id": 742930567
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 19,
-        "forks": 1,
-        "size": 2507,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-01-09T09:06:57+00:00",
-        "pushed": "2024-01-14T00:13:23+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1395,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-01-14T04:35:56+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -11934,15 +11791,158 @@
         "id": 330793471
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 325,
+        "forks": 257,
+        "size": 3810,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-01-14T10:46:50+00:00",
+        "pushed": "2024-01-14T10:24:23+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "learn-fpga",
+        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
+        "owner": "BrunoLevy",
+        "stars": 2218,
+        "forks": 208,
+        "size": 239555,
+        "created": "2020-05-27T15:04:05+00:00",
+        "updated": "2024-01-14T20:34:28+00:00",
+        "pushed": "2024-01-15T06:42:17+00:00",
+        "url": "https://github.com/BrunoLevy/learn-fpga",
+        "id": 267350664
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 572,
+        "forks": 53,
+        "size": 1100,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-15T03:21:57+00:00",
+        "pushed": "2024-01-15T02:02:22+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1325,
+        "forks": 183,
+        "size": 202051,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-01-14T16:31:58+00:00",
+        "pushed": "2024-01-14T19:23:33+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "rust-litex-hal",
+        "description": "A Rust embedded HAL crate for LiteX cores",
+        "owner": "pepijndevos",
+        "stars": 22,
+        "forks": 6,
+        "size": 55,
+        "created": "2020-08-04T14:03:13+00:00",
+        "updated": "2024-01-06T00:07:57+00:00",
+        "pushed": "2024-01-15T02:07:06+00:00",
+        "url": "https://github.com/pepijndevos/rust-litex-hal",
+        "id": 284997809
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 21,
+        "forks": 10,
+        "size": 24761,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2023-12-29T18:06:35+00:00",
+        "pushed": "2024-01-15T00:02:03+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "NAF",
+        "description": "Network Attached FPGA",
+        "owner": "PietPtr",
+        "stars": 0,
+        "forks": 0,
+        "size": 68,
+        "created": "2023-12-03T15:34:31+00:00",
+        "updated": "2023-12-03T15:34:45+00:00",
+        "pushed": "2024-01-14T18:45:10+00:00",
+        "url": "https://github.com/PietPtr/NAF",
+        "id": 726850475
+    },
+    {
+        "repo": "AAML-Final",
+        "description": null,
+        "owner": "rroykuo",
+        "stars": 0,
+        "forks": 0,
+        "size": 17145,
+        "created": "2024-01-09T00:02:23+00:00",
+        "updated": "2024-01-09T01:34:55+00:00",
+        "pushed": "2024-01-14T14:29:57+00:00",
+        "url": "https://github.com/rroykuo/AAML-Final",
+        "id": 740727805
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "Collect useful and interesting tools or projects in embedded world and also share some hot news | \u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 248,
+        "forks": 32,
+        "size": 137122,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-01-13T10:27:51+00:00",
+        "pushed": "2024-01-15T01:31:02+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 19,
+        "forks": 1,
+        "size": 2507,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-01-09T09:06:57+00:00",
+        "pushed": "2024-01-15T00:15:43+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1396,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-01-15T04:37:17+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 40735,
+        "size": 41140,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-14T03:21:00+00:00",
+        "pushed": "2024-01-15T03:21:41+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

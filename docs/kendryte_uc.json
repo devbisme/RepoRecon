@@ -34957,19 +34957,6 @@
         "id": 319536534
     },
     {
-        "repo": "rp2040comb",
-        "description": "QSPI Flash inspection tools for rp2040 based devices ",
-        "owner": "jdlcdl",
-        "stars": 0,
-        "forks": 0,
-        "size": 3,
-        "created": "2024-01-05T18:13:39+00:00",
-        "updated": "2024-01-05T18:17:31+00:00",
-        "pushed": "2024-01-05T18:17:27+00:00",
-        "url": "https://github.com/jdlcdl/rp2040comb",
-        "id": 739504235
-    },
-    {
         "repo": "IoT-Maixduino",
         "description": null,
         "owner": "newmonkeybusinessman",
@@ -35165,19 +35152,6 @@
         "id": 188584527
     },
     {
-        "repo": "k230_sdk",
-        "description": "Kendryte K230 SDK",
-        "owner": "kendryte",
-        "stars": 121,
-        "forks": 22,
-        "size": 426356,
-        "created": "2023-07-07T05:53:35+00:00",
-        "updated": "2024-01-09T06:14:29+00:00",
-        "pushed": "2024-01-12T03:04:26+00:00",
-        "url": "https://github.com/kendryte/k230_sdk",
-        "id": 663357545
-    },
-    {
         "repo": "aXeleRate-Fix-req",
         "description": null,
         "owner": "AhernarVega",
@@ -35215,19 +35189,6 @@
         "pushed": "2024-01-13T20:27:21+00:00",
         "url": "https://github.com/selfcustody/krux",
         "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9173,
-        "forks": 4746,
-        "size": 788669,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-01-14T04:34:29+00:00",
-        "pushed": "2024-01-13T15:01:55+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "opencv_zoo",
@@ -35373,15 +35334,54 @@
         "id": 685317589
     },
     {
+        "repo": "k230_sdk",
+        "description": "Kendryte K230 SDK",
+        "owner": "kendryte",
+        "stars": 121,
+        "forks": 23,
+        "size": 426356,
+        "created": "2023-07-07T05:53:35+00:00",
+        "updated": "2024-01-09T06:14:29+00:00",
+        "pushed": "2024-01-15T05:40:41+00:00",
+        "url": "https://github.com/kendryte/k230_sdk",
+        "id": 663357545
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9181,
+        "forks": 4746,
+        "size": 788669,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-01-15T06:56:34+00:00",
+        "pushed": "2024-01-15T01:53:04+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rp2040comb",
+        "description": "QSPI Flash inspection tools for rp2040 based devices ",
+        "owner": "jdlcdl",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2024-01-05T18:13:39+00:00",
+        "updated": "2024-01-05T18:17:31+00:00",
+        "pushed": "2024-01-14T20:21:58+00:00",
+        "url": "https://github.com/jdlcdl/rp2040comb",
+        "id": 739504235
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 988,
+        "size": 1094,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-14T01:43:58+00:00",
+        "pushed": "2024-01-15T01:41:30+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35394,7 +35394,7 @@
         "size": 587501,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-12T04:34:43+00:00",
-        "pushed": "2024-01-13T12:22:56+00:00",
+        "pushed": "2024-01-14T12:22:26+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35407,7 +35407,7 @@
         "size": 227,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-12T14:47:10+00:00",
-        "pushed": "2024-01-14T00:14:48+00:00",
+        "pushed": "2024-01-15T00:13:21+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

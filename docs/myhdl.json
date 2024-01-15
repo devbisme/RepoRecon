@@ -4628,19 +4628,6 @@
         "id": 718785748
     },
     {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 4,
-        "forks": 1,
-        "size": 4212,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2023-05-28T02:41:24+00:00",
-        "pushed": "2023-12-25T01:32:03+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -4680,32 +4667,6 @@
         "id": 328467543
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 33,
-        "forks": 23,
-        "size": 41348,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2023-12-31T19:38:30+00:00",
-        "pushed": "2024-01-08T12:50:54+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
-        "repo": "FPGA-Elevator-Project",
-        "description": "FPGA Elevator Project",
-        "owner": "gralco",
-        "stars": 1,
-        "forks": 3,
-        "size": 59153,
-        "created": "2015-06-15T04:52:45+00:00",
-        "updated": "2024-01-13T00:19:25+00:00",
-        "pushed": "2024-01-13T00:16:01+00:00",
-        "url": "https://github.com/gralco/FPGA-Elevator-Project",
-        "id": 37444250
-    },
-    {
         "repo": "syn-magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "khwong-c",
@@ -4719,19 +4680,6 @@
         "id": 730892692
     },
     {
-        "repo": "bonfire-core",
-        "description": null,
-        "owner": "bonfireprocessor",
-        "stars": 0,
-        "forks": 1,
-        "size": 252,
-        "created": "2019-08-03T22:11:34+00:00",
-        "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-01-13T17:58:30+00:00",
-        "url": "https://github.com/bonfireprocessor/bonfire-core",
-        "id": 200425308
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -4743,5 +4691,57 @@
         "pushed": "2024-01-13T07:10:44+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 34,
+        "forks": 23,
+        "size": 41354,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-01-09T18:25:22+00:00",
+        "pushed": "2024-01-14T12:41:49+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "FPGA-Elevator-Project",
+        "description": "FPGA Elevator Project",
+        "owner": "gralco",
+        "stars": 1,
+        "forks": 3,
+        "size": 59210,
+        "created": "2015-06-15T04:52:45+00:00",
+        "updated": "2024-01-14T20:47:10+00:00",
+        "pushed": "2024-01-15T00:13:53+00:00",
+        "url": "https://github.com/gralco/FPGA-Elevator-Project",
+        "id": 37444250
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 4,
+        "forks": 1,
+        "size": 4273,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2023-05-28T02:41:24+00:00",
+        "pushed": "2024-01-14T12:49:50+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
+    },
+    {
+        "repo": "bonfire-core",
+        "description": null,
+        "owner": "bonfireprocessor",
+        "stars": 0,
+        "forks": 1,
+        "size": 255,
+        "created": "2019-08-03T22:11:34+00:00",
+        "updated": "2023-06-30T12:55:24+00:00",
+        "pushed": "2024-01-14T19:00:24+00:00",
+        "url": "https://github.com/bonfireprocessor/bonfire-core",
+        "id": 200425308
     }
 ]
