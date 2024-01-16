@@ -34541,19 +34541,6 @@
         "id": 350216225
     },
     {
-        "repo": "cmake4eclipse",
-        "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
-        "owner": "15knots",
-        "stars": 84,
-        "forks": 25,
-        "size": 1915,
-        "created": "2015-03-18T20:10:43+00:00",
-        "updated": "2023-10-31T02:21:09+00:00",
-        "pushed": "2023-12-16T14:50:34+00:00",
-        "url": "https://github.com/15knots/cmake4eclipse",
-        "id": 32481601
-    },
-    {
         "repo": "archives",
         "description": "My cloud storage",
         "owner": "steward-fu",
@@ -35048,19 +35035,6 @@
         "id": 476865621
     },
     {
-        "repo": "bookmarks",
-        "description": "Sreedev's Web Browser Bookmarks",
-        "owner": "sreedevk",
-        "stars": 5,
-        "forks": 0,
-        "size": 2192,
-        "created": "2021-10-17T17:03:46+00:00",
-        "updated": "2023-11-12T14:16:51+00:00",
-        "pushed": "2024-01-10T03:50:00+00:00",
-        "url": "https://github.com/sreedevk/bookmarks",
-        "id": 418199179
-    },
-    {
         "repo": "nncase",
         "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
         "owner": "kendryte",
@@ -35072,19 +35046,6 @@
         "pushed": "2024-01-11T03:20:52+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1313,
-        "forks": 384,
-        "size": 46395,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-01-10T06:17:54+00:00",
-        "pushed": "2024-01-10T15:35:05+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
     },
     {
         "repo": "k230",
@@ -35178,19 +35139,6 @@
         "id": 663411081
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 96,
-        "forks": 25,
-        "size": 138181,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-01-10T21:40:17+00:00",
-        "pushed": "2024-01-13T20:27:21+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -35269,19 +35217,6 @@
         "id": 742732677
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 1,
-        "forks": 2,
-        "size": 1444,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2024-01-12T18:33:42+00:00",
-        "pushed": "2024-01-12T13:20:11+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "MaiXF-blog-admin",
         "description": null,
         "owner": "ttizzyf",
@@ -35347,19 +35282,6 @@
         "id": 663357545
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9181,
-        "forks": 4746,
-        "size": 788669,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-01-15T06:56:34+00:00",
-        "pushed": "2024-01-15T01:53:04+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rp2040comb",
         "description": "QSPI Flash inspection tools for rp2040 based devices ",
         "owner": "jdlcdl",
@@ -35373,15 +35295,106 @@
         "id": 739504235
     },
     {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1318,
+        "forks": 384,
+        "size": 46395,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-01-16T06:00:39+00:00",
+        "pushed": "2024-01-15T16:50:48+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 96,
+        "forks": 25,
+        "size": 138194,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-01-10T21:40:17+00:00",
+        "pushed": "2024-01-15T18:20:14+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "cmake4eclipse",
+        "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
+        "owner": "15knots",
+        "stars": 85,
+        "forks": 25,
+        "size": 1972,
+        "created": "2015-03-18T20:10:43+00:00",
+        "updated": "2023-12-21T11:47:18+00:00",
+        "pushed": "2024-01-15T20:53:36+00:00",
+        "url": "https://github.com/15knots/cmake4eclipse",
+        "id": 32481601
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9185,
+        "forks": 4746,
+        "size": 788772,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-01-16T05:53:23+00:00",
+        "pushed": "2024-01-16T06:01:19+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "TinyML_On_MicroControllers_Demo",
+        "description": null,
+        "owner": "mllite",
+        "stars": 0,
+        "forks": 0,
+        "size": 155102,
+        "created": "2024-01-15T07:23:22+00:00",
+        "updated": "2024-01-15T09:20:14+00:00",
+        "pushed": "2024-01-15T17:07:01+00:00",
+        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
+        "id": 743412749
+    },
+    {
+        "repo": "bookmarks",
+        "description": "Sreedev's Web Browser Bookmarks",
+        "owner": "sreedevk",
+        "stars": 5,
+        "forks": 0,
+        "size": 2264,
+        "created": "2021-10-17T17:03:46+00:00",
+        "updated": "2023-11-12T14:16:51+00:00",
+        "pushed": "2024-01-16T00:59:12+00:00",
+        "url": "https://github.com/sreedevk/bookmarks",
+        "id": 418199179
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 1,
+        "forks": 2,
+        "size": 1470,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2024-01-12T18:33:42+00:00",
+        "pushed": "2024-01-15T16:19:16+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1094,
+        "size": 1201,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-15T01:41:30+00:00",
+        "pushed": "2024-01-16T01:38:23+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35390,11 +35403,11 @@
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 108,
-        "forks": 34,
-        "size": 587501,
+        "forks": 35,
+        "size": 590202,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-12T04:34:43+00:00",
-        "pushed": "2024-01-14T12:22:26+00:00",
+        "pushed": "2024-01-15T12:25:53+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35402,12 +35415,12 @@
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
-        "stars": 24,
+        "stars": 25,
         "forks": 0,
         "size": 227,
         "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-01-12T14:47:10+00:00",
-        "pushed": "2024-01-15T00:13:21+00:00",
+        "updated": "2024-01-15T14:33:47+00:00",
+        "pushed": "2024-01-16T00:12:36+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
