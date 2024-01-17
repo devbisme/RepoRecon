@@ -416,19 +416,6 @@
         "id": 14396627
     },
     {
-        "repo": "verilog-wishbone",
-        "description": "Verilog wishbone components",
-        "owner": "alexforencich",
-        "stars": 88,
-        "forks": 27,
-        "size": 167,
-        "created": "2013-11-24T08:15:54Z",
-        "updated": "2023-09-06T03:17:44Z",
-        "pushed": "2021-06-03T20:21:24Z",
-        "url": "https://github.com/alexforencich/verilog-wishbone",
-        "id": 14657943
-    },
-    {
         "repo": "alt.hdl",
         "description": "Exploration of alternative hardware description languages",
         "owner": "cfelton",
@@ -4667,19 +4654,6 @@
         "id": 328467543
     },
     {
-        "repo": "syn-magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "khwong-c",
-        "stars": 5,
-        "forks": 2,
-        "size": 211,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-13T08:38:10+00:00",
-        "pushed": "2024-01-13T01:23:19+00:00",
-        "url": "https://github.com/khwong-c/syn-magia",
-        "id": 730892692
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -4743,5 +4717,31 @@
         "pushed": "2024-01-14T19:00:24+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
+    },
+    {
+        "repo": "verilog-wishbone",
+        "description": "Verilog wishbone components",
+        "owner": "alexforencich",
+        "stars": 93,
+        "forks": 30,
+        "size": 167,
+        "created": "2013-11-24T08:15:54+00:00",
+        "updated": "2024-01-17T04:54:12+00:00",
+        "pushed": "2024-01-05T13:55:22+00:00",
+        "url": "https://github.com/alexforencich/verilog-wishbone",
+        "id": 14657943
+    },
+    {
+        "repo": "syn-magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "khwong-c",
+        "stars": 6,
+        "forks": 2,
+        "size": 167,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-16T08:52:11+00:00",
+        "pushed": "2024-01-17T01:54:14+00:00",
+        "url": "https://github.com/khwong-c/syn-magia",
+        "id": 730892692
     }
 ]

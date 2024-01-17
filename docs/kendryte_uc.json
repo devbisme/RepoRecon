@@ -34853,19 +34853,6 @@
         "id": 739247440
     },
     {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 0,
-        "forks": 0,
-        "size": 14176,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-01-04T15:55:14+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "parameciumvance_dev",
         "description": null,
         "owner": "parameciumvance",
@@ -35035,19 +35022,6 @@
         "id": 476865621
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 679,
-        "forks": 181,
-        "size": 56950,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-01-10T04:57:42+00:00",
-        "pushed": "2024-01-11T03:20:52+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230",
         "description": null,
         "owner": "Richyeoh",
@@ -35152,19 +35126,6 @@
         "id": 390637491
     },
     {
-        "repo": "micropython-ulab",
-        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
-        "owner": "v923z",
-        "stars": 373,
-        "forks": 101,
-        "size": 3298,
-        "created": "2019-08-30T15:33:30+00:00",
-        "updated": "2024-01-11T06:28:32+00:00",
-        "pushed": "2024-01-13T17:54:34+00:00",
-        "url": "https://github.com/v923z/micropython-ulab",
-        "id": 205409848
-    },
-    {
         "repo": "K230",
         "description": "https://riscv-edu.cn/course/230",
         "owner": "riscvedu",
@@ -35256,19 +35217,6 @@
         "id": 737003592
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 7584,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-01-13T01:41:02+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "k230_sdk",
         "description": "Kendryte K230 SDK",
         "owner": "kendryte",
@@ -35308,19 +35256,6 @@
         "id": 308248461
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 96,
-        "forks": 25,
-        "size": 138194,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-01-10T21:40:17+00:00",
-        "pushed": "2024-01-15T18:20:14+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "cmake4eclipse",
         "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
         "owner": "15knots",
@@ -35345,19 +35280,6 @@
         "pushed": "2024-01-16T06:01:19+00:00",
         "url": "https://github.com/RT-Thread/rt-thread",
         "id": 7408108
-    },
-    {
-        "repo": "TinyML_On_MicroControllers_Demo",
-        "description": null,
-        "owner": "mllite",
-        "stars": 0,
-        "forks": 0,
-        "size": 155102,
-        "created": "2024-01-15T07:23:22+00:00",
-        "updated": "2024-01-15T09:20:14+00:00",
-        "pushed": "2024-01-15T17:07:01+00:00",
-        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
-        "id": 743412749
     },
     {
         "repo": "bookmarks",
@@ -35386,15 +35308,93 @@
         "id": 516560139
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 680,
+        "forks": 181,
+        "size": 56960,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-01-15T00:26:33+00:00",
+        "pushed": "2024-01-16T07:30:22+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 96,
+        "forks": 25,
+        "size": 138198,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-01-10T21:40:17+00:00",
+        "pushed": "2024-01-16T21:43:23+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "micropython-ulab",
+        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
+        "owner": "v923z",
+        "stars": 374,
+        "forks": 101,
+        "size": 3301,
+        "created": "2019-08-30T15:33:30+00:00",
+        "updated": "2024-01-16T21:55:00+00:00",
+        "pushed": "2024-01-16T19:55:21+00:00",
+        "url": "https://github.com/v923z/micropython-ulab",
+        "id": 205409848
+    },
+    {
+        "repo": "TinyML_On_MicroControllers_Demo",
+        "description": "Demo of a prototype using MLLite for training and deployment of Machine Learning Models on various devices and microcontrollers.",
+        "owner": "mllite",
+        "stars": 0,
+        "forks": 0,
+        "size": 155104,
+        "created": "2024-01-15T07:23:22+00:00",
+        "updated": "2024-01-16T11:39:46+00:00",
+        "pushed": "2024-01-16T11:40:43+00:00",
+        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
+        "id": 743412749
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 0,
+        "forks": 0,
+        "size": 22373,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2023-10-10T14:14:34+00:00",
+        "pushed": "2024-01-16T15:33:15+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 7990,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2024-01-17T01:42:56+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1201,
+        "size": 1203,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-16T01:38:23+00:00",
+        "pushed": "2024-01-17T01:39:04+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35404,10 +35404,10 @@
         "owner": "androidtrackers",
         "stars": 108,
         "forks": 35,
-        "size": 590202,
+        "size": 590205,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-12T04:34:43+00:00",
-        "pushed": "2024-01-15T12:25:53+00:00",
+        "pushed": "2024-01-16T12:25:55+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35420,7 +35420,7 @@
         "size": 227,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-15T14:33:47+00:00",
-        "pushed": "2024-01-16T00:12:36+00:00",
+        "pushed": "2024-01-17T00:12:21+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
