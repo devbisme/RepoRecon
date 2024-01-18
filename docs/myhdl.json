@@ -1911,19 +1911,6 @@
         "id": 86909504
     },
     {
-        "repo": "awesome-hdl",
-        "description": "Hardware Description Languages",
-        "owner": "drom",
-        "stars": 780,
-        "forks": 86,
-        "size": 123,
-        "created": "2017-04-12T06:43:44Z",
-        "updated": "2023-09-18T09:43:56Z",
-        "pushed": "2023-08-07T16:59:40Z",
-        "url": "https://github.com/drom/awesome-hdl",
-        "id": 88018788
-    },
-    {
         "repo": "A-Verilog-VHDL-design-using-python",
         "description": "A basic introduction of Verilog/VHDL design using Myhdl based on Python.",
         "owner": "zshicode",
@@ -4667,19 +4654,6 @@
         "id": 360750527
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 34,
-        "forks": 23,
-        "size": 41354,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-01-09T18:25:22+00:00",
-        "pushed": "2024-01-14T12:41:49+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "FPGA-Elevator-Project",
         "description": "FPGA Elevator Project",
         "owner": "gralco",
@@ -4691,19 +4665,6 @@
         "pushed": "2024-01-15T00:13:53+00:00",
         "url": "https://github.com/gralco/FPGA-Elevator-Project",
         "id": 37444250
-    },
-    {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 4,
-        "forks": 1,
-        "size": 4273,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2023-05-28T02:41:24+00:00",
-        "pushed": "2024-01-14T12:49:50+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
     },
     {
         "repo": "bonfire-core",
@@ -4732,16 +4693,68 @@
         "id": 14657943
     },
     {
-        "repo": "syn-magia",
+        "repo": "awesome-hdl",
+        "description": "Hardware Description Languages",
+        "owner": "drom",
+        "stars": 830,
+        "forks": 90,
+        "size": 123,
+        "created": "2017-04-12T06:43:44+00:00",
+        "updated": "2024-01-18T02:41:58+00:00",
+        "pushed": "2024-01-17T12:33:49+00:00",
+        "url": "https://github.com/drom/awesome-hdl",
+        "id": 88018788
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 34,
+        "forks": 23,
+        "size": 41361,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-01-09T18:25:22+00:00",
+        "pushed": "2024-01-17T12:34:52+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "khwong-c",
+        "owner": "magia-hdl",
         "stars": 6,
         "forks": 2,
-        "size": 167,
+        "size": 174,
         "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-16T08:52:11+00:00",
-        "pushed": "2024-01-17T01:54:14+00:00",
-        "url": "https://github.com/khwong-c/syn-magia",
+        "updated": "2024-01-17T22:29:11+00:00",
+        "pushed": "2024-01-18T00:19:14+00:00",
+        "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 4,
+        "forks": 1,
+        "size": 4473,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2023-05-28T02:41:24+00:00",
+        "pushed": "2024-01-18T00:12:32+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
+    },
+    {
+        "repo": "MyHDL_Running_LED",
+        "description": null,
+        "owner": "LinHuangnan",
+        "stars": 0,
+        "forks": 0,
+        "size": 99,
+        "created": "2024-01-17T07:46:18+00:00",
+        "updated": "2024-01-17T07:49:28+00:00",
+        "pushed": "2024-01-17T07:49:24+00:00",
+        "url": "https://github.com/LinHuangnan/MyHDL_Running_LED",
+        "id": 744389741
     }
 ]

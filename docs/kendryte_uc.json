@@ -34788,19 +34788,6 @@
         "id": 360045993
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 841,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2024-01-03T15:12:58+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "canmv_examples",
         "description": " canmv examples",
         "owner": "kendryte",
@@ -35035,19 +35022,6 @@
         "id": 741787040
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 6,
-        "forks": 1,
-        "size": 1319,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2024-01-10T18:58:54+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "maixodde",
         "description": "Config files for my GitHub profile.",
         "owner": "maixodde",
@@ -35243,19 +35217,6 @@
         "id": 739504235
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1318,
-        "forks": 384,
-        "size": 46395,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-01-16T06:00:39+00:00",
-        "pushed": "2024-01-15T16:50:48+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
         "repo": "cmake4eclipse",
         "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
         "owner": "15knots",
@@ -35267,19 +35228,6 @@
         "pushed": "2024-01-15T20:53:36+00:00",
         "url": "https://github.com/15knots/cmake4eclipse",
         "id": 32481601
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9185,
-        "forks": 4746,
-        "size": 788772,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-01-16T05:53:23+00:00",
-        "pushed": "2024-01-16T06:01:19+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "bookmarks",
@@ -35306,19 +35254,6 @@
         "pushed": "2024-01-15T16:19:16+00:00",
         "url": "https://github.com/selfcustody/krux-installer",
         "id": 516560139
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 680,
-        "forks": 181,
-        "size": 56960,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-01-15T00:26:33+00:00",
-        "pushed": "2024-01-16T07:30:22+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "krux",
@@ -35360,17 +35295,82 @@
         "id": 743412749
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 680,
+        "forks": 181,
+        "size": 56965,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-01-15T00:26:33+00:00",
+        "pushed": "2024-01-18T07:08:44+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1323,
+        "forks": 385,
+        "size": 46395,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-01-18T05:26:02+00:00",
+        "pushed": "2024-01-18T02:54:10+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9194,
+        "forks": 4747,
+        "size": 788839,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-01-18T05:44:23+00:00",
+        "pushed": "2024-01-18T03:57:52+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 6,
+        "forks": 1,
+        "size": 1332,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-12-22T04:49:52+00:00",
+        "pushed": "2024-01-17T19:10:23+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
         "repo": "myos-kernel",
         "description": null,
         "owner": "FisherInNorth",
         "stars": 0,
         "forks": 0,
-        "size": 22373,
+        "size": 22375,
         "created": "2023-10-10T14:12:00+00:00",
         "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-01-16T15:33:15+00:00",
+        "pushed": "2024-01-17T15:46:59+00:00",
         "url": "https://github.com/FisherInNorth/myos-kernel",
         "id": 703057974
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 847,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2024-01-17T22:11:09+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
     },
     {
         "repo": "awesome-stars",
@@ -35378,10 +35378,10 @@
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 7990,
+        "size": 8396,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-01-17T01:42:56+00:00",
+        "pushed": "2024-01-18T01:42:00+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35391,10 +35391,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1203,
+        "size": 1310,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-17T01:39:04+00:00",
+        "pushed": "2024-01-18T01:38:02+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35404,10 +35404,10 @@
         "owner": "androidtrackers",
         "stars": 108,
         "forks": 35,
-        "size": 590205,
+        "size": 590208,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-12T04:34:43+00:00",
-        "pushed": "2024-01-16T12:25:55+00:00",
+        "pushed": "2024-01-17T12:25:46+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35415,12 +35415,12 @@
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
-        "stars": 25,
+        "stars": 26,
         "forks": 0,
-        "size": 227,
+        "size": 228,
         "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-01-15T14:33:47+00:00",
-        "pushed": "2024-01-17T00:12:21+00:00",
+        "updated": "2024-01-17T07:44:36+00:00",
+        "pushed": "2024-01-18T05:14:01+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
