@@ -11024,19 +11024,6 @@
         "id": 721777325
     },
     {
-        "repo": "sanpy",
-        "description": "Santiment API Python Client",
-        "owner": "santiment",
-        "stars": 91,
-        "forks": 29,
-        "size": 1110,
-        "created": "2018-07-02T07:33:48+00:00",
-        "updated": "2023-12-10T16:37:31+00:00",
-        "pushed": "2023-12-22T02:32:26+00:00",
-        "url": "https://github.com/santiment/sanpy",
-        "id": 139407496
-    },
-    {
         "repo": "betrusted-ec",
         "description": "Betrusted embedded controller (UP5K)",
         "owner": "betrusted-io",
@@ -11258,19 +11245,6 @@
         "id": 100942867
     },
     {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 50,
-        "forks": 17,
-        "size": 712,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2023-12-03T16:13:13+00:00",
-        "pushed": "2024-01-01T14:28:07+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
-    },
-    {
         "repo": "litespi",
         "description": "Small footprint and configurable SPI core",
         "owner": "litex-hub",
@@ -11412,19 +11386,6 @@
         "pushed": "2024-01-05T11:15:46+00:00",
         "url": "https://github.com/antmicro/renode-models-analyzer",
         "id": 659573875
-    },
-    {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 184,
-        "forks": 79,
-        "size": 1309,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-01-05T09:23:05+00:00",
-        "pushed": "2024-01-08T06:26:37+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
     },
     {
         "repo": "linux-on-litex-vexriscv",
@@ -11687,19 +11648,6 @@
         "id": 237940918
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2535,
-        "forks": 503,
-        "size": 16393,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-01-16T07:02:37+00:00",
-        "pushed": "2024-01-15T10:40:37+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -11724,32 +11672,6 @@
         "pushed": "2024-01-15T13:56:13+00:00",
         "url": "https://github.com/enjoy-digital/litepcie_ptm_test",
         "id": 632955985
-    },
-    {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 418,
-        "forks": 103,
-        "size": 1615,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-01-12T08:17:46+00:00",
-        "pushed": "2024-01-17T01:43:40+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 206,
-        "forks": 30,
-        "size": 3753,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2024-01-16T13:48:15+00:00",
-        "pushed": "2024-01-16T16:14:15+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
     },
     {
         "repo": "coreblocks",
@@ -11817,19 +11739,6 @@
         "id": 477692327
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 575,
-        "forks": 54,
-        "size": 1132,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-17T11:39:48+00:00",
-        "pushed": "2024-01-18T02:12:34+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11843,19 +11752,6 @@
         "id": 346151420
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 44,
-        "forks": 14,
-        "size": 56894,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-01-17T14:09:24+00:00",
-        "pushed": "2024-01-17T22:53:04+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -11867,19 +11763,6 @@
         "pushed": "2024-01-17T18:54:17+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1084,
-        "forks": 163,
-        "size": 44270,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-01-12T14:48:33+00:00",
-        "pushed": "2024-01-18T00:20:27+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "ljinux",
@@ -11921,6 +11804,136 @@
         "id": 738233144
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2542,
+        "forks": 503,
+        "size": 16393,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-01-19T01:04:17+00:00",
+        "pushed": "2024-01-19T06:38:01+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 418,
+        "forks": 103,
+        "size": 1636,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-01-19T00:09:38+00:00",
+        "pushed": "2024-01-18T08:43:19+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 576,
+        "forks": 54,
+        "size": 1132,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-18T13:52:46+00:00",
+        "pushed": "2024-01-19T01:58:11+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 185,
+        "forks": 79,
+        "size": 1311,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-01-08T14:14:09+00:00",
+        "pushed": "2024-01-18T12:27:42+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 44,
+        "forks": 14,
+        "size": 56895,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-01-17T14:09:24+00:00",
+        "pushed": "2024-01-18T20:32:54+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 50,
+        "forks": 17,
+        "size": 718,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2023-12-03T16:13:13+00:00",
+        "pushed": "2024-01-18T07:47:23+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 206,
+        "forks": 30,
+        "size": 3753,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2024-01-16T13:48:15+00:00",
+        "pushed": "2024-01-18T12:48:39+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1085,
+        "forks": 163,
+        "size": 44475,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-01-19T00:41:07+00:00",
+        "pushed": "2024-01-19T01:32:47+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "sanpy",
+        "description": "Santiment API Python Client",
+        "owner": "santiment",
+        "stars": 90,
+        "forks": 29,
+        "size": 1113,
+        "created": "2018-07-02T07:33:48+00:00",
+        "updated": "2024-01-12T18:05:28+00:00",
+        "pushed": "2024-01-18T12:11:52+00:00",
+        "url": "https://github.com/santiment/sanpy",
+        "id": 139407496
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 0,
+        "forks": 1,
+        "size": 75617,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-01-18T17:11:30+00:00",
+        "pushed": "2024-01-19T02:55:43+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11929,7 +11942,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-01-09T09:06:57+00:00",
-        "pushed": "2024-01-18T00:12:36+00:00",
+        "pushed": "2024-01-19T00:12:13+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11939,10 +11952,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 763,
+        "size": 806,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-01-18T04:36:11+00:00",
+        "pushed": "2024-01-19T04:37:07+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11952,10 +11965,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 42378,
+        "size": 42794,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-18T03:21:27+00:00",
+        "pushed": "2024-01-19T03:21:19+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
