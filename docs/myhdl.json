@@ -2912,19 +2912,6 @@
         "id": 193617075
     },
     {
-        "repo": "P2654Simulations",
-        "description": "Repository for experiments supporting IEEE P2654 and P1687.1 working groups",
-        "owner": "bradfordvt",
-        "stars": 1,
-        "forks": 1,
-        "size": 5313,
-        "created": "2019-07-02T22:27:37Z",
-        "updated": "2021-07-17T15:52:40Z",
-        "pushed": "2021-05-28T03:12:08Z",
-        "url": "https://github.com/bradfordvt/P2654Simulations",
-        "id": 194942915
-    },
-    {
         "repo": "bonfire-pwm",
         "description": null,
         "owner": "bonfireprocessor",
@@ -4719,19 +4706,6 @@
         "id": 744389741
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 34,
-        "forks": 23,
-        "size": 41368,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-01-09T18:25:22+00:00",
-        "pushed": "2024-01-18T14:51:59+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
@@ -4745,16 +4719,42 @@
         "id": 730892692
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 34,
+        "forks": 23,
+        "size": 41374,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-01-09T18:25:22+00:00",
+        "pushed": "2024-01-20T15:27:11+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "cl-py-generator",
         "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
         "owner": "plops",
         "stars": 4,
         "forks": 1,
-        "size": 4533,
+        "size": 4638,
         "created": "2018-10-24T07:32:54+00:00",
         "updated": "2023-05-28T02:41:24+00:00",
-        "pushed": "2024-01-19T20:50:09+00:00",
+        "pushed": "2024-01-20T14:54:03+00:00",
         "url": "https://github.com/plops/cl-py-generator",
         "id": 154458175
+    },
+    {
+        "repo": "P2654Simulations",
+        "description": "Repository for experiments supporting IEEE P2654 and P1687.1 working groups",
+        "owner": "bradfordvt",
+        "stars": 1,
+        "forks": 2,
+        "size": 5317,
+        "created": "2019-07-02T22:27:37+00:00",
+        "updated": "2024-01-20T19:38:16+00:00",
+        "pushed": "2024-01-20T20:08:40+00:00",
+        "url": "https://github.com/bradfordvt/P2654Simulations",
+        "id": 194942915
     }
 ]
