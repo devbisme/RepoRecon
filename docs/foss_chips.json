@@ -61828,19 +61828,6 @@
         "id": 281208911
     },
     {
-        "repo": "caravel_mgmt_soc_litex",
-        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
-        "owner": "efabless",
-        "stars": 24,
-        "forks": 17,
-        "size": 4704336,
-        "created": "2021-10-21T17:04:00+00:00",
-        "updated": "2023-10-18T02:22:41+00:00",
-        "pushed": "2024-01-11T13:09:53+00:00",
-        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
-        "id": 419809304
-    },
-    {
         "repo": "openfasoc-tapeouts",
         "description": "Tapeouts done using OpenFASOC",
         "owner": "idea-fasoc",
@@ -62008,19 +61995,6 @@
         "pushed": "2024-01-14T11:51:07+00:00",
         "url": "https://github.com/StefanSchippers/xschem_sky130",
         "id": 301889741
-    },
-    {
-        "repo": "DriveLM",
-        "description": "DriveLM: Driving with Graph Visual Question Answering",
-        "owner": "OpenDriveLab",
-        "stars": 475,
-        "forks": 14,
-        "size": 223675,
-        "created": "2023-08-08T12:07:33+00:00",
-        "updated": "2024-01-15T01:37:30+00:00",
-        "pushed": "2024-01-15T07:02:50+00:00",
-        "url": "https://github.com/OpenDriveLab/DriveLM",
-        "id": 676089005
     },
     {
         "repo": "BasicVLSI",
@@ -62283,19 +62257,6 @@
         "id": 744027757
     },
     {
-        "repo": "caravel",
-        "description": "Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.",
-        "owner": "efabless",
-        "stars": 224,
-        "forks": 57,
-        "size": 14611728,
-        "created": "2021-10-07T18:32:22+00:00",
-        "updated": "2024-01-12T09:45:31+00:00",
-        "pushed": "2024-01-17T22:50:30+00:00",
-        "url": "https://github.com/efabless/caravel",
-        "id": 414716046
-    },
-    {
         "repo": "LATR",
         "description": "[ICCV2023 Oral] LATR: 3D Lane Detection from Monocular Images with Transformer",
         "owner": "JMoonr",
@@ -62491,19 +62452,6 @@
         "id": 701419101
     },
     {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 98,
-        "forks": 10,
-        "size": 23423,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-01-19T02:51:20+00:00",
-        "pushed": "2024-01-18T16:50:04+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
         "repo": "skywater130",
         "description": "skywater 130nm pdk",
         "owner": "gdsfactory",
@@ -62528,19 +62476,6 @@
         "pushed": "2024-01-19T03:50:16+00:00",
         "url": "https://github.com/bol-edu/fsic_fpga",
         "id": 649573508
-    },
-    {
-        "repo": "EF_UART",
-        "description": "Universal Asynchronous Receiver/Transmitter (UART) with FIFOs Soft IP",
-        "owner": "efabless",
-        "stars": 3,
-        "forks": 2,
-        "size": 336,
-        "created": "2023-04-23T18:59:59+00:00",
-        "updated": "2024-01-14T03:39:14+00:00",
-        "pushed": "2024-01-18T11:35:14+00:00",
-        "url": "https://github.com/efabless/EF_UART",
-        "id": 631674000
     },
     {
         "repo": "current-output-dac-vlsi",
@@ -62593,19 +62528,6 @@
         "pushed": "2024-01-18T08:19:15+00:00",
         "url": "https://github.com/Steven-Li-money/iEDA-iPL",
         "id": 740881172
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1092,
-        "forks": 410,
-        "size": 595994,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-01-18T10:30:07+00:00",
-        "pushed": "2024-01-20T04:26:15+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
     },
     {
         "repo": "hammer",
@@ -62710,19 +62632,6 @@
         "pushed": "2024-01-19T22:44:00+00:00",
         "url": "https://github.com/Bromine035/SOC-lab",
         "id": 708552635
-    },
-    {
-        "repo": "vsd-hdp",
-        "description": null,
-        "owner": "arunkpv",
-        "stars": 0,
-        "forks": 0,
-        "size": 8063,
-        "created": "2023-10-21T19:59:52+00:00",
-        "updated": "2023-12-29T23:51:46+00:00",
-        "pushed": "2024-01-19T14:40:44+00:00",
-        "url": "https://github.com/arunkpv/vsd-hdp",
-        "id": 708193483
     },
     {
         "repo": "tt3p5-demo-fw",
@@ -62920,32 +62829,6 @@
         "id": 685282778
     },
     {
-        "repo": "Comparator-Design-with-SkyWater-130PDK",
-        "description": "Design and simulation for a high-sensitivity Comparator capable of detecting differential signals as low as \u00b11mV. The self-calibrating design eliminates the need for circuit trimming.",
-        "owner": "chennakeshavadasa",
-        "stars": 0,
-        "forks": 0,
-        "size": 516,
-        "created": "2024-01-16T05:54:31+00:00",
-        "updated": "2024-01-18T14:23:08+00:00",
-        "pushed": "2024-01-20T17:22:09+00:00",
-        "url": "https://github.com/chennakeshavadasa/Comparator-Design-with-SkyWater-130PDK",
-        "id": 743850700
-    },
-    {
-        "repo": "tt06-cmerrill",
-        "description": null,
-        "owner": "cmerrill",
-        "stars": 0,
-        "forks": 0,
-        "size": 24,
-        "created": "2024-01-09T02:10:57+00:00",
-        "updated": "2024-01-09T17:20:19+00:00",
-        "pushed": "2024-01-20T19:55:10+00:00",
-        "url": "https://github.com/cmerrill/tt06-cmerrill",
-        "id": 740757951
-    },
-    {
         "repo": "BEV-Perception",
         "description": "Bird's Eye View Perception",
         "owner": "vasgaowei",
@@ -62972,19 +62855,6 @@
         "id": 406653146
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 879,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-01-21T04:35:40+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Transformer-in-Computer-Vision",
         "description": "A paper list of some recent Transformer-based CV works.",
         "owner": "Yangzhangcst",
@@ -62998,15 +62868,158 @@
         "id": 357782288
     },
     {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1096,
+        "forks": 410,
+        "size": 595977,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-01-22T06:59:18+00:00",
+        "pushed": "2024-01-22T07:05:14+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "caravel",
+        "description": "Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.",
+        "owner": "efabless",
+        "stars": 222,
+        "forks": 57,
+        "size": 14611733,
+        "created": "2021-10-07T18:32:22+00:00",
+        "updated": "2024-01-19T21:55:44+00:00",
+        "pushed": "2024-01-21T11:27:00+00:00",
+        "url": "https://github.com/efabless/caravel",
+        "id": 414716046
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 98,
+        "forks": 10,
+        "size": 23453,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-01-19T02:51:20+00:00",
+        "pushed": "2024-01-22T06:57:48+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "caravel_mgmt_soc_litex",
+        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
+        "owner": "efabless",
+        "stars": 24,
+        "forks": 17,
+        "size": 4820620,
+        "created": "2021-10-21T17:04:00+00:00",
+        "updated": "2023-10-18T02:22:41+00:00",
+        "pushed": "2024-01-21T08:59:43+00:00",
+        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
+        "id": 419809304
+    },
+    {
+        "repo": "DriveLM",
+        "description": "DriveLM: Driving with Graph Visual Question Answering",
+        "owner": "OpenDriveLab",
+        "stars": 490,
+        "forks": 15,
+        "size": 223696,
+        "created": "2023-08-08T12:07:33+00:00",
+        "updated": "2024-01-20T15:31:43+00:00",
+        "pushed": "2024-01-22T05:56:46+00:00",
+        "url": "https://github.com/OpenDriveLab/DriveLM",
+        "id": 676089005
+    },
+    {
+        "repo": "EF_UART",
+        "description": "Universal Asynchronous Receiver/Transmitter (UART) with FIFOs Soft IP",
+        "owner": "efabless",
+        "stars": 3,
+        "forks": 2,
+        "size": 344,
+        "created": "2023-04-23T18:59:59+00:00",
+        "updated": "2024-01-14T03:39:14+00:00",
+        "pushed": "2024-01-21T08:47:15+00:00",
+        "url": "https://github.com/efabless/EF_UART",
+        "id": 631674000
+    },
+    {
+        "repo": "vsd-hdp",
+        "description": null,
+        "owner": "arunkpv",
+        "stars": 0,
+        "forks": 0,
+        "size": 8158,
+        "created": "2023-10-21T19:59:52+00:00",
+        "updated": "2023-12-29T23:51:46+00:00",
+        "pushed": "2024-01-21T23:37:49+00:00",
+        "url": "https://github.com/arunkpv/vsd-hdp",
+        "id": 708193483
+    },
+    {
+        "repo": "Comparator-Design-with-SkyWater-130PDK",
+        "description": "Design and simulation for a high-sensitivity Comparator capable of detecting differential signals as low as \u00b11mV. The self-calibrating design eliminates the need for circuit trimming.",
+        "owner": "chennakeshavadasa",
+        "stars": 0,
+        "forks": 0,
+        "size": 523,
+        "created": "2024-01-16T05:54:31+00:00",
+        "updated": "2024-01-18T14:23:08+00:00",
+        "pushed": "2024-01-22T02:05:10+00:00",
+        "url": "https://github.com/chennakeshavadasa/Comparator-Design-with-SkyWater-130PDK",
+        "id": 743850700
+    },
+    {
+        "repo": "tt06-cmerrill",
+        "description": null,
+        "owner": "cmerrill",
+        "stars": 0,
+        "forks": 0,
+        "size": 55,
+        "created": "2024-01-09T02:10:57+00:00",
+        "updated": "2024-01-09T17:20:19+00:00",
+        "pushed": "2024-01-22T04:24:46+00:00",
+        "url": "https://github.com/cmerrill/tt06-cmerrill",
+        "id": 740757951
+    },
+    {
+        "repo": "vsd-hdp",
+        "description": null,
+        "owner": "mohd-khalid",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2024-01-20T18:58:37+00:00",
+        "updated": "2024-01-20T18:58:37+00:00",
+        "pushed": "2024-01-21T15:05:08+00:00",
+        "url": "https://github.com/mohd-khalid/vsd-hdp",
+        "id": 745991233
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 880,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-01-22T04:37:40+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 9166,
+        "size": 806,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-01-21T01:45:07+00:00",
+        "pushed": "2024-01-22T01:43:53+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -63016,10 +63029,10 @@
         "owner": "andgar2010",
         "stars": 6,
         "forks": 0,
-        "size": 23508,
+        "size": 23762,
         "created": "2020-11-09T02:22:44+00:00",
         "updated": "2023-12-28T14:27:26+00:00",
-        "pushed": "2024-01-21T00:50:38+00:00",
+        "pushed": "2024-01-22T00:50:35+00:00",
         "url": "https://github.com/andgar2010/awesome-stars",
         "id": 311201466
     }
