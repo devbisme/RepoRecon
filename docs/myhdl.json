@@ -3653,19 +3653,6 @@
         "id": 388585844
     },
     {
-        "repo": "vcd-samples",
-        "description": "sample VCD files",
-        "owner": "wavedrom",
-        "stars": 33,
-        "forks": 0,
-        "size": 1957,
-        "created": "2021-08-08T07:23:17Z",
-        "updated": "2023-06-29T22:04:50Z",
-        "pushed": "2022-11-02T04:35:30Z",
-        "url": "https://github.com/wavedrom/vcd-samples",
-        "id": 393889750
-    },
-    {
         "repo": "CPE-487-A",
         "description": null,
         "owner": "rkondrat1",
@@ -4756,5 +4743,18 @@
         "pushed": "2024-01-21T08:12:33+00:00",
         "url": "https://github.com/plops/cl-py-generator",
         "id": 154458175
+    },
+    {
+        "repo": "vcd-samples",
+        "description": "sample VCD files",
+        "owner": "wavedrom",
+        "stars": 35,
+        "forks": 1,
+        "size": 1962,
+        "created": "2021-08-08T07:23:17+00:00",
+        "updated": "2023-12-12T01:34:20+00:00",
+        "pushed": "2024-01-23T03:39:59+00:00",
+        "url": "https://github.com/wavedrom/vcd-samples",
+        "id": 393889750
     }
 ]

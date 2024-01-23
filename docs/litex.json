@@ -9542,19 +9542,6 @@
         "id": 643201263
     },
     {
-        "repo": "list-o-pad",
-        "description": null,
-        "owner": "dev-pts",
-        "stars": 0,
-        "forks": 0,
-        "size": 34,
-        "created": "2023-05-29T23:31:19Z",
-        "updated": "2023-05-29T23:31:33Z",
-        "pushed": "2023-05-29T23:31:28Z",
-        "url": "https://github.com/dev-pts/list-o-pad",
-        "id": 647035284
-    },
-    {
         "repo": "Ring_counter",
         "description": null,
         "owner": "sangamanathpuncham",
@@ -11583,19 +11570,6 @@
         "id": 237940918
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 325,
-        "forks": 257,
-        "size": 3812,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-01-14T10:46:50+00:00",
-        "pushed": "2024-01-15T07:42:38+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litepcie_ptm_test",
         "description": "LitePCIe PTM support / test repo.",
         "owner": "enjoy-digital",
@@ -11620,19 +11594,6 @@
         "pushed": "2024-01-16T12:39:41+00:00",
         "url": "https://github.com/lambdaconcept/amaranth-to-litex",
         "id": 624900391
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 19314,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-01-16T07:37:38+00:00",
-        "pushed": "2024-01-16T11:00:07+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "litex_reference_designs",
@@ -11685,19 +11646,6 @@
         "pushed": "2024-01-17T22:33:30+00:00",
         "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
         "id": 738233144
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2542,
-        "forks": 503,
-        "size": 16393,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-01-19T01:04:17+00:00",
-        "pushed": "2024-01-19T06:38:01+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "litepcie",
@@ -11765,19 +11713,6 @@
         "id": 267350664
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 434,
-        "forks": 118,
-        "size": 41601,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-01-20T03:34:37+00:00",
-        "pushed": "2024-01-20T02:14:12+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "litex-acorn-baseboard",
         "description": "LiteX development baseboards arround the SQRL Acorn. ",
         "owner": "enjoy-digital",
@@ -11789,19 +11724,6 @@
         "pushed": "2024-01-19T18:26:17+00:00",
         "url": "https://github.com/enjoy-digital/litex-acorn-baseboard",
         "id": 415920994
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1086,
-        "forks": 163,
-        "size": 44967,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-01-19T10:14:12+00:00",
-        "pushed": "2024-01-20T01:22:59+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "litex",
@@ -11841,32 +11763,6 @@
         "pushed": "2024-01-20T01:08:32+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 4,
-        "forks": 1,
-        "size": 74485,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-01-20T17:18:16+00:00",
-        "pushed": "2024-01-21T03:17:58+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 577,
-        "forks": 54,
-        "size": 1132,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-21T05:13:10+00:00",
-        "pushed": "2024-01-22T02:00:26+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "liteeth",
@@ -11921,19 +11817,6 @@
         "id": 274442284
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 21,
-        "forks": 10,
-        "size": 24816,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-01-15T15:23:27+00:00",
-        "pushed": "2024-01-21T13:02:21+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "ljinux",
         "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
         "owner": "bill88t",
@@ -11947,6 +11830,136 @@
         "id": 434342707
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2545,
+        "forks": 503,
+        "size": 16407,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-01-22T13:57:23+00:00",
+        "pushed": "2024-01-22T17:36:57+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 325,
+        "forks": 257,
+        "size": 3818,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-01-14T10:46:50+00:00",
+        "pushed": "2024-01-22T14:11:12+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 579,
+        "forks": 54,
+        "size": 1137,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-22T23:19:30+00:00",
+        "pushed": "2024-01-23T02:15:15+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 434,
+        "forks": 119,
+        "size": 41634,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-01-20T03:34:37+00:00",
+        "pushed": "2024-01-23T02:16:13+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 21,
+        "forks": 10,
+        "size": 24816,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-01-15T15:23:27+00:00",
+        "pushed": "2024-01-22T13:30:42+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1087,
+        "forks": 163,
+        "size": 45181,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-01-20T21:36:05+00:00",
+        "pushed": "2024-01-23T05:01:32+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 19524,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-01-16T07:37:38+00:00",
+        "pushed": "2024-01-22T15:19:47+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 6,
+        "forks": 1,
+        "size": 74497,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-01-22T19:49:13+00:00",
+        "pushed": "2024-01-22T15:10:01+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "xls-cosimulation-riscv-firmware",
+        "description": null,
+        "owner": "antmicro",
+        "stars": 0,
+        "forks": 0,
+        "size": 24,
+        "created": "2024-01-19T15:21:26+00:00",
+        "updated": "2024-01-22T11:12:30+00:00",
+        "pushed": "2024-01-22T11:12:26+00:00",
+        "url": "https://github.com/antmicro/xls-cosimulation-riscv-firmware",
+        "id": 745548753
+    },
+    {
+        "repo": "list-o-pad",
+        "description": null,
+        "owner": "dev-pts",
+        "stars": 0,
+        "forks": 0,
+        "size": 35,
+        "created": "2023-05-29T23:31:19+00:00",
+        "updated": "2023-05-29T23:31:33+00:00",
+        "pushed": "2024-01-22T12:57:35+00:00",
+        "url": "https://github.com/dev-pts/list-o-pad",
+        "id": 647035284
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11955,7 +11968,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-01-21T21:43:46+00:00",
-        "pushed": "2024-01-22T00:12:45+00:00",
+        "pushed": "2024-01-23T00:12:30+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11965,10 +11978,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 880,
+        "size": 911,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-01-22T04:37:40+00:00",
+        "pushed": "2024-01-23T04:37:09+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11978,10 +11991,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 44029,
+        "size": 44438,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-22T03:22:02+00:00",
+        "pushed": "2024-01-23T03:21:01+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
