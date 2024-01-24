@@ -4719,19 +4719,6 @@
         "id": 194942915
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 6,
-        "forks": 1,
-        "size": 236,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-17T22:29:11+00:00",
-        "pushed": "2024-01-22T00:09:30+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "cl-py-generator",
         "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
         "owner": "plops",
@@ -4756,5 +4743,18 @@
         "pushed": "2024-01-23T03:39:59+00:00",
         "url": "https://github.com/wavedrom/vcd-samples",
         "id": 393889750
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 6,
+        "forks": 1,
+        "size": 237,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-17T22:29:11+00:00",
+        "pushed": "2024-01-23T20:01:18+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
     }
 ]

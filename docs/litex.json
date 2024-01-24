@@ -11765,32 +11765,6 @@
         "id": 330793471
     },
     {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 185,
-        "forks": 79,
-        "size": 1322,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-01-08T14:14:09+00:00",
-        "pushed": "2024-01-22T05:38:19+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 44,
-        "forks": 14,
-        "size": 56898,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-01-17T14:09:24+00:00",
-        "pushed": "2024-01-21T20:51:47+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "caravel_mgmt_soc_litex",
         "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
         "owner": "efabless",
@@ -11802,19 +11776,6 @@
         "pushed": "2024-01-21T08:59:43+00:00",
         "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
         "id": 419809304
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1334,
-        "forks": 184,
-        "size": 202115,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-01-21T17:41:30+00:00",
-        "pushed": "2024-01-21T16:17:11+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "ljinux",
@@ -11830,19 +11791,6 @@
         "id": 434342707
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2545,
-        "forks": 503,
-        "size": 16407,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-01-22T13:57:23+00:00",
-        "pushed": "2024-01-22T17:36:57+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -11854,45 +11802,6 @@
         "pushed": "2024-01-22T14:11:12+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 579,
-        "forks": 54,
-        "size": 1137,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-22T23:19:30+00:00",
-        "pushed": "2024-01-23T02:15:15+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 434,
-        "forks": 119,
-        "size": 41634,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-01-20T03:34:37+00:00",
-        "pushed": "2024-01-23T02:16:13+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 21,
-        "forks": 10,
-        "size": 24816,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-01-15T15:23:27+00:00",
-        "pushed": "2024-01-22T13:30:42+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11921,19 +11830,6 @@
         "id": 564480301
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 6,
-        "forks": 1,
-        "size": 74497,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-01-22T19:49:13+00:00",
-        "pushed": "2024-01-22T15:10:01+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "xls-cosimulation-riscv-firmware",
         "description": null,
         "owner": "antmicro",
@@ -11960,6 +11856,110 @@
         "id": 647035284
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2546,
+        "forks": 503,
+        "size": 16421,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-01-23T16:45:31+00:00",
+        "pushed": "2024-01-23T15:27:17+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 580,
+        "forks": 56,
+        "size": 974,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-23T13:46:49+00:00",
+        "pushed": "2024-01-24T02:13:42+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 187,
+        "forks": 79,
+        "size": 1361,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-01-23T13:01:30+00:00",
+        "pushed": "2024-01-23T14:57:10+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 434,
+        "forks": 119,
+        "size": 41634,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-01-20T03:34:37+00:00",
+        "pushed": "2024-01-24T02:16:18+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 44,
+        "forks": 14,
+        "size": 77579,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-01-17T14:09:24+00:00",
+        "pushed": "2024-01-23T22:13:36+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1335,
+        "forks": 184,
+        "size": 202208,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-01-22T09:16:13+00:00",
+        "pushed": "2024-01-23T22:07:49+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 22,
+        "forks": 10,
+        "size": 24910,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-01-23T13:54:17+00:00",
+        "pushed": "2024-01-23T09:34:27+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 6,
+        "forks": 3,
+        "size": 74505,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-01-22T19:49:13+00:00",
+        "pushed": "2024-01-23T22:01:28+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11968,7 +11968,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-01-21T21:43:46+00:00",
-        "pushed": "2024-01-23T00:12:30+00:00",
+        "pushed": "2024-01-24T00:12:16+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -11978,10 +11978,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 911,
+        "size": 912,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-01-23T04:37:09+00:00",
+        "pushed": "2024-01-24T04:37:34+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -11991,10 +11991,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 44438,
+        "size": 44855,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-23T03:21:01+00:00",
+        "pushed": "2024-01-24T03:21:21+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

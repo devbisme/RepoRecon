@@ -35113,19 +35113,6 @@
         "id": 706606213
     },
     {
-        "repo": "k230-react-shop-app",
-        "description": null,
-        "owner": "sananabbasov",
-        "stars": 0,
-        "forks": 0,
-        "size": 181,
-        "created": "2024-01-18T12:49:38+00:00",
-        "updated": "2024-01-18T12:51:00+00:00",
-        "pushed": "2024-01-18T12:50:56+00:00",
-        "url": "https://github.com/sananabbasov/k230-react-shop-app",
-        "id": 745000837
-    },
-    {
         "repo": "YZXJ-ShuoMingShu",
         "description": "\u67da\u5b50\u76f8\u673a\u8bf4\u660e\u4e66",
         "owner": "YZXJ-xmz",
@@ -35243,19 +35230,6 @@
         "id": 645403225
     },
     {
-        "repo": "TinyML_On_MicroControllers_Demo",
-        "description": "Demo of a prototype using MLLite for training and deployment of Machine Learning Models on various devices and microcontrollers.",
-        "owner": "mllite",
-        "stars": 0,
-        "forks": 0,
-        "size": 258330,
-        "created": "2024-01-15T07:23:22+00:00",
-        "updated": "2024-01-16T11:39:46+00:00",
-        "pushed": "2024-01-22T06:14:57+00:00",
-        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
-        "id": 743412749
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI vision projects with Python and edge device",
         "owner": "sipeed",
@@ -35295,19 +35269,6 @@
         "id": 393403489
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 6,
-        "forks": 1,
-        "size": 1387,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2024-01-22T01:22:42+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "ttt",
         "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
         "owner": "davidly",
@@ -35332,19 +35293,6 @@
         "pushed": "2024-01-22T01:20:42+00:00",
         "url": "https://github.com/ExtraMobs/renault-radio-code-generator",
         "id": 683029542
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 679,
-        "forks": 181,
-        "size": 57125,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-01-19T12:35:25+00:00",
-        "pushed": "2024-01-23T06:15:06+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "rCore-Tutorial-v3",
@@ -35373,19 +35321,6 @@
         "id": 385102171
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9212,
-        "forks": 4751,
-        "size": 789131,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-01-23T06:54:58+00:00",
-        "pushed": "2024-01-22T09:09:54+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "mini-rv32ima",
         "description": "A tiny C header-only risc-v emulator.",
         "owner": "cnlohr",
@@ -35397,19 +35332,6 @@
         "pushed": "2024-01-23T06:14:13+00:00",
         "url": "https://github.com/cnlohr/mini-rv32ima",
         "id": 558589102
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 13,
-        "forks": 1,
-        "size": 724236,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2023-11-02T00:08:46+00:00",
-        "pushed": "2024-01-22T14:21:15+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
     },
     {
         "repo": "TG_SCID-20231",
@@ -35451,15 +35373,132 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 680,
+        "forks": 181,
+        "size": 57088,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-01-23T08:01:58+00:00",
+        "pushed": "2024-01-24T06:19:22+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9214,
+        "forks": 4752,
+        "size": 789047,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-01-24T03:13:37+00:00",
+        "pushed": "2024-01-24T05:41:28+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 13,
+        "forks": 1,
+        "size": 735870,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2023-11-02T00:08:46+00:00",
+        "pushed": "2024-01-23T19:10:03+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "TinyML_On_MicroControllers_Demo",
+        "description": "Demo of a prototype using MLLite for training and deployment of Machine Learning Models on various devices and microcontrollers.",
+        "owner": "mllite",
+        "stars": 0,
+        "forks": 0,
+        "size": 319389,
+        "created": "2024-01-15T07:23:22+00:00",
+        "updated": "2024-01-16T11:39:46+00:00",
+        "pushed": "2024-01-23T11:26:15+00:00",
+        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
+        "id": 743412749
+    },
+    {
+        "repo": "K210",
+        "description": "study_k210",
+        "owner": "AIZCR",
+        "stars": 0,
+        "forks": 0,
+        "size": 11758,
+        "created": "2024-01-23T19:45:08+00:00",
+        "updated": "2024-01-23T19:45:08+00:00",
+        "pushed": "2024-01-23T19:48:15+00:00",
+        "url": "https://github.com/AIZCR/K210",
+        "id": 747369670
+    },
+    {
+        "repo": "rCore-notes",
+        "description": null,
+        "owner": "PeterDing372",
+        "stars": 0,
+        "forks": 0,
+        "size": 31996,
+        "created": "2024-01-23T19:16:44+00:00",
+        "updated": "2024-01-23T19:24:29+00:00",
+        "pushed": "2024-01-23T19:24:23+00:00",
+        "url": "https://github.com/PeterDing372/rCore-notes",
+        "id": 747358974
+    },
+    {
+        "repo": "nicola-k210",
+        "description": "Nicola academy custom library for k210",
+        "owner": "TimothyBastiaan",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-01-24T07:07:13+00:00",
+        "updated": "2024-01-24T07:07:32+00:00",
+        "pushed": "2024-01-24T07:07:28+00:00",
+        "url": "https://github.com/TimothyBastiaan/nicola-k210",
+        "id": 747557831
+    },
+    {
+        "repo": "k230-react-shop-app",
+        "description": null,
+        "owner": "sananabbasov",
+        "stars": 0,
+        "forks": 0,
+        "size": 185,
+        "created": "2024-01-18T12:49:38+00:00",
+        "updated": "2024-01-18T12:51:00+00:00",
+        "pushed": "2024-01-23T10:27:16+00:00",
+        "url": "https://github.com/sananabbasov/k230-react-shop-app",
+        "id": 745000837
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 6,
+        "forks": 1,
+        "size": 1444,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-12-22T04:49:52+00:00",
+        "pushed": "2024-01-23T22:56:32+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 986,
+        "size": 1397,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-01-23T01:41:31+00:00",
+        "pushed": "2024-01-24T01:43:49+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35469,10 +35508,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1850,
+        "size": 1960,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-23T01:40:35+00:00",
+        "pushed": "2024-01-24T01:40:04+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35482,10 +35521,10 @@
         "owner": "androidtrackers",
         "stars": 108,
         "forks": 35,
-        "size": 595672,
+        "size": 595678,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-12T04:34:43+00:00",
-        "pushed": "2024-01-22T12:26:28+00:00",
+        "pushed": "2024-01-23T12:27:16+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35498,7 +35537,7 @@
         "size": 275,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-21T21:43:29+00:00",
-        "pushed": "2024-01-23T00:12:32+00:00",
+        "pushed": "2024-01-24T00:12:42+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
