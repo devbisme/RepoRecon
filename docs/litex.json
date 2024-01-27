@@ -10764,19 +10764,6 @@
         "id": 727504482
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1574,
-        "forks": 134,
-        "size": 178,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2023-12-05T22:29:45+00:00",
-        "pushed": "2023-12-08T00:25:55+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "microwatt-gists",
         "description": null,
         "owner": "shingarov",
@@ -11087,19 +11074,6 @@
         "pushed": "2023-12-29T01:09:47+00:00",
         "url": "https://github.com/chinafpga/litedram_p2",
         "id": 734140077
-    },
-    {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1158,
-        "forks": 162,
-        "size": 12769,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2023-12-27T01:50:17+00:00",
-        "pushed": "2023-12-29T21:39:11+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
     },
     {
         "repo": "PipelineC-Graphics",
@@ -11752,19 +11726,6 @@
         "id": 434342707
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 325,
-        "forks": 257,
-        "size": 3818,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-01-14T10:46:50+00:00",
-        "pushed": "2024-01-22T14:11:12+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -11843,45 +11804,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 580,
-        "forks": 56,
-        "size": 974,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-23T13:46:49+00:00",
-        "pushed": "2024-01-26T01:50:13+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 434,
-        "forks": 120,
-        "size": 41634,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-01-20T03:34:37+00:00",
-        "pushed": "2024-01-26T02:10:45+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 44,
-        "forks": 14,
-        "size": 77589,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-01-17T14:09:24+00:00",
-        "pushed": "2024-01-24T16:05:30+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -11895,19 +11817,6 @@
         "id": 109838222
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1338,
-        "forks": 185,
-        "size": 202208,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-01-26T04:40:54+00:00",
-        "pushed": "2024-01-24T07:19:38+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litepcie_driver_win",
         "description": "Windows Driver for the LitePCIe LiteX core",
         "owner": "NateMeyer",
@@ -11919,19 +11828,6 @@
         "pushed": "2024-01-26T06:46:31+00:00",
         "url": "https://github.com/NateMeyer/litepcie_driver_win",
         "id": 732706164
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 22,
-        "forks": 10,
-        "size": 24911,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-01-23T13:54:17+00:00",
-        "pushed": "2024-01-25T11:16:14+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "xls",
@@ -11986,6 +11882,110 @@
         "id": 747770560
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 327,
+        "forks": 257,
+        "size": 3818,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-01-26T06:28:19+00:00",
+        "pushed": "2024-01-27T02:29:20+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 582,
+        "forks": 56,
+        "size": 974,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-26T23:41:18+00:00",
+        "pushed": "2024-01-27T01:41:52+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 434,
+        "forks": 120,
+        "size": 41634,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-01-20T03:34:37+00:00",
+        "pushed": "2024-01-27T02:08:00+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 44,
+        "forks": 14,
+        "size": 77590,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-01-17T14:09:24+00:00",
+        "pushed": "2024-01-26T21:20:19+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1337,
+        "forks": 185,
+        "size": 202337,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-01-26T10:08:51+00:00",
+        "pushed": "2024-01-26T21:26:47+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1184,
+        "forks": 165,
+        "size": 12763,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-01-26T10:05:09+00:00",
+        "pushed": "2024-01-26T22:42:02+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 22,
+        "forks": 10,
+        "size": 25006,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-01-23T13:54:17+00:00",
+        "pushed": "2024-01-26T09:31:27+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1603,
+        "forks": 138,
+        "size": 196,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-01-26T19:08:42+00:00",
+        "pushed": "2024-01-26T19:52:47+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11994,7 +11994,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-01-21T21:43:46+00:00",
-        "pushed": "2024-01-26T00:12:23+00:00",
+        "pushed": "2024-01-27T00:11:42+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -12004,10 +12004,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 916,
+        "size": 987,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-01-26T04:36:02+00:00",
+        "pushed": "2024-01-27T04:34:49+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12017,10 +12017,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 45684,
+        "size": 46093,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-26T03:20:28+00:00",
+        "pushed": "2024-01-27T03:18:23+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
