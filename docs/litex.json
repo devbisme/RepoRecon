@@ -11037,19 +11037,6 @@
         "id": 665787279
     },
     {
-        "repo": "MiSTeX-boards",
-        "description": "Core generation scripts for various FPGA boards",
-        "owner": "MiSTeX-devel",
-        "stars": 22,
-        "forks": 5,
-        "size": 648,
-        "created": "2023-03-04T08:03:05+00:00",
-        "updated": "2023-12-19T10:51:41+00:00",
-        "pushed": "2023-12-29T00:55:48+00:00",
-        "url": "https://github.com/MiSTeX-devel/MiSTeX-boards",
-        "id": 609452923
-    },
-    {
         "repo": "litex-feedstock",
         "description": "A conda-smithy repository for litex.",
         "owner": "conda-forge",
@@ -11713,19 +11700,6 @@
         "id": 419809304
     },
     {
-        "repo": "ljinux",
-        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
-        "owner": "bill88t",
-        "stars": 200,
-        "forks": 13,
-        "size": 10831,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-01-04T17:03:46+00:00",
-        "pushed": "2024-01-22T00:17:15+00:00",
-        "url": "https://github.com/bill88t/ljinux",
-        "id": 434342707
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -11778,19 +11752,6 @@
         "id": 42048653
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2547,
-        "forks": 503,
-        "size": 16450,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-01-26T06:30:17+00:00",
-        "pushed": "2024-01-25T16:39:16+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -11828,19 +11789,6 @@
         "pushed": "2024-01-26T06:46:31+00:00",
         "url": "https://github.com/NateMeyer/litepcie_driver_win",
         "id": 732706164
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1088,
-        "forks": 164,
-        "size": 45270,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-01-26T02:37:14+00:00",
-        "pushed": "2024-01-26T06:40:47+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "lilydrum",
@@ -11895,19 +11843,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 582,
-        "forks": 56,
-        "size": 974,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-26T23:41:18+00:00",
-        "pushed": "2024-01-27T01:41:52+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -11934,19 +11869,6 @@
         "id": 464657430
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1337,
-        "forks": 185,
-        "size": 202337,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-01-26T10:08:51+00:00",
-        "pushed": "2024-01-26T21:26:47+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -11958,19 +11880,6 @@
         "pushed": "2024-01-26T22:42:02+00:00",
         "url": "https://github.com/olofk/serv",
         "id": 155514739
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 22,
-        "forks": 10,
-        "size": 25006,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-01-23T13:54:17+00:00",
-        "pushed": "2024-01-26T09:31:27+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "awesome-opensource-hardware",
@@ -11986,6 +11895,97 @@
         "id": 479118982
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2550,
+        "forks": 504,
+        "size": 16450,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-01-27T10:55:27+00:00",
+        "pushed": "2024-01-27T17:12:28+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 583,
+        "forks": 56,
+        "size": 974,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-01-27T22:31:08+00:00",
+        "pushed": "2024-01-28T01:55:05+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A tiny, customizable and highly extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1340,
+        "forks": 186,
+        "size": 202108,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-01-28T04:48:51+00:00",
+        "pushed": "2024-01-27T18:43:45+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "MiSTeX-boards",
+        "description": "Core generation scripts for various FPGA boards",
+        "owner": "MiSTeX-devel",
+        "stars": 23,
+        "forks": 6,
+        "size": 656,
+        "created": "2023-03-04T08:03:05+00:00",
+        "updated": "2024-01-23T14:56:50+00:00",
+        "pushed": "2024-01-27T10:15:52+00:00",
+        "url": "https://github.com/MiSTeX-devel/MiSTeX-boards",
+        "id": 609452923
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 22,
+        "forks": 11,
+        "size": 25112,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-01-23T13:54:17+00:00",
+        "pushed": "2024-01-27T21:36:26+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1088,
+        "forks": 164,
+        "size": 45394,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-01-26T10:37:21+00:00",
+        "pushed": "2024-01-27T23:26:57+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "ljinux",
+        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
+        "owner": "bill88t",
+        "stars": 201,
+        "forks": 13,
+        "size": 10835,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-01-25T21:52:42+00:00",
+        "pushed": "2024-01-28T02:44:13+00:00",
+        "url": "https://github.com/bill88t/ljinux",
+        "id": 434342707
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11994,7 +11994,7 @@
         "size": 2507,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-01-21T21:43:46+00:00",
-        "pushed": "2024-01-27T00:11:42+00:00",
+        "pushed": "2024-01-28T00:12:34+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -12004,10 +12004,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 987,
+        "size": 989,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-01-27T04:34:49+00:00",
+        "pushed": "2024-01-28T04:34:10+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12017,10 +12017,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 46093,
+        "size": 46496,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-01-27T03:18:23+00:00",
+        "pushed": "2024-01-28T03:18:25+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

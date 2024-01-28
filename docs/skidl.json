@@ -1209,19 +1209,6 @@
         "id": 729796322
     },
     {
-        "repo": "skidlist",
-        "description": "A list of all the biggest skids in the com.",
-        "owner": "iusemeteor",
-        "stars": 0,
-        "forks": 2,
-        "size": 23,
-        "created": "2023-11-27T16:40:58+00:00",
-        "updated": "2023-12-01T04:54:54+00:00",
-        "pushed": "2024-01-08T10:10:15+00:00",
-        "url": "https://github.com/iusemeteor/skidlist",
-        "id": 724223994
-    },
-    {
         "repo": "kle2netlist",
         "description": "Keyboard's layout json to KiCad netlist",
         "owner": "adamws",
@@ -1246,19 +1233,6 @@
         "pushed": "2024-01-11T21:45:06+00:00",
         "url": "https://github.com/adamws/keyboard-tools",
         "id": 330470333
-    },
-    {
-        "repo": "TCpu",
-        "description": null,
-        "owner": "KarelPeeters",
-        "stars": 0,
-        "forks": 0,
-        "size": 77,
-        "created": "2024-01-01T14:10:27+00:00",
-        "updated": "2024-01-01T14:10:55+00:00",
-        "pushed": "2024-01-14T22:33:07+00:00",
-        "url": "https://github.com/KarelPeeters/TCpu",
-        "id": 737790436
     },
     {
         "repo": "skidl",
@@ -1324,5 +1298,31 @@
         "pushed": "2024-01-26T19:52:47+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "skidlist",
+        "description": "A list of all the biggest skids in the com.",
+        "owner": "iusemeteor",
+        "stars": 0,
+        "forks": 2,
+        "size": 35,
+        "created": "2023-11-27T16:40:58+00:00",
+        "updated": "2023-12-01T04:54:54+00:00",
+        "pushed": "2024-01-28T05:16:58+00:00",
+        "url": "https://github.com/iusemeteor/skidlist",
+        "id": 724223994
+    },
+    {
+        "repo": "TCpu",
+        "description": null,
+        "owner": "KarelPeeters",
+        "stars": 1,
+        "forks": 0,
+        "size": 91,
+        "created": "2024-01-01T14:10:27+00:00",
+        "updated": "2024-01-24T08:18:05+00:00",
+        "pushed": "2024-01-27T22:51:31+00:00",
+        "url": "https://github.com/KarelPeeters/TCpu",
+        "id": 737790436
     }
 ]
