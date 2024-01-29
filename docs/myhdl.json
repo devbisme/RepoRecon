@@ -4550,19 +4550,6 @@
         "id": 718785748
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 2,
-        "forks": 0,
-        "size": 1034,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2023-12-26T02:23:50+00:00",
-        "pushed": "2023-12-29T16:44:39+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "notes",
         "description": null,
         "owner": "changcs",
@@ -4737,10 +4724,10 @@
         "owner": "kevinwlu",
         "stars": 34,
         "forks": 22,
-        "size": 41109,
+        "size": 41131,
         "created": "2018-08-04T10:46:25+00:00",
         "updated": "2024-01-09T18:25:22+00:00",
-        "pushed": "2024-01-27T17:30:34+00:00",
+        "pushed": "2024-01-28T14:06:16+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
     },
@@ -4750,11 +4737,24 @@
         "owner": "magia-hdl",
         "stars": 7,
         "forks": 1,
-        "size": 174,
+        "size": 208,
         "created": "2023-12-12T22:50:43+00:00",
         "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-01-27T17:04:46+00:00",
+        "pushed": "2024-01-29T00:04:58+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 2,
+        "forks": 0,
+        "size": 878,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2023-12-26T02:23:50+00:00",
+        "pushed": "2024-01-28T14:58:05+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
