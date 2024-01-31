@@ -35009,19 +35009,6 @@
         "id": 741788263
     },
     {
-        "repo": "nxos",
-        "description": null,
-        "owner": "prcups",
-        "stars": 0,
-        "forks": 0,
-        "size": 16572,
-        "created": "2024-01-20T07:31:05+00:00",
-        "updated": "2024-01-20T07:34:08+00:00",
-        "pushed": "2024-01-20T07:33:18+00:00",
-        "url": "https://github.com/prcups/nxos",
-        "id": 745804902
-    },
-    {
         "repo": "rCore-Tutorial-Book-v3",
         "description": "A book about how to write  OS kernels in Rust easily.",
         "owner": "rcore-os",
@@ -35111,19 +35098,6 @@
         "pushed": "2024-01-23T02:08:40+00:00",
         "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
         "id": 188584527
-    },
-    {
-        "repo": "TinyML_On_MicroControllers_Demo",
-        "description": "Demo of a prototype using MLLite for training and deployment of Machine Learning Models on various devices and microcontrollers.",
-        "owner": "mllite",
-        "stars": 0,
-        "forks": 0,
-        "size": 319389,
-        "created": "2024-01-15T07:23:22+00:00",
-        "updated": "2024-01-16T11:39:46+00:00",
-        "pushed": "2024-01-23T11:26:15+00:00",
-        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
-        "id": 743412749
     },
     {
         "repo": "K210",
@@ -35269,19 +35243,6 @@
         "id": 92336263
     },
     {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 0,
-        "forks": 0,
-        "size": 27074,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-01-27T02:31:03+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "bookmarks",
         "description": "Sreedev's Web Browser Bookmarks",
         "owner": "sreedevk",
@@ -35321,19 +35282,6 @@
         "id": 128056991
     },
     {
-        "repo": "k230_sdk",
-        "description": "Kendryte K230 SDK",
-        "owner": "kendryte",
-        "stars": 122,
-        "forks": 25,
-        "size": 426356,
-        "created": "2023-07-07T05:53:35+00:00",
-        "updated": "2024-01-23T01:52:25+00:00",
-        "pushed": "2024-01-28T09:22:13+00:00",
-        "url": "https://github.com/kendryte/k230_sdk",
-        "id": 663357545
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -35358,19 +35306,6 @@
         "pushed": "2024-01-28T17:50:18+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "sreedevk",
-        "description": "Sreedev's Github Profile README",
-        "owner": "sreedevk",
-        "stars": 0,
-        "forks": 0,
-        "size": 73,
-        "created": "2021-03-22T05:18:12+00:00",
-        "updated": "2023-04-11T15:35:53+00:00",
-        "pushed": "2024-01-28T16:38:23+00:00",
-        "url": "https://github.com/sreedevk/sreedevk",
-        "id": 350216225
     },
     {
         "repo": "halcyon",
@@ -35410,45 +35345,6 @@
         "pushed": "2024-01-29T00:01:34+00:00",
         "url": "https://github.com/markmi/acpphint",
         "id": 214611123
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 99,
-        "forks": 26,
-        "size": 138304,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-01-25T13:37:12+00:00",
-        "pushed": "2024-01-29T19:53:44+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9235,
-        "forks": 4757,
-        "size": 789551,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-01-29T15:43:02+00:00",
-        "pushed": "2024-01-30T02:44:02+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 158,
-        "forks": 113,
-        "size": 251,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2024-01-30T01:51:57+00:00",
-        "pushed": "2024-01-30T05:40:12+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
     },
     {
         "repo": "MaixPy",
@@ -35516,15 +35412,145 @@
         "id": 678513389
     },
     {
+        "repo": "k230_sdk",
+        "description": "Kendryte K230 SDK",
+        "owner": "kendryte",
+        "stars": 123,
+        "forks": 25,
+        "size": 426356,
+        "created": "2023-07-07T05:53:35+00:00",
+        "updated": "2024-01-31T03:22:18+00:00",
+        "pushed": "2024-01-31T05:38:42+00:00",
+        "url": "https://github.com/kendryte/k230_sdk",
+        "id": 663357545
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 100,
+        "forks": 26,
+        "size": 138307,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-01-31T00:26:39+00:00",
+        "pushed": "2024-01-30T18:28:31+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9239,
+        "forks": 4760,
+        "size": 789551,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-01-31T05:17:38+00:00",
+        "pushed": "2024-01-31T03:08:19+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 159,
+        "forks": 113,
+        "size": 251,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-01-31T06:08:01+00:00",
+        "pushed": "2024-01-31T01:14:37+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "k230-case",
+        "description": "Case for Kendryte k230",
+        "owner": "luminem",
+        "stars": 0,
+        "forks": 0,
+        "size": 299,
+        "created": "2024-01-30T12:10:12+00:00",
+        "updated": "2024-01-30T12:10:12+00:00",
+        "pushed": "2024-01-30T12:22:52+00:00",
+        "url": "https://github.com/luminem/k230-case",
+        "id": 750315000
+    },
+    {
+        "repo": "TinyML_On_MicroControllers_Demo",
+        "description": "Demo of a prototype using MLLite for training and deployment of Machine Learning Models on various devices and microcontrollers.",
+        "owner": "mllite",
+        "stars": 0,
+        "forks": 0,
+        "size": 362799,
+        "created": "2024-01-15T07:23:22+00:00",
+        "updated": "2024-01-16T11:39:46+00:00",
+        "pushed": "2024-01-30T11:59:40+00:00",
+        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
+        "id": 743412749
+    },
+    {
+        "repo": "k210-dev",
+        "description": null,
+        "owner": "liujianqiang1016",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-01-31T06:54:24+00:00",
+        "updated": "2024-01-31T06:54:24+00:00",
+        "pushed": "2024-01-31T06:55:25+00:00",
+        "url": "https://github.com/liujianqiang1016/k210-dev",
+        "id": 750710707
+    },
+    {
+        "repo": "sreedevk",
+        "description": "Sreedev's Github Profile README",
+        "owner": "sreedevk",
+        "stars": 0,
+        "forks": 0,
+        "size": 75,
+        "created": "2021-03-22T05:18:12+00:00",
+        "updated": "2023-04-11T15:35:53+00:00",
+        "pushed": "2024-01-30T14:40:53+00:00",
+        "url": "https://github.com/sreedevk/sreedevk",
+        "id": 350216225
+    },
+    {
+        "repo": "nxos",
+        "description": null,
+        "owner": "prcups",
+        "stars": 0,
+        "forks": 0,
+        "size": 16581,
+        "created": "2024-01-20T07:31:05+00:00",
+        "updated": "2024-01-20T07:34:08+00:00",
+        "pushed": "2024-01-30T12:26:08+00:00",
+        "url": "https://github.com/prcups/nxos",
+        "id": 745804902
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 0,
+        "forks": 0,
+        "size": 27114,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2023-10-10T14:14:34+00:00",
+        "pushed": "2024-01-30T10:46:31+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 3469,
+        "size": 3884,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-01-30T01:34:32+00:00",
+        "pushed": "2024-01-31T01:34:39+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35534,10 +35560,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2404,
+        "size": 2514,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-01-30T01:30:37+00:00",
+        "pushed": "2024-01-31T01:31:23+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35550,7 +35576,7 @@
         "size": 601100,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-01-29T12:22:45+00:00",
+        "pushed": "2024-01-30T12:21:43+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35563,7 +35589,7 @@
         "size": 257,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-01-30T00:11:50+00:00",
+        "pushed": "2024-01-31T00:12:10+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
