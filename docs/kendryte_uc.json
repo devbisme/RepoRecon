@@ -35425,19 +35425,6 @@
         "id": 703057974
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 678,
-        "forks": 182,
-        "size": 57134,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-01-30T19:53:02+00:00",
-        "pushed": "2024-02-01T02:22:40+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -35529,32 +35516,6 @@
         "id": 750902065
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 3765,
-        "forks": 378,
-        "size": 898,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2024-02-01T07:12:03+00:00",
-        "pushed": "2024-01-31T11:24:25+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 109,
-        "forks": 35,
-        "size": 601105,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-01-31T12:23:02+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
@@ -35566,19 +35527,6 @@
         "pushed": "2024-02-01T00:12:36+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9240,
-        "forks": 4762,
-        "size": 790553,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-02-01T02:26:17+00:00",
-        "pushed": "2024-02-01T02:20:36+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "ttt",
@@ -35594,15 +35542,67 @@
         "id": 456793068
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 678,
+        "forks": 182,
+        "size": 57257,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-01-30T19:53:02+00:00",
+        "pushed": "2024-02-02T06:59:38+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9243,
+        "forks": 4761,
+        "size": 790554,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-02-02T04:47:33+00:00",
+        "pushed": "2024-02-02T05:29:44+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "MaixduinoAI",
+        "description": null,
+        "owner": "damiantomczyszyn",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2024-02-01T17:27:41+00:00",
+        "updated": "2024-02-01T17:27:41+00:00",
+        "pushed": "2024-02-01T17:27:41+00:00",
+        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
+        "id": 751476254
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 3770,
+        "forks": 379,
+        "size": 1111,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2024-02-02T05:59:16+00:00",
+        "pushed": "2024-02-02T01:51:57+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 4299,
+        "size": 4482,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-01T01:38:18+00:00",
+        "pushed": "2024-02-02T01:32:07+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35612,11 +35612,24 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2624,
+        "size": 395,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-01T01:35:12+00:00",
+        "pushed": "2024-02-02T01:31:04+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 109,
+        "forks": 35,
+        "size": 601107,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2024-01-24T17:10:49+00:00",
+        "pushed": "2024-02-01T12:22:36+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]

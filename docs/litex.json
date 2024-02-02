@@ -11167,19 +11167,6 @@
         "id": 734370233
     },
     {
-        "repo": "elements-vexriscv",
-        "description": "VexRiscv fork",
-        "owner": "aesc-silicon",
-        "stars": 0,
-        "forks": 0,
-        "size": 13433,
-        "created": "2020-11-06T19:50:39+00:00",
-        "updated": "2022-01-23T20:58:09+00:00",
-        "pushed": "2024-01-05T01:13:25+00:00",
-        "url": "https://github.com/aesc-silicon/elements-vexriscv",
-        "id": 310692215
-    },
-    {
         "repo": "prjoxide",
         "description": "Documenting Lattice's 28nm FPGA parts",
         "owner": "gatecat",
@@ -11505,19 +11492,6 @@
         "id": 738233144
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 418,
-        "forks": 103,
-        "size": 1636,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-01-19T00:09:38+00:00",
-        "pushed": "2024-01-18T08:43:19+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "sanpy",
         "description": "Santiment API Python Client",
         "owner": "santiment",
@@ -11542,19 +11516,6 @@
         "pushed": "2024-01-19T16:39:21+00:00",
         "url": "https://github.com/BrunoLevy/learn-fpga",
         "id": 267350664
-    },
-    {
-        "repo": "litex-acorn-baseboard",
-        "description": "LiteX development baseboards arround the SQRL Acorn. ",
-        "owner": "enjoy-digital",
-        "stars": 38,
-        "forks": 6,
-        "size": 5754,
-        "created": "2021-10-11T12:41:30+00:00",
-        "updated": "2024-01-03T21:16:27+00:00",
-        "pushed": "2024-01-19T18:26:17+00:00",
-        "url": "https://github.com/enjoy-digital/litex-acorn-baseboard",
-        "id": 415920994
     },
     {
         "repo": "litex",
@@ -11817,19 +11778,6 @@
         "id": 413357087
     },
     {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1091,
-        "forks": 164,
-        "size": 44722,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-01-31T02:41:40+00:00",
-        "pushed": "2024-01-31T00:48:23+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
         "repo": "pogobot-sdk",
         "description": "SDK for the Pogobot open-source open-hardware robotic platform for swarm robotics",
         "owner": "nekonaute",
@@ -11867,19 +11815,6 @@
         "pushed": "2024-02-01T05:01:07+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 589,
-        "forks": 56,
-        "size": 978,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-01-30T15:06:12+00:00",
-        "pushed": "2024-02-01T01:53:26+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "caravel_mgmt_soc_litex",
@@ -11921,32 +11856,6 @@
         "id": 251003436
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 22,
-        "forks": 11,
-        "size": 25404,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-01-29T20:56:01+00:00",
-        "pushed": "2024-01-31T21:50:59+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "VexRiscv",
-        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
-        "owner": "SpinalHDL",
-        "stars": 2153,
-        "forks": 373,
-        "size": 13252,
-        "created": "2017-03-08T21:14:28+00:00",
-        "updated": "2024-01-30T19:52:45+00:00",
-        "pushed": "2024-01-31T16:41:27+00:00",
-        "url": "https://github.com/SpinalHDL/VexRiscv",
-        "id": 84366787
-    },
-    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -11971,19 +11880,6 @@
         "pushed": "2024-02-01T06:10:45+00:00",
         "url": "https://github.com/enjoy-digital/liteiclink",
         "id": 109838222
-    },
-    {
-        "repo": "MiSTeX-ports",
-        "description": "FPGA board support and core ports for MiSTeX",
-        "owner": "MiSTeX-devel",
-        "stars": 25,
-        "forks": 6,
-        "size": 859,
-        "created": "2023-03-04T08:03:05+00:00",
-        "updated": "2024-01-31T22:54:06+00:00",
-        "pushed": "2024-02-01T01:49:15+00:00",
-        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
-        "id": 609452923
     },
     {
         "repo": "Raptor",
@@ -12012,19 +11908,6 @@
         "id": 483508371
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 996,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-01T04:34:41+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12038,15 +11921,145 @@
         "id": 330793471
     },
     {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 421,
+        "forks": 103,
+        "size": 1649,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-01-28T08:44:49+00:00",
+        "pushed": "2024-02-01T23:13:56+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 591,
+        "forks": 56,
+        "size": 978,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-02T06:23:34+00:00",
+        "pushed": "2024-02-02T01:49:24+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex-acorn-baseboard",
+        "description": "LiteX development baseboards arround the SQRL Acorn. ",
+        "owner": "enjoy-digital",
+        "stars": 38,
+        "forks": 6,
+        "size": 5565,
+        "created": "2021-10-11T12:41:30+00:00",
+        "updated": "2024-01-03T21:16:27+00:00",
+        "pushed": "2024-02-01T09:53:25+00:00",
+        "url": "https://github.com/enjoy-digital/litex-acorn-baseboard",
+        "id": 415920994
+    },
+    {
+        "repo": "MiSTeX-ports",
+        "description": "FPGA board support and core ports for MiSTeX",
+        "owner": "MiSTeX-devel",
+        "stars": 25,
+        "forks": 6,
+        "size": 890,
+        "created": "2023-03-04T08:03:05+00:00",
+        "updated": "2024-01-31T22:54:06+00:00",
+        "pushed": "2024-02-02T06:55:26+00:00",
+        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
+        "id": 609452923
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 22,
+        "forks": 11,
+        "size": 26021,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-01-29T20:56:01+00:00",
+        "pushed": "2024-02-01T18:49:09+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1093,
+        "forks": 164,
+        "size": 44749,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-02-02T06:57:38+00:00",
+        "pushed": "2024-02-01T23:30:44+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "pocket-riscv-rs-bug",
+        "description": "Fork of https://github.com/mcclure/pocket-riscv-rs/ for bug repros. Not for general use.",
+        "owner": "mcclure",
+        "stars": 0,
+        "forks": 0,
+        "size": 71,
+        "created": "2024-02-01T19:06:00+00:00",
+        "updated": "2024-02-01T19:06:30+00:00",
+        "pushed": "2024-02-01T19:35:59+00:00",
+        "url": "https://github.com/mcclure/pocket-riscv-rs-bug",
+        "id": 751517400
+    },
+    {
+        "repo": "VexRiscv",
+        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
+        "owner": "SpinalHDL",
+        "stars": 2154,
+        "forks": 373,
+        "size": 13254,
+        "created": "2017-03-08T21:14:28+00:00",
+        "updated": "2024-02-01T08:46:59+00:00",
+        "pushed": "2024-02-01T09:34:40+00:00",
+        "url": "https://github.com/SpinalHDL/VexRiscv",
+        "id": 84366787
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 997,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-02-02T04:36:32+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "elements-vexriscv",
+        "description": "VexRiscv fork",
+        "owner": "aesc-silicon",
+        "stars": 0,
+        "forks": 0,
+        "size": 13457,
+        "created": "2020-11-06T19:50:39+00:00",
+        "updated": "2022-01-23T20:58:09+00:00",
+        "pushed": "2024-02-02T01:09:13+00:00",
+        "url": "https://github.com/aesc-silicon/elements-vexriscv",
+        "id": 310692215
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 40350,
+        "size": 40768,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-02-01T03:20:02+00:00",
+        "pushed": "2024-02-02T03:19:51+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
