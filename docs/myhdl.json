@@ -4654,19 +4654,6 @@
         "id": 194942915
     },
     {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 4,
-        "forks": 1,
-        "size": 4646,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2023-05-28T02:41:24+00:00",
-        "pushed": "2024-01-21T08:12:33+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
-    },
-    {
         "repo": "vcd-samples",
         "description": "sample VCD files",
         "owner": "wavedrom",
@@ -4745,19 +4732,6 @@
         "id": 400059658
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 34,
-        "forks": 22,
-        "size": 41164,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-01-09T18:25:22+00:00",
-        "pushed": "2024-01-31T16:00:52+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdlpeek",
         "description": "Monitor and display signal waveforms from your MyHDL/nMigen digital design in a Jupyter notebook.",
         "owner": "devbisme",
@@ -4769,5 +4743,31 @@
         "pushed": "2024-02-01T14:45:45+00:00",
         "url": "https://github.com/devbisme/myhdlpeek",
         "id": 94043141
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 34,
+        "forks": 22,
+        "size": 41186,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-01-09T18:25:22+00:00",
+        "pushed": "2024-02-03T01:11:57+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 4,
+        "forks": 1,
+        "size": 4650,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2023-05-28T02:41:24+00:00",
+        "pushed": "2024-02-02T18:42:37+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
     }
 ]
