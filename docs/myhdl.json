@@ -689,19 +689,6 @@
         "id": 29550709
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 956,
-        "forks": 236,
-        "size": 13387,
-        "created": "2015-02-07T19:50:27Z",
-        "updated": "2023-11-01T00:41:44Z",
-        "pushed": "2023-10-19T18:54:26Z",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "verilog-flowgen",
         "description": "Ethernet flow generator framework",
         "owner": "alexforencich",
@@ -4550,19 +4537,6 @@
         "id": 79589690
     },
     {
-        "repo": "myhdl-feedstock",
-        "description": "A conda-smithy repository for myhdl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 20,
-        "created": "2021-01-10T19:57:49+00:00",
-        "updated": "2021-12-17T07:20:35+00:00",
-        "pushed": "2024-01-06T20:02:29+00:00",
-        "url": "https://github.com/conda-forge/myhdl-feedstock",
-        "id": 328467543
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -4693,19 +4667,6 @@
         "id": 479118982
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 208,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-01-29T00:04:58+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -4769,5 +4730,44 @@
         "pushed": "2024-02-02T18:42:37+00:00",
         "url": "https://github.com/plops/cl-py-generator",
         "id": 154458175
+    },
+    {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 982,
+        "forks": 242,
+        "size": 13360,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-01-27T18:13:09+00:00",
+        "pushed": "2024-02-03T23:34:32+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
+        "repo": "myhdl-feedstock",
+        "description": "A conda-smithy repository for myhdl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 22,
+        "created": "2021-01-10T19:57:49+00:00",
+        "updated": "2021-12-17T07:20:35+00:00",
+        "pushed": "2024-02-03T13:53:15+00:00",
+        "url": "https://github.com/conda-forge/myhdl-feedstock",
+        "id": 328467543
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 174,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-24T16:34:21+00:00",
+        "pushed": "2024-02-04T00:35:48+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
     }
 ]
