@@ -4589,19 +4589,6 @@
         "id": 14657943
     },
     {
-        "repo": "awesome-hdl",
-        "description": "Hardware Description Languages",
-        "owner": "drom",
-        "stars": 830,
-        "forks": 90,
-        "size": 123,
-        "created": "2017-04-12T06:43:44+00:00",
-        "updated": "2024-01-18T02:41:58+00:00",
-        "pushed": "2024-01-17T12:33:49+00:00",
-        "url": "https://github.com/drom/awesome-hdl",
-        "id": 88018788
-    },
-    {
         "repo": "MyHDL_Running_LED",
         "description": null,
         "owner": "LinHuangnan",
@@ -4667,19 +4654,6 @@
         "id": 479118982
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 2,
-        "forks": 0,
-        "size": 878,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2023-12-26T02:23:50+00:00",
-        "pushed": "2024-01-28T14:58:05+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "ApproximateMult",
         "description": "ILP-based Synthesized Approximate Multiplier",
         "owner": "FCHXWH",
@@ -4732,32 +4706,6 @@
         "id": 154458175
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 982,
-        "forks": 242,
-        "size": 13360,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-01-27T18:13:09+00:00",
-        "pushed": "2024-02-03T23:34:32+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
-        "repo": "myhdl-feedstock",
-        "description": "A conda-smithy repository for myhdl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 22,
-        "created": "2021-01-10T19:57:49+00:00",
-        "updated": "2021-12-17T07:20:35+00:00",
-        "pushed": "2024-02-03T13:53:15+00:00",
-        "url": "https://github.com/conda-forge/myhdl-feedstock",
-        "id": 328467543
-    },
-    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
@@ -4769,5 +4717,57 @@
         "pushed": "2024-02-04T00:35:48+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 983,
+        "forks": 242,
+        "size": 13364,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-02-04T15:53:27+00:00",
+        "pushed": "2024-02-04T17:40:31+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
+        "repo": "awesome-hdl",
+        "description": "Hardware Description Languages",
+        "owner": "drom",
+        "stars": 840,
+        "forks": 92,
+        "size": 125,
+        "created": "2017-04-12T06:43:44+00:00",
+        "updated": "2024-02-04T23:30:31+00:00",
+        "pushed": "2024-02-04T19:45:29+00:00",
+        "url": "https://github.com/drom/awesome-hdl",
+        "id": 88018788
+    },
+    {
+        "repo": "myhdl-feedstock",
+        "description": "A conda-smithy repository for myhdl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 23,
+        "created": "2021-01-10T19:57:49+00:00",
+        "updated": "2021-12-17T07:20:35+00:00",
+        "pushed": "2024-02-04T21:32:47+00:00",
+        "url": "https://github.com/conda-forge/myhdl-feedstock",
+        "id": 328467543
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 2,
+        "forks": 0,
+        "size": 907,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2023-12-26T02:23:50+00:00",
+        "pushed": "2024-02-04T21:43:59+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
