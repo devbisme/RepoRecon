@@ -10738,19 +10738,6 @@
         "id": 722476291
     },
     {
-        "repo": "pocket-riscv-rs",
-        "description": "Repo for apps for the Pocket RISC-V core for Analogue Pocket/OpenFPGA. Multiple branches.",
-        "owner": "mcclure",
-        "stars": 2,
-        "forks": 0,
-        "size": 129,
-        "created": "2023-11-25T06:16:16+00:00",
-        "updated": "2023-12-09T04:25:57+00:00",
-        "pushed": "2023-12-09T04:23:58+00:00",
-        "url": "https://github.com/mcclure/pocket-riscv-rs",
-        "id": 723273466
-    },
-    {
         "repo": "buildroot-docker",
         "description": "A simple build environment for Buildroot by using Docker.",
         "owner": "niw",
@@ -10853,19 +10840,6 @@
         "pushed": "2023-12-11T12:31:40+00:00",
         "url": "https://github.com/AtlasFPGA/QSPI_PSRAM_ATLAS",
         "id": 629517604
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 188,
-        "forks": 25,
-        "size": 19696,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2023-11-26T10:54:06+00:00",
-        "pushed": "2023-12-12T15:58:38+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
     },
     {
         "repo": "litex_64bit_addressing_test",
@@ -11596,19 +11570,6 @@
         "id": 464657430
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1184,
-        "forks": 165,
-        "size": 12763,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-01-26T10:05:09+00:00",
-        "pushed": "2024-01-26T22:42:02+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -11661,19 +11622,6 @@
         "id": 169072211
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 550,
-        "forks": 131,
-        "size": 621178,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-01-29T11:00:25+00:00",
-        "pushed": "2024-01-30T05:47:20+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "a2o",
         "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue.  It is now being updated for compliancy and integration into open projects.",
         "owner": "OpenPOWERFoundation",
@@ -11685,19 +11633,6 @@
         "pushed": "2024-01-29T15:01:30+00:00",
         "url": "https://github.com/OpenPOWERFoundation/a2o",
         "id": 474094379
-    },
-    {
-        "repo": "litex-bridge",
-        "description": null,
-        "owner": "Liamolucko",
-        "stars": 0,
-        "forks": 0,
-        "size": 10,
-        "created": "2024-01-30T02:18:28+00:00",
-        "updated": "2024-01-30T02:18:33+00:00",
-        "pushed": "2024-01-30T02:48:37+00:00",
-        "url": "https://github.com/Liamolucko/litex-bridge",
-        "id": 750114003
     },
     {
         "repo": "CFU-Playground",
@@ -11817,19 +11752,6 @@
         "id": 109838222
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 2,
-        "forks": 2,
-        "size": 1037,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2023-10-08T19:10:45+00:00",
-        "pushed": "2024-02-01T01:28:07+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -11869,19 +11791,6 @@
         "id": 751517400
     },
     {
-        "repo": "VexRiscv",
-        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
-        "owner": "SpinalHDL",
-        "stars": 2154,
-        "forks": 373,
-        "size": 13254,
-        "created": "2017-03-08T21:14:28+00:00",
-        "updated": "2024-02-01T08:46:59+00:00",
-        "pushed": "2024-02-01T09:34:40+00:00",
-        "url": "https://github.com/SpinalHDL/VexRiscv",
-        "id": 84366787
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -11893,19 +11802,6 @@
         "pushed": "2024-02-02T01:09:13+00:00",
         "url": "https://github.com/aesc-silicon/elements-vexriscv",
         "id": 310692215
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 328,
-        "forks": 257,
-        "size": 3818,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-02-03T03:55:46+00:00",
-        "pushed": "2024-02-03T05:39:49+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "pzh-mcu-bi-weekly",
@@ -11947,32 +11843,6 @@
         "id": 274442284
     },
     {
-        "repo": "ljinux",
-        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
-        "owner": "bill88t",
-        "stars": 200,
-        "forks": 13,
-        "size": 10879,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-01-30T19:32:59+00:00",
-        "pushed": "2024-02-04T02:44:59+00:00",
-        "url": "https://github.com/bill88t/ljinux",
-        "id": 434342707
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 6,
-        "forks": 8,
-        "size": 78880,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-02-03T05:13:29+00:00",
-        "pushed": "2024-02-04T01:27:54+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -11984,19 +11854,6 @@
         "pushed": "2024-02-05T00:06:45+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 593,
-        "forks": 57,
-        "size": 978,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-04T17:11:51+00:00",
-        "pushed": "2024-02-05T01:51:39+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "MiSTeX-ports",
@@ -12012,32 +11869,6 @@
         "id": 609452923
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 22,
-        "forks": 11,
-        "size": 26368,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-01-29T20:56:01+00:00",
-        "pushed": "2024-02-04T16:27:51+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1094,
-        "forks": 165,
-        "size": 45051,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-02-02T07:53:58+00:00",
-        "pushed": "2024-02-05T06:44:15+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
         "repo": "litex-alchitry-cu-examples",
         "description": "Examples of using Litex on an Alchitry Cu board",
         "owner": "Mark1626",
@@ -12051,15 +11882,210 @@
         "id": 654657779
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 328,
+        "forks": 257,
+        "size": 3818,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-02-03T03:55:46+00:00",
+        "pushed": "2024-02-05T10:42:25+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 553,
+        "forks": 132,
+        "size": 621192,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-02-05T11:40:36+00:00",
+        "pushed": "2024-02-06T04:41:34+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 593,
+        "forks": 57,
+        "size": 996,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-04T17:11:51+00:00",
+        "pushed": "2024-02-06T02:04:39+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1194,
+        "forks": 166,
+        "size": 12766,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-02-02T06:26:53+00:00",
+        "pushed": "2024-02-05T12:41:04+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 22,
+        "forks": 11,
+        "size": 26524,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-01-29T20:56:01+00:00",
+        "pushed": "2024-02-05T10:56:44+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1094,
+        "forks": 165,
+        "size": 45221,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-02-02T07:53:58+00:00",
+        "pushed": "2024-02-06T01:57:55+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "ljinux",
+        "description": "A \"linux\" in python, for CircuitPython microcontrollers!",
+        "owner": "bill88t",
+        "stars": 200,
+        "forks": 13,
+        "size": 10630,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-01-30T19:32:59+00:00",
+        "pushed": "2024-02-05T22:00:17+00:00",
+        "url": "https://github.com/bill88t/ljinux",
+        "id": 434342707
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 192,
+        "forks": 26,
+        "size": 19714,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-01-25T05:34:45+00:00",
+        "pushed": "2024-02-05T19:49:00+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "pocket-riscv-rs",
+        "description": "Repo for apps for the Pocket RISC-V core for Analogue Pocket/OpenFPGA. Multiple branches.",
+        "owner": "mcclure",
+        "stars": 7,
+        "forks": 0,
+        "size": 276,
+        "created": "2023-11-25T06:16:16+00:00",
+        "updated": "2024-02-05T23:20:19+00:00",
+        "pushed": "2024-02-05T18:48:38+00:00",
+        "url": "https://github.com/mcclure/pocket-riscv-rs",
+        "id": 723273466
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 6,
+        "forks": 8,
+        "size": 78901,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-02-03T05:13:29+00:00",
+        "pushed": "2024-02-06T04:23:09+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 2,
+        "forks": 2,
+        "size": 1057,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2023-10-08T19:10:45+00:00",
+        "pushed": "2024-02-05T23:23:47+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "Damn-Vuln-IoT-SoC",
+        "description": null,
+        "owner": "Damn-Vuln-IoT-SoC",
+        "stars": 1,
+        "forks": 0,
+        "size": 67128,
+        "created": "2024-02-05T14:08:22+00:00",
+        "updated": "2024-02-05T14:48:03+00:00",
+        "pushed": "2024-02-05T19:19:12+00:00",
+        "url": "https://github.com/Damn-Vuln-IoT-SoC/Damn-Vuln-IoT-SoC",
+        "id": 753120584
+    },
+    {
+        "repo": "Damn-Vuln-IoT-SoC-Demo",
+        "description": null,
+        "owner": "Damn-Vuln-IoT-SoC",
+        "stars": 0,
+        "forks": 0,
+        "size": 27,
+        "created": "2024-02-05T13:03:14+00:00",
+        "updated": "2024-02-05T19:20:02+00:00",
+        "pushed": "2024-02-05T19:35:11+00:00",
+        "url": "https://github.com/Damn-Vuln-IoT-SoC/Damn-Vuln-IoT-SoC-Demo",
+        "id": 753091069
+    },
+    {
+        "repo": "litex-bridge",
+        "description": null,
+        "owner": "Liamolucko",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-01-30T02:18:28+00:00",
+        "updated": "2024-01-30T02:18:33+00:00",
+        "pushed": "2024-02-06T04:53:48+00:00",
+        "url": "https://github.com/Liamolucko/litex-bridge",
+        "id": 750114003
+    },
+    {
+        "repo": "VexRiscv",
+        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
+        "owner": "SpinalHDL",
+        "stars": 2157,
+        "forks": 374,
+        "size": 13254,
+        "created": "2017-03-08T21:14:28+00:00",
+        "updated": "2024-02-05T09:18:27+00:00",
+        "pushed": "2024-02-05T13:05:07+00:00",
+        "url": "https://github.com/SpinalHDL/VexRiscv",
+        "id": 84366787
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1072,
+        "size": 1115,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-05T04:35:52+00:00",
+        "pushed": "2024-02-06T04:34:36+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12069,10 +12095,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 42001,
+        "size": 42422,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-02-05T03:20:15+00:00",
+        "pushed": "2024-02-06T03:20:10+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

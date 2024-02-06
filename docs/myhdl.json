@@ -4472,19 +4472,6 @@
         "id": 63018738
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 188,
-        "forks": 25,
-        "size": 19696,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2023-11-26T10:54:06+00:00",
-        "pushed": "2023-12-12T15:58:38+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "verilog-i2c",
         "description": "Verilog I2C interface for FPGA implementation",
         "owner": "alexforencich",
@@ -4680,19 +4667,6 @@
         "id": 94043141
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 34,
-        "forks": 22,
-        "size": 41186,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-01-09T18:25:22+00:00",
-        "pushed": "2024-02-03T01:11:57+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "cl-py-generator",
         "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
         "owner": "plops",
@@ -4769,5 +4743,31 @@
         "pushed": "2024-02-04T21:43:59+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 34,
+        "forks": 22,
+        "size": 41196,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-01-09T18:25:22+00:00",
+        "pushed": "2024-02-05T12:50:39+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 192,
+        "forks": 26,
+        "size": 19714,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-01-25T05:34:45+00:00",
+        "pushed": "2024-02-05T19:49:00+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
     }
 ]
