@@ -35165,32 +35165,6 @@
         "id": 745771617
     },
     {
-        "repo": "MaiXF-blog-Manage",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 2519,
-        "created": "2023-12-29T13:52:11+00:00",
-        "updated": "2023-12-29T13:52:59+00:00",
-        "pushed": "2024-01-29T15:04:16+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
-        "id": 736998715
-    },
-    {
-        "repo": "MaiXF-blog-serve",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 3591,
-        "created": "2023-12-29T14:08:52+00:00",
-        "updated": "2023-12-29T14:09:43+00:00",
-        "pushed": "2024-01-29T15:04:16+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-serve",
-        "id": 737003592
-    },
-    {
         "repo": "ESP32CAM-OV7725-TFT-ambilight",
         "description": "camera based TV ambilight ",
         "owner": "WASmars",
@@ -35282,19 +35256,6 @@
         "id": 703057974
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 100,
-        "forks": 26,
-        "size": 138396,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-01-31T00:26:39+00:00",
-        "pushed": "2024-02-01T02:34:53+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -35319,19 +35280,6 @@
         "pushed": "2024-02-01T06:17:37+00:00",
         "url": "https://github.com/ophub/flippy-openwrt-actions",
         "id": 360045993
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 13,
-        "forks": 1,
-        "size": 814559,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2023-11-02T00:08:46+00:00",
-        "pushed": "2024-01-31T13:51:16+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
     },
     {
         "repo": "k210",
@@ -35436,19 +35384,6 @@
         "pushed": "2024-02-03T16:10:40+00:00",
         "url": "https://github.com/cyiyang/Scaning_car",
         "id": 752273851
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 679,
-        "forks": 182,
-        "size": 57297,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-02-04T09:18:24+00:00",
-        "pushed": "2024-02-05T07:00:34+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "rCore-Tutorial-Book-v3",
@@ -35581,19 +35516,6 @@
         "id": 188584527
     },
     {
-        "repo": "kidbright_mai_training_script",
-        "description": null,
-        "owner": "comdet",
-        "stars": 0,
-        "forks": 0,
-        "size": 34054,
-        "created": "2024-02-06T05:36:39+00:00",
-        "updated": "2024-02-06T05:38:51+00:00",
-        "pushed": "2024-02-06T05:40:36+00:00",
-        "url": "https://github.com/comdet/kidbright_mai_training_script",
-        "id": 753435342
-    },
-    {
         "repo": "RTTHREAD",
         "description": null,
         "owner": "ByeBeihai",
@@ -35607,15 +35529,119 @@
         "id": 541861851
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 679,
+        "forks": 182,
+        "size": 57359,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-02-04T09:18:24+00:00",
+        "pushed": "2024-02-06T10:37:19+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 102,
+        "forks": 26,
+        "size": 138457,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-02-03T04:25:36+00:00",
+        "pushed": "2024-02-06T22:29:56+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "OSComp-RISC-V-SBI",
+        "description": "OS Competition proj 1: an enhanced RISC-V SBI, by HUST RIRAM team.",
+        "owner": "wyywwi",
+        "stars": 0,
+        "forks": 0,
+        "size": 29,
+        "created": "2024-01-30T02:02:21+00:00",
+        "updated": "2024-02-06T16:28:54+00:00",
+        "pushed": "2024-02-06T16:28:21+00:00",
+        "url": "https://github.com/wyywwi/OSComp-RISC-V-SBI",
+        "id": 750109192
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 13,
+        "forks": 1,
+        "size": 823419,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2023-11-02T00:08:46+00:00",
+        "pushed": "2024-02-06T23:11:29+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "Personal-Assistant-Robot-Using-Artificial-Intelligence-and-Arduino",
+        "description": "By using a camera and other hardware, the robot detects a human's face and follows them while detecting and avoiding obstacles, both using Artificial Intelligence (AI) and the Internet of Things (IoT).",
+        "owner": "SaiSankeerth47",
+        "stars": 0,
+        "forks": 0,
+        "size": 1083,
+        "created": "2022-01-07T08:02:35+00:00",
+        "updated": "2022-01-07T08:32:36+00:00",
+        "pushed": "2024-02-06T22:32:17+00:00",
+        "url": "https://github.com/SaiSankeerth47/Personal-Assistant-Robot-Using-Artificial-Intelligence-and-Arduino",
+        "id": 445443917
+    },
+    {
+        "repo": "MaiXF-blog-Manage",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 2590,
+        "created": "2023-12-29T13:52:11+00:00",
+        "updated": "2023-12-29T13:52:59+00:00",
+        "pushed": "2024-02-06T15:52:26+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
+        "id": 736998715
+    },
+    {
+        "repo": "MaiXF-blog-serve",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 16924,
+        "created": "2023-12-29T14:08:52+00:00",
+        "updated": "2023-12-29T14:09:43+00:00",
+        "pushed": "2024-02-06T15:52:48+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-serve",
+        "id": 737003592
+    },
+    {
+        "repo": "kidbright_mai_training_script",
+        "description": null,
+        "owner": "comdet",
+        "stars": 0,
+        "forks": 0,
+        "size": 141085,
+        "created": "2024-02-06T05:36:39+00:00",
+        "updated": "2024-02-06T05:38:51+00:00",
+        "pushed": "2024-02-07T04:56:30+00:00",
+        "url": "https://github.com/comdet/kidbright_mai_training_script",
+        "id": 753435342
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 5688,
+        "size": 6107,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-06T01:33:23+00:00",
+        "pushed": "2024-02-07T01:32:19+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35625,10 +35651,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 690,
+        "size": 803,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-06T01:30:22+00:00",
+        "pushed": "2024-02-07T01:29:02+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35641,7 +35667,7 @@
         "size": 601113,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-02-05T12:22:39+00:00",
+        "pushed": "2024-02-06T12:22:57+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35654,7 +35680,7 @@
         "size": 257,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-06T00:12:09+00:00",
+        "pushed": "2024-02-07T00:11:45+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
