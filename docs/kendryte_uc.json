@@ -10426,19 +10426,6 @@
         "id": 231788956
     },
     {
-        "repo": "awesome-latticeFPGAs",
-        "description": ":book: List of FPGA Lattice boards using open tools",
-        "owner": "kelu124",
-        "stars": 254,
-        "forks": 17,
-        "size": 42,
-        "created": "2020-01-04T18:51:08Z",
-        "updated": "2023-08-28T03:19:42Z",
-        "pushed": "2023-04-29T21:01:43Z",
-        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
-        "id": 231812493
-    },
-    {
         "repo": "Prune",
         "description": "Remove unused items from your Jamf server",
         "owner": "BIG-RAT",
@@ -35282,19 +35269,6 @@
         "id": 750902065
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 887,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2024-02-01T05:51:21+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "MaixduinoAI",
         "description": null,
         "owner": "damiantomczyszyn",
@@ -35306,19 +35280,6 @@
         "pushed": "2024-02-01T17:27:41+00:00",
         "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
         "id": 751476254
-    },
-    {
-        "repo": "Instrument-for-CIROH",
-        "description": "Instruments for CIROH about river ice modeling and sensing",
-        "owner": "igul94",
-        "stars": 0,
-        "forks": 0,
-        "size": 782,
-        "created": "2024-01-19T05:50:27+00:00",
-        "updated": "2024-01-19T17:42:37+00:00",
-        "pushed": "2024-02-02T19:31:18+00:00",
-        "url": "https://github.com/igul94/Instrument-for-CIROH",
-        "id": 745339564
     },
     {
         "repo": "aCoral-riscv-cl",
@@ -35542,19 +35503,6 @@
         "id": 128056991
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 102,
-        "forks": 26,
-        "size": 138536,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-02-03T04:25:36+00:00",
-        "pushed": "2024-02-07T18:59:36+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "rCore-Tutorial-Book-v3",
         "description": "A book about how to write  OS kernels in Rust easily.",
         "owner": "rcore-os",
@@ -35620,15 +35568,93 @@
         "id": 696293680
     },
     {
+        "repo": "cpu-benchmark",
+        "description": null,
+        "owner": "spapas",
+        "stars": 0,
+        "forks": 0,
+        "size": 925,
+        "created": "2022-06-16T11:00:44+00:00",
+        "updated": "2022-06-16T11:01:16+00:00",
+        "pushed": "2024-02-07T07:56:25+00:00",
+        "url": "https://github.com/spapas/cpu-benchmark",
+        "id": 504120618
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 102,
+        "forks": 26,
+        "size": 138551,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-02-03T04:25:36+00:00",
+        "pushed": "2024-02-08T19:42:08+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "awesome-latticeFPGAs",
+        "description": ":book: List of FPGA Lattice boards using open tools",
+        "owner": "kelu124",
+        "stars": 275,
+        "forks": 17,
+        "size": 43,
+        "created": "2020-01-04T18:51:08+00:00",
+        "updated": "2024-02-07T09:30:57+00:00",
+        "pushed": "2024-02-08T18:59:31+00:00",
+        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
+        "id": 231812493
+    },
+    {
+        "repo": "k230osbi",
+        "description": null,
+        "owner": "yf13",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-02-09T06:30:11+00:00",
+        "updated": "2024-02-09T06:31:54+00:00",
+        "pushed": "2024-02-09T06:44:53+00:00",
+        "url": "https://github.com/yf13/k230osbi",
+        "id": 754972987
+    },
+    {
+        "repo": "Instrument-for-CIROH",
+        "description": "Instruments for CIROH about river ice modeling and sensing",
+        "owner": "igul94",
+        "stars": 0,
+        "forks": 0,
+        "size": 784,
+        "created": "2024-01-19T05:50:27+00:00",
+        "updated": "2024-01-19T17:42:37+00:00",
+        "pushed": "2024-02-08T22:15:07+00:00",
+        "url": "https://github.com/igul94/Instrument-for-CIROH",
+        "id": 745339564
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 895,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2024-02-08T22:12:37+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 6526,
+        "size": 6946,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-08T01:33:08+00:00",
+        "pushed": "2024-02-09T01:32:21+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35638,10 +35664,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 917,
+        "size": 1031,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-08T01:29:33+00:00",
+        "pushed": "2024-02-09T01:29:06+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35654,7 +35680,7 @@
         "size": 603829,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-02-07T12:23:19+00:00",
+        "pushed": "2024-02-08T12:22:14+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35667,21 +35693,8 @@
         "size": 257,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-08T00:12:11+00:00",
+        "pushed": "2024-02-09T00:12:59+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
-    },
-    {
-        "repo": "cpu-benchmark",
-        "description": null,
-        "owner": "spapas",
-        "stars": 0,
-        "forks": 0,
-        "size": 925,
-        "created": "2022-06-16T11:00:44+00:00",
-        "updated": "2022-06-16T11:01:16+00:00",
-        "pushed": "2024-02-07T07:56:25+00:00",
-        "url": "https://github.com/spapas/cpu-benchmark",
-        "id": 504120618
     }
 ]

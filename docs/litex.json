@@ -2340,19 +2340,6 @@
         "id": 230945815
     },
     {
-        "repo": "awesome-latticeFPGAs",
-        "description": ":book: List of FPGA Lattice boards using open tools",
-        "owner": "kelu124",
-        "stars": 254,
-        "forks": 17,
-        "size": 42,
-        "created": "2020-01-04T18:51:08Z",
-        "updated": "2023-08-28T03:19:42Z",
-        "pushed": "2023-04-29T21:01:43Z",
-        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
-        "id": 231812493
-    },
-    {
         "repo": "fx2-sim",
         "description": null,
         "owner": "antmicro",
@@ -3612,19 +3599,6 @@
         "pushed": "2020-08-08T20:30:31Z",
         "url": "https://github.com/0x90/SQRL-Acorn",
         "id": 285727086
-    },
-    {
-        "repo": "johnnycubides.github.io",
-        "description": null,
-        "owner": "johnnycubides",
-        "stars": 0,
-        "forks": 0,
-        "size": 168565,
-        "created": "2020-08-08T04:54:39Z",
-        "updated": "2023-03-04T12:26:53Z",
-        "pushed": "2023-03-04T12:26:44Z",
-        "url": "https://github.com/johnnycubides/johnnycubides.github.io",
-        "id": 285975734
     },
     {
         "repo": "mmcm-drp",
@@ -9295,19 +9269,6 @@
         "id": 630179518
     },
     {
-        "repo": "pythondata-cpu-coreblocks",
-        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
-        "owner": "kuznia-rdzeni",
-        "stars": 0,
-        "forks": 0,
-        "size": 2,
-        "created": "2023-04-22T12:19:25Z",
-        "updated": "2023-07-12T09:01:29Z",
-        "pushed": "2023-07-12T08:59:16Z",
-        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
-        "id": 631249176
-    },
-    {
         "repo": "Litex_lab_digital_ii",
         "description": null,
         "owner": "angelruizp",
@@ -11869,19 +11830,6 @@
         "id": 723273466
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 2,
-        "forks": 2,
-        "size": 1057,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2023-10-08T19:10:45+00:00",
-        "pushed": "2024-02-05T23:23:47+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "Damn-Vuln-IoT-SoC-Demo",
         "description": null,
         "owner": "Damn-Vuln-IoT-SoC",
@@ -11973,71 +11921,6 @@
         "id": 42048653
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 594,
-        "forks": 57,
-        "size": 996,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-07T20:35:57+00:00",
-        "pushed": "2024-02-08T01:41:23+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1354,
-        "forks": 188,
-        "size": 202075,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-02-07T13:15:49+00:00",
-        "pushed": "2024-02-07T20:51:32+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "MiSTeX-ports",
-        "description": "FPGA board support and core ports for MiSTeX",
-        "owner": "MiSTeX-devel",
-        "stars": 25,
-        "forks": 6,
-        "size": 1086,
-        "created": "2023-03-04T08:03:05+00:00",
-        "updated": "2024-01-31T22:54:06+00:00",
-        "pushed": "2024-02-08T00:35:09+00:00",
-        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
-        "id": 609452923
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 22,
-        "forks": 11,
-        "size": 26857,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-01-29T20:56:01+00:00",
-        "pushed": "2024-02-07T09:29:25+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 6,
-        "forks": 8,
-        "size": 85065,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-02-03T05:13:29+00:00",
-        "pushed": "2024-02-08T01:35:48+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "pocket-riscv-rs-bug",
         "description": "Fork of https://github.com/mcclure/pocket-riscv-rs/ for bug repros. Not for general use.",
         "owner": "mcclure",
@@ -12064,32 +11947,6 @@
         "id": 753120584
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1188,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-08T04:34:14+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 43238,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-02-08T03:20:01+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12101,5 +11958,148 @@
         "pushed": "2024-02-08T01:06:15+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 594,
+        "forks": 57,
+        "size": 996,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-07T20:35:57+00:00",
+        "pushed": "2024-02-09T02:05:24+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1354,
+        "forks": 188,
+        "size": 201715,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-02-07T13:15:49+00:00",
+        "pushed": "2024-02-09T06:12:57+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "MiSTeX-ports",
+        "description": "FPGA board support and core ports for MiSTeX",
+        "owner": "MiSTeX-devel",
+        "stars": 25,
+        "forks": 6,
+        "size": 1098,
+        "created": "2023-03-04T08:03:05+00:00",
+        "updated": "2024-01-31T22:54:06+00:00",
+        "pushed": "2024-02-09T02:20:13+00:00",
+        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
+        "id": 609452923
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 23,
+        "forks": 11,
+        "size": 26857,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-02-08T07:36:47+00:00",
+        "pushed": "2024-02-08T18:45:11+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "awesome-latticeFPGAs",
+        "description": ":book: List of FPGA Lattice boards using open tools",
+        "owner": "kelu124",
+        "stars": 275,
+        "forks": 17,
+        "size": 43,
+        "created": "2020-01-04T18:51:08+00:00",
+        "updated": "2024-02-07T09:30:57+00:00",
+        "pushed": "2024-02-08T18:59:31+00:00",
+        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
+        "id": 231812493
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 6,
+        "forks": 8,
+        "size": 84999,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-02-03T05:13:29+00:00",
+        "pushed": "2024-02-09T06:05:03+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 2,
+        "forks": 2,
+        "size": 1064,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2023-10-08T19:10:45+00:00",
+        "pushed": "2024-02-09T00:04:27+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "johnnycubides.github.io",
+        "description": null,
+        "owner": "johnnycubides",
+        "stars": 0,
+        "forks": 0,
+        "size": 168602,
+        "created": "2020-08-08T04:54:39+00:00",
+        "updated": "2023-03-04T12:26:53+00:00",
+        "pushed": "2024-02-08T22:41:44+00:00",
+        "url": "https://github.com/johnnycubides/johnnycubides.github.io",
+        "id": 285975734
+    },
+    {
+        "repo": "pythondata-cpu-coreblocks",
+        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
+        "owner": "kuznia-rdzeni",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2023-04-22T12:19:25+00:00",
+        "updated": "2023-07-12T09:01:29+00:00",
+        "pushed": "2024-02-08T17:52:27+00:00",
+        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
+        "id": 631249176
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1259,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-02-09T04:34:16+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 43640,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2023-11-03T17:36:59+00:00",
+        "pushed": "2024-02-09T03:19:48+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
