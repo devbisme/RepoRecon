@@ -35204,19 +35204,6 @@
         "id": 745804902
     },
     {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 0,
-        "forks": 0,
-        "size": 27114,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-01-30T10:46:31+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -35542,19 +35529,6 @@
         "id": 418199179
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 6,
-        "forks": 1,
-        "size": 943,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2024-02-07T21:47:45+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "MDU-robot-grupp5",
         "description": "iwrigbfeywbkfwykgfk",
         "owner": "abbchrjer",
@@ -35659,15 +35633,41 @@
         "id": 685317589
     },
     {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 6,
+        "forks": 1,
+        "size": 958,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-12-22T04:49:52+00:00",
+        "pushed": "2024-02-09T13:15:38+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 0,
+        "forks": 0,
+        "size": 37135,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2023-10-10T14:14:34+00:00",
+        "pushed": "2024-02-09T16:21:23+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1031,
+        "size": 1145,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-09T01:29:06+00:00",
+        "pushed": "2024-02-10T01:28:01+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35680,7 +35680,7 @@
         "size": 603829,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-02-08T12:22:14+00:00",
+        "pushed": "2024-02-09T12:21:44+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35693,7 +35693,7 @@
         "size": 257,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-09T00:12:59+00:00",
+        "pushed": "2024-02-10T00:11:59+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
