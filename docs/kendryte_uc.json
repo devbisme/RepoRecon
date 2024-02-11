@@ -34944,19 +34944,6 @@
         "id": 558589102
     },
     {
-        "repo": "TG_SCID-20231",
-        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
-        "owner": "Dallana0107",
-        "stars": 0,
-        "forks": 0,
-        "size": 285978,
-        "created": "2023-09-13T23:19:24+00:00",
-        "updated": "2024-01-08T00:39:30+00:00",
-        "pushed": "2024-01-23T01:19:22+00:00",
-        "url": "https://github.com/Dallana0107/TG_SCID-20231",
-        "id": 691307904
-    },
-    {
         "repo": "K210",
         "description": "study_k210",
         "owner": "AIZCR",
@@ -35072,19 +35059,6 @@
         "pushed": "2024-01-27T08:38:59+00:00",
         "url": "https://github.com/sananabbasov/k230-telegram-bot",
         "id": 748985950
-    },
-    {
-        "repo": "micropython-ulab",
-        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
-        "owner": "v923z",
-        "stars": 377,
-        "forks": 101,
-        "size": 3318,
-        "created": "2019-08-30T15:33:30+00:00",
-        "updated": "2024-01-26T10:03:45+00:00",
-        "pushed": "2024-01-28T21:06:33+00:00",
-        "url": "https://github.com/v923z/micropython-ulab",
-        "id": 205409848
     },
     {
         "repo": "halcyon",
@@ -35306,19 +35280,6 @@
         "pushed": "2024-02-03T16:10:40+00:00",
         "url": "https://github.com/cyiyang/Scaning_car",
         "id": 752273851
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 6853,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2023-12-05T07:18:25+00:00",
-        "pushed": "2024-02-04T22:24:02+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
     },
     {
         "repo": "CMINT",
@@ -35620,19 +35581,6 @@
         "id": 456793068
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 6946,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-09T01:32:21+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
@@ -35659,15 +35607,80 @@
         "id": 703057974
     },
     {
+        "repo": "micropython-ulab",
+        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
+        "owner": "v923z",
+        "stars": 378,
+        "forks": 101,
+        "size": 3319,
+        "created": "2019-08-30T15:33:30+00:00",
+        "updated": "2024-02-05T03:37:59+00:00",
+        "pushed": "2024-02-10T19:46:38+00:00",
+        "url": "https://github.com/v923z/micropython-ulab",
+        "id": 205409848
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 6859,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2023-12-05T07:18:25+00:00",
+        "pushed": "2024-02-10T14:29:37+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "TG_SCID-20231",
+        "description": "TG. Acople, Adquisici\u00f3n para un Dermatoscopio",
+        "owner": "Dallana0107",
+        "stars": 0,
+        "forks": 0,
+        "size": 290651,
+        "created": "2023-09-13T23:19:24+00:00",
+        "updated": "2024-01-08T00:39:30+00:00",
+        "pushed": "2024-02-10T22:15:08+00:00",
+        "url": "https://github.com/Dallana0107/TG_SCID-20231",
+        "id": 691307904
+    },
+    {
+        "repo": "myOS",
+        "description": "\u4f7f\u7528Rust\u7f16\u5199\u7684\u7b80\u5355\u64cd\u4f5c\u7cfb\u7edf | \u64cd\u4f5c\u7cfb\u7edf | rCore | Rust",
+        "owner": "aqvq",
+        "stars": 0,
+        "forks": 0,
+        "size": 10011,
+        "created": "2024-02-11T05:32:53+00:00",
+        "updated": "2024-02-11T05:45:56+00:00",
+        "pushed": "2024-02-11T05:33:42+00:00",
+        "url": "https://github.com/aqvq/myOS",
+        "id": 755805380
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 7182,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2024-02-11T01:38:12+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1145,
+        "size": 1147,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-10T01:28:01+00:00",
+        "pushed": "2024-02-11T01:35:04+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35680,7 +35693,7 @@
         "size": 603829,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-02-09T12:21:44+00:00",
+        "pushed": "2024-02-10T12:20:50+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35693,7 +35706,7 @@
         "size": 257,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-10T00:11:59+00:00",
+        "pushed": "2024-02-11T00:14:20+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

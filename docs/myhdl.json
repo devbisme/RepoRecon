@@ -4706,19 +4706,6 @@
         "id": 35898469
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13028,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-02-07T09:20:32+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "awesome-hwd-tools",
         "description": "A curated list of awesome open source hardware design tools",
         "owner": "TM90",
@@ -4730,19 +4717,6 @@
         "pushed": "2024-02-08T10:18:59+00:00",
         "url": "https://github.com/TM90/awesome-hwd-tools",
         "id": 158928501
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 34,
-        "forks": 22,
-        "size": 41217,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-01-09T18:25:22+00:00",
-        "pushed": "2024-02-10T01:06:38+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
     },
     {
         "repo": "awesome-opensource-hardware",
@@ -4758,15 +4732,41 @@
         "id": 479118982
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 35,
+        "forks": 22,
+        "size": 41226,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-02-11T01:48:41+00:00",
+        "pushed": "2024-02-11T02:10:53+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 3,
+        "forks": 1,
+        "size": 13165,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-02-07T09:20:38+00:00",
+        "pushed": "2024-02-11T06:52:17+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
         "stars": 7,
         "forks": 1,
-        "size": 185,
+        "size": 183,
         "created": "2023-12-12T22:50:43+00:00",
         "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-02-09T23:22:25+00:00",
+        "pushed": "2024-02-10T13:04:04+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
     }
