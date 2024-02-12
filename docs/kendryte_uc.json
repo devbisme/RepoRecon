@@ -34346,19 +34346,6 @@
         "id": 616233611
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 7760,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-12-12T02:51:21+00:00",
-        "pushed": "2023-12-20T16:32:52+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "maixuandat.github.io",
         "description": null,
         "owner": "maixuandat08",
@@ -34983,19 +34970,6 @@
         "id": 747557831
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1331,
-        "forks": 389,
-        "size": 47283,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-01-26T06:31:25+00:00",
-        "pushed": "2024-01-26T04:30:04+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
         "repo": "cmake4eclipse",
         "description": "Let Eclipse use CMake to generate the buildscripts for Eclipse CDT",
         "owner": "15knots",
@@ -35581,32 +35555,6 @@
         "id": 456793068
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 6,
-        "forks": 1,
-        "size": 958,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2024-02-09T13:15:38+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 0,
-        "forks": 0,
-        "size": 37135,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-02-09T16:21:23+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -35618,19 +35566,6 @@
         "pushed": "2024-02-10T19:46:38+00:00",
         "url": "https://github.com/v923z/micropython-ulab",
         "id": 205409848
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 6859,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2023-12-05T07:18:25+00:00",
-        "pushed": "2024-02-10T14:29:37+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
     },
     {
         "repo": "TG_SCID-20231",
@@ -35659,15 +35594,93 @@
         "id": 755805380
     },
     {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1347,
+        "forks": 392,
+        "size": 47575,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-02-11T13:24:17+00:00",
+        "pushed": "2024-02-11T12:09:42+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 7769,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-12-12T02:51:21+00:00",
+        "pushed": "2024-02-11T18:06:24+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "rCoreOS",
+        "description": "\ud83d\ude0d Rust\u5b9e\u73b0\u7684\u7c7bLinux\u64cd\u4f5c\u7cfb\u7edf\uff0crCore-Tutorial-v3 \u7ec3\u4e60",
+        "owner": "KamijoToma",
+        "stars": 1,
+        "forks": 0,
+        "size": 51,
+        "created": "2024-02-11T14:29:09+00:00",
+        "updated": "2024-02-12T05:43:54+00:00",
+        "pushed": "2024-02-12T05:59:31+00:00",
+        "url": "https://github.com/KamijoToma/rCoreOS",
+        "id": 755937691
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 6915,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2024-02-11T09:18:13+00:00",
+        "pushed": "2024-02-11T09:18:09+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 6,
+        "forks": 1,
+        "size": 977,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2023-12-22T04:49:52+00:00",
+        "pushed": "2024-02-11T14:43:49+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 0,
+        "forks": 0,
+        "size": 37135,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2023-10-10T14:14:34+00:00",
+        "pushed": "2024-02-11T15:21:50+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 7182,
+        "size": 7184,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-11T01:38:12+00:00",
+        "pushed": "2024-02-12T01:33:38+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35677,10 +35690,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1147,
+        "size": 1261,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-11T01:35:04+00:00",
+        "pushed": "2024-02-12T01:30:41+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35690,10 +35703,10 @@
         "owner": "androidtrackers",
         "stars": 109,
         "forks": 35,
-        "size": 603829,
+        "size": 604263,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-02-10T12:20:50+00:00",
+        "pushed": "2024-02-11T12:20:20+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35703,10 +35716,10 @@
         "owner": "lupyuen",
         "stars": 29,
         "forks": 0,
-        "size": 257,
+        "size": 304,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-11T00:14:20+00:00",
+        "pushed": "2024-02-12T03:33:43+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

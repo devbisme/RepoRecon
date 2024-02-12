@@ -11037,19 +11037,6 @@
         "id": 62586607
     },
     {
-        "repo": "VintageBusFPGA_Common",
-        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
-        "owner": "rdolbeau",
-        "stars": 4,
-        "forks": 0,
-        "size": 609,
-        "created": "2022-10-31T14:30:10+00:00",
-        "updated": "2024-01-01T12:01:56+00:00",
-        "pushed": "2024-01-02T16:40:58+00:00",
-        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
-        "id": 559997034
-    },
-    {
         "repo": "circuitpython",
         "description": "Clone of Adafruit Circuitpython",
         "owner": "JeffersGlass",
@@ -11661,19 +11648,6 @@
         "id": 310692215
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 252,
-        "forks": 32,
-        "size": 137249,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-02-02T01:07:54+00:00",
-        "pushed": "2024-02-02T15:03:47+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "litex-alchitry-cu-examples",
         "description": "Examples of using Litex on an Alchitry Cu board",
         "owner": "Mark1626",
@@ -11791,19 +11765,6 @@
         "id": 750114003
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 421,
-        "forks": 104,
-        "size": 1649,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-01-28T08:44:49+00:00",
-        "pushed": "2024-02-06T14:47:53+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "VexRiscv",
         "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
         "owner": "SpinalHDL",
@@ -11843,19 +11804,6 @@
         "id": 751517400
     },
     {
-        "repo": "Damn-Vuln-IoT-SoC",
-        "description": "A modular platform to generate SoC with hardware vulnerabilities",
-        "owner": "Damn-Vuln-IoT-SoC",
-        "stars": 1,
-        "forks": 0,
-        "size": 67138,
-        "created": "2024-02-05T14:08:22+00:00",
-        "updated": "2024-02-07T09:43:08+00:00",
-        "pushed": "2024-02-07T13:05:03+00:00",
-        "url": "https://github.com/Damn-Vuln-IoT-SoC/Damn-Vuln-IoT-SoC",
-        "id": 753120584
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -11867,19 +11815,6 @@
         "pushed": "2024-02-08T01:06:15+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 23,
-        "forks": 11,
-        "size": 26857,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-02-08T07:36:47+00:00",
-        "pushed": "2024-02-08T18:45:11+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "awesome-latticeFPGAs",
@@ -11960,32 +11895,6 @@
         "id": 109838222
     },
     {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1355,
-        "forks": 188,
-        "size": 202133,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-02-09T15:27:36+00:00",
-        "pushed": "2024-02-10T06:31:59+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "MiSTeX-ports",
-        "description": "FPGA board support and core ports for MiSTeX",
-        "owner": "MiSTeX-devel",
-        "stars": 25,
-        "forks": 6,
-        "size": 1104,
-        "created": "2023-03-04T08:03:05+00:00",
-        "updated": "2024-01-31T22:54:06+00:00",
-        "pushed": "2024-02-10T01:50:42+00:00",
-        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
-        "id": 609452923
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -12023,19 +11932,6 @@
         "pushed": "2024-02-10T03:19:47+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 593,
-        "forks": 57,
-        "size": 998,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-09T20:30:05+00:00",
-        "pushed": "2024-02-11T01:56:02+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -12090,15 +11986,119 @@
         "id": 483508371
     },
     {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 421,
+        "forks": 104,
+        "size": 1653,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-01-28T08:44:49+00:00",
+        "pushed": "2024-02-11T14:29:07+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 593,
+        "forks": 57,
+        "size": 998,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-09T20:30:05+00:00",
+        "pushed": "2024-02-12T01:49:05+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1356,
+        "forks": 188,
+        "size": 202419,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-02-11T17:18:38+00:00",
+        "pushed": "2024-02-11T14:37:04+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "MiSTeX-ports",
+        "description": "FPGA board support and core ports for MiSTeX",
+        "owner": "MiSTeX-devel",
+        "stars": 25,
+        "forks": 6,
+        "size": 1110,
+        "created": "2023-03-04T08:03:05+00:00",
+        "updated": "2024-01-31T22:54:06+00:00",
+        "pushed": "2024-02-12T03:34:50+00:00",
+        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
+        "id": 609452923
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 23,
+        "forks": 11,
+        "size": 26857,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-02-08T07:36:47+00:00",
+        "pushed": "2024-02-11T19:35:22+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "VintageBusFPGA_Common",
+        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
+        "owner": "rdolbeau",
+        "stars": 4,
+        "forks": 0,
+        "size": 611,
+        "created": "2022-10-31T14:30:10+00:00",
+        "updated": "2024-01-01T12:01:56+00:00",
+        "pushed": "2024-02-11T14:03:57+00:00",
+        "url": "https://github.com/rdolbeau/VintageBusFPGA_Common",
+        "id": 559997034
+    },
+    {
+        "repo": "Damn-Vuln-IoT-SoC",
+        "description": "A modular platform to generate SoC with hardware vulnerabilities",
+        "owner": "Damn-Vuln-IoT-SoC",
+        "stars": 1,
+        "forks": 0,
+        "size": 67142,
+        "created": "2024-02-05T14:08:22+00:00",
+        "updated": "2024-02-07T09:43:08+00:00",
+        "pushed": "2024-02-11T10:01:16+00:00",
+        "url": "https://github.com/Damn-Vuln-IoT-SoC/Damn-Vuln-IoT-SoC",
+        "id": 753120584
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 254,
+        "forks": 32,
+        "size": 138388,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-02-06T05:04:17+00:00",
+        "pushed": "2024-02-11T12:18:47+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 741,
+        "size": 742,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-11T04:36:33+00:00",
+        "pushed": "2024-02-12T04:35:15+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     }
