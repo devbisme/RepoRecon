@@ -10335,19 +10335,6 @@
         "id": 230776904
     },
     {
-        "repo": "maix_maniax",
-        "description": null,
-        "owner": "anoken",
-        "stars": 11,
-        "forks": 2,
-        "size": 4040,
-        "created": "2019-12-30T05:38:12Z",
-        "updated": "2022-12-21T14:41:16Z",
-        "pushed": "2020-08-21T03:48:33Z",
-        "url": "https://github.com/anoken/maix_maniax",
-        "id": 230854543
-    },
-    {
         "repo": "m5stickv_base",
         "description": "C language based embedded application framework for M5StickV.",
         "owner": "hidenorly",
@@ -34658,19 +34645,6 @@
         "id": 740078725
     },
     {
-        "repo": "Contador-de-pollos-con-IA-en-Maix-ii-dock",
-        "description": "Automatizacion del Conteo de Pollos en el Sector Avicola Usando Imagenes e Inteligencia Artificial",
-        "owner": "chickencounter",
-        "stars": 0,
-        "forks": 0,
-        "size": 6522893,
-        "created": "2023-11-24T19:26:29+00:00",
-        "updated": "2023-11-24T20:29:03+00:00",
-        "pushed": "2024-01-09T02:54:58+00:00",
-        "url": "https://github.com/chickencounter/Contador-de-pollos-con-IA-en-Maix-ii-dock",
-        "id": 723134988
-    },
-    {
         "repo": "k210-hal",
         "description": "Rust's hardware abstract layer (HAL) for K210 chip, a dual RV64GC SoC with hardware accelerated AI peripherals. Contributions welcomed!",
         "owner": "riscv-rust",
@@ -35007,19 +34981,6 @@
         "pushed": "2024-01-25T11:22:07+00:00",
         "url": "https://github.com/sananabbasov/k230-react-shop-app",
         "id": 745000837
-    },
-    {
-        "repo": "platformio-vscode-ide",
-        "description": "PlatformIO IDE for VSCode: The next generation integrated development environment for IoT",
-        "owner": "platformio",
-        "stars": 1115,
-        "forks": 203,
-        "size": 2027,
-        "created": "2017-05-24T21:01:01+00:00",
-        "updated": "2024-01-26T19:40:01+00:00",
-        "pushed": "2024-01-26T19:44:04+00:00",
-        "url": "https://github.com/platformio/platformio-vscode-ide",
-        "id": 92336263
     },
     {
         "repo": "k230-telegram-bot",
@@ -35373,19 +35334,6 @@
         "id": 445443917
     },
     {
-        "repo": "MaiXF-blog-Manage",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 2590,
-        "created": "2023-12-29T13:52:11+00:00",
-        "updated": "2023-12-29T13:52:59+00:00",
-        "pushed": "2024-02-06T15:52:26+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
-        "id": 736998715
-    },
-    {
         "repo": "MaiXF-blog-serve",
         "description": null,
         "owner": "ttizzyf",
@@ -35620,19 +35568,6 @@
         "id": 411406144
     },
     {
-        "repo": "rCoreOS",
-        "description": "\ud83d\ude0d Rust\u5b9e\u73b0\u7684\u7c7bLinux\u64cd\u4f5c\u7cfb\u7edf\uff0crCore-Tutorial-v3 \u7ec3\u4e60",
-        "owner": "KamijoToma",
-        "stars": 1,
-        "forks": 0,
-        "size": 51,
-        "created": "2024-02-11T14:29:09+00:00",
-        "updated": "2024-02-12T05:43:54+00:00",
-        "pushed": "2024-02-12T05:59:31+00:00",
-        "url": "https://github.com/KamijoToma/rCoreOS",
-        "id": 755937691
-    },
-    {
         "repo": "marover",
         "description": "Maro small toy robot",
         "owner": "maroziza",
@@ -35646,15 +35581,54 @@
         "id": 706606213
     },
     {
+        "repo": "platformio-vscode-ide",
+        "description": "PlatformIO IDE for VSCode: The next generation integrated development environment for IoT",
+        "owner": "platformio",
+        "stars": 1117,
+        "forks": 208,
+        "size": 2027,
+        "created": "2017-05-24T21:01:01+00:00",
+        "updated": "2024-02-12T18:41:22+00:00",
+        "pushed": "2024-02-10T23:42:27+00:00",
+        "url": "https://github.com/platformio/platformio-vscode-ide",
+        "id": 92336263
+    },
+    {
+        "repo": "maix_maniax",
+        "description": null,
+        "owner": "anoken",
+        "stars": 11,
+        "forks": 2,
+        "size": 4152,
+        "created": "2019-12-30T05:38:12+00:00",
+        "updated": "2024-02-13T01:13:48+00:00",
+        "pushed": "2024-02-13T02:33:17+00:00",
+        "url": "https://github.com/anoken/maix_maniax",
+        "id": 230854543
+    },
+    {
+        "repo": "rCoreOS",
+        "description": "\ud83d\ude0d Rust\u5b9e\u73b0\u7684\u7c7bLinux\u64cd\u4f5c\u7cfb\u7edf\uff0crCore-Tutorial-v3 \u7ec3\u4e60",
+        "owner": "KamijoToma",
+        "stars": 2,
+        "forks": 0,
+        "size": 80,
+        "created": "2024-02-11T14:29:09+00:00",
+        "updated": "2024-02-12T15:53:34+00:00",
+        "pushed": "2024-02-13T02:50:38+00:00",
+        "url": "https://github.com/KamijoToma/rCoreOS",
+        "id": 755937691
+    },
+    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
         "stars": 6,
         "forks": 1,
-        "size": 977,
+        "size": 1022,
         "created": "2023-02-26T23:41:46+00:00",
         "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2024-02-11T14:43:49+00:00",
+        "pushed": "2024-02-12T23:18:25+00:00",
         "url": "https://github.com/davidly/rvos",
         "id": 606922823
     },
@@ -35664,12 +35638,38 @@
         "owner": "FisherInNorth",
         "stars": 0,
         "forks": 0,
-        "size": 37135,
+        "size": 37136,
         "created": "2023-10-10T14:12:00+00:00",
         "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-02-11T15:21:50+00:00",
+        "pushed": "2024-02-13T04:57:07+00:00",
         "url": "https://github.com/FisherInNorth/myos-kernel",
         "id": 703057974
+    },
+    {
+        "repo": "MaiXF-blog-Manage",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 2597,
+        "created": "2023-12-29T13:52:11+00:00",
+        "updated": "2023-12-29T13:52:59+00:00",
+        "pushed": "2024-02-12T15:12:17+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
+        "id": 736998715
+    },
+    {
+        "repo": "Contador-de-pollos-con-IA-en-Maix-ii-dock",
+        "description": "Automatizacion del Conteo de Pollos en el Sector Avicola Usando Imagenes e Inteligencia Artificial",
+        "owner": "chickencounter",
+        "stars": 0,
+        "forks": 0,
+        "size": 6523327,
+        "created": "2023-11-24T19:26:29+00:00",
+        "updated": "2023-11-24T20:29:03+00:00",
+        "pushed": "2024-02-12T12:58:53+00:00",
+        "url": "https://github.com/chickencounter/Contador-de-pollos-con-IA-en-Maix-ii-dock",
+        "id": 723134988
     },
     {
         "repo": "awesome-stars",
@@ -35677,10 +35677,10 @@
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 7184,
+        "size": 7603,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-12T01:33:38+00:00",
+        "pushed": "2024-02-13T01:33:49+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35690,10 +35690,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1261,
+        "size": 1263,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-12T01:30:41+00:00",
+        "pushed": "2024-02-13T01:30:49+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35701,12 +35701,12 @@
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 109,
+        "stars": 110,
         "forks": 35,
-        "size": 604263,
+        "size": 604696,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-01-24T17:10:49+00:00",
-        "pushed": "2024-02-11T12:20:20+00:00",
+        "updated": "2024-02-13T01:44:01+00:00",
+        "pushed": "2024-02-12T12:22:32+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35719,7 +35719,7 @@
         "size": 304,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-12T03:33:43+00:00",
+        "pushed": "2024-02-13T00:12:16+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
