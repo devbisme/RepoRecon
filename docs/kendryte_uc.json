@@ -34853,19 +34853,6 @@
         "id": 741788263
     },
     {
-        "repo": "ros",
-        "description": null,
-        "owner": "bluetianx",
-        "stars": 0,
-        "forks": 0,
-        "size": 296,
-        "created": "2021-08-06T14:33:55+00:00",
-        "updated": "2022-05-16T15:21:36+00:00",
-        "pushed": "2024-01-21T14:37:50+00:00",
-        "url": "https://github.com/bluetianx/ros",
-        "id": 393403489
-    },
-    {
         "repo": "renault-radio-code-generator",
         "description": null,
         "owner": "ExtraMobs",
@@ -35594,19 +35581,6 @@
         "id": 230854543
     },
     {
-        "repo": "rCoreOS",
-        "description": "\ud83d\ude0d Rust\u5b9e\u73b0\u7684\u7c7bLinux\u64cd\u4f5c\u7cfb\u7edf\uff0crCore-Tutorial-v3 \u7ec3\u4e60",
-        "owner": "KamijoToma",
-        "stars": 2,
-        "forks": 0,
-        "size": 80,
-        "created": "2024-02-11T14:29:09+00:00",
-        "updated": "2024-02-12T15:53:34+00:00",
-        "pushed": "2024-02-13T02:50:38+00:00",
-        "url": "https://github.com/KamijoToma/rCoreOS",
-        "id": 755937691
-    },
-    {
         "repo": "myos-kernel",
         "description": null,
         "owner": "FisherInNorth",
@@ -35618,19 +35592,6 @@
         "pushed": "2024-02-13T04:57:07+00:00",
         "url": "https://github.com/FisherInNorth/myos-kernel",
         "id": 703057974
-    },
-    {
-        "repo": "MaiXF-blog-Manage",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 2597,
-        "created": "2023-12-29T13:52:11+00:00",
-        "updated": "2023-12-29T13:52:59+00:00",
-        "pushed": "2024-02-12T15:12:17+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
-        "id": 736998715
     },
     {
         "repo": "Contador-de-pollos-con-IA-en-Maix-ii-dock",
@@ -35646,30 +35607,43 @@
         "id": 723134988
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 7603,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-13T01:33:49+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "archives",
         "description": "My cloud storage",
         "owner": "steward-fu",
         "stars": 28,
         "forks": 3,
-        "size": 5095,
+        "size": 5098,
         "created": "2023-03-20T01:01:53+00:00",
         "updated": "2024-02-08T15:18:37+00:00",
-        "pushed": "2024-02-14T05:37:27+00:00",
+        "pushed": "2024-02-15T01:56:50+00:00",
         "url": "https://github.com/steward-fu/archives",
         "id": 616233611
+    },
+    {
+        "repo": "rCoreOS",
+        "description": "\ud83d\ude0d Rust\u5b9e\u73b0\u7684\u7c7bLinux\u64cd\u4f5c\u7cfb\u7edf\uff0crCore-Tutorial-v3 \u7ec3\u4e60",
+        "owner": "KamijoToma",
+        "stars": 2,
+        "forks": 0,
+        "size": 129,
+        "created": "2024-02-11T14:29:09+00:00",
+        "updated": "2024-02-12T15:53:34+00:00",
+        "pushed": "2024-02-14T12:01:40+00:00",
+        "url": "https://github.com/KamijoToma/rCoreOS",
+        "id": 755937691
+    },
+    {
+        "repo": "ros",
+        "description": null,
+        "owner": "bluetianx",
+        "stars": 0,
+        "forks": 0,
+        "size": 296,
+        "created": "2021-08-06T14:33:55+00:00",
+        "updated": "2022-05-16T15:21:36+00:00",
+        "pushed": "2024-02-14T15:19:22+00:00",
+        "url": "https://github.com/bluetianx/ros",
+        "id": 393403489
     },
     {
         "repo": "rvos",
@@ -35677,12 +35651,64 @@
         "owner": "davidly",
         "stars": 6,
         "forks": 1,
-        "size": 1033,
+        "size": 1121,
         "created": "2023-02-26T23:41:46+00:00",
         "updated": "2023-12-22T04:49:52+00:00",
-        "pushed": "2024-02-13T15:40:22+00:00",
+        "pushed": "2024-02-14T23:42:45+00:00",
         "url": "https://github.com/davidly/rvos",
         "id": 606922823
+    },
+    {
+        "repo": "maixprod-impostos",
+        "description": "Calculadora de al\u00edquotas integrada com o ERP MAXIPROD, desenvolvido para o uso da empresa IoTag",
+        "owner": "Eduardo-Kaluf",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2024-02-14T16:19:09+00:00",
+        "updated": "2024-02-14T16:32:07+00:00",
+        "pushed": "2024-02-14T16:20:14+00:00",
+        "url": "https://github.com/Eduardo-Kaluf/maixprod-impostos",
+        "id": 757502631
+    },
+    {
+        "repo": "MaiXF-blog-Manage",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 2604,
+        "created": "2023-12-29T13:52:11+00:00",
+        "updated": "2023-12-29T13:52:59+00:00",
+        "pushed": "2024-02-14T17:39:28+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
+        "id": 736998715
+    },
+    {
+        "repo": "kidbright_MAI_server",
+        "description": "Server for KidBright micro AI",
+        "owner": "KidBrightAI",
+        "stars": 0,
+        "forks": 0,
+        "size": 141364,
+        "created": "2024-02-07T05:38:23+00:00",
+        "updated": "2024-02-15T02:51:54+00:00",
+        "pushed": "2024-02-15T02:51:47+00:00",
+        "url": "https://github.com/KidBrightAI/kidbright_MAI_server",
+        "id": 753959088
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 7604,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2024-02-15T01:32:37+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
     },
     {
         "repo": "awesome-stars",
@@ -35690,10 +35716,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1264,
+        "size": 1266,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-14T01:31:08+00:00",
+        "pushed": "2024-02-15T01:31:26+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35706,7 +35732,7 @@
         "size": 609040,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-02-13T12:21:37+00:00",
+        "pushed": "2024-02-14T12:22:37+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35719,7 +35745,7 @@
         "size": 304,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-14T00:12:03+00:00",
+        "pushed": "2024-02-15T00:12:20+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

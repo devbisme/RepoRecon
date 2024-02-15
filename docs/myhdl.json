@@ -4576,19 +4576,6 @@
         "id": 194942915
     },
     {
-        "repo": "vcd-samples",
-        "description": "sample VCD files",
-        "owner": "wavedrom",
-        "stars": 35,
-        "forks": 1,
-        "size": 1962,
-        "created": "2021-08-08T07:23:17+00:00",
-        "updated": "2023-12-12T01:34:20+00:00",
-        "pushed": "2024-01-23T03:39:59+00:00",
-        "url": "https://github.com/wavedrom/vcd-samples",
-        "id": 393889750
-    },
-    {
         "repo": "Kea",
         "description": "Some HDL tools built on MyHDL, including a register subsystem.",
         "owner": "SmartAcoustics",
@@ -4769,5 +4756,18 @@
         "pushed": "2024-02-12T12:30:59+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "vcd-samples",
+        "description": "sample VCD files",
+        "owner": "wavedrom",
+        "stars": 35,
+        "forks": 1,
+        "size": 1973,
+        "created": "2021-08-08T07:23:17+00:00",
+        "updated": "2023-12-12T01:34:20+00:00",
+        "pushed": "2024-02-14T23:11:21+00:00",
+        "url": "https://github.com/wavedrom/vcd-samples",
+        "id": 393889750
     }
 ]
