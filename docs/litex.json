@@ -11830,32 +11830,6 @@
         "id": 505464815
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 45274,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-02-13T03:20:52+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 47,
-        "forks": 15,
-        "size": 77637,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-02-02T21:12:23+00:00",
-        "pushed": "2024-02-13T19:57:32+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -11867,19 +11841,6 @@
         "pushed": "2024-02-13T18:09:48+00:00",
         "url": "https://github.com/enjoy-digital/liteiclink",
         "id": 109838222
-    },
-    {
-        "repo": "MiSTeX-ports",
-        "description": "FPGA board support and core ports for MiSTeX",
-        "owner": "MiSTeX-devel",
-        "stars": 27,
-        "forks": 6,
-        "size": 1183,
-        "created": "2023-03-04T08:03:05+00:00",
-        "updated": "2024-02-12T22:18:05+00:00",
-        "pushed": "2024-02-13T22:59:04+00:00",
-        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
-        "id": 609452923
     },
     {
         "repo": "tinyclunx33_zephyr_example",
@@ -11973,19 +11934,6 @@
         "id": 283207003
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 23,
-        "forks": 11,
-        "size": 26252,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-02-08T07:36:47+00:00",
-        "pushed": "2024-02-14T17:34:29+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -12010,19 +11958,6 @@
         "pushed": "2024-02-15T21:25:16+00:00",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 594,
-        "forks": 58,
-        "size": 1005,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-12T23:48:26+00:00",
-        "pushed": "2024-02-16T01:42:37+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -12064,19 +11999,6 @@
         "id": 155514739
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 7,
-        "forks": 8,
-        "size": 85049,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-02-14T16:24:29+00:00",
-        "pushed": "2024-02-15T19:31:30+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -12103,17 +12025,95 @@
         "id": 626567971
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 595,
+        "forks": 58,
+        "size": 1013,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-17T06:30:48+00:00",
+        "pushed": "2024-02-17T01:48:54+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 47,
+        "forks": 15,
+        "size": 77648,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-02-02T21:12:23+00:00",
+        "pushed": "2024-02-16T11:33:34+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "MiSTeX-ports",
+        "description": "FPGA board support and core ports for MiSTeX",
+        "owner": "MiSTeX-devel",
+        "stars": 27,
+        "forks": 6,
+        "size": 1191,
+        "created": "2023-03-04T08:03:05+00:00",
+        "updated": "2024-02-12T22:18:05+00:00",
+        "pushed": "2024-02-17T03:40:43+00:00",
+        "url": "https://github.com/MiSTeX-devel/MiSTeX-ports",
+        "id": 609452923
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 23,
+        "forks": 11,
+        "size": 26357,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-02-08T07:36:47+00:00",
+        "pushed": "2024-02-16T22:17:07+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 7,
+        "forks": 8,
+        "size": 85052,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-02-14T16:24:29+00:00",
+        "pushed": "2024-02-17T02:08:30+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 887,
+        "size": 959,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-16T04:35:41+00:00",
+        "pushed": "2024-02-17T04:36:02+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 46914,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2023-11-03T17:36:59+00:00",
+        "pushed": "2024-02-17T03:19:52+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     },
     {
         "repo": "awesome-stars",
@@ -12121,10 +12121,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 23145,
+        "size": 24350,
         "created": "2021-01-18T21:41:11+00:00",
         "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-02-16T00:57:08+00:00",
+        "pushed": "2024-02-17T01:06:53+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     }

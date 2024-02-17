@@ -34073,19 +34073,6 @@
         "id": 726765868
     },
     {
-        "repo": "awesome-yolo-object-detection",
-        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
-        "owner": "codingonion",
-        "stars": 896,
-        "forks": 156,
-        "size": 774,
-        "created": "2022-02-19T17:57:06+00:00",
-        "updated": "2023-12-05T03:38:54+00:00",
-        "pushed": "2023-12-04T15:14:55+00:00",
-        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
-        "id": 461270746
-    },
-    {
         "repo": "pxt-koi",
         "description": "This is a MakeCode extension for the KittenBot KOI AI module",
         "owner": "KittenBot",
@@ -35217,19 +35204,6 @@
         "id": 7408108
     },
     {
-        "repo": "TinyML_On_MicroControllers_Demo",
-        "description": "Demo of a prototype using MLLite for training and deployment of Machine Learning Models on various devices and microcontrollers.",
-        "owner": "mllite",
-        "stars": 0,
-        "forks": 0,
-        "size": 512639,
-        "created": "2024-01-15T07:23:22+00:00",
-        "updated": "2024-02-01T14:46:49+00:00",
-        "pushed": "2024-02-05T13:29:22+00:00",
-        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
-        "id": 743412749
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -35477,19 +35451,6 @@
         "id": 308248461
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 7769,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-12-12T02:51:21+00:00",
-        "pushed": "2024-02-11T18:06:24+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "marover",
         "description": "Maro small toy robot",
         "owner": "maroziza",
@@ -35659,19 +35620,6 @@
         "id": 755937691
     },
     {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 0,
-        "forks": 0,
-        "size": 37137,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-02-15T13:33:17+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "MaiXF-blog-Manage",
         "description": null,
         "owner": "ttizzyf",
@@ -35711,15 +35659,67 @@
         "id": 685317589
     },
     {
+        "repo": "TinyML_On_MicroControllers_Demo",
+        "description": "Demo of a prototype using MLLite for training and deployment of Machine Learning Models on various devices and microcontrollers.",
+        "owner": "mllite",
+        "stars": 0,
+        "forks": 0,
+        "size": 512641,
+        "created": "2024-01-15T07:23:22+00:00",
+        "updated": "2024-02-01T14:46:49+00:00",
+        "pushed": "2024-02-17T04:14:33+00:00",
+        "url": "https://github.com/mllite/TinyML_On_MicroControllers_Demo",
+        "id": 743412749
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 7776,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-12-12T02:51:21+00:00",
+        "pushed": "2024-02-16T19:08:36+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "awesome-yolo-object-detection",
+        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
+        "owner": "codingonion",
+        "stars": 961,
+        "forks": 164,
+        "size": 774,
+        "created": "2022-02-19T17:57:06+00:00",
+        "updated": "2024-02-17T03:05:29+00:00",
+        "pushed": "2024-02-16T09:06:40+00:00",
+        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
+        "id": 461270746
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 0,
+        "forks": 0,
+        "size": 37138,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2023-10-10T14:14:34+00:00",
+        "pushed": "2024-02-16T14:45:38+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1380,
+        "size": 1495,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-16T01:30:11+00:00",
+        "pushed": "2024-02-17T01:29:16+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35729,10 +35729,10 @@
         "owner": "androidtrackers",
         "stars": 111,
         "forks": 35,
-        "size": 609042,
+        "size": 609044,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-02-15T12:22:32+00:00",
+        "pushed": "2024-02-16T12:22:13+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35745,7 +35745,7 @@
         "size": 304,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-16T00:12:05+00:00",
+        "pushed": "2024-02-17T00:11:39+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
