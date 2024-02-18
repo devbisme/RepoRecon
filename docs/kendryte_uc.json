@@ -34320,19 +34320,6 @@
         "id": 688444466
     },
     {
-        "repo": "rustsbi-k210",
-        "description": "Kendryte K210 SBI support using RustSBI, provides privileged spec 1.12 environment by emulating it using 1.9.1",
-        "owner": "rustsbi",
-        "stars": 32,
-        "forks": 10,
-        "size": 192,
-        "created": "2021-05-30T12:41:12+00:00",
-        "updated": "2023-09-19T02:48:01+00:00",
-        "pushed": "2023-12-27T02:58:02+00:00",
-        "url": "https://github.com/rustsbi/rustsbi-k210",
-        "id": 372211237
-    },
-    {
         "repo": "patch",
         "description": "Patches that add Embedded Go supported architectures to the reference Go compiler",
         "owner": "embeddedgo",
@@ -35256,19 +35243,6 @@
         "id": 445443917
     },
     {
-        "repo": "MaiXF-blog-serve",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 16924,
-        "created": "2023-12-29T14:08:52+00:00",
-        "updated": "2023-12-29T14:09:43+00:00",
-        "pushed": "2024-02-06T15:52:48+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-serve",
-        "id": 737003592
-    },
-    {
         "repo": "kidbright_mai_training_script",
         "description": null,
         "owner": "comdet",
@@ -35306,19 +35280,6 @@
         "pushed": "2024-02-07T13:57:29+00:00",
         "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
         "id": 308346100
-    },
-    {
-        "repo": "bookmarks",
-        "description": "Sreedev's Web Browser Bookmarks",
-        "owner": "sreedevk",
-        "stars": 5,
-        "forks": 0,
-        "size": 2607,
-        "created": "2021-10-17T17:03:46+00:00",
-        "updated": "2023-11-12T14:16:51+00:00",
-        "pushed": "2024-02-07T20:19:29+00:00",
-        "url": "https://github.com/sreedevk/bookmarks",
-        "id": 418199179
     },
     {
         "repo": "MDU-robot-grupp5",
@@ -35620,19 +35581,6 @@
         "id": 755937691
     },
     {
-        "repo": "MaiXF-blog-Manage",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 2606,
-        "created": "2023-12-29T13:52:11+00:00",
-        "updated": "2023-12-29T13:52:59+00:00",
-        "pushed": "2024-02-15T13:26:53+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
-        "id": 736998715
-    },
-    {
         "repo": "ttt",
         "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
         "owner": "davidly",
@@ -35644,19 +35592,6 @@
         "pushed": "2024-02-15T17:29:44+00:00",
         "url": "https://github.com/davidly/ttt",
         "id": 456793068
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 8023,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-16T01:33:39+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
     },
     {
         "repo": "TinyML_On_MicroControllers_Demo",
@@ -35711,15 +35646,80 @@
         "id": 703057974
     },
     {
+        "repo": "rustsbi-k210",
+        "description": "Kendryte K210 SBI support using RustSBI, provides privileged spec 1.12 environment by emulating it using 1.9.1",
+        "owner": "rustsbi",
+        "stars": 32,
+        "forks": 9,
+        "size": 109,
+        "created": "2021-05-30T12:41:12+00:00",
+        "updated": "2023-09-19T02:48:01+00:00",
+        "pushed": "2024-02-18T03:11:28+00:00",
+        "url": "https://github.com/rustsbi/rustsbi-k210",
+        "id": 372211237
+    },
+    {
+        "repo": "bookmarks",
+        "description": "Sreedev's Web Browser Bookmarks",
+        "owner": "sreedevk",
+        "stars": 5,
+        "forks": 0,
+        "size": 2648,
+        "created": "2021-10-17T17:03:46+00:00",
+        "updated": "2023-11-12T14:16:51+00:00",
+        "pushed": "2024-02-18T00:48:31+00:00",
+        "url": "https://github.com/sreedevk/bookmarks",
+        "id": 418199179
+    },
+    {
+        "repo": "MaiXF-blog-Manage",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 2614,
+        "created": "2023-12-29T13:52:11+00:00",
+        "updated": "2023-12-29T13:52:59+00:00",
+        "pushed": "2024-02-17T14:50:38+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
+        "id": 736998715
+    },
+    {
+        "repo": "MaiXF-blog-serve",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 23334,
+        "created": "2023-12-29T14:08:52+00:00",
+        "updated": "2023-12-29T14:09:43+00:00",
+        "pushed": "2024-02-17T14:49:48+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-serve",
+        "id": 737003592
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 8444,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2024-02-18T01:37:05+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1495,
+        "size": 1610,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-17T01:29:16+00:00",
+        "pushed": "2024-02-18T01:34:18+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35732,7 +35732,7 @@
         "size": 609044,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-02-16T12:22:13+00:00",
+        "pushed": "2024-02-17T12:20:09+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35740,12 +35740,12 @@
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
-        "stars": 29,
+        "stars": 30,
         "forks": 0,
         "size": 304,
         "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-01-29T22:34:25+00:00",
-        "pushed": "2024-02-17T00:11:39+00:00",
+        "updated": "2024-02-18T04:17:11+00:00",
+        "pushed": "2024-02-18T03:57:30+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
