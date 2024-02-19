@@ -4719,19 +4719,6 @@
         "id": 479118982
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13165,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-02-11T06:52:17+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "vcd-samples",
         "description": "sample VCD files",
         "owner": "wavedrom",
@@ -4758,15 +4745,28 @@
         "id": 143520625
     },
     {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 3,
+        "forks": 1,
+        "size": 13302,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-02-07T09:20:38+00:00",
+        "pushed": "2024-02-18T18:18:28+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
         "stars": 7,
         "forks": 1,
-        "size": 183,
+        "size": 186,
         "created": "2023-12-12T22:50:43+00:00",
         "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-02-17T18:30:30+00:00",
+        "pushed": "2024-02-18T23:20:24+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
     }

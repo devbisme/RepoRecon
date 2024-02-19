@@ -11908,19 +11908,6 @@
         "id": 283207003
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2569,
-        "forks": 508,
-        "size": 16678,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-02-15T02:04:27+00:00",
-        "pushed": "2024-02-16T06:10:12+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -11971,19 +11958,6 @@
         "pushed": "2024-02-15T12:42:08+00:00",
         "url": "https://github.com/machdyne/sechzig",
         "id": 626567971
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 47,
-        "forks": 15,
-        "size": 77648,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-02-02T21:12:23+00:00",
-        "pushed": "2024-02-16T11:33:34+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
     },
     {
         "repo": "MiSTeX-ports",
@@ -12038,32 +12012,6 @@
         "id": 560725242
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 24350,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-02-17T01:06:53+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 595,
-        "forks": 58,
-        "size": 1013,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-17T06:30:48+00:00",
-        "pushed": "2024-02-18T01:43:36+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12075,19 +12023,6 @@
         "pushed": "2024-02-18T02:10:51+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1357,
-        "forks": 188,
-        "size": 202132,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-02-18T02:57:54+00:00",
-        "pushed": "2024-02-17T23:11:17+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "NuBusFPGA",
@@ -12116,16 +12051,81 @@
         "id": 559997034
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2569,
+        "forks": 510,
+        "size": 16554,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-02-19T01:37:07+00:00",
+        "pushed": "2024-02-19T05:34:36+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 597,
+        "forks": 58,
+        "size": 1013,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-19T06:04:03+00:00",
+        "pushed": "2024-02-19T01:49:23+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 48,
+        "forks": 15,
+        "size": 77655,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-02-18T11:46:08+00:00",
+        "pushed": "2024-02-18T21:31:13+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1357,
+        "forks": 190,
+        "size": 202138,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-02-18T02:57:54+00:00",
+        "pushed": "2024-02-18T18:25:54+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 960,
+        "size": 962,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-18T04:34:38+00:00",
+        "pushed": "2024-02-19T04:34:31+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 25557,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2024-02-19T01:05:20+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     }
 ]
