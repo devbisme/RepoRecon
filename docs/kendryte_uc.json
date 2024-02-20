@@ -35243,19 +35243,6 @@
         "id": 753435342
     },
     {
-        "repo": "rCore-Tutorial-Book-v3",
-        "description": "A book about how to write  OS kernels in Rust easily.",
-        "owner": "rcore-os",
-        "stars": 1066,
-        "forks": 176,
-        "size": 97947,
-        "created": "2020-10-29T14:01:52+00:00",
-        "updated": "2024-02-06T20:03:03+00:00",
-        "pushed": "2024-02-07T13:57:29+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
-        "id": 308346100
-    },
-    {
         "repo": "MDU-robot-grupp5",
         "description": "iwrigbfeywbkfwykgfk",
         "owner": "abbchrjer",
@@ -35371,32 +35358,6 @@
         "pushed": "2024-02-11T05:33:42+00:00",
         "url": "https://github.com/aqvq/myOS",
         "id": 755805380
-    },
-    {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1347,
-        "forks": 392,
-        "size": 47575,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-02-11T13:24:17+00:00",
-        "pushed": "2024-02-11T12:09:42+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 6915,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2024-02-11T09:18:13+00:00",
-        "pushed": "2024-02-11T09:18:09+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
     },
     {
         "repo": "platformio-vscode-ide",
@@ -35633,32 +35594,6 @@
         "id": 418199179
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 680,
-        "forks": 182,
-        "size": 57153,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-02-12T16:47:38+00:00",
-        "pushed": "2024-02-19T05:59:48+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rCore_sys",
-        "description": null,
-        "owner": "dawn-cmd",
-        "stars": 0,
-        "forks": 0,
-        "size": 3433,
-        "created": "2024-01-05T04:25:23+00:00",
-        "updated": "2024-01-05T04:29:56+00:00",
-        "pushed": "2024-02-18T08:49:30+00:00",
-        "url": "https://github.com/dawn-cmd/rCore_sys",
-        "id": 739229681
-    },
-    {
         "repo": "proj267-Kernel-bypass-build-technology",
         "description": null,
         "owner": "oscomp",
@@ -35724,19 +35659,6 @@
         "id": 636169410
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 903,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2022-07-02T18:33:48+00:00",
-        "pushed": "2024-02-18T16:02:01+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
@@ -35750,15 +35672,93 @@
         "id": 685317589
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 680,
+        "forks": 182,
+        "size": 57271,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-02-12T16:47:38+00:00",
+        "pushed": "2024-02-20T02:41:28+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1354,
+        "forks": 392,
+        "size": 47405,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-02-20T04:43:10+00:00",
+        "pushed": "2024-02-19T14:37:24+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "rCore-Tutorial-Book-v3",
+        "description": "A book about how to write  OS kernels in Rust easily.",
+        "owner": "rcore-os",
+        "stars": 1067,
+        "forks": 177,
+        "size": 98093,
+        "created": "2020-10-29T14:01:52+00:00",
+        "updated": "2024-02-19T18:16:31+00:00",
+        "pushed": "2024-02-19T14:56:36+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
+        "id": 308346100
+    },
+    {
+        "repo": "rCore_sys",
+        "description": null,
+        "owner": "dawn-cmd",
+        "stars": 0,
+        "forks": 0,
+        "size": 3433,
+        "created": "2024-01-05T04:25:23+00:00",
+        "updated": "2024-01-05T04:29:56+00:00",
+        "pushed": "2024-02-19T17:25:17+00:00",
+        "url": "https://github.com/dawn-cmd/rCore_sys",
+        "id": 739229681
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 6932,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2024-02-11T09:18:13+00:00",
+        "pushed": "2024-02-19T22:03:30+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 910,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2022-07-02T18:33:48+00:00",
+        "pushed": "2024-02-19T17:19:17+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1726,
+        "size": 1728,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-19T01:32:08+00:00",
+        "pushed": "2024-02-20T01:29:26+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35768,10 +35768,10 @@
         "owner": "androidtrackers",
         "stars": 111,
         "forks": 35,
-        "size": 611760,
+        "size": 611761,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-02-18T12:21:01+00:00",
+        "pushed": "2024-02-19T12:22:50+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35784,7 +35784,7 @@
         "size": 304,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-02-18T04:17:11+00:00",
-        "pushed": "2024-02-19T00:12:21+00:00",
+        "pushed": "2024-02-20T00:11:39+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
