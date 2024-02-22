@@ -10504,19 +10504,6 @@
         "id": 515752786
     },
     {
-        "repo": "my-stars",
-        "description": null,
-        "owner": "SatyrDiamond",
-        "stars": 0,
-        "forks": 0,
-        "size": 200,
-        "created": "2023-06-08T04:51:51+00:00",
-        "updated": "2023-06-08T04:51:52+00:00",
-        "pushed": "2023-11-24T09:16:38+00:00",
-        "url": "https://github.com/SatyrDiamond/my-stars",
-        "id": 650913012
-    },
-    {
         "repo": "renode_emulation_litex_vexriscv_tensorflow_lite_demo",
         "description": null,
         "owner": "oferonmi",
@@ -11505,19 +11492,6 @@
         "id": 415920994
     },
     {
-        "repo": "elements-vexriscv",
-        "description": "VexRiscv fork",
-        "owner": "aesc-silicon",
-        "stars": 0,
-        "forks": 0,
-        "size": 13457,
-        "created": "2020-11-06T19:50:39+00:00",
-        "updated": "2022-01-23T20:58:09+00:00",
-        "pushed": "2024-02-02T01:09:13+00:00",
-        "url": "https://github.com/aesc-silicon/elements-vexriscv",
-        "id": 310692215
-    },
-    {
         "repo": "litex-alchitry-cu-examples",
         "description": "Examples of using Litex on an Alchitry Cu board",
         "owner": "Mark1626",
@@ -11529,19 +11503,6 @@
         "pushed": "2024-02-04T08:37:11+00:00",
         "url": "https://github.com/Mark1626/litex-alchitry-cu-examples",
         "id": 654657779
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 553,
-        "forks": 132,
-        "size": 621192,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-02-05T11:40:36+00:00",
-        "pushed": "2024-02-06T04:41:34+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
     },
     {
         "repo": "xls",
@@ -11882,58 +11843,6 @@
         "id": 293705373
     },
     {
-        "repo": "fsic_asic",
-        "description": null,
-        "owner": "bol-edu",
-        "stars": 2,
-        "forks": 2,
-        "size": 14394,
-        "created": "2023-07-13T02:24:00+00:00",
-        "updated": "2023-08-01T12:10:47+00:00",
-        "pushed": "2024-02-19T11:08:45+00:00",
-        "url": "https://github.com/bol-edu/fsic_asic",
-        "id": 665787279
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 2,
-        "forks": 2,
-        "size": 1074,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2023-10-08T19:10:45+00:00",
-        "pushed": "2024-02-19T22:50:49+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2571,
-        "forks": 510,
-        "size": 16559,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-02-20T10:06:39+00:00",
-        "pushed": "2024-02-20T15:58:53+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 331,
-        "forks": 260,
-        "size": 3855,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-02-20T02:40:32+00:00",
-        "pushed": "2024-02-20T18:44:25+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "learn-fpga",
         "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
         "owner": "BrunoLevy",
@@ -11960,32 +11869,6 @@
         "id": 42041717
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 599,
-        "forks": 58,
-        "size": 1013,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-20T02:15:56+00:00",
-        "pushed": "2024-02-21T01:49:21+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 436,
-        "forks": 120,
-        "size": 41638,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-02-17T18:52:36+00:00",
-        "pushed": "2024-02-21T02:09:14+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -11997,19 +11880,6 @@
         "pushed": "2024-02-20T16:32:28+00:00",
         "url": "https://github.com/enjoy-digital/liteiclink",
         "id": 109838222
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 48,
-        "forks": 15,
-        "size": 77684,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-02-18T11:46:08+00:00",
-        "pushed": "2024-02-20T22:08:55+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
     },
     {
         "repo": "neorv32",
@@ -12064,19 +11934,6 @@
         "id": 465199162
     },
     {
-        "repo": "tinyclunx33_zephyr_example",
-        "description": "Zephyr running on the tinyCLUNX33 SoM",
-        "owner": "tinyvision-ai-inc",
-        "stars": 0,
-        "forks": 1,
-        "size": 546,
-        "created": "2024-01-02T18:40:46+00:00",
-        "updated": "2024-01-03T07:32:09+00:00",
-        "pushed": "2024-02-20T13:31:03+00:00",
-        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
-        "id": 738233144
-    },
-    {
         "repo": "VexRiscv_fusesoc",
         "description": "Taken from the litex build and converted into a fusesoc core",
         "owner": "johnathan-convertino-afrl",
@@ -12103,17 +11960,160 @@
         "id": 237940918
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2572,
+        "forks": 508,
+        "size": 16572,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-02-21T12:33:34+00:00",
+        "pushed": "2024-02-21T21:40:35+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 330,
+        "forks": 260,
+        "size": 3864,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-02-22T06:13:17+00:00",
+        "pushed": "2024-02-21T09:06:58+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 561,
+        "forks": 132,
+        "size": 623726,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-02-21T07:47:05+00:00",
+        "pushed": "2024-02-22T01:52:27+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 601,
+        "forks": 58,
+        "size": 1013,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-21T15:36:49+00:00",
+        "pushed": "2024-02-22T01:52:38+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 436,
+        "forks": 120,
+        "size": 41638,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-02-17T18:52:36+00:00",
+        "pushed": "2024-02-22T02:09:04+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 48,
+        "forks": 16,
+        "size": 77688,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-02-18T11:46:08+00:00",
+        "pushed": "2024-02-21T16:42:31+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "fsic_asic",
+        "description": null,
+        "owner": "bol-edu",
+        "stars": 2,
+        "forks": 2,
+        "size": 14433,
+        "created": "2023-07-13T02:24:00+00:00",
+        "updated": "2023-08-01T12:10:47+00:00",
+        "pushed": "2024-02-22T02:19:31+00:00",
+        "url": "https://github.com/bol-edu/fsic_asic",
+        "id": 665787279
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 2,
+        "forks": 2,
+        "size": 1082,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2023-10-08T19:10:45+00:00",
+        "pushed": "2024-02-21T22:22:09+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "tinyclunx33_zephyr_example",
+        "description": "Zephyr running on the tinyCLUNX33 SoM",
+        "owner": "tinyvision-ai-inc",
+        "stars": 0,
+        "forks": 1,
+        "size": 547,
+        "created": "2024-01-02T18:40:46+00:00",
+        "updated": "2024-01-03T07:32:09+00:00",
+        "pushed": "2024-02-21T18:17:44+00:00",
+        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
+        "id": 738233144
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 965,
+        "size": 967,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-21T04:34:26+00:00",
+        "pushed": "2024-02-22T04:35:46+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "my-stars",
+        "description": null,
+        "owner": "SatyrDiamond",
+        "stars": 2,
+        "forks": 0,
+        "size": 322,
+        "created": "2023-06-08T04:51:51+00:00",
+        "updated": "2024-02-20T21:11:37+00:00",
+        "pushed": "2024-02-21T12:30:28+00:00",
+        "url": "https://github.com/SatyrDiamond/my-stars",
+        "id": 650913012
+    },
+    {
+        "repo": "elements-vexriscv",
+        "description": "VexRiscv fork",
+        "owner": "aesc-silicon",
+        "stars": 0,
+        "forks": 0,
+        "size": 13457,
+        "created": "2020-11-06T19:50:39+00:00",
+        "updated": "2022-01-23T20:58:09+00:00",
+        "pushed": "2024-02-21T10:52:24+00:00",
+        "url": "https://github.com/aesc-silicon/elements-vexriscv",
+        "id": 310692215
     },
     {
         "repo": "starList",
@@ -12121,10 +12121,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 48564,
+        "size": 48986,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-02-21T03:19:38+00:00",
+        "pushed": "2024-02-22T03:19:41+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
