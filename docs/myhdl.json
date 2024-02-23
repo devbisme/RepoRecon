@@ -3471,19 +3471,6 @@
         "id": 336042800
     },
     {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 82,
-        "forks": 14,
-        "size": 2946,
-        "created": "2021-02-27T17:29:46Z",
-        "updated": "2023-09-08T07:16:01Z",
-        "pushed": "2023-05-30T10:17:39Z",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
-    },
-    {
         "repo": "myHDL",
         "description": "myHDL",
         "owner": "junote",
@@ -4160,19 +4147,6 @@
         "id": 562732205
     },
     {
-        "repo": "awesome-fpga-list",
-        "description": "A collection of some awesome public FPGA projects.",
-        "owner": "sjinzh",
-        "stars": 22,
-        "forks": 2,
-        "size": 32,
-        "created": "2023-02-23T14:07:23Z",
-        "updated": "2023-09-04T12:35:28Z",
-        "pushed": "2023-05-23T12:49:59Z",
-        "url": "https://github.com/sjinzh/awesome-fpga-list",
-        "id": 605602834
-    },
-    {
         "repo": "myhdl-testing",
         "description": "MYHDL testing repo",
         "owner": "sangibeaud",
@@ -4628,19 +4602,6 @@
         "id": 154458175
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 983,
-        "forks": 242,
-        "size": 13364,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-02-04T15:53:27+00:00",
-        "pushed": "2024-02-04T17:40:31+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "awesome-hdl",
         "description": "Hardware Description Languages",
         "owner": "drom",
@@ -4732,19 +4693,6 @@
         "id": 393889750
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13302,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-02-18T18:18:28+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -4769,5 +4717,70 @@
         "pushed": "2024-02-20T20:32:28+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 988,
+        "forks": 241,
+        "size": 13364,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-02-22T09:24:57+00:00",
+        "pushed": "2024-02-22T19:15:09+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 3,
+        "forks": 1,
+        "size": 13349,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-02-07T09:20:38+00:00",
+        "pushed": "2024-02-22T12:14:36+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 124,
+        "forks": 15,
+        "size": 2923,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-02-21T14:19:10+00:00",
+        "pushed": "2024-02-22T19:16:40+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "awesome-fpga-list",
+        "description": "A collection of some awesome public FPGA projects.",
+        "owner": "codingonion",
+        "stars": 59,
+        "forks": 8,
+        "size": 34,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-02-02T05:14:50+00:00",
+        "pushed": "2024-02-22T12:28:01+00:00",
+        "url": "https://github.com/codingonion/awesome-fpga-list",
+        "id": 605602834
+    },
+    {
+        "repo": "internet",
+        "description": null,
+        "owner": "Xu-git-hahaha",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-02-23T04:08:54+00:00",
+        "updated": "2024-02-23T04:08:54+00:00",
+        "pushed": "2024-02-23T07:00:03+00:00",
+        "url": "https://github.com/Xu-git-hahaha/internet",
+        "id": 762090778
     }
 ]
