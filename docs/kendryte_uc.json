@@ -35646,19 +35646,6 @@
         "id": 760985177
     },
     {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 0,
-        "forks": 0,
-        "size": 37138,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-02-20T13:33:50+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "-",
         "description": "\u57fa\u4e8estm32f103\u7684\u667a\u80fd\u76d1\u72f1\u5b89\u9632\u7cfb\u7edf",
         "owner": "modecreate",
@@ -35711,19 +35698,6 @@
         "id": 552098843
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 9719,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-22T01:33:26+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "nncase",
         "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
         "owner": "kendryte",
@@ -35735,45 +35709,6 @@
         "pushed": "2024-02-23T06:58:02+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "awesome-fpga-list",
-        "description": "A collection of some awesome public FPGA projects.",
-        "owner": "codingonion",
-        "stars": 59,
-        "forks": 8,
-        "size": 34,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-02-02T05:14:50+00:00",
-        "pushed": "2024-02-22T12:28:01+00:00",
-        "url": "https://github.com/codingonion/awesome-fpga-list",
-        "id": 605602834
-    },
-    {
-        "repo": "awesome-yolo-object-detection",
-        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
-        "owner": "codingonion",
-        "stars": 972,
-        "forks": 163,
-        "size": 776,
-        "created": "2022-02-19T17:57:06+00:00",
-        "updated": "2024-02-23T05:44:01+00:00",
-        "pushed": "2024-02-22T16:10:34+00:00",
-        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
-        "id": 461270746
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 7344,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2024-02-20T08:54:10+00:00",
-        "pushed": "2024-02-22T23:12:21+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
     },
     {
         "repo": "tesis-Maixduino",
@@ -35802,32 +35737,6 @@
         "id": 761864577
     },
     {
-        "repo": "MaiXF-blog-Manage",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 2638,
-        "created": "2023-12-29T13:52:11+00:00",
-        "updated": "2023-12-29T13:52:59+00:00",
-        "pushed": "2024-02-22T15:20:56+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
-        "id": 736998715
-    },
-    {
-        "repo": "MaiXF-blog-serve",
-        "description": null,
-        "owner": "ttizzyf",
-        "stars": 0,
-        "forks": 0,
-        "size": 23362,
-        "created": "2023-12-29T14:08:52+00:00",
-        "updated": "2023-12-29T14:09:43+00:00",
-        "pushed": "2024-02-22T15:20:59+00:00",
-        "url": "https://github.com/ttizzyf/MaiXF-blog-serve",
-        "id": 737003592
-    },
-    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
@@ -35841,15 +35750,106 @@
         "id": 731012323
     },
     {
+        "repo": "awesome-cuda-rocm-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, CUDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 60,
+        "forks": 8,
+        "size": 26,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-02-24T01:55:12+00:00",
+        "pushed": "2024-02-24T02:52:19+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-rocm-fpga",
+        "id": 605602834
+    },
+    {
+        "repo": "awesome-yolo-object-detection",
+        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
+        "owner": "codingonion",
+        "stars": 976,
+        "forks": 163,
+        "size": 253,
+        "created": "2022-02-19T17:57:06+00:00",
+        "updated": "2024-02-23T19:55:16+00:00",
+        "pushed": "2024-02-23T12:10:41+00:00",
+        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
+        "id": 461270746
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 7344,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2024-02-20T08:54:10+00:00",
+        "pushed": "2024-02-24T06:38:42+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 0,
+        "forks": 0,
+        "size": 37140,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2023-10-10T14:14:34+00:00",
+        "pushed": "2024-02-23T13:50:16+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
+        "repo": "MaiXF-blog-Manage",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 2646,
+        "created": "2023-12-29T13:52:11+00:00",
+        "updated": "2023-12-29T13:52:59+00:00",
+        "pushed": "2024-02-24T07:07:55+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-Manage",
+        "id": 736998715
+    },
+    {
+        "repo": "MaiXF-blog-serve",
+        "description": null,
+        "owner": "ttizzyf",
+        "stars": 0,
+        "forks": 0,
+        "size": 23381,
+        "created": "2023-12-29T14:08:52+00:00",
+        "updated": "2023-12-29T14:09:43+00:00",
+        "pushed": "2024-02-24T06:55:24+00:00",
+        "url": "https://github.com/ttizzyf/MaiXF-blog-serve",
+        "id": 737003592
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 1088,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2024-02-24T01:28:20+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 111,
         "forks": 35,
-        "size": 611772,
+        "size": 611774,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-02-22T12:23:23+00:00",
+        "pushed": "2024-02-23T12:22:00+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -35862,7 +35862,7 @@
         "size": 304,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-02-18T04:17:11+00:00",
-        "pushed": "2024-02-23T00:11:34+00:00",
+        "pushed": "2024-02-24T00:12:24+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
