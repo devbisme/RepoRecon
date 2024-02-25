@@ -4693,19 +4693,6 @@
         "id": 393889750
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 201,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-02-20T20:32:28+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "myhdl",
         "description": "The MyHDL development repository",
         "owner": "myhdl",
@@ -4717,45 +4704,6 @@
         "pushed": "2024-02-22T19:15:09+00:00",
         "url": "https://github.com/myhdl/myhdl",
         "id": 30467971
-    },
-    {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13349,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-02-22T12:14:36+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 124,
-        "forks": 15,
-        "size": 2923,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-02-21T14:19:10+00:00",
-        "pushed": "2024-02-22T19:16:40+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 36,
-        "forks": 23,
-        "size": 41212,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-02-16T00:33:47+00:00",
-        "pushed": "2024-02-23T17:54:11+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
     },
     {
         "repo": "lab-myhdl-comb",
@@ -4951,5 +4899,57 @@
         "pushed": "2024-02-23T19:34:18+00:00",
         "url": "https://github.com/insper-classroom/24a-bits-lab-3-myhdl-fenix-de-gelo-e-mortais",
         "id": 762439889
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 36,
+        "forks": 23,
+        "size": 41227,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-02-16T00:33:47+00:00",
+        "pushed": "2024-02-24T16:57:48+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 3,
+        "forks": 1,
+        "size": 13399,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-02-07T09:20:38+00:00",
+        "pushed": "2024-02-24T13:11:14+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 124,
+        "forks": 15,
+        "size": 2927,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-02-21T14:19:10+00:00",
+        "pushed": "2024-02-24T12:16:15+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 203,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-24T16:34:21+00:00",
+        "pushed": "2024-02-24T20:12:27+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
     }
 ]
