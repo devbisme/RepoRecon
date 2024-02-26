@@ -4498,19 +4498,6 @@
         "id": 37444250
     },
     {
-        "repo": "bonfire-core",
-        "description": null,
-        "owner": "bonfireprocessor",
-        "stars": 0,
-        "forks": 1,
-        "size": 255,
-        "created": "2019-08-03T22:11:34+00:00",
-        "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-01-14T19:00:24+00:00",
-        "url": "https://github.com/bonfireprocessor/bonfire-core",
-        "id": 200425308
-    },
-    {
         "repo": "verilog-wishbone",
         "description": "Verilog wishbone components",
         "owner": "alexforencich",
@@ -4914,19 +4901,6 @@
         "id": 143520625
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13399,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-02-24T13:11:14+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "ASIC-Design-Roadmap",
         "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
         "owner": "abdelazeem201",
@@ -4951,5 +4925,31 @@
         "pushed": "2024-02-24T20:12:27+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 3,
+        "forks": 1,
+        "size": 13517,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-02-07T09:20:38+00:00",
+        "pushed": "2024-02-25T20:37:13+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "bonfire-core",
+        "description": null,
+        "owner": "bonfireprocessor",
+        "stars": 0,
+        "forks": 1,
+        "size": 252,
+        "created": "2019-08-03T22:11:34+00:00",
+        "updated": "2023-06-30T12:55:24+00:00",
+        "pushed": "2024-02-25T20:43:26+00:00",
+        "url": "https://github.com/bonfireprocessor/bonfire-core",
+        "id": 200425308
     }
 ]
