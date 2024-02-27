@@ -2353,19 +2353,6 @@
         "id": 137464279
     },
     {
-        "repo": "d3-hwschematic",
-        "description": "D3.js and ELK based schematic visualizer",
-        "owner": "Nic30",
-        "stars": 73,
-        "forks": 10,
-        "size": 6728,
-        "created": "2018-06-20T20:18:08Z",
-        "updated": "2023-08-29T09:30:48Z",
-        "pushed": "2023-06-15T12:32:05Z",
-        "url": "https://github.com/Nic30/d3-hwschematic",
-        "id": 138081540
-    },
-    {
         "repo": "myhdl-switch",
         "description": null,
         "owner": "stangs56",
@@ -4407,19 +4394,6 @@
         "id": 723253987
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 33,
-        "forks": 6,
-        "size": 6376,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2023-11-10T11:52:27+00:00",
-        "pushed": "2023-12-09T14:17:34+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
         "repo": "verilog-i2c",
         "description": "Verilog I2C interface for FPGA implementation",
         "owner": "alexforencich",
@@ -4626,19 +4600,6 @@
         "pushed": "2024-02-04T21:43:59+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 192,
-        "forks": 26,
-        "size": 19714,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-01-25T05:34:45+00:00",
-        "pushed": "2024-02-05T19:49:00+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
     },
     {
         "repo": "awesome-hwd-tools",
@@ -4888,19 +4849,6 @@
         "id": 762439889
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 36,
-        "forks": 23,
-        "size": 41227,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-02-16T00:33:47+00:00",
-        "pushed": "2024-02-24T16:57:48+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "ASIC-Design-Roadmap",
         "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
         "owner": "abdelazeem201",
@@ -4912,19 +4860,6 @@
         "pushed": "2024-02-24T12:16:15+00:00",
         "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
         "id": 342916296
-    },
-    {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 203,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-02-24T20:12:27+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
     },
     {
         "repo": "myhdl-numeric",
@@ -4940,15 +4875,80 @@
         "id": 38977954
     },
     {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 33,
+        "forks": 6,
+        "size": 6380,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2023-11-10T11:52:27+00:00",
+        "pushed": "2024-02-26T22:24:36+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 36,
+        "forks": 23,
+        "size": 41230,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-02-16T00:33:47+00:00",
+        "pushed": "2024-02-26T20:55:45+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 192,
+        "forks": 26,
+        "size": 19733,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-01-25T05:34:45+00:00",
+        "pushed": "2024-02-26T22:25:02+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "d3-hwschematic",
+        "description": "D3.js and ELK based schematic visualizer",
+        "owner": "Nic30",
+        "stars": 77,
+        "forks": 12,
+        "size": 6732,
+        "created": "2018-06-20T20:18:08+00:00",
+        "updated": "2024-02-15T14:52:09+00:00",
+        "pushed": "2024-02-27T06:40:53+00:00",
+        "url": "https://github.com/Nic30/d3-hwschematic",
+        "id": 138081540
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 218,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-24T16:34:21+00:00",
+        "pushed": "2024-02-26T22:37:18+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
+    },
+    {
         "repo": "bonfire-core",
         "description": null,
         "owner": "bonfireprocessor",
         "stars": 0,
         "forks": 1,
-        "size": 252,
+        "size": 260,
         "created": "2019-08-03T22:11:34+00:00",
         "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-02-25T20:43:26+00:00",
+        "pushed": "2024-02-26T18:11:43+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
     }

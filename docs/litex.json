@@ -11466,19 +11466,6 @@
         "id": 434342707
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 192,
-        "forks": 26,
-        "size": 19714,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-01-25T05:34:45+00:00",
-        "pushed": "2024-02-05T19:49:00+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "pocket-riscv-rs",
         "description": "Repo for apps for the Pocket RISC-V core for Analogue Pocket/OpenFPGA. Multiple branches.",
         "owner": "mcclure",
@@ -11752,19 +11739,6 @@
         "id": 109838222
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 24,
-        "forks": 11,
-        "size": 26357,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-02-20T00:56:59+00:00",
-        "pushed": "2024-02-20T17:47:59+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "VexRiscv_fusesoc",
         "description": "Taken from the litex build and converted into a fusesoc core",
         "owner": "johnathan-convertino-afrl",
@@ -11789,19 +11763,6 @@
         "pushed": "2024-02-20T13:34:09+00:00",
         "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
         "id": 237940918
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 330,
-        "forks": 260,
-        "size": 3864,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-02-22T06:13:17+00:00",
-        "pushed": "2024-02-21T09:06:58+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "ThunderScope",
@@ -11843,19 +11804,6 @@
         "id": 665787279
     },
     {
-        "repo": "tinyclunx33_zephyr_example",
-        "description": "Zephyr running on the tinyCLUNX33 SoM",
-        "owner": "tinyvision-ai-inc",
-        "stars": 0,
-        "forks": 1,
-        "size": 547,
-        "created": "2024-01-02T18:40:46+00:00",
-        "updated": "2024-01-03T07:32:09+00:00",
-        "pushed": "2024-02-21T18:17:44+00:00",
-        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
-        "id": 738233144
-    },
-    {
         "repo": "my-stars",
         "description": null,
         "owner": "SatyrDiamond",
@@ -11882,19 +11830,6 @@
         "id": 310692215
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2572,
-        "forks": 508,
-        "size": 16584,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-02-21T12:33:34+00:00",
-        "pushed": "2024-02-22T09:24:42+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -11919,45 +11854,6 @@
         "pushed": "2024-02-22T20:59:47+00:00",
         "url": "https://github.com/dacyberduck/dotfiles",
         "id": 761976443
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 41862,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-02-23T03:19:38+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 425,
-        "forks": 106,
-        "size": 1675,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-02-24T00:21:14+00:00",
-        "pushed": "2024-02-23T13:56:00+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 437,
-        "forks": 120,
-        "size": 41638,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-02-24T02:26:30+00:00",
-        "pushed": "2024-02-24T02:07:19+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
     },
     {
         "repo": "serv",
@@ -11999,19 +11895,6 @@
         "id": 605602834
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 26025,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-02-24T00:56:55+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -12049,19 +11932,6 @@
         "pushed": "2024-02-24T23:04:01+00:00",
         "url": "https://github.com/tweakoz/ork.build",
         "id": 483508371
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 606,
-        "forks": 58,
-        "size": 1013,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-25T15:45:19+00:00",
-        "pushed": "2024-02-26T01:43:41+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "neorv32",
@@ -12129,16 +11999,146 @@
         "id": 750287693
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2578,
+        "forks": 508,
+        "size": 16584,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-02-26T18:44:36+00:00",
+        "pushed": "2024-02-26T16:28:14+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 329,
+        "forks": 260,
+        "size": 3883,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-02-27T00:29:26+00:00",
+        "pushed": "2024-02-26T16:29:18+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 426,
+        "forks": 106,
+        "size": 1676,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-02-26T17:40:55+00:00",
+        "pushed": "2024-02-26T18:08:52+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 606,
+        "forks": 58,
+        "size": 1020,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-02-25T15:45:19+00:00",
+        "pushed": "2024-02-27T01:49:19+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 440,
+        "forks": 112,
+        "size": 41638,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-02-27T02:04:18+00:00",
+        "pushed": "2024-02-27T02:08:41+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 24,
+        "forks": 11,
+        "size": 26369,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-02-20T00:56:59+00:00",
+        "pushed": "2024-02-26T15:04:12+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 192,
+        "forks": 26,
+        "size": 19733,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-01-25T05:34:45+00:00",
+        "pushed": "2024-02-26T22:25:02+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "tinyclunx33_zephyr_example",
+        "description": "Zephyr running on the tinyCLUNX33 SoM",
+        "owner": "tinyvision-ai-inc",
+        "stars": 0,
+        "forks": 1,
+        "size": 550,
+        "created": "2024-01-02T18:40:46+00:00",
+        "updated": "2024-01-03T07:32:09+00:00",
+        "pushed": "2024-02-26T22:44:53+00:00",
+        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
+        "id": 738233144
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1044,
+        "size": 1046,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-02-26T04:34:17+00:00",
+        "pushed": "2024-02-27T04:35:02+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 27232,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2024-02-27T01:06:39+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 43510,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2023-11-03T17:36:59+00:00",
+        "pushed": "2024-02-27T03:20:25+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
