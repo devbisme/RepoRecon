@@ -35412,19 +35412,6 @@
         "id": 759698439
     },
     {
-        "repo": "PyQtFirmataCV",
-        "description": "Pyton Firmata Arduino OpenCV",
-        "owner": "eduardozel",
-        "stars": 0,
-        "forks": 0,
-        "size": 2818,
-        "created": "2024-01-09T16:57:23+00:00",
-        "updated": "2024-01-09T22:34:20+00:00",
-        "pushed": "2024-02-18T15:46:26+00:00",
-        "url": "https://github.com/eduardozel/PyQtFirmataCV",
-        "id": 741082500
-    },
-    {
         "repo": "google-colab-tinyyolov2-model-training-script-cocopi",
         "description": null,
         "owner": "Panweitong",
@@ -35711,32 +35698,6 @@
         "id": 753413867
     },
     {
-        "repo": "nuttx-ox64",
-        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
-        "owner": "lupyuen",
-        "stars": 30,
-        "forks": 0,
-        "size": 351,
-        "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-02-18T04:17:11+00:00",
-        "pushed": "2024-02-26T00:12:16+00:00",
-        "url": "https://github.com/lupyuen/nuttx-ox64",
-        "id": 711107946
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 680,
-        "forks": 182,
-        "size": 57278,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-02-25T14:13:40+00:00",
-        "pushed": "2024-02-27T06:40:27+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -35802,19 +35763,6 @@
         "id": 763476283
     },
     {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 0,
-        "forks": 0,
-        "size": 37141,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2023-10-10T14:14:34+00:00",
-        "pushed": "2024-02-26T15:51:53+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "MaiXF-blog-admin",
         "description": null,
         "owner": "ttizzyf",
@@ -35854,15 +35802,93 @@
         "id": 737003592
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 681,
+        "forks": 182,
+        "size": 57278,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-02-27T16:29:05+00:00",
+        "pushed": "2024-02-28T07:05:39+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230-vendor-uboot",
+        "description": null,
+        "owner": "revyos",
+        "stars": 0,
+        "forks": 0,
+        "size": 194332,
+        "created": "2024-02-27T16:26:47+00:00",
+        "updated": "2024-02-27T16:35:13+00:00",
+        "pushed": "2024-02-27T18:39:16+00:00",
+        "url": "https://github.com/revyos/k230-vendor-uboot",
+        "id": 764187639
+    },
+    {
+        "repo": "mkimg-k230",
+        "description": null,
+        "owner": "revyos",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2024-02-27T17:19:35+00:00",
+        "updated": "2024-02-27T18:27:00+00:00",
+        "pushed": "2024-02-27T18:42:49+00:00",
+        "url": "https://github.com/revyos/mkimg-k230",
+        "id": 764212829
+    },
+    {
+        "repo": "PyQtFirmataCV",
+        "description": "Pyton Firmata Arduino OpenCV",
+        "owner": "eduardozel",
+        "stars": 0,
+        "forks": 0,
+        "size": 2822,
+        "created": "2024-01-09T16:57:23+00:00",
+        "updated": "2024-01-09T22:34:20+00:00",
+        "pushed": "2024-02-27T08:04:53+00:00",
+        "url": "https://github.com/eduardozel/PyQtFirmataCV",
+        "id": 741082500
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 1,
+        "forks": 0,
+        "size": 37142,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2024-02-27T13:41:43+00:00",
+        "pushed": "2024-02-27T13:27:02+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
+        "repo": "proj295-Implementation-of-Dynamic-Link-Library",
+        "description": null,
+        "owner": "oscomp",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-02-28T07:10:41+00:00",
+        "updated": "2024-02-28T07:10:41+00:00",
+        "pushed": "2024-02-28T07:17:14+00:00",
+        "url": "https://github.com/oscomp/proj295-Implementation-of-Dynamic-Link-Library",
+        "id": 764492952
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 2368,
+        "size": 2796,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-02-27T01:32:29+00:00",
+        "pushed": "2024-02-28T01:33:47+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -35872,10 +35898,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2086,
+        "size": 2204,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-02-27T01:29:17+00:00",
+        "pushed": "2024-02-28T01:30:41+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -35885,11 +35911,24 @@
         "owner": "androidtrackers",
         "stars": 111,
         "forks": 35,
-        "size": 614496,
+        "size": 614499,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-02-26T12:22:34+00:00",
+        "pushed": "2024-02-27T12:22:29+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "nuttx-ox64",
+        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
+        "owner": "lupyuen",
+        "stars": 30,
+        "forks": 0,
+        "size": 351,
+        "created": "2023-10-28T08:34:51+00:00",
+        "updated": "2024-02-18T04:17:11+00:00",
+        "pushed": "2024-02-28T00:11:38+00:00",
+        "url": "https://github.com/lupyuen/nuttx-ox64",
+        "id": 711107946
     }
 ]

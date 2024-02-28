@@ -4784,19 +4784,6 @@
         "id": 762436248
     },
     {
-        "repo": "24a-bits-lab-3-myhdl-equipe-2",
-        "description": "24a-bits-lab-3-myhdl-equipe-2 created by GitHub Classroom",
-        "owner": "insper-classroom",
-        "stars": 0,
-        "forks": 0,
-        "size": 10,
-        "created": "2024-02-23T19:20:07+00:00",
-        "updated": "2024-02-23T19:20:13+00:00",
-        "pushed": "2024-02-23T20:43:17+00:00",
-        "url": "https://github.com/insper-classroom/24a-bits-lab-3-myhdl-equipe-2",
-        "id": 762435087
-    },
-    {
         "repo": "awesome-cuda-rocm-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, CUDNN, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
@@ -4862,19 +4849,6 @@
         "id": 342916296
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13517,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-02-25T20:37:13+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -4927,17 +4901,43 @@
         "id": 138081540
     },
     {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 3,
+        "forks": 1,
+        "size": 13579,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-02-07T09:20:38+00:00",
+        "pushed": "2024-02-27T11:13:52+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
         "stars": 7,
         "forks": 1,
-        "size": 218,
+        "size": 219,
         "created": "2023-12-12T22:50:43+00:00",
         "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-02-26T22:37:18+00:00",
+        "pushed": "2024-02-27T22:26:11+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "24a-bits-lab-3-myhdl-equipe-2",
+        "description": "24a-bits-lab-3-myhdl-equipe-2 created by GitHub Classroom",
+        "owner": "insper-classroom",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-02-23T19:20:07+00:00",
+        "updated": "2024-02-23T19:20:13+00:00",
+        "pushed": "2024-02-27T20:52:34+00:00",
+        "url": "https://github.com/insper-classroom/24a-bits-lab-3-myhdl-equipe-2",
+        "id": 762435087
     },
     {
         "repo": "bonfire-core",
@@ -4945,10 +4945,10 @@
         "owner": "bonfireprocessor",
         "stars": 0,
         "forks": 1,
-        "size": 260,
+        "size": 264,
         "created": "2019-08-03T22:11:34+00:00",
         "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-02-26T18:11:43+00:00",
+        "pushed": "2024-02-27T20:23:15+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
     }
