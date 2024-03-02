@@ -4771,19 +4771,6 @@
         "id": 762436248
     },
     {
-        "repo": "awesome-cuda-rocm-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, CUDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 60,
-        "forks": 8,
-        "size": 26,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-02-24T01:55:12+00:00",
-        "pushed": "2024-02-24T02:52:19+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-rocm-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "24a-bits-lab-3-myhdl-equipe8",
         "description": "24a-bits-lab-3-myhdl-equipe8 created by GitHub Classroom",
         "owner": "insper-classroom",
@@ -4875,19 +4862,6 @@
         "id": 138081540
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13579,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-02-27T11:13:52+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
@@ -4940,19 +4914,6 @@
         "id": 479118982
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 36,
-        "forks": 23,
-        "size": 41254,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-02-16T00:33:47+00:00",
-        "pushed": "2024-02-29T13:28:21+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "open_source",
         "description": null,
         "owner": "yanxp2github",
@@ -4964,5 +4925,70 @@
         "pushed": "2024-03-01T03:48:21+00:00",
         "url": "https://github.com/yanxp2github/open_source",
         "id": 765108502
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 36,
+        "forks": 23,
+        "size": 41269,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-02-16T00:33:47+00:00",
+        "pushed": "2024-03-01T14:53:26+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 3,
+        "forks": 1,
+        "size": 13622,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-02-07T09:20:38+00:00",
+        "pushed": "2024-03-01T15:44:40+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "802.11Final",
+        "description": null,
+        "owner": "malikshanaah1999",
+        "stars": 0,
+        "forks": 1,
+        "size": 643,
+        "created": "2023-04-29T11:39:58+00:00",
+        "updated": "2023-04-29T11:41:57+00:00",
+        "pushed": "2024-03-01T20:17:00+00:00",
+        "url": "https://github.com/malikshanaah1999/802.11Final",
+        "id": 634206363
+    },
+    {
+        "repo": "24a-bits-lab-3-myhdl-isa",
+        "description": "24a-bits-lab-3-myhdl-isa created by GitHub Classroom",
+        "owner": "insper-classroom",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2024-03-01T19:31:01+00:00",
+        "updated": "2024-03-01T19:31:07+00:00",
+        "pushed": "2024-03-01T19:31:05+00:00",
+        "url": "https://github.com/insper-classroom/24a-bits-lab-3-myhdl-isa",
+        "id": 765869517
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 63,
+        "forks": 8,
+        "size": 27,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-03-02T05:52:05+00:00",
+        "pushed": "2024-03-02T05:43:35+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
     }
 ]
