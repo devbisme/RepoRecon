@@ -11921,19 +11921,6 @@
         "id": 614036932
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 330,
-        "forks": 260,
-        "size": 3930,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-02-29T20:54:54+00:00",
-        "pushed": "2024-02-29T13:37:02+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -11945,19 +11932,6 @@
         "pushed": "2024-02-29T13:57:04+00:00",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 610,
-        "forks": 59,
-        "size": 1024,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-02-28T17:07:19+00:00",
-        "pushed": "2024-03-01T01:54:05+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -12051,45 +12025,6 @@
         "id": 765108502
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2590,
-        "forks": 510,
-        "size": 16613,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-03-01T02:04:05+00:00",
-        "pushed": "2024-03-01T06:12:30+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1367,
-        "forks": 189,
-        "size": 201636,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-02-28T13:32:13+00:00",
-        "pushed": "2024-03-01T05:59:23+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 27701,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-03-01T00:57:59+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "VexRiscv",
         "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
         "owner": "SpinalHDL",
@@ -12114,32 +12049,6 @@
         "pushed": "2024-03-01T15:21:33+00:00",
         "url": "https://github.com/litex-hub/pythondata-cpu-rocket",
         "id": 188384736
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 27,
-        "forks": 13,
-        "size": 93678,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-01T21:33:11+00:00",
-        "pushed": "2024-03-02T06:56:29+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 19320,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-01-16T07:37:38+00:00",
-        "pushed": "2024-03-01T15:44:02+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "FazyRV",
@@ -12181,17 +12090,108 @@
         "id": 605602834
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2594,
+        "forks": 510,
+        "size": 16620,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-03-02T13:25:54+00:00",
+        "pushed": "2024-03-02T11:23:29+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 330,
+        "forks": 261,
+        "size": 3940,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-02-29T20:54:54+00:00",
+        "pushed": "2024-03-02T11:24:07+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 612,
+        "forks": 59,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-03-02T22:46:47+00:00",
+        "pushed": "2024-03-03T01:44:17+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1367,
+        "forks": 189,
+        "size": 201637,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-02-28T13:32:13+00:00",
+        "pushed": "2024-03-02T19:56:18+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 28,
+        "forks": 13,
+        "size": 93682,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-02T13:58:44+00:00",
+        "pushed": "2024-03-03T02:24:04+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 19693,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-01-16T07:37:38+00:00",
+        "pushed": "2024-03-02T19:44:06+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1194,
+        "size": 1237,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-02T04:34:30+00:00",
+        "pushed": "2024-03-03T04:34:28+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 28910,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2024-03-03T01:05:30+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -12199,10 +12199,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 45184,
+        "size": 45596,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-03-02T03:18:35+00:00",
+        "pushed": "2024-03-03T03:18:49+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
