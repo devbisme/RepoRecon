@@ -4810,19 +4810,6 @@
         "id": 762439889
     },
     {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 124,
-        "forks": 15,
-        "size": 2927,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-02-21T14:19:10+00:00",
-        "pushed": "2024-02-24T12:16:15+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -4886,19 +4873,6 @@
         "pushed": "2024-02-27T20:23:15+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
-    },
-    {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1629,
-        "forks": 142,
-        "size": 233,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-02-26T04:38:00+00:00",
-        "pushed": "2024-02-28T23:05:05+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
     },
     {
         "repo": "802.11Final",
@@ -5016,5 +4990,31 @@
         "pushed": "2024-03-05T06:33:06+00:00",
         "url": "https://github.com/yanxp2github/open_source",
         "id": 765108502
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 127,
+        "forks": 17,
+        "size": 2957,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-03-01T01:50:45+00:00",
+        "pushed": "2024-03-05T08:21:43+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1650,
+        "forks": 145,
+        "size": 233,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-03-06T06:41:15+00:00",
+        "pushed": "2024-03-06T01:05:16+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
     }
 ]
