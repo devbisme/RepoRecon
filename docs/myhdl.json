@@ -4810,32 +4810,6 @@
         "id": 762439889
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 33,
-        "forks": 6,
-        "size": 6380,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2023-11-10T11:52:27+00:00",
-        "pushed": "2024-02-26T22:24:36+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 192,
-        "forks": 26,
-        "size": 19733,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-01-25T05:34:45+00:00",
-        "pushed": "2024-02-26T22:25:02+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "d3-hwschematic",
         "description": "D3.js and ELK based schematic visualizer",
         "owner": "Nic30",
@@ -4927,19 +4901,6 @@
         "id": 766023963
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 36,
-        "forks": 23,
-        "size": 41288,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-02-16T00:33:47+00:00",
-        "pushed": "2024-03-03T23:39:13+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -4979,19 +4940,6 @@
         "id": 605602834
     },
     {
-        "repo": "open_source",
-        "description": null,
-        "owner": "yanxp2github",
-        "stars": 0,
-        "forks": 0,
-        "size": 300,
-        "created": "2024-02-29T09:50:24+00:00",
-        "updated": "2024-02-29T09:50:44+00:00",
-        "pushed": "2024-03-05T06:33:06+00:00",
-        "url": "https://github.com/yanxp2github/open_source",
-        "id": 765108502
-    },
-    {
         "repo": "ASIC-Design-Roadmap",
         "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
         "owner": "abdelazeem201",
@@ -5016,5 +4964,70 @@
         "pushed": "2024-03-06T01:05:16+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 32,
+        "forks": 6,
+        "size": 6384,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2024-02-27T10:19:18+00:00",
+        "pushed": "2024-03-06T18:25:42+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 36,
+        "forks": 23,
+        "size": 41321,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-02-16T00:33:47+00:00",
+        "pushed": "2024-03-07T03:32:41+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 191,
+        "forks": 26,
+        "size": 19742,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-02-27T10:18:02+00:00",
+        "pushed": "2024-03-06T17:03:56+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "24a-bits-lab-3-myhdl-daniboy_bits_2024a",
+        "description": "24a-bits-lab-3-myhdl-daniboy_bits_2024a created by GitHub Classroom",
+        "owner": "insper-classroom",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2024-03-06T18:09:09+00:00",
+        "updated": "2024-03-06T18:09:16+00:00",
+        "pushed": "2024-03-06T18:09:14+00:00",
+        "url": "https://github.com/insper-classroom/24a-bits-lab-3-myhdl-daniboy_bits_2024a",
+        "id": 768239548
+    },
+    {
+        "repo": "open_source",
+        "description": null,
+        "owner": "yanxp2github",
+        "stars": 0,
+        "forks": 0,
+        "size": 357,
+        "created": "2024-02-29T09:50:24+00:00",
+        "updated": "2024-02-29T09:50:44+00:00",
+        "pushed": "2024-03-06T09:24:16+00:00",
+        "url": "https://github.com/yanxp2github/open_source",
+        "id": 765108502
     }
 ]
