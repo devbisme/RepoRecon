@@ -5512,19 +5512,6 @@
         "id": 154745506
     },
     {
-        "repo": "MaixPy",
-        "description": "MicroPython for K210 RISC-V, let's play with edge AI easier",
-        "owner": "sipeed",
-        "stars": 1606,
-        "forks": 431,
-        "size": 57168,
-        "created": "2018-10-26T07:48:11Z",
-        "updated": "2023-09-08T02:12:32Z",
-        "pushed": "2023-06-05T14:05:10Z",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 154797251
-    },
-    {
         "repo": "JEDEL-K510-linux",
         "description": "workaround for the brightness key in JEDEL k510 keyboard",
         "owner": "sigmaSd",
@@ -34515,19 +34502,6 @@
         "id": 739504235
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 1,
-        "forks": 2,
-        "size": 1470,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2024-01-12T18:33:42+00:00",
-        "pushed": "2024-01-15T16:19:16+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "K230",
         "description": "https://riscv-edu.cn/course/230",
         "owner": "riscvedu",
@@ -34539,19 +34513,6 @@
         "pushed": "2024-01-19T04:49:59+00:00",
         "url": "https://github.com/riscvedu/K230",
         "id": 738409990
-    },
-    {
-        "repo": "K210-Developer-Kit",
-        "description": "Yahboom AI-Motion K210 Developer Kit support C/MicroPython programming",
-        "owner": "YahboomTechnology",
-        "stars": 2,
-        "forks": 2,
-        "size": 58544,
-        "created": "2023-04-23T02:56:52+00:00",
-        "updated": "2023-11-28T13:46:58+00:00",
-        "pushed": "2024-01-18T09:52:20+00:00",
-        "url": "https://github.com/YahboomTechnology/K210-Developer-Kit",
-        "id": 631439554
     },
     {
         "repo": "YZXJ-ShuoMingShu",
@@ -35932,19 +35893,6 @@
         "id": 745771617
     },
     {
-        "repo": "MaixduinoAI",
-        "description": null,
-        "owner": "damiantomczyszyn",
-        "stars": 0,
-        "forks": 0,
-        "size": 101391,
-        "created": "2024-02-01T17:27:41+00:00",
-        "updated": "2024-03-03T10:05:23+00:00",
-        "pushed": "2024-03-07T09:31:30+00:00",
-        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
-        "id": 751476254
-    },
-    {
         "repo": "maixin",
         "description": null,
         "owner": "jianmim",
@@ -35969,19 +35917,6 @@
         "pushed": "2024-03-04T03:29:23+00:00",
         "url": "https://github.com/JayL323/K230_AI_Demo_Development_Process_Analysis",
         "id": 764514021
-    },
-    {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 1,
-        "forks": 0,
-        "size": 45739,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2024-02-27T13:41:43+00:00",
-        "pushed": "2024-03-07T13:27:32+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
     },
     {
         "repo": "MaiXF-blog-admin",
@@ -36023,15 +35958,106 @@
         "id": 737003592
     },
     {
+        "repo": "MaixPy-v1",
+        "description": "MicroPython for K210 RISC-V, let's play with edge AI easier",
+        "owner": "sipeed",
+        "stars": 1655,
+        "forks": 434,
+        "size": 57168,
+        "created": "2018-10-26T07:48:11+00:00",
+        "updated": "2024-03-09T00:48:25+00:00",
+        "pushed": "2024-03-06T16:54:10+00:00",
+        "url": "https://github.com/sipeed/MaixPy-v1",
+        "id": 154797251
+    },
+    {
+        "repo": "K210-Developer-Kit",
+        "description": "Yahboom AI-Motion K210 Developer Kit support C/MicroPython programming",
+        "owner": "YahboomTechnology",
+        "stars": 2,
+        "forks": 2,
+        "size": 61518,
+        "created": "2023-04-23T02:56:52+00:00",
+        "updated": "2023-11-28T13:46:58+00:00",
+        "pushed": "2024-03-08T11:19:24+00:00",
+        "url": "https://github.com/YahboomTechnology/K210-Developer-Kit",
+        "id": 631439554
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 1,
+        "forks": 3,
+        "size": 1491,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2024-01-12T18:33:42+00:00",
+        "pushed": "2024-03-08T19:45:56+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "MaixduinoAI",
+        "description": null,
+        "owner": "damiantomczyszyn",
+        "stars": 0,
+        "forks": 0,
+        "size": 101392,
+        "created": "2024-02-01T17:27:41+00:00",
+        "updated": "2024-03-03T10:05:23+00:00",
+        "pushed": "2024-03-08T08:50:58+00:00",
+        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
+        "id": 751476254
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 1,
+        "forks": 0,
+        "size": 45866,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2024-02-27T13:41:43+00:00",
+        "pushed": "2024-03-08T13:40:12+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
+        "repo": "NgomaMaixant",
+        "description": "Config files for my GitHub profile.",
+        "owner": "NgomaMaixant",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2024-03-08T20:35:08+00:00",
+        "updated": "2024-03-08T20:35:09+00:00",
+        "pushed": "2024-03-08T20:35:13+00:00",
+        "url": "https://github.com/NgomaMaixant/NgomaMaixant",
+        "id": 769332300
+    },
+    {
+        "repo": "nncase_docs",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 0,
+        "size": 48118,
+        "created": "2024-03-08T09:50:48+00:00",
+        "updated": "2024-03-08T09:50:49+00:00",
+        "pushed": "2024-03-08T10:01:39+00:00",
+        "url": "https://github.com/kendryte/nncase_docs",
+        "id": 769078187
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 5567,
+        "size": 5999,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-03-08T01:33:33+00:00",
+        "pushed": "2024-03-09T01:29:57+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36041,10 +36067,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1174,
+        "size": 1295,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-03-08T01:29:59+00:00",
+        "pushed": "2024-03-09T01:26:41+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36054,10 +36080,10 @@
         "owner": "androidtrackers",
         "stars": 111,
         "forks": 35,
-        "size": 625477,
+        "size": 625481,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-03-07T12:22:25+00:00",
+        "pushed": "2024-03-08T12:23:50+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -36070,7 +36096,7 @@
         "size": 351,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-02-18T04:17:11+00:00",
-        "pushed": "2024-03-08T00:12:13+00:00",
+        "pushed": "2024-03-09T00:11:39+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
