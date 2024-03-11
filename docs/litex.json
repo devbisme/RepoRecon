@@ -10608,19 +10608,6 @@
         "id": 719323329
     },
     {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 21,
-        "forks": 1,
-        "size": 9674,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2023-10-15T07:45:45+00:00",
-        "pushed": "2023-12-11T17:56:35+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
-    },
-    {
         "repo": "litexchange1",
         "description": null,
         "owner": "vts17",
@@ -11479,19 +11466,6 @@
         "id": 747770560
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 561,
-        "forks": 132,
-        "size": 623726,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-02-21T07:47:05+00:00",
-        "pushed": "2024-02-22T01:52:27+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -11856,19 +11830,6 @@
         "id": 605602834
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1650,
-        "forks": 145,
-        "size": 233,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-03-06T06:41:15+00:00",
-        "pushed": "2024-03-06T01:05:16+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -12025,32 +11986,6 @@
         "id": 191191221
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 441,
-        "forks": 113,
-        "size": 41638,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-03-08T06:10:39+00:00",
-        "pushed": "2024-03-09T02:06:13+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1368,
-        "forks": 190,
-        "size": 201603,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-03-08T13:15:12+00:00",
-        "pushed": "2024-03-09T06:08:52+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "amaranth-to-litex",
         "description": "Use amaranth-to-litex to simply import Amaranth code into a Litex project.",
         "owner": "lambdaconcept",
@@ -12062,19 +11997,6 @@
         "pushed": "2024-03-08T13:46:46+00:00",
         "url": "https://github.com/lambdaconcept/amaranth-to-litex",
         "id": 624900391
-    },
-    {
-        "repo": "elements-vexriscv",
-        "description": "VexRiscv fork",
-        "owner": "aesc-silicon",
-        "stars": 0,
-        "forks": 0,
-        "size": 13484,
-        "created": "2020-11-06T19:50:39+00:00",
-        "updated": "2022-01-23T20:58:09+00:00",
-        "pushed": "2024-03-09T01:06:05+00:00",
-        "url": "https://github.com/aesc-silicon/elements-vexriscv",
-        "id": 310692215
     },
     {
         "repo": "open_source",
@@ -12090,19 +12012,6 @@
         "id": 765108502
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 617,
-        "forks": 59,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-03-09T06:37:21+00:00",
-        "pushed": "2024-03-10T01:51:52+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "VexRiscv",
         "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
         "owner": "SpinalHDL",
@@ -12114,19 +12023,6 @@
         "pushed": "2024-03-10T01:54:20+00:00",
         "url": "https://github.com/SpinalHDL/VexRiscv",
         "id": 84366787
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 25,
-        "forks": 12,
-        "size": 27377,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-03-06T17:02:28+00:00",
-        "pushed": "2024-03-09T21:23:29+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "hwt",
@@ -12142,32 +12038,6 @@
         "id": 35898469
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 30,
-        "forks": 12,
-        "size": 93734,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-06T12:20:28+00:00",
-        "pushed": "2024-03-10T02:42:10+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 2,
-        "forks": 2,
-        "size": 1085,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2023-10-08T19:10:45+00:00",
-        "pushed": "2024-03-10T04:22:41+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -12181,15 +12051,145 @@
         "id": 237940918
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 563,
+        "forks": 133,
+        "size": 623746,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-03-06T07:32:44+00:00",
+        "pushed": "2024-03-11T03:16:43+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 618,
+        "forks": 60,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-03-10T23:43:08+00:00",
+        "pushed": "2024-03-11T02:04:02+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 440,
+        "forks": 113,
+        "size": 41638,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-03-11T01:22:52+00:00",
+        "pushed": "2024-03-11T02:10:28+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1371,
+        "forks": 190,
+        "size": 201701,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-03-10T14:48:17+00:00",
+        "pushed": "2024-03-10T15:56:06+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 25,
+        "forks": 12,
+        "size": 27517,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-03-06T17:02:28+00:00",
+        "pushed": "2024-03-10T16:13:04+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1668,
+        "forks": 146,
+        "size": 235,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-03-11T05:52:01+00:00",
+        "pushed": "2024-03-11T03:35:27+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 30,
+        "forks": 13,
+        "size": 93736,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-06T12:20:28+00:00",
+        "pushed": "2024-03-11T01:48:33+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 25,
+        "forks": 1,
+        "size": 9674,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2024-02-29T23:36:48+00:00",
+        "pushed": "2024-03-11T05:57:19+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 2,
+        "forks": 2,
+        "size": 1087,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2023-10-08T19:10:45+00:00",
+        "pushed": "2024-03-11T04:03:11+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "elements-vexriscv",
+        "description": "VexRiscv fork",
+        "owner": "aesc-silicon",
+        "stars": 0,
+        "forks": 0,
+        "size": 13486,
+        "created": "2020-11-06T19:50:39+00:00",
+        "updated": "2022-01-23T20:58:09+00:00",
+        "pushed": "2024-03-11T01:09:40+00:00",
+        "url": "https://github.com/aesc-silicon/elements-vexriscv",
+        "id": 310692215
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 826,
+        "size": 828,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-10T04:35:31+00:00",
+        "pushed": "2024-03-11T04:35:24+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12199,10 +12199,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 48534,
+        "size": 48961,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-03-10T03:19:50+00:00",
+        "pushed": "2024-03-11T03:21:59+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

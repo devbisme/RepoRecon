@@ -4927,19 +4927,6 @@
         "id": 342916296
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1650,
-        "forks": 145,
-        "size": 233,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-03-06T06:41:15+00:00",
-        "pushed": "2024-03-06T01:05:16+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -4951,19 +4938,6 @@
         "pushed": "2024-03-06T18:25:42+00:00",
         "url": "https://github.com/Nic30/hwtLib",
         "id": 63018738
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 36,
-        "forks": 23,
-        "size": 41321,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-02-16T00:33:47+00:00",
-        "pushed": "2024-03-07T03:32:41+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
     },
     {
         "repo": "24a-bits-lab-3-myhdl-daniboy_bits_2024a",
@@ -5029,5 +5003,31 @@
         "pushed": "2024-03-09T07:38:19+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 37,
+        "forks": 23,
+        "size": 41345,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-03-09T06:35:02+00:00",
+        "pushed": "2024-03-10T14:45:13+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1668,
+        "forks": 146,
+        "size": 235,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-03-11T05:52:01+00:00",
+        "pushed": "2024-03-11T03:35:27+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
     }
 ]
