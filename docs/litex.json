@@ -11453,19 +11453,6 @@
         "id": 267350664
     },
     {
-        "repo": "VexRiscv_fusesoc",
-        "description": "Taken from the litex build and converted into a fusesoc core",
-        "owner": "johnathan-convertino-afrl",
-        "stars": 0,
-        "forks": 0,
-        "size": 13,
-        "created": "2024-01-24T15:56:42+00:00",
-        "updated": "2024-02-21T02:13:42+00:00",
-        "pushed": "2024-02-21T02:13:37+00:00",
-        "url": "https://github.com/johnathan-convertino-afrl/VexRiscv_fusesoc",
-        "id": 747770560
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -11609,19 +11596,6 @@
         "id": 750287693
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 426,
-        "forks": 106,
-        "size": 1676,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-02-26T17:40:55+00:00",
-        "pushed": "2024-02-26T18:08:52+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "tinyclunx33_zephyr_example",
         "description": "Zephyr running on the tinyCLUNX33 SoM",
         "owner": "tinyvision-ai-inc",
@@ -11752,19 +11726,6 @@
         "id": 188384736
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 28910,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-03-03T01:05:30+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "litepcie_driver_win",
         "description": "Windows Driver for the LitePCIe LiteX core",
         "owner": "NateMeyer",
@@ -11802,19 +11763,6 @@
         "pushed": "2024-03-03T18:53:49+00:00",
         "url": "https://github.com/Damn-Vuln-IoT-SoC/Damn-Vuln-IoT-SoC",
         "id": 753120584
-    },
-    {
-        "repo": "SucreLA",
-        "description": "Open source Logic Analyzer based on LiteX SoC",
-        "owner": "fallen",
-        "stars": 3,
-        "forks": 0,
-        "size": 40,
-        "created": "2023-12-13T21:00:19+00:00",
-        "updated": "2024-03-04T21:23:01+00:00",
-        "pushed": "2024-03-04T21:17:13+00:00",
-        "url": "https://github.com/fallen/SucreLA",
-        "id": 731331266
     },
     {
         "repo": "awesome-cuda-tensorrt-fpga",
@@ -11856,19 +11804,6 @@
         "id": 155514739
     },
     {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 19995,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-01-16T07:37:38+00:00",
-        "pushed": "2024-03-06T17:39:54+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
         "repo": "awesome-stars",
         "description": "Awesome List of my own!",
         "owner": "jiegec",
@@ -11880,19 +11815,6 @@
         "pushed": "2024-03-06T08:25:52+00:00",
         "url": "https://github.com/jiegec/awesome-stars",
         "id": 64712541
-    },
-    {
-        "repo": "xtrx_julia",
-        "description": "XTRX LiteX/LitePCIe based design for Julia Computing",
-        "owner": "enjoy-digital",
-        "stars": 21,
-        "forks": 3,
-        "size": 31894,
-        "created": "2021-11-25T13:56:50+00:00",
-        "updated": "2023-11-30T15:34:50+00:00",
-        "pushed": "2024-03-07T17:29:31+00:00",
-        "url": "https://github.com/enjoy-digital/xtrx_julia",
-        "id": 431864196
     },
     {
         "repo": "FazyRV",
@@ -11973,19 +11895,6 @@
         "id": 45734719
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 330,
-        "forks": 263,
-        "size": 3876,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-02-29T20:54:54+00:00",
-        "pushed": "2024-03-08T09:59:50+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "amaranth-to-litex",
         "description": "Use amaranth-to-litex to simply import Amaranth code into a Litex project.",
         "owner": "lambdaconcept",
@@ -12064,19 +11973,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 618,
-        "forks": 60,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-03-10T23:43:08+00:00",
-        "pushed": "2024-03-11T02:04:02+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12090,32 +11986,6 @@
         "id": 346151420
     },
     {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1371,
-        "forks": 190,
-        "size": 201701,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-03-10T14:48:17+00:00",
-        "pushed": "2024-03-10T15:56:06+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 25,
-        "forks": 12,
-        "size": 27517,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-03-06T17:02:28+00:00",
-        "pushed": "2024-03-10T16:13:04+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -12127,19 +11997,6 @@
         "pushed": "2024-03-11T03:35:27+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 30,
-        "forks": 13,
-        "size": 93736,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-06T12:20:28+00:00",
-        "pushed": "2024-03-11T01:48:33+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "kakao",
@@ -12181,19 +12038,6 @@
         "id": 310692215
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 828,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-11T04:35:24+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
@@ -12205,5 +12049,174 @@
         "pushed": "2024-03-11T03:21:59+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 330,
+        "forks": 263,
+        "size": 3877,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-02-29T20:54:54+00:00",
+        "pushed": "2024-03-11T16:23:52+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 428,
+        "forks": 106,
+        "size": 1677,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-02-28T06:21:54+00:00",
+        "pushed": "2024-03-11T14:08:04+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 618,
+        "forks": 60,
+        "size": 1031,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-03-10T23:43:08+00:00",
+        "pushed": "2024-03-12T02:04:48+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1372,
+        "forks": 190,
+        "size": 201635,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-03-11T12:19:15+00:00",
+        "pushed": "2024-03-11T20:44:22+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "xtrx_julia",
+        "description": "XTRX LiteX/LitePCIe based design for Julia Computing",
+        "owner": "enjoy-digital",
+        "stars": 21,
+        "forks": 3,
+        "size": 31914,
+        "created": "2021-11-25T13:56:50+00:00",
+        "updated": "2023-11-30T15:34:50+00:00",
+        "pushed": "2024-03-11T14:37:18+00:00",
+        "url": "https://github.com/enjoy-digital/xtrx_julia",
+        "id": 431864196
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 25,
+        "forks": 12,
+        "size": 27883,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-03-11T16:15:15+00:00",
+        "pushed": "2024-03-11T21:11:05+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 30,
+        "forks": 13,
+        "size": 93695,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-06T12:20:28+00:00",
+        "pushed": "2024-03-12T04:29:27+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "litex_hw_ci",
+        "description": "LiteX Hardware CI tests.",
+        "owner": "enjoy-digital",
+        "stars": 5,
+        "forks": 0,
+        "size": 1622,
+        "created": "2024-01-17T07:17:44+00:00",
+        "updated": "2024-03-11T22:46:34+00:00",
+        "pushed": "2024-03-11T18:22:48+00:00",
+        "url": "https://github.com/enjoy-digital/litex_hw_ci",
+        "id": 744379987
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 20034,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-01-16T07:37:38+00:00",
+        "pushed": "2024-03-11T20:53:19+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "SucreLA",
+        "description": "Open source Logic Analyzer based on LiteX SoC",
+        "owner": "fallen",
+        "stars": 3,
+        "forks": 0,
+        "size": 44,
+        "created": "2023-12-13T21:00:19+00:00",
+        "updated": "2024-03-11T21:28:47+00:00",
+        "pushed": "2024-03-11T21:28:24+00:00",
+        "url": "https://github.com/fallen/SucreLA",
+        "id": 731331266
+    },
+    {
+        "repo": "VexRiscv_fusesoc",
+        "description": "Taken from the litex build and converted into a fusesoc core",
+        "owner": "johnathan-convertino-afrl",
+        "stars": 0,
+        "forks": 0,
+        "size": 16,
+        "created": "2024-01-24T15:56:42+00:00",
+        "updated": "2024-02-21T02:13:42+00:00",
+        "pushed": "2024-03-11T15:15:16+00:00",
+        "url": "https://github.com/johnathan-convertino-afrl/VexRiscv_fusesoc",
+        "id": 747770560
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 830,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-03-12T04:35:39+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 29652,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2022-02-11T15:07:58+00:00",
+        "pushed": "2024-03-12T00:58:25+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     }
 ]
