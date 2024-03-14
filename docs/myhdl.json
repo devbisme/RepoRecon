@@ -4992,19 +4992,6 @@
         "id": 765108502
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 191,
-        "forks": 26,
-        "size": 19742,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-02-27T10:18:02+00:00",
-        "pushed": "2024-03-09T07:38:19+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -5023,11 +5010,24 @@
         "owner": "kevinwlu",
         "stars": 37,
         "forks": 23,
-        "size": 41360,
+        "size": 41368,
         "created": "2018-08-04T10:46:25+00:00",
         "updated": "2024-03-09T06:35:02+00:00",
-        "pushed": "2024-03-11T15:16:04+00:00",
+        "pushed": "2024-03-14T01:26:27+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 191,
+        "forks": 26,
+        "size": 19753,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-02-27T10:18:02+00:00",
+        "pushed": "2024-03-13T18:46:10+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
     }
 ]

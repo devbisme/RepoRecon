@@ -1690,19 +1690,6 @@
         "id": 194501656
     },
     {
-        "repo": "CRUVI",
-        "description": "CRUVI Standard Specifications",
-        "owner": "micro-FPGA",
-        "stars": 11,
-        "forks": 4,
-        "size": 22366,
-        "created": "2019-07-14T10:04:02Z",
-        "updated": "2023-04-07T14:25:41Z",
-        "pushed": "2022-06-28T13:31:08Z",
-        "url": "https://github.com/micro-FPGA/CRUVI",
-        "id": 196820841
-    },
-    {
         "repo": "Reproductor-WAV",
         "description": "El proyecto corresponde a la implementaci\u00f3n de un dispositivo reproductor de archivos de audio .wav, cuyo software se puede programar en lenguaje C. Su implementaci\u00f3n est\u00e1 realizada en una tarjeta Nexys 4 utilizando el procesador LM32. Para la descripci\u00f3n de hardware se hizo uso de la herramienta Litex basada en Migen y sintetizadas en lenguaje Python, una herramienta bastante \u00fatil que permite la implementaci\u00f3n del System On Chip de manera r\u00e1pida.",
         "owner": "SebasDS",
@@ -11596,19 +11583,6 @@
         "id": 750287693
     },
     {
-        "repo": "tinyclunx33_zephyr_example",
-        "description": "Zephyr running on the tinyCLUNX33 SoM",
-        "owner": "tinyvision-ai-inc",
-        "stars": 0,
-        "forks": 1,
-        "size": 551,
-        "created": "2024-01-02T18:40:46+00:00",
-        "updated": "2024-01-03T07:32:09+00:00",
-        "pushed": "2024-02-27T18:52:12+00:00",
-        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
-        "id": 738233144
-    },
-    {
         "repo": "production-test-sw",
         "description": "Software, firmware, and gateware for OrangeCrab ATE.",
         "owner": "orangecrab-fpga",
@@ -11685,19 +11659,6 @@
         "pushed": "2024-02-28T13:20:17+00:00",
         "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
         "id": 677990151
-    },
-    {
-        "repo": "vanille",
-        "description": "Vanille Computer",
-        "owner": "machdyne",
-        "stars": 2,
-        "forks": 0,
-        "size": 2560,
-        "created": "2024-02-07T07:53:57+00:00",
-        "updated": "2024-02-23T14:17:19+00:00",
-        "pushed": "2024-02-29T20:40:41+00:00",
-        "url": "https://github.com/machdyne/vanille",
-        "id": 754002696
     },
     {
         "repo": "LiteX-Angular",
@@ -11921,19 +11882,6 @@
         "id": 84366787
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 191,
-        "forks": 26,
-        "size": 19742,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-02-27T10:18:02+00:00",
-        "pushed": "2024-03-09T07:38:19+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -12051,19 +11999,6 @@
         "id": 431864196
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 30,
-        "forks": 13,
-        "size": 93695,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-06T12:20:28+00:00",
-        "pushed": "2024-03-12T04:29:27+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -12150,7 +12085,7 @@
         "size": 1029,
         "created": "2021-02-01T08:34:29+00:00",
         "updated": "2024-03-12T18:04:44+00:00",
-        "pushed": "2024-03-13T01:51:31+00:00",
+        "pushed": "2024-03-14T01:42:24+00:00",
         "url": "https://github.com/YosysHQ/oss-cad-suite-build",
         "id": 334882062
     },
@@ -12158,12 +12093,12 @@
         "repo": "neorv32",
         "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
-        "stars": 1372,
+        "stars": 1373,
         "forks": 190,
-        "size": 201887,
+        "size": 202112,
         "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-03-11T12:19:15+00:00",
-        "pushed": "2024-03-12T21:29:25+00:00",
+        "updated": "2024-03-13T19:05:43+00:00",
+        "pushed": "2024-03-13T21:16:59+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
     },
@@ -12173,12 +12108,51 @@
         "owner": "kuznia-rdzeni",
         "stars": 25,
         "forks": 12,
-        "size": 28092,
+        "size": 28181,
         "created": "2022-03-09T17:28:30+00:00",
         "updated": "2024-03-11T16:15:15+00:00",
-        "pushed": "2024-03-12T22:34:00+00:00",
+        "pushed": "2024-03-13T21:45:11+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 191,
+        "forks": 26,
+        "size": 19753,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-02-27T10:18:02+00:00",
+        "pushed": "2024-03-13T18:46:10+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 30,
+        "forks": 13,
+        "size": 93706,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-06T12:20:28+00:00",
+        "pushed": "2024-03-13T23:05:27+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "CRUVI",
+        "description": "CRUVI Standard Specifications",
+        "owner": "micro-FPGA",
+        "stars": 13,
+        "forks": 4,
+        "size": 30459,
+        "created": "2019-07-14T10:04:02+00:00",
+        "updated": "2024-02-29T14:10:42+00:00",
+        "pushed": "2024-03-13T16:04:41+00:00",
+        "url": "https://github.com/micro-FPGA/CRUVI",
+        "id": 196820841
     },
     {
         "repo": "litex_hw_ci",
@@ -12186,12 +12160,38 @@
         "owner": "enjoy-digital",
         "stars": 6,
         "forks": 0,
-        "size": 1629,
+        "size": 1630,
         "created": "2024-01-17T07:17:44+00:00",
         "updated": "2024-03-12T21:13:13+00:00",
-        "pushed": "2024-03-12T09:27:19+00:00",
+        "pushed": "2024-03-13T13:43:24+00:00",
         "url": "https://github.com/enjoy-digital/litex_hw_ci",
         "id": 744379987
+    },
+    {
+        "repo": "vanille",
+        "description": "Vanille Computer",
+        "owner": "machdyne",
+        "stars": 2,
+        "forks": 0,
+        "size": 2922,
+        "created": "2024-02-07T07:53:57+00:00",
+        "updated": "2024-02-23T14:17:19+00:00",
+        "pushed": "2024-03-13T14:17:02+00:00",
+        "url": "https://github.com/machdyne/vanille",
+        "id": 754002696
+    },
+    {
+        "repo": "tinyclunx33_zephyr_example",
+        "description": "Zephyr running on the tinyCLUNX33 SoM",
+        "owner": "tinyvision-ai-inc",
+        "stars": 0,
+        "forks": 1,
+        "size": 552,
+        "created": "2024-01-02T18:40:46+00:00",
+        "updated": "2024-01-03T07:32:09+00:00",
+        "pushed": "2024-03-13T18:53:13+00:00",
+        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
+        "id": 738233144
     },
     {
         "repo": "starred",
@@ -12199,10 +12199,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 902,
+        "size": 903,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-13T04:34:32+00:00",
+        "pushed": "2024-03-14T04:34:41+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12212,10 +12212,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 49802,
+        "size": 50229,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-03-13T03:21:18+00:00",
+        "pushed": "2024-03-14T03:20:30+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
