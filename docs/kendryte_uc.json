@@ -34632,19 +34632,6 @@
         "id": 32481601
     },
     {
-        "repo": "k230_canmv_docs",
-        "description": "k230_canmv_docs",
-        "owner": "kendryte",
-        "stars": 3,
-        "forks": 0,
-        "size": 9187,
-        "created": "2023-10-17T07:31:49+00:00",
-        "updated": "2023-12-28T09:10:58+00:00",
-        "pushed": "2024-01-25T09:18:32+00:00",
-        "url": "https://github.com/kendryte/k230_canmv_docs",
-        "id": 706039729
-    },
-    {
         "repo": "k230-react-shop-app",
         "description": null,
         "owner": "sananabbasov",
@@ -35724,19 +35711,6 @@
         "id": 764212829
     },
     {
-        "repo": "K230_AI_Demo_Development_Process_Analysis",
-        "description": "\u57fa\u4e8eK230\u7684AI\u7b97\u6cd5\u5f00\u53d1\u662f\u628a\u5df2\u8bad\u7ec3\u597dAI\u6a21\u578b\u5728PC\u4e0a\u7684\u63a8\u7406\u6d41\u7a0b\uff0c\u79fb\u690d\u5230K230\u5f00\u53d1\u677f\u7684\u8fc7\u7a0b",
-        "owner": "JayL323",
-        "stars": 1,
-        "forks": 0,
-        "size": 30171,
-        "created": "2024-02-28T08:05:57+00:00",
-        "updated": "2024-03-08T05:37:19+00:00",
-        "pushed": "2024-03-11T05:57:48+00:00",
-        "url": "https://github.com/JayL323/K230_AI_Demo_Development_Process_Analysis",
-        "id": 764514021
-    },
-    {
         "repo": "godafoss-code",
         "description": null,
         "owner": "wovo",
@@ -35854,19 +35828,6 @@
         "id": 663357545
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 161,
-        "forks": 117,
-        "size": 234,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2024-03-06T10:04:31+00:00",
-        "pushed": "2024-03-13T04:35:14+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -35917,32 +35878,6 @@
         "pushed": "2024-03-12T15:09:59+00:00",
         "url": "https://github.com/davidly/ttt",
         "id": 456793068
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 683,
-        "forks": 182,
-        "size": 58099,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-03-14T02:56:09+00:00",
-        "pushed": "2024-03-14T03:45:56+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 65,
-        "forks": 3,
-        "size": 13719,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-03-14T02:58:47+00:00",
-        "pushed": "2024-03-12T21:07:45+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
     },
     {
         "repo": "opencv_zoo",
@@ -36008,19 +35943,6 @@
         "pushed": "2024-03-13T07:49:14+00:00",
         "url": "https://github.com/maroziza/marover",
         "id": 706606213
-    },
-    {
-        "repo": "MaixduinoAI",
-        "description": null,
-        "owner": "damiantomczyszyn",
-        "stars": 0,
-        "forks": 0,
-        "size": 1977357,
-        "created": "2024-02-01T17:27:41+00:00",
-        "updated": "2024-03-13T19:22:44+00:00",
-        "pushed": "2024-03-13T19:21:47+00:00",
-        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
-        "id": 751476254
     },
     {
         "repo": "oskernel2022",
@@ -36127,15 +36049,119 @@
         "id": 685317589
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 685,
+        "forks": 182,
+        "size": 58149,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-03-14T11:00:31+00:00",
+        "pushed": "2024-03-15T03:11:56+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 65,
+        "forks": 3,
+        "size": 14316,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-03-14T02:58:47+00:00",
+        "pushed": "2024-03-14T21:52:51+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 161,
+        "forks": 117,
+        "size": 230,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-03-06T10:04:31+00:00",
+        "pushed": "2024-03-15T02:23:33+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "k230_canmv_docs",
+        "description": "k230_canmv_docs",
+        "owner": "kendryte",
+        "stars": 5,
+        "forks": 0,
+        "size": 9753,
+        "created": "2023-10-17T07:31:49+00:00",
+        "updated": "2024-03-14T02:55:43+00:00",
+        "pushed": "2024-03-15T04:31:40+00:00",
+        "url": "https://github.com/kendryte/k230_canmv_docs",
+        "id": 706039729
+    },
+    {
+        "repo": "K210-Based-Fatigue-Driving-Detection",
+        "description": "\u57fa\u4e8eK210\u7684\u75b2\u52b3\u9a7e\u9a76\u68c0\u6d4b\u6a21\u5757",
+        "owner": "nailoy",
+        "stars": 0,
+        "forks": 0,
+        "size": 1841,
+        "created": "2024-03-14T11:39:08+00:00",
+        "updated": "2024-03-14T13:00:18+00:00",
+        "pushed": "2024-03-14T12:23:37+00:00",
+        "url": "https://github.com/nailoy/K210-Based-Fatigue-Driving-Detection",
+        "id": 772020730
+    },
+    {
+        "repo": "K230_AI_Demo_Development_Process_Analysis",
+        "description": "\u57fa\u4e8eK230\u7684AI\u7b97\u6cd5\u5f00\u53d1\u662f\u628a\u5df2\u8bad\u7ec3\u597dAI\u6a21\u578b\u5728PC\u4e0a\u7684\u63a8\u7406\u6d41\u7a0b\uff0c\u79fb\u690d\u5230K230\u5f00\u53d1\u677f\u7684\u8fc7\u7a0b",
+        "owner": "JayL323",
+        "stars": 2,
+        "forks": 0,
+        "size": 30176,
+        "created": "2024-02-28T08:05:57+00:00",
+        "updated": "2024-03-11T06:35:34+00:00",
+        "pushed": "2024-03-15T05:47:11+00:00",
+        "url": "https://github.com/JayL323/K230_AI_Demo_Development_Process_Analysis",
+        "id": 764514021
+    },
+    {
+        "repo": "MaixduinoAI",
+        "description": null,
+        "owner": "damiantomczyszyn",
+        "stars": 0,
+        "forks": 0,
+        "size": 1977357,
+        "created": "2024-02-01T17:27:41+00:00",
+        "updated": "2024-03-13T19:22:44+00:00",
+        "pushed": "2024-03-14T18:58:21+00:00",
+        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
+        "id": 751476254
+    },
+    {
+        "repo": "HCM_JV240304_MaiXuanSang",
+        "description": null,
+        "owner": "XuanSang123",
+        "stars": 0,
+        "forks": 0,
+        "size": 909,
+        "created": "2024-03-14T02:18:10+00:00",
+        "updated": "2024-03-14T09:15:34+00:00",
+        "pushed": "2024-03-14T09:14:29+00:00",
+        "url": "https://github.com/XuanSang123/HCM_JV240304_MaiXuanSang",
+        "id": 771818807
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1901,
+        "size": 2022,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-03-14T01:30:03+00:00",
+        "pushed": "2024-03-15T01:31:26+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36145,10 +36171,10 @@
         "owner": "androidtrackers",
         "stars": 111,
         "forks": 35,
-        "size": 630950,
+        "size": 630953,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-02-13T14:24:37+00:00",
-        "pushed": "2024-03-13T12:24:22+00:00",
+        "pushed": "2024-03-14T12:24:05+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -36158,10 +36184,10 @@
         "owner": "lupyuen",
         "stars": 30,
         "forks": 0,
-        "size": 351,
+        "size": 179,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-02-18T04:17:11+00:00",
-        "pushed": "2024-03-14T00:12:09+00:00",
+        "pushed": "2024-03-15T00:11:55+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
