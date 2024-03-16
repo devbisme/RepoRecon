@@ -4940,19 +4940,6 @@
         "id": 768239548
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 3,
-        "forks": 1,
-        "size": 13928,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-02-07T09:20:38+00:00",
-        "pushed": "2024-03-08T20:25:47+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "mips_cpu",
         "description": "Implementation of pipelined mips_cpu in both python and verilog HDL. Popular 5-stage method is used.",
         "owner": "elsiery",
@@ -4964,19 +4951,6 @@
         "pushed": "2024-03-09T05:36:36+00:00",
         "url": "https://github.com/elsiery/mips_cpu",
         "id": 766023963
-    },
-    {
-        "repo": "open_source",
-        "description": null,
-        "owner": "yanxp2github",
-        "stars": 0,
-        "forks": 0,
-        "size": 376,
-        "created": "2024-02-29T09:50:24+00:00",
-        "updated": "2024-02-29T09:50:44+00:00",
-        "pushed": "2024-03-08T07:28:46+00:00",
-        "url": "https://github.com/yanxp2github/open_source",
-        "id": 765108502
     },
     {
         "repo": "awesome-opensource-hardware",
@@ -5029,5 +5003,31 @@
         "pushed": "2024-03-15T00:17:00+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13969,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-03-12T16:52:41+00:00",
+        "pushed": "2024-03-15T15:44:58+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "open_source",
+        "description": null,
+        "owner": "yanxp2github",
+        "stars": 0,
+        "forks": 0,
+        "size": 432,
+        "created": "2024-02-29T09:50:24+00:00",
+        "updated": "2024-02-29T09:50:44+00:00",
+        "pushed": "2024-03-15T08:37:42+00:00",
+        "url": "https://github.com/yanxp2github/open_source",
+        "id": 765108502
     }
 ]
