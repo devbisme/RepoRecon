@@ -10868,19 +10868,6 @@
         "id": 659573875
     },
     {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 509,
-        "forks": 162,
-        "size": 9718,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2024-01-09T02:34:51+00:00",
-        "pushed": "2024-01-07T22:28:19+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
-    },
-    {
         "repo": "CFU-Playground",
         "description": null,
         "owner": "apollo65524532",
@@ -11869,19 +11856,6 @@
         "id": 190029235
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1668,
-        "forks": 146,
-        "size": 235,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-03-11T05:52:01+00:00",
-        "pushed": "2024-03-11T03:35:27+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "kakao",
         "description": "Kakao Linux",
         "owner": "machdyne",
@@ -12077,32 +12051,6 @@
         "id": 468027705
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 32,
-        "forks": 13,
-        "size": 93718,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-14T21:55:58+00:00",
-        "pushed": "2024-03-15T03:33:30+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "tinyclunx33_zephyr_example",
-        "description": "Zephyr running on the tinyCLUNX33 SoM",
-        "owner": "tinyvision-ai-inc",
-        "stars": 0,
-        "forks": 1,
-        "size": 552,
-        "created": "2024-01-02T18:40:46+00:00",
-        "updated": "2024-01-03T07:32:09+00:00",
-        "pushed": "2024-03-15T02:39:51+00:00",
-        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
-        "id": 738233144
-    },
-    {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp/Miningcore/NOMP Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 VPS or Dedicated Servers",
         "owner": "goodthebest",
@@ -12116,19 +12064,6 @@
         "id": 137700800
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 622,
-        "forks": 60,
-        "size": 1029,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-03-16T05:50:54+00:00",
-        "pushed": "2024-03-16T01:47:00+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12140,19 +12075,6 @@
         "pushed": "2024-03-16T02:08:42+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1376,
-        "forks": 190,
-        "size": 202437,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-03-16T03:33:11+00:00",
-        "pushed": "2024-03-15T22:45:40+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "f4pga-examples",
@@ -12194,15 +12116,93 @@
         "id": 765108502
     },
     {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 526,
+        "forks": 164,
+        "size": 9718,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2024-03-16T19:05:16+00:00",
+        "pushed": "2024-03-13T06:07:09+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 622,
+        "forks": 60,
+        "size": 1029,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-03-16T05:50:54+00:00",
+        "pushed": "2024-03-17T01:45:51+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1376,
+        "forks": 190,
+        "size": 202219,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-03-16T03:33:11+00:00",
+        "pushed": "2024-03-16T22:12:29+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1680,
+        "forks": 146,
+        "size": 252,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-03-17T05:14:25+00:00",
+        "pushed": "2024-03-17T03:07:57+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 33,
+        "forks": 13,
+        "size": 93752,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-16T15:56:05+00:00",
+        "pushed": "2024-03-17T00:47:24+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "tinyclunx33_zephyr_example",
+        "description": "Zephyr running on the tinyCLUNX33 SoM",
+        "owner": "tinyvision-ai-inc",
+        "stars": 0,
+        "forks": 1,
+        "size": 553,
+        "created": "2024-01-02T18:40:46+00:00",
+        "updated": "2024-01-03T07:32:09+00:00",
+        "pushed": "2024-03-17T00:32:30+00:00",
+        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
+        "id": 738233144
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 977,
+        "size": 979,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-16T04:34:44+00:00",
+        "pushed": "2024-03-17T04:34:42+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12212,10 +12212,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 30863,
+        "size": 31332,
         "created": "2021-01-18T21:41:11+00:00",
         "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-03-16T01:04:34+00:00",
+        "pushed": "2024-03-17T00:55:55+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     }
