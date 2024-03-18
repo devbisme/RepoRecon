@@ -4992,19 +4992,6 @@
         "id": 765108502
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14073,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-03-12T16:52:41+00:00",
-        "pushed": "2024-03-16T16:16:39+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -5018,15 +5005,28 @@
         "id": 479118982
     },
     {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14116,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-03-12T16:52:41+00:00",
+        "pushed": "2024-03-17T09:32:54+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
         "repo": "bonfire-core",
         "description": null,
         "owner": "bonfireprocessor",
         "stars": 0,
         "forks": 1,
-        "size": 285,
+        "size": 294,
         "created": "2019-08-03T22:11:34+00:00",
         "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-03-16T19:24:35+00:00",
+        "pushed": "2024-03-17T19:41:38+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
     }

@@ -1794,19 +1794,6 @@
         "id": 202474626
     },
     {
-        "repo": "fomu-workshop",
-        "description": "Support files for participating in a Fomu workshop",
-        "owner": "im-tomu",
-        "stars": 151,
-        "forks": 61,
-        "size": 27662,
-        "created": "2019-08-16T06:59:02Z",
-        "updated": "2023-07-15T00:45:51Z",
-        "pushed": "2023-09-04T12:31:15Z",
-        "url": "https://github.com/im-tomu/fomu-workshop",
-        "id": 202675791
-    },
-    {
         "repo": "liteusb",
         "description": "Small footprint and configurable USB core - Deprecated, integrated in LiteX",
         "owner": "Benjiem-stk",
@@ -11830,19 +11817,6 @@
         "id": 84366787
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 259,
-        "forks": 33,
-        "size": 138583,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-03-04T16:19:29+00:00",
-        "pushed": "2024-03-10T01:53:58+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -12038,19 +12012,6 @@
         "id": 191191221
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 25,
-        "forks": 12,
-        "size": 28296,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-03-11T16:15:15+00:00",
-        "pushed": "2024-03-14T11:41:41+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp/Miningcore/NOMP Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 VPS or Dedicated Servers",
         "owner": "goodthebest",
@@ -12129,32 +12090,6 @@
         "id": 183392076
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 622,
-        "forks": 60,
-        "size": 1029,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-03-16T05:50:54+00:00",
-        "pushed": "2024-03-17T01:45:51+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1376,
-        "forks": 190,
-        "size": 202219,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-03-16T03:33:11+00:00",
-        "pushed": "2024-03-16T22:12:29+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -12194,15 +12129,80 @@
         "id": 738233144
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 622,
+        "forks": 60,
+        "size": 1029,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-03-16T05:50:54+00:00",
+        "pushed": "2024-03-18T01:49:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1377,
+        "forks": 190,
+        "size": 202224,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-03-17T21:12:54+00:00",
+        "pushed": "2024-03-17T22:44:45+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 25,
+        "forks": 12,
+        "size": 28656,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-03-11T16:15:15+00:00",
+        "pushed": "2024-03-17T15:10:45+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "fomu-workshop",
+        "description": "Support files for participating in a Fomu workshop",
+        "owner": "im-tomu",
+        "stars": 156,
+        "forks": 63,
+        "size": 27667,
+        "created": "2019-08-16T06:59:02+00:00",
+        "updated": "2024-02-29T17:03:12+00:00",
+        "pushed": "2024-03-17T19:30:37+00:00",
+        "url": "https://github.com/im-tomu/fomu-workshop",
+        "id": 202675791
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 265,
+        "forks": 33,
+        "size": 139346,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-03-18T00:53:42+00:00",
+        "pushed": "2024-03-17T12:13:17+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 979,
+        "size": 1051,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-17T04:34:42+00:00",
+        "pushed": "2024-03-18T04:35:03+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12212,10 +12212,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 31332,
+        "size": 32543,
         "created": "2021-01-18T21:41:11+00:00",
         "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-03-17T00:55:55+00:00",
+        "pushed": "2024-03-18T01:04:28+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     }
