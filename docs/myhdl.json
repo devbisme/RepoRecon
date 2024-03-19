@@ -4862,19 +4862,6 @@
         "id": 765869517
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 223,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-03-02T15:25:37+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "transaction-pysim-example",
         "description": null,
         "owner": "lx071",
@@ -4914,19 +4901,6 @@
         "id": 342916296
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 32,
-        "forks": 6,
-        "size": 6384,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2024-02-27T10:19:18+00:00",
-        "pushed": "2024-03-06T18:25:42+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
         "repo": "24a-bits-lab-3-myhdl-daniboy_bits_2024a",
         "description": "24a-bits-lab-3-myhdl-daniboy_bits_2024a created by GitHub Classroom",
         "owner": "insper-classroom",
@@ -4951,19 +4925,6 @@
         "pushed": "2024-03-09T05:36:36+00:00",
         "url": "https://github.com/elsiery/mips_cpu",
         "id": 766023963
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 191,
-        "forks": 26,
-        "size": 19753,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-02-27T10:18:02+00:00",
-        "pushed": "2024-03-13T18:46:10+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
     },
     {
         "repo": "dsd",
@@ -5005,19 +4966,6 @@
         "id": 479118982
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14116,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-03-12T16:52:41+00:00",
-        "pushed": "2024-03-17T09:32:54+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "bonfire-core",
         "description": null,
         "owner": "bonfireprocessor",
@@ -5029,5 +4977,57 @@
         "pushed": "2024-03-17T19:41:38+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 32,
+        "forks": 6,
+        "size": 6397,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2024-02-27T10:19:18+00:00",
+        "pushed": "2024-03-18T10:13:29+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 191,
+        "forks": 26,
+        "size": 19791,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-02-27T10:18:02+00:00",
+        "pushed": "2024-03-18T13:20:43+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14200,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-03-12T16:52:41+00:00",
+        "pushed": "2024-03-18T14:51:21+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 517,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-24T16:34:21+00:00",
+        "pushed": "2024-03-18T23:02:43+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
     }
 ]
