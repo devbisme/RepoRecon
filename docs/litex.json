@@ -11557,19 +11557,6 @@
         "id": 109838222
     },
     {
-        "repo": "eurorack-pmod-litex",
-        "description": "Audio DSP on an FPGA using eurorack-pmod + LiteX with firmware in Rust.",
-        "owner": "apfelaudio",
-        "stars": 4,
-        "forks": 2,
-        "size": 2551,
-        "created": "2023-08-13T10:24:29+00:00",
-        "updated": "2024-02-29T23:33:00+00:00",
-        "pushed": "2024-02-28T13:20:17+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
-        "id": 677990151
-    },
-    {
         "repo": "LiteX-Angular",
         "description": null,
         "owner": "ShreyasPatil-13",
@@ -11661,19 +11648,6 @@
         "id": 413357087
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1218,
-        "forks": 167,
-        "size": 12832,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-03-06T18:14:55+00:00",
-        "pushed": "2024-03-06T19:22:32+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "awesome-stars",
         "description": "Awesome List of my own!",
         "owner": "jiegec",
@@ -11724,19 +11698,6 @@
         "pushed": "2024-03-07T13:48:37+00:00",
         "url": "https://github.com/JoseGomesJr/magic_wand",
         "id": 765859144
-    },
-    {
-        "repo": "sechzig",
-        "description": "Sechzig Compute Module",
-        "owner": "machdyne",
-        "stars": 6,
-        "forks": 1,
-        "size": 1992,
-        "created": "2023-04-11T18:19:34+00:00",
-        "updated": "2024-02-05T04:12:23+00:00",
-        "pushed": "2024-03-07T16:04:01+00:00",
-        "url": "https://github.com/machdyne/sechzig",
-        "id": 626567971
     },
     {
         "repo": "list-o-pad",
@@ -11856,19 +11817,6 @@
         "id": 431864196
     },
     {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 20034,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-01-16T07:37:38+00:00",
-        "pushed": "2024-03-11T20:53:19+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
         "repo": "VexRiscv_fusesoc",
         "description": "Taken from the litex build and converted into a fusesoc core",
         "owner": "johnathan-convertino-afrl",
@@ -11945,19 +11893,6 @@
         "pushed": "2024-03-14T03:20:30+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 331,
-        "forks": 263,
-        "size": 3885,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-03-14T23:25:54+00:00",
-        "pushed": "2024-03-14T14:14:05+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
@@ -12064,58 +11999,6 @@
         "id": 237940918
     },
     {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 190,
-        "forks": 81,
-        "size": 1457,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-02-14T13:55:01+00:00",
-        "pushed": "2024-03-18T13:24:42+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 625,
-        "forks": 60,
-        "size": 1029,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-03-18T19:47:14+00:00",
-        "pushed": "2024-03-19T01:49:27+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 442,
-        "forks": 114,
-        "size": 41638,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-03-15T15:47:52+00:00",
-        "pushed": "2024-03-19T02:09:39+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1378,
-        "forks": 192,
-        "size": 202296,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-03-19T00:33:56+00:00",
-        "pushed": "2024-03-18T19:06:08+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -12140,19 +12023,6 @@
         "pushed": "2024-03-18T13:20:43+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 34,
-        "forks": 13,
-        "size": 93755,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-17T09:05:18+00:00",
-        "pushed": "2024-03-18T23:11:44+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "pythondata-cpu-naxriscv",
@@ -12194,19 +12064,6 @@
         "id": 614036932
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1053,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-19T04:36:17+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12218,5 +12075,148 @@
         "pushed": "2024-03-19T01:00:17+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 332,
+        "forks": 266,
+        "size": 3886,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-03-16T14:02:36+00:00",
+        "pushed": "2024-03-19T10:50:04+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 190,
+        "forks": 81,
+        "size": 1458,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-02-14T13:55:01+00:00",
+        "pushed": "2024-03-19T16:56:22+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 626,
+        "forks": 60,
+        "size": 1029,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-03-19T21:12:23+00:00",
+        "pushed": "2024-03-20T01:42:30+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 442,
+        "forks": 114,
+        "size": 41638,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-03-15T15:47:52+00:00",
+        "pushed": "2024-03-20T02:09:23+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1387,
+        "forks": 193,
+        "size": 202302,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-03-20T03:15:12+00:00",
+        "pushed": "2024-03-19T16:33:31+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1225,
+        "forks": 167,
+        "size": 12834,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-03-18T07:14:13+00:00",
+        "pushed": "2024-03-19T11:42:32+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "eurorack-pmod-litex",
+        "description": "Audio DSP on an FPGA using eurorack-pmod + LiteX with firmware in Rust.",
+        "owner": "apfelaudio",
+        "stars": 3,
+        "forks": 2,
+        "size": 2574,
+        "created": "2023-08-13T10:24:29+00:00",
+        "updated": "2024-03-19T09:17:18+00:00",
+        "pushed": "2024-03-18T07:18:35+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
+        "id": 677990151
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 34,
+        "forks": 14,
+        "size": 93788,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-17T09:05:18+00:00",
+        "pushed": "2024-03-20T04:06:33+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 20034,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-01-16T07:37:38+00:00",
+        "pushed": "2024-03-20T05:43:56+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "sechzig",
+        "description": "Sechzig Compute Module",
+        "owner": "machdyne",
+        "stars": 6,
+        "forks": 1,
+        "size": 1997,
+        "created": "2023-04-11T18:19:34+00:00",
+        "updated": "2024-02-05T04:12:23+00:00",
+        "pushed": "2024-03-19T07:38:10+00:00",
+        "url": "https://github.com/machdyne/sechzig",
+        "id": 626567971
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1055,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-03-20T04:34:25+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
     }
 ]
