@@ -4966,19 +4966,6 @@
         "id": 35898469
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 37,
-        "forks": 23,
-        "size": 41389,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-03-09T06:35:02+00:00",
-        "pushed": "2024-03-20T01:42:25+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5018,15 +5005,54 @@
         "id": 646169567
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 37,
+        "forks": 23,
+        "size": 41394,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-03-09T06:35:02+00:00",
+        "pushed": "2024-03-21T15:11:45+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "24a-AI-simulado",
+        "description": null,
+        "owner": "insper-bits",
+        "stars": 0,
+        "forks": 0,
+        "size": 1117,
+        "created": "2024-03-21T16:19:35+00:00",
+        "updated": "2024-03-21T20:58:23+00:00",
+        "pushed": "2024-03-21T20:49:16+00:00",
+        "url": "https://github.com/insper-bits/24a-AI-simulado",
+        "id": 775567514
+    },
+    {
+        "repo": "24a-bits-ai-simulado-felipemarianoferr",
+        "description": "24a-bits-ai-simulado-felipemarianoferr created by GitHub Classroom",
+        "owner": "insper-classroom",
+        "stars": 0,
+        "forks": 0,
+        "size": 640,
+        "created": "2024-03-21T21:48:12+00:00",
+        "updated": "2024-03-21T21:48:17+00:00",
+        "pushed": "2024-03-21T21:48:14+00:00",
+        "url": "https://github.com/insper-classroom/24a-bits-ai-simulado-felipemarianoferr",
+        "id": 775697126
+    },
+    {
         "repo": "bonfire-core",
         "description": null,
         "owner": "bonfireprocessor",
         "stars": 0,
         "forks": 1,
-        "size": 305,
+        "size": 310,
         "created": "2019-08-03T22:11:34+00:00",
         "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-03-20T20:32:24+00:00",
+        "pushed": "2024-03-21T20:28:04+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
     }
