@@ -7098,19 +7098,6 @@
         "id": 181810504
     },
     {
-        "repo": "ch55x_dualserial",
-        "description": "CH552 Dual USB to Serial Bridge.",
-        "owner": "diodep",
-        "stars": 73,
-        "forks": 13,
-        "size": 20,
-        "created": "2019-04-17T12:16:57Z",
-        "updated": "2023-08-24T14:17:07Z",
-        "pushed": "2020-10-13T02:04:26Z",
-        "url": "https://github.com/diodep/ch55x_dualserial",
-        "id": 181884857
-    },
-    {
         "repo": "robot_k210",
         "description": "Arduino on Kendryte K210 based mobile robot firmware",
         "owner": "ryang14",
@@ -34840,19 +34827,6 @@
         "id": 385102171
     },
     {
-        "repo": "awesome-latticeFPGAs",
-        "description": ":book: List of FPGA Lattice boards using open tools",
-        "owner": "kelu124",
-        "stars": 275,
-        "forks": 17,
-        "size": 43,
-        "created": "2020-01-04T18:51:08+00:00",
-        "updated": "2024-02-07T09:30:57+00:00",
-        "pushed": "2024-02-08T18:59:31+00:00",
-        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
-        "id": 231812493
-    },
-    {
         "repo": "k230osbi",
         "description": null,
         "owner": "yf13",
@@ -35867,19 +35841,6 @@
         "id": 616233611
     },
     {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 7529,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2024-02-20T08:54:10+00:00",
-        "pushed": "2024-03-16T11:14:58+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
-    },
-    {
         "repo": "maix_train",
         "description": null,
         "owner": "Geekiter",
@@ -36021,19 +35982,6 @@
         "pushed": "2024-03-19T22:15:35+00:00",
         "url": "https://github.com/kendryte/k230_canmv",
         "id": 706052378
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 516,
-        "forks": 154,
-        "size": 1013,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2024-03-17T06:15:53+00:00",
-        "pushed": "2024-03-20T06:10:52+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
     },
     {
         "repo": "INTELLIGENT-LOCK-SYSTEM-BASED-ON-STM32",
@@ -36231,45 +36179,6 @@
         "id": 770690133
     },
     {
-        "repo": "MaixduinoAI",
-        "description": null,
-        "owner": "damiantomczyszyn",
-        "stars": 0,
-        "forks": 0,
-        "size": 1977372,
-        "created": "2024-02-01T17:27:41+00:00",
-        "updated": "2024-03-13T19:22:44+00:00",
-        "pushed": "2024-03-22T17:34:14+00:00",
-        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
-        "id": 751476254
-    },
-    {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 1,
-        "forks": 0,
-        "size": 46361,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2024-02-27T13:41:43+00:00",
-        "pushed": "2024-03-22T14:32:36+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 10087,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-03-23T01:31:18+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "wmt_lvgl_study",
         "description": "My LVGL study",
         "owner": "weimingtom",
@@ -36283,15 +36192,119 @@
         "id": 461410963
     },
     {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 523,
+        "forks": 156,
+        "size": 1013,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2024-03-23T12:46:50+00:00",
+        "pushed": "2024-03-23T15:29:25+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "ch55x_dualserial",
+        "description": "CH552 Dual USB to Serial Bridge.",
+        "owner": "diodep",
+        "stars": 75,
+        "forks": 14,
+        "size": 20,
+        "created": "2019-04-17T12:16:57+00:00",
+        "updated": "2024-03-23T19:45:11+00:00",
+        "pushed": "2024-03-22T03:28:30+00:00",
+        "url": "https://github.com/diodep/ch55x_dualserial",
+        "id": 181884857
+    },
+    {
+        "repo": "awesome-latticeFPGAs",
+        "description": ":book: List of FPGA Lattice boards using open tools",
+        "owner": "kelu124",
+        "stars": 282,
+        "forks": 18,
+        "size": 44,
+        "created": "2020-01-04T18:51:08+00:00",
+        "updated": "2024-03-15T16:56:14+00:00",
+        "pushed": "2024-03-23T16:31:45+00:00",
+        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
+        "id": 231812493
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 7540,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2024-02-20T08:54:10+00:00",
+        "pushed": "2024-03-23T19:39:06+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "MaixduinoAI",
+        "description": null,
+        "owner": "damiantomczyszyn",
+        "stars": 0,
+        "forks": 0,
+        "size": 1977372,
+        "created": "2024-02-01T17:27:41+00:00",
+        "updated": "2024-03-13T19:22:44+00:00",
+        "pushed": "2024-03-23T22:59:27+00:00",
+        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
+        "id": 751476254
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 1,
+        "forks": 0,
+        "size": 46361,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2024-02-27T13:41:43+00:00",
+        "pushed": "2024-03-23T14:49:46+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
+        "repo": "Maixxi-png1",
+        "description": "1",
+        "owner": "Maixxi-png",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2024-03-23T11:35:43+00:00",
+        "updated": "2024-03-23T11:35:47+00:00",
+        "pushed": "2024-03-23T11:35:44+00:00",
+        "url": "https://github.com/Maixxi-png/Maixxi-png1",
+        "id": 776392704
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 10521,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2024-03-24T01:39:39+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2890,
+        "size": 3015,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-03-23T01:28:23+00:00",
+        "pushed": "2024-03-24T01:36:46+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36301,10 +36314,10 @@
         "owner": "androidtrackers",
         "stars": 111,
         "forks": 35,
-        "size": 636438,
+        "size": 636441,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-03-20T13:14:53+00:00",
-        "pushed": "2024-03-22T12:22:56+00:00",
+        "pushed": "2024-03-23T12:24:53+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -36317,7 +36330,7 @@
         "size": 179,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-02-18T04:17:11+00:00",
-        "pushed": "2024-03-23T00:11:47+00:00",
+        "pushed": "2024-03-24T00:13:34+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

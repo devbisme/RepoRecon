@@ -4550,19 +4550,6 @@
         "id": 154458175
     },
     {
-        "repo": "awesome-hdl",
-        "description": "Hardware Description Languages",
-        "owner": "drom",
-        "stars": 840,
-        "forks": 92,
-        "size": 125,
-        "created": "2017-04-12T06:43:44+00:00",
-        "updated": "2024-02-04T23:30:31+00:00",
-        "pushed": "2024-02-04T19:45:29+00:00",
-        "url": "https://github.com/drom/awesome-hdl",
-        "id": 88018788
-    },
-    {
         "repo": "myhdl-feedstock",
         "description": "A conda-smithy repository for myhdl.",
         "owner": "conda-forge",
@@ -4979,19 +4966,6 @@
         "id": 38977954
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 515,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-03-19T19:18:32+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "gubscruz",
         "description": null,
         "owner": "Gubscruz",
@@ -5005,32 +4979,6 @@
         "id": 646169567
     },
     {
-        "repo": "24a-AI-simulado",
-        "description": null,
-        "owner": "insper-bits",
-        "stars": 0,
-        "forks": 0,
-        "size": 1117,
-        "created": "2024-03-21T16:19:35+00:00",
-        "updated": "2024-03-21T20:58:23+00:00",
-        "pushed": "2024-03-21T20:49:16+00:00",
-        "url": "https://github.com/insper-bits/24a-AI-simulado",
-        "id": 775567514
-    },
-    {
-        "repo": "bonfire-core",
-        "description": null,
-        "owner": "bonfireprocessor",
-        "stars": 0,
-        "forks": 1,
-        "size": 310,
-        "created": "2019-08-03T22:11:34+00:00",
-        "updated": "2023-06-30T12:55:24+00:00",
-        "pushed": "2024-03-21T20:28:04+00:00",
-        "url": "https://github.com/bonfireprocessor/bonfire-core",
-        "id": 200425308
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5042,19 +4990,6 @@
         "pushed": "2024-03-23T02:30:39+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
-    },
-    {
-        "repo": "24a-bits-ai-simulado-felipemarianoferr",
-        "description": "24a-bits-ai-simulado-felipemarianoferr created by GitHub Classroom",
-        "owner": "insper-classroom",
-        "stars": 0,
-        "forks": 0,
-        "size": 645,
-        "created": "2024-03-21T21:48:12+00:00",
-        "updated": "2024-03-21T21:48:17+00:00",
-        "pushed": "2024-03-22T21:17:56+00:00",
-        "url": "https://github.com/insper-classroom/24a-bits-ai-simulado-felipemarianoferr",
-        "id": 775697126
     },
     {
         "repo": "24a-bits-ai-simulado-RicardolCarvalho",
@@ -5081,5 +5016,70 @@
         "pushed": "2024-03-22T20:25:20+00:00",
         "url": "https://github.com/insper-classroom/24a-bits-ai-simulado-pedrofardin",
         "id": 776168819
+    },
+    {
+        "repo": "awesome-hdl",
+        "description": "Hardware Description Languages",
+        "owner": "drom",
+        "stars": 864,
+        "forks": 92,
+        "size": 131,
+        "created": "2017-04-12T06:43:44+00:00",
+        "updated": "2024-03-23T11:35:26+00:00",
+        "pushed": "2024-03-23T16:45:58+00:00",
+        "url": "https://github.com/drom/awesome-hdl",
+        "id": 88018788
+    },
+    {
+        "repo": "24a-AI-simulado",
+        "description": null,
+        "owner": "insper-bits",
+        "stars": 0,
+        "forks": 1,
+        "size": 1118,
+        "created": "2024-03-21T16:19:35+00:00",
+        "updated": "2024-03-21T20:58:23+00:00",
+        "pushed": "2024-03-23T23:29:49+00:00",
+        "url": "https://github.com/insper-bits/24a-AI-simulado",
+        "id": 775567514
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 528,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-24T16:34:21+00:00",
+        "pushed": "2024-03-23T23:27:20+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
+    },
+    {
+        "repo": "24a-bits-ai-simulado-felipemarianoferr",
+        "description": "24a-bits-ai-simulado-felipemarianoferr created by GitHub Classroom",
+        "owner": "insper-classroom",
+        "stars": 0,
+        "forks": 0,
+        "size": 649,
+        "created": "2024-03-21T21:48:12+00:00",
+        "updated": "2024-03-21T21:48:17+00:00",
+        "pushed": "2024-03-24T01:40:25+00:00",
+        "url": "https://github.com/insper-classroom/24a-bits-ai-simulado-felipemarianoferr",
+        "id": 775697126
+    },
+    {
+        "repo": "bonfire-core",
+        "description": null,
+        "owner": "bonfireprocessor",
+        "stars": 0,
+        "forks": 1,
+        "size": 319,
+        "created": "2019-08-03T22:11:34+00:00",
+        "updated": "2023-06-30T12:55:24+00:00",
+        "pushed": "2024-03-23T17:01:06+00:00",
+        "url": "https://github.com/bonfireprocessor/bonfire-core",
+        "id": 200425308
     }
 ]

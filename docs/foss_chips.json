@@ -59787,19 +59787,6 @@
         "id": 471654121
     },
     {
-        "repo": "riscduino_dcore",
-        "description": null,
-        "owner": "dineshannayya",
-        "stars": 8,
-        "forks": 3,
-        "size": 605496,
-        "created": "2022-02-21T16:48:52+00:00",
-        "updated": "2023-12-17T18:52:51+00:00",
-        "pushed": "2023-12-28T02:40:49+00:00",
-        "url": "https://github.com/dineshannayya/riscduino_dcore",
-        "id": 461950713
-    },
-    {
         "repo": "SHA-256",
         "description": "Custom ASIC Design for SHA-256",
         "owner": "LDFranck",
@@ -60606,19 +60593,6 @@
         "id": 667922078
     },
     {
-        "repo": "caravel-breakout-pcb",
-        "description": null,
-        "owner": "TinyTapeout",
-        "stars": 1,
-        "forks": 3,
-        "size": 4831,
-        "created": "2022-06-16T11:28:11+00:00",
-        "updated": "2024-01-17T12:08:23+00:00",
-        "pushed": "2024-01-12T03:49:55+00:00",
-        "url": "https://github.com/TinyTapeout/caravel-breakout-pcb",
-        "id": 504128590
-    },
-    {
         "repo": "OpenLane",
         "description": "OpenLane Assessment Prep",
         "owner": "jessduplechin",
@@ -60903,19 +60877,6 @@
         "pushed": "2024-01-23T14:23:53+00:00",
         "url": "https://github.com/devstdin/sky130artefacts",
         "id": 440609470
-    },
-    {
-        "repo": "OpenFASOC",
-        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
-        "owner": "idea-fasoc",
-        "stars": 185,
-        "forks": 75,
-        "size": 417756,
-        "created": "2021-03-24T16:30:14+00:00",
-        "updated": "2024-01-26T04:44:37+00:00",
-        "pushed": "2024-01-25T17:22:44+00:00",
-        "url": "https://github.com/idea-fasoc/OpenFASOC",
-        "id": 351150248
     },
     {
         "repo": "openfasoc-tapeouts",
@@ -62008,19 +61969,6 @@
         "pushed": "2024-02-06T11:54:58+00:00",
         "url": "https://github.com/shalan/mpc",
         "id": 532995239
-    },
-    {
-        "repo": "journal",
-        "description": "Anton's journal of interesting project stuff",
-        "owner": "algofoogle",
-        "stars": 0,
-        "forks": 0,
-        "size": 79920,
-        "created": "2019-11-28T08:46:48+00:00",
-        "updated": "2022-04-02T13:56:11+00:00",
-        "pushed": "2024-02-06T20:56:00+00:00",
-        "url": "https://github.com/algofoogle/journal",
-        "id": 224608755
     },
     {
         "repo": "ocs",
@@ -65156,19 +65104,6 @@
         "id": 745991233
     },
     {
-        "repo": "sky130_td_ip__opamp_hp",
-        "description": "High-gain operational amplifier IP block for SKY130 CMOS process. Developed as part of Chipalooza 2024 challenge.",
-        "owner": "tdextrous",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2024-03-08T22:46:20+00:00",
-        "updated": "2024-03-08T22:46:21+00:00",
-        "pushed": "2024-03-08T22:46:21+00:00",
-        "url": "https://github.com/tdextrous/sky130_td_ip__opamp_hp",
-        "id": 769367990
-    },
-    {
         "repo": "openlane-verification",
         "description": "This repository offers a compact design verification flow using OpenLANE. Scripts cover synthesis correctness, functional and power verification, DRC/LVS, timing analysis, and reliability checks. Contributions are welcome.",
         "owner": "arhamhashmi01",
@@ -65336,19 +65271,6 @@
         "pushed": "2024-03-09T01:46:15+00:00",
         "url": "https://github.com/patrick-llgc/Learning-Deep-Learning",
         "id": 86965622
-    },
-    {
-        "repo": "MiWu",
-        "description": "\u7b2c\u4e09\u65b9\u624b\u8868\u7248\u7c73\u5bb6",
-        "owner": "sky130",
-        "stars": 58,
-        "forks": 16,
-        "size": 1052,
-        "created": "2023-08-18T06:55:19+00:00",
-        "updated": "2024-03-07T01:43:44+00:00",
-        "pushed": "2024-03-09T15:50:27+00:00",
-        "url": "https://github.com/sky130/MiWu",
-        "id": 680024437
     },
     {
         "repo": "user-profile-spa",
@@ -65689,19 +65611,6 @@
         "id": 708189378
     },
     {
-        "repo": "sky130_ef_ip__instramp",
-        "description": "Instrumentation amplifier (analog IP example)",
-        "owner": "RTimothyEdwards",
-        "stars": 1,
-        "forks": 1,
-        "size": 268,
-        "created": "2024-02-28T15:32:33+00:00",
-        "updated": "2024-03-02T11:35:30+00:00",
-        "pushed": "2024-03-13T01:49:37+00:00",
-        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__instramp",
-        "id": 764717309
-    },
-    {
         "repo": "VSDSquadron-RISCV",
         "description": "This repository is intended for the documentaion of all learning outcomes and process of VSDSquadron RISCV internship.",
         "owner": "sanjaypk16",
@@ -65908,19 +65817,6 @@
         "pushed": "2024-03-13T19:13:06+00:00",
         "url": "https://github.com/RucheetaMetri/VSD1",
         "id": 759808551
-    },
-    {
-        "repo": "sky130_ef_ip__bgrref_por",
-        "description": "Chipalooza challenge - bandgap-referenced Power-on-Reset (PoR)",
-        "owner": "openicdesign",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2024-03-13T16:36:50+00:00",
-        "updated": "2024-03-13T16:36:50+00:00",
-        "pushed": "2024-03-13T16:36:50+00:00",
-        "url": "https://github.com/openicdesign/sky130_ef_ip__bgrref_por",
-        "id": 771624677
     },
     {
         "repo": "VSD",
@@ -66755,19 +66651,6 @@
         "id": 752698421
     },
     {
-        "repo": "tt06-jrb8-computer",
-        "description": "The James Retro Byte 8 computer!",
-        "owner": "AeroX2",
-        "stars": 0,
-        "forks": 0,
-        "size": 146,
-        "created": "2023-10-18T11:23:42+00:00",
-        "updated": "2024-03-03T04:08:19+00:00",
-        "pushed": "2024-03-17T10:13:32+00:00",
-        "url": "https://github.com/AeroX2/tt06-jrb8-computer",
-        "id": 706654427
-    },
-    {
         "repo": "tt06-csit-luks",
         "description": null,
         "owner": "jk2102",
@@ -66779,19 +66662,6 @@
         "pushed": "2024-03-17T13:58:54+00:00",
         "url": "https://github.com/jk2102/tt06-csit-luks",
         "id": 768567552
-    },
-    {
-        "repo": "tt06-minibyte-cpu",
-        "description": "A super simple 8-bit CPU for TT06",
-        "owner": "zacharysfrazee",
-        "stars": 0,
-        "forks": 0,
-        "size": 31,
-        "created": "2024-03-16T03:53:48+00:00",
-        "updated": "2024-03-16T05:54:58+00:00",
-        "pushed": "2024-03-17T08:35:27+00:00",
-        "url": "https://github.com/zacharysfrazee/tt06-minibyte-cpu",
-        "id": 772851141
     },
     {
         "repo": "OR-tcl-API",
@@ -67093,19 +66963,6 @@
         "id": 771967286
     },
     {
-        "repo": "sky130_ef_ip_rdac_isd_12b",
-        "description": "Efabless Chipalooza Challenge example Analog IP: 12 bit Resistive DAC ",
-        "owner": "inderjit303",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2024-03-19T17:24:17+00:00",
-        "updated": "2024-03-19T17:24:17+00:00",
-        "pushed": "2024-03-19T17:24:17+00:00",
-        "url": "https://github.com/inderjit303/sky130_ef_ip_rdac_isd_12b",
-        "id": 774515905
-    },
-    {
         "repo": "sky130_its_ip__idac3v_12bit",
         "description": "The 12-bit current-mode DAC (IDAC) should provide both current sourcing and sinking output capability with selectable 2-bit full-scale range. The target specifications is based on the Efabless 2024 Chipalooza challenge.",
         "owner": "nurirfansyah",
@@ -67379,19 +67236,6 @@
         "id": 651842998
     },
     {
-        "repo": "tt-gds-action",
-        "description": "Tiny Tapeout GDS Action (using OpenLane)",
-        "owner": "TinyTapeout",
-        "stars": 2,
-        "forks": 5,
-        "size": 80,
-        "created": "2023-06-14T18:18:20+00:00",
-        "updated": "2023-11-05T19:26:23+00:00",
-        "pushed": "2024-03-20T09:56:03+00:00",
-        "url": "https://github.com/TinyTapeout/tt-gds-action",
-        "id": 653783344
-    },
-    {
         "repo": "soc-design-and-planning-nasscom-vsd",
         "description": "2 Week digital VLSI SoC design and planning workshop with complete RTL2GDSII flow organised by VSD in collaboration with NASSCOM",
         "owner": "fayizferosh",
@@ -67468,19 +67312,6 @@
         "pushed": "2024-03-20T19:17:40+00:00",
         "url": "https://github.com/argunda/sky130_analog_gate",
         "id": 775102308
-    },
-    {
-        "repo": "sky130_rhythmic_ip__dynamic_comparator",
-        "description": "Chipalooza 2024 Dynamic Comparator, adapted from https://github.com/3x10e8/fossi_cochlea",
-        "owner": "3x10e8",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2024-03-21T03:51:36+00:00",
-        "updated": "2024-03-21T03:51:36+00:00",
-        "pushed": "2024-03-21T03:51:36+00:00",
-        "url": "https://github.com/3x10e8/sky130_rhythmic_ip__dynamic_comparator",
-        "id": 775263691
     },
     {
         "repo": "VLSI-Analysis-SkywaterPDK-P-N-C--MOS",
@@ -67769,45 +67600,6 @@
         "id": 604615670
     },
     {
-        "repo": "NASSCOM-VSD-SoC-Design",
-        "description": null,
-        "owner": "dsanthak",
-        "stars": 0,
-        "forks": 0,
-        "size": 849,
-        "created": "2024-03-15T20:08:45+00:00",
-        "updated": "2024-03-15T20:08:46+00:00",
-        "pushed": "2024-03-22T05:34:41+00:00",
-        "url": "https://github.com/dsanthak/NASSCOM-VSD-SoC-Design",
-        "id": 772746193
-    },
-    {
-        "repo": "sky130_am_ip__ldo_01v8",
-        "description": "Low power 1.8 V LDO for the efabless chipalooza challenge",
-        "owner": "AlexMenu",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2024-03-18T16:23:41+00:00",
-        "updated": "2024-03-18T16:23:42+00:00",
-        "pushed": "2024-03-21T10:12:07+00:00",
-        "url": "https://github.com/AlexMenu/sky130_am_ip__ldo_01v8",
-        "id": 773921749
-    },
-    {
-        "repo": "sky130_pmcm_ip_cmp",
-        "description": "Skywater 130 pdk comparator",
-        "owner": "Create5517",
-        "stars": 0,
-        "forks": 0,
-        "size": 206,
-        "created": "2024-03-19T01:51:54+00:00",
-        "updated": "2024-03-21T05:36:03+00:00",
-        "pushed": "2024-03-22T05:08:25+00:00",
-        "url": "https://github.com/Create5517/sky130_pmcm_ip_cmp",
-        "id": 774130175
-    },
-    {
         "repo": "openlane2-ci-designs",
         "description": "Continuous Integration Designs for OpenLane 2.0.0 or higher",
         "owner": "efabless",
@@ -67832,19 +67624,6 @@
         "pushed": "2024-03-22T00:34:35+00:00",
         "url": "https://github.com/thehung3030/sky130_ef_ip__HG_OpAmp",
         "id": 771798804
-    },
-    {
-        "repo": "NASSCOM-VSD-SoC-Design",
-        "description": "VSD Workshop on Digital SoC Design and Planning using OPENLANE ",
-        "owner": "ursbestfriend",
-        "stars": 0,
-        "forks": 0,
-        "size": 271,
-        "created": "2024-03-14T17:46:03+00:00",
-        "updated": "2024-03-15T11:12:52+00:00",
-        "pushed": "2024-03-21T13:56:50+00:00",
-        "url": "https://github.com/ursbestfriend/NASSCOM-VSD-SoC-Design",
-        "id": 772188535
     },
     {
         "repo": "tiny-asic-1_58bit-matrix-mul",
@@ -67910,19 +67689,6 @@
         "pushed": "2024-03-22T01:02:19+00:00",
         "url": "https://github.com/RicardoATT/SNN_rram_MICROSE",
         "id": 770627952
-    },
-    {
-        "repo": "sky130_dok_ip__brown_out_detector",
-        "description": null,
-        "owner": "devesh-b",
-        "stars": 1,
-        "forks": 0,
-        "size": 12,
-        "created": "2024-03-21T08:07:17+00:00",
-        "updated": "2024-03-21T08:24:17+00:00",
-        "pushed": "2024-03-21T08:24:27+00:00",
-        "url": "https://github.com/devesh-b/sky130_dok_ip__brown_out_detector",
-        "id": 775345325
     },
     {
         "repo": "Physica_design_using_openlane",
@@ -68042,19 +67808,6 @@
         "id": 775740292
     },
     {
-        "repo": "tt06_ttrpg_dice",
-        "description": "Testing the tinytapeout workflow",
-        "owner": "sanojn",
-        "stars": 0,
-        "forks": 0,
-        "size": 348,
-        "created": "2024-03-08T16:38:14+00:00",
-        "updated": "2024-03-16T00:28:59+00:00",
-        "pushed": "2024-03-22T02:54:07+00:00",
-        "url": "https://github.com/sanojn/tt06_ttrpg_dice",
-        "id": 769246534
-    },
-    {
         "repo": "multimac",
         "description": "dot product accelerator",
         "owner": "Fountaincoder",
@@ -68081,19 +67834,6 @@
         "id": 775826164
     },
     {
-        "repo": "sky130_ac3e_ip__temp_sdc",
-        "description": "Time-based temperature sensor proposal for Chipalooza 2024",
-        "owner": "JorgeMarinN",
-        "stars": 0,
-        "forks": 0,
-        "size": 133,
-        "created": "2024-03-04T19:54:01+00:00",
-        "updated": "2024-03-19T03:01:00+00:00",
-        "pushed": "2024-03-22T03:18:09+00:00",
-        "url": "https://github.com/JorgeMarinN/sky130_ac3e_ip__temp_sdc",
-        "id": 767154591
-    },
-    {
         "repo": "BEV-Perception",
         "description": "Bird's Eye View Perception",
         "owner": "vasgaowei",
@@ -68105,19 +67845,6 @@
         "pushed": "2024-03-22T05:02:34+00:00",
         "url": "https://github.com/vasgaowei/BEV-Perception",
         "id": 638110012
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1273,
-        "forks": 457,
-        "size": 609156,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-03-23T05:08:18+00:00",
-        "pushed": "2024-03-23T02:32:33+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
     },
     {
         "repo": "openlane2",
@@ -68133,32 +67860,6 @@
         "id": 589378383
     },
     {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 746,
-        "forks": 81,
-        "size": 345947,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-03-20T07:54:06+00:00",
-        "pushed": "2024-03-23T01:36:32+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
-        "repo": "DriveAGI",
-        "description": "Embracing Foundation Models into Autonomous Agent and System",
-        "owner": "OpenDriveLab",
-        "stars": 320,
-        "forks": 11,
-        "size": 7130,
-        "created": "2023-04-24T17:59:42+00:00",
-        "updated": "2024-03-23T03:44:06+00:00",
-        "pushed": "2024-03-22T12:37:31+00:00",
-        "url": "https://github.com/OpenDriveLab/DriveAGI",
-        "id": 632101482
-    },
-    {
         "repo": "cace",
         "description": "Circuit Automatic Characterization Engine",
         "owner": "efabless",
@@ -68170,19 +67871,6 @@
         "pushed": "2024-03-23T02:29:11+00:00",
         "url": "https://github.com/efabless/cace",
         "id": 764728595
-    },
-    {
-        "repo": "NASSCOM-VSD-IAT",
-        "description": "SOC DESIGN",
-        "owner": "Gayathri4801",
-        "stars": 0,
-        "forks": 0,
-        "size": 39822,
-        "created": "2024-03-13T15:17:30+00:00",
-        "updated": "2024-03-19T14:24:18+00:00",
-        "pushed": "2024-03-22T20:03:09+00:00",
-        "url": "https://github.com/Gayathri4801/NASSCOM-VSD-IAT",
-        "id": 771588162
     },
     {
         "repo": "VSD_ChipDesign_Workshop_Documentation",
@@ -68224,19 +67912,6 @@
         "id": 769213926
     },
     {
-        "repo": "Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah",
-        "description": "Advanced Physical Design Using OpenLANE/SKY130 course notes by Ojasvi Shah",
-        "owner": "ojasvi-shah",
-        "stars": 0,
-        "forks": 0,
-        "size": 48,
-        "created": "2024-03-21T04:40:17+00:00",
-        "updated": "2024-03-22T07:08:48+00:00",
-        "pushed": "2024-03-23T05:41:19+00:00",
-        "url": "https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah",
-        "id": 775276825
-    },
-    {
         "repo": "cmosVLSI",
         "description": "using open source tools to make a cmos. ",
         "owner": "manavshah-28",
@@ -68248,19 +67923,6 @@
         "pushed": "2024-03-23T05:14:29+00:00",
         "url": "https://github.com/manavshah-28/cmosVLSI",
         "id": 774508639
-    },
-    {
-        "repo": "sky130_bkic3_ip__hgopamp",
-        "description": "High gain opam - BKIC3 in sky130",
-        "owner": "ThaoCaoChau",
-        "stars": 0,
-        "forks": 0,
-        "size": 278,
-        "created": "2024-03-22T07:25:21+00:00",
-        "updated": "2024-03-22T07:25:21+00:00",
-        "pushed": "2024-03-22T09:36:15+00:00",
-        "url": "https://github.com/ThaoCaoChau/sky130_bkic3_ip__hgopamp",
-        "id": 775859064
     },
     {
         "repo": "sky130_icrg_ip__ulpcomp",
@@ -68313,19 +67975,6 @@
         "pushed": "2024-03-22T08:45:45+00:00",
         "url": "https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program",
         "id": 771590906
-    },
-    {
-        "repo": "VSD-ASIC-Level-Repository",
-        "description": "This is a repository for ASIC Level of VLSI course",
-        "owner": "JustVanillaCode",
-        "stars": 0,
-        "forks": 0,
-        "size": 132,
-        "created": "2024-03-18T09:00:58+00:00",
-        "updated": "2024-03-18T09:00:59+00:00",
-        "pushed": "2024-03-22T07:53:17+00:00",
-        "url": "https://github.com/JustVanillaCode/VSD-ASIC-Level-Repository",
-        "id": 773709096
     },
     {
         "repo": "IIC-OSIC-TOOLS",
@@ -68495,19 +68144,6 @@
         "pushed": "2024-03-23T03:55:21+00:00",
         "url": "https://github.com/ajcci/sky130_ajc_ip__brownout",
         "id": 772759296
-    },
-    {
-        "repo": "sky130_vbl_ip__overvoltage",
-        "description": "SKY130 Overvoltage Detector",
-        "owner": "LDFranck",
-        "stars": 1,
-        "forks": 0,
-        "size": 255,
-        "created": "2024-03-11T16:44:08+00:00",
-        "updated": "2024-03-21T23:35:28+00:00",
-        "pushed": "2024-03-23T01:11:56+00:00",
-        "url": "https://github.com/LDFranck/sky130_vbl_ip__overvoltage",
-        "id": 770494310
     },
     {
         "repo": "sky130_ajc_ip__por",
@@ -68718,19 +68354,6 @@
         "id": 767235150
     },
     {
-        "repo": "SumLatchUART_System",
-        "description": "\u201cSumLatchUART_System\u201d is a digital system for four-bit addition. It functions a 4bit adder, limited to 4-bit input. Latch components store enter operands temporarily, making sure easy operation. With a UART module, it transmits results over a serial interface for easy communication.",
-        "owner": "brtgio",
-        "stars": 0,
-        "forks": 0,
-        "size": 84,
-        "created": "2024-03-20T23:46:39+00:00",
-        "updated": "2024-03-21T00:14:19+00:00",
-        "pushed": "2024-03-23T01:25:23+00:00",
-        "url": "https://github.com/brtgio/SumLatchUART_System",
-        "id": 775195129
-    },
-    {
         "repo": "cnr_gr03_sky130nm",
         "description": null,
         "owner": "analogicus",
@@ -68900,19 +68523,6 @@
         "id": 776016854
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1130,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-23T04:34:18+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Transformer-in-Computer-Vision",
         "description": "A paper list of some recent Transformer-based CV works.",
         "owner": "Yangzhangcst",
@@ -68924,19 +68534,6 @@
         "pushed": "2024-03-23T02:55:53+00:00",
         "url": "https://github.com/Yangzhangcst/Transformer-in-Computer-Vision",
         "id": 357782288
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 0,
-        "forks": 0,
-        "size": 10087,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-03-23T01:31:18+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
     },
     {
         "repo": "awesome-stars",
@@ -68952,15 +68549,522 @@
         "id": 330793471
     },
     {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1273,
+        "forks": 458,
+        "size": 609176,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-03-23T05:08:18+00:00",
+        "pushed": "2024-03-24T00:47:39+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "OpenFASOC",
+        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
+        "owner": "idea-fasoc",
+        "stars": 189,
+        "forks": 79,
+        "size": 417739,
+        "created": "2021-03-24T16:30:14+00:00",
+        "updated": "2024-03-23T20:37:16+00:00",
+        "pushed": "2024-03-22T06:05:20+00:00",
+        "url": "https://github.com/idea-fasoc/OpenFASOC",
+        "id": 351150248
+    },
+    {
+        "repo": "riscduino_dcore",
+        "description": null,
+        "owner": "dineshannayya",
+        "stars": 7,
+        "forks": 3,
+        "size": 605501,
+        "created": "2022-02-21T16:48:52+00:00",
+        "updated": "2024-01-12T18:27:32+00:00",
+        "pushed": "2024-03-23T11:02:22+00:00",
+        "url": "https://github.com/dineshannayya/riscduino_dcore",
+        "id": 461950713
+    },
+    {
+        "repo": "MiWu",
+        "description": "\u7b2c\u4e09\u65b9\u624b\u8868\u7248\u7c73\u5bb6",
+        "owner": "sky130",
+        "stars": 59,
+        "forks": 16,
+        "size": 1086,
+        "created": "2023-08-18T06:55:19+00:00",
+        "updated": "2024-03-16T18:49:33+00:00",
+        "pushed": "2024-03-24T02:43:37+00:00",
+        "url": "https://github.com/sky130/MiWu",
+        "id": 680024437
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 747,
+        "forks": 81,
+        "size": 345948,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-03-24T04:11:07+00:00",
+        "pushed": "2024-03-24T03:26:24+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "DriveAGI",
+        "description": "Embracing Foundation Models into Autonomous Agent and System",
+        "owner": "OpenDriveLab",
+        "stars": 322,
+        "forks": 11,
+        "size": 7132,
+        "created": "2023-04-24T17:59:42+00:00",
+        "updated": "2024-03-23T17:15:07+00:00",
+        "pushed": "2024-03-24T04:54:15+00:00",
+        "url": "https://github.com/OpenDriveLab/DriveAGI",
+        "id": 632101482
+    },
+    {
+        "repo": "sky130_ef_ip__instramp",
+        "description": "Instrumentation amplifier (analog IP example)",
+        "owner": "RTimothyEdwards",
+        "stars": 1,
+        "forks": 2,
+        "size": 288,
+        "created": "2024-02-28T15:32:33+00:00",
+        "updated": "2024-03-02T11:35:30+00:00",
+        "pushed": "2024-03-23T21:03:50+00:00",
+        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__instramp",
+        "id": 764717309
+    },
+    {
+        "repo": "journal",
+        "description": "Anton's journal of interesting project stuff",
+        "owner": "algofoogle",
+        "stars": 2,
+        "forks": 0,
+        "size": 79931,
+        "created": "2019-11-28T08:46:48+00:00",
+        "updated": "2024-03-21T01:44:35+00:00",
+        "pushed": "2024-03-23T11:46:01+00:00",
+        "url": "https://github.com/algofoogle/journal",
+        "id": 224608755
+    },
+    {
+        "repo": "PHYSICAL-DESIGN-USING-OPENLANE-SKY130",
+        "description": "This repo is about my journey through VSDIAT Advanced Physical Design course using SkyWater 130nm PDK & open source EDA tools.",
+        "owner": "iamavi07",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2024-03-23T18:24:16+00:00",
+        "updated": "2024-03-23T18:24:17+00:00",
+        "pushed": "2024-03-23T18:26:16+00:00",
+        "url": "https://github.com/iamavi07/PHYSICAL-DESIGN-USING-OPENLANE-SKY130",
+        "id": 776519336
+    },
+    {
+        "repo": "caravel-breakout-pcb",
+        "description": null,
+        "owner": "TinyTapeout",
+        "stars": 2,
+        "forks": 6,
+        "size": 16251,
+        "created": "2022-06-16T11:28:11+00:00",
+        "updated": "2024-03-23T08:45:03+00:00",
+        "pushed": "2024-03-23T08:44:56+00:00",
+        "url": "https://github.com/TinyTapeout/caravel-breakout-pcb",
+        "id": 504128590
+    },
+    {
+        "repo": "NASSCOM-VSD-IAT",
+        "description": "SOC DESIGN",
+        "owner": "Gayathri4801",
+        "stars": 0,
+        "forks": 0,
+        "size": 39837,
+        "created": "2024-03-13T15:17:30+00:00",
+        "updated": "2024-03-19T14:24:18+00:00",
+        "pushed": "2024-03-24T05:27:53+00:00",
+        "url": "https://github.com/Gayathri4801/NASSCOM-VSD-IAT",
+        "id": 771588162
+    },
+    {
+        "repo": "tt-gds-action",
+        "description": "Tiny Tapeout GDS Action (using OpenLane)",
+        "owner": "TinyTapeout",
+        "stars": 2,
+        "forks": 5,
+        "size": 84,
+        "created": "2023-06-14T18:18:20+00:00",
+        "updated": "2023-11-05T19:26:23+00:00",
+        "pushed": "2024-03-23T22:44:47+00:00",
+        "url": "https://github.com/TinyTapeout/tt-gds-action",
+        "id": 653783344
+    },
+    {
+        "repo": "NASSCOM-VSD-SoC-Design",
+        "description": null,
+        "owner": "dsanthak",
+        "stars": 0,
+        "forks": 0,
+        "size": 441,
+        "created": "2024-03-15T20:08:45+00:00",
+        "updated": "2024-03-15T20:08:46+00:00",
+        "pushed": "2024-03-23T14:35:26+00:00",
+        "url": "https://github.com/dsanthak/NASSCOM-VSD-SoC-Design",
+        "id": 772746193
+    },
+    {
+        "repo": "Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah",
+        "description": "Advanced Physical Design Using OpenLANE/SKY130 course notes by Ojasvi Shah",
+        "owner": "ojasvi-shah",
+        "stars": 0,
+        "forks": 0,
+        "size": 83,
+        "created": "2024-03-21T04:40:17+00:00",
+        "updated": "2024-03-22T07:08:48+00:00",
+        "pushed": "2024-03-24T05:19:58+00:00",
+        "url": "https://github.com/ojasvi-shah/Advanced-Physical-Design-Using-OpenLANE--Ojasvi-Shah",
+        "id": 775276825
+    },
+    {
+        "repo": "sky130_ef_ip__bgrref_por",
+        "description": "Chipalooza challenge - bandgap-referenced Power-on-Reset (PoR)",
+        "owner": "openicdesign",
+        "stars": 0,
+        "forks": 0,
+        "size": 122,
+        "created": "2024-03-13T16:36:50+00:00",
+        "updated": "2024-03-13T16:36:50+00:00",
+        "pushed": "2024-03-23T10:03:35+00:00",
+        "url": "https://github.com/openicdesign/sky130_ef_ip__bgrref_por",
+        "id": 771624677
+    },
+    {
+        "repo": "Chip-Design-Assignment-by-Isht",
+        "description": null,
+        "owner": "IshtKumar",
+        "stars": 0,
+        "forks": 0,
+        "size": 5,
+        "created": "2024-03-21T14:06:45+00:00",
+        "updated": "2024-03-21T14:06:46+00:00",
+        "pushed": "2024-03-24T05:58:22+00:00",
+        "url": "https://github.com/IshtKumar/Chip-Design-Assignment-by-Isht",
+        "id": 775501566
+    },
+    {
+        "repo": "sky130_bkic3_ip__hgopamp",
+        "description": "High gain opam - BKIC3 in sky130",
+        "owner": "ThaoCaoChau",
+        "stars": 1,
+        "forks": 0,
+        "size": 470,
+        "created": "2024-03-22T07:25:21+00:00",
+        "updated": "2024-03-24T01:58:25+00:00",
+        "pushed": "2024-03-23T14:51:27+00:00",
+        "url": "https://github.com/ThaoCaoChau/sky130_bkic3_ip__hgopamp",
+        "id": 775859064
+    },
+    {
+        "repo": "sky130_am_ip__ldo_01v8",
+        "description": "Low power 1.8 V LDO for the efabless chipalooza challenge",
+        "owner": "AlexMenu",
+        "stars": 0,
+        "forks": 0,
+        "size": 22,
+        "created": "2024-03-18T16:23:41+00:00",
+        "updated": "2024-03-18T16:23:42+00:00",
+        "pushed": "2024-03-23T07:05:20+00:00",
+        "url": "https://github.com/AlexMenu/sky130_am_ip__ldo_01v8",
+        "id": 773921749
+    },
+    {
+        "repo": "sky130_ef_ip_rdac_isd_12b",
+        "description": "Efabless Chipalooza Challenge example Analog IP: 12 bit Resistive DAC ",
+        "owner": "inderjit303",
+        "stars": 0,
+        "forks": 0,
+        "size": 20,
+        "created": "2024-03-19T17:24:17+00:00",
+        "updated": "2024-03-23T18:36:35+00:00",
+        "pushed": "2024-03-23T18:36:31+00:00",
+        "url": "https://github.com/inderjit303/sky130_ef_ip_rdac_isd_12b",
+        "id": 774515905
+    },
+    {
+        "repo": "sky130_pmcm_ip_cmp",
+        "description": "Skywater 130 pdk comparator",
+        "owner": "Create5517",
+        "stars": 0,
+        "forks": 0,
+        "size": 228,
+        "created": "2024-03-19T01:51:54+00:00",
+        "updated": "2024-03-21T05:36:03+00:00",
+        "pushed": "2024-03-24T03:37:01+00:00",
+        "url": "https://github.com/Create5517/sky130_pmcm_ip_cmp",
+        "id": 774130175
+    },
+    {
+        "repo": "VSD_SOC_NASSCOM",
+        "description": null,
+        "owner": "AnupDRa0",
+        "stars": 0,
+        "forks": 0,
+        "size": 25,
+        "created": "2024-03-13T14:48:27+00:00",
+        "updated": "2024-03-13T14:48:27+00:00",
+        "pushed": "2024-03-23T16:58:49+00:00",
+        "url": "https://github.com/AnupDRa0/VSD_SOC_NASSCOM",
+        "id": 771573884
+    },
+    {
+        "repo": "NASSCOM-VSD-SoC-Design",
+        "description": "VSD Workshop on Digital SoC Design and Planning using OPENLANE ",
+        "owner": "ursbestfriend",
+        "stars": 0,
+        "forks": 0,
+        "size": 371,
+        "created": "2024-03-14T17:46:03+00:00",
+        "updated": "2024-03-15T11:12:52+00:00",
+        "pushed": "2024-03-23T13:13:37+00:00",
+        "url": "https://github.com/ursbestfriend/NASSCOM-VSD-SoC-Design",
+        "id": 772188535
+    },
+    {
+        "repo": "VSD-ASIC-Level-Repository",
+        "description": "This is a repository for ASIC Level of VLSI course",
+        "owner": "JustVanillaCode",
+        "stars": 0,
+        "forks": 0,
+        "size": 154,
+        "created": "2024-03-18T09:00:58+00:00",
+        "updated": "2024-03-18T09:00:59+00:00",
+        "pushed": "2024-03-23T11:54:06+00:00",
+        "url": "https://github.com/JustVanillaCode/VSD-ASIC-Level-Repository",
+        "id": 773709096
+    },
+    {
+        "repo": "sky130_dok_ip__brown_out_detector",
+        "description": null,
+        "owner": "devesh-b",
+        "stars": 1,
+        "forks": 0,
+        "size": 115,
+        "created": "2024-03-21T08:07:17+00:00",
+        "updated": "2024-03-21T08:24:17+00:00",
+        "pushed": "2024-03-23T11:37:23+00:00",
+        "url": "https://github.com/devesh-b/sky130_dok_ip__brown_out_detector",
+        "id": 775345325
+    },
+    {
+        "repo": "openlane",
+        "description": null,
+        "owner": "LZDAlex",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-03-23T09:59:41+00:00",
+        "updated": "2024-03-23T09:59:41+00:00",
+        "pushed": "2024-03-23T09:59:41+00:00",
+        "url": "https://github.com/LZDAlex/openlane",
+        "id": 776366480
+    },
+    {
+        "repo": "sky130_vbl_ip__overvoltage",
+        "description": "SKY130 Overvoltage Detector",
+        "owner": "LDFranck",
+        "stars": 1,
+        "forks": 0,
+        "size": 505,
+        "created": "2024-03-11T16:44:08+00:00",
+        "updated": "2024-03-21T23:35:28+00:00",
+        "pushed": "2024-03-24T01:43:27+00:00",
+        "url": "https://github.com/LDFranck/sky130_vbl_ip__overvoltage",
+        "id": 770494310
+    },
+    {
+        "repo": "sky130_td_ip__opamp_hp",
+        "description": "High-gain operational amplifier IP block for SKY130 CMOS process. Developed as part of Chipalooza 2024 challenge.",
+        "owner": "tdextrous",
+        "stars": 1,
+        "forks": 0,
+        "size": 15,
+        "created": "2024-03-08T22:46:20+00:00",
+        "updated": "2024-03-24T01:59:05+00:00",
+        "pushed": "2024-03-23T08:18:21+00:00",
+        "url": "https://github.com/tdextrous/sky130_td_ip__opamp_hp",
+        "id": 769367990
+    },
+    {
+        "repo": "sky130_rhythmic_ip__dynamic_comparator",
+        "description": "Chipalooza 2024 Dynamic Comparator, adapted from https://github.com/3x10e8/fossi_cochlea",
+        "owner": "3x10e8",
+        "stars": 0,
+        "forks": 0,
+        "size": 24,
+        "created": "2024-03-21T03:51:36+00:00",
+        "updated": "2024-03-21T03:51:36+00:00",
+        "pushed": "2024-03-23T08:34:41+00:00",
+        "url": "https://github.com/3x10e8/sky130_rhythmic_ip__dynamic_comparator",
+        "id": 775263691
+    },
+    {
+        "repo": "DCDC-Notes.",
+        "description": null,
+        "owner": "Harshitaapsc",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2024-03-23T07:06:51+00:00",
+        "updated": "2024-03-23T07:06:51+00:00",
+        "pushed": "2024-03-23T08:32:04+00:00",
+        "url": "https://github.com/Harshitaapsc/DCDC-Notes.",
+        "id": 776319428
+    },
+    {
+        "repo": "Advanced-SOC",
+        "description": "Advanced-SoC Course",
+        "owner": "ass31311vic123",
+        "stars": 0,
+        "forks": 0,
+        "size": 63596,
+        "created": "2024-03-16T12:46:55+00:00",
+        "updated": "2024-03-23T16:04:29+00:00",
+        "pushed": "2024-03-23T16:43:55+00:00",
+        "url": "https://github.com/ass31311vic123/Advanced-SOC",
+        "id": 772990705
+    },
+    {
+        "repo": "OpenLane_verification",
+        "description": null,
+        "owner": "Hasan0712",
+        "stars": 0,
+        "forks": 0,
+        "size": 418,
+        "created": "2024-03-23T16:23:59+00:00",
+        "updated": "2024-03-23T16:26:19+00:00",
+        "pushed": "2024-03-23T16:26:16+00:00",
+        "url": "https://github.com/Hasan0712/OpenLane_verification",
+        "id": 776482312
+    },
+    {
+        "repo": "Advanced-SOC-1-1",
+        "description": null,
+        "owner": "Wujuichen",
+        "stars": 0,
+        "forks": 0,
+        "size": 44618,
+        "created": "2024-03-23T07:19:15+00:00",
+        "updated": "2024-03-23T08:06:11+00:00",
+        "pushed": "2024-03-23T08:05:56+00:00",
+        "url": "https://github.com/Wujuichen/Advanced-SOC-1-1",
+        "id": 776322598
+    },
+    {
+        "repo": "tt06-jrb8-computer",
+        "description": "The James Retro Byte 8 computer!",
+        "owner": "AeroX2",
+        "stars": 0,
+        "forks": 0,
+        "size": 154,
+        "created": "2023-10-18T11:23:42+00:00",
+        "updated": "2024-03-03T04:08:19+00:00",
+        "pushed": "2024-03-23T17:28:16+00:00",
+        "url": "https://github.com/AeroX2/tt06-jrb8-computer",
+        "id": 706654427
+    },
+    {
+        "repo": "tt06_ttrpg_dice",
+        "description": "Testing the tinytapeout workflow",
+        "owner": "sanojn",
+        "stars": 0,
+        "forks": 0,
+        "size": 218,
+        "created": "2024-03-08T16:38:14+00:00",
+        "updated": "2024-03-16T00:28:59+00:00",
+        "pushed": "2024-03-23T22:57:07+00:00",
+        "url": "https://github.com/sanojn/tt06_ttrpg_dice",
+        "id": 769246534
+    },
+    {
+        "repo": "tt06-minibyte-cpu",
+        "description": "A super simple 8-bit CPU for TT06",
+        "owner": "zacharysfrazee",
+        "stars": 0,
+        "forks": 0,
+        "size": 45,
+        "created": "2024-03-16T03:53:48+00:00",
+        "updated": "2024-03-16T05:54:58+00:00",
+        "pushed": "2024-03-24T04:03:25+00:00",
+        "url": "https://github.com/zacharysfrazee/tt06-minibyte-cpu",
+        "id": 772851141
+    },
+    {
+        "repo": "SumLatchUART_System",
+        "description": "\u201cSumLatchUART_System\u201d is a digital system for four-bit addition. It functions a 4bit adder, limited to 4-bit input. Latch components store enter operands temporarily, making sure easy operation. With a UART module, it transmits results over a serial interface for easy communication.",
+        "owner": "brtgio",
+        "stars": 0,
+        "forks": 0,
+        "size": 105,
+        "created": "2024-03-20T23:46:39+00:00",
+        "updated": "2024-03-21T00:14:19+00:00",
+        "pushed": "2024-03-24T05:57:27+00:00",
+        "url": "https://github.com/brtgio/SumLatchUART_System",
+        "id": 775195129
+    },
+    {
+        "repo": "sky130_ac3e_ip__temp_sdc",
+        "description": "Time-based temperature sensor proposal for Chipalooza 2024",
+        "owner": "JorgeMarinN",
+        "stars": 0,
+        "forks": 0,
+        "size": 252,
+        "created": "2024-03-04T19:54:01+00:00",
+        "updated": "2024-03-19T03:01:00+00:00",
+        "pushed": "2024-03-23T21:46:02+00:00",
+        "url": "https://github.com/JorgeMarinN/sky130_ac3e_ip__temp_sdc",
+        "id": 767154591
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1203,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-03-24T04:35:08+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 0,
+        "forks": 0,
+        "size": 10521,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2023-08-31T01:09:14+00:00",
+        "pushed": "2024-03-24T01:39:39+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "andgar2010",
         "stars": 7,
         "forks": 0,
-        "size": 14788,
+        "size": 15049,
         "created": "2020-11-09T02:22:44+00:00",
         "updated": "2024-01-25T14:55:07+00:00",
-        "pushed": "2024-03-23T00:50:08+00:00",
+        "pushed": "2024-03-24T00:50:25+00:00",
         "url": "https://github.com/andgar2010/awesome-stars",
         "id": 311201466
     }
