@@ -25441,19 +25441,6 @@
         "id": 522520431
     },
     {
-        "repo": "TinyMaix",
-        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
-        "owner": "sipeed",
-        "stars": 749,
-        "forks": 118,
-        "size": 43627,
-        "created": "2022-08-08T17:19:54Z",
-        "updated": "2023-09-07T15:43:06Z",
-        "pushed": "2023-04-26T02:26:09Z",
-        "url": "https://github.com/sipeed/TinyMaix",
-        "id": 522642478
-    },
-    {
         "repo": "TranSVAE",
         "description": "[NeurIPS'23] Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective",
         "owner": "ldkong1205",
@@ -36088,19 +36075,6 @@
         "id": 776392704
     },
     {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 7548,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2024-02-20T08:54:10+00:00",
-        "pushed": "2024-03-24T08:36:57+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
-    },
-    {
         "repo": "maixuannghia-midterm2",
         "description": null,
         "owner": "nghiamai123",
@@ -36153,19 +36127,6 @@
         "id": 606922823
     },
     {
-        "repo": "maixuannghia_thigiuaky_laravel",
-        "description": null,
-        "owner": "nghiamai123",
-        "stars": 0,
-        "forks": 0,
-        "size": 3318,
-        "created": "2024-03-25T08:41:19+00:00",
-        "updated": "2024-03-25T08:41:19+00:00",
-        "pushed": "2024-03-25T14:41:47+00:00",
-        "url": "https://github.com/nghiamai123/maixuannghia_thigiuaky_laravel",
-        "id": 777121323
-    },
-    {
         "repo": "pxt-koi2",
         "description": null,
         "owner": "KittenBot",
@@ -36190,19 +36151,6 @@
         "pushed": "2024-03-26T02:39:04+00:00",
         "url": "https://github.com/weimingtom/wmt_lvgl_study",
         "id": 461410963
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 688,
-        "forks": 182,
-        "size": 58183,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-03-27T06:10:12+00:00",
-        "pushed": "2024-03-27T04:20:14+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "opencv_zoo",
@@ -36283,32 +36231,6 @@
         "id": 770690133
     },
     {
-        "repo": "MaixduinoAI",
-        "description": null,
-        "owner": "damiantomczyszyn",
-        "stars": 0,
-        "forks": 0,
-        "size": 1977415,
-        "created": "2024-02-01T17:27:41+00:00",
-        "updated": "2024-03-13T19:22:44+00:00",
-        "pushed": "2024-03-26T20:38:09+00:00",
-        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
-        "id": 751476254
-    },
-    {
-        "repo": "myos-kernel",
-        "description": null,
-        "owner": "FisherInNorth",
-        "stars": 1,
-        "forks": 0,
-        "size": 46365,
-        "created": "2023-10-10T14:12:00+00:00",
-        "updated": "2024-02-27T13:41:43+00:00",
-        "pushed": "2024-03-26T14:30:45+00:00",
-        "url": "https://github.com/FisherInNorth/myos-kernel",
-        "id": 703057974
-    },
-    {
         "repo": "k210_server",
         "description": null,
         "owner": "yzzlqyxc",
@@ -36322,15 +36244,119 @@
         "id": 761864577
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 690,
+        "forks": 182,
+        "size": 58306,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-03-28T06:18:37+00:00",
+        "pushed": "2024-03-28T06:19:50+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "TinyMaix",
+        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
+        "owner": "sipeed",
+        "stars": 815,
+        "forks": 129,
+        "size": 43627,
+        "created": "2022-08-08T17:19:54+00:00",
+        "updated": "2024-03-28T01:30:12+00:00",
+        "pushed": "2024-03-26T08:50:45+00:00",
+        "url": "https://github.com/sipeed/TinyMaix",
+        "id": 522642478
+    },
+    {
+        "repo": "rcore-tutorial-v3-with-hal-component",
+        "description": null,
+        "owner": "yfblock",
+        "stars": 0,
+        "forks": 0,
+        "size": 28369,
+        "created": "2024-03-27T13:26:45+00:00",
+        "updated": "2024-03-27T15:39:00+00:00",
+        "pushed": "2024-03-27T15:38:42+00:00",
+        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
+        "id": 778304792
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 7556,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2024-02-20T08:54:10+00:00",
+        "pushed": "2024-03-27T18:23:09+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "VictimDetection",
+        "description": null,
+        "owner": "TanoRoboRCJ",
+        "stars": 0,
+        "forks": 0,
+        "size": 527060,
+        "created": "2024-02-04T05:34:53+00:00",
+        "updated": "2024-03-27T12:09:57+00:00",
+        "pushed": "2024-03-27T11:55:39+00:00",
+        "url": "https://github.com/TanoRoboRCJ/VictimDetection",
+        "id": 752531726
+    },
+    {
+        "repo": "MaixduinoAI",
+        "description": null,
+        "owner": "damiantomczyszyn",
+        "stars": 0,
+        "forks": 0,
+        "size": 1977417,
+        "created": "2024-02-01T17:27:41+00:00",
+        "updated": "2024-03-13T19:22:44+00:00",
+        "pushed": "2024-03-27T21:35:51+00:00",
+        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
+        "id": 751476254
+    },
+    {
+        "repo": "myos-kernel",
+        "description": null,
+        "owner": "FisherInNorth",
+        "stars": 1,
+        "forks": 0,
+        "size": 46367,
+        "created": "2023-10-10T14:12:00+00:00",
+        "updated": "2024-02-27T13:41:43+00:00",
+        "pushed": "2024-03-27T16:00:48+00:00",
+        "url": "https://github.com/FisherInNorth/myos-kernel",
+        "id": 703057974
+    },
+    {
+        "repo": "maixuannghia_thigiuaky_laravel",
+        "description": null,
+        "owner": "nghiamai123",
+        "stars": 0,
+        "forks": 0,
+        "size": 3461,
+        "created": "2024-03-25T08:41:19+00:00",
+        "updated": "2024-03-25T08:41:19+00:00",
+        "pushed": "2024-03-27T14:30:45+00:00",
+        "url": "https://github.com/nghiamai123/maixuannghia_thigiuaky_laravel",
+        "id": 777121323
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 1647,
+        "size": 2081,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-03-27T01:34:09+00:00",
+        "pushed": "2024-03-28T01:34:15+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36340,10 +36366,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 721,
+        "size": 846,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-03-27T01:31:15+00:00",
+        "pushed": "2024-03-28T01:31:21+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36356,7 +36382,7 @@
         "size": 641004,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-03-20T13:14:53+00:00",
-        "pushed": "2024-03-26T12:23:56+00:00",
+        "pushed": "2024-03-27T12:23:29+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -36364,12 +36390,12 @@
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
-        "stars": 30,
+        "stars": 31,
         "forks": 0,
         "size": 179,
         "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-02-18T04:17:11+00:00",
-        "pushed": "2024-03-27T00:11:38+00:00",
+        "updated": "2024-03-28T03:37:52+00:00",
+        "pushed": "2024-03-28T00:12:40+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
