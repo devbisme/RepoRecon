@@ -11830,19 +11830,6 @@
         "id": 155514739
     },
     {
-        "repo": "eurorack-pmod-litex",
-        "description": "Audio DSP on an FPGA using eurorack-pmod + LiteX with firmware in Rust.",
-        "owner": "apfelaudio",
-        "stars": 3,
-        "forks": 2,
-        "size": 2574,
-        "created": "2023-08-13T10:24:29+00:00",
-        "updated": "2024-03-19T09:17:18+00:00",
-        "pushed": "2024-03-18T07:18:35+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
-        "id": 677990151
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -12038,19 +12025,6 @@
         "id": 419809304
     },
     {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1396,
-        "forks": 194,
-        "size": 202795,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-03-27T14:33:24+00:00",
-        "pushed": "2024-03-27T19:36:57+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "f4pga-examples",
         "description": "Example designs showing different ways to use F4PGA toolchains.",
         "owner": "chipsalliance",
@@ -12155,32 +12129,6 @@
         "id": 84366787
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 26,
-        "forks": 12,
-        "size": 29797,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-03-25T14:12:23+00:00",
-        "pushed": "2024-03-29T15:15:21+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 34,
-        "forks": 14,
-        "size": 102337,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-17T09:05:18+00:00",
-        "pushed": "2024-03-30T00:41:57+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "fpgatoy",
         "description": "Shadertoy for FPGAs",
         "owner": "davidar",
@@ -12233,19 +12181,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 642,
-        "forks": 59,
-        "size": 1031,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-03-31T05:26:42+00:00",
-        "pushed": "2024-03-31T01:55:36+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12272,15 +12207,80 @@
         "id": 738233144
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 644,
+        "forks": 59,
+        "size": 1031,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-03-31T11:44:34+00:00",
+        "pushed": "2024-04-01T01:59:50+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1404,
+        "forks": 194,
+        "size": 202854,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-03-31T17:01:31+00:00",
+        "pushed": "2024-03-31T20:00:11+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 26,
+        "forks": 12,
+        "size": 29906,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-03-25T14:12:23+00:00",
+        "pushed": "2024-03-31T17:13:28+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "eurorack-pmod-litex",
+        "description": "Audio DSP on an FPGA using eurorack-pmod + LiteX with firmware in Rust.",
+        "owner": "apfelaudio",
+        "stars": 6,
+        "forks": 2,
+        "size": 2579,
+        "created": "2023-08-13T10:24:29+00:00",
+        "updated": "2024-03-26T13:03:17+00:00",
+        "pushed": "2024-03-31T19:31:04+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod-litex",
+        "id": 677990151
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 34,
+        "forks": 14,
+        "size": 102354,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-17T09:05:18+00:00",
+        "pushed": "2024-03-31T18:06:34+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1356,
+        "size": 1358,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-03-31T04:35:22+00:00",
+        "pushed": "2024-04-01T04:34:59+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12290,10 +12290,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 49561,
+        "size": 49994,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-03-31T03:21:07+00:00",
+        "pushed": "2024-04-01T03:20:33+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
