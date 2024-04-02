@@ -5200,19 +5200,6 @@
         "id": 730892692
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14173,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-03-12T16:52:41+00:00",
-        "pushed": "2024-03-31T20:27:13+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "bonfire-core",
         "description": null,
         "owner": "bonfireprocessor",
@@ -5224,5 +5211,18 @@
         "pushed": "2024-04-01T00:32:35+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14195,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-03-12T16:52:41+00:00",
+        "pushed": "2024-04-01T16:11:52+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]
