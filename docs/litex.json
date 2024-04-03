@@ -11531,19 +11531,6 @@
         "id": 753120584
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 66,
-        "forks": 9,
-        "size": 27,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-03-04T03:37:11+00:00",
-        "pushed": "2024-03-04T15:28:25+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -11659,19 +11646,6 @@
         "pushed": "2024-03-11T04:03:11+00:00",
         "url": "https://github.com/tweakoz/ork.build",
         "id": 483508371
-    },
-    {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 428,
-        "forks": 106,
-        "size": 1677,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-02-28T06:21:54+00:00",
-        "pushed": "2024-03-11T14:08:04+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
     },
     {
         "repo": "xtrx_julia",
@@ -11960,19 +11934,6 @@
         "id": 731331266
     },
     {
-        "repo": "mistex_kun",
-        "description": "Continuing where I left off with MiSTer, I set out to create a design for MiSTeX as well.",
-        "owner": "baxysquare",
-        "stars": 1,
-        "forks": 1,
-        "size": 397,
-        "created": "2023-04-18T21:25:09+00:00",
-        "updated": "2023-04-19T01:58:01+00:00",
-        "pushed": "2024-03-25T21:35:49+00:00",
-        "url": "https://github.com/baxysquare/mistex_kun",
-        "id": 629703787
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -11997,19 +11958,6 @@
         "pushed": "2024-03-26T17:00:50+00:00",
         "url": "https://github.com/apfelaudio/eurorack-pmod",
         "id": 504905833
-    },
-    {
-        "repo": "open_source",
-        "description": null,
-        "owner": "yanxp2github",
-        "stars": 0,
-        "forks": 0,
-        "size": 508,
-        "created": "2024-02-29T09:50:24+00:00",
-        "updated": "2024-02-29T09:50:44+00:00",
-        "pushed": "2024-03-26T08:17:27+00:00",
-        "url": "https://github.com/yanxp2github/open_source",
-        "id": 765108502
     },
     {
         "repo": "caravel_mgmt_soc_litex",
@@ -12090,19 +12038,6 @@
         "id": 779057280
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 333,
-        "forks": 267,
-        "size": 3920,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-03-21T03:57:03+00:00",
-        "pushed": "2024-03-30T03:07:27+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "VexRiscv",
         "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
         "owner": "SpinalHDL",
@@ -12140,19 +12075,6 @@
         "pushed": "2024-03-30T01:07:22+00:00",
         "url": "https://github.com/aesc-silicon/elements-vexriscv",
         "id": 310692215
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2651,
-        "forks": 517,
-        "size": 16537,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-03-30T15:26:43+00:00",
-        "pushed": "2024-03-31T01:38:31+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "CFU-Playground",
@@ -12194,58 +12116,6 @@
         "id": 677990151
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 644,
-        "forks": 59,
-        "size": 1031,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-03-31T11:44:34+00:00",
-        "pushed": "2024-04-02T01:53:53+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1403,
-        "forks": 194,
-        "size": 202895,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-04-01T23:09:05+00:00",
-        "pushed": "2024-04-01T17:58:01+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 26,
-        "forks": 12,
-        "size": 30125,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-03-25T14:12:23+00:00",
-        "pushed": "2024-04-01T16:29:14+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 34,
-        "forks": 14,
-        "size": 119649,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-17T09:05:18+00:00",
-        "pushed": "2024-04-01T21:29:07+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "fpgatoy",
         "description": "Shadertoy for FPGAs",
         "owner": "davidar",
@@ -12272,19 +12142,6 @@
         "id": 780689497
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1359,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-04-02T04:36:35+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12298,15 +12155,158 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2652,
+        "forks": 517,
+        "size": 16569,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-04-02T17:40:47+00:00",
+        "pushed": "2024-04-02T08:54:05+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 335,
+        "forks": 267,
+        "size": 3924,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-04-01T02:37:19+00:00",
+        "pushed": "2024-04-02T10:46:17+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 430,
+        "forks": 107,
+        "size": 1679,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-04-02T11:25:22+00:00",
+        "pushed": "2024-04-02T10:45:39+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 645,
+        "forks": 59,
+        "size": 1031,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-04-03T04:12:09+00:00",
+        "pushed": "2024-04-03T01:50:43+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1403,
+        "forks": 194,
+        "size": 202899,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-04-01T23:09:05+00:00",
+        "pushed": "2024-04-02T17:02:15+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 26,
+        "forks": 12,
+        "size": 30550,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-04-02T12:34:56+00:00",
+        "pushed": "2024-04-02T20:47:15+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 34,
+        "forks": 14,
+        "size": 119650,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-17T09:05:18+00:00",
+        "pushed": "2024-04-02T18:41:08+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "mistex_kun",
+        "description": "Continuing where I left off with MiSTer, I set out to create a design for MiSTeX as well.",
+        "owner": "baxysquare",
+        "stars": 1,
+        "forks": 1,
+        "size": 2965,
+        "created": "2023-04-18T21:25:09+00:00",
+        "updated": "2023-04-19T01:58:01+00:00",
+        "pushed": "2024-04-02T17:10:58+00:00",
+        "url": "https://github.com/baxysquare/mistex_kun",
+        "id": 629703787
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 75,
+        "forks": 10,
+        "size": 28,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-04-02T03:05:25+00:00",
+        "pushed": "2024-04-02T13:16:37+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
+        "repo": "open_source",
+        "description": null,
+        "owner": "yanxp2github",
+        "stars": 0,
+        "forks": 0,
+        "size": 565,
+        "created": "2024-02-29T09:50:24+00:00",
+        "updated": "2024-02-29T09:50:44+00:00",
+        "pushed": "2024-04-03T03:21:32+00:00",
+        "url": "https://github.com/yanxp2github/open_source",
+        "id": 765108502
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1432,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-01-12T18:40:14+00:00",
+        "pushed": "2024-04-03T04:35:06+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 50428,
+        "size": 50863,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-04-02T03:21:56+00:00",
+        "pushed": "2024-04-03T03:21:10+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
