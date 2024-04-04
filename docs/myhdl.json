@@ -5187,19 +5187,6 @@
         "id": 200425308
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14195,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-03-12T16:52:41+00:00",
-        "pushed": "2024-04-01T16:11:52+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "awesome-cuda-tensorrt-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
@@ -5224,5 +5211,18 @@
         "pushed": "2024-04-03T03:21:32+00:00",
         "url": "https://github.com/yanxp2github/open_source",
         "id": 765108502
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14357,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-04-02T17:40:36+00:00",
+        "pushed": "2024-04-04T04:17:12+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]
