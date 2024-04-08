@@ -5122,19 +5122,6 @@
         "id": 776197797
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 38,
-        "forks": 23,
-        "size": 41261,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-03-26T13:33:09+00:00",
-        "pushed": "2024-03-28T03:05:35+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "pico-png",
         "description": "PNG encoder, implemented in VHDL",
         "owner": "marph91",
@@ -5187,19 +5174,6 @@
         "id": 605602834
     },
     {
-        "repo": "open_source",
-        "description": null,
-        "owner": "yanxp2github",
-        "stars": 0,
-        "forks": 0,
-        "size": 565,
-        "created": "2024-02-29T09:50:24+00:00",
-        "updated": "2024-02-29T09:50:44+00:00",
-        "pushed": "2024-04-03T03:21:32+00:00",
-        "url": "https://github.com/yanxp2github/open_source",
-        "id": 765108502
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5224,5 +5198,31 @@
         "pushed": "2024-04-05T20:30:53+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 38,
+        "forks": 24,
+        "size": 41301,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-03-26T13:33:09+00:00",
+        "pushed": "2024-04-07T13:16:07+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "open_source",
+        "description": null,
+        "owner": "yanxp2github",
+        "stars": 0,
+        "forks": 0,
+        "size": 642,
+        "created": "2024-02-29T09:50:24+00:00",
+        "updated": "2024-02-29T09:50:44+00:00",
+        "pushed": "2024-04-07T06:15:43+00:00",
+        "url": "https://github.com/yanxp2github/open_source",
+        "id": 765108502
     }
 ]

@@ -35932,19 +35932,6 @@
         "id": 739408583
     },
     {
-        "repo": "pxt-koi2",
-        "description": null,
-        "owner": "KittenBot",
-        "stars": 0,
-        "forks": 0,
-        "size": 81,
-        "created": "2024-02-23T06:55:48+00:00",
-        "updated": "2024-02-23T07:18:02+00:00",
-        "pushed": "2024-03-26T05:52:51+00:00",
-        "url": "https://github.com/KittenBot/pxt-koi2",
-        "id": 762139588
-    },
-    {
         "repo": "wmt_lvgl_study",
         "description": "My LVGL study",
         "owner": "weimingtom",
@@ -35982,19 +35969,6 @@
         "pushed": "2024-03-26T10:05:11+00:00",
         "url": "https://github.com/OwenWangbattle/Rcore-Project",
         "id": 777657193
-    },
-    {
-        "repo": "TinyMaix",
-        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
-        "owner": "sipeed",
-        "stars": 815,
-        "forks": 129,
-        "size": 43627,
-        "created": "2022-08-08T17:19:54+00:00",
-        "updated": "2024-03-28T01:30:12+00:00",
-        "pushed": "2024-03-26T08:50:45+00:00",
-        "url": "https://github.com/sipeed/TinyMaix",
-        "id": 522642478
     },
     {
         "repo": "maixuannghia_thigiuaky_laravel",
@@ -36205,19 +36179,6 @@
         "id": 706052378
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 15,
-        "forks": 4,
-        "size": 13774,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-04-02T09:07:28+00:00",
-        "pushed": "2024-04-03T03:54:29+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "support-matrix",
         "description": "RISCV Board and OS Supported Matrix",
         "owner": "ruyisdk",
@@ -36270,19 +36231,6 @@
         "id": 781153424
     },
     {
-        "repo": "MyOs",
-        "description": null,
-        "owner": "jason-hue",
-        "stars": 1,
-        "forks": 0,
-        "size": 2242,
-        "created": "2024-03-28T11:53:28+00:00",
-        "updated": "2024-04-01T08:08:53+00:00",
-        "pushed": "2024-04-02T09:08:55+00:00",
-        "url": "https://github.com/jason-hue/MyOs",
-        "id": 778783751
-    },
-    {
         "repo": "maixuannghia-web_banhang_laravel",
         "description": null,
         "owner": "MaiXuanNghia",
@@ -36294,19 +36242,6 @@
         "pushed": "2024-04-04T01:23:20+00:00",
         "url": "https://github.com/MaiXuanNghia/maixuannghia-web_banhang_laravel",
         "id": 781758636
-    },
-    {
-        "repo": "aCoral-riscv-cl",
-        "description": "aCoral for k210",
-        "owner": "spg-one",
-        "stars": 2,
-        "forks": 0,
-        "size": 6580,
-        "created": "2023-05-25T15:12:56+00:00",
-        "updated": "2024-03-21T06:23:51+00:00",
-        "pushed": "2024-04-04T14:51:12+00:00",
-        "url": "https://github.com/spg-one/aCoral-riscv-cl",
-        "id": 645403225
     },
     {
         "repo": "K210-edge-node-AIoT-rescue-aid-system-based-on-edge-computing",
@@ -36374,19 +36309,6 @@
         "id": 631474153
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 692,
-        "forks": 182,
-        "size": 58588,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-04-06T12:12:18+00:00",
-        "pushed": "2024-04-07T05:58:05+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "mini-rv32ima",
         "description": "A tiny C header-only risc-v emulator.",
         "owner": "cnlohr",
@@ -36439,17 +36361,108 @@
         "id": 418199179
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 693,
+        "forks": 182,
+        "size": 58593,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-04-07T09:09:28+00:00",
+        "pushed": "2024-04-08T01:33:53+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "TinyMaix",
+        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
+        "owner": "sipeed",
+        "stars": 818,
+        "forks": 130,
+        "size": 42889,
+        "created": "2022-08-08T17:19:54+00:00",
+        "updated": "2024-04-07T16:54:59+00:00",
+        "pushed": "2024-04-07T19:29:24+00:00",
+        "url": "https://github.com/sipeed/TinyMaix",
+        "id": 522642478
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 17,
+        "forks": 4,
+        "size": 13822,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-04-06T16:23:34+00:00",
+        "pushed": "2024-04-07T13:42:51+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "aCoral-riscv-cl",
+        "description": "aCoral for k210",
+        "owner": "spg-one",
+        "stars": 2,
+        "forks": 0,
+        "size": 6581,
+        "created": "2023-05-25T15:12:56+00:00",
+        "updated": "2024-03-21T06:23:51+00:00",
+        "pushed": "2024-04-07T09:08:28+00:00",
+        "url": "https://github.com/spg-one/aCoral-riscv-cl",
+        "id": 645403225
+    },
+    {
         "repo": "MaixduinoAI",
         "description": null,
         "owner": "damiantomczyszyn",
         "stars": 0,
         "forks": 0,
-        "size": 1977860,
+        "size": 1977861,
         "created": "2024-02-01T17:27:41+00:00",
         "updated": "2024-03-13T19:22:44+00:00",
-        "pushed": "2024-04-06T17:27:39+00:00",
+        "pushed": "2024-04-07T19:54:05+00:00",
         "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
         "id": 751476254
+    },
+    {
+        "repo": "MyOs",
+        "description": null,
+        "owner": "jason-hue",
+        "stars": 1,
+        "forks": 0,
+        "size": 2249,
+        "created": "2024-03-28T11:53:28+00:00",
+        "updated": "2024-04-01T08:08:53+00:00",
+        "pushed": "2024-04-07T07:42:49+00:00",
+        "url": "https://github.com/jason-hue/MyOs",
+        "id": 778783751
+    },
+    {
+        "repo": "XuanSang123-HCM_JV240304_MaiXuanSang",
+        "description": null,
+        "owner": "XuanSang123",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-04-08T04:54:04+00:00",
+        "updated": "2024-04-08T04:54:04+00:00",
+        "pushed": "2024-04-08T04:54:04+00:00",
+        "url": "https://github.com/XuanSang123/XuanSang123-HCM_JV240304_MaiXuanSang",
+        "id": 783535338
+    },
+    {
+        "repo": "pxt-koi2",
+        "description": null,
+        "owner": "KittenBot",
+        "stars": 0,
+        "forks": 1,
+        "size": 91,
+        "created": "2024-02-23T06:55:48+00:00",
+        "updated": "2024-02-23T07:18:02+00:00",
+        "pushed": "2024-04-08T04:07:04+00:00",
+        "url": "https://github.com/KittenBot/pxt-koi2",
+        "id": 762139588
     },
     {
         "repo": "awesome-stars",
@@ -36457,10 +36470,10 @@
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 6456,
+        "size": 6899,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-04-07T01:40:20+00:00",
+        "pushed": "2024-04-08T01:36:03+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36470,10 +36483,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1863,
+        "size": 1992,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-04-07T01:37:23+00:00",
+        "pushed": "2024-04-08T01:33:24+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36483,10 +36496,10 @@
         "owner": "androidtrackers",
         "stars": 113,
         "forks": 33,
-        "size": 646934,
+        "size": 649242,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-04-06T18:35:51+00:00",
-        "pushed": "2024-04-06T12:21:40+00:00",
+        "pushed": "2024-04-07T12:21:32+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
