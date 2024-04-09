@@ -33592,19 +33592,6 @@
         "id": 716903643
     },
     {
-        "repo": "homepage",
-        "description": "free time attempt to create a bit prettier web page",
-        "owner": "macabset",
-        "stars": 0,
-        "forks": 0,
-        "size": 360020,
-        "created": "2017-12-08T07:36:07+00:00",
-        "updated": "2023-06-19T16:40:37+00:00",
-        "pushed": "2023-11-14T18:31:39+00:00",
-        "url": "https://github.com/macabset/homepage",
-        "id": 113545974
-    },
-    {
         "repo": "u-boot",
         "description": "My patches for U-Boot, mostly centered on K210 support. master should usually have the latest collection of patches.",
         "owner": "Forty-Bot",
@@ -36101,32 +36088,6 @@
         "id": 703057974
     },
     {
-        "repo": "nuttx-ox64",
-        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
-        "owner": "lupyuen",
-        "stars": 31,
-        "forks": 0,
-        "size": 179,
-        "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-03-28T03:37:52+00:00",
-        "pushed": "2024-04-01T00:13:23+00:00",
-        "url": "https://github.com/lupyuen/nuttx-ox64",
-        "id": 711107946
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 528,
-        "forks": 159,
-        "size": 1015,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2024-04-01T07:18:57+00:00",
-        "pushed": "2024-04-01T07:47:23+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
-    },
-    {
         "repo": "FeatOS",
         "description": null,
         "owner": "OSFantasy",
@@ -36203,19 +36164,6 @@
         "pushed": "2024-04-02T13:16:37+00:00",
         "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
         "id": 605602834
-    },
-    {
-        "repo": "rcore-tutorial-v3-with-hal-component",
-        "description": null,
-        "owner": "yfblock",
-        "stars": 0,
-        "forks": 0,
-        "size": 28392,
-        "created": "2024-03-27T13:26:45+00:00",
-        "updated": "2024-03-27T15:39:00+00:00",
-        "pushed": "2024-04-03T04:51:11+00:00",
-        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
-        "id": 778304792
     },
     {
         "repo": "RoboMaster_OpenMV",
@@ -36361,19 +36309,6 @@
         "id": 418199179
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
-        "owner": "kendryte",
-        "stars": 693,
-        "forks": 182,
-        "size": 58593,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-04-07T09:09:28+00:00",
-        "pushed": "2024-04-08T01:33:53+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "TinyMaix",
         "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
         "owner": "sipeed",
@@ -36387,19 +36322,6 @@
         "id": 522642478
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 17,
-        "forks": 4,
-        "size": 13822,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-04-06T16:23:34+00:00",
-        "pushed": "2024-04-07T13:42:51+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "aCoral-riscv-cl",
         "description": "aCoral for k210",
         "owner": "spg-one",
@@ -36411,19 +36333,6 @@
         "pushed": "2024-04-07T09:08:28+00:00",
         "url": "https://github.com/spg-one/aCoral-riscv-cl",
         "id": 645403225
-    },
-    {
-        "repo": "MaixduinoAI",
-        "description": null,
-        "owner": "damiantomczyszyn",
-        "stars": 0,
-        "forks": 0,
-        "size": 1977861,
-        "created": "2024-02-01T17:27:41+00:00",
-        "updated": "2024-03-13T19:22:44+00:00",
-        "pushed": "2024-04-07T19:54:05+00:00",
-        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
-        "id": 751476254
     },
     {
         "repo": "MyOs",
@@ -36465,15 +36374,93 @@
         "id": 762139588
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerator \u2728",
+        "owner": "kendryte",
+        "stars": 693,
+        "forks": 182,
+        "size": 58597,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-04-07T09:09:28+00:00",
+        "pushed": "2024-04-09T03:30:15+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 535,
+        "forks": 159,
+        "size": 1015,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2024-04-08T07:08:57+00:00",
+        "pushed": "2024-04-08T08:41:09+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 17,
+        "forks": 4,
+        "size": 13925,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-04-06T16:23:34+00:00",
+        "pushed": "2024-04-08T10:02:18+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "OSlab_without_git",
+        "description": "please make it",
+        "owner": "LliminM",
+        "stars": 0,
+        "forks": 0,
+        "size": 22,
+        "created": "2024-04-09T02:48:52+00:00",
+        "updated": "2024-04-09T02:48:52+00:00",
+        "pushed": "2024-04-09T03:32:55+00:00",
+        "url": "https://github.com/LliminM/OSlab_without_git",
+        "id": 784018379
+    },
+    {
+        "repo": "rcore-tutorial-v3-with-hal-component",
+        "description": null,
+        "owner": "yfblock",
+        "stars": 0,
+        "forks": 0,
+        "size": 28409,
+        "created": "2024-03-27T13:26:45+00:00",
+        "updated": "2024-03-27T15:39:00+00:00",
+        "pushed": "2024-04-08T14:44:06+00:00",
+        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
+        "id": 778304792
+    },
+    {
+        "repo": "MaixduinoAI",
+        "description": null,
+        "owner": "damiantomczyszyn",
+        "stars": 0,
+        "forks": 0,
+        "size": 1977864,
+        "created": "2024-02-01T17:27:41+00:00",
+        "updated": "2024-03-13T19:22:44+00:00",
+        "pushed": "2024-04-08T19:58:28+00:00",
+        "url": "https://github.com/damiantomczyszyn/MaixduinoAI",
+        "id": 751476254
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 6899,
+        "size": 7344,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-04-08T01:36:03+00:00",
+        "pushed": "2024-04-09T01:35:10+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36483,10 +36470,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1992,
+        "size": 2121,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-04-08T01:33:24+00:00",
+        "pushed": "2024-04-09T01:32:16+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36496,11 +36483,37 @@
         "owner": "androidtrackers",
         "stars": 113,
         "forks": 33,
-        "size": 649242,
+        "size": 649243,
         "created": "2018-04-17T18:44:22+00:00",
         "updated": "2024-04-06T18:35:51+00:00",
-        "pushed": "2024-04-07T12:21:32+00:00",
+        "pushed": "2024-04-08T12:23:37+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "nuttx-ox64",
+        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
+        "owner": "lupyuen",
+        "stars": 32,
+        "forks": 0,
+        "size": 179,
+        "created": "2023-10-28T08:34:51+00:00",
+        "updated": "2024-04-08T14:21:39+00:00",
+        "pushed": "2024-04-09T00:12:31+00:00",
+        "url": "https://github.com/lupyuen/nuttx-ox64",
+        "id": 711107946
+    },
+    {
+        "repo": "homepage",
+        "description": "free time attempt to create a bit prettier web page",
+        "owner": "macabset",
+        "stars": 0,
+        "forks": 0,
+        "size": 360038,
+        "created": "2017-12-08T07:36:07+00:00",
+        "updated": "2023-06-19T16:40:37+00:00",
+        "pushed": "2024-04-08T17:58:36+00:00",
+        "url": "https://github.com/macabset/homepage",
+        "id": 113545974
     }
 ]

@@ -11037,19 +11037,6 @@
         "id": 745548753
     },
     {
-        "repo": "lilydrum",
-        "description": "Drums and Lilypond",
-        "owner": "snowgoon88",
-        "stars": 2,
-        "forks": 0,
-        "size": 1509,
-        "created": "2019-02-04T12:02:21+00:00",
-        "updated": "2023-01-09T14:32:41+00:00",
-        "pushed": "2024-01-28T09:07:18+00:00",
-        "url": "https://github.com/snowgoon88/lilydrum",
-        "id": 169072211
-    },
-    {
         "repo": "a2o",
         "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue.  It is now being updated for compliancy and integration into open projects.",
         "owner": "OpenPOWERFoundation",
@@ -11544,19 +11531,6 @@
         "id": 64712541
     },
     {
-        "repo": "FazyRV",
-        "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
-        "owner": "meiniKi",
-        "stars": 35,
-        "forks": 1,
-        "size": 759,
-        "created": "2024-02-19T20:09:47+00:00",
-        "updated": "2024-03-05T01:03:03+00:00",
-        "pushed": "2024-03-07T22:48:47+00:00",
-        "url": "https://github.com/meiniKi/FazyRV",
-        "id": 760114130
-    },
-    {
         "repo": "pogobot-sdk",
         "description": "SDK for the Pogobot open-source open-hardware robotic platform for swarm robotics",
         "owner": "nekonaute",
@@ -11986,19 +11960,6 @@
         "id": 310692215
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 443,
-        "forks": 116,
-        "size": 41640,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-03-26T03:17:51+00:00",
-        "pushed": "2024-03-31T02:12:19+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "tinyclunx33_zephyr_example",
         "description": "Zephyr running on the tinyCLUNX33 SoM",
         "owner": "tinyvision-ai-inc",
@@ -12103,32 +12064,6 @@
         "id": 274442284
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 34,
-        "forks": 14,
-        "size": 111584,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-17T09:05:18+00:00",
-        "pushed": "2024-04-05T06:00:44+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 335,
-        "forks": 267,
-        "size": 3985,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-04-01T02:37:19+00:00",
-        "pushed": "2024-04-05T08:47:36+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "linux-on-litex-vexriscv",
         "description": "Linux on LiteX-VexRiscv",
         "owner": "litex-hub",
@@ -12140,19 +12075,6 @@
         "pushed": "2024-04-04T08:48:57+00:00",
         "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
         "id": 183392076
-    },
-    {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 190,
-        "forks": 81,
-        "size": 1314,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-02-14T13:55:01+00:00",
-        "pushed": "2024-04-05T07:20:41+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
     },
     {
         "repo": "awesome-opensource-hardware",
@@ -12246,32 +12168,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 649,
-        "forks": 60,
-        "size": 1034,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-04-08T02:33:58+00:00",
-        "pushed": "2024-04-08T01:51:21+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 26,
-        "forks": 12,
-        "size": 30757,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-04-02T12:34:56+00:00",
-        "pushed": "2024-04-07T10:19:56+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "ocfpga",
         "description": "OrangeCrab ECP5 fpga dev board experiments",
         "owner": "samblenny",
@@ -12298,15 +12194,119 @@
         "id": 765108502
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 335,
+        "forks": 267,
+        "size": 3988,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-04-01T02:37:19+00:00",
+        "pushed": "2024-04-08T18:38:12+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 190,
+        "forks": 81,
+        "size": 1314,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-04-07T23:25:44+00:00",
+        "pushed": "2024-04-08T15:52:03+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 652,
+        "forks": 60,
+        "size": 1034,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-04-09T01:01:30+00:00",
+        "pushed": "2024-04-09T01:50:34+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 442,
+        "forks": 116,
+        "size": 41640,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-04-08T14:22:49+00:00",
+        "pushed": "2024-04-08T02:11:38+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 26,
+        "forks": 12,
+        "size": 30813,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-04-02T12:34:56+00:00",
+        "pushed": "2024-04-08T13:03:29+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 34,
+        "forks": 14,
+        "size": 111608,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-17T09:05:18+00:00",
+        "pushed": "2024-04-09T05:42:18+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "FazyRV",
+        "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
+        "owner": "meiniKi",
+        "stars": 54,
+        "forks": 1,
+        "size": 772,
+        "created": "2024-02-19T20:09:47+00:00",
+        "updated": "2024-04-09T04:44:02+00:00",
+        "pushed": "2024-04-04T11:20:00+00:00",
+        "url": "https://github.com/meiniKi/FazyRV",
+        "id": 760114130
+    },
+    {
+        "repo": "lilydrum",
+        "description": "Drums and Lilypond",
+        "owner": "snowgoon88",
+        "stars": 2,
+        "forks": 0,
+        "size": 1511,
+        "created": "2019-02-04T12:02:21+00:00",
+        "updated": "2023-01-09T14:32:41+00:00",
+        "pushed": "2024-04-08T13:34:31+00:00",
+        "url": "https://github.com/snowgoon88/lilydrum",
+        "id": 169072211
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1128,
+        "size": 1130,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-04-08T04:36:27+00:00",
+        "pushed": "2024-04-09T04:34:41+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12316,10 +12316,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 52994,
+        "size": 53431,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-04-08T03:20:44+00:00",
+        "pushed": "2024-04-09T03:22:24+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
