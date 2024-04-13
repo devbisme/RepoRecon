@@ -5187,19 +5187,6 @@
         "id": 342916296
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 38,
-        "forks": 24,
-        "size": 41308,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-03-26T13:33:09+00:00",
-        "pushed": "2024-04-09T14:56:04+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5237,5 +5224,31 @@
         "pushed": "2024-04-10T08:18:37+00:00",
         "url": "https://github.com/Nic30/hwtLib",
         "id": 63018738
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 39,
+        "forks": 25,
+        "size": 41314,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-04-10T20:15:51+00:00",
+        "pushed": "2024-04-12T13:43:55+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-04-12T19:26:25+00:00",
+        "pushed": "2024-04-12T19:28:33+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
     }
 ]
