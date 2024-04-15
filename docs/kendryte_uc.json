@@ -34996,19 +34996,6 @@
         "id": 761611821
     },
     {
-        "repo": "awesome-yolo-object-detection",
-        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
-        "owner": "codingonion",
-        "stars": 976,
-        "forks": 163,
-        "size": 253,
-        "created": "2022-02-19T17:57:06+00:00",
-        "updated": "2024-02-23T19:55:16+00:00",
-        "pushed": "2024-02-23T12:10:41+00:00",
-        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
-        "id": 461270746
-    },
-    {
         "repo": "wmt_ai_study",
         "description": "My AI study",
         "owner": "weimingtom",
@@ -36036,19 +36023,6 @@
         "id": 608178669
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 75,
-        "forks": 10,
-        "size": 28,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-04-02T03:05:25+00:00",
-        "pushed": "2024-04-02T13:16:37+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "RoboMaster_OpenMV",
         "description": "\u7a77\u7684\u53ee\u5f53\u54cd\u7684\u65b9\u6848",
         "owner": "LinchCHN",
@@ -36244,19 +36218,6 @@
         "id": 360045993
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 15,
-        "forks": 1,
-        "size": 943212,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-04-09T11:38:54+00:00",
-        "pushed": "2024-04-10T00:35:02+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "rcore-note",
         "description": null,
         "owner": "hollykbuck",
@@ -36348,19 +36309,6 @@
         "id": 28653585
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 7876,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2023-12-12T02:51:21+00:00",
-        "pushed": "2024-04-10T17:57:01+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "YOLO-tracking-and-counting-based-on-K210",
         "description": null,
         "owner": "JXH-2020",
@@ -36426,32 +36374,6 @@
         "id": 770690133
     },
     {
-        "repo": "aCoral-riscv-cl",
-        "description": "aCoral for k210",
-        "owner": "spg-one",
-        "stars": 2,
-        "forks": 0,
-        "size": 6584,
-        "created": "2023-05-25T15:12:56+00:00",
-        "updated": "2024-03-21T06:23:51+00:00",
-        "pushed": "2024-04-11T14:48:26+00:00",
-        "url": "https://github.com/spg-one/aCoral-riscv-cl",
-        "id": 645403225
-    },
-    {
-        "repo": "marover",
-        "description": "Maro small toy robot",
-        "owner": "maroziza",
-        "stars": 4,
-        "forks": 0,
-        "size": 7636,
-        "created": "2023-10-18T09:23:59+00:00",
-        "updated": "2024-04-10T16:40:09+00:00",
-        "pushed": "2024-04-11T17:46:46+00:00",
-        "url": "https://github.com/maroziza/marover",
-        "id": 706606213
-    },
-    {
         "repo": "Recognition_Lightening_K210",
         "description": null,
         "owner": "Moneeeeee",
@@ -36489,19 +36411,6 @@
         "pushed": "2024-04-12T12:04:47+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "mini-rv32ima",
-        "description": "A tiny C header-only risc-v emulator.",
-        "owner": "cnlohr",
-        "stars": 1460,
-        "forks": 110,
-        "size": 327,
-        "created": "2022-10-27T21:28:06+00:00",
-        "updated": "2024-04-12T13:58:41+00:00",
-        "pushed": "2024-04-12T10:02:08+00:00",
-        "url": "https://github.com/cnlohr/mini-rv32ima",
-        "id": 558589102
     },
     {
         "repo": "bookmarks",
@@ -36608,15 +36517,132 @@
         "id": 218708914
     },
     {
+        "repo": "mini-rv32ima",
+        "description": "A tiny C header-only risc-v emulator.",
+        "owner": "cnlohr",
+        "stars": 1460,
+        "forks": 110,
+        "size": 349,
+        "created": "2022-10-27T21:28:06+00:00",
+        "updated": "2024-04-15T05:05:28+00:00",
+        "pushed": "2024-04-15T01:14:26+00:00",
+        "url": "https://github.com/cnlohr/mini-rv32ima",
+        "id": 558589102
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 16,
+        "forks": 1,
+        "size": 1021706,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-04-12T18:47:22+00:00",
+        "pushed": "2024-04-14T18:41:59+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "aCoral-riscv-cl",
+        "description": "aCoral for k210",
+        "owner": "spg-one",
+        "stars": 2,
+        "forks": 0,
+        "size": 6583,
+        "created": "2023-05-25T15:12:56+00:00",
+        "updated": "2024-03-21T06:23:51+00:00",
+        "pushed": "2024-04-13T10:35:47+00:00",
+        "url": "https://github.com/spg-one/aCoral-riscv-cl",
+        "id": 645403225
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 78,
+        "forks": 10,
+        "size": 36,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-04-14T07:14:43+00:00",
+        "pushed": "2024-04-14T08:25:18+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 7913,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2023-12-12T02:51:21+00:00",
+        "pushed": "2024-04-14T08:38:25+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "awesome-yolo-object-detection",
+        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
+        "owner": "codingonion",
+        "stars": 1038,
+        "forks": 168,
+        "size": 256,
+        "created": "2022-02-19T17:57:06+00:00",
+        "updated": "2024-04-14T08:26:24+00:00",
+        "pushed": "2024-04-14T08:25:04+00:00",
+        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
+        "id": 461270746
+    },
+    {
+        "repo": "rCore-Tutorial-v3-LoongArch",
+        "description": null,
+        "owner": "Helloworld-lbl",
+        "stars": 0,
+        "forks": 0,
+        "size": 1432,
+        "created": "2024-04-14T12:41:57+00:00",
+        "updated": "2024-04-14T12:46:28+00:00",
+        "pushed": "2024-04-15T02:49:23+00:00",
+        "url": "https://github.com/Helloworld-lbl/rCore-Tutorial-v3-LoongArch",
+        "id": 786428257
+    },
+    {
+        "repo": "marover",
+        "description": "Maro small toy robot",
+        "owner": "maroziza",
+        "stars": 4,
+        "forks": 0,
+        "size": 8522,
+        "created": "2023-10-18T09:23:59+00:00",
+        "updated": "2024-04-14T06:59:58+00:00",
+        "pushed": "2024-04-14T06:59:55+00:00",
+        "url": "https://github.com/maroziza/marover",
+        "id": 706606213
+    },
+    {
+        "repo": "2024_K2102_2090521",
+        "description": "SySL",
+        "owner": "glitwinutn",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2024-04-15T00:25:58+00:00",
+        "updated": "2024-04-15T00:25:59+00:00",
+        "pushed": "2024-04-15T00:25:59+00:00",
+        "url": "https://github.com/glitwinutn/2024_K2102_2090521",
+        "id": 786608703
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 0,
         "forks": 0,
-        "size": 8682,
+        "size": 9128,
         "created": "2023-08-31T01:07:36+00:00",
         "updated": "2023-08-31T01:09:14+00:00",
-        "pushed": "2024-04-13T01:16:10+00:00",
+        "pushed": "2024-04-14T02:00:25+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36626,10 +36652,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2638,
+        "size": 2770,
         "created": "2023-12-13T06:58:33+00:00",
         "updated": "2023-12-13T06:58:33+00:00",
-        "pushed": "2024-04-13T01:13:34+00:00",
+        "pushed": "2024-04-15T03:42:06+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36637,12 +36663,12 @@
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 113,
-        "forks": 33,
-        "size": 651996,
+        "stars": 114,
+        "forks": 34,
+        "size": 654742,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-04-06T18:35:51+00:00",
-        "pushed": "2024-04-12T12:23:58+00:00",
+        "updated": "2024-04-14T04:49:01+00:00",
+        "pushed": "2024-04-14T14:42:54+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -36655,7 +36681,7 @@
         "size": 179,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-04-08T14:21:39+00:00",
-        "pushed": "2024-04-13T00:11:22+00:00",
+        "pushed": "2024-04-15T02:30:15+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

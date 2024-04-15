@@ -5096,19 +5096,6 @@
         "id": 260877427
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 535,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-03-30T10:36:14+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "bonfire-core",
         "description": null,
         "owner": "bonfireprocessor",
@@ -5120,19 +5107,6 @@
         "pushed": "2024-04-01T00:32:35+00:00",
         "url": "https://github.com/bonfireprocessor/bonfire-core",
         "id": 200425308
-    },
-    {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 75,
-        "forks": 10,
-        "size": 28,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-04-02T03:05:25+00:00",
-        "pushed": "2024-04-02T13:16:37+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
     },
     {
         "repo": "myhdl-numeric",
@@ -5200,19 +5174,6 @@
         "id": 35898469
     },
     {
-        "repo": "myHdl_projects",
-        "description": null,
-        "owner": "safanazar",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2024-04-09T15:26:10+00:00",
-        "updated": "2024-04-09T15:26:18+00:00",
-        "pushed": "2024-04-09T16:30:29+00:00",
-        "url": "https://github.com/safanazar/myHdl_projects",
-        "id": 784301828
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -5250,5 +5211,44 @@
         "pushed": "2024-04-12T19:28:33+00:00",
         "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
         "id": 785859807
+    },
+    {
+        "repo": "myHdl_projects",
+        "description": null,
+        "owner": "safanazar",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-04-09T15:26:10+00:00",
+        "updated": "2024-04-09T15:26:18+00:00",
+        "pushed": "2024-04-14T09:04:33+00:00",
+        "url": "https://github.com/safanazar/myHdl_projects",
+        "id": 784301828
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 541,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-01-24T16:34:21+00:00",
+        "pushed": "2024-04-14T16:52:07+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 78,
+        "forks": 10,
+        "size": 36,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-04-14T07:14:43+00:00",
+        "pushed": "2024-04-14T08:25:18+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
     }
 ]
