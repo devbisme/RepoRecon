@@ -4862,19 +4862,6 @@
         "id": 766023963
     },
     {
-        "repo": "gubscruz",
-        "description": null,
-        "owner": "Gubscruz",
-        "stars": 0,
-        "forks": 0,
-        "size": 28,
-        "created": "2023-05-27T14:06:20+00:00",
-        "updated": "2023-05-27T14:06:21+00:00",
-        "pushed": "2024-03-20T14:17:53+00:00",
-        "url": "https://github.com/Gubscruz/gubscruz",
-        "id": 646169567
-    },
-    {
         "repo": "24a-bits-ai-simulado-pedrofardin",
         "description": "24a-bits-ai-simulado-pedrofardin created by GitHub Classroom",
         "owner": "insper-classroom",
@@ -5109,19 +5096,6 @@
         "id": 200425308
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14357,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-04-02T17:40:36+00:00",
-        "pushed": "2024-04-04T04:17:12+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -5250,5 +5224,31 @@
         "pushed": "2024-04-14T08:25:18+00:00",
         "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
         "id": 605602834
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14420,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-04-02T17:40:36+00:00",
+        "pushed": "2024-04-15T15:38:56+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "gubscruz",
+        "description": null,
+        "owner": "Gubscruz",
+        "stars": 0,
+        "forks": 0,
+        "size": 30,
+        "created": "2023-05-27T14:06:20+00:00",
+        "updated": "2023-05-27T14:06:21+00:00",
+        "pushed": "2024-04-15T18:26:11+00:00",
+        "url": "https://github.com/Gubscruz/gubscruz",
+        "id": 646169567
     }
 ]

@@ -10933,19 +10933,6 @@
         "id": 632955985
     },
     {
-        "repo": "litex_reference_designs",
-        "description": "Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.",
-        "owner": "os-fpga",
-        "stars": 0,
-        "forks": 0,
-        "size": 2844,
-        "created": "2022-06-20T12:48:11+00:00",
-        "updated": "2024-01-16T19:34:16+00:00",
-        "pushed": "2024-01-16T12:17:19+00:00",
-        "url": "https://github.com/os-fpga/litex_reference_designs",
-        "id": 505438688
-    },
-    {
         "repo": "LiteX_Reference_Design_rs",
         "description": "System Level Design created using LiteX infra, target platform are ARTY A7, basys 3 fpga",
         "owner": "os-fpga",
@@ -11256,19 +11243,6 @@
         "pushed": "2024-02-20T03:24:58+00:00",
         "url": "https://github.com/wuxx/Colorlight-FPGA-Projects",
         "id": 293705373
-    },
-    {
-        "repo": "learn-fpga",
-        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
-        "owner": "BrunoLevy",
-        "stars": 2256,
-        "forks": 212,
-        "size": 239570,
-        "created": "2020-05-27T15:04:05+00:00",
-        "updated": "2024-02-21T06:02:27+00:00",
-        "pushed": "2024-02-20T22:59:52+00:00",
-        "url": "https://github.com/BrunoLevy/learn-fpga",
-        "id": 267350664
     },
     {
         "repo": "LiteX-CNC",
@@ -11843,19 +11817,6 @@
         "id": 550380922
     },
     {
-        "repo": "fsic_asic",
-        "description": null,
-        "owner": "bol-edu",
-        "stars": 2,
-        "forks": 2,
-        "size": 14531,
-        "created": "2023-07-13T02:24:00+00:00",
-        "updated": "2023-08-01T12:10:47+00:00",
-        "pushed": "2024-03-28T08:56:42+00:00",
-        "url": "https://github.com/bol-edu/fsic_asic",
-        "id": 665787279
-    },
-    {
         "repo": "linuxcnc-hardware",
         "description": "LinuxCNC Hardware",
         "owner": "pippin88",
@@ -12194,19 +12155,6 @@
         "id": 244001351
     },
     {
-        "repo": "ocfpga",
-        "description": "OrangeCrab ECP5 fpga dev board experiments",
-        "owner": "samblenny",
-        "stars": 1,
-        "forks": 0,
-        "size": 1454,
-        "created": "2024-04-03T02:04:22+00:00",
-        "updated": "2024-04-03T22:37:02+00:00",
-        "pushed": "2024-04-13T04:02:56+00:00",
-        "url": "https://github.com/samblenny/ocfpga",
-        "id": 781236128
-    },
-    {
         "repo": "KWS-ASIC",
         "description": "Keyword Spotting Accelerator chip design for Efabless AI-design-contest",
         "owner": "meyanik",
@@ -12246,19 +12194,6 @@
         "id": 42048653
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 657,
-        "forks": 61,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-04-14T19:15:58+00:00",
-        "pushed": "2024-04-15T03:50:27+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12270,45 +12205,6 @@
         "pushed": "2024-04-15T03:03:49+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1409,
-        "forks": 196,
-        "size": 202937,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-04-14T23:41:43+00:00",
-        "pushed": "2024-04-14T19:01:07+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 26,
-        "forks": 12,
-        "size": 31964,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-04-11T22:33:35+00:00",
-        "pushed": "2024-04-14T20:13:42+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 34,
-        "forks": 15,
-        "size": 111641,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-03-17T09:05:18+00:00",
-        "pushed": "2024-04-15T05:44:40+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "SucreLA",
@@ -12363,15 +12259,132 @@
         "id": 605602834
     },
     {
+        "repo": "learn-fpga",
+        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
+        "owner": "BrunoLevy",
+        "stars": 2319,
+        "forks": 219,
+        "size": 239570,
+        "created": "2020-05-27T15:04:05+00:00",
+        "updated": "2024-04-16T05:46:56+00:00",
+        "pushed": "2024-04-16T01:14:59+00:00",
+        "url": "https://github.com/BrunoLevy/learn-fpga",
+        "id": 267350664
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 657,
+        "forks": 61,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-04-16T00:33:26+00:00",
+        "pushed": "2024-04-16T01:51:32+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1411,
+        "forks": 196,
+        "size": 203095,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-04-15T13:57:21+00:00",
+        "pushed": "2024-04-15T22:13:30+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 26,
+        "forks": 12,
+        "size": 31983,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-04-11T22:33:35+00:00",
+        "pushed": "2024-04-15T18:27:29+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 34,
+        "forks": 15,
+        "size": 111659,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-03-17T09:05:18+00:00",
+        "pushed": "2024-04-16T01:48:10+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "fsic_asic",
+        "description": null,
+        "owner": "bol-edu",
+        "stars": 2,
+        "forks": 2,
+        "size": 14551,
+        "created": "2023-07-13T02:24:00+00:00",
+        "updated": "2023-08-01T12:10:47+00:00",
+        "pushed": "2024-04-16T04:29:06+00:00",
+        "url": "https://github.com/bol-edu/fsic_asic",
+        "id": 665787279
+    },
+    {
+        "repo": "litex_reference_designs",
+        "description": "Litex Reference Designs provides reference designs created out of IP Catalog using Litex integration capabilities.",
+        "owner": "os-fpga",
+        "stars": 0,
+        "forks": 0,
+        "size": 2832,
+        "created": "2022-06-20T12:48:11+00:00",
+        "updated": "2024-01-16T19:34:16+00:00",
+        "pushed": "2024-04-15T06:51:52+00:00",
+        "url": "https://github.com/os-fpga/litex_reference_designs",
+        "id": 505438688
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 0,
+        "forks": 0,
+        "size": 6034,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2024-04-15T10:32:47+00:00",
+        "pushed": "2024-04-15T10:30:44+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "ocfpga",
+        "description": "OrangeCrab ECP5 fpga dev board experiments",
+        "owner": "samblenny",
+        "stars": 1,
+        "forks": 0,
+        "size": 1465,
+        "created": "2024-04-03T02:04:22+00:00",
+        "updated": "2024-04-03T22:37:02+00:00",
+        "pushed": "2024-04-16T06:02:38+00:00",
+        "url": "https://github.com/samblenny/ocfpga",
+        "id": 781236128
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1325,
+        "size": 1327,
         "created": "2022-10-04T18:56:03+00:00",
         "updated": "2024-01-12T18:40:14+00:00",
-        "pushed": "2024-04-15T04:40:56+00:00",
+        "pushed": "2024-04-16T04:34:56+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12381,11 +12394,24 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 48265,
+        "size": 48690,
         "created": "2022-11-02T05:52:24+00:00",
         "updated": "2023-11-03T17:36:59+00:00",
-        "pushed": "2024-04-15T04:16:04+00:00",
+        "pushed": "2024-04-16T03:22:00+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "Damn-Vuln-IoT-SoC",
+        "description": "A modular platform to generate SoC with hardware vulnerabilities hardware hacking CTF",
+        "owner": "minkione",
+        "stars": 0,
+        "forks": 0,
+        "size": 67154,
+        "created": "2024-04-05T17:17:35+00:00",
+        "updated": "2024-04-05T17:17:35+00:00",
+        "pushed": "2024-03-03T18:53:49+00:00",
+        "url": "https://github.com/minkione/Damn-Vuln-IoT-SoC",
+        "id": 782624164
     }
 ]
