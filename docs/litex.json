@@ -12064,19 +12064,6 @@
         "id": 783346076
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 78,
-        "forks": 10,
-        "size": 36,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-04-14T07:14:43+00:00",
-        "pushed": "2024-04-14T08:25:18+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "learn-fpga",
         "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
         "owner": "BrunoLevy",
@@ -12181,19 +12168,6 @@
         "id": 787313940
     },
     {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1414,
-        "forks": 196,
-        "size": 203175,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-04-17T22:36:40+00:00",
-        "pushed": "2024-04-17T17:07:39+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "rust-litex-hal",
         "description": "A Rust embedded HAL crate for LiteX cores",
         "owner": "pepijndevos",
@@ -12259,19 +12233,6 @@
         "id": 738233144
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2674,
-        "forks": 520,
-        "size": 16693,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-04-18T14:22:05+00:00",
-        "pushed": "2024-04-19T04:59:39+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12296,58 +12257,6 @@
         "pushed": "2024-04-18T13:08:24+00:00",
         "url": "https://github.com/enjoy-digital/litex_hw_ci",
         "id": 744379987
-    },
-    {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 0,
-        "forks": 3,
-        "size": 153,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-04-11T00:42:47+00:00",
-        "pushed": "2024-04-18T17:11:35+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
-        "repo": "LinuxDrivers",
-        "description": "Linux character device drivers running in Renode",
-        "owner": "panantoni01",
-        "stars": 0,
-        "forks": 0,
-        "size": 128,
-        "created": "2024-02-15T12:02:01+00:00",
-        "updated": "2024-03-29T00:27:08+00:00",
-        "pushed": "2024-04-18T23:42:43+00:00",
-        "url": "https://github.com/panantoni01/LinuxDrivers",
-        "id": 757989102
-    },
-    {
-        "repo": "ocfpga",
-        "description": "OrangeCrab ECP5 fpga dev board experiments",
-        "owner": "samblenny",
-        "stars": 1,
-        "forks": 0,
-        "size": 1620,
-        "created": "2024-04-03T02:04:22+00:00",
-        "updated": "2024-04-03T22:37:02+00:00",
-        "pushed": "2024-04-19T05:49:49+00:00",
-        "url": "https://github.com/samblenny/ocfpga",
-        "id": 781236128
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 42713,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2022-02-11T15:07:58+00:00",
-        "pushed": "2024-04-19T00:56:24+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "litex-boards",
@@ -12376,19 +12285,6 @@
         "id": 42041717
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 662,
-        "forks": 62,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-04-20T00:20:01+00:00",
-        "pushed": "2024-04-20T01:44:54+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex-acorn-baseboard",
         "description": "LiteX development baseboards arround the SQRL Acorn. ",
         "owner": "enjoy-digital",
@@ -12400,19 +12296,6 @@
         "pushed": "2024-04-19T07:07:19+00:00",
         "url": "https://github.com/enjoy-digital/litex-acorn-baseboard",
         "id": 415920994
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 26,
-        "forks": 12,
-        "size": 31868,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-04-19T10:51:01+00:00",
-        "pushed": "2024-04-19T17:41:34+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "Raptor",
@@ -12454,17 +12337,147 @@
         "id": 787406556
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2679,
+        "forks": 520,
+        "size": 16758,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-04-22T03:39:40+00:00",
+        "pushed": "2024-04-22T01:42:36+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 665,
+        "forks": 62,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-04-22T04:36:52+00:00",
+        "pushed": "2024-04-22T01:44:43+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1419,
+        "forks": 196,
+        "size": 203230,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-04-21T21:52:34+00:00",
+        "pushed": "2024-04-21T19:39:51+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 27,
+        "forks": 12,
+        "size": 31868,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-04-21T10:44:28+00:00",
+        "pushed": "2024-04-20T09:05:10+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 0,
+        "forks": 3,
+        "size": 153,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-04-11T00:42:47+00:00",
+        "pushed": "2024-04-20T21:45:46+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "colorlight-riscv-rs",
+        "description": "\"Hacking\" a Chinese LED display board with open-source FPGA tools, RISC-V and Rust \ud83e\udd80 ",
+        "owner": "roby2014",
+        "stars": 0,
+        "forks": 0,
+        "size": 31,
+        "created": "2024-04-20T19:58:12+00:00",
+        "updated": "2024-04-20T20:10:43+00:00",
+        "pushed": "2024-04-20T20:10:40+00:00",
+        "url": "https://github.com/roby2014/colorlight-riscv-rs",
+        "id": 789527923
+    },
+    {
+        "repo": "LinuxDrivers",
+        "description": "Linux character device drivers running in Renode",
+        "owner": "panantoni01",
+        "stars": 0,
+        "forks": 0,
+        "size": 128,
+        "created": "2024-02-15T12:02:01+00:00",
+        "updated": "2024-04-21T19:11:46+00:00",
+        "pushed": "2024-04-21T19:23:29+00:00",
+        "url": "https://github.com/panantoni01/LinuxDrivers",
+        "id": 757989102
+    },
+    {
+        "repo": "ocfpga",
+        "description": "OrangeCrab ECP5 fpga dev board experiments",
+        "owner": "samblenny",
+        "stars": 1,
+        "forks": 0,
+        "size": 1503,
+        "created": "2024-04-03T02:04:22+00:00",
+        "updated": "2024-04-22T04:25:42+00:00",
+        "pushed": "2024-04-22T04:25:39+00:00",
+        "url": "https://github.com/samblenny/ocfpga",
+        "id": 781236128
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 81,
+        "forks": 11,
+        "size": 38,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-04-21T08:30:16+00:00",
+        "pushed": "2024-04-21T06:20:35+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1405,
+        "size": 1480,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-04-20T04:35:45+00:00",
-        "pushed": "2024-04-20T04:35:41+00:00",
+        "updated": "2024-04-22T04:34:42+00:00",
+        "pushed": "2024-04-22T04:34:39+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 43927,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-04-21T01:05:00+00:00",
+        "pushed": "2024-04-21T01:04:56+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -12472,10 +12485,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 50439,
+        "size": 51325,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-04-20T03:21:24+00:00",
-        "pushed": "2024-04-20T03:21:20+00:00",
+        "updated": "2024-04-22T03:22:12+00:00",
+        "pushed": "2024-04-22T03:22:09+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

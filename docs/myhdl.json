@@ -5109,19 +5109,6 @@
         "id": 765108502
     },
     {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 143,
-        "forks": 19,
-        "size": 2964,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-04-08T03:52:13+00:00",
-        "pushed": "2024-04-08T12:38:08+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5146,58 +5133,6 @@
         "pushed": "2024-04-10T08:18:37+00:00",
         "url": "https://github.com/Nic30/hwtLib",
         "id": 63018738
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 39,
-        "forks": 25,
-        "size": 41314,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-04-10T20:15:51+00:00",
-        "pushed": "2024-04-12T13:43:55+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 3,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-04-12T19:26:25+00:00",
-        "pushed": "2024-04-12T19:28:33+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
-    },
-    {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 78,
-        "forks": 10,
-        "size": 36,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-04-14T07:14:43+00:00",
-        "pushed": "2024-04-14T08:25:18+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14441,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-04-02T17:40:36+00:00",
-        "pushed": "2024-04-18T10:01:20+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
     },
     {
         "repo": "Hdl21",
@@ -5226,19 +5161,6 @@
         "id": 784301828
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 640,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-01-24T16:34:21+00:00",
-        "pushed": "2024-04-19T19:07:51+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "gubscruz",
         "description": null,
         "owner": "Gubscruz",
@@ -5250,5 +5172,83 @@
         "pushed": "2024-04-19T10:49:28+00:00",
         "url": "https://github.com/Gubscruz/gubscruz",
         "id": 646169567
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 25,
+        "size": 41322,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-04-20T13:41:37+00:00",
+        "pushed": "2024-04-20T13:41:34+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14485,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-04-21T15:50:25+00:00",
+        "pushed": "2024-04-21T15:50:22+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 146,
+        "forks": 20,
+        "size": 2966,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-04-21T15:37:48+00:00",
+        "pushed": "2024-04-21T15:37:45+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 561,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-04-20T17:20:36+00:00",
+        "pushed": "2024-04-21T22:12:16+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 18,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-04-22T02:37:45+00:00",
+        "pushed": "2024-04-22T02:37:42+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 81,
+        "forks": 11,
+        "size": 38,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-04-21T08:30:16+00:00",
+        "pushed": "2024-04-21T06:20:35+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
     }
 ]
