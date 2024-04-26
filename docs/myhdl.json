@@ -5226,19 +5226,6 @@
         "id": 605602834
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 26,
-        "size": 41332,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-04-24T15:54:38+00:00",
-        "pushed": "2024-04-24T15:54:35+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5263,5 +5250,18 @@
         "pushed": "2024-04-24T23:59:21+00:00",
         "url": "https://github.com/AdamBalski/myhdl",
         "id": 791557469
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 26,
+        "size": 41351,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-04-25T11:36:51+00:00",
+        "pushed": "2024-04-25T11:36:47+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
     }
 ]
