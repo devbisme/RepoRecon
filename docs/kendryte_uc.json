@@ -36413,19 +36413,6 @@
         "id": 784870961
     },
     {
-        "repo": "support-matrix",
-        "description": "RISCV Board and OS Supported Matrix",
-        "owner": "ruyisdk",
-        "stars": 0,
-        "forks": 3,
-        "size": 19497,
-        "created": "2024-03-12T01:34:58+00:00",
-        "updated": "2024-03-12T01:41:20+00:00",
-        "pushed": "2024-04-18T10:05:58+00:00",
-        "url": "https://github.com/ruyisdk/support-matrix",
-        "id": 770690133
-    },
-    {
         "repo": "LilyGo-Document",
         "description": null,
         "owner": "Xinyuan-LilyGO",
@@ -36686,19 +36673,6 @@
         "id": 631474153
     },
     {
-        "repo": "aCoral-riscv-cl",
-        "description": "aCoral for k210",
-        "owner": "spg-one",
-        "stars": 2,
-        "forks": 0,
-        "size": 6589,
-        "created": "2023-05-25T15:12:56+00:00",
-        "updated": "2024-04-24T08:00:38+00:00",
-        "pushed": "2024-04-24T08:00:34+00:00",
-        "url": "https://github.com/spg-one/aCoral-riscv-cl",
-        "id": 645403225
-    },
-    {
         "repo": "Autonomous_Mecanum_Robot",
         "description": "This project features an autonomous robot equipped with Mecanum wheels for omnidirectional movement. Powered by a Raspberry Pi Pico W and HuskyLens, the robot performs tasks such as face tracking and object detection. With real-time learning capabilities and over-the-internet control.",
         "owner": "chinmaykrishnroy",
@@ -36764,19 +36738,6 @@
         "id": 706052378
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 165,
-        "forks": 123,
-        "size": 245,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2024-04-25T15:21:44+00:00",
-        "pushed": "2024-04-25T15:21:40+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -36788,32 +36749,6 @@
         "pushed": "2024-04-26T05:48:58+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 7894,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-04-25T18:59:00+00:00",
-        "pushed": "2024-04-25T18:58:57+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 17,
-        "forks": 0,
-        "size": 7392,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-04-25T10:07:14+00:00",
-        "pushed": "2024-04-25T10:07:11+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "marover",
@@ -36840,19 +36775,6 @@
         "pushed": "2024-04-25T12:18:36+00:00",
         "url": "https://github.com/OXeu/MaixMonitor",
         "id": 791246908
-    },
-    {
-        "repo": "lemon-core",
-        "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
-        "owner": "13m0n4de",
-        "stars": 1,
-        "forks": 0,
-        "size": 565,
-        "created": "2024-02-24T01:39:44+00:00",
-        "updated": "2024-04-25T23:48:49+00:00",
-        "pushed": "2024-04-25T23:50:26+00:00",
-        "url": "https://github.com/13m0n4de/lemon-core",
-        "id": 762534415
     },
     {
         "repo": "Yahboom_K210",
@@ -36894,19 +36816,6 @@
         "id": 524386531
     },
     {
-        "repo": "MyOs",
-        "description": null,
-        "owner": "jason-hue",
-        "stars": 1,
-        "forks": 0,
-        "size": 26277,
-        "created": "2024-03-28T11:53:28+00:00",
-        "updated": "2024-04-25T09:40:25+00:00",
-        "pushed": "2024-04-25T09:40:21+00:00",
-        "url": "https://github.com/jason-hue/MyOs",
-        "id": 778783751
-    },
-    {
         "repo": "tinyML-k210",
         "description": "Pipeline for object detection on MaixDuino k210.",
         "owner": "hglps",
@@ -36920,15 +36829,106 @@
         "id": 791854423
     },
     {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 165,
+        "forks": 123,
+        "size": 246,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-04-27T03:48:21+00:00",
+        "pushed": "2024-04-27T03:48:18+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "support-matrix",
+        "description": "RISCV Board and OS Supported Matrix",
+        "owner": "ruyisdk",
+        "stars": 0,
+        "forks": 4,
+        "size": 19495,
+        "created": "2024-03-12T01:34:58+00:00",
+        "updated": "2024-04-26T06:40:18+00:00",
+        "pushed": "2024-04-26T06:40:13+00:00",
+        "url": "https://github.com/ruyisdk/support-matrix",
+        "id": 770690133
+    },
+    {
+        "repo": "aCoral-riscv-cl",
+        "description": "aCoral for k210",
+        "owner": "spg-one",
+        "stars": 2,
+        "forks": 0,
+        "size": 6590,
+        "created": "2023-05-25T15:12:56+00:00",
+        "updated": "2024-04-26T13:01:42+00:00",
+        "pushed": "2024-04-26T13:01:38+00:00",
+        "url": "https://github.com/spg-one/aCoral-riscv-cl",
+        "id": 645403225
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 7903,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-04-26T22:28:18+00:00",
+        "pushed": "2024-04-26T22:28:15+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 17,
+        "forks": 1,
+        "size": 7410,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-04-27T04:01:46+00:00",
+        "pushed": "2024-04-27T04:01:42+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "lemon-core",
+        "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
+        "owner": "13m0n4de",
+        "stars": 1,
+        "forks": 0,
+        "size": 570,
+        "created": "2024-02-24T01:39:44+00:00",
+        "updated": "2024-04-26T17:52:03+00:00",
+        "pushed": "2024-04-26T17:58:33+00:00",
+        "url": "https://github.com/13m0n4de/lemon-core",
+        "id": 762534415
+    },
+    {
+        "repo": "MyOs",
+        "description": null,
+        "owner": "jason-hue",
+        "stars": 1,
+        "forks": 0,
+        "size": 26327,
+        "created": "2024-03-28T11:53:28+00:00",
+        "updated": "2024-04-26T08:54:55+00:00",
+        "pushed": "2024-04-26T08:54:51+00:00",
+        "url": "https://github.com/jason-hue/MyOs",
+        "id": 778783751
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 3361,
+        "size": 3816,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-04-26T01:37:06+00:00",
-        "pushed": "2024-04-26T01:37:03+00:00",
+        "updated": "2024-04-27T01:38:01+00:00",
+        "pushed": "2024-04-27T01:37:58+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36938,10 +36938,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1434,
+        "size": 1566,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-04-26T01:33:59+00:00",
-        "pushed": "2024-04-26T01:33:56+00:00",
+        "updated": "2024-04-27T01:32:33+00:00",
+        "pushed": "2024-04-27T01:32:30+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -36951,10 +36951,10 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 658766,
+        "size": 658769,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-04-25T12:25:18+00:00",
-        "pushed": "2024-04-25T12:25:14+00:00",
+        "updated": "2024-04-26T12:24:57+00:00",
+        "pushed": "2024-04-26T12:24:27+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -36967,7 +36967,7 @@
         "size": 179,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-04-08T14:21:39+00:00",
-        "pushed": "2024-04-26T00:12:31+00:00",
+        "pushed": "2024-04-27T00:12:33+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
