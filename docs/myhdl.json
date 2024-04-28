@@ -5200,32 +5200,6 @@
         "id": 730892692
     },
     {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 18,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-04-22T02:37:45+00:00",
-        "pushed": "2024-04-22T02:37:42+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
-    },
-    {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 81,
-        "forks": 11,
-        "size": 38,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-04-21T08:30:16+00:00",
-        "pushed": "2024-04-21T06:20:35+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5257,11 +5231,37 @@
         "owner": "AdamBalski",
         "stars": 0,
         "forks": 0,
-        "size": 2,
+        "size": 6,
         "created": "2024-04-24T23:47:44+00:00",
-        "updated": "2024-04-26T20:37:18+00:00",
-        "pushed": "2024-04-26T20:37:15+00:00",
+        "updated": "2024-04-27T22:53:53+00:00",
+        "pushed": "2024-04-27T22:53:50+00:00",
         "url": "https://github.com/AdamBalski/myhdl",
         "id": 791557469
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 54,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-04-22T13:10:03+00:00",
+        "pushed": "2024-04-27T23:43:16+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 83,
+        "forks": 11,
+        "size": 41,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-04-27T14:49:58+00:00",
+        "pushed": "2024-04-27T14:49:55+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
     }
 ]
