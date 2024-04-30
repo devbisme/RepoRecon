@@ -5200,32 +5200,6 @@
         "id": 730892692
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13405,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-04-24T09:20:20+00:00",
-        "pushed": "2024-04-24T09:20:17+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 26,
-        "size": 41354,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-04-27T01:16:02+00:00",
-        "pushed": "2024-04-27T01:15:59+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl",
         "description": null,
         "owner": "AdamBalski",
@@ -5239,19 +5213,6 @@
         "id": 791557469
     },
     {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 54,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-04-22T13:10:03+00:00",
-        "pushed": "2024-04-27T23:43:16+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
-    },
-    {
         "repo": "awesome-cuda-tensorrt-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
@@ -5263,5 +5224,44 @@
         "pushed": "2024-04-27T14:49:55+00:00",
         "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
         "id": 605602834
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 26,
+        "size": 41362,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-04-28T11:43:04+00:00",
+        "pushed": "2024-04-28T11:43:02+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13408,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-04-29T15:35:47+00:00",
+        "pushed": "2024-04-29T15:35:44+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 76,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-04-30T05:59:11+00:00",
+        "pushed": "2024-04-30T05:59:07+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
     }
 ]
