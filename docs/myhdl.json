@@ -5226,19 +5226,6 @@
         "id": 605602834
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 26,
-        "size": 41362,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-04-28T11:43:04+00:00",
-        "pushed": "2024-04-28T11:43:02+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5252,15 +5239,28 @@
         "id": 38977954
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 26,
+        "size": 41366,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-04-30T15:20:42+00:00",
+        "pushed": "2024-04-30T15:20:38+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "LLM-Hardware-Experiments",
         "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
         "owner": "parker-research",
         "stars": 0,
         "forks": 0,
-        "size": 76,
+        "size": 107,
         "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-04-30T05:59:11+00:00",
-        "pushed": "2024-04-30T05:59:07+00:00",
+        "updated": "2024-05-01T03:20:20+00:00",
+        "pushed": "2024-05-01T06:04:03+00:00",
         "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
         "id": 785859807
     }

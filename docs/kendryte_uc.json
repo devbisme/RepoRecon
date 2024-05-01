@@ -17667,19 +17667,6 @@
         "id": 347911496
     },
     {
-        "repo": "EmbededGarbageSorting",
-        "description": "An intelligent garbage sorting machine,which use allwinner V3S and kendryte K210 as hardware platform,lvgl on linux and sipeed maixpy as software platform.",
-        "owner": "HuakeZhBo",
-        "stars": 1,
-        "forks": 0,
-        "size": 22673,
-        "created": "2021-03-15T11:11:11Z",
-        "updated": "2021-05-21T16:42:09Z",
-        "pushed": "2021-03-16T14:31:51Z",
-        "url": "https://github.com/HuakeZhBo/EmbededGarbageSorting",
-        "id": 347937739
-    },
-    {
         "repo": "K210",
         "description": null,
         "owner": "SeaBirdBoat",
@@ -24139,19 +24126,6 @@
         "pushed": "2022-05-09T05:36:43Z",
         "url": "https://github.com/Inscribe/Maixduino",
         "id": 490117498
-    },
-    {
-        "repo": "k210_standalone_demo",
-        "description": null,
-        "owner": "jianqiwang12",
-        "stars": 0,
-        "forks": 0,
-        "size": 1035,
-        "created": "2022-05-09T07:02:08Z",
-        "updated": "2022-05-12T09:37:03Z",
-        "pushed": "2022-06-08T06:27:59Z",
-        "url": "https://github.com/jianqiwang12/k210_standalone_demo",
-        "id": 490170526
     },
     {
         "repo": "k510-pac",
@@ -36400,19 +36374,6 @@
         "id": 789410123
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 16,
-        "forks": 1,
-        "size": 1052914,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-04-22T19:12:27+00:00",
-        "pushed": "2024-04-22T19:12:23+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "k210-sdk-demo",
         "description": null,
         "owner": "qwerty1023",
@@ -36790,19 +36751,6 @@
         "id": 128056991
     },
     {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 67,
-        "forks": 3,
-        "size": 14412,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-04-29T03:49:31+00:00",
-        "pushed": "2024-04-29T06:26:54+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
-    },
-    {
         "repo": "support-matrix",
         "description": "RISCV Board and OS Supported Matrix",
         "owner": "ruyisdk",
@@ -36816,19 +36764,6 @@
         "id": 770690133
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 33,
-        "forks": 7,
-        "size": 17805,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-04-30T05:36:12+00:00",
-        "pushed": "2024-04-29T07:19:46+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "k230_canmv_docs",
         "description": "k230_canmv_docs",
         "owner": "kendryte",
@@ -36840,19 +36775,6 @@
         "pushed": "2024-04-29T03:53:31+00:00",
         "url": "https://github.com/kendryte/k230_canmv_docs",
         "id": 706039729
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 19,
-        "forks": 1,
-        "size": 7651,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-04-30T05:35:56+00:00",
-        "pushed": "2024-04-29T11:47:49+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "Xiaomi_Kernel_OpenSource",
@@ -36946,30 +36868,95 @@
         "id": 762139588
     },
     {
-        "repo": "awesome-stars",
+        "repo": "k230_canmv",
         "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 4924,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-04-30T01:37:13+00:00",
-        "pushed": "2024-04-30T01:37:10+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
+        "owner": "kendryte",
+        "stars": 67,
+        "forks": 3,
+        "size": 14431,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-04-29T03:49:31+00:00",
+        "pushed": "2024-04-30T21:43:47+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 33,
+        "forks": 7,
+        "size": 17808,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-04-30T07:48:52+00:00",
+        "pushed": "2024-04-30T07:48:49+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 1,
+        "size": 1059697,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-04-30T14:12:50+00:00",
+        "pushed": "2024-04-30T13:31:42+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "EmbededGarbageSorting",
+        "description": null,
+        "owner": "HuakeZhBo",
+        "stars": 3,
+        "forks": 0,
+        "size": 22675,
+        "created": "2021-03-15T11:11:11+00:00",
+        "updated": "2024-04-10T03:04:05+00:00",
+        "pushed": "2024-04-10T03:03:18+00:00",
+        "url": "https://github.com/HuakeZhBo/EmbededGarbageSorting",
+        "id": 347937739
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 19,
+        "forks": 1,
+        "size": 7677,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-04-30T07:48:01+00:00",
+        "pushed": "2024-04-30T07:47:58+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "K210",
+        "description": null,
+        "owner": "LJJNobody",
         "stars": 0,
         "forks": 0,
-        "size": 1834,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-04-30T01:34:02+00:00",
-        "pushed": "2024-04-30T01:33:59+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
+        "size": 5961,
+        "created": "2024-04-30T07:49:18+00:00",
+        "updated": "2024-04-30T07:49:31+00:00",
+        "pushed": "2024-04-30T07:49:26+00:00",
+        "url": "https://github.com/LJJNobody/K210",
+        "id": 793965936
+    },
+    {
+        "repo": "k210_standalone_demo",
+        "description": null,
+        "owner": "jianqiwang12",
+        "stars": 0,
+        "forks": 0,
+        "size": 1037,
+        "created": "2022-05-09T07:02:08+00:00",
+        "updated": "2024-04-30T14:23:25+00:00",
+        "pushed": "2024-04-30T14:23:21+00:00",
+        "url": "https://github.com/jianqiwang12/k210_standalone_demo",
+        "id": 490170526
     },
     {
         "repo": "certified-android-devices",
@@ -36977,10 +36964,10 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 658773,
+        "size": 661544,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-04-29T12:25:00+00:00",
-        "pushed": "2024-04-29T12:24:57+00:00",
+        "updated": "2024-04-30T12:24:29+00:00",
+        "pushed": "2024-04-30T12:24:25+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -36993,8 +36980,34 @@
         "size": 179,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-04-08T14:21:39+00:00",
-        "pushed": "2024-04-30T00:11:57+00:00",
+        "pushed": "2024-05-01T00:13:14+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 4925,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-05-01T01:43:33+00:00",
+        "pushed": "2024-05-01T01:43:31+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 0,
+        "forks": 0,
+        "size": 1967,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-05-01T01:40:30+00:00",
+        "pushed": "2024-05-01T01:40:27+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
     }
 ]
