@@ -28431,32 +28431,6 @@
         "id": 594271821
     },
     {
-        "repo": "rCore-Tutorial-v3-sched-algorithms",
-        "description": null,
-        "owner": "chyyuu",
-        "stars": 0,
-        "forks": 0,
-        "size": 28329,
-        "created": "2023-01-29T03:52:31Z",
-        "updated": "2023-01-29T03:53:41Z",
-        "pushed": "2023-01-29T03:57:47Z",
-        "url": "https://github.com/chyyuu/rCore-Tutorial-v3-sched-algorithms",
-        "id": 594606014
-    },
-    {
-        "repo": "rCore-Tutorial-v3-dev-PRA",
-        "description": null,
-        "owner": "chyyuu",
-        "stars": 2,
-        "forks": 0,
-        "size": 29230,
-        "created": "2023-01-29T03:59:17Z",
-        "updated": "2023-02-20T10:33:28Z",
-        "pushed": "2023-01-29T04:03:50Z",
-        "url": "https://github.com/chyyuu/rCore-Tutorial-v3-dev-PRA",
-        "id": 594607124
-    },
-    {
         "repo": "repo-5391-MaixPy",
         "description": null,
         "owner": "orgTestCodacy11KRepos110MB",
@@ -36712,19 +36686,6 @@
         "id": 461270746
     },
     {
-        "repo": "rcore-tutorial-v3-with-hal-component",
-        "description": null,
-        "owner": "yfblock",
-        "stars": 0,
-        "forks": 0,
-        "size": 28409,
-        "created": "2024-03-27T13:26:45+00:00",
-        "updated": "2024-04-28T05:47:40+00:00",
-        "pushed": "2024-04-28T05:47:37+00:00",
-        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
-        "id": 778304792
-    },
-    {
         "repo": "k210_server",
         "description": null,
         "owner": "yzzlqyxc",
@@ -36894,19 +36855,6 @@
         "id": 745771617
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 1,
-        "size": 1059697,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-04-30T14:12:50+00:00",
-        "pushed": "2024-04-30T13:31:42+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "EmbededGarbageSorting",
         "description": null,
         "owner": "HuakeZhBo",
@@ -36959,19 +36907,6 @@
         "id": 490170526
     },
     {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 117,
-        "forks": 34,
-        "size": 661544,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-04-30T12:24:29+00:00",
-        "pushed": "2024-04-30T12:24:25+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
@@ -36998,16 +36933,81 @@
         "id": 685317589
     },
     {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 1,
+        "size": 1066414,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-05-01T20:34:06+00:00",
+        "pushed": "2024-05-01T20:34:02+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "rCore-Tutorial-v3-dev-PRA",
+        "description": null,
+        "owner": "chyyuu",
+        "stars": 2,
+        "forks": 1,
+        "size": 37746,
+        "created": "2023-01-29T03:59:17+00:00",
+        "updated": "2024-05-01T08:23:58+00:00",
+        "pushed": "2024-05-01T08:23:54+00:00",
+        "url": "https://github.com/chyyuu/rCore-Tutorial-v3-dev-PRA",
+        "id": 594607124
+    },
+    {
+        "repo": "rCore-Tutorial-v3-sched-algorithms",
+        "description": null,
+        "owner": "chyyuu",
+        "stars": 0,
+        "forks": 1,
+        "size": 36844,
+        "created": "2023-01-29T03:52:31+00:00",
+        "updated": "2024-05-01T08:23:14+00:00",
+        "pushed": "2024-05-01T08:23:11+00:00",
+        "url": "https://github.com/chyyuu/rCore-Tutorial-v3-sched-algorithms",
+        "id": 594606014
+    },
+    {
+        "repo": "rcore-tutorial-v3-with-hal-component",
+        "description": null,
+        "owner": "yfblock",
+        "stars": 0,
+        "forks": 1,
+        "size": 28429,
+        "created": "2024-03-27T13:26:45+00:00",
+        "updated": "2024-05-02T04:32:14+00:00",
+        "pushed": "2024-05-02T04:32:10+00:00",
+        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
+        "id": 778304792
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 1967,
+        "size": 1968,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-05-01T01:40:30+00:00",
-        "pushed": "2024-05-01T01:40:27+00:00",
+        "updated": "2024-05-02T01:34:39+00:00",
+        "pushed": "2024-05-02T01:34:36+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 117,
+        "forks": 34,
+        "size": 661548,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2024-05-01T12:25:55+00:00",
+        "pushed": "2024-05-01T12:25:51+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]
