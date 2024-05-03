@@ -4472,19 +4472,6 @@
         "id": 194942915
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 7,
-        "forks": 3,
-        "size": 794,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2023-11-02T17:22:02+00:00",
-        "pushed": "2024-01-24T09:53:05+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "ApproximateMult",
         "description": "ILP-based Synthesized Approximate Multiplier",
         "owner": "FCHXWH",
@@ -5148,19 +5135,6 @@
         "id": 360750527
     },
     {
-        "repo": "MyHDLWorkshop",
-        "description": null,
-        "owner": "safanazar",
-        "stars": 0,
-        "forks": 0,
-        "size": 14,
-        "created": "2024-04-09T15:26:10+00:00",
-        "updated": "2024-04-19T08:09:03+00:00",
-        "pushed": "2024-04-19T08:41:01+00:00",
-        "url": "https://github.com/safanazar/MyHDLWorkshop",
-        "id": 784301828
-    },
-    {
         "repo": "gubscruz",
         "description": null,
         "owner": "Gubscruz",
@@ -5172,19 +5146,6 @@
         "pushed": "2024-04-19T10:49:28+00:00",
         "url": "https://github.com/Gubscruz/gubscruz",
         "id": 646169567
-    },
-    {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 146,
-        "forks": 20,
-        "size": 2966,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-04-21T15:37:48+00:00",
-        "pushed": "2024-04-21T15:37:45+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
     },
     {
         "repo": "magia",
@@ -5257,11 +5218,50 @@
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 26,
-        "size": 41373,
+        "size": 41385,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-05-01T20:29:19+00:00",
-        "pushed": "2024-05-01T20:29:15+00:00",
+        "updated": "2024-05-02T13:23:25+00:00",
+        "pushed": "2024-05-02T13:23:21+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 8,
+        "forks": 3,
+        "size": 797,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2024-05-02T14:03:05+00:00",
+        "pushed": "2024-05-02T14:03:00+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 147,
+        "forks": 20,
+        "size": 5965,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-05-02T10:59:16+00:00",
+        "pushed": "2024-05-02T10:59:14+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "MyHDLWorkshop",
+        "description": null,
+        "owner": "safanazar",
+        "stars": 0,
+        "forks": 0,
+        "size": 15,
+        "created": "2024-04-09T15:26:10+00:00",
+        "updated": "2024-05-02T09:09:17+00:00",
+        "pushed": "2024-05-02T09:09:13+00:00",
+        "url": "https://github.com/safanazar/MyHDLWorkshop",
+        "id": 784301828
     }
 ]
