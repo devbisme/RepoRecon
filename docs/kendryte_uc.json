@@ -36582,19 +36582,6 @@
         "id": 360045993
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 7903,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-04-26T22:28:18+00:00",
-        "pushed": "2024-04-26T22:28:15+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "lemon-core",
         "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
         "owner": "13m0n4de",
@@ -36907,19 +36894,6 @@
         "id": 594606014
     },
     {
-        "repo": "rcore-tutorial-v3-with-hal-component",
-        "description": null,
-        "owner": "yfblock",
-        "stars": 0,
-        "forks": 1,
-        "size": 28429,
-        "created": "2024-03-27T13:26:45+00:00",
-        "updated": "2024-05-02T04:32:14+00:00",
-        "pushed": "2024-05-02T04:32:10+00:00",
-        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
-        "id": 778304792
-    },
-    {
         "repo": "rCore-Tutorial-Book-v3",
         "description": "A book about how to write  OS kernels in Rust easily.",
         "owner": "rcore-os",
@@ -36946,19 +36920,6 @@
         "id": 753959088
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 1,
-        "size": 1080788,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-05-04T01:21:33+00:00",
-        "pushed": "2024-05-04T01:21:29+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "marover",
         "description": "Maro small toy robot",
         "owner": "maroziza",
@@ -36972,15 +36933,54 @@
         "id": 706606213
     },
     {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 1,
+        "size": 1093935,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-05-05T01:56:17+00:00",
+        "pushed": "2024-05-05T01:56:13+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "rcore-tutorial-v3-with-hal-component",
+        "description": null,
+        "owner": "yfblock",
+        "stars": 0,
+        "forks": 3,
+        "size": 28547,
+        "created": "2024-03-27T13:26:45+00:00",
+        "updated": "2024-05-04T12:36:45+00:00",
+        "pushed": "2024-05-04T20:09:18+00:00",
+        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
+        "id": 778304792
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 7904,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-05-05T05:01:20+00:00",
+        "pushed": "2024-05-05T05:01:17+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5638,
+        "size": 5639,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-05-04T01:36:28+00:00",
-        "pushed": "2024-05-04T01:36:25+00:00",
+        "updated": "2024-05-05T01:42:10+00:00",
+        "pushed": "2024-05-05T01:42:07+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36990,10 +36990,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2235,
+        "size": 2369,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-05-04T01:33:13+00:00",
-        "pushed": "2024-05-04T01:33:10+00:00",
+        "updated": "2024-05-05T01:39:24+00:00",
+        "pushed": "2024-05-05T01:39:21+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37003,10 +37003,10 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 661550,
+        "size": 661992,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-05-03T12:23:08+00:00",
-        "pushed": "2024-05-03T12:23:05+00:00",
+        "updated": "2024-05-04T12:21:42+00:00",
+        "pushed": "2024-05-04T12:21:39+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

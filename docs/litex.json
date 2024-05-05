@@ -11336,19 +11336,6 @@
         "id": 188384736
     },
     {
-        "repo": "litepcie_driver_win",
-        "description": "Windows Driver for the LitePCIe LiteX core",
-        "owner": "NateMeyer",
-        "stars": 5,
-        "forks": 3,
-        "size": 92,
-        "created": "2023-12-17T15:19:19+00:00",
-        "updated": "2023-12-26T03:47:49+00:00",
-        "pushed": "2024-03-03T22:44:34+00:00",
-        "url": "https://github.com/NateMeyer/litepcie_driver_win",
-        "id": 732706164
-    },
-    {
         "repo": "Mark1626",
         "description": null,
         "owner": "Mark1626",
@@ -12285,19 +12272,6 @@
         "id": 190029235
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 0,
-        "forks": 3,
-        "size": 183,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-04-27T08:34:20+00:00",
-        "pushed": "2024-04-30T03:24:52+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "litespi-feedstock",
         "description": "A conda-smithy repository for litespi.",
         "owner": "conda-forge",
@@ -12402,19 +12376,6 @@
         "id": 650913012
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 55387,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-05-02T03:21:31+00:00",
-        "pushed": "2024-05-02T03:21:28+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12426,19 +12387,6 @@
         "pushed": "2024-05-02T18:05:21+00:00",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 30,
-        "forks": 12,
-        "size": 33765,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-05-02T15:51:29+00:00",
-        "pushed": "2024-05-03T03:34:51+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "pocket-riscv-rs",
@@ -12467,45 +12415,6 @@
         "id": 795212026
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2692,
-        "forks": 521,
-        "size": 16793,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-05-03T20:16:46+00:00",
-        "pushed": "2024-05-02T21:56:46+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 681,
-        "forks": 63,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-04T04:02:04+00:00",
-        "pushed": "2024-05-04T01:51:53+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1430,
-        "forks": 198,
-        "size": 203179,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-05-03T15:13:10+00:00",
-        "pushed": "2024-05-03T17:27:49+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -12530,19 +12439,6 @@
         "pushed": "2024-05-03T12:49:29+00:00",
         "url": "https://github.com/sharmmiiee/aesgcm_thesis",
         "id": 795005892
-    },
-    {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 2190,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-03T15:44:24+00:00",
-        "pushed": "2024-05-03T15:44:20+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
     },
     {
         "repo": "litex-apps",
@@ -12571,17 +12467,121 @@
         "id": 781236128
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2693,
+        "forks": 522,
+        "size": 16793,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-05-05T02:12:48+00:00",
+        "pushed": "2024-05-04T07:43:38+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 681,
+        "forks": 63,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-04T20:07:19+00:00",
+        "pushed": "2024-05-05T01:47:45+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1430,
+        "forks": 199,
+        "size": 203312,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-05-03T15:13:10+00:00",
+        "pushed": "2024-05-04T14:11:00+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 30,
+        "forks": 12,
+        "size": 34038,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-05-04T09:31:16+00:00",
+        "pushed": "2024-05-04T09:44:12+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "litepcie_driver_win",
+        "description": "Windows Driver for the LitePCIe LiteX core",
+        "owner": "NateMeyer",
+        "stars": 5,
+        "forks": 3,
+        "size": 92,
+        "created": "2023-12-17T15:19:19+00:00",
+        "updated": "2024-05-05T05:28:10+00:00",
+        "pushed": "2024-05-05T05:28:09+00:00",
+        "url": "https://github.com/NateMeyer/litepcie_driver_win",
+        "id": 732706164
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 0,
+        "forks": 4,
+        "size": 199,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-05-04T22:15:40+00:00",
+        "pushed": "2024-05-04T22:15:36+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 3573,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-05T00:31:30+00:00",
+        "pushed": "2024-05-05T00:31:27+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 962,
+        "size": 964,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-04T04:35:31+00:00",
-        "pushed": "2024-05-04T04:35:29+00:00",
+        "updated": "2024-05-05T04:35:46+00:00",
+        "pushed": "2024-05-05T04:35:44+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 56700,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-05-05T03:20:57+00:00",
+        "pushed": "2024-05-05T03:20:53+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     },
     {
         "repo": "awesome-stars",
@@ -12589,10 +12589,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 20281,
+        "size": 20752,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-05-04T00:57:11+00:00",
-        "pushed": "2024-05-04T00:57:08+00:00",
+        "updated": "2024-05-05T00:56:33+00:00",
+        "pushed": "2024-05-05T00:56:29+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     }
