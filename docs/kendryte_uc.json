@@ -36582,19 +36582,6 @@
         "id": 360045993
     },
     {
-        "repo": "lemon-core",
-        "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
-        "owner": "13m0n4de",
-        "stars": 1,
-        "forks": 0,
-        "size": 570,
-        "created": "2024-02-24T01:39:44+00:00",
-        "updated": "2024-04-26T17:52:03+00:00",
-        "pushed": "2024-04-26T17:58:33+00:00",
-        "url": "https://github.com/13m0n4de/lemon-core",
-        "id": 762534415
-    },
-    {
         "repo": "aCoral-riscv-cl",
         "description": "aCoral for k210",
         "owner": "spg-one",
@@ -36632,19 +36619,6 @@
         "pushed": "2024-04-27T14:50:44+00:00",
         "url": "https://github.com/codingonion/awesome-yolo-object-detection",
         "id": 461270746
-    },
-    {
-        "repo": "k210_server",
-        "description": null,
-        "owner": "yzzlqyxc",
-        "stars": 0,
-        "forks": 0,
-        "size": 292,
-        "created": "2024-02-22T16:24:24+00:00",
-        "updated": "2024-04-27T16:33:26+00:00",
-        "pushed": "2024-04-27T16:33:22+00:00",
-        "url": "https://github.com/yzzlqyxc/k210_server",
-        "id": 761864577
     },
     {
         "repo": "nncase",
@@ -36764,19 +36738,6 @@
         "id": 461751706
     },
     {
-        "repo": "pxt-koi2",
-        "description": null,
-        "owner": "KittenBot",
-        "stars": 0,
-        "forks": 1,
-        "size": 154,
-        "created": "2024-02-23T06:55:48+00:00",
-        "updated": "2024-04-30T04:11:51+00:00",
-        "pushed": "2024-04-30T04:11:49+00:00",
-        "url": "https://github.com/KittenBot/pxt-koi2",
-        "id": 762139588
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -36894,19 +36855,6 @@
         "id": 594606014
     },
     {
-        "repo": "rCore-Tutorial-Book-v3",
-        "description": "A book about how to write  OS kernels in Rust easily.",
-        "owner": "rcore-os",
-        "stars": 1110,
-        "forks": 194,
-        "size": 98151,
-        "created": "2020-10-29T14:01:52+00:00",
-        "updated": "2024-05-03T01:48:51+00:00",
-        "pushed": "2024-05-03T01:49:50+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
-        "id": 308346100
-    },
-    {
         "repo": "kidbright_MAI_server",
         "description": "Server for KidBright micro AI",
         "owner": "KidBrightAI",
@@ -36946,19 +36894,6 @@
         "id": 476865621
     },
     {
-        "repo": "rcore-tutorial-v3-with-hal-component",
-        "description": null,
-        "owner": "yfblock",
-        "stars": 0,
-        "forks": 3,
-        "size": 28547,
-        "created": "2024-03-27T13:26:45+00:00",
-        "updated": "2024-05-04T12:36:45+00:00",
-        "pushed": "2024-05-04T20:09:18+00:00",
-        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
-        "id": 778304792
-    },
-    {
         "repo": "vihal",
         "description": "Embedded Hardware Access Library",
         "owner": "nvitya",
@@ -36972,15 +36907,132 @@
         "id": 411406144
     },
     {
+        "repo": "rCore-Tutorial-Book-v3",
+        "description": "A book about how to write  OS kernels in Rust easily.",
+        "owner": "rcore-os",
+        "stars": 1113,
+        "forks": 195,
+        "size": 98151,
+        "created": "2020-10-29T14:01:52+00:00",
+        "updated": "2024-05-05T16:46:26+00:00",
+        "pushed": "2024-05-05T14:36:24+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
+        "id": 308346100
+    },
+    {
+        "repo": "rcore-tutorial-v3-with-hal-component",
+        "description": null,
+        "owner": "yfblock",
+        "stars": 0,
+        "forks": 3,
+        "size": 28560,
+        "created": "2024-03-27T13:26:45+00:00",
+        "updated": "2024-05-04T12:36:45+00:00",
+        "pushed": "2024-05-05T11:33:11+00:00",
+        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
+        "id": 778304792
+    },
+    {
+        "repo": "ict740_RubikSolver",
+        "description": "This repository is a part of ICT740: Hardware Designs for Artificial Intelligence and Internet of Things under the TAIST-Tokyo Tech scholarship program, academic year 2023.",
+        "owner": "Pongpon-LAPSATID",
+        "stars": 0,
+        "forks": 0,
+        "size": 10,
+        "created": "2024-05-05T13:45:09+00:00",
+        "updated": "2024-05-05T13:53:30+00:00",
+        "pushed": "2024-05-05T13:53:27+00:00",
+        "url": "https://github.com/Pongpon-LAPSATID/ict740_RubikSolver",
+        "id": 796282225
+    },
+    {
+        "repo": "lemon-core",
+        "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
+        "owner": "13m0n4de",
+        "stars": 1,
+        "forks": 0,
+        "size": 585,
+        "created": "2024-02-24T01:39:44+00:00",
+        "updated": "2024-05-06T05:10:18+00:00",
+        "pushed": "2024-05-06T05:11:57+00:00",
+        "url": "https://github.com/13m0n4de/lemon-core",
+        "id": 762534415
+    },
+    {
+        "repo": "MaixSensorToF",
+        "description": null,
+        "owner": "NirViaje",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2024-05-05T08:39:29+00:00",
+        "updated": "2024-05-05T08:40:32+00:00",
+        "pushed": "2024-05-05T08:40:28+00:00",
+        "url": "https://github.com/NirViaje/MaixSensorToF",
+        "id": 796200543
+    },
+    {
+        "repo": "k210_server",
+        "description": null,
+        "owner": "yzzlqyxc",
+        "stars": 0,
+        "forks": 0,
+        "size": 298,
+        "created": "2024-02-22T16:24:24+00:00",
+        "updated": "2024-05-05T11:25:21+00:00",
+        "pushed": "2024-05-05T11:25:18+00:00",
+        "url": "https://github.com/yzzlqyxc/k210_server",
+        "id": 761864577
+    },
+    {
+        "repo": "HCM_JV240304_BS_MAIXUANSANG",
+        "description": null,
+        "owner": "XuanSang123",
+        "stars": 0,
+        "forks": 0,
+        "size": 12548,
+        "created": "2024-05-06T02:12:58+00:00",
+        "updated": "2024-05-06T02:17:15+00:00",
+        "pushed": "2024-05-06T02:17:09+00:00",
+        "url": "https://github.com/XuanSang123/HCM_JV240304_BS_MAIXUANSANG",
+        "id": 796470300
+    },
+    {
+        "repo": "XuanSang123-HCM_JV240304_AD_MAIXUANSANG",
+        "description": null,
+        "owner": "XuanSang123",
+        "stars": 0,
+        "forks": 0,
+        "size": 51,
+        "created": "2024-05-06T02:10:10+00:00",
+        "updated": "2024-05-06T02:12:22+00:00",
+        "pushed": "2024-05-06T02:12:19+00:00",
+        "url": "https://github.com/XuanSang123/XuanSang123-HCM_JV240304_AD_MAIXUANSANG",
+        "id": 796469707
+    },
+    {
+        "repo": "pxt-koi2",
+        "description": null,
+        "owner": "KittenBot",
+        "stars": 0,
+        "forks": 1,
+        "size": 157,
+        "created": "2024-02-23T06:55:48+00:00",
+        "updated": "2024-05-06T06:04:49+00:00",
+        "pushed": "2024-05-06T06:04:46+00:00",
+        "url": "https://github.com/KittenBot/pxt-koi2",
+        "id": 762139588
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5639,
+        "size": 6095,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-05-05T01:42:10+00:00",
-        "pushed": "2024-05-05T01:42:07+00:00",
+        "updated": "2024-05-06T01:39:46+00:00",
+        "pushed": "2024-05-06T01:39:43+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -36990,10 +37042,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2369,
+        "size": 2370,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-05-05T01:39:24+00:00",
-        "pushed": "2024-05-05T01:39:21+00:00",
+        "updated": "2024-05-06T01:36:39+00:00",
+        "pushed": "2024-05-06T01:36:36+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37003,10 +37055,10 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 661992,
+        "size": 662434,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-05-04T12:21:42+00:00",
-        "pushed": "2024-05-04T12:21:39+00:00",
+        "updated": "2024-05-05T12:22:38+00:00",
+        "pushed": "2024-05-05T12:22:36+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
