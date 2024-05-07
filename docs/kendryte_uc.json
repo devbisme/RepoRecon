@@ -36621,19 +36621,6 @@
         "id": 461270746
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 695,
-        "forks": 181,
-        "size": 58269,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-04-28T15:50:36+00:00",
-        "pushed": "2024-04-30T06:00:40+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "support-matrix",
         "description": "RISCV Board and OS Supported Matrix",
         "owner": "ruyisdk",
@@ -36803,19 +36790,6 @@
         "id": 793965936
     },
     {
-        "repo": "k210_standalone_demo",
-        "description": null,
-        "owner": "jianqiwang12",
-        "stars": 0,
-        "forks": 0,
-        "size": 1037,
-        "created": "2022-05-09T07:02:08+00:00",
-        "updated": "2024-04-30T14:23:25+00:00",
-        "pushed": "2024-04-30T14:23:21+00:00",
-        "url": "https://github.com/jianqiwang12/k210_standalone_demo",
-        "id": 490170526
-    },
-    {
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
@@ -36907,19 +36881,6 @@
         "id": 411406144
     },
     {
-        "repo": "rCore-Tutorial-Book-v3",
-        "description": "A book about how to write  OS kernels in Rust easily.",
-        "owner": "rcore-os",
-        "stars": 1113,
-        "forks": 195,
-        "size": 98151,
-        "created": "2020-10-29T14:01:52+00:00",
-        "updated": "2024-05-05T16:46:26+00:00",
-        "pushed": "2024-05-05T14:36:24+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
-        "id": 308346100
-    },
-    {
         "repo": "rcore-tutorial-v3-with-hal-component",
         "description": null,
         "owner": "yfblock",
@@ -36972,19 +36933,6 @@
         "id": 796200543
     },
     {
-        "repo": "k210_server",
-        "description": null,
-        "owner": "yzzlqyxc",
-        "stars": 0,
-        "forks": 0,
-        "size": 298,
-        "created": "2024-02-22T16:24:24+00:00",
-        "updated": "2024-05-05T11:25:21+00:00",
-        "pushed": "2024-05-05T11:25:18+00:00",
-        "url": "https://github.com/yzzlqyxc/k210_server",
-        "id": 761864577
-    },
-    {
         "repo": "HCM_JV240304_BS_MAIXUANSANG",
         "description": null,
         "owner": "XuanSang123",
@@ -37011,19 +36959,6 @@
         "id": 796469707
     },
     {
-        "repo": "pxt-koi2",
-        "description": null,
-        "owner": "KittenBot",
-        "stars": 0,
-        "forks": 1,
-        "size": 157,
-        "created": "2024-02-23T06:55:48+00:00",
-        "updated": "2024-05-06T06:04:49+00:00",
-        "pushed": "2024-05-06T06:04:46+00:00",
-        "url": "https://github.com/KittenBot/pxt-koi2",
-        "id": 762139588
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
@@ -37037,15 +36972,93 @@
         "id": 685317589
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 696,
+        "forks": 181,
+        "size": 58197,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-05-07T04:21:11+00:00",
+        "pushed": "2024-05-07T04:21:08+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rCore-Tutorial-Book-v3",
+        "description": "A book about how to write  OS kernels in Rust easily.",
+        "owner": "rcore-os",
+        "stars": 1113,
+        "forks": 195,
+        "size": 98151,
+        "created": "2020-10-29T14:01:52+00:00",
+        "updated": "2024-05-05T16:46:26+00:00",
+        "pushed": "2024-05-06T12:58:12+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
+        "id": 308346100
+    },
+    {
+        "repo": "k210_standalone_demo",
+        "description": null,
+        "owner": "jianqiwang12",
+        "stars": 0,
+        "forks": 0,
+        "size": 1039,
+        "created": "2022-05-09T07:02:08+00:00",
+        "updated": "2024-05-06T09:12:38+00:00",
+        "pushed": "2024-05-06T09:12:34+00:00",
+        "url": "https://github.com/jianqiwang12/k210_standalone_demo",
+        "id": 490170526
+    },
+    {
+        "repo": "k210_server",
+        "description": null,
+        "owner": "yzzlqyxc",
+        "stars": 0,
+        "forks": 0,
+        "size": 301,
+        "created": "2024-02-22T16:24:24+00:00",
+        "updated": "2024-05-07T01:45:47+00:00",
+        "pushed": "2024-05-07T01:45:43+00:00",
+        "url": "https://github.com/yzzlqyxc/k210_server",
+        "id": 761864577
+    },
+    {
+        "repo": "faceId",
+        "description": null,
+        "owner": "cduyminh",
+        "stars": 0,
+        "forks": 0,
+        "size": 39631,
+        "created": "2024-05-06T10:49:53+00:00",
+        "updated": "2024-05-06T10:51:10+00:00",
+        "pushed": "2024-05-06T10:50:53+00:00",
+        "url": "https://github.com/cduyminh/faceId",
+        "id": 796639859
+    },
+    {
+        "repo": "pxt-koi2",
+        "description": "KOI2 is an AI camera module based on the K210 chip from KittenBot, which aims to combine offline AI technology and high-performance embedded systems to provide strong support for visual recognition and intelligent AI applications. It comes with hardware such as a screen, camera, speaker, microphone, and buttons.",
+        "owner": "KittenBot",
+        "stars": 0,
+        "forks": 1,
+        "size": 179,
+        "created": "2024-02-23T06:55:48+00:00",
+        "updated": "2024-05-07T06:07:03+00:00",
+        "pushed": "2024-05-07T06:07:00+00:00",
+        "url": "https://github.com/KittenBot/pxt-koi2",
+        "id": 762139588
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2370,
+        "size": 2504,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-05-06T01:36:39+00:00",
-        "pushed": "2024-05-06T01:36:36+00:00",
+        "updated": "2024-05-07T01:36:06+00:00",
+        "pushed": "2024-05-07T01:36:03+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37055,10 +37068,10 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 662434,
+        "size": 664766,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-05-05T12:22:38+00:00",
-        "pushed": "2024-05-05T12:22:36+00:00",
+        "updated": "2024-05-06T12:25:21+00:00",
+        "pushed": "2024-05-06T12:25:17+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

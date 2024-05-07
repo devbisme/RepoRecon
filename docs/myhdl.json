@@ -5174,32 +5174,6 @@
         "id": 605602834
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13408,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-04-29T15:35:47+00:00",
-        "pushed": "2024-04-29T15:35:44+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 107,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-05-01T03:20:20+00:00",
-        "pushed": "2024-05-01T06:04:03+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5252,16 +5226,42 @@
         "id": 784301828
     },
     {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13410,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-05-06T13:47:27+00:00",
+        "pushed": "2024-05-06T13:47:23+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
         "stars": 7,
         "forks": 1,
-        "size": 571,
+        "size": 565,
         "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-05-05T18:42:54+00:00",
-        "pushed": "2024-05-05T22:16:38+00:00",
+        "updated": "2024-05-06T19:59:36+00:00",
+        "pushed": "2024-05-06T20:03:54+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 161,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-05-06T18:58:38+00:00",
+        "pushed": "2024-05-06T19:47:52+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
     }
 ]
