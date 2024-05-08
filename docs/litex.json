@@ -1651,19 +1651,6 @@
         "id": 192771629
     },
     {
-        "repo": "orangecrab-hardware",
-        "description": "ECP5 breakout board in a feather physical format",
-        "owner": "orangecrab-fpga",
-        "stars": 432,
-        "forks": 50,
-        "size": 44515,
-        "created": "2019-06-26T05:37:32Z",
-        "updated": "2023-09-27T17:05:19Z",
-        "pushed": "2023-09-18T14:36:33Z",
-        "url": "https://github.com/orangecrab-fpga/orangecrab-hardware",
-        "id": 193836334
-    },
-    {
         "repo": "litex-chainloader",
         "description": "Litex-FPGA Linux Chainloader",
         "owner": "tweakoz",
@@ -11804,19 +11791,6 @@
         "id": 155514739
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 191,
-        "forks": 26,
-        "size": 19817,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-02-27T10:18:02+00:00",
-        "pushed": "2024-04-09T11:57:07+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "FazyRV",
         "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
         "owner": "meiniKi",
@@ -11919,19 +11893,6 @@
         "pushed": "2024-04-14T09:10:02+00:00",
         "url": "https://github.com/PsiAmp/fpga_test",
         "id": 783346076
-    },
-    {
-        "repo": "learn-fpga",
-        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
-        "owner": "BrunoLevy",
-        "stars": 2319,
-        "forks": 219,
-        "size": 239570,
-        "created": "2020-05-27T15:04:05+00:00",
-        "updated": "2024-04-16T05:46:56+00:00",
-        "pushed": "2024-04-16T01:14:59+00:00",
-        "url": "https://github.com/BrunoLevy/learn-fpga",
-        "id": 267350664
     },
     {
         "repo": "litex_reference_designs",
@@ -12363,19 +12324,6 @@
         "id": 795005892
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2024-05-04T05:35:08+00:00",
-        "pushed": "2024-05-04T05:35:04+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "ocfpga",
         "description": "OrangeCrab ECP5 fpga dev board experiments",
         "owner": "samblenny",
@@ -12441,45 +12389,6 @@
         "id": 784979558
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 21971,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-05-06T01:05:23+00:00",
-        "pushed": "2024-05-06T01:05:19+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2698,
-        "forks": 522,
-        "size": 16793,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-05-06T16:38:37+00:00",
-        "pushed": "2024-05-06T17:49:01+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 438,
-        "forks": 108,
-        "size": 1720,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-05-06T09:38:43+00:00",
-        "pushed": "2024-05-06T09:38:39+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -12491,19 +12400,6 @@
         "pushed": "2024-05-07T02:25:31+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 683,
-        "forks": 64,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-06T12:25:22+00:00",
-        "pushed": "2024-05-07T01:55:32+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -12532,19 +12428,6 @@
         "id": 468027705
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 38,
-        "forks": 15,
-        "size": 111705,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-05-07T02:18:08+00:00",
-        "pushed": "2024-05-07T05:43:20+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "CRUVI",
         "description": "CRUVI Standard Specifications",
         "owner": "micro-FPGA",
@@ -12558,32 +12441,6 @@
         "id": 196820841
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 4826,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-07T05:15:55+00:00",
-        "pushed": "2024-05-07T05:15:52+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 968,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-07T04:35:30+00:00",
-        "pushed": "2024-05-07T04:35:28+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
@@ -12595,5 +12452,161 @@
         "pushed": "2024-05-07T03:23:11+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2698,
+        "forks": 522,
+        "size": 16803,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-05-07T13:15:13+00:00",
+        "pushed": "2024-05-07T13:15:09+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "learn-fpga",
+        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
+        "owner": "BrunoLevy",
+        "stars": 2365,
+        "forks": 223,
+        "size": 239586,
+        "created": "2020-05-27T15:04:05+00:00",
+        "updated": "2024-05-08T03:18:35+00:00",
+        "pushed": "2024-05-07T08:55:09+00:00",
+        "url": "https://github.com/BrunoLevy/learn-fpga",
+        "id": 267350664
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 438,
+        "forks": 108,
+        "size": 1720,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-05-07T14:15:43+00:00",
+        "pushed": "2024-05-07T14:15:39+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 683,
+        "forks": 64,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-06T12:25:22+00:00",
+        "pushed": "2024-05-08T01:41:24+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "orangecrab-hardware",
+        "description": "ECP5 breakout board in a feather physical format",
+        "owner": "orangecrab-fpga",
+        "stars": 466,
+        "forks": 55,
+        "size": 44491,
+        "created": "2019-06-26T05:37:32+00:00",
+        "updated": "2024-05-07T22:35:08+00:00",
+        "pushed": "2024-05-07T22:35:04+00:00",
+        "url": "https://github.com/orangecrab-fpga/orangecrab-hardware",
+        "id": 193836334
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 38,
+        "forks": 15,
+        "size": 111722,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-05-08T00:12:46+00:00",
+        "pushed": "2024-05-08T00:12:43+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 192,
+        "forks": 26,
+        "size": 19831,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-05-07T15:40:52+00:00",
+        "pushed": "2024-05-07T15:40:48+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 4566,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-08T00:23:43+00:00",
+        "pushed": "2024-05-08T00:23:40+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 15,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2024-05-08T02:44:40+00:00",
+        "pushed": "2024-05-08T02:44:25+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
+        "repo": "18224-s24-tapeout",
+        "description": "Build infrastructure for class-wide tapeout for 18-224 Intro to Open Source Chip Design, Spring 2024",
+        "owner": "CMU-Open-Source-Chip-Design-Class",
+        "stars": 0,
+        "forks": 0,
+        "size": 134020,
+        "created": "2024-05-07T17:41:31+00:00",
+        "updated": "2024-05-07T20:42:47+00:00",
+        "pushed": "2024-05-07T20:42:43+00:00",
+        "url": "https://github.com/CMU-Open-Source-Chip-Design-Class/18224-s24-tapeout",
+        "id": 797370344
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1042,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-05-08T04:35:34+00:00",
+        "pushed": "2024-05-08T04:35:31+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 23189,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-05-08T01:05:40+00:00",
+        "pushed": "2024-05-08T01:05:36+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     }
 ]

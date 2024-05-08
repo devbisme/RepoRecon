@@ -5096,19 +5096,6 @@
         "id": 765108502
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 191,
-        "forks": 26,
-        "size": 19817,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-02-27T10:18:02+00:00",
-        "pushed": "2024-04-09T11:57:07+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -5252,15 +5239,28 @@
         "id": 730892692
     },
     {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 192,
+        "forks": 26,
+        "size": 19831,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-05-07T15:40:52+00:00",
+        "pushed": "2024-05-07T15:40:48+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
         "repo": "LLM-Hardware-Experiments",
         "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
         "owner": "parker-research",
         "stars": 0,
         "forks": 0,
-        "size": 161,
+        "size": 180,
         "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-05-06T18:58:38+00:00",
-        "pushed": "2024-05-06T19:47:52+00:00",
+        "updated": "2024-05-08T05:43:13+00:00",
+        "pushed": "2024-05-08T05:43:09+00:00",
         "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
         "id": 785859807
     }
