@@ -16406,19 +16406,6 @@
         "id": 394730047
     },
     {
-        "repo": "michaelsheng15",
-        "description": "Personal Github dashboard repository",
-        "owner": "michaelsheng15",
-        "stars": 0,
-        "forks": 0,
-        "size": 16,
-        "created": "2021-08-10T23:36:28Z",
-        "updated": "2022-01-09T04:35:28Z",
-        "pushed": "2023-09-08T00:26:12Z",
-        "url": "https://github.com/michaelsheng15/michaelsheng15",
-        "id": 394806549
-    },
-    {
         "repo": "PoinTr",
         "description": "[ICCV 2021 Oral] PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers",
         "owner": "yuxumin",
@@ -26336,19 +26323,6 @@
         "pushed": "2022-10-14T22:12:17Z",
         "url": "https://github.com/fiumad/efabless-test",
         "id": 516842842
-    },
-    {
-        "repo": "mpw7",
-        "description": "Efabless mpw7 submission",
-        "owner": "christoph-weiser",
-        "stars": 9,
-        "forks": 0,
-        "size": 19163,
-        "created": "2022-07-22T19:23:33Z",
-        "updated": "2022-12-23T15:22:10Z",
-        "pushed": "2022-11-24T07:04:04Z",
-        "url": "https://github.com/christoph-weiser/mpw7",
-        "id": 516864272
     },
     {
         "repo": "caravel_chip",
@@ -65663,19 +65637,6 @@
         "id": 775066676
     },
     {
-        "repo": "fsic_fpga",
-        "description": null,
-        "owner": "michael61112",
-        "stars": 0,
-        "forks": 0,
-        "size": 35697,
-        "created": "2024-03-08T15:20:33+00:00",
-        "updated": "2024-03-08T15:23:40+00:00",
-        "pushed": "2024-03-22T15:34:10+00:00",
-        "url": "https://github.com/michael61112/fsic_fpga",
-        "id": 769213926
-    },
-    {
         "repo": "cmosVLSI",
         "description": "using open source tools to make a cmos. ",
         "owner": "manavshah-28",
@@ -68809,19 +68770,6 @@
         "id": 785019343
     },
     {
-        "repo": "open_pdks",
-        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
-        "owner": "RTimothyEdwards",
-        "stars": 245,
-        "forks": 83,
-        "size": 17714,
-        "created": "2020-07-05T19:46:38+00:00",
-        "updated": "2024-04-12T12:11:56+00:00",
-        "pushed": "2024-04-13T07:00:06+00:00",
-        "url": "https://github.com/RTimothyEdwards/open_pdks",
-        "id": 277372282
-    },
-    {
         "repo": "vsdiat-report",
         "description": null,
         "owner": "ngs-chipdesign",
@@ -70172,19 +70120,6 @@
         "pushed": "2024-04-17T17:11:05+00:00",
         "url": "https://github.com/stevehoover/tt-fpga-hdl-demo",
         "id": 754838184
-    },
-    {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 51,
-        "forks": 9,
-        "size": 1504,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2024-04-16T11:42:45+00:00",
-        "pushed": "2024-04-19T00:08:09+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
     },
     {
         "repo": "fsic_asic",
@@ -72553,19 +72488,6 @@
         "id": 791485650
     },
     {
-        "repo": "BEV-Perception",
-        "description": "Bird's Eye View Perception",
-        "owner": "vasgaowei",
-        "stars": 253,
-        "forks": 16,
-        "size": 496,
-        "created": "2023-05-09T05:26:33+00:00",
-        "updated": "2024-05-01T05:14:20+00:00",
-        "pushed": "2024-04-30T08:13:30+00:00",
-        "url": "https://github.com/vasgaowei/BEV-Perception",
-        "id": 638110012
-    },
-    {
         "repo": "tinytapeout_06_chatgpt_rsnn",
         "description": null,
         "owner": "Andreou-JHULabOrg",
@@ -72670,19 +72592,6 @@
         "id": 301889741
     },
     {
-        "repo": "tt07-verilog-template",
-        "description": "Submission template for Tiny Tapeout 7 - Verilog HDL Projects",
-        "owner": "TinyTapeout",
-        "stars": 10,
-        "forks": 9,
-        "size": 17,
-        "created": "2024-04-19T17:16:02+00:00",
-        "updated": "2024-05-02T08:41:56+00:00",
-        "pushed": "2024-05-02T08:41:53+00:00",
-        "url": "https://github.com/TinyTapeout/tt07-verilog-template",
-        "id": 789087983
-    },
-    {
         "repo": "tt-gds-action",
         "description": "Tiny Tapeout GDS Action (using OpenLane)",
         "owner": "TinyTapeout",
@@ -72694,19 +72603,6 @@
         "pushed": "2024-05-02T08:35:12+00:00",
         "url": "https://github.com/TinyTapeout/tt-gds-action",
         "id": 653783344
-    },
-    {
-        "repo": "EF_UART",
-        "description": "Universal Asynchronous Receiver/Transmitter (UART) with FIFOs Soft IP",
-        "owner": "efabless",
-        "stars": 3,
-        "forks": 2,
-        "size": 1075,
-        "created": "2023-04-23T18:59:59+00:00",
-        "updated": "2024-05-02T13:03:35+00:00",
-        "pushed": "2024-05-02T13:03:37+00:00",
-        "url": "https://github.com/efabless/EF_UART",
-        "id": 631674000
     },
     {
         "repo": "asoc_final_project",
@@ -72863,19 +72759,6 @@
         "pushed": "2024-05-02T17:40:29+00:00",
         "url": "https://github.com/michelkornegay/tt06-verilog-temp",
         "id": 795159245
-    },
-    {
-        "repo": "tt07-vga-clock",
-        "description": null,
-        "owner": "mattvenn",
-        "stars": 0,
-        "forks": 0,
-        "size": 17,
-        "created": "2024-05-02T09:07:28+00:00",
-        "updated": "2024-05-02T09:42:41+00:00",
-        "pushed": "2024-05-02T09:42:37+00:00",
-        "url": "https://github.com/mattvenn/tt07-vga-clock",
-        "id": 794939339
     },
     {
         "repo": "BandGapReference_Design_using_Sky130",
@@ -73164,19 +73047,6 @@
         "id": 485474441
     },
     {
-        "repo": "MiWu",
-        "description": "\u7b2c\u4e09\u65b9\u624b\u8868\u7248\u7c73\u5bb6\u300c\u7c73\u5c4b\u300d",
-        "owner": "sky130",
-        "stars": 83,
-        "forks": 18,
-        "size": 1163,
-        "created": "2023-08-18T06:55:19+00:00",
-        "updated": "2024-05-05T02:02:10+00:00",
-        "pushed": "2024-05-05T02:02:05+00:00",
-        "url": "https://github.com/sky130/MiWu",
-        "id": 680024437
-    },
-    {
         "repo": "sky130_rodovalho_ip__lpopamp",
         "description": null,
         "owner": "lhrodovalho",
@@ -73201,19 +73071,6 @@
         "pushed": "2024-05-04T17:42:54+00:00",
         "url": "https://github.com/TinyTapeout/analog-virtualbox-vm-sky130a",
         "id": 759806802
-    },
-    {
-        "repo": "megaboom",
-        "description": null,
-        "owner": "The-OpenROAD-Project",
-        "stars": 11,
-        "forks": 3,
-        "size": 5288,
-        "created": "2023-12-13T21:04:40+00:00",
-        "updated": "2024-05-04T14:38:59+00:00",
-        "pushed": "2024-05-04T14:38:56+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/megaboom",
-        "id": 731332420
     },
     {
         "repo": "sky130_od_ip__tempsensor",
@@ -73450,19 +73307,6 @@
         "id": 714363595
     },
     {
-        "repo": "sky130_ac3e_ip__temp_sdc",
-        "description": "Time-based temperature sensor proposal for Chipalooza 2024",
-        "owner": "JorgeMarinN",
-        "stars": 0,
-        "forks": 0,
-        "size": 3728,
-        "created": "2024-03-04T19:54:01+00:00",
-        "updated": "2024-05-06T03:24:24+00:00",
-        "pushed": "2024-05-06T03:24:20+00:00",
-        "url": "https://github.com/JorgeMarinN/sky130_ac3e_ip__temp_sdc",
-        "id": 767154591
-    },
-    {
         "repo": "RISCV-Hardware_Design_Program_by_VSD",
         "description": "RISC-V architecture based Hardware Design Program is a taught course by VSD team",
         "owner": "pavankumarka",
@@ -73515,32 +73359,6 @@
         "id": 757159345
     },
     {
-        "repo": "chipcraft---mest-course",
-        "description": null,
-        "owner": "efabless",
-        "stars": 23,
-        "forks": 5,
-        "size": 92,
-        "created": "2024-02-01T21:56:07+00:00",
-        "updated": "2024-05-06T21:05:16+00:00",
-        "pushed": "2024-05-06T21:05:13+00:00",
-        "url": "https://github.com/efabless/chipcraft---mest-course",
-        "id": 751575131
-    },
-    {
-        "repo": "tt-support-tools",
-        "description": "tools used by project repos to test configuration, generate OpenLane run summaries and documentation",
-        "owner": "TinyTapeout",
-        "stars": 10,
-        "forks": 10,
-        "size": 4397,
-        "created": "2023-02-21T12:43:26+00:00",
-        "updated": "2024-05-07T06:01:19+00:00",
-        "pushed": "2024-05-07T06:01:15+00:00",
-        "url": "https://github.com/TinyTapeout/tt-support-tools",
-        "id": 604615670
-    },
-    {
         "repo": "piel",
         "description": "Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.",
         "owner": "daquintero",
@@ -73565,19 +73383,6 @@
         "pushed": "2024-05-07T04:57:13+00:00",
         "url": "https://github.com/katapavanteja/nasscom-vsd-soc-design-program",
         "id": 791649764
-    },
-    {
-        "repo": "physical_design",
-        "description": null,
-        "owner": "ASIFMUHAMMED756",
-        "stars": 1,
-        "forks": 0,
-        "size": 131,
-        "created": "2024-04-26T06:46:18+00:00",
-        "updated": "2024-05-06T10:43:11+00:00",
-        "pushed": "2024-05-06T10:43:08+00:00",
-        "url": "https://github.com/ASIFMUHAMMED756/physical_design",
-        "id": 792188017
     },
     {
         "repo": "Digital-SoC-Design-and-Planning",
@@ -73617,19 +73422,6 @@
         "pushed": "2024-05-06T21:32:22+00:00",
         "url": "https://github.com/vinay-rn31/NASSCOM_VSD_SoC_Design_Program",
         "id": 796341871
-    },
-    {
-        "repo": "RemyaJayachandran",
-        "description": "VSD_ISA_2024",
-        "owner": "RVihaan",
-        "stars": 0,
-        "forks": 0,
-        "size": 3040,
-        "created": "2024-04-25T03:34:26+00:00",
-        "updated": "2024-05-07T04:18:05+00:00",
-        "pushed": "2024-05-07T04:18:02+00:00",
-        "url": "https://github.com/RVihaan/RemyaJayachandran",
-        "id": 791616546
     },
     {
         "repo": "Digital-VLSI-Soc-Design-and-Planning",
@@ -73697,19 +73489,6 @@
         "id": 796687011
     },
     {
-        "repo": "caravan",
-        "description": "Proyecto Final",
-        "owner": "Jonathan684",
-        "stars": 0,
-        "forks": 0,
-        "size": 474794,
-        "created": "2024-04-01T19:24:53+00:00",
-        "updated": "2024-05-06T09:48:21+00:00",
-        "pushed": "2024-05-06T09:48:17+00:00",
-        "url": "https://github.com/Jonathan684/caravan",
-        "id": 780584488
-    },
-    {
         "repo": "SNN_IPN",
         "description": "Desarrollo de la biblioteca de celdas est\u00e1ndar para hardware neuromorfico, del laboratorio de MICROSE-CIC-IPN",
         "owner": "AlejandroJuarezLora",
@@ -73773,19 +73552,6 @@
         "pushed": "2024-05-06T19:39:29+00:00",
         "url": "https://github.com/jeffdi/tt-fpga-pmod",
         "id": 796877938
-    },
-    {
-        "repo": "tt07-beneater8bit",
-        "description": "ASIC recreation of the 8 bit breadboard computer developed in Ben Eater's Youtube series",
-        "owner": "jasonkaufmann",
-        "stars": 1,
-        "forks": 0,
-        "size": 79,
-        "created": "2024-04-25T22:30:43+00:00",
-        "updated": "2024-05-07T01:18:47+00:00",
-        "pushed": "2024-05-07T01:18:44+00:00",
-        "url": "https://github.com/jasonkaufmann/tt07-beneater8bit",
-        "id": 792057703
     },
     {
         "repo": "tt-fpga-hdl-demo",
@@ -73866,32 +73632,6 @@
         "id": 218110222
     },
     {
-        "repo": "OpenLane",
-        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1192,
-        "forks": 353,
-        "size": 873673,
-        "created": "2020-07-20T19:35:02+00:00",
-        "updated": "2024-05-07T14:09:56+00:00",
-        "pushed": "2024-05-07T12:22:53+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
-        "id": 281208911
-    },
-    {
-        "repo": "volare",
-        "description": "Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs",
-        "owner": "efabless",
-        "stars": 53,
-        "forks": 8,
-        "size": 177,
-        "created": "2022-03-18T09:04:38+00:00",
-        "updated": "2024-05-07T10:40:40+00:00",
-        "pushed": "2024-05-07T10:41:42+00:00",
-        "url": "https://github.com/efabless/volare",
-        "id": 471300183
-    },
-    {
         "repo": "openlane2",
         "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
         "owner": "efabless",
@@ -73918,19 +73658,6 @@
         "id": 351150248
     },
     {
-        "repo": "z80-open-silicon",
-        "description": "Z80 open-source silicon clone. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.",
-        "owner": "rejunity",
-        "stars": 485,
-        "forks": 18,
-        "size": 43976,
-        "created": "2024-04-21T09:25:32+00:00",
-        "updated": "2024-05-08T01:38:54+00:00",
-        "pushed": "2024-05-07T16:01:29+00:00",
-        "url": "https://github.com/rejunity/z80-open-silicon",
-        "id": 789689511
-    },
-    {
         "repo": "bazel_rules_hdl",
         "description": "Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel (https://bazel.build)",
         "owner": "hdl",
@@ -73942,32 +73669,6 @@
         "pushed": "2024-05-07T17:19:14+00:00",
         "url": "https://github.com/hdl/bazel_rules_hdl",
         "id": 318892320
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 774,
-        "forks": 82,
-        "size": 346733,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-05-07T23:10:57+00:00",
-        "pushed": "2024-05-08T00:07:44+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
-        "repo": "chipalooza_projects_1",
-        "description": "Chipalooza challenge first test chip of projects",
-        "owner": "RTimothyEdwards",
-        "stars": 5,
-        "forks": 0,
-        "size": 248929,
-        "created": "2024-04-25T02:40:27+00:00",
-        "updated": "2024-05-07T18:04:41+00:00",
-        "pushed": "2024-05-07T18:04:39+00:00",
-        "url": "https://github.com/RTimothyEdwards/chipalooza_projects_1",
-        "id": 791601839
     },
     {
         "repo": "RISCV-training_notes_PratheekMichael",
@@ -73996,19 +73697,6 @@
         "id": 797370344
     },
     {
-        "repo": "bandgaps",
-        "description": "Bandgap reference Designs",
-        "owner": "cascode-labs",
-        "stars": 3,
-        "forks": 0,
-        "size": 54,
-        "created": "2023-04-21T02:51:15+00:00",
-        "updated": "2024-05-07T15:02:45+00:00",
-        "pushed": "2024-05-07T15:02:41+00:00",
-        "url": "https://github.com/cascode-labs/bandgaps",
-        "id": 630729587
-    },
-    {
         "repo": "IPM",
         "description": "Open-source IPs Package Manager (IPM)",
         "owner": "efabless",
@@ -74020,19 +73708,6 @@
         "pushed": "2024-05-08T02:07:00+00:00",
         "url": "https://github.com/efabless/IPM",
         "id": 534569093
-    },
-    {
-        "repo": "VSD-SoC-Design-Workshop",
-        "description": null,
-        "owner": "vyshak-git",
-        "stars": 0,
-        "forks": 0,
-        "size": 131,
-        "created": "2024-04-25T14:49:39+00:00",
-        "updated": "2024-05-07T18:28:59+00:00",
-        "pushed": "2024-05-07T18:28:56+00:00",
-        "url": "https://github.com/vyshak-git/VSD-SoC-Design-Workshop",
-        "id": 791880320
     },
     {
         "repo": "MOSFET_model",
@@ -74059,19 +73734,6 @@
         "pushed": "2024-05-07T17:39:30+00:00",
         "url": "https://github.com/Birendar-kumar-singh/NASSCOM-SOC-VLSI-DESIGN-AND_FLOW",
         "id": 792376674
-    },
-    {
-        "repo": "vsd-hdp",
-        "description": null,
-        "owner": "arunkpv",
-        "stars": 2,
-        "forks": 1,
-        "size": 35786,
-        "created": "2023-10-21T19:59:52+00:00",
-        "updated": "2024-05-07T22:52:26+00:00",
-        "pushed": "2024-05-07T22:52:22+00:00",
-        "url": "https://github.com/arunkpv/vsd-hdp",
-        "id": 708193483
     },
     {
         "repo": "US_Japan_Semiconductor_Workshop",
@@ -74124,19 +73786,6 @@
         "pushed": "2024-05-07T16:31:34+00:00",
         "url": "https://github.com/Pisinha26/NASSCOM-VSD-SOC-DESIGN",
         "id": 771630631
-    },
-    {
-        "repo": "VSD-SOC_DESIGN_AND_Planning",
-        "description": null,
-        "owner": "Komal-design-vlsi",
-        "stars": 0,
-        "forks": 0,
-        "size": 26348,
-        "created": "2024-04-25T23:25:50+00:00",
-        "updated": "2024-05-07T15:56:53+00:00",
-        "pushed": "2024-05-07T15:56:50+00:00",
-        "url": "https://github.com/Komal-design-vlsi/VSD-SOC_DESIGN_AND_Planning",
-        "id": 792072111
     },
     {
         "repo": "-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING",
@@ -74217,32 +73866,6 @@
         "id": 797480173
     },
     {
-        "repo": "Suiteki-Pro",
-        "description": null,
-        "owner": "sky130",
-        "stars": 1,
-        "forks": 2,
-        "size": 348,
-        "created": "2024-04-25T11:35:40+00:00",
-        "updated": "2024-05-07T10:27:46+00:00",
-        "pushed": "2024-05-07T10:27:43+00:00",
-        "url": "https://github.com/sky130/Suiteki-Pro",
-        "id": 791792851
-    },
-    {
-        "repo": "BusWrap",
-        "description": null,
-        "owner": "efabless",
-        "stars": 2,
-        "forks": 0,
-        "size": 107,
-        "created": "2024-04-07T11:58:36+00:00",
-        "updated": "2024-05-07T13:31:37+00:00",
-        "pushed": "2024-05-07T13:31:34+00:00",
-        "url": "https://github.com/efabless/BusWrap",
-        "id": 783262509
-    },
-    {
         "repo": "vsd-soc-design",
         "description": null,
         "owner": "SreenivasanJJ",
@@ -74282,19 +73905,6 @@
         "id": 791829931
     },
     {
-        "repo": "EF_PSRAM_CTRL_V2",
-        "description": null,
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 42,
-        "created": "2023-09-02T06:06:18+00:00",
-        "updated": "2024-05-07T11:56:28+00:00",
-        "pushed": "2024-05-07T11:56:24+00:00",
-        "url": "https://github.com/efabless/EF_PSRAM_CTRL_V2",
-        "id": 686239063
-    },
-    {
         "repo": "EF_I2C",
         "description": null,
         "owner": "efabless",
@@ -74319,19 +73929,6 @@
         "pushed": "2024-05-07T16:43:49+00:00",
         "url": "https://github.com/Kraj-5/nasscom-vsd-soc-design-program-",
         "id": 792844274
-    },
-    {
-        "repo": "EF_I2S",
-        "description": "Two-wire I2S synchronous serial interface, compatible with I2S specification.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 287,
-        "created": "2023-11-05T16:20:02+00:00",
-        "updated": "2024-05-07T09:48:02+00:00",
-        "pushed": "2024-05-07T14:17:00+00:00",
-        "url": "https://github.com/efabless/EF_I2S",
-        "id": 714701311
     },
     {
         "repo": "EF_GPIO8",
@@ -74410,19 +74007,6 @@
         "pushed": "2024-05-07T06:28:09+00:00",
         "url": "https://github.com/ccattuto/tt07-conway-term",
         "id": 792372894
-    },
-    {
-        "repo": "tt07_spi_wrapper",
-        "description": "SPI Wrapper",
-        "owner": "calonso88",
-        "stars": 0,
-        "forks": 0,
-        "size": 126,
-        "created": "2024-05-01T19:54:45+00:00",
-        "updated": "2024-05-07T21:52:04+00:00",
-        "pushed": "2024-05-07T21:52:00+00:00",
-        "url": "https://github.com/calonso88/tt07_spi_wrapper",
-        "id": 794715267
     },
     {
         "repo": "tt07-serial-charmatrix",
@@ -74568,32 +74152,6 @@
         "id": 787464344
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1042,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-08T04:35:34+00:00",
-        "pushed": "2024-05-08T04:35:31+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 6550,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-05-08T01:18:30+00:00",
-        "pushed": "2024-05-08T01:18:27+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -74607,15 +74165,548 @@
         "id": 330793471
     },
     {
+        "repo": "open_pdks",
+        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
+        "owner": "RTimothyEdwards",
+        "stars": 249,
+        "forks": 84,
+        "size": 17717,
+        "created": "2020-07-05T19:46:38+00:00",
+        "updated": "2024-05-08T07:00:35+00:00",
+        "pushed": "2024-05-08T09:13:30+00:00",
+        "url": "https://github.com/RTimothyEdwards/open_pdks",
+        "id": 277372282
+    },
+    {
+        "repo": "OpenLane",
+        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1194,
+        "forks": 353,
+        "size": 873629,
+        "created": "2020-07-20T19:35:02+00:00",
+        "updated": "2024-05-08T19:27:12+00:00",
+        "pushed": "2024-05-09T00:34:37+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
+        "id": 281208911
+    },
+    {
+        "repo": "volare",
+        "description": "Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs",
+        "owner": "efabless",
+        "stars": 53,
+        "forks": 8,
+        "size": 182,
+        "created": "2022-03-18T09:04:38+00:00",
+        "updated": "2024-05-08T11:25:53+00:00",
+        "pushed": "2024-05-08T11:26:52+00:00",
+        "url": "https://github.com/efabless/volare",
+        "id": 471300183
+    },
+    {
+        "repo": "chipcraft---mest-course",
+        "description": null,
+        "owner": "efabless",
+        "stars": 25,
+        "forks": 5,
+        "size": 102,
+        "created": "2024-02-01T21:56:07+00:00",
+        "updated": "2024-05-08T20:42:52+00:00",
+        "pushed": "2024-05-08T20:42:48+00:00",
+        "url": "https://github.com/efabless/chipcraft---mest-course",
+        "id": 751575131
+    },
+    {
+        "repo": "z80-open-silicon",
+        "description": "Z80 open-source silicon clone. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.",
+        "owner": "rejunity",
+        "stars": 492,
+        "forks": 18,
+        "size": 43976,
+        "created": "2024-04-21T09:25:32+00:00",
+        "updated": "2024-05-09T05:56:37+00:00",
+        "pushed": "2024-05-09T05:56:33+00:00",
+        "url": "https://github.com/rejunity/z80-open-silicon",
+        "id": 789689511
+    },
+    {
+        "repo": "MiWu",
+        "description": "\u7b2c\u4e09\u65b9\u624b\u8868\u7248\u7c73\u5bb6\u300c\u7c73\u5c4b\u300d",
+        "owner": "sky130",
+        "stars": 84,
+        "forks": 18,
+        "size": 1189,
+        "created": "2023-08-18T06:55:19+00:00",
+        "updated": "2024-05-08T10:27:49+00:00",
+        "pushed": "2024-05-08T10:27:46+00:00",
+        "url": "https://github.com/sky130/MiWu",
+        "id": 680024437
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 774,
+        "forks": 82,
+        "size": 346758,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-05-08T18:46:39+00:00",
+        "pushed": "2024-05-09T00:08:42+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "tt07-verilog-template",
+        "description": "Submission template for Tiny Tapeout 7 - Verilog HDL Projects",
+        "owner": "TinyTapeout",
+        "stars": 12,
+        "forks": 40,
+        "size": 17,
+        "created": "2024-04-19T17:16:02+00:00",
+        "updated": "2024-05-04T16:02:20+00:00",
+        "pushed": "2024-05-08T14:41:17+00:00",
+        "url": "https://github.com/TinyTapeout/tt07-verilog-template",
+        "id": 789087983
+    },
+    {
+        "repo": "tt-support-tools",
+        "description": "tools used by project repos to test configuration, generate OpenLane run summaries and documentation",
+        "owner": "TinyTapeout",
+        "stars": 10,
+        "forks": 10,
+        "size": 4415,
+        "created": "2023-02-21T12:43:26+00:00",
+        "updated": "2024-05-08T17:08:15+00:00",
+        "pushed": "2024-05-08T17:08:10+00:00",
+        "url": "https://github.com/TinyTapeout/tt-support-tools",
+        "id": 604615670
+    },
+    {
+        "repo": "mpw7",
+        "description": "Efabless mpw7 submission",
+        "owner": "christoph-weiser",
+        "stars": 10,
+        "forks": 1,
+        "size": 19163,
+        "created": "2022-07-22T19:23:33+00:00",
+        "updated": "2024-05-08T10:45:38+00:00",
+        "pushed": "2024-05-06T16:43:05+00:00",
+        "url": "https://github.com/christoph-weiser/mpw7",
+        "id": 516864272
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 53,
+        "forks": 9,
+        "size": 1504,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2024-05-08T12:12:20+00:00",
+        "pushed": "2024-05-06T07:07:24+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
+    },
+    {
+        "repo": "chipalooza_projects_1",
+        "description": "Chipalooza challenge first test chip of projects",
+        "owner": "RTimothyEdwards",
+        "stars": 5,
+        "forks": 0,
+        "size": 248945,
+        "created": "2024-04-25T02:40:27+00:00",
+        "updated": "2024-05-08T20:49:10+00:00",
+        "pushed": "2024-05-08T20:49:07+00:00",
+        "url": "https://github.com/RTimothyEdwards/chipalooza_projects_1",
+        "id": 791601839
+    },
+    {
+        "repo": "bandgaps",
+        "description": "Bandgap reference Designs",
+        "owner": "cascode-labs",
+        "stars": 3,
+        "forks": 0,
+        "size": 64,
+        "created": "2023-04-21T02:51:15+00:00",
+        "updated": "2024-05-08T17:30:12+00:00",
+        "pushed": "2024-05-08T17:30:08+00:00",
+        "url": "https://github.com/cascode-labs/bandgaps",
+        "id": 630729587
+    },
+    {
+        "repo": "physical_design",
+        "description": null,
+        "owner": "ASIFMUHAMMED756",
+        "stars": 1,
+        "forks": 0,
+        "size": 144,
+        "created": "2024-04-26T06:46:18+00:00",
+        "updated": "2024-05-08T09:08:07+00:00",
+        "pushed": "2024-05-08T09:08:04+00:00",
+        "url": "https://github.com/ASIFMUHAMMED756/physical_design",
+        "id": 792188017
+    },
+    {
+        "repo": "VSD-SoC-Design-Workshop",
+        "description": null,
+        "owner": "vyshak-git",
+        "stars": 0,
+        "forks": 0,
+        "size": 143,
+        "created": "2024-04-25T14:49:39+00:00",
+        "updated": "2024-05-08T08:40:18+00:00",
+        "pushed": "2024-05-08T08:40:14+00:00",
+        "url": "https://github.com/vyshak-git/VSD-SoC-Design-Workshop",
+        "id": 791880320
+    },
+    {
+        "repo": "vsd-hdp",
+        "description": null,
+        "owner": "arunkpv",
+        "stars": 2,
+        "forks": 1,
+        "size": 35829,
+        "created": "2023-10-21T19:59:52+00:00",
+        "updated": "2024-05-08T18:35:15+00:00",
+        "pushed": "2024-05-08T18:35:12+00:00",
+        "url": "https://github.com/arunkpv/vsd-hdp",
+        "id": 708193483
+    },
+    {
+        "repo": "fsic_fpga",
+        "description": null,
+        "owner": "michael61112",
+        "stars": 0,
+        "forks": 0,
+        "size": 35713,
+        "created": "2024-03-08T15:20:33+00:00",
+        "updated": "2024-05-08T14:18:57+00:00",
+        "pushed": "2024-05-08T14:18:53+00:00",
+        "url": "https://github.com/michael61112/fsic_fpga",
+        "id": 769213926
+    },
+    {
+        "repo": "EF_UART",
+        "description": "Universal Asynchronous Receiver/Transmitter (UART) with FIFOs Soft IP",
+        "owner": "efabless",
+        "stars": 3,
+        "forks": 2,
+        "size": 1086,
+        "created": "2023-04-23T18:59:59+00:00",
+        "updated": "2024-05-08T07:20:21+00:00",
+        "pushed": "2024-05-08T07:20:17+00:00",
+        "url": "https://github.com/efabless/EF_UART",
+        "id": 631674000
+    },
+    {
+        "repo": "RemyaJayachandran",
+        "description": "VSD_ISA_2024",
+        "owner": "RVihaan",
+        "stars": 0,
+        "forks": 0,
+        "size": 3091,
+        "created": "2024-04-25T03:34:26+00:00",
+        "updated": "2024-05-09T04:03:12+00:00",
+        "pushed": "2024-05-09T04:03:09+00:00",
+        "url": "https://github.com/RVihaan/RemyaJayachandran",
+        "id": 791616546
+    },
+    {
+        "repo": "DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING",
+        "description": null,
+        "owner": "navi2311",
+        "stars": 0,
+        "forks": 0,
+        "size": 79,
+        "created": "2024-05-08T18:41:33+00:00",
+        "updated": "2024-05-09T03:01:11+00:00",
+        "pushed": "2024-05-09T03:01:09+00:00",
+        "url": "https://github.com/navi2311/DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING",
+        "id": 797925248
+    },
+    {
+        "repo": "VSD-SOC_DESIGN_AND_Planning",
+        "description": null,
+        "owner": "Komal-design-vlsi",
+        "stars": 0,
+        "forks": 0,
+        "size": 26359,
+        "created": "2024-04-25T23:25:50+00:00",
+        "updated": "2024-05-08T06:23:11+00:00",
+        "pushed": "2024-05-08T06:23:08+00:00",
+        "url": "https://github.com/Komal-design-vlsi/VSD-SOC_DESIGN_AND_Planning",
+        "id": 792072111
+    },
+    {
+        "repo": "megaboom",
+        "description": null,
+        "owner": "The-OpenROAD-Project",
+        "stars": 12,
+        "forks": 3,
+        "size": 5295,
+        "created": "2023-12-13T21:04:40+00:00",
+        "updated": "2024-05-08T18:50:06+00:00",
+        "pushed": "2024-05-08T18:50:02+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/megaboom",
+        "id": 731332420
+    },
+    {
+        "repo": "Suiteki-Pro",
+        "description": null,
+        "owner": "sky130",
+        "stars": 1,
+        "forks": 2,
+        "size": 365,
+        "created": "2024-04-25T11:35:40+00:00",
+        "updated": "2024-05-08T10:22:27+00:00",
+        "pushed": "2024-05-08T10:22:23+00:00",
+        "url": "https://github.com/sky130/Suiteki-Pro",
+        "id": 791792851
+    },
+    {
+        "repo": "BusWrap",
+        "description": null,
+        "owner": "efabless",
+        "stars": 2,
+        "forks": 0,
+        "size": 108,
+        "created": "2024-04-07T11:58:36+00:00",
+        "updated": "2024-05-08T12:33:22+00:00",
+        "pushed": "2024-05-08T12:32:35+00:00",
+        "url": "https://github.com/efabless/BusWrap",
+        "id": 783262509
+    },
+    {
+        "repo": "EF_QSPI_FLASH_WRITER",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 39,
+        "created": "2023-11-01T10:25:21+00:00",
+        "updated": "2024-05-08T12:15:40+00:00",
+        "pushed": "2024-05-08T12:17:06+00:00",
+        "url": "https://github.com/efabless/EF_QSPI_FLASH_WRITER",
+        "id": 712849472
+    },
+    {
+        "repo": "EF_PSRAM_CTRL_V2",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 42,
+        "created": "2023-09-02T06:06:18+00:00",
+        "updated": "2024-05-07T11:56:28+00:00",
+        "pushed": "2024-05-08T11:03:12+00:00",
+        "url": "https://github.com/efabless/EF_PSRAM_CTRL_V2",
+        "id": 686239063
+    },
+    {
+        "repo": "EF_I2S",
+        "description": "Two-wire I2S synchronous serial interface, compatible with I2S specification.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 288,
+        "created": "2023-11-05T16:20:02+00:00",
+        "updated": "2024-05-08T13:04:32+00:00",
+        "pushed": "2024-05-08T13:04:39+00:00",
+        "url": "https://github.com/efabless/EF_I2S",
+        "id": 714701311
+    },
+    {
+        "repo": "TIOMapNet",
+        "description": null,
+        "owner": "adasfag",
+        "stars": 0,
+        "forks": 0,
+        "size": 99806,
+        "created": "2024-04-15T00:51:33+00:00",
+        "updated": "2024-05-08T12:58:31+00:00",
+        "pushed": "2024-05-08T12:55:54+00:00",
+        "url": "https://github.com/adasfag/TIOMapNet",
+        "id": 786614060
+    },
+    {
+        "repo": "caravan",
+        "description": "Proyecto Final",
+        "owner": "Jonathan684",
+        "stars": 0,
+        "forks": 0,
+        "size": 527116,
+        "created": "2024-04-01T19:24:53+00:00",
+        "updated": "2024-05-08T11:16:42+00:00",
+        "pushed": "2024-05-08T11:16:32+00:00",
+        "url": "https://github.com/Jonathan684/caravan",
+        "id": 780584488
+    },
+    {
+        "repo": "michaelsheng15",
+        "description": "Personal Github dashboard repository",
+        "owner": "michaelsheng15",
+        "stars": 0,
+        "forks": 0,
+        "size": 19,
+        "created": "2021-08-10T23:36:28+00:00",
+        "updated": "2024-05-09T01:19:50+00:00",
+        "pushed": "2024-05-09T01:19:47+00:00",
+        "url": "https://github.com/michaelsheng15/michaelsheng15",
+        "id": 394806549
+    },
+    {
+        "repo": "NASSCOM-VSD-SoC-Design-Program",
+        "description": "Explore the ASIC design flow using tools like Openlane and the Google-Sky Water collaboration's 130nm process design kit (PDK). Led by industry leader Kunal Ghosh, this course equips with the skills to craft standard cells, navigate the Physical Design domain, and generate GDSII files.",
+        "owner": "akshaynayak212",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2024-05-08T19:09:55+00:00",
+        "updated": "2024-05-08T19:09:58+00:00",
+        "pushed": "2024-05-08T19:09:55+00:00",
+        "url": "https://github.com/akshaynayak212/NASSCOM-VSD-SoC-Design-Program",
+        "id": 797935401
+    },
+    {
+        "repo": "asic_edatools",
+        "description": "ASIC EDA Tools Installation related script file.",
+        "owner": "dicdesign",
+        "stars": 0,
+        "forks": 0,
+        "size": 56,
+        "created": "2024-05-05T07:41:45+00:00",
+        "updated": "2024-05-09T03:03:51+00:00",
+        "pushed": "2024-05-09T03:03:47+00:00",
+        "url": "https://github.com/dicdesign/asic_edatools",
+        "id": 796186761
+    },
+    {
+        "repo": "tt07_spi_wrapper",
+        "description": "SPI Wrapper",
+        "owner": "calonso88",
+        "stars": 0,
+        "forks": 0,
+        "size": 195,
+        "created": "2024-05-01T19:54:45+00:00",
+        "updated": "2024-05-09T05:16:40+00:00",
+        "pushed": "2024-05-09T05:16:37+00:00",
+        "url": "https://github.com/calonso88/tt07_spi_wrapper",
+        "id": 794715267
+    },
+    {
+        "repo": "tt07-vga-clock",
+        "description": null,
+        "owner": "mattvenn",
+        "stars": 0,
+        "forks": 0,
+        "size": 22,
+        "created": "2024-05-02T09:07:28+00:00",
+        "updated": "2024-05-08T08:56:42+00:00",
+        "pushed": "2024-05-08T08:56:39+00:00",
+        "url": "https://github.com/mattvenn/tt07-vga-clock",
+        "id": 794939339
+    },
+    {
+        "repo": "Salt-C4M_PDK_Sky130",
+        "description": "KLayout salt package for Chips4Maker's PDKMaster based Sky130 PDK",
+        "owner": "FatsieFS",
+        "stars": 0,
+        "forks": 0,
+        "size": 2855,
+        "created": "2024-05-08T07:44:37+00:00",
+        "updated": "2024-05-08T09:35:32+00:00",
+        "pushed": "2024-05-08T09:35:27+00:00",
+        "url": "https://github.com/FatsieFS/Salt-C4M_PDK_Sky130",
+        "id": 797623067
+    },
+    {
+        "repo": "sky130_ac3e_ip__temp_sdc",
+        "description": "Time-based temperature sensor proposal for Chipalooza 2024",
+        "owner": "JorgeMarinN",
+        "stars": 0,
+        "forks": 0,
+        "size": 3783,
+        "created": "2024-03-04T19:54:01+00:00",
+        "updated": "2024-05-08T23:51:37+00:00",
+        "pushed": "2024-05-08T23:51:33+00:00",
+        "url": "https://github.com/JorgeMarinN/sky130_ac3e_ip__temp_sdc",
+        "id": 767154591
+    },
+    {
+        "repo": "my_sram_test_chip1",
+        "description": null,
+        "owner": "amm-efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 11935,
+        "created": "2024-05-08T19:09:29+00:00",
+        "updated": "2024-05-09T04:20:34+00:00",
+        "pushed": "2024-05-09T04:19:51+00:00",
+        "url": "https://github.com/amm-efabless/my_sram_test_chip1",
+        "id": 797935264
+    },
+    {
+        "repo": "tt07-beneater8bit",
+        "description": "ASIC recreation of the 8 bit breadboard computer developed in Ben Eater's Youtube series",
+        "owner": "jasonkaufmann",
+        "stars": 1,
+        "forks": 0,
+        "size": 1492,
+        "created": "2024-04-25T22:30:43+00:00",
+        "updated": "2024-05-07T22:19:45+00:00",
+        "pushed": "2024-05-09T02:56:56+00:00",
+        "url": "https://github.com/jasonkaufmann/tt07-beneater8bit",
+        "id": 792057703
+    },
+    {
+        "repo": "BEV-Perception",
+        "description": "Bird's Eye View Perception",
+        "owner": "vasgaowei",
+        "stars": 261,
+        "forks": 17,
+        "size": 525,
+        "created": "2023-05-09T05:26:33+00:00",
+        "updated": "2024-05-09T04:34:56+00:00",
+        "pushed": "2024-05-09T01:52:59+00:00",
+        "url": "https://github.com/vasgaowei/BEV-Perception",
+        "id": 638110012
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1044,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-05-09T04:37:24+00:00",
+        "pushed": "2024-05-09T04:37:21+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 7006,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-05-09T01:40:38+00:00",
+        "pushed": "2024-05-09T01:40:35+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "tech-andgar",
         "stars": 8,
         "forks": 0,
-        "size": 26322,
+        "size": 26586,
         "created": "2020-11-09T02:22:44+00:00",
-        "updated": "2024-05-08T00:49:38+00:00",
-        "pushed": "2024-05-08T00:49:35+00:00",
+        "updated": "2024-05-09T00:50:16+00:00",
+        "pushed": "2024-05-09T00:50:13+00:00",
         "url": "https://github.com/tech-andgar/awesome-stars",
         "id": 311201466
     }
