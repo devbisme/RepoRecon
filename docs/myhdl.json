@@ -5200,19 +5200,6 @@
         "id": 38977954
     },
     {
-        "repo": "magia",
-        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
-        "owner": "magia-hdl",
-        "stars": 7,
-        "forks": 1,
-        "size": 565,
-        "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-05-06T19:59:36+00:00",
-        "pushed": "2024-05-06T20:03:54+00:00",
-        "url": "https://github.com/magia-hdl/magia",
-        "id": 730892692
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5239,19 +5226,6 @@
         "id": 785859807
     },
     {
-        "repo": "cyrite.howto",
-        "description": null,
-        "owner": "hackfin",
-        "stars": 3,
-        "forks": 0,
-        "size": 994,
-        "created": "2021-06-01T08:56:32+00:00",
-        "updated": "2024-05-08T15:19:41+00:00",
-        "pushed": "2024-05-08T15:19:23+00:00",
-        "url": "https://github.com/hackfin/cyrite.howto",
-        "id": 372764570
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -5263,5 +5237,31 @@
         "pushed": "2024-05-06T07:07:24+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
+    },
+    {
+        "repo": "cyrite.howto",
+        "description": null,
+        "owner": "hackfin",
+        "stars": 3,
+        "forks": 0,
+        "size": 1100,
+        "created": "2021-06-01T08:56:32+00:00",
+        "updated": "2024-05-09T09:38:53+00:00",
+        "pushed": "2024-05-09T09:38:49+00:00",
+        "url": "https://github.com/hackfin/cyrite.howto",
+        "id": 372764570
+    },
+    {
+        "repo": "magia",
+        "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
+        "owner": "magia-hdl",
+        "stars": 7,
+        "forks": 1,
+        "size": 580,
+        "created": "2023-12-12T22:50:43+00:00",
+        "updated": "2024-05-06T19:59:36+00:00",
+        "pushed": "2024-05-09T21:36:59+00:00",
+        "url": "https://github.com/magia-hdl/magia",
+        "id": 730892692
     }
 ]
