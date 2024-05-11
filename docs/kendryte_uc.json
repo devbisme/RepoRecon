@@ -35022,19 +35022,6 @@
         "id": 176733963
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1370,
-        "forks": 397,
-        "size": 47460,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-03-04T02:28:32+00:00",
-        "pushed": "2024-03-03T14:35:39+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
         "repo": "Hackathon-Team",
         "description": "Team: Thien, Mushtaq, Adam, Sihas, Tawyeeb, Arjan",
         "owner": "Carpilicious",
@@ -35917,19 +35904,6 @@
         "pushed": "2024-04-11T03:05:11+00:00",
         "url": "https://github.com/sipeed/TinyMaix",
         "id": 522642478
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 536,
-        "forks": 159,
-        "size": 1015,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2024-04-10T06:09:00+00:00",
-        "pushed": "2024-04-10T08:09:11+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
     },
     {
         "repo": "MTK_kernel_modules",
@@ -36842,19 +36816,6 @@
         "id": 797142871
     },
     {
-        "repo": "lemon-core",
-        "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
-        "owner": "13m0n4de",
-        "stars": 1,
-        "forks": 0,
-        "size": 607,
-        "created": "2024-02-24T01:39:44+00:00",
-        "updated": "2024-05-07T08:29:16+00:00",
-        "pushed": "2024-05-07T08:38:13+00:00",
-        "url": "https://github.com/13m0n4de/lemon-core",
-        "id": 762534415
-    },
-    {
         "repo": "k210_server",
         "description": null,
         "owner": "yzzlqyxc",
@@ -36879,19 +36840,6 @@
         "pushed": "2024-05-07T15:20:01+00:00",
         "url": "https://github.com/KidBrightAI/kidbright_MAI_server",
         "id": 753959088
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 20,
-        "forks": 2,
-        "size": 7935,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-05-07T07:58:06+00:00",
-        "pushed": "2024-05-08T13:07:23+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "vihal",
@@ -36959,58 +36907,6 @@
         "id": 791854423
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 7006,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-05-09T01:40:38+00:00",
-        "pushed": "2024-05-09T01:40:35+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 696,
-        "forks": 181,
-        "size": 58209,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-05-07T04:21:11+00:00",
-        "pushed": "2024-05-10T04:09:20+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 44,
-        "forks": 9,
-        "size": 18494,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-05-10T02:56:08+00:00",
-        "pushed": "2024-05-10T01:32:54+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
-        "repo": "support-matrix",
-        "description": "RISCV Board and OS Supported Matrix",
-        "owner": "ruyisdk",
-        "stars": 0,
-        "forks": 6,
-        "size": 26538,
-        "created": "2024-03-12T01:34:58+00:00",
-        "updated": "2024-05-09T12:58:43+00:00",
-        "pushed": "2024-05-09T12:58:39+00:00",
-        "url": "https://github.com/ruyisdk/support-matrix",
-        "id": 770690133
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -37022,19 +36918,6 @@
         "pushed": "2024-05-09T15:26:21+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "rcore-tutorial-v3-with-hal-component",
-        "description": null,
-        "owner": "yfblock",
-        "stars": 0,
-        "forks": 3,
-        "size": 28394,
-        "created": "2024-03-27T13:26:45+00:00",
-        "updated": "2024-05-09T12:30:56+00:00",
-        "pushed": "2024-05-09T12:30:53+00:00",
-        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
-        "id": 778304792
     },
     {
         "repo": "slides",
@@ -37154,32 +37037,6 @@
         "id": 762139588
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 0,
-        "forks": 0,
-        "size": 2906,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-05-10T01:37:34+00:00",
-        "pushed": "2024-05-10T01:37:31+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 117,
-        "forks": 34,
-        "size": 672187,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-05-09T12:24:40+00:00",
-        "pushed": "2024-05-09T12:24:36+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "LXC-Docker-KernelSU_Action",
         "description": null,
         "owner": "hubhike",
@@ -37191,5 +37048,161 @@
         "pushed": "2024-05-10T04:43:15+00:00",
         "url": "https://github.com/hubhike/LXC-Docker-KernelSU_Action",
         "id": 789990082
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 696,
+        "forks": 181,
+        "size": 58195,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-05-11T01:32:36+00:00",
+        "pushed": "2024-05-11T03:49:35+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1473,
+        "forks": 423,
+        "size": 48219,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-05-11T00:17:42+00:00",
+        "pushed": "2024-05-10T14:05:49+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 50,
+        "forks": 9,
+        "size": 18504,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-05-11T06:13:50+00:00",
+        "pushed": "2024-05-11T06:13:47+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 551,
+        "forks": 164,
+        "size": 1015,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2024-05-10T13:34:16+00:00",
+        "pushed": "2024-05-10T06:57:44+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "support-matrix",
+        "description": "RISCV Board and OS Supported Matrix",
+        "owner": "ruyisdk",
+        "stars": 0,
+        "forks": 6,
+        "size": 26538,
+        "created": "2024-03-12T01:34:58+00:00",
+        "updated": "2024-05-09T12:58:43+00:00",
+        "pushed": "2024-05-10T11:59:03+00:00",
+        "url": "https://github.com/ruyisdk/support-matrix",
+        "id": 770690133
+    },
+    {
+        "repo": "rcore-tutorial-v3-with-hal-component",
+        "description": null,
+        "owner": "yfblock",
+        "stars": 0,
+        "forks": 3,
+        "size": 28581,
+        "created": "2024-03-27T13:26:45+00:00",
+        "updated": "2024-05-09T12:30:56+00:00",
+        "pushed": "2024-05-11T02:29:18+00:00",
+        "url": "https://github.com/yfblock/rcore-tutorial-v3-with-hal-component",
+        "id": 778304792
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 22,
+        "forks": 2,
+        "size": 8584,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-05-10T07:10:37+00:00",
+        "pushed": "2024-05-11T06:10:27+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "wlambch3",
+        "description": null,
+        "owner": "lambbear",
+        "stars": 0,
+        "forks": 0,
+        "size": 978,
+        "created": "2024-05-10T07:56:16+00:00",
+        "updated": "2024-05-10T08:05:04+00:00",
+        "pushed": "2024-05-10T08:03:09+00:00",
+        "url": "https://github.com/lambbear/wlambch3",
+        "id": 798653064
+    },
+    {
+        "repo": "lemon-core",
+        "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
+        "owner": "13m0n4de",
+        "stars": 1,
+        "forks": 0,
+        "size": 615,
+        "created": "2024-02-24T01:39:44+00:00",
+        "updated": "2024-05-11T04:32:15+00:00",
+        "pushed": "2024-05-11T04:52:01+00:00",
+        "url": "https://github.com/13m0n4de/lemon-core",
+        "id": 762534415
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 7462,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-05-11T01:37:57+00:00",
+        "pushed": "2024-05-11T01:37:54+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 0,
+        "forks": 0,
+        "size": 2988,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-05-11T01:34:59+00:00",
+        "pushed": "2024-05-11T01:34:56+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 117,
+        "forks": 34,
+        "size": 672194,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2024-05-10T12:26:47+00:00",
+        "pushed": "2024-05-10T12:26:43+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]
