@@ -12311,19 +12311,6 @@
         "id": 784979558
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 600,
-        "forks": 141,
-        "size": 642677,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-05-07T05:02:03+00:00",
-        "pushed": "2024-05-07T02:25:31+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "CRUVI",
         "description": "CRUVI Standard Specifications",
         "owner": "micro-FPGA",
@@ -12361,19 +12348,6 @@
         "pushed": "2024-05-07T13:15:09+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "learn-fpga",
-        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
-        "owner": "BrunoLevy",
-        "stars": 2365,
-        "forks": 223,
-        "size": 239586,
-        "created": "2020-05-27T15:04:05+00:00",
-        "updated": "2024-05-08T03:18:35+00:00",
-        "pushed": "2024-05-07T08:55:09+00:00",
-        "url": "https://github.com/BrunoLevy/learn-fpga",
-        "id": 267350664
     },
     {
         "repo": "litepcie",
@@ -12519,19 +12493,6 @@
         "id": 468027705
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
-        "owner": "chili-chips-ba",
-        "stars": 0,
-        "forks": 0,
-        "size": 15142,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-05-10T05:43:39+00:00",
-        "pushed": "2024-05-10T05:43:36+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12543,32 +12504,6 @@
         "pushed": "2024-05-10T01:06:20+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 686,
-        "forks": 64,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-08T16:42:15+00:00",
-        "pushed": "2024-05-11T01:53:11+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 38,
-        "forks": 16,
-        "size": 111678,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-05-11T04:48:59+00:00",
-        "pushed": "2024-05-11T04:48:56+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "LinuxDrivers",
@@ -12610,19 +12545,6 @@
         "id": 798728790
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 2798,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-11T00:28:48+00:00",
-        "pushed": "2024-05-11T00:28:45+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
         "repo": "streams",
         "description": "Streams library for Amaranth",
         "owner": "DaveBerkeley",
@@ -12636,15 +12558,93 @@
         "id": 615816156
     },
     {
+        "repo": "learn-fpga",
+        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
+        "owner": "BrunoLevy",
+        "stars": 2371,
+        "forks": 226,
+        "size": 239645,
+        "created": "2020-05-27T15:04:05+00:00",
+        "updated": "2024-05-12T05:40:08+00:00",
+        "pushed": "2024-05-11T10:09:14+00:00",
+        "url": "https://github.com/BrunoLevy/learn-fpga",
+        "id": 267350664
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 602,
+        "forks": 141,
+        "size": 657555,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-05-11T20:08:40+00:00",
+        "pushed": "2024-05-11T20:08:35+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 685,
+        "forks": 64,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-11T13:33:54+00:00",
+        "pushed": "2024-05-12T01:59:35+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 38,
+        "forks": 16,
+        "size": 111680,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-05-12T04:36:01+00:00",
+        "pushed": "2024-05-12T04:35:58+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 2802,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-12T00:32:37+00:00",
+        "pushed": "2024-05-12T00:32:34+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
+        "owner": "chili-chips-ba",
+        "stars": 4,
+        "forks": 1,
+        "size": 15296,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-05-11T15:41:27+00:00",
+        "pushed": "2024-05-11T10:38:25+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1047,
+        "size": 1079,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-11T04:35:20+00:00",
-        "pushed": "2024-05-11T04:35:17+00:00",
+        "updated": "2024-05-12T04:34:47+00:00",
+        "pushed": "2024-05-12T04:34:44+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     }

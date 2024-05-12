@@ -36491,19 +36491,6 @@
         "id": 524386531
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 165,
-        "forks": 123,
-        "size": 246,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2024-04-27T03:48:21+00:00",
-        "pushed": "2024-04-27T03:48:18+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "aCoral-riscv-cl",
         "description": "aCoral for k210",
         "owner": "spg-one",
@@ -37076,19 +37063,6 @@
         "id": 308248461
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 50,
-        "forks": 9,
-        "size": 18504,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-05-11T06:13:50+00:00",
-        "pushed": "2024-05-11T06:13:47+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -37167,15 +37141,54 @@
         "id": 762534415
     },
     {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 168,
+        "forks": 125,
+        "size": 231,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-05-11T21:33:26+00:00",
+        "pushed": "2024-05-06T13:58:36+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 51,
+        "forks": 9,
+        "size": 18312,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-05-11T16:13:22+00:00",
+        "pushed": "2024-05-12T05:33:00+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "awesome-rt-thread",
+        "description": "\ud83d\ude80 A curated list of awesome RT-Thread projects and resources.",
+        "owner": "luhuadong",
+        "stars": 2,
+        "forks": 0,
+        "size": 30,
+        "created": "2024-03-19T09:55:08+00:00",
+        "updated": "2024-05-12T05:23:34+00:00",
+        "pushed": "2024-05-12T05:23:31+00:00",
+        "url": "https://github.com/luhuadong/awesome-rt-thread",
+        "id": 774297857
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 7462,
+        "size": 7464,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-05-11T01:37:57+00:00",
-        "pushed": "2024-05-11T01:37:54+00:00",
+        "updated": "2024-05-12T01:44:55+00:00",
+        "pushed": "2024-05-12T01:44:52+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37185,10 +37198,10 @@
         "owner": "silentEAG",
         "stars": 0,
         "forks": 0,
-        "size": 2988,
+        "size": 3122,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-05-11T01:34:59+00:00",
-        "pushed": "2024-05-11T01:34:56+00:00",
+        "updated": "2024-05-12T01:42:05+00:00",
+        "pushed": "2024-05-12T01:42:02+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37200,8 +37213,8 @@
         "forks": 34,
         "size": 672194,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-05-10T12:26:47+00:00",
-        "pushed": "2024-05-10T12:26:43+00:00",
+        "updated": "2024-05-11T12:22:46+00:00",
+        "pushed": "2024-05-11T12:22:43+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
