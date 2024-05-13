@@ -2769,19 +2769,6 @@
         "id": 249500868
     },
     {
-        "repo": "fpga",
-        "description": "Collection of projects for various FPGA development boards",
-        "owner": "sam210723",
-        "stars": 35,
-        "forks": 9,
-        "size": 6967,
-        "created": "2020-03-28T02:08:26Z",
-        "updated": "2023-07-25T22:34:01Z",
-        "pushed": "2022-10-02T07:58:15Z",
-        "url": "https://github.com/sam210723/fpga",
-        "id": 250694268
-    },
-    {
         "repo": "litex-ip-cores",
         "description": null,
         "owner": "antmicro",
@@ -10595,19 +10582,6 @@
         "id": 735426342
     },
     {
-        "repo": "litex-feedstock",
-        "description": "A conda-smithy repository for litex.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 3,
-        "size": 20,
-        "created": "2023-03-24T15:52:53+00:00",
-        "updated": "2023-03-24T15:52:54+00:00",
-        "pushed": "2023-12-28T20:46:19+00:00",
-        "url": "https://github.com/conda-forge/litex-feedstock",
-        "id": 618501910
-    },
-    {
         "repo": "litedram_p2",
         "description": null,
         "owner": "chinafpga",
@@ -11373,19 +11347,6 @@
         "pushed": "2024-03-08T01:50:03+00:00",
         "url": "https://github.com/dev-pts/list-o-pad",
         "id": 647035284
-    },
-    {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 25,
-        "forks": 1,
-        "size": 9674,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2024-02-29T23:36:48+00:00",
-        "pushed": "2024-03-11T05:57:19+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
     },
     {
         "repo": "ork.build",
@@ -12168,19 +12129,6 @@
         "id": 605602834
     },
     {
-        "repo": "litespi-feedstock",
-        "description": "A conda-smithy repository for litespi.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 0,
-        "size": 12,
-        "created": "2024-04-29T19:14:13+00:00",
-        "updated": "2024-04-29T19:17:34+00:00",
-        "pushed": "2024-04-29T19:17:31+00:00",
-        "url": "https://github.com/conda-forge/litespi-feedstock",
-        "id": 793735929
-    },
-    {
         "repo": "litex-bridge",
         "description": null,
         "owner": "Liamolucko",
@@ -12205,19 +12153,6 @@
         "pushed": "2024-04-30T11:35:25+00:00",
         "url": "https://github.com/myriadrf/LimeSDR-XTRX_LiteX_GW",
         "id": 787406556
-    },
-    {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 297,
-        "forks": 34,
-        "size": 144898,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-05-01T03:55:39+00:00",
-        "pushed": "2024-05-01T03:55:35+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
     },
     {
         "repo": "my-stars",
@@ -12480,19 +12415,6 @@
         "id": 474094379
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 30,
-        "forks": 12,
-        "size": 33272,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-05-05T13:29:29+00:00",
-        "pushed": "2024-05-09T11:29:04+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12584,19 +12506,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 685,
-        "forks": 64,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-11T13:33:54+00:00",
-        "pushed": "2024-05-12T01:59:35+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -12610,15 +12519,93 @@
         "id": 465199162
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 685,
+        "forks": 64,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-11T13:33:54+00:00",
+        "pushed": "2024-05-13T01:48:01+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "fpga",
+        "description": "Collection of projects for various FPGA development boards",
+        "owner": "sam210723",
+        "stars": 39,
+        "forks": 9,
+        "size": 8782,
+        "created": "2020-03-28T02:08:26+00:00",
+        "updated": "2024-05-13T04:14:03+00:00",
+        "pushed": "2024-05-13T04:14:00+00:00",
+        "url": "https://github.com/sam210723/fpga",
+        "id": 250694268
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 30,
+        "forks": 12,
+        "size": 33610,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-05-12T12:37:23+00:00",
+        "pushed": "2024-05-12T15:51:51+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "litex-feedstock",
+        "description": "A conda-smithy repository for litex.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 2,
+        "size": 20,
+        "created": "2023-03-24T15:52:53+00:00",
+        "updated": "2024-05-12T14:34:55+00:00",
+        "pushed": "2024-05-12T14:34:52+00:00",
+        "url": "https://github.com/conda-forge/litex-feedstock",
+        "id": 618501910
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 25,
+        "forks": 1,
+        "size": 9679,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2024-05-12T09:50:25+00:00",
+        "pushed": "2024-05-12T09:50:22+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "litespi-feedstock",
+        "description": "A conda-smithy repository for litespi.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 0,
+        "size": 12,
+        "created": "2024-04-29T19:14:13+00:00",
+        "updated": "2024-05-12T16:30:01+00:00",
+        "pushed": "2024-05-12T16:29:58+00:00",
+        "url": "https://github.com/conda-forge/litespi-feedstock",
+        "id": 793735929
+    },
+    {
         "repo": "litexlthemes",
         "description": null,
         "owner": "RohanVashisht1234",
         "stars": 0,
         "forks": 0,
-        "size": 2802,
+        "size": 2806,
         "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-12T00:32:37+00:00",
-        "pushed": "2024-05-12T00:32:34+00:00",
+        "updated": "2024-05-13T00:30:58+00:00",
+        "pushed": "2024-05-13T00:30:55+00:00",
         "url": "https://github.com/RohanVashisht1234/litexlthemes",
         "id": 794006125
     },
@@ -12628,12 +12615,25 @@
         "owner": "chili-chips-ba",
         "stars": 4,
         "forks": 1,
-        "size": 15296,
+        "size": 15300,
         "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-05-11T15:41:27+00:00",
-        "pushed": "2024-05-11T10:38:25+00:00",
+        "updated": "2024-05-12T08:05:34+00:00",
+        "pushed": "2024-05-12T08:05:30+00:00",
         "url": "https://github.com/chili-chips-ba/openCologne",
         "id": 798146281
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 306,
+        "forks": 34,
+        "size": 148776,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-05-12T15:48:12+00:00",
+        "pushed": "2024-05-12T15:48:08+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
     },
     {
         "repo": "starred",
@@ -12641,10 +12641,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1079,
+        "size": 1081,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-12T04:34:47+00:00",
-        "pushed": "2024-05-12T04:34:44+00:00",
+        "updated": "2024-05-13T04:36:27+00:00",
+        "pushed": "2024-05-13T04:36:24+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     }

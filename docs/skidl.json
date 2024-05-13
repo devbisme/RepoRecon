@@ -481,19 +481,6 @@
         "id": 231945306
     },
     {
-        "repo": "skidl-feedstock",
-        "description": "A conda-smithy repository for skidl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 31,
-        "created": "2020-01-05T20:43:36Z",
-        "updated": "2021-12-17T05:31:55Z",
-        "pushed": "2023-07-26T18:50:23Z",
-        "url": "https://github.com/conda-forge/skidl-feedstock",
-        "id": 231973467
-    },
-    {
         "repo": "schema-bem",
         "description": "BEM Driven Circuit Development. Library for designing electronic circuits for PCB using the BEM (Block, Element, Modifier) methodology, which offers modularity, hierarchy, reusability, and clarity in the development process.",
         "owner": "fefa4ka",
@@ -1480,5 +1467,18 @@
         "pushed": "2024-05-10T01:06:20+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
+    },
+    {
+        "repo": "skidl-feedstock",
+        "description": "A conda-smithy repository for skidl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 25,
+        "created": "2020-01-05T20:43:36+00:00",
+        "updated": "2024-05-12T19:11:46+00:00",
+        "pushed": "2024-05-12T19:11:43+00:00",
+        "url": "https://github.com/conda-forge/skidl-feedstock",
+        "id": 231973467
     }
 ]
