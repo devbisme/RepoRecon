@@ -10634,19 +10634,6 @@
         "id": 42044258
     },
     {
-        "repo": "litesdcard",
-        "description": "Small footprint and configurable SDCard core",
-        "owner": "enjoy-digital",
-        "stars": 104,
-        "forks": 32,
-        "size": 7511,
-        "created": "2017-08-21T10:50:59+00:00",
-        "updated": "2023-12-05T07:42:16+00:00",
-        "pushed": "2024-01-01T14:30:57+00:00",
-        "url": "https://github.com/enjoy-digital/litesdcard",
-        "id": 100942867
-    },
-    {
         "repo": "litejesd204b",
         "description": "Small footprint and configurable JESD204B core",
         "owner": "enjoy-digital",
@@ -11102,19 +11089,6 @@
         "id": 757141958
     },
     {
-        "repo": "pythondata-cpu-vexriscv_smp",
-        "description": "Python module containing verilog files for VexRiscv SMP CPU (for use with LiteX). ",
-        "owner": "litex-hub",
-        "stars": 3,
-        "forks": 10,
-        "size": 5246,
-        "created": "2020-07-28T12:33:20+00:00",
-        "updated": "2022-05-07T08:26:04+00:00",
-        "pushed": "2024-02-14T10:18:24+00:00",
-        "url": "https://github.com/litex-hub/pythondata-cpu-vexriscv_smp",
-        "id": 283207003
-    },
-    {
         "repo": "Colorlight-FPGA-Projects",
         "description": "current focus on Colorlight i5 and i9 & i9plus module",
         "owner": "wuxx",
@@ -11243,19 +11217,6 @@
         "pushed": "2024-02-28T22:09:41+00:00",
         "url": "https://github.com/orangecrab-fpga/production-test-sw",
         "id": 272677306
-    },
-    {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 51,
-        "forks": 18,
-        "size": 690,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2024-02-17T01:37:56+00:00",
-        "pushed": "2024-02-29T09:31:55+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
     },
     {
         "repo": "LiteX-Angular",
@@ -11999,19 +11960,6 @@
         "id": 665787279
     },
     {
-        "repo": "colorlight-riscv-rs",
-        "description": "\"Hacking\" a Chinese LED display board with open-source FPGA tools, RISC-V and Rust \ud83e\udd80 ",
-        "owner": "roby2014",
-        "stars": 0,
-        "forks": 0,
-        "size": 31,
-        "created": "2024-04-20T19:58:12+00:00",
-        "updated": "2024-04-20T20:10:43+00:00",
-        "pushed": "2024-04-20T20:10:40+00:00",
-        "url": "https://github.com/roby2014/colorlight-riscv-rs",
-        "id": 789527923
-    },
-    {
         "repo": "amaranth-to-litex",
         "description": "Use amaranth-to-litex to simply import Amaranth code into a Litex project.",
         "owner": "lambdaconcept",
@@ -12088,19 +12036,6 @@
         "pushed": "2024-04-25T07:11:47+00:00",
         "url": "https://github.com/RohanVashisht1234/LiteXlXolorsLabs",
         "id": 791685673
-    },
-    {
-        "repo": "eurorack-pmod",
-        "description": "Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.",
-        "owner": "apfelaudio",
-        "stars": 159,
-        "forks": 7,
-        "size": 21821,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-04-17T08:03:28+00:00",
-        "pushed": "2024-04-26T16:14:28+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod",
-        "id": 504905833
     },
     {
         "repo": "cram-soc",
@@ -12259,32 +12194,6 @@
         "id": 196820841
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 57570,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-05-07T03:23:14+00:00",
-        "pushed": "2024-05-07T03:23:11+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2698,
-        "forks": 522,
-        "size": 16803,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-05-07T13:15:13+00:00",
-        "pushed": "2024-05-07T13:15:09+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12350,19 +12259,6 @@
         "id": 797370344
     },
     {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1432,
-        "forks": 200,
-        "size": 203343,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-05-08T16:01:00+00:00",
-        "pushed": "2024-05-08T16:02:25+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "tinyclunx33_zephyr_example",
         "description": "Zephyr running on the tinyCLUNX33 SoM",
         "owner": "tinyvision-ai-inc",
@@ -12376,32 +12272,6 @@
         "id": 738233144
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 341,
-        "forks": 268,
-        "size": 4042,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-05-06T03:45:22+00:00",
-        "pushed": "2024-05-09T22:13:24+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 444,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-05-08T01:07:33+00:00",
-        "pushed": "2024-05-10T02:16:27+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "a2o",
         "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue.  It is now being updated for compliancy and integration into open projects.",
         "owner": "OpenPOWERFoundation",
@@ -12413,19 +12283,6 @@
         "pushed": "2024-05-09T17:50:22+00:00",
         "url": "https://github.com/OpenPOWERFoundation/a2o",
         "id": 474094379
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 24408,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-05-10T01:06:23+00:00",
-        "pushed": "2024-05-10T01:06:20+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "LinuxDrivers",
@@ -12467,19 +12324,6 @@
         "id": 798728790
     },
     {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 5,
-        "forks": 0,
-        "size": 323,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2024-05-10T10:12:43+00:00",
-        "pushed": "2024-05-10T10:12:40+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
-    },
-    {
         "repo": "learn-fpga",
         "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
         "owner": "BrunoLevy",
@@ -12506,32 +12350,6 @@
         "id": 190029235
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 38,
-        "forks": 16,
-        "size": 111680,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-05-12T04:36:01+00:00",
-        "pushed": "2024-05-12T04:35:58+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 685,
-        "forks": 64,
-        "size": 1019,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-11T13:33:54+00:00",
-        "pushed": "2024-05-13T01:48:01+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "fpga",
         "description": "Collection of projects for various FPGA development boards",
         "owner": "sam210723",
@@ -12543,19 +12361,6 @@
         "pushed": "2024-05-13T04:14:00+00:00",
         "url": "https://github.com/sam210723/fpga",
         "id": 250694268
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 30,
-        "forks": 12,
-        "size": 33610,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-05-12T12:37:23+00:00",
-        "pushed": "2024-05-12T15:51:51+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "litex-feedstock",
@@ -12597,19 +12402,6 @@
         "id": 793735929
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 2806,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-13T00:30:58+00:00",
-        "pushed": "2024-05-13T00:30:55+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
         "owner": "chili-chips-ba",
@@ -12636,16 +12428,224 @@
         "id": 237940918
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2699,
+        "forks": 523,
+        "size": 16804,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-05-13T15:52:37+00:00",
+        "pushed": "2024-05-14T00:03:32+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 344,
+        "forks": 269,
+        "size": 4042,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-05-13T06:53:18+00:00",
+        "pushed": "2024-05-14T01:41:27+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 686,
+        "forks": 64,
+        "size": 1019,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-13T15:08:08+00:00",
+        "pushed": "2024-05-14T01:55:08+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 444,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-05-08T01:07:33+00:00",
+        "pushed": "2024-05-14T02:13:28+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "litesdcard",
+        "description": "Small footprint and configurable SDCard core",
+        "owner": "enjoy-digital",
+        "stars": 107,
+        "forks": 33,
+        "size": 7525,
+        "created": "2017-08-21T10:50:59+00:00",
+        "updated": "2024-05-13T14:27:02+00:00",
+        "pushed": "2024-05-13T14:26:59+00:00",
+        "url": "https://github.com/enjoy-digital/litesdcard",
+        "id": 100942867
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 51,
+        "forks": 18,
+        "size": 691,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2024-05-13T16:24:00+00:00",
+        "pushed": "2024-05-13T16:23:56+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1435,
+        "forks": 200,
+        "size": 203434,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-05-13T18:19:03+00:00",
+        "pushed": "2024-05-13T19:35:08+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "pythondata-cpu-vexriscv_smp",
+        "description": "Python module containing verilog files for VexRiscv SMP CPU (for use with LiteX). ",
+        "owner": "litex-hub",
+        "stars": 3,
+        "forks": 11,
+        "size": 5248,
+        "created": "2020-07-28T12:33:20+00:00",
+        "updated": "2024-05-13T07:08:25+00:00",
+        "pushed": "2024-05-13T07:08:21+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-vexriscv_smp",
+        "id": 283207003
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 30,
+        "forks": 12,
+        "size": 33612,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-05-12T12:37:23+00:00",
+        "pushed": "2024-05-13T07:56:20+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 38,
+        "forks": 16,
+        "size": 111669,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-05-14T01:43:20+00:00",
+        "pushed": "2024-05-14T01:43:17+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards.",
+        "owner": "apfelaudio",
+        "stars": 159,
+        "forks": 7,
+        "size": 21792,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2024-05-13T13:38:05+00:00",
+        "pushed": "2024-05-12T17:35:12+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "colorlight-riscv-rs",
+        "description": "\"Hacking\" a Chinese LED display board with open-source FPGA tools, RISC-V and Rust \ud83e\udd80 ",
+        "owner": "roby2014",
+        "stars": 0,
+        "forks": 0,
+        "size": 33,
+        "created": "2024-04-20T19:58:12+00:00",
+        "updated": "2024-05-13T18:58:32+00:00",
+        "pushed": "2024-05-13T18:58:29+00:00",
+        "url": "https://github.com/roby2014/colorlight-riscv-rs",
+        "id": 789527923
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 2810,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-14T00:29:30+00:00",
+        "pushed": "2024-05-14T00:29:27+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 5,
+        "forks": 0,
+        "size": 325,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2024-05-13T10:06:53+00:00",
+        "pushed": "2024-05-13T10:06:50+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1081,
+        "size": 1112,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-13T04:36:27+00:00",
-        "pushed": "2024-05-13T04:36:24+00:00",
+        "updated": "2024-05-14T04:34:48+00:00",
+        "pushed": "2024-05-14T04:34:45+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 51475,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-05-14T03:23:44+00:00",
+        "pushed": "2024-05-14T03:23:41+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 25628,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-05-14T01:06:12+00:00",
+        "pushed": "2024-05-14T01:06:09+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     }
 ]

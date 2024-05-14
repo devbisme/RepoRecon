@@ -5174,19 +5174,6 @@
         "id": 35898469
     },
     {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 180,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-05-08T05:43:13+00:00",
-        "pushed": "2024-05-08T05:43:09+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -5213,19 +5200,6 @@
         "id": 372764570
     },
     {
-        "repo": "fos-proposals",
-        "description": ":gift_heart: :penguin: Archive of GSoC proposals",
-        "owner": "saketkc",
-        "stars": 468,
-        "forks": 170,
-        "size": 5451,
-        "created": "2015-03-27T20:38:36+00:00",
-        "updated": "2024-05-11T12:26:01+00:00",
-        "pushed": "2024-05-11T12:25:57+00:00",
-        "url": "https://github.com/saketkc/fos-proposals",
-        "id": 33008070
-    },
-    {
         "repo": "cpu1",
         "description": "32bit stack processor implemented with MyHDL ",
         "owner": "BardinPetr",
@@ -5237,19 +5211,6 @@
         "pushed": "2024-05-11T15:33:36+00:00",
         "url": "https://github.com/BardinPetr/cpu1",
         "id": 799254123
-    },
-    {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13467,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-05-12T15:44:04+00:00",
-        "pushed": "2024-05-12T15:44:00+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
     },
     {
         "repo": "myhdl-feedstock",
@@ -5265,16 +5226,55 @@
         "id": 328467543
     },
     {
+        "repo": "fos-proposals",
+        "description": ":gift_heart: :penguin: Archive of GSoC proposals",
+        "owner": "saketkc",
+        "stars": 468,
+        "forks": 170,
+        "size": 5451,
+        "created": "2015-03-27T20:38:36+00:00",
+        "updated": "2024-05-11T12:26:01+00:00",
+        "pushed": "2024-05-13T15:18:58+00:00",
+        "url": "https://github.com/saketkc/fos-proposals",
+        "id": 33008070
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13510,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-05-13T10:10:49+00:00",
+        "pushed": "2024-05-13T10:10:45+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
         "stars": 7,
         "forks": 1,
-        "size": 631,
+        "size": 621,
         "created": "2023-12-12T22:50:43+00:00",
-        "updated": "2024-05-10T23:15:31+00:00",
-        "pushed": "2024-05-12T22:53:25+00:00",
+        "updated": "2024-05-13T22:12:19+00:00",
+        "pushed": "2024-05-13T22:12:16+00:00",
         "url": "https://github.com/magia-hdl/magia",
         "id": 730892692
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 114,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-05-13T21:48:17+00:00",
+        "pushed": "2024-05-13T21:48:13+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
     }
 ]
