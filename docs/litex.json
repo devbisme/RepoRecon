@@ -663,19 +663,6 @@
         "id": 130591635
     },
     {
-        "repo": "cryptocurrency-icons",
-        "description": "All the cryptocurrency icons available on coinmarketcap.com",
-        "owner": "ErikThiart",
-        "stars": 151,
-        "forks": 70,
-        "size": 582372,
-        "created": "2018-04-25T11:51:59Z",
-        "updated": "2023-09-08T17:39:44Z",
-        "pushed": "2023-07-26T14:28:17Z",
-        "url": "https://github.com/ErikThiart/cryptocurrency-icons",
-        "id": 130998864
-    },
-    {
         "repo": "LiteXSms",
         "description": "LiteXSms is simple yet powerful and very high-performance sms mechanism and incorporating both synchronous and asynchronous usage with some advanced usages which can help us to handle sending sms more easier!",
         "owner": "a-patel",
@@ -11687,19 +11674,6 @@
         "id": 155514739
     },
     {
-        "repo": "FazyRV",
-        "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
-        "owner": "meiniKi",
-        "stars": 54,
-        "forks": 1,
-        "size": 771,
-        "created": "2024-02-19T20:09:47+00:00",
-        "updated": "2024-04-09T04:44:02+00:00",
-        "pushed": "2024-04-10T14:45:00+00:00",
-        "url": "https://github.com/meiniKi/FazyRV",
-        "id": 760114130
-    },
-    {
         "repo": "openfpga-litex-junk",
         "description": "fork of agg23/openfpga-litex",
         "owner": "mcclure",
@@ -11895,19 +11869,6 @@
         "id": 788057292
     },
     {
-        "repo": "litex_hw_ci",
-        "description": "LiteX Hardware CI tests.",
-        "owner": "enjoy-digital",
-        "stars": 6,
-        "forks": 0,
-        "size": 1650,
-        "created": "2024-01-17T07:17:44+00:00",
-        "updated": "2024-03-12T21:13:13+00:00",
-        "pushed": "2024-04-18T13:08:24+00:00",
-        "url": "https://github.com/enjoy-digital/litex_hw_ci",
-        "id": 744379987
-    },
-    {
         "repo": "litex-acorn-baseboard",
         "description": "LiteX development baseboards arround the SQRL Acorn. ",
         "owner": "enjoy-digital",
@@ -12090,19 +12051,6 @@
         "id": 723273466
     },
     {
-        "repo": "LycheeMSO",
-        "description": null,
-        "owner": "Flinner",
-        "stars": 0,
-        "forks": 0,
-        "size": 19,
-        "created": "2024-05-02T20:03:04+00:00",
-        "updated": "2024-05-02T20:03:19+00:00",
-        "pushed": "2024-05-02T20:03:15+00:00",
-        "url": "https://github.com/Flinner/LycheeMSO",
-        "id": 795212026
-    },
-    {
         "repo": "aesgcm_thesis",
         "description": " Repository for the AES-GCM algorithm codes and configuration for Sharmine and Neethu's master thesis project.",
         "owner": "sharmmiiee",
@@ -12192,32 +12140,6 @@
         "pushed": "2024-05-08T02:44:25+00:00",
         "url": "https://github.com/JesusMuentes/litex-apps",
         "id": 793871326
-    },
-    {
-        "repo": "18224-s24-tapeout",
-        "description": "Build infrastructure for class-wide tapeout for 18-224 Intro to Open Source Chip Design, Spring 2024",
-        "owner": "CMU-Open-Source-Chip-Design-Class",
-        "stars": 0,
-        "forks": 0,
-        "size": 134020,
-        "created": "2024-05-07T17:41:31+00:00",
-        "updated": "2024-05-07T20:42:47+00:00",
-        "pushed": "2024-05-07T20:42:43+00:00",
-        "url": "https://github.com/CMU-Open-Source-Chip-Design-Class/18224-s24-tapeout",
-        "id": 797370344
-    },
-    {
-        "repo": "tinyclunx33_zephyr_example",
-        "description": "Zephyr running on the tinyCLUNX33 SoM",
-        "owner": "tinyvision-ai-inc",
-        "stars": 0,
-        "forks": 0,
-        "size": 748,
-        "created": "2024-01-02T18:40:46+00:00",
-        "updated": "2024-05-08T18:24:21+00:00",
-        "pushed": "2024-05-08T18:24:18+00:00",
-        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
-        "id": 738233144
     },
     {
         "repo": "a2o",
@@ -12363,32 +12285,6 @@
         "id": 237940918
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2699,
-        "forks": 523,
-        "size": 16804,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-05-13T15:52:37+00:00",
-        "pushed": "2024-05-14T00:03:32+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 344,
-        "forks": 269,
-        "size": 4042,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-05-13T06:53:18+00:00",
-        "pushed": "2024-05-14T01:41:27+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litesdcard",
         "description": "Small footprint and configurable SDCard core",
         "owner": "enjoy-digital",
@@ -12480,19 +12376,6 @@
         "id": 330793471
     },
     {
-        "repo": "neorv32",
-        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1436,
-        "forks": 200,
-        "size": 203445,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-05-15T02:55:17+00:00",
-        "pushed": "2024-05-14T16:12:02+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "pythondata-auto",
         "description": "Scripts which automate the creation of the `litex.data` Python modules from various git repositories.",
         "owner": "litex-hub",
@@ -12519,19 +12402,6 @@
         "id": 35898469
     },
     {
-        "repo": "zephyr-rtos-cv32",
-        "description": "Draft for porting cv32e4XXX softcores based on LiteX SoC for zephyr rtos ",
-        "owner": "mohamedElbouazzati",
-        "stars": 3,
-        "forks": 0,
-        "size": 625949,
-        "created": "2024-04-16T13:21:28+00:00",
-        "updated": "2024-05-14T21:24:44+00:00",
-        "pushed": "2024-05-14T21:24:40+00:00",
-        "url": "https://github.com/mohamedElbouazzati/zephyr-rtos-cv32",
-        "id": 787409936
-    },
-    {
         "repo": "dm_vdo_kernel",
         "description": "kernel workflows",
         "owner": "averyfreeman",
@@ -12556,45 +12426,6 @@
         "pushed": "2024-05-15T23:39:13+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 688,
-        "forks": 65,
-        "size": 1022,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-16T03:46:11+00:00",
-        "pushed": "2024-05-16T01:45:57+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 444,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-05-08T01:07:33+00:00",
-        "pushed": "2024-05-16T02:14:31+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 30,
-        "forks": 12,
-        "size": 34223,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-05-14T10:37:39+00:00",
-        "pushed": "2024-05-15T19:36:54+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "Raptor",
@@ -12649,32 +12480,6 @@
         "id": 800592354
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 2804,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-16T00:29:23+00:00",
-        "pushed": "2024-05-16T00:29:18+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1219,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-16T04:34:29+00:00",
-        "pushed": "2024-05-16T04:34:25+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
@@ -12686,5 +12491,200 @@
         "pushed": "2024-05-16T03:24:44+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2707,
+        "forks": 524,
+        "size": 16856,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-05-16T10:11:05+00:00",
+        "pushed": "2024-05-16T17:30:20+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 344,
+        "forks": 269,
+        "size": 3983,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-05-16T09:09:23+00:00",
+        "pushed": "2024-05-16T09:09:19+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 689,
+        "forks": 65,
+        "size": 1022,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-16T21:25:25+00:00",
+        "pushed": "2024-05-17T01:44:51+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 445,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-05-17T05:54:41+00:00",
+        "pushed": "2024-05-17T02:14:15+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1437,
+        "forks": 201,
+        "size": 203480,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-05-16T19:53:24+00:00",
+        "pushed": "2024-05-16T19:55:11+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 30,
+        "forks": 12,
+        "size": 34242,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-05-14T10:37:39+00:00",
+        "pushed": "2024-05-16T20:45:55+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "litex_hw_ci",
+        "description": "LiteX Hardware CI tests.",
+        "owner": "enjoy-digital",
+        "stars": 6,
+        "forks": 0,
+        "size": 1667,
+        "created": "2024-01-17T07:17:44+00:00",
+        "updated": "2024-05-16T13:20:56+00:00",
+        "pushed": "2024-05-16T13:20:52+00:00",
+        "url": "https://github.com/enjoy-digital/litex_hw_ci",
+        "id": 744379987
+    },
+    {
+        "repo": "FazyRV",
+        "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
+        "owner": "meiniKi",
+        "stars": 60,
+        "forks": 1,
+        "size": 782,
+        "created": "2024-02-19T20:09:47+00:00",
+        "updated": "2024-05-16T07:17:13+00:00",
+        "pushed": "2024-05-16T07:17:09+00:00",
+        "url": "https://github.com/meiniKi/FazyRV",
+        "id": 760114130
+    },
+    {
+        "repo": "zephyr-rtos-cv32",
+        "description": "Draft for porting cv32e4XXX softcores based on LiteX SoC for zephyr rtos ",
+        "owner": "mohamedElbouazzati",
+        "stars": 3,
+        "forks": 0,
+        "size": 625988,
+        "created": "2024-04-16T13:21:28+00:00",
+        "updated": "2024-05-17T00:50:42+00:00",
+        "pushed": "2024-05-17T00:50:37+00:00",
+        "url": "https://github.com/mohamedElbouazzati/zephyr-rtos-cv32",
+        "id": 787409936
+    },
+    {
+        "repo": "LycheeMSO",
+        "description": null,
+        "owner": "Flinner",
+        "stars": 0,
+        "forks": 0,
+        "size": 23,
+        "created": "2024-05-02T20:03:04+00:00",
+        "updated": "2024-05-16T16:27:03+00:00",
+        "pushed": "2024-05-16T16:27:00+00:00",
+        "url": "https://github.com/Flinner/LycheeMSO",
+        "id": 795212026
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 2808,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-17T00:29:42+00:00",
+        "pushed": "2024-05-17T00:29:38+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
+        "repo": "cryptocurrency-icons",
+        "description": "All the cryptocurrency icons available on coinmarketcap.com",
+        "owner": "ErikThiart",
+        "stars": 178,
+        "forks": 76,
+        "size": 659606,
+        "created": "2018-04-25T11:51:59+00:00",
+        "updated": "2024-05-16T12:56:37+00:00",
+        "pushed": "2024-05-16T12:56:33+00:00",
+        "url": "https://github.com/ErikThiart/cryptocurrency-icons",
+        "id": 130998864
+    },
+    {
+        "repo": "18224-s24-tapeout",
+        "description": "Build infrastructure for class-wide tapeout for 18-224 Intro to Open Source Chip Design, Spring 2024",
+        "owner": "CMU-Open-Source-Chip-Design-Class",
+        "stars": 0,
+        "forks": 0,
+        "size": 134028,
+        "created": "2024-05-07T17:41:31+00:00",
+        "updated": "2024-05-16T19:55:03+00:00",
+        "pushed": "2024-05-16T19:55:00+00:00",
+        "url": "https://github.com/CMU-Open-Source-Chip-Design-Class/18224-s24-tapeout",
+        "id": 797370344
+    },
+    {
+        "repo": "tinyclunx33_zephyr_example",
+        "description": "Zephyr running on the tinyCLUNX33 SoM",
+        "owner": "tinyvision-ai-inc",
+        "stars": 0,
+        "forks": 0,
+        "size": 755,
+        "created": "2024-01-02T18:40:46+00:00",
+        "updated": "2024-05-16T19:26:31+00:00",
+        "pushed": "2024-05-16T19:26:28+00:00",
+        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
+        "id": 738233144
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1294,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-05-17T04:35:49+00:00",
+        "pushed": "2024-05-17T04:35:46+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
     }
 ]
