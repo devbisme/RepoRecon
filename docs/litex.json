@@ -12350,19 +12350,6 @@
         "id": 789527923
     },
     {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 5,
-        "forks": 0,
-        "size": 325,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2024-05-13T10:06:53+00:00",
-        "pushed": "2024-05-13T10:06:50+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12428,19 +12415,6 @@
         "id": 190029235
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 38,
-        "forks": 16,
-        "size": 111698,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-05-16T01:05:37+00:00",
-        "pushed": "2024-05-16T01:05:34+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -12493,58 +12467,6 @@
         "id": 560725242
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2707,
-        "forks": 524,
-        "size": 16856,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-05-16T10:11:05+00:00",
-        "pushed": "2024-05-16T17:30:20+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 344,
-        "forks": 269,
-        "size": 3983,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-05-16T09:09:23+00:00",
-        "pushed": "2024-05-16T09:09:19+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 689,
-        "forks": 65,
-        "size": 1022,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-16T21:25:25+00:00",
-        "pushed": "2024-05-17T01:44:51+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 445,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-05-17T05:54:41+00:00",
-        "pushed": "2024-05-17T02:14:15+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "neorv32",
         "description": ":rocket: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -12556,19 +12478,6 @@
         "pushed": "2024-05-16T19:55:11+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 30,
-        "forks": 12,
-        "size": 34242,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-05-14T10:37:39+00:00",
-        "pushed": "2024-05-16T20:45:55+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "litex_hw_ci",
@@ -12623,19 +12532,6 @@
         "id": 795212026
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 2808,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-17T00:29:42+00:00",
-        "pushed": "2024-05-17T00:29:38+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
         "repo": "cryptocurrency-icons",
         "description": "All the cryptocurrency icons available on coinmarketcap.com",
         "owner": "ErikThiart",
@@ -12675,15 +12571,119 @@
         "id": 738233144
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2708,
+        "forks": 525,
+        "size": 16868,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-05-17T10:58:10+00:00",
+        "pushed": "2024-05-17T10:58:06+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 344,
+        "forks": 269,
+        "size": 3985,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-05-17T10:52:03+00:00",
+        "pushed": "2024-05-17T10:51:59+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 689,
+        "forks": 65,
+        "size": 1022,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-16T21:25:25+00:00",
+        "pushed": "2024-05-18T01:53:34+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 445,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-05-17T05:54:41+00:00",
+        "pushed": "2024-05-18T02:14:17+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 30,
+        "forks": 12,
+        "size": 34242,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-05-14T10:37:39+00:00",
+        "pushed": "2024-05-17T10:14:20+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 38,
+        "forks": 16,
+        "size": 111728,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-05-17T21:01:24+00:00",
+        "pushed": "2024-05-17T21:01:21+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 2812,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-18T00:29:36+00:00",
+        "pushed": "2024-05-18T00:29:33+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 5,
+        "forks": 0,
+        "size": 328,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2024-05-17T07:43:55+00:00",
+        "pushed": "2024-05-17T07:43:52+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1294,
+        "size": 1325,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-17T04:35:49+00:00",
-        "pushed": "2024-05-17T04:35:46+00:00",
+        "updated": "2024-05-18T04:35:08+00:00",
+        "pushed": "2024-05-18T04:35:05+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     }
