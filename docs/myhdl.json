@@ -4810,19 +4810,6 @@
         "id": 776168819
     },
     {
-        "repo": "awesome-hdl",
-        "description": "Hardware Description Languages",
-        "owner": "drom",
-        "stars": 864,
-        "forks": 92,
-        "size": 131,
-        "created": "2017-04-12T06:43:44+00:00",
-        "updated": "2024-03-23T11:35:26+00:00",
-        "pushed": "2024-03-23T16:45:58+00:00",
-        "url": "https://github.com/drom/awesome-hdl",
-        "id": 88018788
-    },
-    {
         "repo": "24a-AI-simulado",
         "description": null,
         "owner": "insper-bits",
@@ -5213,19 +5200,6 @@
         "id": 730892692
     },
     {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 114,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-05-13T21:48:17+00:00",
-        "pushed": "2024-05-13T21:48:13+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
-    },
-    {
         "repo": "fos-proposals",
         "description": ":gift_heart: :penguin: Archive of GSoC proposals",
         "owner": "saketkc",
@@ -5265,16 +5239,55 @@
         "id": 799254123
     },
     {
+        "repo": "awesome-hdl",
+        "description": "Hardware Description Languages",
+        "owner": "drom",
+        "stars": 889,
+        "forks": 92,
+        "size": 136,
+        "created": "2017-04-12T06:43:44+00:00",
+        "updated": "2024-05-20T19:57:16+00:00",
+        "pushed": "2024-05-20T19:57:12+00:00",
+        "url": "https://github.com/drom/awesome-hdl",
+        "id": 88018788
+    },
+    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41418,
+        "size": 41437,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-05-19T17:05:10+00:00",
-        "pushed": "2024-05-19T17:05:07+00:00",
+        "updated": "2024-05-20T23:52:59+00:00",
+        "pushed": "2024-05-20T23:52:56+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 148,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-05-21T02:15:08+00:00",
+        "pushed": "2024-05-21T02:15:05+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
+    },
+    {
+        "repo": "HdlConvertorAst_beta",
+        "description": "According to the AST provided in the original version, a translation function from Verilog to MyHDL has been added (incomplete)",
+        "owner": "YouHui1",
+        "stars": 0,
+        "forks": 0,
+        "size": 175,
+        "created": "2024-05-20T14:49:05+00:00",
+        "updated": "2024-05-21T01:43:38+00:00",
+        "pushed": "2024-05-21T01:43:35+00:00",
+        "url": "https://github.com/YouHui1/HdlConvertorAst_beta",
+        "id": 803346778
     }
 ]
