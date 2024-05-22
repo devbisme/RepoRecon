@@ -5135,19 +5135,6 @@
         "id": 784301828
     },
     {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 53,
-        "forks": 9,
-        "size": 1504,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2024-05-08T12:12:20+00:00",
-        "pushed": "2024-05-06T07:07:24+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
         "repo": "cyrite.howto",
         "description": null,
         "owner": "hackfin",
@@ -5172,19 +5159,6 @@
         "pushed": "2024-05-12T20:16:09+00:00",
         "url": "https://github.com/conda-forge/myhdl-feedstock",
         "id": 328467543
-    },
-    {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13510,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-05-13T10:10:49+00:00",
-        "pushed": "2024-05-13T10:10:45+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
     },
     {
         "repo": "magia",
@@ -5239,32 +5213,6 @@
         "id": 799254123
     },
     {
-        "repo": "awesome-hdl",
-        "description": "Hardware Description Languages",
-        "owner": "drom",
-        "stars": 889,
-        "forks": 92,
-        "size": 136,
-        "created": "2017-04-12T06:43:44+00:00",
-        "updated": "2024-05-20T19:57:16+00:00",
-        "pushed": "2024-05-20T19:57:12+00:00",
-        "url": "https://github.com/drom/awesome-hdl",
-        "id": 88018788
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41437,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-05-20T23:52:59+00:00",
-        "pushed": "2024-05-20T23:52:56+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "LLM-Hardware-Experiments",
         "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
         "owner": "parker-research",
@@ -5289,5 +5237,57 @@
         "pushed": "2024-05-21T01:43:35+00:00",
         "url": "https://github.com/YouHui1/HdlConvertorAst_beta",
         "id": 803346778
+    },
+    {
+        "repo": "awesome-hdl",
+        "description": "Hardware Description Languages",
+        "owner": "drom",
+        "stars": 891,
+        "forks": 92,
+        "size": 136,
+        "created": "2017-04-12T06:43:44+00:00",
+        "updated": "2024-05-22T05:19:21+00:00",
+        "pushed": "2024-05-22T05:19:17+00:00",
+        "url": "https://github.com/drom/awesome-hdl",
+        "id": 88018788
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41443,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-05-21T11:45:58+00:00",
+        "pushed": "2024-05-21T11:45:55+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13511,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-05-21T17:02:22+00:00",
+        "pushed": "2024-05-21T17:02:18+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 54,
+        "forks": 9,
+        "size": 1517,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2024-05-15T14:17:34+00:00",
+        "pushed": "2024-05-21T20:26:16+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
     }
 ]

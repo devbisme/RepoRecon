@@ -4719,19 +4719,6 @@
         "id": 141916833
     },
     {
-        "repo": "edge-ai",
-        "description": "A curated list of resources for embedded AI",
-        "owner": "crespum",
-        "stars": 267,
-        "forks": 32,
-        "size": 67,
-        "created": "2018-07-25T18:05:37Z",
-        "updated": "2023-08-23T09:37:34Z",
-        "pushed": "2021-12-16T08:17:36Z",
-        "url": "https://github.com/crespum/edge-ai",
-        "id": 142336474
-    },
-    {
         "repo": "FlowPowerAppsMigrator",
         "description": "Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.",
         "owner": "Zerg00s",
@@ -12153,19 +12140,6 @@
         "pushed": "2020-04-18T15:52:29Z",
         "url": "https://github.com/SunDUINO/SunM1W-DEVEL",
         "id": 256772166
-    },
-    {
-        "repo": "cpu-benchmark-v9",
-        "description": null,
-        "owner": "spapas",
-        "stars": 1,
-        "forks": 1,
-        "size": 122,
-        "created": "2020-04-18T14:53:00Z",
-        "updated": "2023-05-23T05:59:24Z",
-        "pushed": "2023-05-23T05:59:28Z",
-        "url": "https://github.com/spapas/cpu-benchmark-v9",
-        "id": 256779382
     },
     {
         "repo": "til",
@@ -37219,45 +37193,6 @@
         "id": 803125981
     },
     {
-        "repo": "ScratchHacksBook",
-        "description": null,
-        "owner": "610t",
-        "stars": 0,
-        "forks": 0,
-        "size": 49661,
-        "created": "2024-05-18T00:31:41+00:00",
-        "updated": "2024-05-20T02:46:11+00:00",
-        "pushed": "2024-05-20T02:46:08+00:00",
-        "url": "https://github.com/610t/ScratchHacksBook",
-        "id": 802309493
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 697,
-        "forks": 181,
-        "size": 58260,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-05-18T05:56:00+00:00",
-        "pushed": "2024-05-21T06:12:49+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 68,
-        "forks": 3,
-        "size": 14752,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-05-17T15:11:41+00:00",
-        "pushed": "2024-05-20T21:39:11+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -37297,19 +37232,6 @@
         "id": 733722162
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 7980,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-05-20T10:31:30+00:00",
-        "pushed": "2024-05-20T10:31:27+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "maix",
         "description": null,
         "owner": "AverseABFun",
@@ -37336,19 +37258,6 @@
         "id": 761864577
     },
     {
-        "repo": "my_diary",
-        "description": "\u8bb0\u5f55\u4e00\u4e0b\u65e5\u5e38\u5b66\u4e60\u8fdb\u5ea6",
-        "owner": "assassin-2023",
-        "stars": 1,
-        "forks": 0,
-        "size": 36,
-        "created": "2024-05-12T13:53:21+00:00",
-        "updated": "2024-05-20T10:37:44+00:00",
-        "pushed": "2024-05-20T10:37:41+00:00",
-        "url": "https://github.com/assassin-2023/my_diary",
-        "id": 799556041
-    },
-    {
         "repo": "BreadQ3166.github.io",
         "description": null,
         "owner": "BreadQ3166",
@@ -37362,15 +37271,80 @@
         "id": 779544970
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 697,
+        "forks": 181,
+        "size": 58451,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-05-21T09:11:33+00:00",
+        "pushed": "2024-05-22T04:26:21+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "edge-ai",
+        "description": "A curated list of resources for embedded AI",
+        "owner": "crespum",
+        "stars": 312,
+        "forks": 38,
+        "size": 72,
+        "created": "2018-07-25T18:05:37+00:00",
+        "updated": "2024-05-21T11:56:11+00:00",
+        "pushed": "2024-05-21T06:52:59+00:00",
+        "url": "https://github.com/crespum/edge-ai",
+        "id": 142336474
+    },
+    {
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 68,
+        "forks": 4,
+        "size": 14765,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-05-17T15:11:41+00:00",
+        "pushed": "2024-05-21T21:34:41+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 7985,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-05-21T18:49:06+00:00",
+        "pushed": "2024-05-21T18:49:03+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "my_diary",
+        "description": "\u8bb0\u5f55\u4e00\u4e0b\u65e5\u5e38\u5b66\u4e60\u8fdb\u5ea6",
+        "owner": "assassin-2023",
+        "stars": 1,
+        "forks": 0,
+        "size": 38,
+        "created": "2024-05-12T13:53:21+00:00",
+        "updated": "2024-05-21T10:49:02+00:00",
+        "pushed": "2024-05-21T10:48:59+00:00",
+        "url": "https://github.com/assassin-2023/my_diary",
+        "id": 799556041
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 10468,
+        "size": 1597,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-05-21T01:40:26+00:00",
-        "pushed": "2024-05-21T01:40:23+00:00",
+        "updated": "2024-05-22T01:41:22+00:00",
+        "pushed": "2024-05-22T01:41:19+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37380,10 +37354,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 1271,
+        "size": 1273,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-05-21T01:37:10+00:00",
-        "pushed": "2024-05-21T01:37:07+00:00",
+        "updated": "2024-05-22T01:38:12+00:00",
+        "pushed": "2024-05-22T01:38:09+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37393,11 +37367,37 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 677771,
+        "size": 677772,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-05-20T12:27:59+00:00",
-        "pushed": "2024-05-20T12:27:55+00:00",
+        "updated": "2024-05-21T12:25:34+00:00",
+        "pushed": "2024-05-21T12:25:03+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "ScratchHacksBook",
+        "description": null,
+        "owner": "610t",
+        "stars": 0,
+        "forks": 0,
+        "size": 51474,
+        "created": "2024-05-18T00:31:41+00:00",
+        "updated": "2024-05-21T07:50:35+00:00",
+        "pushed": "2024-05-21T07:50:32+00:00",
+        "url": "https://github.com/610t/ScratchHacksBook",
+        "id": 802309493
+    },
+    {
+        "repo": "cpu-benchmark-v9",
+        "description": null,
+        "owner": "spapas",
+        "stars": 1,
+        "forks": 1,
+        "size": 124,
+        "created": "2020-04-18T14:53:00+00:00",
+        "updated": "2024-05-21T06:51:34+00:00",
+        "pushed": "2024-05-21T06:51:37+00:00",
+        "url": "https://github.com/spapas/cpu-benchmark-v9",
+        "id": 256779382
     }
 ]
