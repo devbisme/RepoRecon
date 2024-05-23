@@ -5200,19 +5200,6 @@
         "id": 35898469
     },
     {
-        "repo": "cpu1",
-        "description": "32bit stack processor implemented with MyHDL ",
-        "owner": "BardinPetr",
-        "stars": 0,
-        "forks": 0,
-        "size": 156,
-        "created": "2024-05-11T15:33:12+00:00",
-        "updated": "2024-05-18T12:56:34+00:00",
-        "pushed": "2024-05-18T12:56:31+00:00",
-        "url": "https://github.com/BardinPetr/cpu1",
-        "id": 799254123
-    },
-    {
         "repo": "LLM-Hardware-Experiments",
         "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
         "owner": "parker-research",
@@ -5289,5 +5276,18 @@
         "pushed": "2024-05-21T20:26:16+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
+    },
+    {
+        "repo": "cpu1",
+        "description": "32bit stack processor implemented with MyHDL ",
+        "owner": "BardinPetr",
+        "stars": 0,
+        "forks": 0,
+        "size": 188,
+        "created": "2024-05-11T15:33:12+00:00",
+        "updated": "2024-05-22T12:00:56+00:00",
+        "pushed": "2024-05-22T12:00:52+00:00",
+        "url": "https://github.com/BardinPetr/cpu1",
+        "id": 799254123
     }
 ]

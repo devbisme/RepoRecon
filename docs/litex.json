@@ -12012,19 +12012,6 @@
         "id": 650913012
     },
     {
-        "repo": "pocket-riscv-rs",
-        "description": "Repo for apps for the Pocket RISC-V core for Analogue Pocket/OpenFPGA. Multiple branches.",
-        "owner": "mcclure",
-        "stars": 8,
-        "forks": 0,
-        "size": 301,
-        "created": "2023-11-25T06:16:16+00:00",
-        "updated": "2024-05-02T23:38:07+00:00",
-        "pushed": "2024-05-02T21:09:36+00:00",
-        "url": "https://github.com/mcclure/pocket-riscv-rs",
-        "id": 723273466
-    },
-    {
         "repo": "ocfpga",
         "description": "OrangeCrab ECP5 fpga dev board experiments",
         "owner": "samblenny",
@@ -12259,19 +12246,6 @@
         "id": 283207003
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards.",
-        "owner": "apfelaudio",
-        "stars": 159,
-        "forks": 7,
-        "size": 21792,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-05-13T13:38:05+00:00",
-        "pushed": "2024-05-12T17:35:12+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "colorlight-riscv-rs",
         "description": "\"Hacking\" a Chinese LED display board with open-source FPGA tools, RISC-V and Rust \ud83e\udd80 ",
         "owner": "roby2014",
@@ -12428,19 +12402,6 @@
         "id": 797370344
     },
     {
-        "repo": "tinyclunx33_zephyr_example",
-        "description": "Zephyr running on the tinyCLUNX33 SoM",
-        "owner": "tinyvision-ai-inc",
-        "stars": 0,
-        "forks": 0,
-        "size": 755,
-        "created": "2024-01-02T18:40:46+00:00",
-        "updated": "2024-05-16T19:26:31+00:00",
-        "pushed": "2024-05-16T19:26:28+00:00",
-        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
-        "id": 738233144
-    },
-    {
         "repo": "streams",
         "description": "Streams library for Amaranth",
         "owner": "DaveBerkeley",
@@ -12532,32 +12493,6 @@
         "id": 532379641
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2715,
-        "forks": 527,
-        "size": 16878,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-05-20T10:01:02+00:00",
-        "pushed": "2024-05-21T02:16:39+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 3,
-        "forks": 0,
-        "size": 54612,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-05-21T03:23:38+00:00",
-        "pushed": "2024-05-21T03:23:35+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12584,32 +12519,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 691,
-        "forks": 65,
-        "size": 1022,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-20T03:38:14+00:00",
-        "pushed": "2024-05-22T01:56:53+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 446,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-05-20T07:35:07+00:00",
-        "pushed": "2024-05-22T02:15:29+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -12621,32 +12530,6 @@
         "pushed": "2024-05-22T05:45:25+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 32,
-        "forks": 12,
-        "size": 34318,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-05-21T12:33:31+00:00",
-        "pushed": "2024-05-21T20:41:11+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 38,
-        "forks": 16,
-        "size": 111723,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-05-22T00:33:25+00:00",
-        "pushed": "2024-05-22T00:33:23+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "zephyr-rtos-cv32",
@@ -12675,19 +12558,6 @@
         "id": 795005892
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 2826,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-22T00:29:35+00:00",
-        "pushed": "2024-05-22T00:29:31+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
         "owner": "chili-chips-ba",
@@ -12701,16 +12571,146 @@
         "id": 798146281
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2717,
+        "forks": 528,
+        "size": 16884,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-05-22T13:55:53+00:00",
+        "pushed": "2024-05-22T14:18:56+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 691,
+        "forks": 65,
+        "size": 1022,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-20T03:38:14+00:00",
+        "pushed": "2024-05-23T01:51:53+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 447,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-05-22T23:04:29+00:00",
+        "pushed": "2024-05-23T02:14:49+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 32,
+        "forks": 12,
+        "size": 34370,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-05-22T13:53:00+00:00",
+        "pushed": "2024-05-22T16:28:01+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 38,
+        "forks": 16,
+        "size": 111742,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-05-23T02:14:55+00:00",
+        "pushed": "2024-05-23T02:14:52+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "pocket-riscv-rs",
+        "description": "Repo for apps for the Pocket RISC-V core for Analogue Pocket/OpenFPGA. Multiple branches.",
+        "owner": "mcclure",
+        "stars": 8,
+        "forks": 0,
+        "size": 301,
+        "created": "2023-11-25T06:16:16+00:00",
+        "updated": "2024-05-02T23:38:07+00:00",
+        "pushed": "2024-05-23T02:43:03+00:00",
+        "url": "https://github.com/mcclure/pocket-riscv-rs",
+        "id": 723273466
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards.",
+        "owner": "apfelaudio",
+        "stars": 162,
+        "forks": 8,
+        "size": 21800,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2024-05-20T19:32:44+00:00",
+        "pushed": "2024-05-22T18:43:53+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 2816,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-23T00:29:38+00:00",
+        "pushed": "2024-05-23T00:29:35+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
+        "repo": "tinyclunx33_zephyr_example",
+        "description": "Zephyr running on the tinyCLUNX33 SoM",
+        "owner": "tinyvision-ai-inc",
+        "stars": 0,
+        "forks": 0,
+        "size": 757,
+        "created": "2024-01-02T18:40:46+00:00",
+        "updated": "2024-05-16T19:26:31+00:00",
+        "pushed": "2024-05-22T16:48:05+00:00",
+        "url": "https://github.com/tinyvision-ai-inc/tinyclunx33_zephyr_example",
+        "id": 738233144
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1625,
+        "size": 1700,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-22T04:36:21+00:00",
-        "pushed": "2024-05-22T04:36:18+00:00",
+        "updated": "2024-05-23T04:35:43+00:00",
+        "pushed": "2024-05-23T04:35:39+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 3,
+        "forks": 0,
+        "size": 55505,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-05-23T03:22:58+00:00",
+        "pushed": "2024-05-23T03:22:54+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
