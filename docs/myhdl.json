@@ -5239,19 +5239,6 @@
         "id": 38977954
     },
     {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 54,
-        "forks": 9,
-        "size": 1517,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2024-05-15T14:17:34+00:00",
-        "pushed": "2024-05-21T20:26:16+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
         "repo": "cpu1",
         "description": "32bit stack processor implemented with MyHDL ",
         "owner": "BardinPetr",
@@ -5283,11 +5270,24 @@
         "owner": "codingonion",
         "stars": 92,
         "forks": 11,
-        "size": 42,
+        "size": 44,
         "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-05-23T16:14:51+00:00",
-        "pushed": "2024-05-23T16:14:48+00:00",
+        "updated": "2024-05-25T05:24:13+00:00",
+        "pushed": "2024-05-25T03:07:27+00:00",
         "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
         "id": 605602834
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 54,
+        "forks": 10,
+        "size": 1561,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2024-05-24T17:48:42+00:00",
+        "pushed": "2024-05-24T17:48:38+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
     }
 ]
