@@ -12155,19 +12155,6 @@
         "id": 618501910
     },
     {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 25,
-        "forks": 1,
-        "size": 9679,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2024-05-12T09:50:25+00:00",
-        "pushed": "2024-05-12T09:50:22+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
-    },
-    {
         "repo": "litespi-feedstock",
         "description": "A conda-smithy repository for litespi.",
         "owner": "conda-forge",
@@ -12363,19 +12350,6 @@
         "id": 100942867
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 1,
-        "forks": 4,
-        "size": 181,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-05-19T02:03:04+00:00",
-        "pushed": "2024-05-19T02:03:01+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "NuBusFPGA",
         "description": "Stuff to put a FPGA in a NuBus Macintosh",
         "owner": "MelkhiorVintageComputing",
@@ -12532,19 +12506,6 @@
         "id": 504905833
     },
     {
-        "repo": "LinuxDrivers",
-        "description": "Linux character device drivers running in Renode",
-        "owner": "panantoni01",
-        "stars": 0,
-        "forks": 0,
-        "size": 176,
-        "created": "2024-02-15T12:02:01+00:00",
-        "updated": "2024-05-01T07:54:41+00:00",
-        "pushed": "2024-05-23T20:37:41+00:00",
-        "url": "https://github.com/panantoni01/LinuxDrivers",
-        "id": 757989102
-    },
-    {
         "repo": "18224-s24-tapeout",
         "description": "Build infrastructure for class-wide tapeout for 18-224 Intro to Open Source Chip Design, Spring 2024",
         "owner": "CMU-Open-Source-Chip-Design-Class",
@@ -12584,19 +12545,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 691,
-        "forks": 65,
-        "size": 1022,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-05-20T03:38:14+00:00",
-        "pushed": "2024-05-25T01:55:10+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12608,19 +12556,6 @@
         "pushed": "2024-05-25T02:13:58+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 32,
-        "forks": 12,
-        "size": 34538,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-05-24T18:56:12+00:00",
-        "pushed": "2024-05-24T19:08:10+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "Raptor",
@@ -12662,19 +12597,6 @@
         "id": 768783340
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 2824,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-05-25T00:28:54+00:00",
-        "pushed": "2024-05-25T00:28:50+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
         "owner": "chili-chips-ba",
@@ -12701,15 +12623,93 @@
         "id": 605602834
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 691,
+        "forks": 65,
+        "size": 1140,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-05-20T03:38:14+00:00",
+        "pushed": "2024-05-26T01:51:07+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 32,
+        "forks": 12,
+        "size": 34538,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-05-24T18:56:12+00:00",
+        "pushed": "2024-05-25T18:11:37+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 1,
+        "forks": 4,
+        "size": 181,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-05-19T02:03:04+00:00",
+        "pushed": "2024-05-25T22:20:53+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 26,
+        "forks": 1,
+        "size": 9680,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2024-05-25T20:26:33+00:00",
+        "pushed": "2024-05-25T20:26:30+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "LinuxDrivers",
+        "description": "Linux character device drivers running in Renode",
+        "owner": "panantoni01",
+        "stars": 0,
+        "forks": 0,
+        "size": 179,
+        "created": "2024-02-15T12:02:01+00:00",
+        "updated": "2024-05-01T07:54:41+00:00",
+        "pushed": "2024-05-25T22:52:36+00:00",
+        "url": "https://github.com/panantoni01/LinuxDrivers",
+        "id": 757989102
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 2828,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-05-26T00:32:59+00:00",
+        "pushed": "2024-05-26T00:32:53+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1703,
+        "size": 1012,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-05-25T04:36:33+00:00",
-        "pushed": "2024-05-25T04:36:30+00:00",
+        "updated": "2024-05-26T04:37:18+00:00",
+        "pushed": "2024-05-26T04:37:16+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12719,10 +12719,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 56390,
+        "size": 56824,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-05-25T03:25:26+00:00",
-        "pushed": "2024-05-25T03:25:22+00:00",
+        "updated": "2024-05-26T03:22:34+00:00",
+        "pushed": "2024-05-26T03:22:31+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
