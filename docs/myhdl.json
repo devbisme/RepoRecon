@@ -5083,19 +5083,6 @@
         "id": 162131770
     },
     {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 147,
-        "forks": 20,
-        "size": 5965,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-05-02T10:59:16+00:00",
-        "pushed": "2024-05-02T10:59:14+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
-    },
-    {
         "repo": "MyHDLWorkshop",
         "description": null,
         "owner": "safanazar",
@@ -5172,19 +5159,6 @@
         "pushed": "2024-05-14T21:21:14+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
-    },
-    {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 148,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-05-21T02:15:08+00:00",
-        "pushed": "2024-05-21T02:15:05+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
     },
     {
         "repo": "awesome-hdl",
@@ -5289,5 +5263,44 @@
         "pushed": "2024-05-28T02:15:29+00:00",
         "url": "https://github.com/YouHui1/HdlConvertorAst_beta",
         "id": 803346778
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 157,
+        "forks": 21,
+        "size": 5981,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-05-29T08:34:50+00:00",
+        "pushed": "2024-05-29T08:34:47+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 163,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2024-05-30T03:01:06+00:00",
+        "pushed": "2024-05-30T03:01:03+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
+    },
+    {
+        "repo": "Serial_Multiplier_Volume_Control",
+        "description": null,
+        "owner": "thanxm",
+        "stars": 0,
+        "forks": 0,
+        "size": 38,
+        "created": "2024-05-29T20:35:24+00:00",
+        "updated": "2024-05-29T21:25:13+00:00",
+        "pushed": "2024-05-29T21:25:09+00:00",
+        "url": "https://github.com/thanxm/Serial_Multiplier_Volume_Control",
+        "id": 807816317
     }
 ]
