@@ -37310,19 +37310,6 @@
         "id": 762139588
     },
     {
-        "repo": "ScratchHacksBook",
-        "description": null,
-        "owner": "610t",
-        "stars": 0,
-        "forks": 0,
-        "size": 72153,
-        "created": "2024-05-18T00:31:41+00:00",
-        "updated": "2024-05-28T02:54:57+00:00",
-        "pushed": "2024-05-28T02:54:54+00:00",
-        "url": "https://github.com/610t/ScratchHacksBook",
-        "id": 802309493
-    },
-    {
         "repo": "MaixPy-v1",
         "description": "MicroPython for K210 RISC-V, let's play with edge AI easier",
         "owner": "sipeed",
@@ -37401,19 +37388,6 @@
         "id": 128056991
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 60,
-        "forks": 11,
-        "size": 19067,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-05-28T11:20:30+00:00",
-        "pushed": "2024-05-31T05:09:22+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "MLAutonomer",
         "description": null,
         "owner": "A7RIANX",
@@ -37438,19 +37412,6 @@
         "pushed": "2024-05-30T09:25:02+00:00",
         "url": "https://github.com/hamburger-os/hamburger-os-kernel",
         "id": 807631183
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 28,
-        "forks": 4,
-        "size": 9736,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-05-31T13:25:09+00:00",
-        "pushed": "2024-05-31T13:25:04+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "support-matrix",
@@ -37505,19 +37466,6 @@
         "id": 805853219
     },
     {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 117,
-        "forks": 34,
-        "size": 687872,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-05-31T12:26:35+00:00",
-        "pushed": "2024-05-31T12:26:31+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
@@ -37542,19 +37490,6 @@
         "pushed": "2024-06-01T05:00:34+00:00",
         "url": "https://github.com/assassin-2023/my_diary",
         "id": 799556041
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9868,
-        "forks": 4860,
-        "size": 855650,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-01T02:01:03+00:00",
-        "pushed": "2024-06-01T05:37:02+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "CMINT",
@@ -37583,15 +37518,67 @@
         "id": 188584527
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 63,
+        "forks": 11,
+        "size": 19152,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-06-01T17:14:35+00:00",
+        "pushed": "2024-06-01T17:46:11+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9871,
+        "forks": 4860,
+        "size": 860127,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-02T05:39:28+00:00",
+        "pushed": "2024-06-02T03:20:13+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 28,
+        "forks": 4,
+        "size": 9745,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-06-01T17:38:58+00:00",
+        "pushed": "2024-06-01T17:38:54+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "2023-training-master-code-master",
+        "description": null,
+        "owner": "wuliu-NUma",
+        "stars": 0,
+        "forks": 0,
+        "size": 447,
+        "created": "2024-06-01T12:33:05+00:00",
+        "updated": "2024-06-01T12:42:24+00:00",
+        "pushed": "2024-06-01T12:42:20+00:00",
+        "url": "https://github.com/wuliu-NUma/2023-training-master-code-master",
+        "id": 809010793
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 4353,
+        "size": 4553,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-01T01:46:49+00:00",
-        "pushed": "2024-06-01T01:46:46+00:00",
+        "updated": "2024-06-02T01:44:50+00:00",
+        "pushed": "2024-06-02T01:44:47+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37601,11 +37588,37 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 2528,
+        "size": 2668,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-01T01:43:43+00:00",
-        "pushed": "2024-06-01T01:43:40+00:00",
+        "updated": "2024-06-02T01:43:53+00:00",
+        "pushed": "2024-06-02T01:43:50+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 117,
+        "forks": 34,
+        "size": 687874,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2024-06-01T12:24:48+00:00",
+        "pushed": "2024-06-01T12:24:39+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
+    },
+    {
+        "repo": "ScratchHacksBook",
+        "description": null,
+        "owner": "610t",
+        "stars": 0,
+        "forks": 0,
+        "size": 72170,
+        "created": "2024-05-18T00:31:41+00:00",
+        "updated": "2024-06-02T04:50:07+00:00",
+        "pushed": "2024-06-02T04:50:05+00:00",
+        "url": "https://github.com/610t/ScratchHacksBook",
+        "id": 802309493
     }
 ]
