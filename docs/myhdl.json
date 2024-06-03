@@ -5226,19 +5226,6 @@
         "id": 646169567
     },
     {
-        "repo": "cpu1",
-        "description": "32bit stack processor implemented with MyHDL ",
-        "owner": "BardinPetr",
-        "stars": 0,
-        "forks": 0,
-        "size": 341,
-        "created": "2024-05-11T15:33:12+00:00",
-        "updated": "2024-05-29T00:12:05+00:00",
-        "pushed": "2024-05-29T00:12:02+00:00",
-        "url": "https://github.com/BardinPetr/cpu1",
-        "id": 799254123
-    },
-    {
         "repo": "HdlConvertorAst_beta",
         "description": "According to the AST provided in the original version, a translation function from Verilog to MyHDL has been added (incomplete)",
         "owner": "YouHui1",
@@ -5302,5 +5289,18 @@
         "pushed": "2024-06-01T10:54:02+00:00",
         "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
         "id": 785859807
+    },
+    {
+        "repo": "cpu1",
+        "description": "32bit stack processor implemented with MyHDL ",
+        "owner": "BardinPetr",
+        "stars": 0,
+        "forks": 0,
+        "size": 1148,
+        "created": "2024-05-11T15:33:12+00:00",
+        "updated": "2024-06-02T21:09:59+00:00",
+        "pushed": "2024-06-02T21:09:56+00:00",
+        "url": "https://github.com/BardinPetr/cpu1",
+        "id": 799254123
     }
 ]
