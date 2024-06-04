@@ -6916,19 +6916,6 @@
         "id": 178908506
     },
     {
-        "repo": "Maixduino",
-        "description": "Arduino port on Maix board ( k210 )",
-        "owner": "sipeed",
-        "stars": 207,
-        "forks": 93,
-        "size": 735,
-        "created": "2019-04-02T01:35:07Z",
-        "updated": "2023-08-18T08:35:06Z",
-        "pushed": "2023-08-03T09:08:50Z",
-        "url": "https://github.com/sipeed/Maixduino",
-        "id": 178975934
-    },
-    {
         "repo": "Maixduino_DOC",
         "description": "Docs of Maixduino",
         "owner": "sipeed",
@@ -12400,19 +12387,6 @@
         "pushed": "2023-09-12T12:02:59Z",
         "url": "https://github.com/nii-yamagishilab/project-NN-Pytorch-scripts",
         "id": 262204980
-    },
-    {
-        "repo": "sdk-rt-thread-source-code",
-        "description": null,
-        "owner": "RT-Thread-Studio",
-        "stars": 4,
-        "forks": 6,
-        "size": 360523,
-        "created": "2020-05-08T07:22:04Z",
-        "updated": "2023-02-03T07:29:41Z",
-        "pushed": "2023-10-18T01:33:21Z",
-        "url": "https://github.com/RT-Thread-Studio/sdk-rt-thread-source-code",
-        "id": 262254923
     },
     {
         "repo": "SEASKY-Master",
@@ -30719,19 +30693,6 @@
         "id": 645601229
     },
     {
-        "repo": "kidsblock-resources-2.0",
-        "description": null,
-        "owner": "keyestudio2019",
-        "stars": 1,
-        "forks": 0,
-        "size": 114116,
-        "created": "2023-05-26T05:28:12Z",
-        "updated": "2023-10-26T03:04:00Z",
-        "pushed": "2023-10-26T03:05:49Z",
-        "url": "https://github.com/keyestudio2019/kidsblock-resources-2.0",
-        "id": 645638571
-    },
-    {
         "repo": "openblock-ee-firmwares",
         "description": null,
         "owner": "openblockee",
@@ -35685,19 +35646,6 @@
         "id": 558742270
     },
     {
-        "repo": "TinyMaix",
-        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
-        "owner": "sipeed",
-        "stars": 818,
-        "forks": 131,
-        "size": 42893,
-        "created": "2022-08-08T17:19:54+00:00",
-        "updated": "2024-04-09T06:24:33+00:00",
-        "pushed": "2024-04-11T03:05:11+00:00",
-        "url": "https://github.com/sipeed/TinyMaix",
-        "id": 522642478
-    },
-    {
         "repo": "MTK_kernel_modules",
         "description": "Kernel_modules for MTK Platform",
         "owner": "MiCode",
@@ -36764,19 +36712,6 @@
         "id": 767813186
     },
     {
-        "repo": "wmt_ai_study",
-        "description": "My AI study",
-        "owner": "weimingtom",
-        "stars": 19,
-        "forks": 5,
-        "size": 2204,
-        "created": "2018-08-26T09:31:59+00:00",
-        "updated": "2024-05-14T18:39:32+00:00",
-        "pushed": "2024-05-14T18:39:28+00:00",
-        "url": "https://github.com/weimingtom/wmt_ai_study",
-        "id": 146167925
-    },
-    {
         "repo": "K210",
         "description": null,
         "owner": "LJJNobody",
@@ -37271,19 +37206,6 @@
         "id": 807392286
     },
     {
-        "repo": "pxt-koi2",
-        "description": "KOI2 is an AI camera module based on the K210 chip from KittenBot, which aims to combine offline AI technology and high-performance embedded systems to provide strong support for visual recognition and intelligent AI applications. It comes with hardware such as a screen, camera, speaker, microphone, and buttons.",
-        "owner": "KittenBot",
-        "stars": 0,
-        "forks": 1,
-        "size": 335,
-        "created": "2024-02-23T06:55:48+00:00",
-        "updated": "2024-05-28T04:04:22+00:00",
-        "pushed": "2024-05-28T04:04:19+00:00",
-        "url": "https://github.com/KittenBot/pxt-koi2",
-        "id": 762139588
-    },
-    {
         "repo": "MaixPy-v1",
         "description": "MicroPython for K210 RISC-V, let's play with edge AI easier",
         "owner": "sipeed",
@@ -37349,19 +37271,6 @@
         "id": 804387728
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 699,
-        "forks": 180,
-        "size": 58541,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-05-31T01:09:11+00:00",
-        "pushed": "2024-05-31T04:47:05+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "MLAutonomer",
         "description": null,
         "owner": "A7RIANX",
@@ -37414,32 +37323,6 @@
         "id": 558589102
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8088,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-05-31T08:54:35+00:00",
-        "pushed": "2024-05-31T08:54:32+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
-        "repo": "nuttx-ox64",
-        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
-        "owner": "lupyuen",
-        "stars": 32,
-        "forks": 0,
-        "size": 180,
-        "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-05-28T01:58:54+00:00",
-        "pushed": "2024-06-01T00:13:39+00:00",
-        "url": "https://github.com/lupyuen/nuttx-ox64",
-        "id": 711107946
-    },
-    {
         "repo": "CMINT",
         "description": "An implementation of the Minimal Interpreted Language in portable C.",
         "owner": "trozodejamon",
@@ -37464,19 +37347,6 @@
         "pushed": "2024-06-01T02:31:35+00:00",
         "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
         "id": 188584527
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 63,
-        "forks": 11,
-        "size": 19152,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-06-01T17:14:35+00:00",
-        "pushed": "2024-06-01T17:46:11+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "2023-training-master-code-master",
@@ -37516,32 +37386,6 @@
         "pushed": "2024-06-02T10:36:03+00:00",
         "url": "https://github.com/ophub/flippy-openwrt-actions",
         "id": 360045993
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9876,
-        "forks": 4860,
-        "size": 860132,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-03T04:28:28+00:00",
-        "pushed": "2024-06-03T06:07:35+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 560,
-        "forks": 167,
-        "size": 1045,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2024-06-03T04:13:34+00:00",
-        "pushed": "2024-06-03T04:13:30+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
     },
     {
         "repo": "MaixCDK",
@@ -37596,17 +37440,160 @@
         "id": 809330112
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 701,
+        "forks": 180,
+        "size": 58377,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-06-04T03:54:45+00:00",
+        "pushed": "2024-06-04T03:54:52+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "Maixduino",
+        "description": "Arduino port on Maix board ( k210 )",
+        "owner": "sipeed",
+        "stars": 212,
+        "forks": 94,
+        "size": 733,
+        "created": "2019-04-02T01:35:07+00:00",
+        "updated": "2024-06-03T07:34:11+00:00",
+        "pushed": "2024-06-04T02:44:16+00:00",
+        "url": "https://github.com/sipeed/Maixduino",
+        "id": 178975934
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 66,
+        "forks": 13,
+        "size": 19168,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-06-04T03:13:14+00:00",
+        "pushed": "2024-06-04T01:54:36+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "TinyMaix",
+        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
+        "owner": "sipeed",
+        "stars": 838,
+        "forks": 136,
+        "size": 42895,
+        "created": "2022-08-08T17:19:54+00:00",
+        "updated": "2024-06-03T13:50:58+00:00",
+        "pushed": "2024-06-03T13:50:54+00:00",
+        "url": "https://github.com/sipeed/TinyMaix",
+        "id": 522642478
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9880,
+        "forks": 4859,
+        "size": 863093,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-04T03:12:04+00:00",
+        "pushed": "2024-06-04T03:11:58+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 560,
+        "forks": 167,
+        "size": 1045,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2024-06-03T14:23:30+00:00",
+        "pushed": "2024-06-04T05:26:42+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8105,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-06-03T20:00:17+00:00",
+        "pushed": "2024-06-03T20:00:13+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "wmt_ai_study",
+        "description": "My AI study",
+        "owner": "weimingtom",
+        "stars": 20,
+        "forks": 5,
+        "size": 2209,
+        "created": "2018-08-26T09:31:59+00:00",
+        "updated": "2024-06-03T13:52:21+00:00",
+        "pushed": "2024-06-03T13:52:17+00:00",
+        "url": "https://github.com/weimingtom/wmt_ai_study",
+        "id": 146167925
+    },
+    {
+        "repo": "sdk-rt-thread-source-code",
+        "description": null,
+        "owner": "RT-Thread-Studio",
+        "stars": 5,
+        "forks": 6,
+        "size": 394490,
+        "created": "2020-05-08T07:22:04+00:00",
+        "updated": "2024-06-04T03:41:22+00:00",
+        "pushed": "2024-06-04T03:42:18+00:00",
+        "url": "https://github.com/RT-Thread-Studio/sdk-rt-thread-source-code",
+        "id": 262254923
+    },
+    {
+        "repo": "kidsblock-resources-2.0",
+        "description": null,
+        "owner": "keyestudio2019",
+        "stars": 1,
+        "forks": 1,
+        "size": 116125,
+        "created": "2023-05-26T05:28:12+00:00",
+        "updated": "2024-06-04T02:05:24+00:00",
+        "pushed": "2024-06-04T02:17:40+00:00",
+        "url": "https://github.com/keyestudio2019/kidsblock-resources-2.0",
+        "id": 645638571
+    },
+    {
         "repo": "my_diary",
         "description": "\u8bb0\u5f55\u4e00\u4e0b\u65e5\u5e38\u5b66\u4e60\u8fdb\u5ea6",
         "owner": "assassin-2023",
         "stars": 1,
         "forks": 0,
-        "size": 87,
+        "size": 90,
         "created": "2024-05-12T13:53:21+00:00",
-        "updated": "2024-06-02T12:26:09+00:00",
-        "pushed": "2024-06-02T12:26:06+00:00",
+        "updated": "2024-06-03T16:29:23+00:00",
+        "pushed": "2024-06-03T16:29:19+00:00",
         "url": "https://github.com/assassin-2023/my_diary",
         "id": 799556041
+    },
+    {
+        "repo": "pxt-koi2",
+        "description": "KOI2 is an AI camera module based on the K210 chip from KittenBot, which aims to combine offline AI technology and high-performance embedded systems to provide strong support for visual recognition and intelligent AI applications. It comes with hardware such as a screen, camera, speaker, microphone, and buttons.",
+        "owner": "KittenBot",
+        "stars": 0,
+        "forks": 1,
+        "size": 337,
+        "created": "2024-02-23T06:55:48+00:00",
+        "updated": "2024-06-03T07:55:54+00:00",
+        "pushed": "2024-06-03T07:56:28+00:00",
+        "url": "https://github.com/KittenBot/pxt-koi2",
+        "id": 762139588
     },
     {
         "repo": "awesome-stars",
@@ -37614,10 +37601,10 @@
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5013,
+        "size": 5213,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-03T01:44:46+00:00",
-        "pushed": "2024-06-03T01:44:44+00:00",
+        "updated": "2024-06-04T01:41:22+00:00",
+        "pushed": "2024-06-04T01:41:19+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37627,10 +37614,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 2808,
+        "size": 2948,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-03T01:41:54+00:00",
-        "pushed": "2024-06-03T01:41:51+00:00",
+        "updated": "2024-06-04T01:40:28+00:00",
+        "pushed": "2024-06-04T01:40:25+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37640,11 +37627,24 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 687875,
+        "size": 690679,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-02T12:23:47+00:00",
-        "pushed": "2024-06-02T12:23:44+00:00",
+        "updated": "2024-06-03T17:11:14+00:00",
+        "pushed": "2024-06-03T12:27:14+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "nuttx-ox64",
+        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
+        "owner": "lupyuen",
+        "stars": 32,
+        "forks": 0,
+        "size": 180,
+        "created": "2023-10-28T08:34:51+00:00",
+        "updated": "2024-06-04T01:30:52+00:00",
+        "pushed": "2024-06-04T01:30:48+00:00",
+        "url": "https://github.com/lupyuen/nuttx-ox64",
+        "id": 711107946
     }
 ]

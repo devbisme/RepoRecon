@@ -4524,19 +4524,6 @@
         "id": 393889750
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 988,
-        "forks": 241,
-        "size": 13364,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-02-22T09:24:57+00:00",
-        "pushed": "2024-02-22T19:15:09+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "lab-myhdl-comb",
         "description": null,
         "owner": "insper-bits",
@@ -5109,19 +5096,6 @@
         "id": 372764570
     },
     {
-        "repo": "myhdl-feedstock",
-        "description": "A conda-smithy repository for myhdl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 24,
-        "created": "2021-01-10T19:57:49+00:00",
-        "updated": "2024-05-12T20:16:12+00:00",
-        "pushed": "2024-05-12T20:16:09+00:00",
-        "url": "https://github.com/conda-forge/myhdl-feedstock",
-        "id": 328467543
-    },
-    {
         "repo": "magia",
         "description": "Magia generates Synthesizable SystemVerilog in pythonic syntax in a simple and intuitive way",
         "owner": "magia-hdl",
@@ -5302,5 +5276,31 @@
         "pushed": "2024-06-02T21:09:56+00:00",
         "url": "https://github.com/BardinPetr/cpu1",
         "id": 799254123
+    },
+    {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1011,
+        "forks": 248,
+        "size": 13394,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-06-03T09:57:44+00:00",
+        "pushed": "2024-06-03T09:57:39+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
+        "repo": "myhdl-feedstock",
+        "description": "A conda-smithy repository for myhdl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 26,
+        "created": "2021-01-10T19:57:49+00:00",
+        "updated": "2024-06-03T16:34:20+00:00",
+        "pushed": "2024-06-03T16:34:15+00:00",
+        "url": "https://github.com/conda-forge/myhdl-feedstock",
+        "id": 328467543
     }
 ]
