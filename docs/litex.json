@@ -12025,19 +12025,6 @@
         "id": 793735929
     },
     {
-        "repo": "pythondata-cpu-vexriscv_smp",
-        "description": "Python module containing verilog files for VexRiscv SMP CPU (for use with LiteX). ",
-        "owner": "litex-hub",
-        "stars": 3,
-        "forks": 11,
-        "size": 5248,
-        "created": "2020-07-28T12:33:20+00:00",
-        "updated": "2024-05-13T07:08:25+00:00",
-        "pushed": "2024-05-13T07:08:21+00:00",
-        "url": "https://github.com/litex-hub/pythondata-cpu-vexriscv_smp",
-        "id": 283207003
-    },
-    {
         "repo": "colorlight-riscv-rs",
         "description": "\"Hacking\" a Chinese LED display board with open-source FPGA tools, RISC-V and Rust \ud83e\udd80 ",
         "owner": "roby2014",
@@ -12584,19 +12571,6 @@
         "id": 246758856
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 214,
-        "forks": 14,
-        "size": 13439,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-06-02T00:11:16+00:00",
-        "pushed": "2024-06-02T00:11:12+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "18224-s24-tapeout",
         "description": "Build infrastructure for class-wide tapeout for 18-224 Intro to Open Source Chip Design, Spring 2024",
         "owner": "CMU-Open-Source-Chip-Design-Class",
@@ -12608,19 +12582,6 @@
         "pushed": "2024-06-01T21:16:18+00:00",
         "url": "https://github.com/CMU-Open-Source-Chip-Design-Class/18224-s24-tapeout",
         "id": 797370344
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 32685,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-06-02T00:57:19+00:00",
-        "pushed": "2024-06-02T00:57:16+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "cram-soc",
@@ -12636,19 +12597,6 @@
         "id": 564480301
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
-        "owner": "chili-chips-ba",
-        "stars": 4,
-        "forks": 1,
-        "size": 23286,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-06-02T20:12:37+00:00",
-        "pushed": "2024-06-02T20:12:33+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -12660,19 +12608,6 @@
         "pushed": "2024-06-03T05:46:03+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 702,
-        "forks": 65,
-        "size": 1172,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-06-04T04:51:31+00:00",
-        "pushed": "2024-06-04T01:47:49+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "neorv32",
@@ -12701,19 +12636,6 @@
         "id": 468027705
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 40,
-        "forks": 16,
-        "size": 111757,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-06-04T01:48:10+00:00",
-        "pushed": "2024-06-04T01:48:07+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "Asymetric_Multiprocessing",
         "description": null,
         "owner": "ridope",
@@ -12740,17 +12662,82 @@
         "id": 800344642
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 704,
+        "forks": 65,
+        "size": 1172,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-06-04T21:51:32+00:00",
+        "pushed": "2024-06-05T01:48:32+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "pythondata-cpu-vexriscv_smp",
+        "description": "Python module containing verilog files for VexRiscv SMP CPU (for use with LiteX). ",
+        "owner": "litex-hub",
+        "stars": 3,
+        "forks": 11,
+        "size": 5248,
+        "created": "2020-07-28T12:33:20+00:00",
+        "updated": "2024-06-04T17:54:29+00:00",
+        "pushed": "2024-06-04T17:54:26+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-vexriscv_smp",
+        "id": 283207003
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 218,
+        "forks": 14,
+        "size": 13452,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-06-05T04:11:56+00:00",
+        "pushed": "2024-06-04T20:45:30+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 40,
+        "forks": 16,
+        "size": 111765,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-06-05T01:13:21+00:00",
+        "pushed": "2024-06-05T04:29:15+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
         "repo": "litexlthemes",
         "description": null,
         "owner": "RohanVashisht1234",
         "stars": 0,
         "forks": 0,
-        "size": 3130,
+        "size": 3134,
         "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-06-04T00:30:29+00:00",
-        "pushed": "2024-06-04T00:30:25+00:00",
+        "updated": "2024-06-05T00:30:02+00:00",
+        "pushed": "2024-06-05T00:29:59+00:00",
         "url": "https://github.com/RohanVashisht1234/litexlthemes",
         "id": 794006125
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
+        "owner": "chili-chips-ba",
+        "stars": 4,
+        "forks": 1,
+        "size": 23287,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-06-05T00:12:29+00:00",
+        "pushed": "2024-06-05T00:12:26+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
     },
     {
         "repo": "starred",
@@ -12758,12 +12745,25 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1277,
+        "size": 1279,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-06-04T04:36:10+00:00",
-        "pushed": "2024-06-04T04:36:07+00:00",
+        "updated": "2024-06-05T04:38:07+00:00",
+        "pushed": "2024-06-05T04:38:04+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 33910,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-06-05T01:06:24+00:00",
+        "pushed": "2024-06-05T01:06:21+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -12771,10 +12771,10 @@
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 60842,
+        "size": 52899,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-06-04T03:24:55+00:00",
-        "pushed": "2024-06-04T03:24:52+00:00",
+        "updated": "2024-06-05T03:26:29+00:00",
+        "pushed": "2024-06-05T03:26:26+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
