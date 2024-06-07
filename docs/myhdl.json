@@ -2470,19 +2470,6 @@
         "id": 150888054
     },
     {
-        "repo": "ipCorePackager",
-        "description": "Scriptable IP-Core generator",
-        "owner": "Nic30",
-        "stars": 8,
-        "forks": 0,
-        "size": 75,
-        "created": "2018-10-01T18:16:02Z",
-        "updated": "2023-01-26T02:47:38Z",
-        "pushed": "2022-12-20T13:05:22Z",
-        "url": "https://github.com/Nic30/ipCorePackager",
-        "id": 151136062
-    },
-    {
         "repo": "Qgen",
         "description": "Utility to create interactive *_hw.tcl* files for use with Altera's Qsys - now Intel's Platform Designer",
         "owner": "josyb",
@@ -4381,19 +4368,6 @@
         "id": 718785748
     },
     {
-        "repo": "notes",
-        "description": null,
-        "owner": "changcs",
-        "stars": 1,
-        "forks": 0,
-        "size": 52,
-        "created": "2017-01-20T19:16:00+00:00",
-        "updated": "2024-01-05T14:06:52+00:00",
-        "pushed": "2024-01-05T14:19:44+00:00",
-        "url": "https://github.com/changcs/notes",
-        "id": 79589690
-    },
-    {
         "repo": "FPGA-Elevator-Project",
         "description": "FPGA Elevator Project",
         "owner": "gralco",
@@ -5031,19 +5005,6 @@
         "id": 765108502
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 32,
-        "forks": 6,
-        "size": 6400,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2024-02-27T10:19:18+00:00",
-        "pushed": "2024-04-10T08:18:37+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
         "repo": "myhdl",
         "description": null,
         "owner": "AdamBalski",
@@ -5122,19 +5083,6 @@
         "id": 33008070
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 193,
-        "forks": 26,
-        "size": 19946,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-05-14T21:21:17+00:00",
-        "pushed": "2024-05-14T21:21:14+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "awesome-hdl",
         "description": "Hardware Description Languages",
         "owner": "drom",
@@ -5146,19 +5094,6 @@
         "pushed": "2024-05-22T05:19:17+00:00",
         "url": "https://github.com/drom/awesome-hdl",
         "id": 88018788
-    },
-    {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 92,
-        "forks": 11,
-        "size": 44,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-05-25T05:24:13+00:00",
-        "pushed": "2024-05-25T03:07:27+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
     },
     {
         "repo": "Hdl21",
@@ -5198,19 +5133,6 @@
         "pushed": "2024-05-28T02:15:29+00:00",
         "url": "https://github.com/YouHui1/HdlConvertorAst_beta",
         "id": 803346778
-    },
-    {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 157,
-        "forks": 21,
-        "size": 5981,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-05-29T08:34:50+00:00",
-        "pushed": "2024-05-29T08:34:47+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
     },
     {
         "repo": "Serial_Multiplier_Volume_Control",
@@ -5291,16 +5213,94 @@
         "id": 328467543
     },
     {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 33,
+        "forks": 6,
+        "size": 7308,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2024-06-06T22:08:22+00:00",
+        "pushed": "2024-06-06T22:08:19+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41466,
+        "size": 41266,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-06-05T19:49:04+00:00",
-        "pushed": "2024-06-05T19:49:01+00:00",
+        "updated": "2024-06-06T14:10:54+00:00",
+        "pushed": "2024-06-06T14:10:51+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 194,
+        "forks": 26,
+        "size": 19885,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-06-06T22:03:50+00:00",
+        "pushed": "2024-06-06T22:03:47+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 163,
+        "forks": 22,
+        "size": 6006,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-06-06T18:25:16+00:00",
+        "pushed": "2024-06-06T09:48:53+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "ipCorePackager",
+        "description": "Scriptable IP-Core generator",
+        "owner": "Nic30",
+        "stars": 8,
+        "forks": 0,
+        "size": 86,
+        "created": "2018-10-01T18:16:02+00:00",
+        "updated": "2024-06-06T21:34:29+00:00",
+        "pushed": "2024-06-06T21:34:26+00:00",
+        "url": "https://github.com/Nic30/ipCorePackager",
+        "id": 151136062
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 98,
+        "forks": 11,
+        "size": 46,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-06-06T17:08:18+00:00",
+        "pushed": "2024-06-06T17:05:31+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
+        "repo": "notes",
+        "description": null,
+        "owner": "changcs",
+        "stars": 1,
+        "forks": 0,
+        "size": 53,
+        "created": "2017-01-20T19:16:00+00:00",
+        "updated": "2024-06-06T11:10:19+00:00",
+        "pushed": "2024-06-06T11:10:16+00:00",
+        "url": "https://github.com/changcs/notes",
+        "id": 79589690
     }
 ]
