@@ -5226,19 +5226,6 @@
         "id": 63018738
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41266,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-06-06T14:10:54+00:00",
-        "pushed": "2024-06-06T14:10:51+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5278,19 +5265,6 @@
         "id": 151136062
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 98,
-        "forks": 11,
-        "size": 46,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-06-06T17:08:18+00:00",
-        "pushed": "2024-06-06T17:05:31+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "notes",
         "description": null,
         "owner": "changcs",
@@ -5315,5 +5289,31 @@
         "pushed": "2024-06-07T16:28:39+00:00",
         "url": "https://github.com/andykofman/Books",
         "id": 811951673
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41274,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-06-08T21:02:13+00:00",
+        "pushed": "2024-06-08T21:02:10+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 99,
+        "forks": 12,
+        "size": 47,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-06-08T11:53:32+00:00",
+        "pushed": "2024-06-08T11:53:28+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
     }
 ]
