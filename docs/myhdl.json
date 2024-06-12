@@ -5187,32 +5187,6 @@
         "id": 799254123
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 1011,
-        "forks": 248,
-        "size": 13394,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-06-03T09:57:44+00:00",
-        "pushed": "2024-06-03T09:57:39+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
-        "repo": "myhdl-feedstock",
-        "description": "A conda-smithy repository for myhdl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 26,
-        "created": "2021-01-10T19:57:49+00:00",
-        "updated": "2024-06-03T16:34:20+00:00",
-        "pushed": "2024-06-03T16:34:15+00:00",
-        "url": "https://github.com/conda-forge/myhdl-feedstock",
-        "id": 328467543
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -5304,16 +5278,42 @@
         "id": 605602834
     },
     {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1012,
+        "forks": 248,
+        "size": 13397,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-06-11T11:48:40+00:00",
+        "pushed": "2024-06-11T11:48:35+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41307,
+        "size": 41317,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-06-10T11:59:59+00:00",
-        "pushed": "2024-06-10T11:59:56+00:00",
+        "updated": "2024-06-11T11:26:27+00:00",
+        "pushed": "2024-06-11T11:26:24+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "myhdl-feedstock",
+        "description": "A conda-smithy repository for myhdl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 29,
+        "created": "2021-01-10T19:57:49+00:00",
+        "updated": "2024-06-11T15:07:30+00:00",
+        "pushed": "2024-06-11T15:07:26+00:00",
+        "url": "https://github.com/conda-forge/myhdl-feedstock",
+        "id": 328467543
     }
 ]

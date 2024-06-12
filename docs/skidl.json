@@ -1417,19 +1417,6 @@
         "id": 65847289
     },
     {
-        "repo": "SkidList",
-        "description": "This is just a simple Skid List of the GTAG Clone Community. ",
-        "owner": "GTAGCopySkids",
-        "stars": 0,
-        "forks": 1,
-        "size": 805,
-        "created": "2024-04-10T20:18:59+00:00",
-        "updated": "2024-05-02T02:43:15+00:00",
-        "pushed": "2024-05-02T02:43:12+00:00",
-        "url": "https://github.com/GTAGCopySkids/SkidList",
-        "id": 784915804
-    },
-    {
         "repo": "skidl-feedstock",
         "description": "A conda-smithy repository for skidl.",
         "owner": "conda-forge",
@@ -1495,19 +1482,6 @@
         "id": 686346611
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 301,
-        "forks": 23,
-        "size": 13858,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-06-05T16:49:27+00:00",
-        "pushed": "2024-06-04T19:06:34+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "stahlnow",
@@ -1519,5 +1493,31 @@
         "pushed": "2024-06-06T00:47:46+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 303,
+        "forks": 23,
+        "size": 13858,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-06-11T08:44:49+00:00",
+        "pushed": "2024-06-11T10:09:24+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
+    },
+    {
+        "repo": "SkidList",
+        "description": "This is just a simple Skid List of the GTAG Clone Community. ",
+        "owner": "GTAGCopySkids",
+        "stars": 0,
+        "forks": 1,
+        "size": 826,
+        "created": "2024-04-10T20:18:59+00:00",
+        "updated": "2024-06-11T23:06:11+00:00",
+        "pushed": "2024-06-11T23:06:07+00:00",
+        "url": "https://github.com/GTAGCopySkids/SkidList",
+        "id": 784915804
     }
 ]
