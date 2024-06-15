@@ -12311,19 +12311,6 @@
         "id": 564480301
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 33,
-        "forks": 12,
-        "size": 34917,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-06-03T12:21:29+00:00",
-        "pushed": "2024-06-03T12:33:52+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "Asymetric_Multiprocessing",
         "description": null,
         "owner": "ridope",
@@ -12532,32 +12519,6 @@
         "id": 813321161
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1463,
-        "forks": 202,
-        "size": 208187,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-06-11T18:27:45+00:00",
-        "pushed": "2024-06-11T18:29:12+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 448,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-06-10T10:30:19+00:00",
-        "pushed": "2024-06-13T02:16:35+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -12569,19 +12530,6 @@
         "pushed": "2024-06-12T17:32:59+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 221,
-        "forks": 14,
-        "size": 13461,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-06-12T22:46:47+00:00",
-        "pushed": "2024-06-12T22:46:43+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
     },
     {
         "repo": "eurorack-pmod",
@@ -12610,45 +12558,6 @@
         "id": 483508371
     },
     {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 0,
-        "forks": 0,
-        "size": 171,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2024-06-12T17:39:02+00:00",
-        "pushed": "2024-06-12T17:38:59+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2750,
-        "forks": 530,
-        "size": 17093,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-06-13T11:00:01+00:00",
-        "pushed": "2024-06-13T10:59:20+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 352,
-        "forks": 274,
-        "size": 4042,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-06-13T15:46:29+00:00",
-        "pushed": "2024-06-13T16:28:23+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "linux-on-litex-vexriscv",
         "description": "Linux on LiteX-VexRiscv",
         "owner": "litex-hub",
@@ -12673,19 +12582,6 @@
         "pushed": "2024-06-13T10:10:53+00:00",
         "url": "https://github.com/enjoy-digital/litedram",
         "id": 31147284
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 710,
-        "forks": 65,
-        "size": 1189,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-06-13T10:39:25+00:00",
-        "pushed": "2024-06-14T01:59:34+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "linux-on-litex-rocket",
@@ -12753,19 +12649,6 @@
         "id": 798146281
     },
     {
-        "repo": "litexlthemes",
-        "description": null,
-        "owner": "RohanVashisht1234",
-        "stars": 0,
-        "forks": 0,
-        "size": 3137,
-        "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-06-14T00:30:53+00:00",
-        "pushed": "2024-06-14T00:30:49+00:00",
-        "url": "https://github.com/RohanVashisht1234/litexlthemes",
-        "id": 794006125
-    },
-    {
         "repo": "tinyclunx33_zephyr_example",
         "description": "Zephyr running on the tinyCLUNX33 SoM",
         "owner": "tinyvision-ai-inc",
@@ -12792,19 +12675,6 @@
         "id": 532379641
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1398,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-06-14T04:36:43+00:00",
-        "pushed": "2024-06-14T04:36:41+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12818,15 +12688,145 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2752,
+        "forks": 530,
+        "size": 17114,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-06-15T04:11:46+00:00",
+        "pushed": "2024-06-14T12:58:18+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 352,
+        "forks": 274,
+        "size": 4049,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-06-14T13:58:33+00:00",
+        "pushed": "2024-06-14T13:58:30+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 710,
+        "forks": 65,
+        "size": 1189,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-06-13T10:39:25+00:00",
+        "pushed": "2024-06-15T01:59:15+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 450,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-06-14T14:00:11+00:00",
+        "pushed": "2024-06-15T02:16:13+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1466,
+        "forks": 203,
+        "size": 208384,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-06-15T04:15:19+00:00",
+        "pushed": "2024-06-15T05:31:37+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 33,
+        "forks": 13,
+        "size": 35168,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-06-14T16:08:09+00:00",
+        "pushed": "2024-06-14T16:09:06+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 221,
+        "forks": 14,
+        "size": 13471,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-06-15T03:24:34+00:00",
+        "pushed": "2024-06-15T03:24:31+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 3,
+        "forks": 0,
+        "size": 174,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2024-06-15T05:00:50+00:00",
+        "pushed": "2024-06-15T05:00:47+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "litexlthemes",
+        "description": null,
+        "owner": "RohanVashisht1234",
+        "stars": 0,
+        "forks": 0,
+        "size": 3141,
+        "created": "2024-04-30T09:25:09+00:00",
+        "updated": "2024-06-15T00:30:23+00:00",
+        "pushed": "2024-06-15T00:30:20+00:00",
+        "url": "https://github.com/RohanVashisht1234/litexlthemes",
+        "id": 794006125
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1443,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-06-15T04:38:32+00:00",
+        "pushed": "2024-06-15T04:38:29+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 3,
         "forks": 0,
-        "size": 56927,
+        "size": 57381,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-06-14T03:24:16+00:00",
-        "pushed": "2024-06-14T03:24:13+00:00",
+        "updated": "2024-06-15T03:23:57+00:00",
+        "pushed": "2024-06-15T03:23:54+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

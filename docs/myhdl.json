@@ -5265,32 +5265,6 @@
         "id": 605602834
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 1012,
-        "forks": 248,
-        "size": 13417,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-06-12T08:20:31+00:00",
-        "pushed": "2024-06-12T08:20:27+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
-        "repo": "myhdl-feedstock",
-        "description": "A conda-smithy repository for myhdl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 31,
-        "created": "2021-01-10T19:57:49+00:00",
-        "updated": "2024-06-12T14:06:49+00:00",
-        "pushed": "2024-06-12T14:06:44+00:00",
-        "url": "https://github.com/conda-forge/myhdl-feedstock",
-        "id": 328467543
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -5304,16 +5278,42 @@
         "id": 314673708
     },
     {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1012,
+        "forks": 248,
+        "size": 13382,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-06-14T06:39:31+00:00",
+        "pushed": "2024-06-14T06:39:28+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41345,
+        "size": 41353,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-06-13T22:07:54+00:00",
-        "pushed": "2024-06-13T22:07:51+00:00",
+        "updated": "2024-06-15T03:06:57+00:00",
+        "pushed": "2024-06-15T03:06:54+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "myhdl-feedstock",
+        "description": "A conda-smithy repository for myhdl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 33,
+        "created": "2021-01-10T19:57:49+00:00",
+        "updated": "2024-06-14T11:52:15+00:00",
+        "pushed": "2024-06-14T11:52:12+00:00",
+        "url": "https://github.com/conda-forge/myhdl-feedstock",
+        "id": 328467543
     }
 ]
