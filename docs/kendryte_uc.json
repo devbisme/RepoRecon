@@ -36777,19 +36777,6 @@
         "id": 761864577
     },
     {
-        "repo": "edge-ai",
-        "description": "A curated list of resources for embedded AI",
-        "owner": "crespum",
-        "stars": 312,
-        "forks": 38,
-        "size": 72,
-        "created": "2018-07-25T18:05:37+00:00",
-        "updated": "2024-05-21T11:56:11+00:00",
-        "pushed": "2024-05-21T06:52:59+00:00",
-        "url": "https://github.com/crespum/edge-ai",
-        "id": 142336474
-    },
-    {
         "repo": "cpu-benchmark-v9",
         "description": null,
         "owner": "spapas",
@@ -37557,19 +37544,6 @@
         "id": 814621683
     },
     {
-        "repo": "Maixduino",
-        "description": "Arduino port on Maix board ( k210 )",
-        "owner": "sipeed",
-        "stars": 213,
-        "forks": 94,
-        "size": 758,
-        "created": "2019-04-02T01:35:07+00:00",
-        "updated": "2024-06-13T03:00:25+00:00",
-        "pushed": "2024-06-14T17:29:35+00:00",
-        "url": "https://github.com/sipeed/Maixduino",
-        "id": 178975934
-    },
-    {
         "repo": "k230_docs",
         "description": "Kendryte K230 SDK Docs",
         "owner": "kendryte",
@@ -37581,19 +37555,6 @@
         "pushed": "2024-06-14T09:28:34+00:00",
         "url": "https://github.com/kendryte/k230_docs",
         "id": 663411081
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 142,
-        "forks": 29,
-        "size": 147326,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-06-13T20:05:24+00:00",
-        "pushed": "2024-06-14T15:41:01+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "arduino-k210",
@@ -37620,45 +37581,6 @@
         "pushed": "2024-06-15T03:02:33+00:00",
         "url": "https://github.com/RT-Thread/rt-thread",
         "id": 7408108
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 1350211,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-06-14T14:09:10+00:00",
-        "pushed": "2024-06-14T14:09:07+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8135,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-06-14T19:42:21+00:00",
-        "pushed": "2024-06-14T19:42:18+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
-        "repo": "rcore-tutorial",
-        "description": null,
-        "owner": "cypppper",
-        "stars": 0,
-        "forks": 0,
-        "size": 877,
-        "created": "2024-06-14T17:46:18+00:00",
-        "updated": "2024-06-14T17:47:08+00:00",
-        "pushed": "2024-06-14T17:47:02+00:00",
-        "url": "https://github.com/cypppper/rcore-tutorial",
-        "id": 815259199
     },
     {
         "repo": "tech",
@@ -37700,17 +37622,108 @@
         "id": 188584527
     },
     {
+        "repo": "Maixduino",
+        "description": "Arduino port on Maix board ( k210 )",
+        "owner": "sipeed",
+        "stars": 213,
+        "forks": 94,
+        "size": 759,
+        "created": "2019-04-02T01:35:07+00:00",
+        "updated": "2024-06-15T08:16:23+00:00",
+        "pushed": "2024-06-15T08:16:20+00:00",
+        "url": "https://github.com/sipeed/Maixduino",
+        "id": 178975934
+    },
+    {
+        "repo": "edge-ai",
+        "description": "A curated list of resources for embedded AI",
+        "owner": "crespum",
+        "stars": 319,
+        "forks": 39,
+        "size": 72,
+        "created": "2018-07-25T18:05:37+00:00",
+        "updated": "2024-06-15T19:21:14+00:00",
+        "pushed": "2024-06-12T09:26:48+00:00",
+        "url": "https://github.com/crespum/edge-ai",
+        "id": 142336474
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 142,
+        "forks": 29,
+        "size": 147407,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-06-13T20:05:24+00:00",
+        "pushed": "2024-06-15T19:04:49+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 1420901,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-06-15T20:07:31+00:00",
+        "pushed": "2024-06-15T20:07:25+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8046,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-06-15T18:21:42+00:00",
+        "pushed": "2024-06-15T18:21:40+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "rcore-tutorial",
+        "description": null,
+        "owner": "cypppper",
+        "stars": 0,
+        "forks": 0,
+        "size": 878,
+        "created": "2024-06-14T17:46:18+00:00",
+        "updated": "2024-06-15T11:06:51+00:00",
+        "pushed": "2024-06-15T11:06:48+00:00",
+        "url": "https://github.com/cypppper/rcore-tutorial",
+        "id": 815259199
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 8178,
+        "size": 8638,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-15T01:43:52+00:00",
-        "pushed": "2024-06-15T01:43:49+00:00",
+        "updated": "2024-06-16T01:50:15+00:00",
+        "pushed": "2024-06-16T01:50:12+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
+    },
+    {
+        "repo": "mini-rv32ima_fork",
+        "description": "[WIP] My mini-rv32ima fork, for mingw",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 1646,
+        "created": "2024-06-16T02:58:26+00:00",
+        "updated": "2024-06-16T03:25:12+00:00",
+        "pushed": "2024-06-16T03:25:09+00:00",
+        "url": "https://github.com/weimingtom/mini-rv32ima_fork",
+        "id": 815746586
     },
     {
         "repo": "certified-android-devices",
@@ -37720,8 +37733,8 @@
         "forks": 34,
         "size": 693535,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-14T12:27:13+00:00",
-        "pushed": "2024-06-14T12:27:08+00:00",
+        "updated": "2024-06-15T12:25:13+00:00",
+        "pushed": "2024-06-15T12:25:10+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37731,10 +37744,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 1233,
+        "size": 1377,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-15T01:40:36+00:00",
-        "pushed": "2024-06-15T01:40:33+00:00",
+        "updated": "2024-06-16T01:47:20+00:00",
+        "pushed": "2024-06-16T01:47:18+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37747,7 +37760,7 @@
         "size": 191,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-10T14:25:57+00:00",
-        "pushed": "2024-06-15T00:13:04+00:00",
+        "pushed": "2024-06-16T00:13:48+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

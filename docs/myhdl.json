@@ -5135,19 +5135,6 @@
         "id": 807816317
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13599,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-05-31T20:00:10+00:00",
-        "pushed": "2024-05-31T20:00:06+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "LLM-Hardware-Experiments",
         "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
         "owner": "parker-research",
@@ -5315,5 +5302,18 @@
         "pushed": "2024-06-14T11:52:12+00:00",
         "url": "https://github.com/conda-forge/myhdl-feedstock",
         "id": 328467543
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13710,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-06-15T12:42:39+00:00",
+        "pushed": "2024-06-15T12:42:34+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]
