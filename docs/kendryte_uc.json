@@ -37414,19 +37414,6 @@
         "id": 456793068
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 703,
-        "forks": 180,
-        "size": 58408,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-06-11T13:49:21+00:00",
-        "pushed": "2024-06-12T00:54:07+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_sdk",
         "description": "Kendryte K230 SDK",
         "owner": "kendryte",
@@ -37438,19 +37425,6 @@
         "pushed": "2024-06-14T03:46:20+00:00",
         "url": "https://github.com/kendryte/k230_sdk",
         "id": 663357545
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 75,
-        "forks": 15,
-        "size": 19534,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-06-11T08:50:21+00:00",
-        "pushed": "2024-06-14T03:12:51+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "MaixCDK",
@@ -37505,19 +37479,6 @@
         "id": 814941923
     },
     {
-        "repo": "maix_train_mx",
-        "description": null,
-        "owner": "integemjack",
-        "stars": 0,
-        "forks": 0,
-        "size": 150552,
-        "created": "2024-06-05T03:39:45+00:00",
-        "updated": "2024-06-14T00:53:14+00:00",
-        "pushed": "2024-06-14T00:53:12+00:00",
-        "url": "https://github.com/integemjack/maix_train_mx",
-        "id": 810618389
-    },
-    {
         "repo": "HCM_JV240304_BS_MAIXUANSANG",
         "description": null,
         "owner": "XuanSang123",
@@ -37557,32 +37518,6 @@
         "id": 663411081
     },
     {
-        "repo": "arduino-k210",
-        "description": "A arduino core for K210",
-        "owner": "kendryte",
-        "stars": 13,
-        "forks": 8,
-        "size": 2829,
-        "created": "2023-03-27T03:48:17+00:00",
-        "updated": "2024-06-07T09:02:20+00:00",
-        "pushed": "2024-06-15T02:37:10+00:00",
-        "url": "https://github.com/kendryte/arduino-k210",
-        "id": 619394414
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9927,
-        "forks": 4871,
-        "size": 863428,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-15T03:23:22+00:00",
-        "pushed": "2024-06-15T03:02:33+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "tech",
         "description": null,
         "owner": "cenzwong",
@@ -37620,19 +37555,6 @@
         "pushed": "2024-06-14T10:48:34+00:00",
         "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
         "id": 188584527
-    },
-    {
-        "repo": "Maixduino",
-        "description": "Arduino port on Maix board ( k210 )",
-        "owner": "sipeed",
-        "stars": 213,
-        "forks": 94,
-        "size": 759,
-        "created": "2019-04-02T01:35:07+00:00",
-        "updated": "2024-06-15T08:16:23+00:00",
-        "pushed": "2024-06-15T08:16:20+00:00",
-        "url": "https://github.com/sipeed/Maixduino",
-        "id": 178975934
     },
     {
         "repo": "edge-ai",
@@ -37700,19 +37622,6 @@
         "id": 815259199
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 8638,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-16T01:50:15+00:00",
-        "pushed": "2024-06-16T01:50:12+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "mini-rv32ima_fork",
         "description": "[WIP] My mini-rv32ima fork, for mingw",
         "owner": "weimingtom",
@@ -37726,15 +37635,119 @@
         "id": 815746586
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 705,
+        "forks": 180,
+        "size": 58406,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-06-14T20:42:03+00:00",
+        "pushed": "2024-06-17T03:47:46+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "Maixduino",
+        "description": "Arduino port on Maix board ( k210 )",
+        "owner": "sipeed",
+        "stars": 213,
+        "forks": 94,
+        "size": 759,
+        "created": "2019-04-02T01:35:07+00:00",
+        "updated": "2024-06-15T08:16:23+00:00",
+        "pushed": "2024-06-17T03:12:27+00:00",
+        "url": "https://github.com/sipeed/Maixduino",
+        "id": 178975934
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 77,
+        "forks": 15,
+        "size": 19534,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-06-16T23:42:27+00:00",
+        "pushed": "2024-06-17T03:54:47+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "arduino-k210",
+        "description": "A arduino core for K210",
+        "owner": "kendryte",
+        "stars": 13,
+        "forks": 8,
+        "size": 2833,
+        "created": "2023-03-27T03:48:17+00:00",
+        "updated": "2024-06-17T04:32:09+00:00",
+        "pushed": "2024-06-17T04:32:04+00:00",
+        "url": "https://github.com/kendryte/arduino-k210",
+        "id": 619394414
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9933,
+        "forks": 4874,
+        "size": 863630,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-16T16:54:24+00:00",
+        "pushed": "2024-06-17T06:06:28+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "Mecanum-Car",
+        "description": null,
+        "owner": "WBlackhole",
+        "stars": 0,
+        "forks": 0,
+        "size": 654,
+        "created": "2024-06-16T13:24:53+00:00",
+        "updated": "2024-06-16T20:28:51+00:00",
+        "pushed": "2024-06-16T20:28:48+00:00",
+        "url": "https://github.com/WBlackhole/Mecanum-Car",
+        "id": 815900871
+    },
+    {
+        "repo": "maix_train_mx",
+        "description": null,
+        "owner": "integemjack",
+        "stars": 0,
+        "forks": 0,
+        "size": 150554,
+        "created": "2024-06-05T03:39:45+00:00",
+        "updated": "2024-06-17T04:27:15+00:00",
+        "pushed": "2024-06-17T04:27:12+00:00",
+        "url": "https://github.com/integemjack/maix_train_mx",
+        "id": 810618389
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 9098,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-06-17T01:48:07+00:00",
+        "pushed": "2024-06-17T01:48:04+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 693535,
+        "size": 696353,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-15T12:25:13+00:00",
-        "pushed": "2024-06-15T12:25:10+00:00",
+        "updated": "2024-06-16T12:24:57+00:00",
+        "pushed": "2024-06-16T12:24:53+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37744,10 +37757,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 1377,
+        "size": 1520,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-16T01:47:20+00:00",
-        "pushed": "2024-06-16T01:47:18+00:00",
+        "updated": "2024-06-17T01:44:56+00:00",
+        "pushed": "2024-06-17T01:44:53+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37760,7 +37773,7 @@
         "size": 191,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-10T14:25:57+00:00",
-        "pushed": "2024-06-16T00:13:48+00:00",
+        "pushed": "2024-06-17T00:13:23+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
