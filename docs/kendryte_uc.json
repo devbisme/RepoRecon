@@ -31265,19 +31265,6 @@
         "id": 656464545
     },
     {
-        "repo": "me",
-        "description": "Sunela Mechanical Design",
-        "owner": "sunela",
-        "stars": 0,
-        "forks": 0,
-        "size": 225,
-        "created": "2023-06-22T18:49:32Z",
-        "updated": "2023-06-22T18:49:33Z",
-        "pushed": "2023-10-29T04:45:54Z",
-        "url": "https://github.com/sunela/me",
-        "id": 657297373
-    },
-    {
         "repo": "juldtechAxelerate",
         "description": null,
         "owner": "juldtech",
@@ -37076,19 +37063,6 @@
         "id": 809010793
     },
     {
-        "repo": "ScratchHacksBook",
-        "description": null,
-        "owner": "610t",
-        "stars": 0,
-        "forks": 0,
-        "size": 72170,
-        "created": "2024-05-18T00:31:41+00:00",
-        "updated": "2024-06-02T04:50:07+00:00",
-        "pushed": "2024-06-02T04:50:05+00:00",
-        "url": "https://github.com/610t/ScratchHacksBook",
-        "id": 802309493
-    },
-    {
         "repo": "flippy-openwrt-actions",
         "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
         "owner": "ophub",
@@ -37217,19 +37191,6 @@
         "pushed": "2024-06-04T06:15:38+00:00",
         "url": "https://github.com/KittenBot/pxt-koi2",
         "id": 762139588
-    },
-    {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 70,
-        "forks": 3,
-        "size": 14981,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-06-06T17:22:02+00:00",
-        "pushed": "2024-06-05T22:13:29+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
     },
     {
         "repo": "opencv_zoo",
@@ -37570,19 +37531,6 @@
         "id": 815746586
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 705,
-        "forks": 180,
-        "size": 58406,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-06-14T20:42:03+00:00",
-        "pushed": "2024-06-17T03:47:46+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "Maixduino",
         "description": "Arduino port on Maix board ( k210 )",
         "owner": "sipeed",
@@ -37594,19 +37542,6 @@
         "pushed": "2024-06-17T03:12:27+00:00",
         "url": "https://github.com/sipeed/Maixduino",
         "id": 178975934
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 77,
-        "forks": 15,
-        "size": 19534,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-06-16T23:42:27+00:00",
-        "pushed": "2024-06-17T03:54:47+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "arduino-k210",
@@ -37659,32 +37594,6 @@
         "pushed": "2024-06-17T23:36:29+00:00",
         "url": "https://github.com/selfcustody/krux",
         "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9937,
-        "forks": 4876,
-        "size": 863648,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-18T05:24:43+00:00",
-        "pushed": "2024-06-18T03:16:10+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 31,
-        "forks": 6,
-        "size": 10002,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-06-17T10:48:53+00:00",
-        "pushed": "2024-06-17T14:47:33+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "newland-maixduino",
@@ -37752,15 +37661,93 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 705,
+        "forks": 180,
+        "size": 58409,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-06-14T20:42:03+00:00",
+        "pushed": "2024-06-18T14:45:17+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 78,
+        "forks": 15,
+        "size": 19624,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-06-17T10:52:57+00:00",
+        "pushed": "2024-06-19T03:27:47+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 72,
+        "forks": 3,
+        "size": 38767,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-06-18T23:44:27+00:00",
+        "pushed": "2024-06-19T03:47:41+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9944,
+        "forks": 4878,
+        "size": 863648,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-19T05:11:39+00:00",
+        "pushed": "2024-06-19T05:30:53+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 31,
+        "forks": 6,
+        "size": 10319,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-06-19T06:17:02+00:00",
+        "pushed": "2024-06-19T06:16:59+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "me",
+        "description": "Sunela Mechanical Design",
+        "owner": "sunela",
+        "stars": 0,
+        "forks": 0,
+        "size": 893,
+        "created": "2023-06-22T18:49:32+00:00",
+        "updated": "2024-06-18T17:50:24+00:00",
+        "pushed": "2024-06-18T17:50:20+00:00",
+        "url": "https://github.com/sunela/me",
+        "id": 657297373
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 9559,
+        "size": 9760,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-18T01:45:20+00:00",
-        "pushed": "2024-06-18T01:45:17+00:00",
+        "updated": "2024-06-19T01:43:18+00:00",
+        "pushed": "2024-06-19T01:43:15+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37772,8 +37759,8 @@
         "forks": 34,
         "size": 696355,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-17T12:27:25+00:00",
-        "pushed": "2024-06-17T12:27:21+00:00",
+        "updated": "2024-06-18T12:26:47+00:00",
+        "pushed": "2024-06-18T12:26:44+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37783,10 +37770,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 1522,
+        "size": 1666,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-18T01:42:06+00:00",
-        "pushed": "2024-06-18T01:42:03+00:00",
+        "updated": "2024-06-19T01:42:23+00:00",
+        "pushed": "2024-06-19T01:42:20+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37799,8 +37786,21 @@
         "size": 191,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-10T14:25:57+00:00",
-        "pushed": "2024-06-18T00:13:08+00:00",
+        "pushed": "2024-06-19T00:13:22+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "ScratchHacksBook",
+        "description": null,
+        "owner": "610t",
+        "stars": 0,
+        "forks": 0,
+        "size": 72171,
+        "created": "2024-05-18T00:31:41+00:00",
+        "updated": "2024-06-19T04:46:17+00:00",
+        "pushed": "2024-06-19T04:46:14+00:00",
+        "url": "https://github.com/610t/ScratchHacksBook",
+        "id": 802309493
     }
 ]
