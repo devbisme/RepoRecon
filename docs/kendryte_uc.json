@@ -37076,19 +37076,6 @@
         "id": 360045993
     },
     {
-        "repo": "xv6-k210",
-        "description": null,
-        "owner": "make-ACG-great-again",
-        "stars": 0,
-        "forks": 0,
-        "size": 83993,
-        "created": "2024-05-25T16:42:51+00:00",
-        "updated": "2024-06-02T10:46:36+00:00",
-        "pushed": "2024-06-02T10:46:33+00:00",
-        "url": "https://github.com/make-ACG-great-again/xv6-k210",
-        "id": 805853219
-    },
-    {
         "repo": "TstOS",
         "description": null,
         "owner": "yongyia",
@@ -37479,19 +37466,6 @@
         "id": 411406144
     },
     {
-        "repo": "rcore-tutorial",
-        "description": null,
-        "owner": "cypppper",
-        "stars": 0,
-        "forks": 0,
-        "size": 878,
-        "created": "2024-06-14T17:46:18+00:00",
-        "updated": "2024-06-15T11:06:51+00:00",
-        "pushed": "2024-06-15T11:06:48+00:00",
-        "url": "https://github.com/cypppper/rcore-tutorial",
-        "id": 815259199
-    },
-    {
         "repo": "mini-rv32ima_fork",
         "description": "[WIP] My mini-rv32ima fork, for mingw",
         "owner": "weimingtom",
@@ -37529,19 +37503,6 @@
         "pushed": "2024-06-17T04:32:04+00:00",
         "url": "https://github.com/kendryte/arduino-k210",
         "id": 619394414
-    },
-    {
-        "repo": "maix_train_mx",
-        "description": null,
-        "owner": "integemjack",
-        "stars": 0,
-        "forks": 0,
-        "size": 150554,
-        "created": "2024-06-05T03:39:45+00:00",
-        "updated": "2024-06-17T04:27:15+00:00",
-        "pushed": "2024-06-17T04:27:12+00:00",
-        "url": "https://github.com/integemjack/maix_train_mx",
-        "id": 810618389
     },
     {
         "repo": "MaixPy-v1",
@@ -37609,19 +37570,6 @@
         "id": 816496210
     },
     {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 72,
-        "forks": 3,
-        "size": 38767,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-06-18T23:44:27+00:00",
-        "pushed": "2024-06-19T03:47:41+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
-    },
-    {
         "repo": "me",
         "description": "Sunela Mechanical Design",
         "owner": "sunela",
@@ -37633,19 +37581,6 @@
         "pushed": "2024-06-18T17:50:20+00:00",
         "url": "https://github.com/sunela/me",
         "id": 657297373
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 706,
-        "forks": 180,
-        "size": 58412,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-06-20T02:51:52+00:00",
-        "pushed": "2024-06-19T09:48:47+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "k230_docs",
@@ -37672,32 +37607,6 @@
         "pushed": "2024-06-20T06:01:08+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 144,
-        "forks": 29,
-        "size": 147467,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-06-17T12:14:20+00:00",
-        "pushed": "2024-06-19T14:12:56+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9954,
-        "forks": 4879,
-        "size": 863720,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-19T21:33:03+00:00",
-        "pushed": "2024-06-20T06:09:43+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "MaixCDK",
@@ -37739,15 +37648,145 @@
         "id": 188584527
     },
     {
+        "repo": "ScratchHacksBook",
+        "description": null,
+        "owner": "610t",
+        "stars": 0,
+        "forks": 0,
+        "size": 73512,
+        "created": "2024-05-18T00:31:41+00:00",
+        "updated": "2024-06-20T00:47:13+00:00",
+        "pushed": "2024-06-20T00:47:10+00:00",
+        "url": "https://github.com/610t/ScratchHacksBook",
+        "id": 802309493
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 706,
+        "forks": 180,
+        "size": 58414,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-06-20T02:51:52+00:00",
+        "pushed": "2024-06-20T12:26:49+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 72,
+        "forks": 3,
+        "size": 38863,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-06-18T23:44:27+00:00",
+        "pushed": "2024-06-20T21:43:38+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 144,
+        "forks": 29,
+        "size": 147439,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-06-20T21:23:44+00:00",
+        "pushed": "2024-06-21T00:32:36+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9957,
+        "forks": 4881,
+        "size": 864077,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-21T03:24:16+00:00",
+        "pushed": "2024-06-21T05:44:21+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 1,
+        "forks": 0,
+        "size": 15978,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-06-20T06:38:51+00:00",
+        "pushed": "2024-06-20T03:02:21+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "rcore-tutorial",
+        "description": null,
+        "owner": "cypppper",
+        "stars": 0,
+        "forks": 0,
+        "size": 878,
+        "created": "2024-06-14T17:46:18+00:00",
+        "updated": "2024-06-15T11:06:51+00:00",
+        "pushed": "2024-06-21T05:36:45+00:00",
+        "url": "https://github.com/cypppper/rcore-tutorial",
+        "id": 815259199
+    },
+    {
+        "repo": "xv6-k210",
+        "description": null,
+        "owner": "make-ACG-great-again",
+        "stars": 0,
+        "forks": 0,
+        "size": 84022,
+        "created": "2024-05-25T16:42:51+00:00",
+        "updated": "2024-06-20T19:29:28+00:00",
+        "pushed": "2024-06-20T19:29:25+00:00",
+        "url": "https://github.com/make-ACG-great-again/xv6-k210",
+        "id": 805853219
+    },
+    {
+        "repo": "maix_train_mx",
+        "description": null,
+        "owner": "integemjack",
+        "stars": 0,
+        "forks": 0,
+        "size": 150557,
+        "created": "2024-06-05T03:39:45+00:00",
+        "updated": "2024-06-20T09:40:56+00:00",
+        "pushed": "2024-06-20T09:40:53+00:00",
+        "url": "https://github.com/integemjack/maix_train_mx",
+        "id": 810618389
+    },
+    {
+        "repo": "2024---K2102---SSL---TP-2",
+        "description": null,
+        "owner": "AzulPetrocelliUTNBA",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-06-20T10:33:32+00:00",
+        "updated": "2024-06-20T10:33:32+00:00",
+        "pushed": "2024-06-20T10:33:32+00:00",
+        "url": "https://github.com/AzulPetrocelliUTNBA/2024---K2102---SSL---TP-2",
+        "id": 817735981
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 10221,
+        "size": 1238,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-20T01:42:52+00:00",
-        "pushed": "2024-06-20T01:42:50+00:00",
+        "updated": "2024-06-21T01:43:15+00:00",
+        "pushed": "2024-06-21T01:43:12+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37757,10 +37796,10 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 703304,
+        "size": 703310,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-19T12:29:58+00:00",
-        "pushed": "2024-06-19T12:29:20+00:00",
+        "updated": "2024-06-20T12:28:19+00:00",
+        "pushed": "2024-06-20T12:28:16+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37770,10 +37809,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 1811,
+        "size": 1956,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-20T01:39:35+00:00",
-        "pushed": "2024-06-20T01:39:32+00:00",
+        "updated": "2024-06-21T01:40:04+00:00",
+        "pushed": "2024-06-21T01:40:01+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37786,21 +37825,8 @@
         "size": 191,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-10T14:25:57+00:00",
-        "pushed": "2024-06-20T00:12:27+00:00",
+        "pushed": "2024-06-21T00:12:44+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
-    },
-    {
-        "repo": "ScratchHacksBook",
-        "description": null,
-        "owner": "610t",
-        "stars": 0,
-        "forks": 0,
-        "size": 73512,
-        "created": "2024-05-18T00:31:41+00:00",
-        "updated": "2024-06-20T00:47:13+00:00",
-        "pushed": "2024-06-20T00:47:10+00:00",
-        "url": "https://github.com/610t/ScratchHacksBook",
-        "id": 802309493
     }
 ]
