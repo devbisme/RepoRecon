@@ -35880,19 +35880,6 @@
         "id": 195193913
     },
     {
-        "repo": "-2024_K2102_2140550",
-        "description": null,
-        "owner": "RemersaroRamiro",
-        "stars": 0,
-        "forks": 0,
-        "size": 155,
-        "created": "2024-04-20T13:21:04+00:00",
-        "updated": "2024-04-20T20:23:31+00:00",
-        "pushed": "2024-04-20T20:23:28+00:00",
-        "url": "https://github.com/RemersaroRamiro/-2024_K2102_2140550",
-        "id": 789410123
-    },
-    {
         "repo": "k210-sdk-demo",
         "description": null,
         "owner": "qwerty1023",
@@ -35995,19 +35982,6 @@
         "pushed": "2024-04-23T09:57:41+00:00",
         "url": "https://github.com/Codexiaoqiu/openblockTools",
         "id": 790592417
-    },
-    {
-        "repo": "2024_K2102_1775005",
-        "description": null,
-        "owner": "luchito12",
-        "stars": 0,
-        "forks": 0,
-        "size": 1401,
-        "created": "2024-04-13T02:39:51+00:00",
-        "updated": "2024-04-23T14:11:41+00:00",
-        "pushed": "2024-04-23T14:11:37+00:00",
-        "url": "https://github.com/luchito12/2024_K2102_1775005",
-        "id": 785960210
     },
     {
         "repo": "2024_K2102_2090521",
@@ -37596,19 +37570,6 @@
         "id": 188584527
     },
     {
-        "repo": "ScratchHacksBook",
-        "description": null,
-        "owner": "610t",
-        "stars": 0,
-        "forks": 0,
-        "size": 73512,
-        "created": "2024-05-18T00:31:41+00:00",
-        "updated": "2024-06-20T00:47:13+00:00",
-        "pushed": "2024-06-20T00:47:10+00:00",
-        "url": "https://github.com/610t/ScratchHacksBook",
-        "id": 802309493
-    },
-    {
         "repo": "nncase",
         "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
         "owner": "kendryte",
@@ -37620,19 +37581,6 @@
         "pushed": "2024-06-20T12:26:49+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 144,
-        "forks": 29,
-        "size": 147439,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-06-20T21:23:44+00:00",
-        "pushed": "2024-06-21T00:32:36+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "k230_linux_sdk",
@@ -37700,19 +37648,6 @@
         "id": 706052378
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9964,
-        "forks": 4882,
-        "size": 864077,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-22T05:52:05+00:00",
-        "pushed": "2024-06-22T05:56:01+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "MaixCDK",
         "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
         "owner": "sipeed",
@@ -37778,15 +37713,80 @@
         "id": 818153524
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 144,
+        "forks": 29,
+        "size": 147450,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-06-20T21:23:44+00:00",
+        "pushed": "2024-06-23T01:30:55+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9966,
+        "forks": 4881,
+        "size": 864066,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-23T05:20:31+00:00",
+        "pushed": "2024-06-23T04:08:05+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "Virtual-AI-Gemini-maixCAM-chatGPT-3.5",
+        "description": null,
+        "owner": "nguyentheloc-310101",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-06-22T09:13:42+00:00",
+        "updated": "2024-06-22T09:13:42+00:00",
+        "pushed": "2024-06-22T09:13:42+00:00",
+        "url": "https://github.com/nguyentheloc-310101/Virtual-AI-Gemini-maixCAM-chatGPT-3.5",
+        "id": 818591645
+    },
+    {
+        "repo": "-2024_K2102_2140550",
+        "description": null,
+        "owner": "RemersaroRamiro",
+        "stars": 0,
+        "forks": 0,
+        "size": 716,
+        "created": "2024-04-20T13:21:04+00:00",
+        "updated": "2024-06-22T15:12:36+00:00",
+        "pushed": "2024-06-22T15:12:33+00:00",
+        "url": "https://github.com/RemersaroRamiro/-2024_K2102_2140550",
+        "id": 789410123
+    },
+    {
+        "repo": "2024_K2102_1775005",
+        "description": null,
+        "owner": "luchito12",
+        "stars": 0,
+        "forks": 0,
+        "size": 2629,
+        "created": "2024-04-13T02:39:51+00:00",
+        "updated": "2024-06-22T20:45:04+00:00",
+        "pushed": "2024-06-22T20:45:01+00:00",
+        "url": "https://github.com/luchito12/2024_K2102_1775005",
+        "id": 785960210
+    },
+    {
         "repo": "ttt",
         "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
         "owner": "davidly",
         "stars": 0,
         "forks": 0,
-        "size": 830,
+        "size": 915,
         "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2024-06-21T23:21:47+00:00",
-        "pushed": "2024-06-21T23:21:44+00:00",
+        "updated": "2024-06-22T15:02:17+00:00",
+        "pushed": "2024-06-22T15:02:13+00:00",
         "url": "https://github.com/davidly/ttt",
         "id": 456793068
     },
@@ -37796,10 +37796,10 @@
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 1700,
+        "size": 1701,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-22T01:42:17+00:00",
-        "pushed": "2024-06-22T01:42:14+00:00",
+        "updated": "2024-06-23T01:48:44+00:00",
+        "pushed": "2024-06-23T01:48:42+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37809,10 +37809,10 @@
         "owner": "androidtrackers",
         "stars": 117,
         "forks": 34,
-        "size": 703312,
+        "size": 703313,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-21T12:26:35+00:00",
-        "pushed": "2024-06-21T12:26:32+00:00",
+        "updated": "2024-06-22T12:24:31+00:00",
+        "pushed": "2024-06-22T12:24:29+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37822,10 +37822,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 1957,
+        "size": 2102,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-22T01:39:14+00:00",
-        "pushed": "2024-06-22T01:39:10+00:00",
+        "updated": "2024-06-23T01:45:50+00:00",
+        "pushed": "2024-06-23T01:45:47+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37838,8 +37838,21 @@
         "size": 230,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-10T14:25:57+00:00",
-        "pushed": "2024-06-22T00:12:55+00:00",
+        "pushed": "2024-06-23T00:14:01+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "ScratchHacksBook",
+        "description": null,
+        "owner": "610t",
+        "stars": 0,
+        "forks": 0,
+        "size": 57599,
+        "created": "2024-05-18T00:31:41+00:00",
+        "updated": "2024-06-23T02:45:54+00:00",
+        "pushed": "2024-06-23T02:45:51+00:00",
+        "url": "https://github.com/610t/ScratchHacksBook",
+        "id": 802309493
     }
 ]
