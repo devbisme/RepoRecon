@@ -12389,19 +12389,6 @@
         "id": 812321911
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 99,
-        "forks": 12,
-        "size": 47,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-06-08T11:53:32+00:00",
-        "pushed": "2024-06-08T11:53:28+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "PS2forLitex",
         "description": "PS/2 (keyboard, maybe mouse) controller for Litex",
         "owner": "rdolbeau",
@@ -12740,19 +12727,6 @@
         "id": 310692215
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2761,
-        "forks": 535,
-        "size": 17006,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-06-22T22:50:13+00:00",
-        "pushed": "2024-06-22T17:02:51+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -12764,32 +12738,6 @@
         "pushed": "2024-06-22T19:44:43+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 719,
-        "forks": 65,
-        "size": 1189,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-06-21T16:30:22+00:00",
-        "pushed": "2024-06-23T01:57:19+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1473,
-        "forks": 203,
-        "size": 208579,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-06-21T20:41:49+00:00",
-        "pushed": "2024-06-22T17:25:41+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "litex_m2sdr",
@@ -12818,17 +12766,82 @@
         "id": 465199162
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2762,
+        "forks": 535,
+        "size": 17016,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-06-23T11:17:11+00:00",
+        "pushed": "2024-06-23T19:01:02+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 719,
+        "forks": 65,
+        "size": 1189,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-06-23T23:04:34+00:00",
+        "pushed": "2024-06-24T01:52:42+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1473,
+        "forks": 203,
+        "size": 208736,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-06-23T18:31:13+00:00",
+        "pushed": "2024-06-23T18:32:32+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "icesugar-pro",
+        "description": "iCESugar series FPGA dev board",
+        "owner": "wuxx",
+        "stars": 154,
+        "forks": 26,
+        "size": 24956,
+        "created": "2020-11-04T08:16:32+00:00",
+        "updated": "2024-06-24T03:22:46+00:00",
+        "pushed": "2024-06-24T03:22:43+00:00",
+        "url": "https://github.com/wuxx/icesugar-pro",
+        "id": 309937041
+    },
+    {
         "repo": "litexlthemes",
         "description": null,
         "owner": "RohanVashisht1234",
         "stars": 0,
         "forks": 0,
-        "size": 3156,
+        "size": 3159,
         "created": "2024-04-30T09:25:09+00:00",
-        "updated": "2024-06-23T00:33:43+00:00",
-        "pushed": "2024-06-23T00:33:40+00:00",
+        "updated": "2024-06-24T00:32:45+00:00",
+        "pushed": "2024-06-24T00:32:42+00:00",
         "url": "https://github.com/RohanVashisht1234/litexlthemes",
         "id": 794006125
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 102,
+        "forks": 13,
+        "size": 48,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-06-23T14:28:05+00:00",
+        "pushed": "2024-06-23T14:28:02+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
     },
     {
         "repo": "starred",
@@ -12836,10 +12849,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1100,
+        "size": 1175,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-06-23T04:36:33+00:00",
-        "pushed": "2024-06-23T04:36:30+00:00",
+        "updated": "2024-06-24T04:36:42+00:00",
+        "pushed": "2024-06-24T04:36:39+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12849,10 +12862,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 60927,
+        "size": 61373,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-06-23T03:23:39+00:00",
-        "pushed": "2024-06-23T03:23:36+00:00",
+        "updated": "2024-06-24T03:24:24+00:00",
+        "pushed": "2024-06-24T03:24:21+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
