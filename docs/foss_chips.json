@@ -57252,19 +57252,6 @@
         "id": 724846930
     },
     {
-        "repo": "sky130_ldo_rl",
-        "description": "This repo contains the code that runs RL+GNN to optimize LDOs in SKY130 process.",
-        "owner": "ChrisZonghaoLi",
-        "stars": 11,
-        "forks": 3,
-        "size": 5411,
-        "created": "2023-05-10T20:17:19+00:00",
-        "updated": "2023-11-27T06:40:56+00:00",
-        "pushed": "2023-12-05T19:47:22+00:00",
-        "url": "https://github.com/ChrisZonghaoLi/sky130_ldo_rl",
-        "id": 639125913
-    },
-    {
         "repo": "pes_3bit_rc",
         "description": null,
         "owner": "S-Vighnesh",
@@ -72631,19 +72618,6 @@
         "id": 799403625
     },
     {
-        "repo": "tt07-beneater8bit",
-        "description": "ASIC recreation of the 8 bit breadboard computer developed in Ben Eater's Youtube series",
-        "owner": "jasonkaufmann",
-        "stars": 1,
-        "forks": 0,
-        "size": 1503,
-        "created": "2024-04-25T22:30:43+00:00",
-        "updated": "2024-05-11T06:42:29+00:00",
-        "pushed": "2024-05-11T06:42:26+00:00",
-        "url": "https://github.com/jasonkaufmann/tt07-beneater8bit",
-        "id": 792057703
-    },
-    {
         "repo": "fsic_fpga",
         "description": null,
         "owner": "bol-edu",
@@ -75034,19 +75008,6 @@
         "pushed": "2024-05-30T20:13:33+00:00",
         "url": "https://github.com/brucemack/tt07-sb-mixer",
         "id": 799972541
-    },
-    {
-        "repo": "EF_QSPI_XIP_CTRL",
-        "description": "A QSPI XiP Flash Controller with a Direct Mapped Cache",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 72,
-        "created": "2024-05-11T08:00:45+00:00",
-        "updated": "2024-05-30T13:28:58+00:00",
-        "pushed": "2024-05-30T13:28:55+00:00",
-        "url": "https://github.com/efabless/EF_QSPI_XIP_CTRL",
-        "id": 799111182
     },
     {
         "repo": "SAR_ADC_12bit",
@@ -77779,19 +77740,6 @@
         "id": 711136725
     },
     {
-        "repo": "CCD_SoC",
-        "description": null,
-        "owner": "CelinaBossa",
-        "stars": 0,
-        "forks": 0,
-        "size": 127,
-        "created": "2024-06-01T13:54:57+00:00",
-        "updated": "2024-06-05T22:29:49+00:00",
-        "pushed": "2024-06-15T01:59:11+00:00",
-        "url": "https://github.com/CelinaBossa/CCD_SoC",
-        "id": 809034366
-    },
-    {
         "repo": "sky130_ef_ip__cdac3v_12bit",
         "description": "12-bit capacitive DAC",
         "owner": "RTimothyEdwards",
@@ -78143,19 +78091,6 @@
         "id": 816361032
     },
     {
-        "repo": "ebrick-demo",
-        "description": "Demo: how to create a custom EBRICK",
-        "owner": "zeroasiccorp",
-        "stars": 13,
-        "forks": 0,
-        "size": 5102,
-        "created": "2024-03-19T06:37:20+00:00",
-        "updated": "2024-06-14T13:01:47+00:00",
-        "pushed": "2024-06-17T06:43:20+00:00",
-        "url": "https://github.com/zeroasiccorp/ebrick-demo",
-        "id": 774216308
-    },
-    {
         "repo": "Tinytapeouttest",
         "description": null,
         "owner": "hmohamed2024",
@@ -78208,19 +78143,6 @@
         "id": 63273685
     },
     {
-        "repo": "DriveLM",
-        "description": "DriveLM: Driving with Graph Visual Question Answering",
-        "owner": "OpenDriveLab",
-        "stars": 686,
-        "forks": 40,
-        "size": 277652,
-        "created": "2023-08-08T12:07:33+00:00",
-        "updated": "2024-06-18T18:37:39+00:00",
-        "pushed": "2024-06-18T13:14:58+00:00",
-        "url": "https://github.com/OpenDriveLab/DriveLM",
-        "id": 676089005
-    },
-    {
         "repo": "VSD_Digital_SoC_Design",
         "description": null,
         "owner": "Subhasis-Sahu",
@@ -78271,19 +78193,6 @@
         "pushed": "2024-06-17T21:46:09+00:00",
         "url": "https://github.com/acrypticcode/tt-hdl-test",
         "id": 816492855
-    },
-    {
-        "repo": "hack_cpu",
-        "description": "A hardware description of a CPU based on the HACK architecture",
-        "owner": "bugavix",
-        "stars": 0,
-        "forks": 0,
-        "size": 56,
-        "created": "2024-06-14T09:32:56+00:00",
-        "updated": "2024-06-18T11:48:28+00:00",
-        "pushed": "2024-06-18T11:48:25+00:00",
-        "url": "https://github.com/bugavix/hack_cpu",
-        "id": 815069639
     },
     {
         "repo": "tt06_grayscale_sobel",
@@ -78546,19 +78455,6 @@
         "id": 817852490
     },
     {
-        "repo": "tt08-verilog-test",
-        "description": null,
-        "owner": "Hridi1992",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2024-06-20T14:46:07+00:00",
-        "updated": "2024-06-20T14:46:13+00:00",
-        "pushed": "2024-06-20T14:46:10+00:00",
-        "url": "https://github.com/Hridi1992/tt08-verilog-test",
-        "id": 817839750
-    },
-    {
         "repo": "RET_project",
         "description": "RET Projects",
         "owner": "nmcasorio",
@@ -78611,32 +78507,6 @@
         "id": 406653146
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 39025,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-06-21T01:07:01+00:00",
-        "pushed": "2024-06-21T01:06:58+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "iEDA",
-        "description": null,
-        "owner": "OSCC-Project",
-        "stars": 254,
-        "forks": 23,
-        "size": 173849,
-        "created": "2022-08-28T06:18:01+00:00",
-        "updated": "2024-06-21T08:33:28+00:00",
-        "pushed": "2024-06-21T08:33:13+00:00",
-        "url": "https://github.com/OSCC-Project/iEDA",
-        "id": 529779698
-    },
-    {
         "repo": "cace",
         "description": "Circuit Automatic Characterization Engine",
         "owner": "efabless",
@@ -78674,19 +78544,6 @@
         "pushed": "2024-06-21T17:10:47+00:00",
         "url": "https://github.com/Ikarthikmb/ikarthikmb",
         "id": 365545704
-    },
-    {
-        "repo": "floret",
-        "description": "A cell generator designed for advanced nodes",
-        "owner": "broccolimicro",
-        "stars": 1,
-        "forks": 0,
-        "size": 355,
-        "created": "2024-01-17T16:27:16+00:00",
-        "updated": "2024-06-21T19:12:41+00:00",
-        "pushed": "2024-06-21T19:12:45+00:00",
-        "url": "https://github.com/broccolimicro/floret",
-        "id": 744602136
     },
     {
         "repo": "sfal-vsd",
@@ -78741,19 +78598,6 @@
         "id": 818454924
     },
     {
-        "repo": "Eight_bit_AND_1",
-        "description": null,
-        "owner": "2023Dove",
-        "stars": 0,
-        "forks": 0,
-        "size": 35,
-        "created": "2024-06-20T15:41:44+00:00",
-        "updated": "2024-06-21T19:06:14+00:00",
-        "pushed": "2024-06-21T19:06:11+00:00",
-        "url": "https://github.com/2023Dove/Eight_bit_AND_1",
-        "id": 817863950
-    },
-    {
         "repo": "tt08-HDL_emission_counter",
         "description": null,
         "owner": "Coline3003",
@@ -78806,19 +78650,6 @@
         "id": 818292773
     },
     {
-        "repo": "vsdhdp",
-        "description": "VSD-HDP 10 weeks",
-        "owner": "siddharthanand3",
-        "stars": 0,
-        "forks": 0,
-        "size": 726,
-        "created": "2024-06-01T03:16:14+00:00",
-        "updated": "2024-06-21T08:09:21+00:00",
-        "pushed": "2024-06-21T08:09:18+00:00",
-        "url": "https://github.com/siddharthanand3/vsdhdp",
-        "id": 808872344
-    },
-    {
         "repo": "avsd7nm_dac10bit",
         "description": null,
         "owner": "AsahiroKenpachi",
@@ -78845,19 +78676,6 @@
         "id": 145092451
     },
     {
-        "repo": "finviz-git-scraper",
-        "description": "FinViz map of sectors and sub-sectors",
-        "owner": "fasiha",
-        "stars": 5,
-        "forks": 0,
-        "size": 130639,
-        "created": "2023-01-05T08:49:05+00:00",
-        "updated": "2024-06-21T23:57:17+00:00",
-        "pushed": "2024-06-21T23:57:14+00:00",
-        "url": "https://github.com/fasiha/finviz-git-scraper",
-        "id": 585468833
-    },
-    {
         "repo": "sky130_ef_ip__samplehold",
         "description": "Analog 3.3V sample and hold circuit, with buffered output",
         "owner": "RTimothyEdwards",
@@ -78869,19 +78687,6 @@
         "pushed": "2024-06-23T00:47:42+00:00",
         "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__samplehold",
         "id": 765776635
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1149,
-        "forks": 165,
-        "size": 54096,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-06-21T19:01:22+00:00",
-        "pushed": "2024-06-22T07:51:19+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "sfal-vsd-venkatesh",
@@ -78923,19 +78728,6 @@
         "id": 803061546
     },
     {
-        "repo": "sfal-vsd",
-        "description": null,
-        "owner": "joses-bot",
-        "stars": 2,
-        "forks": 1,
-        "size": 734,
-        "created": "2024-05-22T09:43:45+00:00",
-        "updated": "2024-06-23T02:10:02+00:00",
-        "pushed": "2024-06-23T02:09:59+00:00",
-        "url": "https://github.com/joses-bot/sfal-vsd",
-        "id": 804278638
-    },
-    {
         "repo": "OpenLane",
         "description": "A repository containing synthesizable code and design files for OpenLane, an open-source ASIC flow.",
         "owner": "syedauroosa77",
@@ -78960,19 +78752,6 @@
         "pushed": "2024-06-23T02:14:42+00:00",
         "url": "https://github.com/naruto2705/SFAL-VSD-Bharath",
         "id": 788616903
-    },
-    {
-        "repo": "sky130_ef_ip__analog_switches",
-        "description": "Set of analog switch circuits for general-purpose use",
-        "owner": "RTimothyEdwards",
-        "stars": 0,
-        "forks": 0,
-        "size": 2301,
-        "created": "2024-05-23T17:53:11+00:00",
-        "updated": "2024-06-22T21:59:54+00:00",
-        "pushed": "2024-06-22T21:59:51+00:00",
-        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__analog_switches",
-        "id": 805010531
     },
     {
         "repo": "Mixed-signal-SoC-design-using-OpenLANE-Sky130",
@@ -79040,45 +78819,6 @@
         "id": 818858779
     },
     {
-        "repo": "kithminrw",
-        "description": "README repository",
-        "owner": "kithminrw",
-        "stars": 0,
-        "forks": 0,
-        "size": 162,
-        "created": "2024-04-28T19:02:54+00:00",
-        "updated": "2024-06-22T19:38:03+00:00",
-        "pushed": "2024-06-22T19:38:00+00:00",
-        "url": "https://github.com/kithminrw/kithminrw",
-        "id": 793222727
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1408,
-        "forks": 493,
-        "size": 608733,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-06-24T03:54:59+00:00",
-        "pushed": "2024-06-24T03:54:55+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
-        "repo": "OpenFASOC",
-        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
-        "owner": "idea-fasoc",
-        "stars": 215,
-        "forks": 84,
-        "size": 419012,
-        "created": "2021-03-24T16:30:14+00:00",
-        "updated": "2024-06-24T01:03:20+00:00",
-        "pushed": "2024-06-23T12:24:42+00:00",
-        "url": "https://github.com/idea-fasoc/OpenFASOC",
-        "id": 351150248
-    },
-    {
         "repo": "vsd-hdp",
         "description": null,
         "owner": "arunkpv",
@@ -79090,19 +78830,6 @@
         "pushed": "2024-06-24T01:03:15+00:00",
         "url": "https://github.com/arunkpv/vsd-hdp",
         "id": 708193483
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 795,
-        "forks": 82,
-        "size": 346876,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-06-23T00:52:39+00:00",
-        "pushed": "2024-06-24T02:35:21+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
     },
     {
         "repo": "tt-support-tools",
@@ -79129,19 +78856,6 @@
         "pushed": "2024-06-24T03:05:50+00:00",
         "url": "https://github.com/daquintero/piel",
         "id": 651842998
-    },
-    {
-        "repo": "ipm",
-        "description": "Open-source IPs Package Manager (IPM)",
-        "owner": "efabless",
-        "stars": 11,
-        "forks": 1,
-        "size": 640,
-        "created": "2022-09-09T08:53:13+00:00",
-        "updated": "2024-06-23T12:52:01+00:00",
-        "pushed": "2024-06-23T12:51:58+00:00",
-        "url": "https://github.com/efabless/ipm",
-        "id": 534569093
     },
     {
         "repo": "InternImage",
@@ -79183,19 +78897,6 @@
         "id": 728532286
     },
     {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 224,
-        "forks": 146,
-        "size": 39382,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2024-06-20T16:04:23+00:00",
-        "pushed": "2024-06-23T13:35:02+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
-    },
-    {
         "repo": "Digital_VLSI_SoC_Design_and_Planning",
         "description": null,
         "owner": "Rohith-SVS",
@@ -79207,19 +78908,6 @@
         "pushed": "2024-06-24T05:54:03+00:00",
         "url": "https://github.com/Rohith-SVS/Digital_VLSI_SoC_Design_and_Planning",
         "id": 787961621
-    },
-    {
-        "repo": "VLSI-Hardware-Designer",
-        "description": null,
-        "owner": "naruto2705",
-        "stars": 0,
-        "forks": 0,
-        "size": 2,
-        "created": "2023-07-23T22:48:00+00:00",
-        "updated": "2024-06-23T19:08:46+00:00",
-        "pushed": "2024-06-23T19:08:43+00:00",
-        "url": "https://github.com/naruto2705/VLSI-Hardware-Designer",
-        "id": 669934272
     },
     {
         "repo": "bcli",
@@ -79274,19 +78962,6 @@
         "id": 805806983
     },
     {
-        "repo": "tt07-mos6502",
-        "description": "Recreation of the mos 6502 cpu used in the Atari 2600, Atari 8-bit family, Apple II, Nintendo Entertainment System, Commodore 64, Atari Lynx, and BBC Micro",
-        "owner": "jasonkaufmann",
-        "stars": 2,
-        "forks": 0,
-        "size": 826,
-        "created": "2024-04-20T05:10:34+00:00",
-        "updated": "2024-06-24T01:15:19+00:00",
-        "pushed": "2024-06-24T01:15:15+00:00",
-        "url": "https://github.com/jasonkaufmann/tt07-mos6502",
-        "id": 789273569
-    },
-    {
         "repo": "SFAL-VSD",
         "description": null,
         "owner": "c-dhanush-p",
@@ -79298,19 +78973,6 @@
         "pushed": "2024-06-23T19:24:17+00:00",
         "url": "https://github.com/c-dhanush-p/SFAL-VSD",
         "id": 802714796
-    },
-    {
-        "repo": "tt08-verilog-debug-zh-aialra-main",
-        "description": null,
-        "owner": "AIALRA-0",
-        "stars": 0,
-        "forks": 0,
-        "size": 56,
-        "created": "2024-06-21T12:24:29+00:00",
-        "updated": "2024-06-23T23:50:14+00:00",
-        "pushed": "2024-06-23T23:50:11+00:00",
-        "url": "https://github.com/AIALRA-0/tt08-verilog-debug-zh-aialra-main",
-        "id": 818248753
     },
     {
         "repo": "BEV-Perception",
@@ -79352,17 +79014,407 @@
         "id": 86965622
     },
     {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1411,
+        "forks": 494,
+        "size": 608861,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-06-25T05:33:16+00:00",
+        "pushed": "2024-06-25T05:04:25+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "OpenFASOC",
+        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
+        "owner": "idea-fasoc",
+        "stars": 215,
+        "forks": 86,
+        "size": 419012,
+        "created": "2021-03-24T16:30:14+00:00",
+        "updated": "2024-06-24T01:03:20+00:00",
+        "pushed": "2024-06-24T18:27:43+00:00",
+        "url": "https://github.com/idea-fasoc/OpenFASOC",
+        "id": 351150248
+    },
+    {
+        "repo": "iEDA",
+        "description": null,
+        "owner": "OSCC-Project",
+        "stars": 257,
+        "forks": 23,
+        "size": 173943,
+        "created": "2022-08-28T06:18:01+00:00",
+        "updated": "2024-06-24T13:29:26+00:00",
+        "pushed": "2024-06-24T13:29:22+00:00",
+        "url": "https://github.com/OSCC-Project/iEDA",
+        "id": 529779698
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 797,
+        "forks": 82,
+        "size": 347044,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-06-24T20:57:13+00:00",
+        "pushed": "2024-06-25T00:08:46+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "DriveLM",
+        "description": "DriveLM: Driving with Graph Visual Question Answering",
+        "owner": "OpenDriveLab",
+        "stars": 695,
+        "forks": 41,
+        "size": 277674,
+        "created": "2023-08-08T12:07:33+00:00",
+        "updated": "2024-06-25T03:01:57+00:00",
+        "pushed": "2024-06-25T03:01:54+00:00",
+        "url": "https://github.com/OpenDriveLab/DriveLM",
+        "id": 676089005
+    },
+    {
+        "repo": "ipm",
+        "description": "Open-source IPs Package Manager (IPM)",
+        "owner": "efabless",
+        "stars": 11,
+        "forks": 1,
+        "size": 653,
+        "created": "2022-09-09T08:53:13+00:00",
+        "updated": "2024-06-24T11:01:33+00:00",
+        "pushed": "2024-06-24T11:01:30+00:00",
+        "url": "https://github.com/efabless/ipm",
+        "id": 534569093
+    },
+    {
+        "repo": "sky130_ldo_rl",
+        "description": "This repo contains the code that runs RL+GNN to optimize LDOs in SKY130 process.",
+        "owner": "ChrisZonghaoLi",
+        "stars": 21,
+        "forks": 3,
+        "size": 5413,
+        "created": "2023-05-10T20:17:19+00:00",
+        "updated": "2024-06-24T18:37:27+00:00",
+        "pushed": "2024-06-24T18:37:23+00:00",
+        "url": "https://github.com/ChrisZonghaoLi/sky130_ldo_rl",
+        "id": 639125913
+    },
+    {
+        "repo": "OpenROAD-obsolete-fork",
+        "description": null,
+        "owner": "amuritna",
+        "stars": 0,
+        "forks": 0,
+        "size": 612656,
+        "created": "2024-06-24T08:37:51+00:00",
+        "updated": "2024-06-24T08:42:05+00:00",
+        "pushed": "2024-06-24T08:41:40+00:00",
+        "url": "https://github.com/amuritna/OpenROAD-obsolete-fork",
+        "id": 819303585
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1149,
+        "forks": 165,
+        "size": 54418,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-06-24T23:39:08+00:00",
+        "pushed": "2024-06-24T23:39:05+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "sfal-vsd",
+        "description": null,
+        "owner": "joses-bot",
+        "stars": 2,
+        "forks": 1,
+        "size": 809,
+        "created": "2024-05-22T09:43:45+00:00",
+        "updated": "2024-06-24T11:35:12+00:00",
+        "pushed": "2024-06-24T11:35:09+00:00",
+        "url": "https://github.com/joses-bot/sfal-vsd",
+        "id": 804278638
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 224,
+        "forks": 146,
+        "size": 39382,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2024-06-20T16:04:23+00:00",
+        "pushed": "2024-06-25T00:46:04+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "lab1_1_fsic_sim",
+        "description": null,
+        "owner": "WeiChiaKung",
+        "stars": 0,
+        "forks": 0,
+        "size": 47292,
+        "created": "2024-06-24T09:54:02+00:00",
+        "updated": "2024-06-24T10:02:32+00:00",
+        "pushed": "2024-06-24T10:02:21+00:00",
+        "url": "https://github.com/WeiChiaKung/lab1_1_fsic_sim",
+        "id": 819336333
+    },
+    {
+        "repo": "floret",
+        "description": "A cell generator designed for advanced nodes",
+        "owner": "broccolimicro",
+        "stars": 1,
+        "forks": 0,
+        "size": 356,
+        "created": "2024-01-17T16:27:16+00:00",
+        "updated": "2024-06-21T19:12:41+00:00",
+        "pushed": "2024-06-24T15:51:00+00:00",
+        "url": "https://github.com/broccolimicro/floret",
+        "id": 744602136
+    },
+    {
+        "repo": "EF_QSPI_XIP_CTRL",
+        "description": "A QSPI XiP Flash Controller with a Direct Mapped Cache",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 77,
+        "created": "2024-05-11T08:00:45+00:00",
+        "updated": "2024-06-24T10:58:16+00:00",
+        "pushed": "2024-06-24T11:02:43+00:00",
+        "url": "https://github.com/efabless/EF_QSPI_XIP_CTRL",
+        "id": 799111182
+    },
+    {
+        "repo": "sky130_ef_ip__analog_switches",
+        "description": "Set of analog switch circuits for general-purpose use",
+        "owner": "RTimothyEdwards",
+        "stars": 0,
+        "forks": 0,
+        "size": 2314,
+        "created": "2024-05-23T17:53:11+00:00",
+        "updated": "2024-06-25T01:39:25+00:00",
+        "pushed": "2024-06-25T01:39:22+00:00",
+        "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__analog_switches",
+        "id": 805010531
+    },
+    {
+        "repo": "VLSI-Hardware-Designer",
+        "description": null,
+        "owner": "naruto2705",
+        "stars": 0,
+        "forks": 0,
+        "size": 13,
+        "created": "2023-07-23T22:48:00+00:00",
+        "updated": "2024-06-24T15:13:05+00:00",
+        "pushed": "2024-06-24T15:13:02+00:00",
+        "url": "https://github.com/naruto2705/VLSI-Hardware-Designer",
+        "id": 669934272
+    },
+    {
+        "repo": "CCD_SoC",
+        "description": null,
+        "owner": "CelinaBossa",
+        "stars": 0,
+        "forks": 0,
+        "size": 128,
+        "created": "2024-06-01T13:54:57+00:00",
+        "updated": "2024-06-05T22:29:49+00:00",
+        "pushed": "2024-06-25T00:54:50+00:00",
+        "url": "https://github.com/CelinaBossa/CCD_SoC",
+        "id": 809034366
+    },
+    {
+        "repo": "Eight_bit_AND_1",
+        "description": null,
+        "owner": "2023Dove",
+        "stars": 0,
+        "forks": 0,
+        "size": 38,
+        "created": "2024-06-20T15:41:44+00:00",
+        "updated": "2024-06-24T14:34:34+00:00",
+        "pushed": "2024-06-24T14:34:31+00:00",
+        "url": "https://github.com/2023Dove/Eight_bit_AND_1",
+        "id": 817863950
+    },
+    {
+        "repo": "hack_cpu",
+        "description": "A hardware description of a CPU based on the HACK architecture",
+        "owner": "bugavix",
+        "stars": 0,
+        "forks": 0,
+        "size": 57,
+        "created": "2024-06-14T09:32:56+00:00",
+        "updated": "2024-06-24T09:21:28+00:00",
+        "pushed": "2024-06-24T09:21:25+00:00",
+        "url": "https://github.com/bugavix/hack_cpu",
+        "id": 815069639
+    },
+    {
+        "repo": "tt08-systemverilog-test",
+        "description": null,
+        "owner": "Hridi1992",
+        "stars": 0,
+        "forks": 0,
+        "size": 26,
+        "created": "2024-06-20T14:46:07+00:00",
+        "updated": "2024-06-25T02:24:32+00:00",
+        "pushed": "2024-06-25T02:24:29+00:00",
+        "url": "https://github.com/Hridi1992/tt08-systemverilog-test",
+        "id": 817839750
+    },
+    {
+        "repo": "tt08-on-chip-memory-test",
+        "description": "Trying different kinds of on-chip memory using OpenLane",
+        "owner": "toivoh",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-06-25T05:35:01+00:00",
+        "updated": "2024-06-25T05:35:06+00:00",
+        "pushed": "2024-06-25T05:35:03+00:00",
+        "url": "https://github.com/toivoh/tt08-on-chip-memory-test",
+        "id": 819737068
+    },
+    {
+        "repo": "Verilog-Clone",
+        "description": null,
+        "owner": "wfang4285",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2024-06-24T20:35:45+00:00",
+        "updated": "2024-06-24T21:14:14+00:00",
+        "pushed": "2024-06-24T21:14:11+00:00",
+        "url": "https://github.com/wfang4285/Verilog-Clone",
+        "id": 819594659
+    },
+    {
+        "repo": "tt07-mos6502",
+        "description": "Recreation of the mos 6502 cpu used in the Atari 2600, Atari 8-bit family, Apple II, Nintendo Entertainment System, Commodore 64, Atari Lynx, and BBC Micro",
+        "owner": "jasonkaufmann",
+        "stars": 2,
+        "forks": 0,
+        "size": 896,
+        "created": "2024-04-20T05:10:34+00:00",
+        "updated": "2024-06-25T01:25:45+00:00",
+        "pushed": "2024-06-25T01:25:42+00:00",
+        "url": "https://github.com/jasonkaufmann/tt07-mos6502",
+        "id": 789273569
+    },
+    {
+        "repo": "ebrick-demo",
+        "description": "Demo: how to create a custom EBRICK",
+        "owner": "zeroasiccorp",
+        "stars": 13,
+        "forks": 0,
+        "size": 5102,
+        "created": "2024-03-19T06:37:20+00:00",
+        "updated": "2024-06-14T13:01:47+00:00",
+        "pushed": "2024-06-24T06:55:09+00:00",
+        "url": "https://github.com/zeroasiccorp/ebrick-demo",
+        "id": 774216308
+    },
+    {
+        "repo": "tt08-verilog-debug-zh-aialra-main",
+        "description": null,
+        "owner": "AIALRA-0",
+        "stars": 0,
+        "forks": 0,
+        "size": 322,
+        "created": "2024-06-21T12:24:29+00:00",
+        "updated": "2024-06-24T21:59:15+00:00",
+        "pushed": "2024-06-24T21:59:11+00:00",
+        "url": "https://github.com/AIALRA-0/tt08-verilog-debug-zh-aialra-main",
+        "id": 818248753
+    },
+    {
+        "repo": "tt07-beneater8bit",
+        "description": "ASIC recreation of the 8 bit breadboard computer developed in Ben Eater's Youtube series",
+        "owner": "jasonkaufmann",
+        "stars": 2,
+        "forks": 0,
+        "size": 1504,
+        "created": "2024-04-25T22:30:43+00:00",
+        "updated": "2024-06-25T00:20:12+00:00",
+        "pushed": "2024-06-25T00:20:09+00:00",
+        "url": "https://github.com/jasonkaufmann/tt07-beneater8bit",
+        "id": 792057703
+    },
+    {
+        "repo": "tt08-mos6502",
+        "description": "Recreation of the mos 6502 cpu used in the Atari 2600, Atari 8-bit family, Apple II, Nintendo Entertainment System, Commodore 64, Atari Lynx, and BBC Micro",
+        "owner": "jasonkaufmann",
+        "stars": 0,
+        "forks": 0,
+        "size": 801,
+        "created": "2024-06-25T01:27:41+00:00",
+        "updated": "2024-06-25T01:34:36+00:00",
+        "pushed": "2024-06-25T01:34:33+00:00",
+        "url": "https://github.com/jasonkaufmann/tt08-mos6502",
+        "id": 819671188
+    },
+    {
+        "repo": "kithminrw",
+        "description": "README repository",
+        "owner": "kithminrw",
+        "stars": 0,
+        "forks": 0,
+        "size": 168,
+        "created": "2024-04-28T19:02:54+00:00",
+        "updated": "2024-06-24T07:12:49+00:00",
+        "pushed": "2024-06-24T07:12:46+00:00",
+        "url": "https://github.com/kithminrw/kithminrw",
+        "id": 793222727
+    },
+    {
+        "repo": "vsdhdp",
+        "description": "VSD-HDP 10 weeks",
+        "owner": "siddharthanand3",
+        "stars": 0,
+        "forks": 0,
+        "size": 732,
+        "created": "2024-06-01T03:16:14+00:00",
+        "updated": "2024-06-24T11:32:15+00:00",
+        "pushed": "2024-06-24T11:32:12+00:00",
+        "url": "https://github.com/siddharthanand3/vsdhdp",
+        "id": 808872344
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1175,
+        "size": 1251,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-06-24T04:36:42+00:00",
-        "pushed": "2024-06-24T04:36:39+00:00",
+        "updated": "2024-06-25T04:36:56+00:00",
+        "pushed": "2024-06-25T04:36:54+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "finviz-git-scraper",
+        "description": "FinViz map of sectors and sub-sectors",
+        "owner": "fasiha",
+        "stars": 5,
+        "forks": 0,
+        "size": 130974,
+        "created": "2023-01-05T08:49:05+00:00",
+        "updated": "2024-06-24T23:57:18+00:00",
+        "pushed": "2024-06-24T23:57:15+00:00",
+        "url": "https://github.com/fasiha/finviz-git-scraper",
+        "id": 585468833
     },
     {
         "repo": "awesome-stars",
@@ -79370,12 +79422,25 @@
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 2163,
+        "size": 2363,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-24T01:46:47+00:00",
-        "pushed": "2024-06-24T01:46:44+00:00",
+        "updated": "2024-06-25T01:43:07+00:00",
+        "pushed": "2024-06-25T01:43:05+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 40260,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-06-25T01:06:59+00:00",
+        "pushed": "2024-06-25T01:06:56+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "awesome-stars",
@@ -79383,10 +79448,10 @@
         "owner": "tech-andgar",
         "stars": 11,
         "forks": 0,
-        "size": 26947,
+        "size": 27217,
         "created": "2020-11-09T02:22:44+00:00",
-        "updated": "2024-06-24T00:50:27+00:00",
-        "pushed": "2024-06-24T00:50:24+00:00",
+        "updated": "2024-06-25T00:50:35+00:00",
+        "pushed": "2024-06-25T00:50:32+00:00",
         "url": "https://github.com/tech-andgar/awesome-stars",
         "id": 311201466
     }
