@@ -36088,19 +36088,6 @@
         "id": 524386531
     },
     {
-        "repo": "aCoral-riscv-cl",
-        "description": "aCoral for k210",
-        "owner": "spg-one",
-        "stars": 2,
-        "forks": 0,
-        "size": 6591,
-        "created": "2023-05-25T15:12:56+00:00",
-        "updated": "2024-04-27T14:07:24+00:00",
-        "pushed": "2024-04-27T14:07:21+00:00",
-        "url": "https://github.com/spg-one/aCoral-riscv-cl",
-        "id": 645403225
-    },
-    {
         "repo": "k230_canmv_docs",
         "description": "k230_canmv_docs",
         "owner": "kendryte",
@@ -37466,19 +37453,6 @@
         "id": 663411081
     },
     {
-        "repo": "maixuany.shop",
-        "description": null,
-        "owner": "hidden-00",
-        "stars": 0,
-        "forks": 0,
-        "size": 23760,
-        "created": "2024-06-02T11:45:11+00:00",
-        "updated": "2024-06-19T13:59:56+00:00",
-        "pushed": "2024-06-19T13:59:53+00:00",
-        "url": "https://github.com/hidden-00/maixuany.shop",
-        "id": 809330112
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -37661,32 +37635,6 @@
         "id": 770690133
     },
     {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 72,
-        "forks": 3,
-        "size": 39026,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-06-18T23:44:27+00:00",
-        "pushed": "2024-06-25T04:14:41+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 144,
-        "forks": 29,
-        "size": 147508,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-06-23T22:34:44+00:00",
-        "pushed": "2024-06-25T01:03:54+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "LilyGo-K210-Script",
         "description": null,
         "owner": "Xinyuan-LilyGO",
@@ -37765,19 +37713,6 @@
         "id": 745771617
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9976,
-        "forks": 4882,
-        "size": 864963,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-26T05:48:58+00:00",
-        "pushed": "2024-06-26T05:48:54+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "MaixCDK",
         "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
         "owner": "sipeed",
@@ -37802,19 +37737,6 @@
         "pushed": "2024-06-25T19:26:58+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 1,
-        "forks": 0,
-        "size": 16005,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-06-26T03:39:06+00:00",
-        "pushed": "2024-06-26T03:39:03+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
     },
     {
         "repo": "vihal",
@@ -37843,15 +37765,119 @@
         "id": 820116786
     },
     {
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 72,
+        "forks": 3,
+        "size": 39031,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-06-18T23:44:27+00:00",
+        "pushed": "2024-06-27T04:01:02+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 143,
+        "forks": 29,
+        "size": 149604,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-06-25T22:33:50+00:00",
+        "pushed": "2024-06-26T17:14:42+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9980,
+        "forks": 4884,
+        "size": 865032,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-26T23:15:15+00:00",
+        "pushed": "2024-06-27T03:26:16+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 2,
+        "forks": 0,
+        "size": 16052,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-06-26T09:56:56+00:00",
+        "pushed": "2024-06-27T06:03:52+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "aCoral-riscv-cl",
+        "description": "aCoral for k210",
+        "owner": "spg-one",
+        "stars": 2,
+        "forks": 0,
+        "size": 6592,
+        "created": "2023-05-25T15:12:56+00:00",
+        "updated": "2024-06-27T04:35:03+00:00",
+        "pushed": "2024-06-27T04:34:59+00:00",
+        "url": "https://github.com/spg-one/aCoral-riscv-cl",
+        "id": 645403225
+    },
+    {
+        "repo": "K210605",
+        "description": "Config files for my GitHub profile.",
+        "owner": "K210605",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-06-26T09:52:19+00:00",
+        "updated": "2024-06-26T09:52:20+00:00",
+        "pushed": "2024-06-26T09:52:20+00:00",
+        "url": "https://github.com/K210605/K210605",
+        "id": 820353343
+    },
+    {
+        "repo": "maixuany.shop",
+        "description": null,
+        "owner": "hidden-00",
+        "stars": 0,
+        "forks": 0,
+        "size": 23847,
+        "created": "2024-06-02T11:45:11+00:00",
+        "updated": "2024-06-26T10:31:03+00:00",
+        "pushed": "2024-06-26T10:30:59+00:00",
+        "url": "https://github.com/hidden-00/maixuany.shop",
+        "id": 809330112
+    },
+    {
+        "repo": "degny-maixent",
+        "description": null,
+        "owner": "tmofinder",
+        "stars": 0,
+        "forks": 0,
+        "size": 17745,
+        "created": "2024-06-26T09:43:55+00:00",
+        "updated": "2024-06-26T11:37:49+00:00",
+        "pushed": "2024-06-26T11:37:46+00:00",
+        "url": "https://github.com/tmofinder/degny-maixent",
+        "id": 820349821
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 2825,
+        "size": 3286,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-26T01:44:31+00:00",
-        "pushed": "2024-06-26T01:44:29+00:00",
+        "updated": "2024-06-27T01:44:53+00:00",
+        "pushed": "2024-06-27T01:44:50+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37861,10 +37887,10 @@
         "owner": "androidtrackers",
         "stars": 119,
         "forks": 35,
-        "size": 706141,
+        "size": 706143,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-25T12:27:20+00:00",
-        "pushed": "2024-06-25T12:27:16+00:00",
+        "updated": "2024-06-26T12:28:35+00:00",
+        "pushed": "2024-06-26T12:28:31+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37874,10 +37900,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 2538,
+        "size": 2683,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-26T01:41:24+00:00",
-        "pushed": "2024-06-26T01:41:21+00:00",
+        "updated": "2024-06-27T01:41:40+00:00",
+        "pushed": "2024-06-27T01:41:36+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37890,7 +37916,7 @@
         "size": 248,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-26T02:30:04+00:00",
-        "pushed": "2024-06-26T02:33:19+00:00",
+        "pushed": "2024-06-27T00:12:55+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
