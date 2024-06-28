@@ -5018,19 +5018,6 @@
         "id": 162131770
     },
     {
-        "repo": "MyHDLWorkshop",
-        "description": null,
-        "owner": "safanazar",
-        "stars": 0,
-        "forks": 0,
-        "size": 15,
-        "created": "2024-04-09T15:26:10+00:00",
-        "updated": "2024-05-02T09:09:17+00:00",
-        "pushed": "2024-05-02T09:09:13+00:00",
-        "url": "https://github.com/safanazar/MyHDLWorkshop",
-        "id": 784301828
-    },
-    {
         "repo": "cyrite.howto",
         "description": null,
         "owner": "hackfin",
@@ -5291,19 +5278,6 @@
         "id": 605602834
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13865,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-06-24T07:55:02+00:00",
-        "pushed": "2024-06-24T07:54:59+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -5315,5 +5289,31 @@
         "pushed": "2024-06-25T11:27:01+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13953,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-06-27T08:28:16+00:00",
+        "pushed": "2024-06-27T08:28:12+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "MyHDLWorkshop",
+        "description": "Digital components and projects written in Python",
+        "owner": "safanazar",
+        "stars": 0,
+        "forks": 0,
+        "size": 21,
+        "created": "2024-04-09T15:26:10+00:00",
+        "updated": "2024-06-27T08:55:44+00:00",
+        "pushed": "2024-06-27T08:55:41+00:00",
+        "url": "https://github.com/safanazar/MyHDLWorkshop",
+        "id": 784301828
     }
 ]
