@@ -12142,19 +12142,6 @@
         "id": 413357087
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 1,
-        "forks": 4,
-        "size": 197,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-05-26T20:29:52+00:00",
-        "pushed": "2024-06-01T05:16:50+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "autoinvoice",
         "description": "Automatic invoicing system with plugins and caching",
         "owner": "str0g",
@@ -12311,19 +12298,6 @@
         "id": 813321161
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards.",
-        "owner": "apfelaudio",
-        "stars": 164,
-        "forks": 8,
-        "size": 21816,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-06-12T15:54:55+00:00",
-        "pushed": "2024-06-13T05:27:50+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "linux-on-litex-vexriscv",
         "description": "Linux on LiteX-VexRiscv",
         "owner": "litex-hub",
@@ -12348,19 +12322,6 @@
         "pushed": "2024-06-13T23:02:48+00:00",
         "url": "https://github.com/grishka/appkit",
         "id": 225642630
-    },
-    {
-        "repo": "litex_hw_ci",
-        "description": "LiteX Hardware CI tests.",
-        "owner": "enjoy-digital",
-        "stars": 6,
-        "forks": 1,
-        "size": 1673,
-        "created": "2024-01-17T07:17:44+00:00",
-        "updated": "2024-06-13T07:31:49+00:00",
-        "pushed": "2024-06-13T07:31:45+00:00",
-        "url": "https://github.com/enjoy-digital/litex_hw_ci",
-        "id": 744379987
     },
     {
         "repo": "digital-design-dataset",
@@ -12532,19 +12493,6 @@
         "id": 274442284
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 102,
-        "forks": 13,
-        "size": 48,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-06-23T14:28:05+00:00",
-        "pushed": "2024-06-23T14:28:02+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -12649,19 +12597,6 @@
         "id": 42048653
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 52,
-        "forks": 21,
-        "size": 77709,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-06-24T20:53:05+00:00",
-        "pushed": "2024-06-26T20:58:04+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -12686,19 +12621,6 @@
         "pushed": "2024-06-08T23:36:13+00:00",
         "url": "https://github.com/EEVengers/thunderscope_litex",
         "id": 786797602
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 3,
-        "forks": 2,
-        "size": 1165,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-06-26T09:48:24+00:00",
-        "pushed": "2024-06-26T09:48:20+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
     },
     {
         "repo": "linux-on-litex-cva5",
@@ -12751,32 +12673,6 @@
         "pushed": "2024-06-27T07:41:37+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 356,
-        "forks": 275,
-        "size": 4088,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-06-28T03:07:30+00:00",
-        "pushed": "2024-06-27T12:55:28+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 720,
-        "forks": 65,
-        "size": 1189,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-06-27T15:13:29+00:00",
-        "pushed": "2024-06-28T01:53:59+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -12870,15 +12766,119 @@
         "id": 794006125
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 356,
+        "forks": 275,
+        "size": 4127,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-06-28T11:26:51+00:00",
+        "pushed": "2024-06-28T11:26:47+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 722,
+        "forks": 65,
+        "size": 1189,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-06-29T02:08:18+00:00",
+        "pushed": "2024-06-29T01:59:00+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 52,
+        "forks": 21,
+        "size": 77714,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-06-24T20:53:05+00:00",
+        "pushed": "2024-06-28T21:38:47+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 2,
+        "forks": 4,
+        "size": 197,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-06-07T19:22:18+00:00",
+        "pushed": "2024-06-28T19:10:10+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "litex_hw_ci",
+        "description": "LiteX Hardware CI tests.",
+        "owner": "enjoy-digital",
+        "stars": 6,
+        "forks": 1,
+        "size": 1673,
+        "created": "2024-01-17T07:17:44+00:00",
+        "updated": "2024-06-28T08:10:13+00:00",
+        "pushed": "2024-06-28T08:10:10+00:00",
+        "url": "https://github.com/enjoy-digital/litex_hw_ci",
+        "id": 744379987
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards.",
+        "owner": "apfelaudio",
+        "stars": 167,
+        "forks": 8,
+        "size": 21819,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2024-06-19T05:23:17+00:00",
+        "pushed": "2024-06-28T21:25:52+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 3,
+        "forks": 2,
+        "size": 1171,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-06-28T10:15:15+00:00",
+        "pushed": "2024-06-28T10:15:11+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 102,
+        "forks": 13,
+        "size": 48,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-06-29T05:38:33+00:00",
+        "pushed": "2024-06-29T05:38:29+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1330,
+        "size": 1406,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-06-28T04:36:32+00:00",
-        "pushed": "2024-06-28T04:36:29+00:00",
+        "updated": "2024-06-29T04:37:49+00:00",
+        "pushed": "2024-06-29T04:37:47+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12888,10 +12888,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 63161,
+        "size": 63616,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-06-28T03:25:28+00:00",
-        "pushed": "2024-06-28T03:25:25+00:00",
+        "updated": "2024-06-29T03:24:53+00:00",
+        "pushed": "2024-06-29T03:24:50+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
