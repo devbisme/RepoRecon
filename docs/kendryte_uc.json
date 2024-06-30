@@ -37518,19 +37518,6 @@
         "id": 456793068
     },
     {
-        "repo": "awesome-yolo-object-detection",
-        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
-        "owner": "codingonion",
-        "stars": 1101,
-        "forks": 176,
-        "size": 263,
-        "created": "2022-02-19T17:57:06+00:00",
-        "updated": "2024-06-23T14:29:49+00:00",
-        "pushed": "2024-06-23T14:29:46+00:00",
-        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
-        "id": 461270746
-    },
-    {
         "repo": "xv6-k210",
         "description": null,
         "owner": "make-ACG-great-again",
@@ -37555,19 +37542,6 @@
         "pushed": "2024-06-24T03:49:27+00:00",
         "url": "https://github.com/610t/ScratchHacksBook",
         "id": 802309493
-    },
-    {
-        "repo": "support-matrix",
-        "description": "RISCV Board and OS Supported Matrix",
-        "owner": "ruyisdk",
-        "stars": 2,
-        "forks": 8,
-        "size": 27844,
-        "created": "2024-03-12T01:34:58+00:00",
-        "updated": "2024-06-24T14:49:12+00:00",
-        "pushed": "2024-06-24T14:49:04+00:00",
-        "url": "https://github.com/ruyisdk/support-matrix",
-        "id": 770690133
     },
     {
         "repo": "LilyGo-K210-Script",
@@ -37726,19 +37700,6 @@
         "id": 418056913
     },
     {
-        "repo": "maixuany.shop",
-        "description": null,
-        "owner": "hidden-00",
-        "stars": 0,
-        "forks": 0,
-        "size": 23860,
-        "created": "2024-06-02T11:45:11+00:00",
-        "updated": "2024-06-27T15:03:54+00:00",
-        "pushed": "2024-06-27T15:03:50+00:00",
-        "url": "https://github.com/hidden-00/maixuany.shop",
-        "id": 809330112
-    },
-    {
         "repo": "maix_train_mx",
         "description": null,
         "owner": "integemjack",
@@ -37804,32 +37765,6 @@
         "id": 557141473
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 175,
-        "forks": 141,
-        "size": 241,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2024-06-28T07:40:47+00:00",
-        "pushed": "2024-06-28T07:40:44+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9990,
-        "forks": 4889,
-        "size": 865127,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-29T03:27:48+00:00",
-        "pushed": "2024-06-29T06:04:25+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -37882,15 +37817,80 @@
         "id": 562172149
     },
     {
+        "repo": "support-matrix",
+        "description": "RISCV Board and OS Supported Matrix",
+        "owner": "ruyisdk",
+        "stars": 3,
+        "forks": 8,
+        "size": 27850,
+        "created": "2024-03-12T01:34:58+00:00",
+        "updated": "2024-06-29T12:06:35+00:00",
+        "pushed": "2024-06-29T12:06:31+00:00",
+        "url": "https://github.com/ruyisdk/support-matrix",
+        "id": 770690133
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 175,
+        "forks": 141,
+        "size": 242,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-06-30T04:03:21+00:00",
+        "pushed": "2024-06-30T04:03:18+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9991,
+        "forks": 4890,
+        "size": 865354,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-06-30T00:02:00+00:00",
+        "pushed": "2024-06-30T00:01:51+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "awesome-yolo-object-detection",
+        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
+        "owner": "codingonion",
+        "stars": 1107,
+        "forks": 176,
+        "size": 264,
+        "created": "2022-02-19T17:57:06+00:00",
+        "updated": "2024-06-29T16:30:34+00:00",
+        "pushed": "2024-06-29T16:30:31+00:00",
+        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
+        "id": 461270746
+    },
+    {
+        "repo": "maixuany.shop",
+        "description": null,
+        "owner": "hidden-00",
+        "stars": 0,
+        "forks": 0,
+        "size": 23861,
+        "created": "2024-06-02T11:45:11+00:00",
+        "updated": "2024-06-29T08:20:17+00:00",
+        "pushed": "2024-06-29T08:20:14+00:00",
+        "url": "https://github.com/hidden-00/maixuany.shop",
+        "id": 809330112
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 4208,
+        "size": 4670,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-29T01:43:15+00:00",
-        "pushed": "2024-06-29T01:43:12+00:00",
+        "updated": "2024-06-30T01:51:25+00:00",
+        "pushed": "2024-06-30T01:51:22+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37898,12 +37898,12 @@
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 119,
+        "stars": 120,
         "forks": 35,
-        "size": 706149,
+        "size": 706152,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-28T12:28:06+00:00",
-        "pushed": "2024-06-28T12:28:00+00:00",
+        "updated": "2024-06-29T14:24:31+00:00",
+        "pushed": "2024-06-29T12:26:10+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37913,10 +37913,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 2974,
+        "size": 3120,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-29T01:40:10+00:00",
-        "pushed": "2024-06-29T01:40:06+00:00",
+        "updated": "2024-06-30T01:48:14+00:00",
+        "pushed": "2024-06-30T01:48:12+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -37929,7 +37929,7 @@
         "size": 256,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-27T23:52:53+00:00",
-        "pushed": "2024-06-29T00:12:44+00:00",
+        "pushed": "2024-06-30T00:14:05+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
