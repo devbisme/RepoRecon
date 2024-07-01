@@ -35373,19 +35373,6 @@
         "id": 777121323
     },
     {
-        "repo": "VictimDetection",
-        "description": null,
-        "owner": "TanoRoboRCJ",
-        "stars": 0,
-        "forks": 0,
-        "size": 527061,
-        "created": "2024-02-04T05:34:53+00:00",
-        "updated": "2024-03-27T12:09:57+00:00",
-        "pushed": "2024-03-28T10:19:06+00:00",
-        "url": "https://github.com/TanoRoboRCJ/VictimDetection",
-        "id": 752531726
-    },
-    {
         "repo": "INTELLIGENT-LOCK-SYSTEM-BASED-ON-STM32",
         "description": "\u8be5\u8bbe\u8ba1\u91c7\u7528STM32F103C8T6\u4f5c\u4e3a\u7cfb\u7edf\u7684\u4e3b\u5904\u7406\u5668\uff0c\u91c7\u7528\u4eba\u8138\u8bc6\u522b\u3001\u6307\u7eb9\u8bc6\u522b\u4ee5\u53ca\u5bc6\u7801\u5224\u522b\u4e09\u79cd\u65b9\u5f0f\u8fdb\u884c\u7528\u6237\u7684\u8eab\u4efd\u8bc6\u522b\u3002\u5728\u4fe1\u606f\u91c7\u96c6\u9636\u6bb5\uff0c\u7cfb\u7edf\u901a\u8fc7\u5728K210\u5904\u7406\u5668\u7f16\u5199\u7684YOLO\u7b97\u6cd5\u8fdb\u884c\u4eba\u8138\u4fe1\u606f\u7684\u76ee\u6807\u68c0\u6d4b\uff0c\u901a\u8fc7ATK-AS608\u6307\u7eb9\u8bc6\u522b\u6a21\u5757\u91c7\u96c6\u6307\u7eb9\u4fe1\u606f\uff0c\u5e76\u91c7\u7528\u77e9\u9635\u952e\u76d8\u8fdb\u884c\u5bc6\u7801\u4fe1\u606f\u7684\u91c7\u96c6\u5de5\u4f5c\u3002\u4e0a\u8ff0\u8eab\u4efd\u4fe1\u606f\u7ecf\u8fc7\u91c7\u96c6\u4e4b\u540e\u5c06\u5b9e\u65f6\u4f20\u8f93\u5230STM32F01\u5904\u7406\u5668\u8fdb\u884c\u6570\u636e\u7684\u5904\u7406\u4e0e\u4fe1\u606f\u7684\u6bd4\u5bf9\uff0c\u8eab\u4efd\u4fe1\u606f\u6bd4\u5bf9\u6210\u529f\u540e\u7cfb\u7edf\u65b9\u53ef\u5f00\u9501\u3002",
         "owner": "zyysin",
@@ -35800,19 +35787,6 @@
         "pushed": "2024-04-18T06:21:58+00:00",
         "url": "https://github.com/Xinyuan-LilyGO/LilyGo-Document",
         "id": 256427397
-    },
-    {
-        "repo": "pkgs-test",
-        "description": "The RT-Thread package testing tool",
-        "owner": "RT-Thread",
-        "stars": 7,
-        "forks": 8,
-        "size": 55,
-        "created": "2023-01-03T03:14:05+00:00",
-        "updated": "2023-05-30T11:05:38+00:00",
-        "pushed": "2024-04-19T00:49:15+00:00",
-        "url": "https://github.com/RT-Thread/pkgs-test",
-        "id": 584603506
     },
     {
         "repo": "rcore",
@@ -36400,19 +36374,6 @@
         "id": 789990082
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1473,
-        "forks": 423,
-        "size": 48219,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-05-11T00:17:42+00:00",
-        "pushed": "2024-05-10T14:05:49+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
         "repo": "rcore-tutorial-v3-with-hal-component",
         "description": null,
         "owner": "yfblock",
@@ -36476,19 +36437,6 @@
         "pushed": "2024-05-13T03:20:15+00:00",
         "url": "https://github.com/maixuwn/maixuwn",
         "id": 799757374
-    },
-    {
-        "repo": "rCore-Tutorial-Book-v3",
-        "description": "A book about how to write  OS kernels in Rust easily.",
-        "owner": "rcore-os",
-        "stars": 1112,
-        "forks": 198,
-        "size": 98151,
-        "created": "2020-10-29T14:01:52+00:00",
-        "updated": "2024-05-13T12:03:19+00:00",
-        "pushed": "2024-05-14T05:47:48+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
-        "id": 308346100
     },
     {
         "repo": "awesome-rt-thread",
@@ -37635,32 +37583,6 @@
         "id": 820349821
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 706,
-        "forks": 180,
-        "size": 58388,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-06-24T09:14:27+00:00",
-        "pushed": "2024-06-28T02:55:08+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 34,
-        "forks": 7,
-        "size": 10288,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-06-26T17:05:33+00:00",
-        "pushed": "2024-06-27T11:24:09+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -37674,19 +37596,6 @@
         "id": 476865621
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 2,
-        "forks": 0,
-        "size": 19759,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-06-28T06:07:30+00:00",
-        "pushed": "2024-06-28T06:07:27+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "quasiSoC",
         "description": "Linux capable RISC-V SoC designed to be readable and useful. ",
         "owner": "regymm",
@@ -37698,19 +37607,6 @@
         "pushed": "2024-06-27T12:57:07+00:00",
         "url": "https://github.com/regymm/quasiSoC",
         "id": 418056913
-    },
-    {
-        "repo": "maix_train_mx",
-        "description": null,
-        "owner": "integemjack",
-        "stars": 0,
-        "forks": 0,
-        "size": 150550,
-        "created": "2024-06-05T03:39:45+00:00",
-        "updated": "2024-06-28T01:54:54+00:00",
-        "pushed": "2024-06-28T01:54:51+00:00",
-        "url": "https://github.com/integemjack/maix_train_mx",
-        "id": 810618389
     },
     {
         "repo": "MaixPy",
@@ -37737,19 +37633,6 @@
         "pushed": "2024-06-28T21:32:38+00:00",
         "url": "https://github.com/kendryte/k230_canmv",
         "id": 706052378
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 143,
-        "forks": 29,
-        "size": 149617,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-06-25T22:33:50+00:00",
-        "pushed": "2024-06-29T03:09:36+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "canmv_examples",
@@ -37830,32 +37713,6 @@
         "id": 770690133
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 175,
-        "forks": 141,
-        "size": 242,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2024-06-30T04:03:21+00:00",
-        "pushed": "2024-06-30T04:03:18+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9991,
-        "forks": 4890,
-        "size": 865354,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-06-30T00:02:00+00:00",
-        "pushed": "2024-06-30T00:01:51+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "awesome-yolo-object-detection",
         "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
         "owner": "codingonion",
@@ -37882,17 +37739,82 @@
         "id": 809330112
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 4670,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-06-30T01:51:25+00:00",
-        "pushed": "2024-06-30T01:51:22+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 705,
+        "forks": 180,
+        "size": 58422,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-06-28T23:47:11+00:00",
+        "pushed": "2024-07-01T04:17:16+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1517,
+        "forks": 437,
+        "size": 48309,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-07-01T00:04:12+00:00",
+        "pushed": "2024-06-30T13:57:41+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 144,
+        "forks": 29,
+        "size": 149623,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-06-30T14:05:04+00:00",
+        "pushed": "2024-06-30T19:53:04+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rCore-Tutorial-Book-v3",
+        "description": "A book about how to write  OS kernels in Rust easily.",
+        "owner": "rcore-os",
+        "stars": 1122,
+        "forks": 206,
+        "size": 96975,
+        "created": "2020-10-29T14:01:52+00:00",
+        "updated": "2024-06-30T13:41:40+00:00",
+        "pushed": "2024-06-30T13:42:31+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
+        "id": 308346100
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 35,
+        "forks": 7,
+        "size": 10299,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-06-28T17:11:22+00:00",
+        "pushed": "2024-06-30T10:33:26+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "pkgs-test",
+        "description": "The RT-Thread package testing tool",
+        "owner": "RT-Thread",
+        "stars": 7,
+        "forks": 8,
+        "size": 57,
+        "created": "2023-01-03T03:14:05+00:00",
+        "updated": "2024-06-30T14:49:25+00:00",
+        "pushed": "2024-06-30T14:49:21+00:00",
+        "url": "https://github.com/RT-Thread/pkgs-test",
+        "id": 584603506
     },
     {
         "repo": "certified-android-devices",
@@ -37902,23 +37824,10 @@
         "forks": 35,
         "size": 706152,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-29T14:24:31+00:00",
-        "pushed": "2024-06-29T12:26:10+00:00",
+        "updated": "2024-06-30T12:25:27+00:00",
+        "pushed": "2024-06-30T12:25:24+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 1,
-        "forks": 1,
-        "size": 3120,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-06-30T01:48:14+00:00",
-        "pushed": "2024-06-30T01:48:12+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
     },
     {
         "repo": "nuttx-ox64",
@@ -37929,8 +37838,125 @@
         "size": 256,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-06-27T23:52:53+00:00",
-        "pushed": "2024-06-30T00:14:05+00:00",
+        "pushed": "2024-07-01T00:14:34+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "maix_train_mx",
+        "description": null,
+        "owner": "integemjack",
+        "stars": 0,
+        "forks": 0,
+        "size": 150550,
+        "created": "2024-06-05T03:39:45+00:00",
+        "updated": "2024-07-01T04:01:23+00:00",
+        "pushed": "2024-07-01T04:01:20+00:00",
+        "url": "https://github.com/integemjack/maix_train_mx",
+        "id": 810618389
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 176,
+        "forks": 141,
+        "size": 250,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-07-01T01:10:25+00:00",
+        "pushed": "2024-07-01T01:10:21+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 9996,
+        "forks": 4891,
+        "size": 865364,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-07-01T02:00:03+00:00",
+        "pushed": "2024-07-01T02:33:34+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 2,
+        "forks": 0,
+        "size": 19753,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-07-01T01:04:56+00:00",
+        "pushed": "2024-07-01T01:04:53+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "VictimDetection",
+        "description": null,
+        "owner": "TanoRoboRCJ",
+        "stars": 0,
+        "forks": 0,
+        "size": 527062,
+        "created": "2024-02-04T05:34:53+00:00",
+        "updated": "2024-07-01T00:34:41+00:00",
+        "pushed": "2024-07-01T00:34:10+00:00",
+        "url": "https://github.com/TanoRoboRCJ/VictimDetection",
+        "id": 752531726
+    },
+    {
+        "repo": "MaixGPT",
+        "description": "openai style api running on MaixCAM/MaixPy4",
+        "owner": "NirViaje",
+        "stars": 0,
+        "forks": 0,
+        "size": 22,
+        "created": "2024-07-01T02:07:05+00:00",
+        "updated": "2024-07-01T02:20:46+00:00",
+        "pushed": "2024-07-01T02:20:44+00:00",
+        "url": "https://github.com/NirViaje/MaixGPT",
+        "id": 822359429
+    },
+    {
+        "repo": "Stm32_ImageRecognition_RefuseSorting",
+        "description": "\u57fa\u4e8estm32\u7684\u56fe\u50cf\u8bc6\u522b\u667a\u80fd\u5783\u573e\u5206\u7c7b\u7cfb\u7edf\u8bbe\u8ba1",
+        "owner": "HZR0709",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-07-01T05:41:21+00:00",
+        "updated": "2024-07-01T06:10:34+00:00",
+        "pushed": "2024-07-01T06:10:30+00:00",
+        "url": "https://github.com/HZR0709/Stm32_ImageRecognition_RefuseSorting",
+        "id": 822414802
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 5130,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-07-01T01:54:44+00:00",
+        "pushed": "2024-07-01T01:54:41+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 1,
+        "forks": 1,
+        "size": 3122,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-07-01T01:51:46+00:00",
+        "pushed": "2024-07-01T01:51:43+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
     }
 ]

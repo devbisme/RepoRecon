@@ -403,19 +403,6 @@
         "id": 203195927
     },
     {
-        "repo": "awesome_photonics",
-        "description": "\ud83d\ude0e curated list of open source photonics projects",
-        "owner": "joamatab",
-        "stars": 231,
-        "forks": 33,
-        "size": 94,
-        "created": "2019-09-12T22:00:22Z",
-        "updated": "2023-10-31T21:58:50Z",
-        "pushed": "2023-10-19T15:27:08Z",
-        "url": "https://github.com/joamatab/awesome_photonics",
-        "id": 208153462
-    },
-    {
         "repo": "circlib",
         "description": null,
         "owner": "matthuszagh",
@@ -1508,19 +1495,6 @@
         "id": 768320430
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 307,
-        "forks": 23,
-        "size": 14017,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-06-26T00:02:32+00:00",
-        "pushed": "2024-06-28T21:04:49+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "skidl",
         "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
         "owner": "devbisme",
@@ -1532,5 +1506,31 @@
         "pushed": "2024-06-29T12:00:32+00:00",
         "url": "https://github.com/devbisme/skidl",
         "id": 65847289
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 307,
+        "forks": 23,
+        "size": 14026,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-06-26T00:02:32+00:00",
+        "pushed": "2024-06-30T19:16:48+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
+    },
+    {
+        "repo": "awesome_photonics",
+        "description": "\ud83d\ude0e curated list of open source photonics projects",
+        "owner": "joamatab",
+        "stars": 298,
+        "forks": 39,
+        "size": 101,
+        "created": "2019-09-12T22:00:22+00:00",
+        "updated": "2024-07-01T04:12:16+00:00",
+        "pushed": "2024-07-01T04:12:13+00:00",
+        "url": "https://github.com/joamatab/awesome_photonics",
+        "id": 208153462
     }
 ]

@@ -12415,19 +12415,6 @@
         "id": 31147284
     },
     {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 29,
-        "forks": 2,
-        "size": 10464,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2024-06-20T03:38:07+00:00",
-        "pushed": "2024-06-19T12:52:38+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
-    },
-    {
         "repo": "lakritz",
         "description": "Lakritz Computer",
         "owner": "machdyne",
@@ -12714,19 +12701,6 @@
         "id": 191191221
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 2,
-        "forks": 4,
-        "size": 197,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-06-07T19:22:18+00:00",
-        "pushed": "2024-06-28T19:10:10+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "litex_hw_ci",
         "description": "LiteX Hardware CI tests.",
         "owner": "enjoy-digital",
@@ -12779,19 +12753,6 @@
         "id": 605602834
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 723,
-        "forks": 66,
-        "size": 1189,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-06-29T23:12:31+00:00",
-        "pushed": "2024-06-30T01:57:14+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -12803,19 +12764,6 @@
         "pushed": "2024-06-29T21:13:15+00:00",
         "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
         "id": 464657430
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1478,
-        "forks": 204,
-        "size": 208899,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-06-30T05:24:22+00:00",
-        "pushed": "2024-06-29T15:18:02+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "litehm2",
@@ -12831,19 +12779,6 @@
         "id": 574363787
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 41,
-        "forks": 17,
-        "size": 119783,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-06-30T05:16:34+00:00",
-        "pushed": "2024-06-30T05:16:32+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -12857,15 +12792,80 @@
         "id": 564480301
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 724,
+        "forks": 66,
+        "size": 1189,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-06-30T11:54:36+00:00",
+        "pushed": "2024-07-01T02:09:10+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1478,
+        "forks": 204,
+        "size": 208659,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-06-30T14:41:38+00:00",
+        "pushed": "2024-06-30T14:42:55+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 2,
+        "forks": 4,
+        "size": 197,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-06-07T19:22:18+00:00",
+        "pushed": "2024-07-01T03:31:11+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 30,
+        "forks": 2,
+        "size": 10469,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2024-06-30T22:01:19+00:00",
+        "pushed": "2024-06-30T22:01:15+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 41,
+        "forks": 17,
+        "size": 119799,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-07-01T05:17:43+00:00",
+        "pushed": "2024-07-01T05:17:41+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1452,
+        "size": 1453,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-06-30T04:36:18+00:00",
-        "pushed": "2024-06-30T04:36:16+00:00",
+        "updated": "2024-07-01T04:36:56+00:00",
+        "pushed": "2024-07-01T04:36:53+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12875,10 +12875,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 40737,
+        "size": 41973,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-06-30T00:56:59+00:00",
-        "pushed": "2024-06-30T00:56:56+00:00",
+        "updated": "2024-07-01T01:05:25+00:00",
+        "pushed": "2024-07-01T01:05:21+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -12888,10 +12888,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 55886,
+        "size": 56342,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-06-30T03:25:39+00:00",
-        "pushed": "2024-06-30T03:25:36+00:00",
+        "updated": "2024-07-01T03:25:19+00:00",
+        "pushed": "2024-07-01T03:25:15+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
