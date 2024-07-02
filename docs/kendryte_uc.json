@@ -33852,19 +33852,6 @@
         "id": 244118295
     },
     {
-        "repo": "Actor_detection__YOLO_model",
-        "description": null,
-        "owner": "Michprac",
-        "stars": 0,
-        "forks": 0,
-        "size": 4703,
-        "created": "2023-04-22T10:15:02+00:00",
-        "updated": "2023-04-22T10:21:45+00:00",
-        "pushed": "2024-01-04T21:50:41+00:00",
-        "url": "https://github.com/Michprac/Actor_detection__YOLO_model",
-        "id": 631218864
-    },
-    {
         "repo": "Arduino_libs",
         "description": null,
         "owner": "NitiponZZZZ",
@@ -37817,19 +37804,6 @@
         "id": 584603506
     },
     {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 120,
-        "forks": 35,
-        "size": 706152,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-06-30T12:25:27+00:00",
-        "pushed": "2024-06-30T12:25:24+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
@@ -37867,19 +37841,6 @@
         "pushed": "2024-07-01T01:10:21+00:00",
         "url": "https://github.com/ophub/flippy-openwrt-actions",
         "id": 360045993
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 9996,
-        "forks": 4891,
-        "size": 865364,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-07-01T02:00:03+00:00",
-        "pushed": "2024-07-01T02:33:34+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "k230_linux_sdk",
@@ -37934,17 +37895,56 @@
         "id": 822414802
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10001,
+        "forks": 4891,
+        "size": 865364,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-07-02T02:13:31+00:00",
+        "pushed": "2024-07-02T03:40:50+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "Actor_detection__YOLO_model",
+        "description": "Diploma project, generating a YOLO model, recognizing people using YOLO, Maixduino microcontroller",
+        "owner": "Michprac",
+        "stars": 0,
+        "forks": 0,
+        "size": 4706,
+        "created": "2023-04-22T10:15:02+00:00",
+        "updated": "2024-07-01T15:34:27+00:00",
+        "pushed": "2024-07-01T15:34:23+00:00",
+        "url": "https://github.com/Michprac/Actor_detection__YOLO_model",
+        "id": 631218864
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5130,
+        "size": 5592,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-01T01:54:44+00:00",
-        "pushed": "2024-07-01T01:54:41+00:00",
+        "updated": "2024-07-02T01:45:44+00:00",
+        "pushed": "2024-07-02T01:45:41+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 120,
+        "forks": 35,
+        "size": 708979,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2024-07-01T12:28:58+00:00",
+        "pushed": "2024-07-01T12:28:49+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     },
     {
         "repo": "awesome-stars",
@@ -37952,10 +37952,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 3122,
+        "size": 3268,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-01T01:51:46+00:00",
-        "pushed": "2024-07-01T01:51:43+00:00",
+        "updated": "2024-07-02T01:42:29+00:00",
+        "pushed": "2024-07-02T01:42:26+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     }
