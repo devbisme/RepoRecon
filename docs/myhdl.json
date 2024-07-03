@@ -4329,19 +4329,6 @@
         "id": 723253987
     },
     {
-        "repo": "verilog-i2c",
-        "description": "Verilog I2C interface for FPGA implementation",
-        "owner": "alexforencich",
-        "stars": 412,
-        "forks": 155,
-        "size": 130,
-        "created": "2014-05-05T08:49:01+00:00",
-        "updated": "2023-12-14T17:31:33+00:00",
-        "pushed": "2023-12-13T10:02:36+00:00",
-        "url": "https://github.com/alexforencich/verilog-i2c",
-        "id": 19449788
-    },
-    {
         "repo": "CSE3666",
         "description": "Introduction to Computer Architecture (RISC-V ISA and Python MyHDL package)",
         "owner": "ar1a3131",
@@ -5291,19 +5278,6 @@
         "id": 784301828
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 102,
-        "forks": 13,
-        "size": 48,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-06-29T05:38:33+00:00",
-        "pushed": "2024-06-29T05:38:29+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "Kea",
         "description": "Some HDL tools built on MyHDL, including a register subsystem.",
         "owner": "SmartAcoustics",
@@ -5315,5 +5289,31 @@
         "pushed": "2024-07-01T10:32:38+00:00",
         "url": "https://github.com/SmartAcoustics/Kea",
         "id": 162131770
+    },
+    {
+        "repo": "verilog-i2c",
+        "description": "Verilog I2C interface for FPGA implementation",
+        "owner": "alexforencich",
+        "stars": 483,
+        "forks": 164,
+        "size": 130,
+        "created": "2014-05-05T08:49:01+00:00",
+        "updated": "2024-07-03T03:26:15+00:00",
+        "pushed": "2024-07-02T07:10:25+00:00",
+        "url": "https://github.com/alexforencich/verilog-i2c",
+        "id": 19449788
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 102,
+        "forks": 13,
+        "size": 49,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-07-02T16:37:29+00:00",
+        "pushed": "2024-07-02T16:37:26+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
     }
 ]

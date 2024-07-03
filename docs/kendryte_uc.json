@@ -37024,19 +37024,6 @@
         "id": 205409848
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 3,
-        "forks": 3,
-        "size": 1548,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2024-06-06T16:03:40+00:00",
-        "pushed": "2024-06-06T16:03:42+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "AVH-TinyMaix",
         "description": "This is a project that ports TinyMaix to the AVH platform, based on the MQTT IoT example program.",
         "owner": "alphazcc",
@@ -37596,19 +37583,6 @@
         "id": 418056913
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 85,
-        "forks": 15,
-        "size": 19941,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-06-28T06:28:57+00:00",
-        "pushed": "2024-06-28T11:14:25+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -37659,19 +37633,6 @@
         "pushed": "2024-06-28T23:04:20+00:00",
         "url": "https://github.com/hky1999/Unishyper",
         "id": 696574725
-    },
-    {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 102,
-        "forks": 13,
-        "size": 48,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-06-29T05:38:33+00:00",
-        "pushed": "2024-06-29T05:38:29+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
     },
     {
         "repo": "My_OpenWrt",
@@ -37752,19 +37713,6 @@
         "id": 308248461
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 144,
-        "forks": 29,
-        "size": 149623,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-06-30T14:05:04+00:00",
-        "pushed": "2024-06-30T19:53:04+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "rCore-Tutorial-Book-v3",
         "description": "A book about how to write  OS kernels in Rust easily.",
         "owner": "rcore-os",
@@ -37817,19 +37765,6 @@
         "id": 711107946
     },
     {
-        "repo": "maix_train_mx",
-        "description": null,
-        "owner": "integemjack",
-        "stars": 0,
-        "forks": 0,
-        "size": 150550,
-        "created": "2024-06-05T03:39:45+00:00",
-        "updated": "2024-07-01T04:01:23+00:00",
-        "pushed": "2024-07-01T04:01:20+00:00",
-        "url": "https://github.com/integemjack/maix_train_mx",
-        "id": 810618389
-    },
-    {
         "repo": "flippy-openwrt-actions",
         "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
         "owner": "ophub",
@@ -37841,19 +37776,6 @@
         "pushed": "2024-07-01T01:10:21+00:00",
         "url": "https://github.com/ophub/flippy-openwrt-actions",
         "id": 360045993
-    },
-    {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 2,
-        "forks": 0,
-        "size": 19753,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-07-01T01:04:56+00:00",
-        "pushed": "2024-07-01T01:04:53+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
     },
     {
         "repo": "VictimDetection",
@@ -37895,19 +37817,6 @@
         "id": 822414802
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10001,
-        "forks": 4891,
-        "size": 865364,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-07-02T02:13:31+00:00",
-        "pushed": "2024-07-02T03:40:50+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "Actor_detection__YOLO_model",
         "description": "Diploma project, generating a YOLO model, recognizing people using YOLO, Maixduino microcontroller",
         "owner": "Michprac",
@@ -37921,15 +37830,158 @@
         "id": 631218864
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 87,
+        "forks": 16,
+        "size": 21180,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-07-02T14:13:16+00:00",
+        "pushed": "2024-07-02T13:40:25+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 146,
+        "forks": 29,
+        "size": 149659,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-07-02T18:00:13+00:00",
+        "pushed": "2024-07-03T00:01:46+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10006,
+        "forks": 4891,
+        "size": 865380,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-07-03T05:45:05+00:00",
+        "pushed": "2024-07-03T06:06:47+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 2,
+        "forks": 0,
+        "size": 19647,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-07-03T03:08:18+00:00",
+        "pushed": "2024-07-03T03:08:15+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 102,
+        "forks": 13,
+        "size": 49,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-07-02T16:37:29+00:00",
+        "pushed": "2024-07-02T16:37:26+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
+        "repo": "k210-detection",
+        "description": null,
+        "owner": "V0LSHEBSTV0",
+        "stars": 0,
+        "forks": 0,
+        "size": 9568,
+        "created": "2024-07-02T18:17:14+00:00",
+        "updated": "2024-07-02T18:19:02+00:00",
+        "pushed": "2024-07-02T18:18:58+00:00",
+        "url": "https://github.com/V0LSHEBSTV0/k210-detection",
+        "id": 823279751
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 4,
+        "forks": 3,
+        "size": 1512,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2024-07-02T18:00:20+00:00",
+        "pushed": "2024-07-01T09:05:59+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "MaixSense-drivers",
+        "description": "Collection of drivers to send commands and receive data from the MaixSense-A010 TOF camera.",
+        "owner": "PBernalPolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2024-07-02T17:56:48+00:00",
+        "updated": "2024-07-02T18:06:10+00:00",
+        "pushed": "2024-07-02T17:56:48+00:00",
+        "url": "https://github.com/PBernalPolo/MaixSense-drivers",
+        "id": 823271876
+    },
+    {
+        "repo": "MaixSense-processingTester",
+        "description": null,
+        "owner": "PBernalPolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2024-07-02T18:05:37+00:00",
+        "updated": "2024-07-02T18:05:41+00:00",
+        "pushed": "2024-07-02T18:05:38+00:00",
+        "url": "https://github.com/PBernalPolo/MaixSense-processingTester",
+        "id": 823275171
+    },
+    {
+        "repo": "maix_train_mx",
+        "description": null,
+        "owner": "integemjack",
+        "stars": 0,
+        "forks": 0,
+        "size": 150559,
+        "created": "2024-06-05T03:39:45+00:00",
+        "updated": "2024-07-02T08:39:43+00:00",
+        "pushed": "2024-07-02T08:39:40+00:00",
+        "url": "https://github.com/integemjack/maix_train_mx",
+        "id": 810618389
+    },
+    {
+        "repo": "learn_rtt",
+        "description": null,
+        "owner": "1078249029",
+        "stars": 0,
+        "forks": 0,
+        "size": 558361,
+        "created": "2024-07-03T02:52:24+00:00",
+        "updated": "2024-07-03T03:07:34+00:00",
+        "pushed": "2024-07-03T03:06:44+00:00",
+        "url": "https://github.com/1078249029/learn_rtt",
+        "id": 823428559
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5592,
+        "size": 6056,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-02T01:45:44+00:00",
-        "pushed": "2024-07-02T01:45:41+00:00",
+        "updated": "2024-07-03T01:45:02+00:00",
+        "pushed": "2024-07-03T01:44:59+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37939,10 +37991,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 708979,
+        "size": 708981,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-07-01T12:28:58+00:00",
-        "pushed": "2024-07-01T12:28:49+00:00",
+        "updated": "2024-07-02T12:25:22+00:00",
+        "pushed": "2024-07-02T12:25:18+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -37952,10 +38004,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 3268,
+        "size": 3414,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-02T01:42:29+00:00",
-        "pushed": "2024-07-02T01:42:26+00:00",
+        "updated": "2024-07-03T01:42:05+00:00",
+        "pushed": "2024-07-03T01:42:01+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     }
