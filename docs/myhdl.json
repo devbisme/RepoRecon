@@ -5239,19 +5239,6 @@
         "id": 143520625
     },
     {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 55,
-        "forks": 10,
-        "size": 1561,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2024-06-25T13:22:31+00:00",
-        "pushed": "2024-06-25T11:27:01+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5307,13 +5294,26 @@
         "repo": "awesome-cuda-tensorrt-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
-        "stars": 102,
+        "stars": 104,
         "forks": 13,
-        "size": 49,
+        "size": 50,
         "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-07-02T16:37:29+00:00",
-        "pushed": "2024-07-02T16:37:26+00:00",
+        "updated": "2024-07-04T01:52:02+00:00",
+        "pushed": "2024-07-03T16:00:22+00:00",
         "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
         "id": 605602834
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 55,
+        "forks": 10,
+        "size": 1562,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2024-07-03T23:53:04+00:00",
+        "pushed": "2024-07-03T23:53:04+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
     }
 ]

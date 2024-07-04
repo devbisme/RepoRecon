@@ -37492,19 +37492,6 @@
         "id": 819145868
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8073,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-06-25T09:06:07+00:00",
-        "pushed": "2024-06-25T09:06:05+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "degny-maixent",
         "description": null,
         "owner": "tmofinder",
@@ -37661,19 +37648,6 @@
         "id": 770690133
     },
     {
-        "repo": "awesome-yolo-object-detection",
-        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
-        "owner": "codingonion",
-        "stars": 1107,
-        "forks": 176,
-        "size": 264,
-        "created": "2022-02-19T17:57:06+00:00",
-        "updated": "2024-06-29T16:30:34+00:00",
-        "pushed": "2024-06-29T16:30:31+00:00",
-        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
-        "id": 461270746
-    },
-    {
         "repo": "maixuany.shop",
         "description": null,
         "owner": "hidden-00",
@@ -37685,19 +37659,6 @@
         "pushed": "2024-06-29T08:20:14+00:00",
         "url": "https://github.com/hidden-00/maixuany.shop",
         "id": 809330112
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 705,
-        "forks": 180,
-        "size": 58422,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-06-28T23:47:11+00:00",
-        "pushed": "2024-07-01T04:17:16+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "rCore-Tutorial-v3",
@@ -37830,19 +37791,6 @@
         "id": 631218864
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 87,
-        "forks": 16,
-        "size": 21180,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-07-02T14:13:16+00:00",
-        "pushed": "2024-07-02T13:40:25+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -37856,19 +37804,6 @@
         "id": 385102171
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10006,
-        "forks": 4891,
-        "size": 865380,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-07-03T05:45:05+00:00",
-        "pushed": "2024-07-03T06:06:47+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -37880,19 +37815,6 @@
         "pushed": "2024-07-03T03:08:15+00:00",
         "url": "https://github.com/kendryte/k230_linux_sdk",
         "id": 793843389
-    },
-    {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 102,
-        "forks": 13,
-        "size": 49,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-07-02T16:37:29+00:00",
-        "pushed": "2024-07-02T16:37:26+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
     },
     {
         "repo": "k210-detection",
@@ -37973,15 +37895,106 @@
         "id": 823428559
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 705,
+        "forks": 180,
+        "size": 58436,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-07-04T01:34:08+00:00",
+        "pushed": "2024-07-02T13:19:52+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 88,
+        "forks": 16,
+        "size": 21244,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-07-04T03:53:07+00:00",
+        "pushed": "2024-07-04T04:01:14+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10015,
+        "forks": 4892,
+        "size": 864149,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-07-04T03:03:18+00:00",
+        "pushed": "2024-07-04T05:34:54+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8087,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-07-03T17:28:48+00:00",
+        "pushed": "2024-07-03T17:28:45+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 104,
+        "forks": 13,
+        "size": 50,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-07-04T01:52:02+00:00",
+        "pushed": "2024-07-03T16:00:22+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
+        "repo": "awesome-yolo-object-detection",
+        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
+        "owner": "codingonion",
+        "stars": 1109,
+        "forks": 176,
+        "size": 265,
+        "created": "2022-02-19T17:57:06+00:00",
+        "updated": "2024-07-03T16:01:35+00:00",
+        "pushed": "2024-07-03T16:01:30+00:00",
+        "url": "https://github.com/codingonion/awesome-yolo-object-detection",
+        "id": 461270746
+    },
+    {
+        "repo": "DNK210-K210-",
+        "description": "DNK210\u6b63\u70b9\u539f\u5b50\u5f00\u53d1\u677fK210\u8f66\u724c\u8bc6\u522b",
+        "owner": "HodelY",
+        "stars": 1,
+        "forks": 0,
+        "size": 69804,
+        "created": "2024-07-04T02:40:55+00:00",
+        "updated": "2024-07-04T03:08:23+00:00",
+        "pushed": "2024-07-04T03:08:19+00:00",
+        "url": "https://github.com/HodelY/DNK210-K210-",
+        "id": 823921979
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 6056,
+        "size": 6520,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-03T01:45:02+00:00",
-        "pushed": "2024-07-03T01:44:59+00:00",
+        "updated": "2024-07-04T01:45:46+00:00",
+        "pushed": "2024-07-04T01:45:43+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -37991,10 +38004,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 708981,
+        "size": 708984,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-07-02T12:25:22+00:00",
-        "pushed": "2024-07-02T12:25:18+00:00",
+        "updated": "2024-07-03T12:28:20+00:00",
+        "pushed": "2024-07-03T12:28:09+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -38004,10 +38017,10 @@
         "owner": "silentEAG",
         "stars": 1,
         "forks": 1,
-        "size": 3414,
+        "size": 3560,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-03T01:42:05+00:00",
-        "pushed": "2024-07-03T01:42:01+00:00",
+        "updated": "2024-07-04T01:42:40+00:00",
+        "pushed": "2024-07-04T01:42:37+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     }

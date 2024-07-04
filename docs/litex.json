@@ -11921,19 +11921,6 @@
         "id": 800592354
     },
     {
-        "repo": "FazyRV",
-        "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
-        "owner": "meiniKi",
-        "stars": 60,
-        "forks": 1,
-        "size": 782,
-        "created": "2024-02-19T20:09:47+00:00",
-        "updated": "2024-05-16T07:17:13+00:00",
-        "pushed": "2024-05-16T07:17:09+00:00",
-        "url": "https://github.com/meiniKi/FazyRV",
-        "id": 760114130
-    },
-    {
         "repo": "LycheeMSO",
         "description": null,
         "owner": "Flinner",
@@ -12127,19 +12114,6 @@
         "pushed": "2024-05-29T22:33:18+00:00",
         "url": "https://github.com/disdi/litex_RT",
         "id": 807850291
-    },
-    {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 231,
-        "forks": 35,
-        "size": 3811,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2024-05-31T14:10:07+00:00",
-        "pushed": "2024-05-31T14:10:03+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
     },
     {
         "repo": "autoinvoice",
@@ -12350,19 +12324,6 @@
         "id": 800344642
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
-        "owner": "chili-chips-ba",
-        "stars": 16,
-        "forks": 1,
-        "size": 31203,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-06-15T20:06:09+00:00",
-        "pushed": "2024-06-15T17:38:24+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "tinyclunx33_zephyr_example",
         "description": "Zephyr running on the tinyCLUNX33 SoM",
         "owner": "tinyvision-ai-inc",
@@ -12545,19 +12506,6 @@
         "id": 798728790
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 451,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-06-24T14:16:08+00:00",
-        "pushed": "2024-06-28T02:17:14+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "icesugar-pro",
         "description": "iCESugar series FPGA dev board",
         "owner": "wuxx",
@@ -12582,19 +12530,6 @@
         "pushed": "2024-06-27T21:51:15+00:00",
         "url": "https://github.com/olofk/serv",
         "id": 155514739
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 33,
-        "forks": 13,
-        "size": 35367,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-06-26T13:43:08+00:00",
-        "pushed": "2024-06-27T14:40:32+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "litexlthemes",
@@ -12701,45 +12636,6 @@
         "id": 591257216
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 42732,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-02T01:02:33+00:00",
-        "pushed": "2024-07-02T01:02:29+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2768,
-        "forks": 536,
-        "size": 17111,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-07-02T16:04:58+00:00",
-        "pushed": "2024-07-02T15:10:41+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 357,
-        "forks": 276,
-        "size": 4143,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-07-02T15:09:32+00:00",
-        "pushed": "2024-07-02T15:09:28+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12751,19 +12647,6 @@
         "pushed": "2024-07-02T11:17:54+00:00",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 725,
-        "forks": 66,
-        "size": 1189,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-01T10:39:37+00:00",
-        "pushed": "2024-07-03T01:59:49+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "liteeth",
@@ -12792,19 +12675,6 @@
         "id": 190029235
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A tiny, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1482,
-        "forks": 205,
-        "size": 208674,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-03T01:33:28+00:00",
-        "pushed": "2024-07-02T18:15:37+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -12831,32 +12701,6 @@
         "id": 465199162
     },
     {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 20925,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-07-02T17:23:13+00:00",
-        "pushed": "2024-07-02T17:23:09+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 102,
-        "forks": 13,
-        "size": 49,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-07-02T16:37:29+00:00",
-        "pushed": "2024-07-02T16:37:26+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
-        "id": 605602834
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -12870,17 +12714,173 @@
         "id": 237940918
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2769,
+        "forks": 537,
+        "size": 17112,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-07-04T02:04:26+00:00",
+        "pushed": "2024-07-03T19:44:36+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 358,
+        "forks": 276,
+        "size": 4144,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-07-03T16:36:15+00:00",
+        "pushed": "2024-07-03T10:36:31+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 726,
+        "forks": 66,
+        "size": 1189,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-03T15:38:41+00:00",
+        "pushed": "2024-07-04T01:57:14+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 453,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-07-04T05:15:15+00:00",
+        "pushed": "2024-07-04T02:17:06+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1482,
+        "forks": 205,
+        "size": 208964,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-03T20:33:12+00:00",
+        "pushed": "2024-07-03T20:34:28+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 243,
+        "forks": 38,
+        "size": 3817,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2024-07-03T07:31:33+00:00",
+        "pushed": "2024-07-03T07:31:29+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 33,
+        "forks": 13,
+        "size": 35452,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-07-03T14:16:03+00:00",
+        "pushed": "2024-07-03T16:29:31+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "FazyRV",
+        "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
+        "owner": "meiniKi",
+        "stars": 60,
+        "forks": 2,
+        "size": 785,
+        "created": "2024-02-19T20:09:47+00:00",
+        "updated": "2024-07-03T08:25:28+00:00",
+        "pushed": "2024-07-03T08:25:24+00:00",
+        "url": "https://github.com/meiniKi/FazyRV",
+        "id": 760114130
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 21151,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-07-03T21:28:30+00:00",
+        "pushed": "2024-07-03T21:28:26+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
+        "owner": "chili-chips-ba",
+        "stars": 22,
+        "forks": 1,
+        "size": 31204,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-07-03T06:04:05+00:00",
+        "pushed": "2024-07-03T06:04:01+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "awesome-cuda-tensorrt-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 104,
+        "forks": 13,
+        "size": 50,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-07-04T01:52:02+00:00",
+        "pushed": "2024-07-03T16:00:22+00:00",
+        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "id": 605602834
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1531,
+        "size": 1533,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-03T04:36:44+00:00",
-        "pushed": "2024-07-03T04:36:42+00:00",
+        "updated": "2024-07-04T04:37:31+00:00",
+        "pushed": "2024-07-04T04:37:29+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 43210,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-07-04T00:57:27+00:00",
+        "pushed": "2024-07-04T00:57:23+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -12888,10 +12888,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 57232,
+        "size": 57670,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-03T03:24:08+00:00",
-        "pushed": "2024-07-03T03:24:05+00:00",
+        "updated": "2024-07-04T03:26:02+00:00",
+        "pushed": "2024-07-04T03:25:59+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
