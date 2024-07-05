@@ -5226,19 +5226,6 @@
         "id": 328467543
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41275,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-06-24T00:28:44+00:00",
-        "pushed": "2024-06-24T00:28:41+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5291,28 +5278,41 @@
         "id": 19449788
     },
     {
-        "repo": "awesome-cuda-tensorrt-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public NVIDIA CUDA, cuBLAS, cuDNN, TensorRT, AMD ROCm and FPGA projects.",
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41309,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-07-04T12:39:53+00:00",
+        "pushed": "2024-07-04T12:39:49+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "awesome-hpc-cuda-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public High Performance Computing (HPC), NVIDIA CUDA, cuBLAS, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
         "stars": 104,
         "forks": 13,
-        "size": 50,
+        "size": 51,
         "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-07-04T01:52:02+00:00",
-        "pushed": "2024-07-03T16:00:22+00:00",
-        "url": "https://github.com/codingonion/awesome-cuda-tensorrt-fpga",
+        "updated": "2024-07-04T12:19:02+00:00",
+        "pushed": "2024-07-04T12:17:53+00:00",
+        "url": "https://github.com/codingonion/awesome-hpc-cuda-fpga",
         "id": 605602834
     },
     {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
-        "stars": 55,
+        "stars": 56,
         "forks": 10,
         "size": 1562,
         "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2024-07-03T23:53:04+00:00",
-        "pushed": "2024-07-03T23:53:04+00:00",
+        "updated": "2024-07-04T15:19:13+00:00",
+        "pushed": "2024-07-04T06:14:52+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
     }
