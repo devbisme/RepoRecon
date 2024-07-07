@@ -1482,32 +1482,6 @@
         "id": 819843696
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 993,
-        "forks": 118,
-        "size": 38661,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2024-06-23T08:03:34+00:00",
-        "pushed": "2024-06-29T12:00:32+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 307,
-        "forks": 23,
-        "size": 14026,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-06-26T00:02:32+00:00",
-        "pushed": "2024-06-30T19:16:48+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "awesome_photonics",
         "description": "\ud83d\ude0e curated list of open source photonics projects",
         "owner": "joamatab",
@@ -1532,5 +1506,31 @@
         "pushed": "2024-07-04T00:47:56+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 995,
+        "forks": 118,
+        "size": 38673,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2024-07-06T22:11:28+00:00",
+        "pushed": "2024-07-06T20:01:25+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 307,
+        "forks": 23,
+        "size": 14042,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-07-06T07:10:53+00:00",
+        "pushed": "2024-07-06T07:23:11+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
     }
 ]

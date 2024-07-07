@@ -10816,19 +10816,6 @@
         "id": 251003436
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 21,
-        "forks": 1,
-        "size": 2507,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-01-21T21:43:46+00:00",
-        "pushed": "2024-02-01T00:12:41+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "litex-alchitry-cu-examples",
         "description": "Examples of using Litex on an Alchitry Cu board",
         "owner": "Mark1626",
@@ -12493,19 +12480,6 @@
         "id": 794006125
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards.",
-        "owner": "apfelaudio",
-        "stars": 167,
-        "forks": 8,
-        "size": 21819,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-06-19T05:23:17+00:00",
-        "pushed": "2024-06-28T21:25:52+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -12530,19 +12504,6 @@
         "pushed": "2024-06-30T05:54:10+00:00",
         "url": "https://github.com/sensille/litehm2",
         "id": 574363787
-    },
-    {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 2,
-        "forks": 4,
-        "size": 197,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-06-07T19:22:18+00:00",
-        "pushed": "2024-07-01T03:31:11+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
     },
     {
         "repo": "kakao",
@@ -12675,19 +12636,6 @@
         "id": 564480301
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1184,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-07-04T18:18:47+00:00",
-        "pushed": "2024-07-04T18:18:44+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "litex-apps",
         "description": null,
         "owner": "JesusMuentes",
@@ -12699,32 +12647,6 @@
         "pushed": "2024-07-04T18:40:18+00:00",
         "url": "https://github.com/JesusMuentes/litex-apps",
         "id": 793871326
-    },
-    {
-        "repo": "awesome-hpc-cuda-fpga",
-        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public High Performance Computing (HPC), NVIDIA CUDA, cuBLAS, TensorRT, AMD ROCm and FPGA projects.",
-        "owner": "codingonion",
-        "stars": 104,
-        "forks": 13,
-        "size": 51,
-        "created": "2023-02-23T14:07:23+00:00",
-        "updated": "2024-07-04T12:19:02+00:00",
-        "pushed": "2024-07-04T12:17:53+00:00",
-        "url": "https://github.com/codingonion/awesome-hpc-cuda-fpga",
-        "id": 605602834
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 44447,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-05T01:06:20+00:00",
-        "pushed": "2024-07-05T01:06:17+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "litex",
@@ -12753,19 +12675,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 730,
-        "forks": 67,
-        "size": 1190,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-05T23:32:50+00:00",
-        "pushed": "2024-07-06T01:51:36+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12790,19 +12699,6 @@
         "pushed": "2024-07-06T04:09:14+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1320,
-        "forks": 178,
-        "size": 12879,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-07-05T22:27:51+00:00",
-        "pushed": "2024-07-05T22:27:59+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
     },
     {
         "repo": "coreblocks",
@@ -12870,17 +12766,134 @@
         "id": 84366787
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 732,
+        "forks": 67,
+        "size": 1190,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-06T19:45:15+00:00",
+        "pushed": "2024-07-07T02:07:49+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1320,
+        "forks": 178,
+        "size": 12872,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-07-06T15:48:40+00:00",
+        "pushed": "2024-07-06T15:49:31+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 4,
+        "forks": 4,
+        "size": 197,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-07-02T14:45:34+00:00",
+        "pushed": "2024-07-07T05:29:21+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
+        "owner": "apfelaudio",
+        "stars": 167,
+        "forks": 8,
+        "size": 21824,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2024-07-06T08:59:56+00:00",
+        "pushed": "2024-07-06T08:59:52+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1189,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-07-07T04:45:23+00:00",
+        "pushed": "2024-07-07T04:45:20+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "litex.js",
+        "description": "Regex doesn't suck anymore?",
+        "owner": "Burduk2",
+        "stars": 0,
+        "forks": 0,
+        "size": 4970,
+        "created": "2024-07-06T16:05:17+00:00",
+        "updated": "2024-07-06T17:56:51+00:00",
+        "pushed": "2024-07-06T17:56:48+00:00",
+        "url": "https://github.com/Burduk2/litex.js",
+        "id": 825047165
+    },
+    {
+        "repo": "awesome-hpc-cuda-fpga",
+        "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public High Performance Computing (HPC), NVIDIA CUDA, cuBLAS, TensorRT, AMD ROCm and FPGA projects.",
+        "owner": "codingonion",
+        "stars": 105,
+        "forks": 13,
+        "size": 53,
+        "created": "2023-02-23T14:07:23+00:00",
+        "updated": "2024-07-07T00:26:47+00:00",
+        "pushed": "2024-07-07T00:24:05+00:00",
+        "url": "https://github.com/codingonion/awesome-hpc-cuda-fpga",
+        "id": 605602834
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 24,
+        "forks": 1,
+        "size": 2489,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-07-06T08:51:46+00:00",
+        "pushed": "2024-07-07T00:13:59+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1610,
+        "size": 1612,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-06T04:36:59+00:00",
-        "pushed": "2024-07-06T04:36:56+00:00",
+        "updated": "2024-07-07T04:35:45+00:00",
+        "pushed": "2024-07-07T04:35:43+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 44925,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-07-07T00:56:37+00:00",
+        "pushed": "2024-07-07T00:56:34+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -12888,10 +12901,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 58583,
+        "size": 59031,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-06T03:25:44+00:00",
-        "pushed": "2024-07-06T03:25:40+00:00",
+        "updated": "2024-07-07T03:24:40+00:00",
+        "pushed": "2024-07-07T03:24:37+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
