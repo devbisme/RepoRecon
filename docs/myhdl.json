@@ -5174,32 +5174,6 @@
         "id": 811951673
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 3,
-        "forks": 1,
-        "size": 905,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-06-12T20:03:30+00:00",
-        "pushed": "2024-06-12T20:03:27+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 1012,
-        "forks": 248,
-        "size": 13382,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-06-14T06:39:31+00:00",
-        "pushed": "2024-06-14T06:39:28+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "myhdl-feedstock",
         "description": "A conda-smithy repository for myhdl.",
         "owner": "conda-forge",
@@ -5278,19 +5252,6 @@
         "id": 38977954
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41310,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-07-06T16:45:13+00:00",
-        "pushed": "2024-07-06T16:45:11+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "ASIC-Design-Roadmap",
         "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
         "owner": "abdelazeem201",
@@ -5315,5 +5276,44 @@
         "pushed": "2024-07-07T00:24:05+00:00",
         "url": "https://github.com/codingonion/awesome-hpc-cuda-fpga",
         "id": 605602834
+    },
+    {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1025,
+        "forks": 249,
+        "size": 13382,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-07-07T19:24:52+00:00",
+        "pushed": "2024-07-07T14:21:50+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41323,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-07-07T19:28:08+00:00",
+        "pushed": "2024-07-07T19:28:06+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 3,
+        "forks": 1,
+        "size": 913,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-07-07T13:56:55+00:00",
+        "pushed": "2024-07-07T13:56:52+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]

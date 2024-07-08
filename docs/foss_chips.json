@@ -69680,19 +69680,6 @@
         "id": 788818232
     },
     {
-        "repo": "GIKI-Tapeout",
-        "description": null,
-        "owner": "theuppercaseguy",
-        "stars": 0,
-        "forks": 0,
-        "size": 6807,
-        "created": "2024-03-14T03:54:26+00:00",
-        "updated": "2024-04-19T11:10:46+00:00",
-        "pushed": "2024-04-19T15:10:02+00:00",
-        "url": "https://github.com/theuppercaseguy/GIKI-Tapeout",
-        "id": 771845812
-    },
-    {
         "repo": "tt06-mnslab-bldc-0",
         "description": null,
         "owner": "BatuCem",
@@ -73866,19 +73853,6 @@
         "id": 577292903
     },
     {
-        "repo": "EF_I2C",
-        "description": null,
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 683,
-        "created": "2024-03-27T12:15:23+00:00",
-        "updated": "2024-05-23T09:17:21+00:00",
-        "pushed": "2024-05-23T09:22:29+00:00",
-        "url": "https://github.com/efabless/EF_I2C",
-        "id": 778273592
-    },
-    {
         "repo": "create_openlane",
         "description": null,
         "owner": "KCLGUY",
@@ -76895,19 +76869,6 @@
         "id": 813874878
     },
     {
-        "repo": "vc32",
-        "description": null,
-        "owner": "MoonbaseOtago",
-        "stars": 0,
-        "forks": 0,
-        "size": 220,
-        "created": "2024-02-20T07:09:57+00:00",
-        "updated": "2024-06-11T10:39:43+00:00",
-        "pushed": "2024-06-11T10:39:40+00:00",
-        "url": "https://github.com/MoonbaseOtago/vc32",
-        "id": 760308039
-    },
-    {
         "repo": "SOC-Design-and-Planning",
         "description": "This repository contains all the information included in the SOC Design and Planning Workshop using Openlane flow conducted by VLSI System Design (Kunal Ghosh). Openlane has the capability to perform full ASIC implementation steps from RTL to GDSII. ",
         "owner": "amanh-iitj",
@@ -77582,19 +77543,6 @@
         "pushed": "2024-06-20T16:22:48+00:00",
         "url": "https://github.com/Kont1234/KONT-NEW",
         "id": 817845531
-    },
-    {
-        "repo": "tt08-demon-denis",
-        "description": "Demonic Denis Rides Again. With not enough space to represent it. ",
-        "owner": "devinatkin",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2024-06-21T04:38:52+00:00",
-        "updated": "2024-06-21T04:38:58+00:00",
-        "pushed": "2024-06-21T04:38:55+00:00",
-        "url": "https://github.com/devinatkin/tt08-demon-denis",
-        "id": 818087630
     },
     {
         "repo": "first-try",
@@ -78442,19 +78390,6 @@
         "id": 699019034
     },
     {
-        "repo": "BusWrap",
-        "description": null,
-        "owner": "efabless",
-        "stars": 4,
-        "forks": 0,
-        "size": 129,
-        "created": "2024-04-07T11:58:36+00:00",
-        "updated": "2024-06-25T08:16:59+00:00",
-        "pushed": "2024-06-25T08:16:56+00:00",
-        "url": "https://github.com/efabless/BusWrap",
-        "id": 783262509
-    },
-    {
         "repo": "sky130_ef_ip__rdac3v_8bit",
         "description": "8-bit resistor ladder DAC with 3.3V output range",
         "owner": "RTimothyEdwards",
@@ -78687,19 +78622,6 @@
         "pushed": "2024-06-27T09:39:26+00:00",
         "url": "https://github.com/efabless/EF_SPI",
         "id": 780894608
-    },
-    {
-        "repo": "EF_I2S",
-        "description": "Two-wire I2S synchronous serial interface, compatible with I2S specification.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 316,
-        "created": "2023-11-05T16:20:02+00:00",
-        "updated": "2024-06-27T09:44:56+00:00",
-        "pushed": "2024-06-27T09:52:15+00:00",
-        "url": "https://github.com/efabless/EF_I2S",
-        "id": 714701311
     },
     {
         "repo": "EF_TMR32",
@@ -79092,19 +79014,6 @@
         "id": 822780867
     },
     {
-        "repo": "volare",
-        "description": "Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs",
-        "owner": "efabless",
-        "stars": 57,
-        "forks": 8,
-        "size": 197,
-        "created": "2022-03-18T09:04:38+00:00",
-        "updated": "2024-07-02T08:20:31+00:00",
-        "pushed": "2024-07-02T08:21:35+00:00",
-        "url": "https://github.com/efabless/volare",
-        "id": 471300183
-    },
-    {
         "repo": "DriveLM",
         "description": "[ECCV 2024] DriveLM: Driving with Graph Visual Question Answering",
         "owner": "OpenDriveLab",
@@ -79129,19 +79038,6 @@
         "pushed": "2024-07-02T08:27:59+00:00",
         "url": "https://github.com/efabless/cace",
         "id": 764728595
-    },
-    {
-        "repo": "ipm",
-        "description": "Open-source IPs Package Manager (IPM)",
-        "owner": "efabless",
-        "stars": 13,
-        "forks": 1,
-        "size": 306,
-        "created": "2022-09-09T08:53:13+00:00",
-        "updated": "2024-07-02T19:38:58+00:00",
-        "pushed": "2024-07-02T19:38:54+00:00",
-        "url": "https://github.com/efabless/ipm",
-        "id": 534569093
     },
     {
         "repo": "sky130_ef_ip__rheostat_8bit",
@@ -79194,19 +79090,6 @@
         "pushed": "2024-07-02T18:01:50+00:00",
         "url": "https://github.com/CousensD/Half-Life-Timer",
         "id": 823188631
-    },
-    {
-        "repo": "adder_Casorio",
-        "description": null,
-        "owner": "nmcasorio",
-        "stars": 0,
-        "forks": 1,
-        "size": 82,
-        "created": "2024-06-27T16:08:16+00:00",
-        "updated": "2024-07-02T16:03:26+00:00",
-        "pushed": "2024-07-02T16:03:23+00:00",
-        "url": "https://github.com/nmcasorio/adder_Casorio",
-        "id": 821008029
     },
     {
         "repo": "Navigation-Learning",
@@ -79326,19 +79209,6 @@
         "id": 795728028
     },
     {
-        "repo": "ieeeMentorshipHyd",
-        "description": "This repository is to cater required files for IEEE mentorship programme-2024, Hyderabad.",
-        "owner": "dicdesign",
-        "stars": 0,
-        "forks": 0,
-        "size": 3003,
-        "created": "2024-06-29T05:07:56+00:00",
-        "updated": "2024-07-04T05:42:45+00:00",
-        "pushed": "2024-07-04T05:42:42+00:00",
-        "url": "https://github.com/dicdesign/ieeeMentorshipHyd",
-        "id": 821664305
-    },
-    {
         "repo": "EDA-schema",
         "description": null,
         "owner": "drexel-ice",
@@ -79415,19 +79285,6 @@
         "pushed": "2024-07-03T21:14:59+00:00",
         "url": "https://github.com/aschrein/tt08-makerchip-template",
         "id": 823849781
-    },
-    {
-        "repo": "OpenLane",
-        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1254,
-        "forks": 365,
-        "size": 873728,
-        "created": "2020-07-20T19:35:02+00:00",
-        "updated": "2024-07-04T18:31:32+00:00",
-        "pushed": "2024-07-05T01:13:33+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
-        "id": 281208911
     },
     {
         "repo": "journal",
@@ -79573,19 +79430,6 @@
         "id": 824228635
     },
     {
-        "repo": "OSAD",
-        "description": null,
-        "owner": "Vasco-Luz",
-        "stars": 0,
-        "forks": 0,
-        "size": 81777,
-        "created": "2023-08-30T22:33:03+00:00",
-        "updated": "2024-07-04T22:56:09+00:00",
-        "pushed": "2024-07-04T22:56:06+00:00",
-        "url": "https://github.com/Vasco-Luz/OSAD",
-        "id": 685282778
-    },
-    {
         "repo": "tech_sky130A",
         "description": "Tech files for sky130A, requires installed PDK",
         "owner": "wulffern",
@@ -79703,19 +79547,6 @@
         "id": 804278638
     },
     {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 224,
-        "forks": 146,
-        "size": 39938,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2024-07-06T04:42:23+00:00",
-        "pushed": "2024-07-06T05:13:38+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
-    },
-    {
         "repo": "sky130_ef_ip__biasgen",
         "description": "Current bias generator circuit for distributing bias currents to analog circuits.",
         "owner": "RTimothyEdwards",
@@ -79740,19 +79571,6 @@
         "pushed": "2024-07-05T18:43:37+00:00",
         "url": "https://github.com/efabless/bwrap_devshell",
         "id": 814327999
-    },
-    {
-        "repo": "VSD-HDP",
-        "description": "VSD- Hardware Design Program",
-        "owner": "poudelbidhan",
-        "stars": 1,
-        "forks": 0,
-        "size": 93,
-        "created": "2024-06-03T12:34:47+00:00",
-        "updated": "2024-07-06T01:36:21+00:00",
-        "pushed": "2024-07-06T01:36:18+00:00",
-        "url": "https://github.com/poudelbidhan/VSD-HDP",
-        "id": 809776488
     },
     {
         "repo": "sky130_ef_ip__cdac3v_12bit",
@@ -79898,19 +79716,6 @@
         "id": 809024807
     },
     {
-        "repo": "synthesis-optimizations",
-        "description": "Observing and optimizing synthesis of common bit manipulation operations for FPGA and ASIC",
-        "owner": "jeras",
-        "stars": 0,
-        "forks": 0,
-        "size": 294,
-        "created": "2024-02-13T23:08:55+00:00",
-        "updated": "2024-07-05T08:24:23+00:00",
-        "pushed": "2024-07-05T08:24:20+00:00",
-        "url": "https://github.com/jeras/synthesis-optimizations",
-        "id": 757159345
-    },
-    {
         "repo": "finviz-git-scraper",
         "description": "FinViz map of sectors and sub-sectors",
         "owner": "fasiha",
@@ -79922,45 +79727,6 @@
         "pushed": "2024-07-05T23:57:18+00:00",
         "url": "https://github.com/fasiha/finviz-git-scraper",
         "id": 585468833
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1424,
-        "forks": 497,
-        "size": 609218,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-07-06T19:05:42+00:00",
-        "pushed": "2024-07-06T19:05:38+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 169,
-        "forks": 30,
-        "size": 32222,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-07-05T00:53:46+00:00",
-        "pushed": "2024-07-06T07:41:19+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 805,
-        "forks": 82,
-        "size": 347534,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-07-06T20:21:02+00:00",
-        "pushed": "2024-07-07T00:10:01+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
     },
     {
         "repo": "SFAL-VSD",
@@ -80067,19 +79833,6 @@
         "id": 801563294
     },
     {
-        "repo": "tt08-pwm-example",
-        "description": "PWM audio example",
-        "owner": "MichaelBell",
-        "stars": 0,
-        "forks": 0,
-        "size": 19,
-        "created": "2024-07-06T22:10:39+00:00",
-        "updated": "2024-07-06T23:51:57+00:00",
-        "pushed": "2024-07-06T23:51:54+00:00",
-        "url": "https://github.com/MichaelBell/tt08-pwm-example",
-        "id": 825135107
-    },
-    {
         "repo": "tt-micro-tiles-container",
         "description": "Experimental micro tiles container for Tiny Tapeout",
         "owner": "TinyTapeout",
@@ -80091,32 +79844,6 @@
         "pushed": "2024-07-06T07:45:40+00:00",
         "url": "https://github.com/TinyTapeout/tt-micro-tiles-container",
         "id": 824718063
-    },
-    {
-        "repo": "vsdhdp",
-        "description": "VSD-HDP 10 weeks",
-        "owner": "siddharthanand3",
-        "stars": 0,
-        "forks": 0,
-        "size": 807,
-        "created": "2024-06-01T03:16:14+00:00",
-        "updated": "2024-07-07T05:30:02+00:00",
-        "pushed": "2024-07-07T05:29:59+00:00",
-        "url": "https://github.com/siddharthanand3/vsdhdp",
-        "id": 808872344
-    },
-    {
-        "repo": "BEV-Perception",
-        "description": "Bird's Eye View Perception",
-        "owner": "vasgaowei",
-        "stars": 327,
-        "forks": 20,
-        "size": 1285,
-        "created": "2023-05-09T05:26:33+00:00",
-        "updated": "2024-07-07T02:17:07+00:00",
-        "pushed": "2024-07-06T11:43:03+00:00",
-        "url": "https://github.com/vasgaowei/BEV-Perception",
-        "id": 638110012
     },
     {
         "repo": "ASIC_FPGA_Design_Flow",
@@ -80145,45 +79872,6 @@
         "id": 822165550
     },
     {
-        "repo": "Be-Mobile-API",
-        "description": "Esse reposit\u00f3rio foi criado para o desafio t\u00e9cnico de desenvolvedor Back-end na empresa be Mobile",
-        "owner": "Lmraylson26",
-        "stars": 0,
-        "forks": 0,
-        "size": 128,
-        "created": "2024-07-01T19:42:35+00:00",
-        "updated": "2024-07-06T15:51:55+00:00",
-        "pushed": "2024-07-06T15:51:52+00:00",
-        "url": "https://github.com/Lmraylson26/Be-Mobile-API",
-        "id": 822772850
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1612,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-07T04:35:45+00:00",
-        "pushed": "2024-07-07T04:35:43+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 7389,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-07T01:50:20+00:00",
-        "pushed": "2024-07-07T01:50:17+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -80197,15 +79885,392 @@
         "id": 330793471
     },
     {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1424,
+        "forks": 497,
+        "size": 609218,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-07-06T19:05:42+00:00",
+        "pushed": "2024-07-07T16:35:36+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "OpenLane",
+        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1255,
+        "forks": 366,
+        "size": 873721,
+        "created": "2020-07-20T19:35:02+00:00",
+        "updated": "2024-07-07T20:08:30+00:00",
+        "pushed": "2024-07-08T01:16:58+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
+        "id": 281208911
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 169,
+        "forks": 30,
+        "size": 32226,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-07-05T00:53:46+00:00",
+        "pushed": "2024-07-07T12:25:01+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "volare",
+        "description": "Version manager (and builder) for the Google sky130 and gf180mcu open-source PDKs",
+        "owner": "efabless",
+        "stars": 57,
+        "forks": 8,
+        "size": 197,
+        "created": "2022-03-18T09:04:38+00:00",
+        "updated": "2024-07-02T08:20:31+00:00",
+        "pushed": "2024-07-07T13:44:05+00:00",
+        "url": "https://github.com/efabless/volare",
+        "id": 471300183
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 805,
+        "forks": 82,
+        "size": 347775,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-07-08T01:47:44+00:00",
+        "pushed": "2024-07-08T02:53:31+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "ipm",
+        "description": "Open-source IPs Package Manager (IPM)",
+        "owner": "efabless",
+        "stars": 13,
+        "forks": 1,
+        "size": 333,
+        "created": "2022-09-09T08:53:13+00:00",
+        "updated": "2024-07-07T12:47:54+00:00",
+        "pushed": "2024-07-07T12:47:51+00:00",
+        "url": "https://github.com/efabless/ipm",
+        "id": 534569093
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 225,
+        "forks": 147,
+        "size": 39968,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2024-07-07T15:27:27+00:00",
+        "pushed": "2024-07-07T15:27:22+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "SPI_Modules",
+        "description": "Design of SPI and Slave modules in Verilog HDL",
+        "owner": "Subash792",
+        "stars": 0,
+        "forks": 0,
+        "size": 135,
+        "created": "2024-07-07T07:34:56+00:00",
+        "updated": "2024-07-07T07:44:38+00:00",
+        "pushed": "2024-07-07T07:44:35+00:00",
+        "url": "https://github.com/Subash792/SPI_Modules",
+        "id": 825231553
+    },
+    {
+        "repo": "BusWrap",
+        "description": null,
+        "owner": "efabless",
+        "stars": 4,
+        "forks": 0,
+        "size": 130,
+        "created": "2024-04-07T11:58:36+00:00",
+        "updated": "2024-07-07T16:00:39+00:00",
+        "pushed": "2024-07-07T16:00:35+00:00",
+        "url": "https://github.com/efabless/BusWrap",
+        "id": 783262509
+    },
+    {
+        "repo": "EF_I2C",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 718,
+        "created": "2024-03-27T12:15:23+00:00",
+        "updated": "2024-07-07T12:46:36+00:00",
+        "pushed": "2024-07-07T12:48:32+00:00",
+        "url": "https://github.com/efabless/EF_I2C",
+        "id": 778273592
+    },
+    {
+        "repo": "EF_I2S",
+        "description": "Two-wire I2S synchronous serial interface, compatible with I2S specification.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 326,
+        "created": "2023-11-05T16:20:02+00:00",
+        "updated": "2024-07-07T10:56:10+00:00",
+        "pushed": "2024-07-07T10:58:23+00:00",
+        "url": "https://github.com/efabless/EF_I2S",
+        "id": 714701311
+    },
+    {
+        "repo": "ieeeMentorshipHyd",
+        "description": "This repository is to cater required files for IEEE mentorship programme-2024, Hyderabad.",
+        "owner": "dicdesign",
+        "stars": 0,
+        "forks": 0,
+        "size": 14167,
+        "created": "2024-06-29T05:07:56+00:00",
+        "updated": "2024-07-07T16:45:40+00:00",
+        "pushed": "2024-07-07T16:45:37+00:00",
+        "url": "https://github.com/dicdesign/ieeeMentorshipHyd",
+        "id": 821664305
+    },
+    {
+        "repo": "GIKI-Tapeout",
+        "description": "A 8bit UART TRANSCIVER created and submited for FABRIAITION thorugh EFABLESS, marking GIK first ever Fabricated CHIP",
+        "owner": "theuppercaseguy",
+        "stars": 1,
+        "forks": 0,
+        "size": 6871,
+        "created": "2024-03-14T03:54:26+00:00",
+        "updated": "2024-07-07T10:49:47+00:00",
+        "pushed": "2024-07-07T10:49:45+00:00",
+        "url": "https://github.com/theuppercaseguy/GIKI-Tapeout",
+        "id": 771845812
+    },
+    {
+        "repo": "VSD-HDP",
+        "description": "VSD- Hardware Design Program",
+        "owner": "poudelbidhan",
+        "stars": 1,
+        "forks": 0,
+        "size": 66,
+        "created": "2024-06-03T12:34:47+00:00",
+        "updated": "2024-07-08T00:44:29+00:00",
+        "pushed": "2024-07-08T00:44:26+00:00",
+        "url": "https://github.com/poudelbidhan/VSD-HDP",
+        "id": 809776488
+    },
+    {
+        "repo": "KhushPatel2003",
+        "description": null,
+        "owner": "KhushPatel2003",
+        "stars": 0,
+        "forks": 0,
+        "size": 54,
+        "created": "2022-08-09T01:03:39+00:00",
+        "updated": "2024-07-08T00:28:54+00:00",
+        "pushed": "2024-07-08T00:28:51+00:00",
+        "url": "https://github.com/KhushPatel2003/KhushPatel2003",
+        "id": 522756548
+    },
+    {
+        "repo": "OSAD",
+        "description": null,
+        "owner": "Vasco-Luz",
+        "stars": 0,
+        "forks": 0,
+        "size": 81778,
+        "created": "2023-08-30T22:33:03+00:00",
+        "updated": "2024-07-08T01:00:03+00:00",
+        "pushed": "2024-07-08T00:59:59+00:00",
+        "url": "https://github.com/Vasco-Luz/OSAD",
+        "id": 685282778
+    },
+    {
+        "repo": "tt08-demon-denis",
+        "description": "Demonic Denis Rides Again. With not enough space to represent it. ",
+        "owner": "devinatkin",
+        "stars": 0,
+        "forks": 0,
+        "size": 10,
+        "created": "2024-06-21T04:38:52+00:00",
+        "updated": "2024-07-07T19:58:04+00:00",
+        "pushed": "2024-07-07T19:58:01+00:00",
+        "url": "https://github.com/devinatkin/tt08-demon-denis",
+        "id": 818087630
+    },
+    {
+        "repo": "tt08-8x8mul",
+        "description": null,
+        "owner": "happy-monk",
+        "stars": 0,
+        "forks": 0,
+        "size": 8,
+        "created": "2024-07-07T08:58:00+00:00",
+        "updated": "2024-07-07T08:58:05+00:00",
+        "pushed": "2024-07-07T08:58:02+00:00",
+        "url": "https://github.com/happy-monk/tt08-8x8mul",
+        "id": 825252201
+    },
+    {
+        "repo": "adder_Casorio",
+        "description": null,
+        "owner": "nmcasorio",
+        "stars": 0,
+        "forks": 1,
+        "size": 82,
+        "created": "2024-06-27T16:08:16+00:00",
+        "updated": "2024-07-08T05:57:41+00:00",
+        "pushed": "2024-07-08T05:57:38+00:00",
+        "url": "https://github.com/nmcasorio/adder_Casorio",
+        "id": 821008029
+    },
+    {
+        "repo": "vc32",
+        "description": null,
+        "owner": "MoonbaseOtago",
+        "stars": 0,
+        "forks": 0,
+        "size": 256,
+        "created": "2024-02-20T07:09:57+00:00",
+        "updated": "2024-07-07T12:45:26+00:00",
+        "pushed": "2024-07-07T12:45:22+00:00",
+        "url": "https://github.com/MoonbaseOtago/vc32",
+        "id": 760308039
+    },
+    {
+        "repo": "tt08-tsal",
+        "description": null,
+        "owner": "ephrenm",
+        "stars": 0,
+        "forks": 0,
+        "size": 8,
+        "created": "2024-07-08T02:04:37+00:00",
+        "updated": "2024-07-08T02:04:42+00:00",
+        "pushed": "2024-07-08T02:04:39+00:00",
+        "url": "https://github.com/ephrenm/tt08-tsal",
+        "id": 825520690
+    },
+    {
+        "repo": "tt08-pwm-example",
+        "description": "PWM audio example",
+        "owner": "MichaelBell",
+        "stars": 0,
+        "forks": 0,
+        "size": 22,
+        "created": "2024-07-06T22:10:39+00:00",
+        "updated": "2024-07-07T14:01:05+00:00",
+        "pushed": "2024-07-07T14:01:02+00:00",
+        "url": "https://github.com/MichaelBell/tt08-pwm-example",
+        "id": 825135107
+    },
+    {
+        "repo": "boltsta",
+        "description": "STA Open Source Tool",
+        "owner": "BoltSTA",
+        "stars": 3,
+        "forks": 0,
+        "size": 4520,
+        "created": "2024-02-07T09:10:56+00:00",
+        "updated": "2024-07-07T13:27:57+00:00",
+        "pushed": "2024-07-07T13:27:45+00:00",
+        "url": "https://github.com/BoltSTA/boltsta",
+        "id": 754031825
+    },
+    {
+        "repo": "vsdhdp",
+        "description": "VSD-HDP 10 weeks",
+        "owner": "siddharthanand3",
+        "stars": 0,
+        "forks": 0,
+        "size": 867,
+        "created": "2024-06-01T03:16:14+00:00",
+        "updated": "2024-07-08T01:48:35+00:00",
+        "pushed": "2024-07-08T01:48:32+00:00",
+        "url": "https://github.com/siddharthanand3/vsdhdp",
+        "id": 808872344
+    },
+    {
+        "repo": "BEV-Perception",
+        "description": "Bird's Eye View Perception",
+        "owner": "vasgaowei",
+        "stars": 327,
+        "forks": 20,
+        "size": 1317,
+        "created": "2023-05-09T05:26:33+00:00",
+        "updated": "2024-07-07T14:23:13+00:00",
+        "pushed": "2024-07-07T14:23:10+00:00",
+        "url": "https://github.com/vasgaowei/BEV-Perception",
+        "id": 638110012
+    },
+    {
+        "repo": "Be-Mobile-API",
+        "description": "Esse reposit\u00f3rio foi criado para o desafio t\u00e9cnico de desenvolvedor Back-end na empresa be Mobile",
+        "owner": "Lmraylson26",
+        "stars": 0,
+        "forks": 0,
+        "size": 129,
+        "created": "2024-07-01T19:42:35+00:00",
+        "updated": "2024-07-07T21:09:03+00:00",
+        "pushed": "2024-07-07T21:09:00+00:00",
+        "url": "https://github.com/Lmraylson26/Be-Mobile-API",
+        "id": 822772850
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1614,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-07-08T04:37:39+00:00",
+        "pushed": "2024-07-08T04:37:37+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "synthesis-optimizations",
+        "description": "Observing and optimizing synthesis of common bit manipulation operations for FPGA and ASIC",
+        "owner": "jeras",
+        "stars": 0,
+        "forks": 0,
+        "size": 304,
+        "created": "2024-02-13T23:08:55+00:00",
+        "updated": "2024-07-07T19:26:58+00:00",
+        "pushed": "2024-07-07T19:26:55+00:00",
+        "url": "https://github.com/jeras/synthesis-optimizations",
+        "id": 757159345
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 7854,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-07-08T01:48:06+00:00",
+        "pushed": "2024-07-08T01:48:04+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "tech-andgar",
         "stars": 11,
         "forks": 0,
-        "size": 17481,
+        "size": 17753,
         "created": "2020-11-09T02:22:44+00:00",
-        "updated": "2024-07-07T00:50:39+00:00",
-        "pushed": "2024-07-07T00:50:37+00:00",
+        "updated": "2024-07-08T00:50:32+00:00",
+        "pushed": "2024-07-08T00:50:29+00:00",
         "url": "https://github.com/tech-andgar/awesome-stars",
         "id": 311201466
     }
