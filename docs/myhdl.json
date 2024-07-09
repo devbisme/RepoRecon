@@ -5213,19 +5213,6 @@
         "id": 162131770
     },
     {
-        "repo": "verilog-i2c",
-        "description": "Verilog I2C interface for FPGA implementation",
-        "owner": "alexforencich",
-        "stars": 483,
-        "forks": 164,
-        "size": 130,
-        "created": "2014-05-05T08:49:01+00:00",
-        "updated": "2024-07-03T03:26:15+00:00",
-        "pushed": "2024-07-02T07:10:25+00:00",
-        "url": "https://github.com/alexforencich/verilog-i2c",
-        "id": 19449788
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -5304,16 +5291,42 @@
         "id": 143520625
     },
     {
+        "repo": "verilog-i2c",
+        "description": "Verilog I2C interface for FPGA implementation",
+        "owner": "alexforencich",
+        "stars": 487,
+        "forks": 164,
+        "size": 130,
+        "created": "2014-05-05T08:49:01+00:00",
+        "updated": "2024-07-08T04:20:37+00:00",
+        "pushed": "2024-07-08T18:10:31+00:00",
+        "url": "https://github.com/alexforencich/verilog-i2c",
+        "id": 19449788
+    },
+    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
         "stars": 3,
         "forks": 1,
-        "size": 913,
+        "size": 927,
         "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-07-07T13:56:55+00:00",
-        "pushed": "2024-07-07T13:56:52+00:00",
+        "updated": "2024-07-08T20:59:24+00:00",
+        "pushed": "2024-07-08T20:59:20+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
+    },
+    {
+        "repo": "awesome-fpga",
+        "description": "A collection of some awesome public FPGA projects.",
+        "owner": "codingonion",
+        "stars": 1,
+        "forks": 0,
+        "size": 18,
+        "created": "2024-07-08T15:36:31+00:00",
+        "updated": "2024-07-08T15:38:14+00:00",
+        "pushed": "2024-07-08T15:37:17+00:00",
+        "url": "https://github.com/codingonion/awesome-fpga",
+        "id": 825835602
     }
 ]
