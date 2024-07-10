@@ -12233,19 +12233,6 @@
         "id": 813321161
     },
     {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 547,
-        "forks": 172,
-        "size": 9705,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2024-06-14T04:51:08+00:00",
-        "pushed": "2024-06-14T04:51:04+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
-    },
-    {
         "repo": "appkit",
         "description": "Android app boilerplate + image loader",
         "owner": "grishka",
@@ -12415,19 +12402,6 @@
         "id": 806660960
     },
     {
-        "repo": "CVA5_PLIC",
-        "description": "Priority Level Interrupt Controller for CVA5 CPU. Tested on Litex.",
-        "owner": "mohammadshahidzade",
-        "stars": 0,
-        "forks": 0,
-        "size": 17,
-        "created": "2024-06-26T19:17:02+00:00",
-        "updated": "2024-06-26T23:11:16+00:00",
-        "pushed": "2024-06-26T23:11:13+00:00",
-        "url": "https://github.com/mohammadshahidzade/CVA5_PLIC",
-        "id": 820587085
-    },
-    {
         "repo": "litexlcdn",
         "description": "cdn for litexl",
         "owner": "RohanVashisht1234",
@@ -12519,19 +12493,6 @@
         "id": 42048653
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 655,
-        "forks": 148,
-        "size": 657715,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-07-02T21:38:21+00:00",
-        "pushed": "2024-07-02T21:38:17+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -12582,19 +12543,6 @@
         "pushed": "2024-07-03T06:04:01+00:00",
         "url": "https://github.com/chili-chips-ba/openCologne",
         "id": 798146281
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 21490,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-07-04T18:03:01+00:00",
-        "pushed": "2024-07-04T18:02:57+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "litex-apps",
@@ -12714,19 +12662,6 @@
         "id": 605602834
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2775,
-        "forks": 538,
-        "size": 17124,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-07-08T22:25:35+00:00",
-        "pushed": "2024-07-08T15:01:28+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12738,32 +12673,6 @@
         "pushed": "2024-07-08T08:54:51+00:00",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 733,
-        "forks": 67,
-        "size": 1192,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-08T17:55:08+00:00",
-        "pushed": "2024-07-09T02:03:37+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 452,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-07-08T19:18:05+00:00",
-        "pushed": "2024-07-09T02:17:48+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
     },
     {
         "repo": "liteiclink",
@@ -12818,19 +12727,6 @@
         "id": 468027705
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 41,
-        "forks": 17,
-        "size": 119820,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-07-09T05:03:15+00:00",
-        "pushed": "2024-07-09T05:03:13+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "eurorack-pmod",
         "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
         "owner": "apfelaudio",
@@ -12857,19 +12753,6 @@
         "id": 84366787
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 24,
-        "forks": 1,
-        "size": 2489,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-07-06T08:51:46+00:00",
-        "pushed": "2024-07-09T00:13:01+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "awesome-fpga",
         "description": "A collection of some awesome public FPGA projects.",
         "owner": "codingonion",
@@ -12883,15 +12766,132 @@
         "id": 825835602
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2776,
+        "forks": 538,
+        "size": 17134,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-07-09T15:03:05+00:00",
+        "pushed": "2024-07-09T15:03:01+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 554,
+        "forks": 174,
+        "size": 9819,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2024-07-09T17:44:39+00:00",
+        "pushed": "2024-07-09T17:44:36+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 733,
+        "forks": 66,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-09T09:38:35+00:00",
+        "pushed": "2024-07-10T02:02:26+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 658,
+        "forks": 148,
+        "size": 657715,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-07-10T01:39:08+00:00",
+        "pushed": "2024-07-10T01:39:05+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 452,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-07-08T19:18:05+00:00",
+        "pushed": "2024-07-10T02:17:28+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 41,
+        "forks": 17,
+        "size": 119839,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-07-10T01:22:07+00:00",
+        "pushed": "2024-07-10T01:22:03+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 21749,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-07-09T15:49:53+00:00",
+        "pushed": "2024-07-09T15:49:49+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "CVA5_PLIC",
+        "description": "Priority Level Interrupt Controller for CVA5 CPU. Tested on Litex.",
+        "owner": "mohammadshahidzade",
+        "stars": 0,
+        "forks": 0,
+        "size": 20,
+        "created": "2024-06-26T19:17:02+00:00",
+        "updated": "2024-07-10T02:14:21+00:00",
+        "pushed": "2024-07-10T02:14:17+00:00",
+        "url": "https://github.com/mohammadshahidzade/CVA5_PLIC",
+        "id": 820587085
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 24,
+        "forks": 1,
+        "size": 2489,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-07-06T08:51:46+00:00",
+        "pushed": "2024-07-10T00:13:33+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1615,
+        "size": 1617,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-09T04:36:34+00:00",
-        "pushed": "2024-07-09T04:36:31+00:00",
+        "updated": "2024-07-10T04:37:14+00:00",
+        "pushed": "2024-07-10T04:37:12+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12901,10 +12901,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 46164,
+        "size": 19542,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-09T01:06:18+00:00",
-        "pushed": "2024-07-09T01:06:15+00:00",
+        "updated": "2024-07-10T01:06:38+00:00",
+        "pushed": "2024-07-10T01:06:35+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -12914,10 +12914,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 59936,
+        "size": 60394,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-09T03:25:47+00:00",
-        "pushed": "2024-07-09T03:25:44+00:00",
+        "updated": "2024-07-10T03:29:14+00:00",
+        "pushed": "2024-07-10T03:29:11+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
