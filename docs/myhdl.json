@@ -5200,19 +5200,6 @@
         "id": 784301828
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 8,
-        "forks": 3,
-        "size": 809,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2024-07-01T10:32:42+00:00",
-        "pushed": "2024-07-01T10:32:38+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "Hdl21",
         "description": "Hardware Description Library",
         "owner": "dan-fritchman",
@@ -5239,19 +5226,6 @@
         "id": 38977954
     },
     {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 172,
-        "forks": 25,
-        "size": 6011,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-07-06T09:24:52+00:00",
-        "pushed": "2024-07-06T09:24:50+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
-    },
-    {
         "repo": "awesome-hpc-cuda-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public High Performance Computing (HPC), NVIDIA CUDA, cuBLAS, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
@@ -5276,19 +5250,6 @@
         "pushed": "2024-07-07T14:21:50+00:00",
         "url": "https://github.com/myhdl/myhdl",
         "id": 30467971
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41323,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-07-07T19:28:08+00:00",
-        "pushed": "2024-07-07T19:28:06+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
     },
     {
         "repo": "py-v",
@@ -5328,5 +5289,44 @@
         "pushed": "2024-07-09T10:53:10+00:00",
         "url": "https://github.com/alexforencich/verilog-i2c",
         "id": 19449788
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41328,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-07-10T23:17:24+00:00",
+        "pushed": "2024-07-10T23:17:21+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 8,
+        "forks": 3,
+        "size": 823,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2024-07-10T10:22:21+00:00",
+        "pushed": "2024-07-10T10:22:16+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 181,
+        "forks": 25,
+        "size": 6019,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-07-10T17:18:14+00:00",
+        "pushed": "2024-07-10T09:54:39+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
     }
 ]
