@@ -1508,32 +1508,6 @@
         "id": 75402926
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 995,
-        "forks": 118,
-        "size": 38709,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2024-07-06T22:11:28+00:00",
-        "pushed": "2024-07-10T16:14:28+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
-        "repo": "Morty",
-        "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
-        "owner": "HermiTech-LLC",
-        "stars": 0,
-        "forks": 0,
-        "size": 314,
-        "created": "2024-07-07T12:56:24+00:00",
-        "updated": "2024-07-11T04:32:13+00:00",
-        "pushed": "2024-07-11T04:29:27+00:00",
-        "url": "https://github.com/HermiTech-LLC/Morty",
-        "id": 825318614
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "stahlnow",
@@ -1545,5 +1519,31 @@
         "pushed": "2024-07-11T00:47:59+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 995,
+        "forks": 118,
+        "size": 38749,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2024-07-06T22:11:28+00:00",
+        "pushed": "2024-07-11T20:50:28+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "Morty",
+        "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
+        "owner": "HermiTech-LLC",
+        "stars": 2,
+        "forks": 1,
+        "size": 402,
+        "created": "2024-07-07T12:56:24+00:00",
+        "updated": "2024-07-12T05:57:19+00:00",
+        "pushed": "2024-07-12T05:57:15+00:00",
+        "url": "https://github.com/HermiTech-LLC/Morty",
+        "id": 825318614
     }
 ]

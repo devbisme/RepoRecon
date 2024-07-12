@@ -1950,19 +1950,6 @@
         "id": 214436763
     },
     {
-        "repo": "litex-template",
-        "description": "Template project for LiteX-based SoCs",
-        "owner": "sergachev",
-        "stars": 14,
-        "forks": 4,
-        "size": 163,
-        "created": "2019-10-13T20:04:27Z",
-        "updated": "2023-04-17T02:27:28Z",
-        "pushed": "2023-07-25T20:49:53Z",
-        "url": "https://github.com/sergachev/litex-template",
-        "id": 214885817
-    },
-    {
         "repo": "rocket2-litex-verilog",
         "description": "Precompiled verilog sources of rocket-chip for litex",
         "owner": "zsipos",
@@ -12571,19 +12558,6 @@
         "id": 605602834
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 450,
-        "forks": 110,
-        "size": 1759,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-07-08T22:25:18+00:00",
-        "pushed": "2024-07-08T08:54:51+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -12608,19 +12582,6 @@
         "pushed": "2024-07-08T20:53:41+00:00",
         "url": "https://github.com/apfelaudio/eurorack-pmod",
         "id": 504905833
-    },
-    {
-        "repo": "VexRiscv",
-        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
-        "owner": "SpinalHDL",
-        "stars": 2328,
-        "forks": 390,
-        "size": 13359,
-        "created": "2017-03-08T21:14:28+00:00",
-        "updated": "2024-07-08T18:33:02+00:00",
-        "pushed": "2024-07-08T07:13:21+00:00",
-        "url": "https://github.com/SpinalHDL/VexRiscv",
-        "id": 84366787
     },
     {
         "repo": "awesome-fpga",
@@ -12662,19 +12623,6 @@
         "id": 190029235
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 452,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-07-08T19:18:05+00:00",
-        "pushed": "2024-07-10T02:17:28+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "CVA5_PLIC",
         "description": "Priority Level Interrupt Controller for CVA5 CPU. Tested on Litex.",
         "owner": "mohammadshahidzade",
@@ -12701,32 +12649,6 @@
         "id": 45734719
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 359,
-        "forks": 277,
-        "size": 4188,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-07-10T16:20:16+00:00",
-        "pushed": "2024-07-10T16:20:12+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 735,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-10T16:51:19+00:00",
-        "pushed": "2024-07-11T01:56:04+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -12738,19 +12660,6 @@
         "pushed": "2024-07-10T14:57:09+00:00",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1488,
-        "forks": 207,
-        "size": 208700,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-10T19:13:33+00:00",
-        "pushed": "2024-07-10T19:14:53+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "NaxRiscv",
@@ -12803,19 +12712,6 @@
         "pushed": "2024-07-10T21:55:25+00:00",
         "url": "https://github.com/machdyne/kakao",
         "id": 591257216
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 22007,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-07-10T18:10:50+00:00",
-        "pushed": "2024-07-10T18:10:46+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "pythondata-cpu-naxriscv",
@@ -12883,6 +12779,110 @@
         "id": 774781647
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 359,
+        "forks": 277,
+        "size": 4198,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-07-11T10:54:49+00:00",
+        "pushed": "2024-07-11T10:54:45+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 450,
+        "forks": 110,
+        "size": 1760,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-07-11T14:12:02+00:00",
+        "pushed": "2024-07-11T14:11:59+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 739,
+        "forks": 67,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-12T03:19:44+00:00",
+        "pushed": "2024-07-12T01:54:40+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 452,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-07-08T19:18:05+00:00",
+        "pushed": "2024-07-12T02:17:07+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1491,
+        "forks": 207,
+        "size": 208704,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-12T01:27:52+00:00",
+        "pushed": "2024-07-11T18:46:16+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex-template",
+        "description": "Template project for LiteX-based SoCs",
+        "owner": "sergachev",
+        "stars": 17,
+        "forks": 5,
+        "size": 204,
+        "created": "2019-10-13T20:04:27+00:00",
+        "updated": "2024-07-11T21:46:56+00:00",
+        "pushed": "2024-07-11T21:46:55+00:00",
+        "url": "https://github.com/sergachev/litex-template",
+        "id": 214885817
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 19902,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-07-11T16:59:30+00:00",
+        "pushed": "2024-07-11T16:59:26+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "VexRiscv",
+        "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
+        "owner": "SpinalHDL",
+        "stars": 2335,
+        "forks": 395,
+        "size": 13359,
+        "created": "2017-03-08T21:14:28+00:00",
+        "updated": "2024-07-11T17:35:50+00:00",
+        "pushed": "2024-07-11T11:18:33+00:00",
+        "url": "https://github.com/SpinalHDL/VexRiscv",
+        "id": 84366787
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -12891,7 +12891,7 @@
         "size": 2489,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-07-06T08:51:46+00:00",
-        "pushed": "2024-07-11T00:13:44+00:00",
+        "pushed": "2024-07-12T00:13:03+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -12901,10 +12901,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1619,
+        "size": 1621,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-11T04:38:23+00:00",
-        "pushed": "2024-07-11T04:38:20+00:00",
+        "updated": "2024-07-12T04:36:46+00:00",
+        "pushed": "2024-07-12T04:36:43+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12914,10 +12914,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 20781,
+        "size": 21260,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-11T01:06:48+00:00",
-        "pushed": "2024-07-11T01:06:44+00:00",
+        "updated": "2024-07-12T00:57:18+00:00",
+        "pushed": "2024-07-12T00:57:15+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -12927,10 +12927,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 60846,
+        "size": 61293,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-11T03:26:42+00:00",
-        "pushed": "2024-07-11T03:26:39+00:00",
+        "updated": "2024-07-12T03:24:53+00:00",
+        "pushed": "2024-07-12T03:24:50+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
