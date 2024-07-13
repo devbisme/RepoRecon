@@ -1521,19 +1521,6 @@
         "id": 768320430
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 995,
-        "forks": 118,
-        "size": 38749,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2024-07-06T22:11:28+00:00",
-        "pushed": "2024-07-11T20:50:28+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "Morty",
         "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
         "owner": "HermiTech-LLC",
@@ -1545,5 +1532,18 @@
         "pushed": "2024-07-12T05:57:15+00:00",
         "url": "https://github.com/HermiTech-LLC/Morty",
         "id": 825318614
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 995,
+        "forks": 118,
+        "size": 38784,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2024-07-06T22:11:28+00:00",
+        "pushed": "2024-07-12T19:35:26+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
     }
 ]

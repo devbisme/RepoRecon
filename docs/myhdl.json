@@ -5252,19 +5252,6 @@
         "id": 30467971
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 3,
-        "forks": 1,
-        "size": 927,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-07-08T20:59:24+00:00",
-        "pushed": "2024-07-08T20:59:20+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "awesome-fpga",
         "description": "A collection of some awesome public FPGA projects.",
         "owner": "codingonion",
@@ -5276,19 +5263,6 @@
         "pushed": "2024-07-08T15:37:17+00:00",
         "url": "https://github.com/codingonion/awesome-fpga",
         "id": 825835602
-    },
-    {
-        "repo": "verilog-i2c",
-        "description": "Verilog I2C interface for FPGA implementation",
-        "owner": "alexforencich",
-        "stars": 491,
-        "forks": 164,
-        "size": 130,
-        "created": "2014-05-05T08:49:01+00:00",
-        "updated": "2024-07-10T02:12:42+00:00",
-        "pushed": "2024-07-09T10:53:10+00:00",
-        "url": "https://github.com/alexforencich/verilog-i2c",
-        "id": 19449788
     },
     {
         "repo": "Kea",
@@ -5328,5 +5302,31 @@
         "pushed": "2024-07-11T21:58:45+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "verilog-i2c",
+        "description": "Verilog I2C interface for FPGA implementation",
+        "owner": "alexforencich",
+        "stars": 494,
+        "forks": 164,
+        "size": 130,
+        "created": "2014-05-05T08:49:01+00:00",
+        "updated": "2024-07-11T15:31:11+00:00",
+        "pushed": "2024-07-12T20:45:51+00:00",
+        "url": "https://github.com/alexforencich/verilog-i2c",
+        "id": 19449788
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 3,
+        "forks": 1,
+        "size": 939,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-07-12T22:09:42+00:00",
+        "pushed": "2024-07-12T22:09:42+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
