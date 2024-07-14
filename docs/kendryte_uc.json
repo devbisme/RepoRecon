@@ -35620,19 +35620,6 @@
         "id": 628955404
     },
     {
-        "repo": "ros",
-        "description": null,
-        "owner": "bluetianx",
-        "stars": 0,
-        "forks": 0,
-        "size": 310,
-        "created": "2021-08-06T14:33:55+00:00",
-        "updated": "2022-05-16T15:21:36+00:00",
-        "pushed": "2024-04-15T14:59:28+00:00",
-        "url": "https://github.com/bluetianx/ros",
-        "id": 393403489
-    },
-    {
         "repo": "CVprojects",
         "description": "computer vision projects |  \u8ba1\u7b97\u673a\u89c6\u89c9\u76f8\u5173\u597d\u73a9\u7684AI\u9879\u76ee\uff08Python\u3001C++\u3001embedded system\uff09",
         "owner": "enpeizhao",
@@ -36320,19 +36307,6 @@
         "pushed": "2024-05-11T04:52:01+00:00",
         "url": "https://github.com/13m0n4de/lemon-core",
         "id": 762534415
-    },
-    {
-        "repo": "Smart-SortingTrash",
-        "description": "\u667a\u80fd\u5206\u7c7b\u5783\u573e\u6876\uff0c\u8be5\u9879\u76ee\u4e3b\u8981\u662f\u901a\u8fc7\u89c6\u89c9\u8bc6\u522b\u5b9e\u73b0\u81ea\u52a8\u5206\u7c7b6\u7c7b\u5783\u573e\uff0c\u501f\u52a9IOT\u8054\u7f51\u529f\u80fd\uff0c\u901a\u8fc7\u8fdc\u7a0b\u7f51\u9875\u7ba1\u7406\u4e0d\u540c\u5730\u7406\u4f4d\u7f6e\u7684\u5783\u573e\u6570\u636e\uff0c\u5b9e\u73b0\u5168\u81ea\u52a8\u5316\u5783\u573e\u5206\u7c7b",
-        "owner": "Nosultion",
-        "stars": 0,
-        "forks": 0,
-        "size": 68207,
-        "created": "2024-05-11T15:32:11+00:00",
-        "updated": "2024-05-12T07:23:39+00:00",
-        "pushed": "2024-05-12T07:23:36+00:00",
-        "url": "https://github.com/Nosultion/Smart-SortingTrash",
-        "id": 799253838
     },
     {
         "repo": "maixuwn",
@@ -37921,19 +37895,6 @@
         "id": 779544970
     },
     {
-        "repo": "JZ2440_RTT",
-        "description": null,
-        "owner": "O1024",
-        "stars": 0,
-        "forks": 0,
-        "size": 384994,
-        "created": "2024-07-09T23:09:29+00:00",
-        "updated": "2024-07-09T23:31:57+00:00",
-        "pushed": "2024-07-09T23:31:35+00:00",
-        "url": "https://github.com/O1024/JZ2440_RTT",
-        "id": 826543880
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -38012,19 +37973,6 @@
         "id": 706052378
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 146,
-        "forks": 29,
-        "size": 154729,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-07-02T18:00:13+00:00",
-        "pushed": "2024-07-12T03:09:35+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "MaixusGig",
         "description": null,
         "owner": "MaixusBetter",
@@ -38075,19 +38023,6 @@
         "pushed": "2024-07-11T10:09:35+00:00",
         "url": "https://github.com/XuanSang123/HCM_JV240304_MD3_MAIXUANSANG",
         "id": 826041812
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 93,
-        "forks": 18,
-        "size": 25088,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-07-12T05:58:05+00:00",
-        "pushed": "2024-07-12T14:57:16+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "rt-thread",
@@ -38155,15 +38090,80 @@
         "id": 823275171
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 94,
+        "forks": 18,
+        "size": 25152,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-07-14T02:39:05+00:00",
+        "pushed": "2024-07-13T11:12:50+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 146,
+        "forks": 29,
+        "size": 154898,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-07-02T18:00:13+00:00",
+        "pushed": "2024-07-14T02:33:19+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "ros",
+        "description": null,
+        "owner": "bluetianx",
+        "stars": 0,
+        "forks": 0,
+        "size": 325,
+        "created": "2021-08-06T14:33:55+00:00",
+        "updated": "2024-07-13T18:19:06+00:00",
+        "pushed": "2024-07-13T18:19:02+00:00",
+        "url": "https://github.com/bluetianx/ros",
+        "id": 393403489
+    },
+    {
+        "repo": "Smart-SortingTrash",
+        "description": "\u667a\u80fd\u5206\u7c7b\u5783\u573e\u6876\uff0c\u8be5\u9879\u76ee\u4e3b\u8981\u662f\u901a\u8fc7\u89c6\u89c9\u8bc6\u522b\u5b9e\u73b0\u81ea\u52a8\u5206\u7c7b6\u7c7b\u5783\u573e\uff0c\u501f\u52a9IOT\u8054\u7f51\u529f\u80fd\uff0c\u901a\u8fc7\u8fdc\u7a0b\u7f51\u9875\u7ba1\u7406\u4e0d\u540c\u5730\u7406\u4f4d\u7f6e\u7684\u5783\u573e\u6570\u636e\uff0c\u5b9e\u73b0\u5168\u81ea\u52a8\u5316\u5783\u573e\u5206\u7c7b",
+        "owner": "Nosultion",
+        "stars": 0,
+        "forks": 0,
+        "size": 68238,
+        "created": "2024-05-11T15:32:11+00:00",
+        "updated": "2024-07-13T17:03:57+00:00",
+        "pushed": "2024-07-13T17:03:54+00:00",
+        "url": "https://github.com/Nosultion/Smart-SortingTrash",
+        "id": 799253838
+    },
+    {
+        "repo": "JZ2440_RTT",
+        "description": null,
+        "owner": "O1024",
+        "stars": 0,
+        "forks": 0,
+        "size": 384995,
+        "created": "2024-07-09T23:09:29+00:00",
+        "updated": "2024-07-13T23:02:46+00:00",
+        "pushed": "2024-07-13T23:02:42+00:00",
+        "url": "https://github.com/O1024/JZ2440_RTT",
+        "id": 826543880
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 9915,
+        "size": 10380,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-13T01:46:47+00:00",
-        "pushed": "2024-07-13T01:46:43+00:00",
+        "updated": "2024-07-14T01:54:52+00:00",
+        "pushed": "2024-07-14T01:54:49+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38173,10 +38173,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 1744,
+        "size": 1894,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-13T01:43:29+00:00",
-        "pushed": "2024-07-13T01:43:26+00:00",
+        "updated": "2024-07-14T01:51:43+00:00",
+        "pushed": "2024-07-14T01:51:40+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38186,10 +38186,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 720758,
+        "size": 720760,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-07-12T12:30:59+00:00",
-        "pushed": "2024-07-12T12:30:32+00:00",
+        "updated": "2024-07-13T12:24:51+00:00",
+        "pushed": "2024-07-13T12:24:47+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -38202,7 +38202,7 @@
         "size": 247,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-07-11T00:51:53+00:00",
-        "pushed": "2024-07-13T00:13:27+00:00",
+        "pushed": "2024-07-14T00:14:58+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

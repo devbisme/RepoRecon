@@ -9620,19 +9620,6 @@
         "id": 692581221
     },
     {
-        "repo": "LiteXP",
-        "description": "Smaller version of Windows XP.",
-        "owner": "ZhenPlaz",
-        "stars": 0,
-        "forks": 0,
-        "size": 3,
-        "created": "2023-09-23T13:16:19Z",
-        "updated": "2023-09-23T13:32:16Z",
-        "pushed": "2023-09-23T13:56:26Z",
-        "url": "https://github.com/ZhenPlaz/LiteXP",
-        "id": 695527993
-    },
-    {
         "repo": "litexploreust",
         "description": null,
         "owner": "srinu427",
@@ -12363,19 +12350,6 @@
         "id": 464657430
     },
     {
-        "repo": "litehm2",
-        "description": "LinuxCNC FPGA board port to LiteX",
-        "owner": "sensille",
-        "stars": 23,
-        "forks": 6,
-        "size": 11320,
-        "created": "2022-12-05T06:22:15+00:00",
-        "updated": "2024-06-30T05:54:13+00:00",
-        "pushed": "2024-06-30T05:54:10+00:00",
-        "url": "https://github.com/sensille/litehm2",
-        "id": 574363787
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -12530,19 +12504,6 @@
         "pushed": "2024-07-08T11:08:59+00:00",
         "url": "https://github.com/enjoy-digital/liteiclink",
         "id": 109838222
-    },
-    {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
-        "owner": "apfelaudio",
-        "stars": 167,
-        "forks": 8,
-        "size": 21830,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-07-08T20:53:45+00:00",
-        "pushed": "2024-07-08T20:53:41+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod",
-        "id": 504905833
     },
     {
         "repo": "awesome-fpga",
@@ -12740,19 +12701,6 @@
         "id": 42041717
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 739,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-12T03:19:44+00:00",
-        "pushed": "2024-07-13T01:55:12+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12790,19 +12738,6 @@
         "pushed": "2024-07-12T14:15:14+00:00",
         "url": "https://github.com/SpinalHDL/NaxRiscv",
         "id": 413357087
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 41,
-        "forks": 17,
-        "size": 119852,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-07-13T04:38:30+00:00",
-        "pushed": "2024-07-13T04:38:28+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "kakao",
@@ -12844,19 +12779,6 @@
         "id": 827729011
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
-        "owner": "chili-chips-ba",
-        "stars": 25,
-        "forks": 1,
-        "size": 31389,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-07-12T21:22:50+00:00",
-        "pushed": "2024-07-12T21:22:46+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "linux-on-litex-cva5",
         "description": "Porting 32-bit Linux onto CVA5 Soft-Core CPU using the LiteX framework",
         "owner": "Rajnesh28",
@@ -12896,6 +12818,97 @@
         "id": 615816156
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 739,
+        "forks": 67,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-12T03:19:44+00:00",
+        "pushed": "2024-07-14T02:02:32+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litehm2",
+        "description": "LinuxCNC FPGA board port to LiteX",
+        "owner": "sensille",
+        "stars": 23,
+        "forks": 6,
+        "size": 13564,
+        "created": "2022-12-05T06:22:15+00:00",
+        "updated": "2024-07-13T06:50:42+00:00",
+        "pushed": "2024-07-13T07:19:56+00:00",
+        "url": "https://github.com/sensille/litehm2",
+        "id": 574363787
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 41,
+        "forks": 17,
+        "size": 119855,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-07-14T03:42:09+00:00",
+        "pushed": "2024-07-14T03:42:06+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
+        "owner": "apfelaudio",
+        "stars": 168,
+        "forks": 9,
+        "size": 21833,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2024-07-09T07:40:42+00:00",
+        "pushed": "2024-07-13T18:03:52+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "LiteXP",
+        "description": "Smaller version of Windows XP.",
+        "owner": "TZRPGD",
+        "stars": 2,
+        "forks": 0,
+        "size": 4,
+        "created": "2023-09-23T13:16:19+00:00",
+        "updated": "2024-07-13T17:41:03+00:00",
+        "pushed": "2024-07-13T17:36:27+00:00",
+        "url": "https://github.com/TZRPGD/LiteXP",
+        "id": 695527993
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.",
+        "owner": "chili-chips-ba",
+        "stars": 26,
+        "forks": 1,
+        "size": 34338,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-07-13T21:20:26+00:00",
+        "pushed": "2024-07-13T06:51:17+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "fpga_101",
+        "description": null,
+        "owner": "jeremyschlatter",
+        "stars": 0,
+        "forks": 0,
+        "size": 3767,
+        "created": "2024-03-21T05:44:38+00:00",
+        "updated": "2024-07-14T04:37:12+00:00",
+        "pushed": "2024-07-14T04:37:09+00:00",
+        "url": "https://github.com/jeremyschlatter/fpga_101",
+        "id": 775295324
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -12904,7 +12917,7 @@
         "size": 2489,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-07-06T08:51:46+00:00",
-        "pushed": "2024-07-13T00:13:22+00:00",
+        "pushed": "2024-07-14T00:14:16+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -12914,10 +12927,10 @@
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1622,
+        "size": 1624,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-13T04:36:13+00:00",
-        "pushed": "2024-07-13T04:36:10+00:00",
+        "updated": "2024-07-14T04:39:27+00:00",
+        "pushed": "2024-07-14T04:39:25+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12927,25 +12940,12 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 21739,
+        "size": 22500,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-13T00:57:36+00:00",
-        "pushed": "2024-07-13T00:57:33+00:00",
+        "updated": "2024-07-14T01:05:48+00:00",
+        "pushed": "2024-07-14T01:05:44+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 4,
-        "forks": 0,
-        "size": 61750,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-13T03:23:52+00:00",
-        "pushed": "2024-07-13T03:23:49+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
     },
     {
         "repo": "GithubTrending",
@@ -12953,11 +12953,24 @@
         "owner": "jafshare",
         "stars": 4,
         "forks": 0,
-        "size": 20465,
+        "size": 20622,
         "created": "2023-10-07T09:03:35+00:00",
-        "updated": "2024-07-13T00:42:00+00:00",
-        "pushed": "2024-07-13T00:41:53+00:00",
+        "updated": "2024-07-14T00:46:14+00:00",
+        "pushed": "2024-07-14T00:46:11+00:00",
         "url": "https://github.com/jafshare/GithubTrending",
         "id": 701683842
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 4,
+        "forks": 0,
+        "size": 62206,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-07-14T03:26:43+00:00",
+        "pushed": "2024-07-14T03:26:40+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]

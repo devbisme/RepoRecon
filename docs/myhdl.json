@@ -5304,19 +5304,6 @@
         "id": 143520625
     },
     {
-        "repo": "verilog-i2c",
-        "description": "Verilog I2C interface for FPGA implementation",
-        "owner": "alexforencich",
-        "stars": 494,
-        "forks": 164,
-        "size": 130,
-        "created": "2014-05-05T08:49:01+00:00",
-        "updated": "2024-07-11T15:31:11+00:00",
-        "pushed": "2024-07-12T20:45:51+00:00",
-        "url": "https://github.com/alexforencich/verilog-i2c",
-        "id": 19449788
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -5328,5 +5315,18 @@
         "pushed": "2024-07-12T22:09:42+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
+    },
+    {
+        "repo": "verilog-i2c",
+        "description": "Verilog I2C interface for FPGA implementation",
+        "owner": "alexforencich",
+        "stars": 494,
+        "forks": 164,
+        "size": 130,
+        "created": "2014-05-05T08:49:01+00:00",
+        "updated": "2024-07-11T15:31:11+00:00",
+        "pushed": "2024-07-13T23:20:57+00:00",
+        "url": "https://github.com/alexforencich/verilog-i2c",
+        "id": 19449788
     }
 ]
