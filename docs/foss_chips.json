@@ -59020,19 +59020,6 @@
         "id": 732935336
     },
     {
-        "repo": "riscduino",
-        "description": "Arduino compatible Risc-V Based SOC",
-        "owner": "dineshannayya",
-        "stars": 113,
-        "forks": 19,
-        "size": 145093,
-        "created": "2021-09-11T09:12:43+00:00",
-        "updated": "2023-12-06T07:21:46+00:00",
-        "pushed": "2023-12-28T02:39:56+00:00",
-        "url": "https://github.com/dineshannayya/riscduino",
-        "id": 405334201
-    },
-    {
         "repo": "riscduino_qcore",
         "description": null,
         "owner": "dineshannayya",
@@ -74230,19 +74217,6 @@
         "id": 667286366
     },
     {
-        "repo": "riscduino_dcore",
-        "description": null,
-        "owner": "dineshannayya",
-        "stars": 7,
-        "forks": 3,
-        "size": 605502,
-        "created": "2022-02-21T16:48:52+00:00",
-        "updated": "2024-05-29T10:14:41+00:00",
-        "pushed": "2024-05-29T10:14:37+00:00",
-        "url": "https://github.com/dineshannayya/riscduino_dcore",
-        "id": 461950713
-    },
-    {
         "repo": "VSD-SOC-Design-Workshop-2-Week-",
         "description": null,
         "owner": "Hitesh2598",
@@ -75164,19 +75138,6 @@
         "pushed": "2024-06-01T15:13:59+00:00",
         "url": "https://github.com/Ayan2345/VSD-Workshop",
         "id": 804938351
-    },
-    {
-        "repo": "vsd-hdp",
-        "description": "A full RTL2GDS of a 32-bit RISC-V CPU core design using SkyWater 130nm process node",
-        "owner": "mohd-khalid",
-        "stars": 0,
-        "forks": 0,
-        "size": 249,
-        "created": "2024-01-20T18:58:37+00:00",
-        "updated": "2024-06-02T03:19:50+00:00",
-        "pushed": "2024-06-02T03:19:46+00:00",
-        "url": "https://github.com/mohd-khalid/vsd-hdp",
-        "id": 745991233
     },
     {
         "repo": "Jaswanth6669",
@@ -77961,19 +77922,6 @@
         "id": 818248753
     },
     {
-        "repo": "analog-virtualbox-vm-sky130a",
-        "description": "Virtual Machine for analog with the open source Sky130A PDK",
-        "owner": "TinyTapeout",
-        "stars": 15,
-        "forks": 4,
-        "size": 262,
-        "created": "2024-02-19T11:22:38+00:00",
-        "updated": "2024-06-26T17:18:32+00:00",
-        "pushed": "2024-06-26T17:18:30+00:00",
-        "url": "https://github.com/TinyTapeout/analog-virtualbox-vm-sky130a",
-        "id": 759806802
-    },
-    {
         "repo": "caravel_user_project",
         "description": "https://caravel-user-project.readthedocs.io",
         "owner": "efabless",
@@ -78089,19 +78037,6 @@
         "pushed": "2024-06-26T14:48:18+00:00",
         "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__rdac3v_8bit",
         "id": 765777151
-    },
-    {
-        "repo": "fifty-nifty-2Tr_sky130",
-        "description": "Circuit examples in sky130 for \"fifty nifty variations of two-transistor circuits\"",
-        "owner": "atuchiya",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2024-06-26T13:29:41+00:00",
-        "updated": "2024-06-26T13:39:39+00:00",
-        "pushed": "2024-06-26T13:39:36+00:00",
-        "url": "https://github.com/atuchiya/fifty-nifty-2Tr_sky130",
-        "id": 820443352
     },
     {
         "repo": "SFAL-VSD",
@@ -79352,19 +79287,6 @@
         "id": 821008029
     },
     {
-        "repo": "tt08-tsal",
-        "description": null,
-        "owner": "ephrenm",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2024-07-08T02:04:37+00:00",
-        "updated": "2024-07-08T02:04:42+00:00",
-        "pushed": "2024-07-08T02:04:39+00:00",
-        "url": "https://github.com/ephrenm/tt08-tsal",
-        "id": 825520690
-    },
-    {
         "repo": "boltsta",
         "description": "STA Open Source Tool",
         "owner": "BoltSTA",
@@ -79532,19 +79454,6 @@
         "pushed": "2024-07-09T21:29:11+00:00",
         "url": "https://github.com/StefanSchippers/xschem_sky130",
         "id": 301889741
-    },
-    {
-        "repo": "ipm",
-        "description": "Open-source IPs Package Manager (IPM)",
-        "owner": "efabless",
-        "stars": 13,
-        "forks": 1,
-        "size": 418,
-        "created": "2022-09-09T08:53:13+00:00",
-        "updated": "2024-07-09T14:02:03+00:00",
-        "pushed": "2024-07-09T14:01:59+00:00",
-        "url": "https://github.com/efabless/ipm",
-        "id": 534569093
     },
     {
         "repo": "EF_UART",
@@ -79857,19 +79766,6 @@
         "pushed": "2024-07-09T20:04:34+00:00",
         "url": "https://github.com/zeroasiccorp/ebrick-demo",
         "id": 774216308
-    },
-    {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 170,
-        "forks": 31,
-        "size": 32232,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-07-09T23:34:52+00:00",
-        "pushed": "2024-07-10T09:31:05+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
     },
     {
         "repo": "vsd-hdp",
@@ -80223,19 +80119,6 @@
         "id": 826993340
     },
     {
-        "repo": "vc32",
-        "description": null,
-        "owner": "MoonbaseOtago",
-        "stars": 0,
-        "forks": 0,
-        "size": 329,
-        "created": "2024-02-20T07:09:57+00:00",
-        "updated": "2024-07-12T05:09:58+00:00",
-        "pushed": "2024-07-12T05:09:55+00:00",
-        "url": "https://github.com/MoonbaseOtago/vc32",
-        "id": 760308039
-    },
-    {
         "repo": "tt08-pwm-example",
         "description": "PWM audio example",
         "owner": "MichaelBell",
@@ -80299,19 +80182,6 @@
         "pushed": "2024-07-11T07:40:18+00:00",
         "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
         "id": 406653146
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 807,
-        "forks": 83,
-        "size": 348224,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-07-12T19:41:45+00:00",
-        "pushed": "2024-07-13T00:09:50+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
     },
     {
         "repo": "DriveLM",
@@ -80403,19 +80273,6 @@
         "pushed": "2024-07-12T06:05:16+00:00",
         "url": "https://github.com/vpamidi9/sfal-vsd-venkatesh",
         "id": 802703640
-    },
-    {
-        "repo": "NASSCOM-VSD-SOC-Design-Program",
-        "description": "This repository contains materials and resources for a workshop on designing an Application Specific Integrated Circuit (ASIC) from the Register Transfer Level (RTL) to the Graphical Data System (GDS).",
-        "owner": "afzalamu",
-        "stars": 0,
-        "forks": 0,
-        "size": 352,
-        "created": "2024-07-10T15:13:47+00:00",
-        "updated": "2024-07-13T06:01:40+00:00",
-        "pushed": "2024-07-13T06:01:37+00:00",
-        "url": "https://github.com/afzalamu/NASSCOM-VSD-SOC-Design-Program",
-        "id": 826884153
     },
     {
         "repo": "NASSCOM-VSD-SOC-DESIGN-AND-PLANNING",
@@ -80587,19 +80444,6 @@
         "id": 827989868
     },
     {
-        "repo": "Physical_design",
-        "description": null,
-        "owner": "gaurang-2626",
-        "stars": 0,
-        "forks": 0,
-        "size": 7172,
-        "created": "2024-07-10T15:26:32+00:00",
-        "updated": "2024-07-12T17:26:38+00:00",
-        "pushed": "2024-07-12T17:26:34+00:00",
-        "url": "https://github.com/gaurang-2626/Physical_design",
-        "id": 826889644
-    },
-    {
         "repo": "Open-VLSI",
         "description": "Repository for open-source tools to VLSI design",
         "owner": "puxina",
@@ -80637,32 +80481,6 @@
         "pushed": "2024-07-12T23:57:29+00:00",
         "url": "https://github.com/fasiha/finviz-git-scraper",
         "id": 585468833
-    },
-    {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1432,
-        "forks": 500,
-        "size": 609312,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-07-14T04:04:45+00:00",
-        "pushed": "2024-07-14T02:39:56+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
-        "repo": "Nasscom-VSD-vlsi",
-        "description": null,
-        "owner": "fortunespell",
-        "stars": 0,
-        "forks": 0,
-        "size": 11904,
-        "created": "2024-07-10T17:14:41+00:00",
-        "updated": "2024-07-13T15:18:19+00:00",
-        "pushed": "2024-07-13T15:18:16+00:00",
-        "url": "https://github.com/fortunespell/Nasscom-VSD-vlsi",
-        "id": 826935497
     },
     {
         "repo": "sfal-vsd",
@@ -80704,19 +80522,6 @@
         "id": 474113335
     },
     {
-        "repo": "cmos_inverter_sky130",
-        "description": "CMOS Inverter Design, Analysis and Layout in SKY130",
-        "owner": "SkillSurf",
-        "stars": 2,
-        "forks": 1,
-        "size": 2270,
-        "created": "2024-06-28T18:39:32+00:00",
-        "updated": "2024-07-13T19:15:53+00:00",
-        "pushed": "2024-07-13T10:19:09+00:00",
-        "url": "https://github.com/SkillSurf/cmos_inverter_sky130",
-        "id": 821526364
-    },
-    {
         "repo": "NASSCOM-VSD-SoC-Program",
         "description": "The NASSCOM-VSD  course is meant for the complete training over RTL to GDS II conversion using open-source EDA tools, specifically OPENLANE. This course is in 5 Modules viz.,  Introduction to OPENLANE and Skywater 130nm, Crafting the Blueprints and  Chip cells, Timing analysis and Layout. ",
         "owner": "ENAUL-HAQ-SHAIK",
@@ -80730,32 +80535,6 @@
         "id": 827459020
     },
     {
-        "repo": "nasscom-vsd-openlane",
-        "description": null,
-        "owner": "KaushalKulkarni2003",
-        "stars": 0,
-        "forks": 0,
-        "size": 144,
-        "created": "2024-07-10T15:08:05+00:00",
-        "updated": "2024-07-13T09:57:00+00:00",
-        "pushed": "2024-07-13T09:56:56+00:00",
-        "url": "https://github.com/KaushalKulkarni2003/nasscom-vsd-openlane",
-        "id": 826881702
-    },
-    {
-        "repo": "VSD-SOC-Design",
-        "description": "Documentation for the NASSCOM-VSD-SOC Program",
-        "owner": "rustymemristor",
-        "stars": 0,
-        "forks": 0,
-        "size": 11074,
-        "created": "2024-07-10T15:36:29+00:00",
-        "updated": "2024-07-13T11:41:26+00:00",
-        "pushed": "2024-07-13T11:41:22+00:00",
-        "url": "https://github.com/rustymemristor/VSD-SOC-Design",
-        "id": 826894032
-    },
-    {
         "repo": "ieeeMentorshipHyd",
         "description": "This repository is to cater required files for IEEE mentorship programme-2024, Hyderabad.",
         "owner": "dicdesign",
@@ -80767,19 +80546,6 @@
         "pushed": "2024-07-13T10:26:56+00:00",
         "url": "https://github.com/dicdesign/ieeeMentorshipHyd",
         "id": 821664305
-    },
-    {
-        "repo": "Balakrishna-RK",
-        "description": "Config files for my GitHub profile.",
-        "owner": "Balakrishna-RK",
-        "stars": 0,
-        "forks": 0,
-        "size": 6521,
-        "created": "2024-06-27T17:28:45+00:00",
-        "updated": "2024-07-13T08:38:36+00:00",
-        "pushed": "2024-07-13T08:38:33+00:00",
-        "url": "https://github.com/Balakrishna-RK/Balakrishna-RK",
-        "id": 821040344
     },
     {
         "repo": "VSD-HDP",
@@ -80847,19 +80613,6 @@
         "id": 827159068
     },
     {
-        "repo": "Hardware-Design",
-        "description": "Hardware Design",
-        "owner": "SRINETHIR",
-        "stars": 0,
-        "forks": 0,
-        "size": 90711,
-        "created": "2024-06-01T13:22:45+00:00",
-        "updated": "2024-07-13T13:19:57+00:00",
-        "pushed": "2024-07-13T13:19:46+00:00",
-        "url": "https://github.com/SRINETHIR/Hardware-Design",
-        "id": 809024807
-    },
-    {
         "repo": "ASIC_FPGA_Design_Flow",
         "description": "This page will contain the steps to install the tools required for both FPGA and ASIC flow and the steps to execute the flow.",
         "owner": "Priyansu122",
@@ -80871,19 +80624,6 @@
         "pushed": "2024-07-13T17:59:21+00:00",
         "url": "https://github.com/Priyansu122/ASIC_FPGA_Design_Flow",
         "id": 818128931
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 1,
-        "forks": 0,
-        "size": 1624,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-14T04:39:27+00:00",
-        "pushed": "2024-07-14T04:39:25+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
     },
     {
         "repo": "synthesis-optimizations",
@@ -80900,19 +80640,6 @@
     },
     {
         "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 10380,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-14T01:54:52+00:00",
-        "pushed": "2024-07-14T01:54:49+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
-        "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
         "stars": 1,
@@ -80925,15 +80652,340 @@
         "id": 330793471
     },
     {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1433,
+        "forks": 500,
+        "size": 609445,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-07-15T00:05:11+00:00",
+        "pushed": "2024-07-15T00:03:01+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 171,
+        "forks": 31,
+        "size": 32232,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-07-13T19:11:45+00:00",
+        "pushed": "2024-07-14T12:25:03+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "riscduino",
+        "description": "Arduino compatible Risc-V Based SOC",
+        "owner": "dineshannayya",
+        "stars": 129,
+        "forks": 23,
+        "size": 145140,
+        "created": "2021-09-11T09:12:43+00:00",
+        "updated": "2024-07-14T15:48:28+00:00",
+        "pushed": "2024-07-14T15:48:25+00:00",
+        "url": "https://github.com/dineshannayya/riscduino",
+        "id": 405334201
+    },
+    {
+        "repo": "analog-virtualbox-vm-sky130a",
+        "description": "Virtual Machine for analog with the open source Sky130A PDK",
+        "owner": "TinyTapeout",
+        "stars": 20,
+        "forks": 5,
+        "size": 265,
+        "created": "2024-02-19T11:22:38+00:00",
+        "updated": "2024-07-14T20:42:44+00:00",
+        "pushed": "2024-07-14T20:42:42+00:00",
+        "url": "https://github.com/TinyTapeout/analog-virtualbox-vm-sky130a",
+        "id": 759806802
+    },
+    {
+        "repo": "riscduino_dcore",
+        "description": null,
+        "owner": "dineshannayya",
+        "stars": 9,
+        "forks": 4,
+        "size": 605529,
+        "created": "2022-02-21T16:48:52+00:00",
+        "updated": "2024-07-14T08:12:52+00:00",
+        "pushed": "2024-07-14T08:12:41+00:00",
+        "url": "https://github.com/dineshannayya/riscduino_dcore",
+        "id": 461950713
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 807,
+        "forks": 83,
+        "size": 348268,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-07-14T23:00:11+00:00",
+        "pushed": "2024-07-15T02:32:16+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "ipm",
+        "description": "Open-source IPs Package Manager (IPM)",
+        "owner": "efabless",
+        "stars": 13,
+        "forks": 2,
+        "size": 435,
+        "created": "2022-09-09T08:53:13+00:00",
+        "updated": "2024-07-14T15:12:08+00:00",
+        "pushed": "2024-07-14T15:12:05+00:00",
+        "url": "https://github.com/efabless/ipm",
+        "id": 534569093
+    },
+    {
+        "repo": "Nasscom-VSD-vlsi",
+        "description": null,
+        "owner": "fortunespell",
+        "stars": 0,
+        "forks": 0,
+        "size": 16354,
+        "created": "2024-07-10T17:14:41+00:00",
+        "updated": "2024-07-15T05:24:33+00:00",
+        "pushed": "2024-07-15T05:24:30+00:00",
+        "url": "https://github.com/fortunespell/Nasscom-VSD-vlsi",
+        "id": 826935497
+    },
+    {
+        "repo": "NASSCOM_SoC_design_VSD",
+        "description": null,
+        "owner": "ARX-0",
+        "stars": 0,
+        "forks": 0,
+        "size": 3545,
+        "created": "2024-07-11T02:45:08+00:00",
+        "updated": "2024-07-14T12:34:26+00:00",
+        "pushed": "2024-07-14T12:34:24+00:00",
+        "url": "https://github.com/ARX-0/NASSCOM_SoC_design_VSD",
+        "id": 827095172
+    },
+    {
+        "repo": "NASSCOM-VSD-SOC-Design-Program",
+        "description": "This repository contains materials and resources for a workshop on designing an Application Specific Integrated Circuit (ASIC) from the Register Transfer Level (RTL) to the Graphical Data System (GDS).",
+        "owner": "afzalamu",
+        "stars": 0,
+        "forks": 0,
+        "size": 168,
+        "created": "2024-07-10T15:13:47+00:00",
+        "updated": "2024-07-14T16:50:51+00:00",
+        "pushed": "2024-07-14T16:50:48+00:00",
+        "url": "https://github.com/afzalamu/NASSCOM-VSD-SOC-Design-Program",
+        "id": 826884153
+    },
+    {
+        "repo": "vsd-hdp",
+        "description": "A full RTL2GDS of a 32-bit RISC-V CPU core design using SkyWater 130nm process node",
+        "owner": "mohd-khalid",
+        "stars": 0,
+        "forks": 0,
+        "size": 311,
+        "created": "2024-01-20T18:58:37+00:00",
+        "updated": "2024-07-15T03:21:28+00:00",
+        "pushed": "2024-07-15T03:21:25+00:00",
+        "url": "https://github.com/mohd-khalid/vsd-hdp",
+        "id": 745991233
+    },
+    {
+        "repo": "nasscom-vsd-openlane",
+        "description": null,
+        "owner": "KaushalKulkarni2003",
+        "stars": 0,
+        "forks": 0,
+        "size": 191,
+        "created": "2024-07-10T15:08:05+00:00",
+        "updated": "2024-07-14T17:45:13+00:00",
+        "pushed": "2024-07-14T17:45:10+00:00",
+        "url": "https://github.com/KaushalKulkarni2003/nasscom-vsd-openlane",
+        "id": 826881702
+    },
+    {
+        "repo": "cmos_inverter_sky130",
+        "description": "CMOS Inverter Design, Analysis and Layout in SKY130",
+        "owner": "SkillSurf",
+        "stars": 2,
+        "forks": 1,
+        "size": 2272,
+        "created": "2024-06-28T18:39:32+00:00",
+        "updated": "2024-07-14T17:31:53+00:00",
+        "pushed": "2024-07-14T17:31:49+00:00",
+        "url": "https://github.com/SkillSurf/cmos_inverter_sky130",
+        "id": 821526364
+    },
+    {
+        "repo": "NASSCOM-VSD-SoC-design-Program",
+        "description": null,
+        "owner": "AbhishekChowdhury1312",
+        "stars": 0,
+        "forks": 0,
+        "size": 12,
+        "created": "2024-07-10T15:22:37+00:00",
+        "updated": "2024-07-14T16:54:44+00:00",
+        "pushed": "2024-07-14T16:54:41+00:00",
+        "url": "https://github.com/AbhishekChowdhury1312/NASSCOM-VSD-SoC-design-Program",
+        "id": 826887947
+    },
+    {
+        "repo": "fifty-nifty-2Tr_sky130",
+        "description": "Circuit examples in sky130 for \"fifty nifty variations of two-transistor circuits\"",
+        "owner": "atuchiya",
+        "stars": 0,
+        "forks": 0,
+        "size": 15,
+        "created": "2024-06-26T13:29:41+00:00",
+        "updated": "2024-07-14T13:33:30+00:00",
+        "pushed": "2024-07-14T13:33:26+00:00",
+        "url": "https://github.com/atuchiya/fifty-nifty-2Tr_sky130",
+        "id": 820443352
+    },
+    {
+        "repo": "Physical_design",
+        "description": null,
+        "owner": "gaurang-2626",
+        "stars": 0,
+        "forks": 0,
+        "size": 7226,
+        "created": "2024-07-10T15:26:32+00:00",
+        "updated": "2024-07-14T11:10:35+00:00",
+        "pushed": "2024-07-14T11:10:32+00:00",
+        "url": "https://github.com/gaurang-2626/Physical_design",
+        "id": 826889644
+    },
+    {
+        "repo": "Balakrishna-RK",
+        "description": "Config files for my GitHub profile.",
+        "owner": "Balakrishna-RK",
+        "stars": 0,
+        "forks": 0,
+        "size": 7835,
+        "created": "2024-06-27T17:28:45+00:00",
+        "updated": "2024-07-14T18:24:59+00:00",
+        "pushed": "2024-07-14T18:24:56+00:00",
+        "url": "https://github.com/Balakrishna-RK/Balakrishna-RK",
+        "id": 821040344
+    },
+    {
+        "repo": "VSD-SOC-Design",
+        "description": "Documentation for the NASSCOM-VSD-SOC Program",
+        "owner": "rustymemristor",
+        "stars": 0,
+        "forks": 0,
+        "size": 11037,
+        "created": "2024-07-10T15:36:29+00:00",
+        "updated": "2024-07-14T13:45:48+00:00",
+        "pushed": "2024-07-14T13:45:45+00:00",
+        "url": "https://github.com/rustymemristor/VSD-SOC-Design",
+        "id": 826894032
+    },
+    {
+        "repo": "tt_um_aschrein_asic_0",
+        "description": null,
+        "owner": "aschrein",
+        "stars": 0,
+        "forks": 0,
+        "size": 12,
+        "created": "2024-07-14T17:59:55+00:00",
+        "updated": "2024-07-14T21:09:50+00:00",
+        "pushed": "2024-07-14T21:09:46+00:00",
+        "url": "https://github.com/aschrein/tt_um_aschrein_asic_0",
+        "id": 828627704
+    },
+    {
+        "repo": "vc32",
+        "description": null,
+        "owner": "MoonbaseOtago",
+        "stars": 0,
+        "forks": 0,
+        "size": 152,
+        "created": "2024-02-20T07:09:57+00:00",
+        "updated": "2024-07-15T02:25:44+00:00",
+        "pushed": "2024-07-15T02:25:41+00:00",
+        "url": "https://github.com/MoonbaseOtago/vc32",
+        "id": 760308039
+    },
+    {
+        "repo": "tt08-tsal",
+        "description": null,
+        "owner": "ephrenm",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2024-07-08T02:04:37+00:00",
+        "updated": "2024-07-15T01:25:05+00:00",
+        "pushed": "2024-07-15T01:25:02+00:00",
+        "url": "https://github.com/ephrenm/tt08-tsal",
+        "id": 825520690
+    },
+    {
+        "repo": "repVF",
+        "description": "[ECCV 2024] Official implementation for \"RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception\"",
+        "owner": "jbji",
+        "stars": 1,
+        "forks": 0,
+        "size": 1,
+        "created": "2024-07-07T04:30:22+00:00",
+        "updated": "2024-07-15T02:00:41+00:00",
+        "pushed": "2024-07-14T13:32:03+00:00",
+        "url": "https://github.com/jbji/repVF",
+        "id": 825192827
+    },
+    {
+        "repo": "Hardware-Design",
+        "description": "Hardware Design",
+        "owner": "SRINETHIR",
+        "stars": 0,
+        "forks": 0,
+        "size": 90781,
+        "created": "2024-06-01T13:22:45+00:00",
+        "updated": "2024-07-14T14:07:27+00:00",
+        "pushed": "2024-07-14T14:07:24+00:00",
+        "url": "https://github.com/SRINETHIR/Hardware-Design",
+        "id": 809024807
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 1,
+        "forks": 0,
+        "size": 1656,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-07-15T04:38:41+00:00",
+        "pushed": "2024-07-15T04:38:38+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 10642,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-07-15T01:48:48+00:00",
+        "pushed": "2024-07-15T01:48:45+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "tech-andgar",
         "stars": 11,
         "forks": 0,
-        "size": 19388,
+        "size": 19660,
         "created": "2020-11-09T02:22:44+00:00",
-        "updated": "2024-07-14T00:50:52+00:00",
-        "pushed": "2024-07-14T00:50:48+00:00",
+        "updated": "2024-07-15T00:50:41+00:00",
+        "pushed": "2024-07-15T00:50:38+00:00",
         "url": "https://github.com/tech-andgar/awesome-stars",
         "id": 311201466
     }
