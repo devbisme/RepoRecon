@@ -5291,19 +5291,6 @@
         "id": 342916296
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41333,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-07-11T21:58:48+00:00",
-        "pushed": "2024-07-11T21:58:45+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -5328,5 +5315,18 @@
         "pushed": "2024-07-15T12:53:14+00:00",
         "url": "https://github.com/alexforencich/verilog-i2c",
         "id": 19449788
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41339,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-07-19T01:41:07+00:00",
+        "pushed": "2024-07-19T01:41:04+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
     }
 ]

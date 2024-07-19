@@ -12311,19 +12311,6 @@
         "id": 464657430
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 24,
-        "forks": 2,
-        "size": 6446,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-07-02T15:32:18+00:00",
-        "pushed": "2024-07-02T11:19:27+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "FazyRV",
         "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
         "owner": "meiniKi",
@@ -12348,19 +12335,6 @@
         "pushed": "2024-07-04T18:40:18+00:00",
         "url": "https://github.com/JesusMuentes/litex-apps",
         "id": 793871326
-    },
-    {
-        "repo": "litex_hw_ci",
-        "description": "LiteX Hardware CI tests.",
-        "owner": "enjoy-digital",
-        "stars": 7,
-        "forks": 1,
-        "size": 1693,
-        "created": "2024-01-17T07:17:44+00:00",
-        "updated": "2024-07-05T14:26:08+00:00",
-        "pushed": "2024-07-05T14:26:04+00:00",
-        "url": "https://github.com/enjoy-digital/litex_hw_ci",
-        "id": 744379987
     },
     {
         "repo": "serv",
@@ -12545,19 +12519,6 @@
         "id": 214885817
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2790,
-        "forks": 539,
-        "size": 17158,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-07-12T21:48:36+00:00",
-        "pushed": "2024-07-12T15:29:45+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12621,19 +12582,6 @@
         "pushed": "2024-07-12T23:21:55+00:00",
         "url": "https://github.com/Rajnesh28/linux-on-litex-cva5",
         "id": 806660960
-    },
-    {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 5,
-        "forks": 0,
-        "size": 331,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2024-07-12T07:41:52+00:00",
-        "pushed": "2024-07-12T07:41:49+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
     },
     {
         "repo": "LiteXP",
@@ -12714,19 +12662,6 @@
         "id": 128534747
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1503,
-        "forks": 208,
-        "size": 208878,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-15T19:18:02+00:00",
-        "pushed": "2024-07-15T19:19:25+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litehm2",
         "description": "LinuxCNC FPGA board port to LiteX",
         "owner": "sensille",
@@ -12805,19 +12740,6 @@
         "id": 434342707
     },
     {
-        "repo": "litex_openwrt_test",
-        "description": "Test of OpenWRT on LiteX SoCs.",
-        "owner": "enjoy-digital",
-        "stars": 0,
-        "forks": 0,
-        "size": 229161,
-        "created": "2024-07-15T06:52:35+00:00",
-        "updated": "2024-07-15T15:31:52+00:00",
-        "pushed": "2024-07-17T05:38:10+00:00",
-        "url": "https://github.com/enjoy-digital/litex_openwrt_test",
-        "id": 828802786
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -12831,19 +12753,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 742,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-16T12:22:10+00:00",
-        "pushed": "2024-07-18T01:55:08+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12855,19 +12764,6 @@
         "pushed": "2024-07-18T02:17:24+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 52,
-        "forks": 21,
-        "size": 714,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2024-07-17T17:07:14+00:00",
-        "pushed": "2024-07-17T17:07:10+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
     },
     {
         "repo": "NaxRiscv",
@@ -12961,15 +12857,119 @@
         "id": 658631896
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2803,
+        "forks": 541,
+        "size": 17165,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-07-18T14:23:23+00:00",
+        "pushed": "2024-07-18T10:16:29+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 743,
+        "forks": 67,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-18T15:58:28+00:00",
+        "pushed": "2024-07-19T02:02:35+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 52,
+        "forks": 21,
+        "size": 729,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2024-07-18T16:53:07+00:00",
+        "pushed": "2024-07-18T16:53:03+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1506,
+        "forks": 208,
+        "size": 208902,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-19T01:30:03+00:00",
+        "pushed": "2024-07-18T20:56:10+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 24,
+        "forks": 2,
+        "size": 6449,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-07-18T20:21:12+00:00",
+        "pushed": "2024-07-18T20:21:09+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "litex_hw_ci",
+        "description": "LiteX Hardware CI tests.",
+        "owner": "enjoy-digital",
+        "stars": 8,
+        "forks": 1,
+        "size": 1698,
+        "created": "2024-01-17T07:17:44+00:00",
+        "updated": "2024-07-19T04:08:18+00:00",
+        "pushed": "2024-07-18T14:06:23+00:00",
+        "url": "https://github.com/enjoy-digital/litex_hw_ci",
+        "id": 744379987
+    },
+    {
+        "repo": "litex_openwrt_test",
+        "description": "Test of OpenWRT on LiteX SoCs.",
+        "owner": "enjoy-digital",
+        "stars": 1,
+        "forks": 0,
+        "size": 229193,
+        "created": "2024-07-15T06:52:35+00:00",
+        "updated": "2024-07-17T13:34:14+00:00",
+        "pushed": "2024-07-18T15:54:05+00:00",
+        "url": "https://github.com/enjoy-digital/litex_openwrt_test",
+        "id": 828802786
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 5,
+        "forks": 0,
+        "size": 334,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2024-07-18T12:54:25+00:00",
+        "pushed": "2024-07-18T12:54:22+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1109,
+        "size": 1111,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-18T04:38:29+00:00",
-        "pushed": "2024-07-18T04:38:26+00:00",
+        "updated": "2024-07-19T04:38:29+00:00",
+        "pushed": "2024-07-19T04:38:26+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12979,10 +12979,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 64018,
+        "size": 64466,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-18T03:27:54+00:00",
-        "pushed": "2024-07-18T03:27:51+00:00",
+        "updated": "2024-07-19T03:27:37+00:00",
+        "pushed": "2024-07-19T03:27:34+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
