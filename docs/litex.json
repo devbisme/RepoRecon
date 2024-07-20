@@ -12324,19 +12324,6 @@
         "id": 760114130
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 16,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2024-07-04T18:40:21+00:00",
-        "pushed": "2024-07-04T18:40:18+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -12688,19 +12675,6 @@
         "id": 564480301
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 28,
-        "forks": 1,
-        "size": 34340,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-07-15T23:31:12+00:00",
-        "pushed": "2024-07-15T23:31:09+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "renode-models-analyzer",
         "description": null,
         "owner": "antmicro",
@@ -12714,19 +12688,6 @@
         "id": 659573875
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 23740,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-16T01:06:42+00:00",
-        "pushed": "2024-07-16T01:06:38+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -12738,19 +12699,6 @@
         "pushed": "2024-07-16T17:26:07+00:00",
         "url": "https://github.com/beryllium-org/OS",
         "id": 434342707
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 360,
-        "forks": 276,
-        "size": 4213,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-07-17T13:15:01+00:00",
-        "pushed": "2024-07-17T13:14:57+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "CFU-Playground",
@@ -12792,32 +12740,6 @@
         "id": 277833446
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 33,
-        "forks": 13,
-        "size": 36056,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-07-17T14:01:19+00:00",
-        "pushed": "2024-07-17T14:13:47+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 43,
-        "forks": 17,
-        "size": 119906,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-07-18T02:05:32+00:00",
-        "pushed": "2024-07-18T04:08:05+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "eurorack-pmod",
         "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
         "owner": "apfelaudio",
@@ -12844,45 +12766,6 @@
         "id": 84366787
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 24,
-        "forks": 1,
-        "size": 2489,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-07-06T08:51:46+00:00",
-        "pushed": "2024-07-18T00:13:04+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2803,
-        "forks": 541,
-        "size": 17165,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-07-18T14:23:23+00:00",
-        "pushed": "2024-07-18T10:16:29+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 743,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-18T15:58:28+00:00",
-        "pushed": "2024-07-19T02:02:35+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -12894,32 +12777,6 @@
         "pushed": "2024-07-18T16:53:03+00:00",
         "url": "https://github.com/enjoy-digital/liteiclink",
         "id": 109838222
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1506,
-        "forks": 208,
-        "size": 208902,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-19T01:30:03+00:00",
-        "pushed": "2024-07-18T20:56:10+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 24,
-        "forks": 2,
-        "size": 6449,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-07-18T20:21:12+00:00",
-        "pushed": "2024-07-18T20:21:09+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "litex_hw_ci",
@@ -12935,19 +12792,6 @@
         "id": 744379987
     },
     {
-        "repo": "litex_openwrt_test",
-        "description": "Test of OpenWRT on LiteX SoCs.",
-        "owner": "enjoy-digital",
-        "stars": 1,
-        "forks": 0,
-        "size": 229193,
-        "created": "2024-07-15T06:52:35+00:00",
-        "updated": "2024-07-17T13:34:14+00:00",
-        "pushed": "2024-07-18T15:54:05+00:00",
-        "url": "https://github.com/enjoy-digital/litex_openwrt_test",
-        "id": 828802786
-    },
-    {
         "repo": "streams",
         "description": "Streams library for Amaranth",
         "owner": "DaveBerkeley",
@@ -12961,17 +12805,173 @@
         "id": 615816156
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2805,
+        "forks": 542,
+        "size": 17165,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-07-19T17:40:55+00:00",
+        "pushed": "2024-07-20T05:57:49+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 360,
+        "forks": 276,
+        "size": 4154,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-07-19T13:43:49+00:00",
+        "pushed": "2024-07-19T13:43:45+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 743,
+        "forks": 67,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-18T15:58:28+00:00",
+        "pushed": "2024-07-20T02:01:24+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1506,
+        "forks": 208,
+        "size": 209086,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-19T18:53:44+00:00",
+        "pushed": "2024-07-19T19:41:25+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 24,
+        "forks": 2,
+        "size": 6452,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-07-19T13:38:22+00:00",
+        "pushed": "2024-07-19T13:38:19+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 33,
+        "forks": 13,
+        "size": 36058,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-07-17T14:01:19+00:00",
+        "pushed": "2024-07-19T13:13:05+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 43,
+        "forks": 17,
+        "size": 115826,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-07-19T17:31:04+00:00",
+        "pushed": "2024-07-19T17:31:03+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 30,
+        "forks": 1,
+        "size": 34447,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-07-19T22:10:50+00:00",
+        "pushed": "2024-07-19T22:10:47+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2024-07-19T15:56:29+00:00",
+        "pushed": "2024-07-19T15:56:25+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
+        "repo": "litex_openwrt_test",
+        "description": "Test of OpenWRT on LiteX SoCs.",
+        "owner": "enjoy-digital",
+        "stars": 1,
+        "forks": 0,
+        "size": 229197,
+        "created": "2024-07-15T06:52:35+00:00",
+        "updated": "2024-07-17T13:34:14+00:00",
+        "pushed": "2024-07-19T15:03:53+00:00",
+        "url": "https://github.com/enjoy-digital/litex_openwrt_test",
+        "id": 828802786
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 23,
+        "forks": 1,
+        "size": 2489,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-07-18T18:04:13+00:00",
+        "pushed": "2024-07-20T00:12:41+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 1,
         "forks": 0,
-        "size": 1111,
+        "size": 1187,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-19T04:38:29+00:00",
-        "pushed": "2024-07-19T04:38:26+00:00",
+        "updated": "2024-07-20T04:37:50+00:00",
+        "pushed": "2024-07-20T04:37:47+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 24219,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-07-20T00:57:31+00:00",
+        "pushed": "2024-07-20T00:57:28+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -12979,10 +12979,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 64466,
+        "size": 64911,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-19T03:27:37+00:00",
-        "pushed": "2024-07-19T03:27:34+00:00",
+        "updated": "2024-07-20T03:24:58+00:00",
+        "pushed": "2024-07-20T03:24:55+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

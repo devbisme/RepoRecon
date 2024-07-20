@@ -1495,32 +1495,6 @@
         "id": 75402926
     },
     {
-        "repo": "Morty",
-        "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
-        "owner": "HermiTech-LLC",
-        "stars": 2,
-        "forks": 1,
-        "size": 1043,
-        "created": "2024-07-07T12:56:24+00:00",
-        "updated": "2024-07-16T02:40:21+00:00",
-        "pushed": "2024-07-16T02:40:17+00:00",
-        "url": "https://github.com/HermiTech-LLC/Morty",
-        "id": 825318614
-    },
-    {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 997,
-        "forks": 118,
-        "size": 38792,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2024-07-18T00:45:20+00:00",
-        "pushed": "2024-07-17T11:23:40+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "stahlnow",
@@ -1534,16 +1508,55 @@
         "id": 768320430
     },
     {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1001,
+        "forks": 118,
+        "size": 40402,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2024-07-20T03:11:40+00:00",
+        "pushed": "2024-07-19T13:36:04+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
         "repo": "kicad-kbplacer",
         "description": "KiCad plugin for automatic keyboard's key placement and routing",
         "owner": "adamws",
         "stars": 310,
         "forks": 23,
-        "size": 13820,
+        "size": 13965,
         "created": "2020-04-10T22:24:09+00:00",
         "updated": "2024-07-18T18:40:36+00:00",
-        "pushed": "2024-07-18T19:34:59+00:00",
+        "pushed": "2024-07-19T19:55:07+00:00",
         "url": "https://github.com/adamws/kicad-kbplacer",
         "id": 254747856
+    },
+    {
+        "repo": "Morty",
+        "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
+        "owner": "HermiTech-LLC",
+        "stars": 2,
+        "forks": 1,
+        "size": 1054,
+        "created": "2024-07-07T12:56:24+00:00",
+        "updated": "2024-07-19T20:57:11+00:00",
+        "pushed": "2024-07-19T20:57:07+00:00",
+        "url": "https://github.com/HermiTech-LLC/Morty",
+        "id": 825318614
+    },
+    {
+        "repo": "skidler-",
+        "description": null,
+        "owner": "John142-dot",
+        "stars": 0,
+        "forks": 0,
+        "size": 15,
+        "created": "2024-07-19T14:44:45+00:00",
+        "updated": "2024-07-19T15:10:51+00:00",
+        "pushed": "2024-07-19T15:10:47+00:00",
+        "url": "https://github.com/John142-dot/skidler-",
+        "id": 831050890
     }
 ]
