@@ -1508,32 +1508,6 @@
         "id": 768320430
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1001,
-        "forks": 118,
-        "size": 40402,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2024-07-20T03:11:40+00:00",
-        "pushed": "2024-07-19T13:36:04+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 310,
-        "forks": 23,
-        "size": 13965,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-07-18T18:40:36+00:00",
-        "pushed": "2024-07-19T19:55:07+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "Morty",
         "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
         "owner": "HermiTech-LLC",
@@ -1558,5 +1532,31 @@
         "pushed": "2024-07-19T15:10:47+00:00",
         "url": "https://github.com/John142-dot/skidler-",
         "id": 831050890
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1001,
+        "forks": 118,
+        "size": 40488,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2024-07-20T03:11:40+00:00",
+        "pushed": "2024-07-20T16:57:05+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 311,
+        "forks": 23,
+        "size": 13995,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-07-20T16:56:27+00:00",
+        "pushed": "2024-07-20T17:10:01+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
     }
 ]
