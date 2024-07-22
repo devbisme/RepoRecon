@@ -36803,19 +36803,6 @@
         "id": 557131050
     },
     {
-        "repo": "micropython-ulab",
-        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
-        "owner": "v923z",
-        "stars": 389,
-        "forks": 104,
-        "size": 3386,
-        "created": "2019-08-30T15:33:30+00:00",
-        "updated": "2024-06-06T19:54:29+00:00",
-        "pushed": "2024-06-06T19:54:24+00:00",
-        "url": "https://github.com/v923z/micropython-ulab",
-        "id": 205409848
-    },
-    {
         "repo": "AVH-TinyMaix",
         "description": "This is a project that ports TinyMaix to the AVH platform, based on the MQTT IoT example program.",
         "owner": "alphazcc",
@@ -37310,19 +37297,6 @@
         "id": 820349821
     },
     {
-        "repo": "quasiSoC",
-        "description": "Linux capable RISC-V SoC designed to be readable and useful. ",
-        "owner": "regymm",
-        "stars": 97,
-        "forks": 6,
-        "size": 9819,
-        "created": "2021-10-17T07:43:51+00:00",
-        "updated": "2024-06-27T12:57:33+00:00",
-        "pushed": "2024-06-27T12:57:07+00:00",
-        "url": "https://github.com/regymm/quasiSoC",
-        "id": 418056913
-    },
-    {
         "repo": "canmv_examples",
         "description": " canmv examples",
         "owner": "kendryte",
@@ -37555,19 +37529,6 @@
         "pushed": "2024-07-07T05:13:00+00:00",
         "url": "https://github.com/Locust-july/K210",
         "id": 825196423
-    },
-    {
-        "repo": "support-matrix",
-        "description": "RISCV Board and OS Supported Matrix",
-        "owner": "ruyisdk",
-        "stars": 3,
-        "forks": 8,
-        "size": 27709,
-        "created": "2024-03-12T01:34:58+00:00",
-        "updated": "2024-07-09T03:56:06+00:00",
-        "pushed": "2024-07-09T03:56:03+00:00",
-        "url": "https://github.com/ruyisdk/support-matrix",
-        "id": 770690133
     },
     {
         "repo": "k230_canmv_docs",
@@ -38116,19 +38077,6 @@
         "id": 188584527
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 4,
-        "forks": 2,
-        "size": 20904,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-07-19T04:36:39+00:00",
-        "pushed": "2024-07-19T04:36:35+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "Ship_detect",
         "description": null,
         "owner": "Shardul774",
@@ -38155,19 +38103,6 @@
         "id": 830848249
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 707,
-        "forks": 180,
-        "size": 58794,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-07-17T16:19:56+00:00",
-        "pushed": "2024-07-19T09:53:51+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv",
         "description": null,
         "owner": "kendryte",
@@ -38179,19 +38114,6 @@
         "pushed": "2024-07-20T00:39:51+00:00",
         "url": "https://github.com/kendryte/canmv",
         "id": 558742270
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 151,
-        "forks": 29,
-        "size": 155378,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-07-18T02:37:11+00:00",
-        "pushed": "2024-07-19T08:41:42+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "k230_canmv",
@@ -38233,19 +38155,6 @@
         "id": 829332301
     },
     {
-        "repo": "maixuanhan.github.io",
-        "description": "My development note",
-        "owner": "maixuanhan",
-        "stars": 0,
-        "forks": 0,
-        "size": 18,
-        "created": "2023-05-14T04:11:25+00:00",
-        "updated": "2024-07-19T14:17:31+00:00",
-        "pushed": "2024-07-19T14:17:27+00:00",
-        "url": "https://github.com/maixuanhan/maixuanhan.github.io",
-        "id": 640431765
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -38270,19 +38179,6 @@
         "pushed": "2024-07-20T11:42:17+00:00",
         "url": "https://github.com/sipeed/MaixCDK",
         "id": 733722162
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10076,
-        "forks": 4919,
-        "size": 867091,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-07-21T05:29:47+00:00",
-        "pushed": "2024-07-20T09:30:56+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "maix_dock_mnist",
@@ -38324,15 +38220,119 @@
         "id": 831399161
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 707,
+        "forks": 180,
+        "size": 58798,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-07-17T16:19:56+00:00",
+        "pushed": "2024-07-22T05:47:50+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "support-matrix",
+        "description": "RISCV Board and OS Supported Matrix",
+        "owner": "ruyisdk",
+        "stars": 6,
+        "forks": 8,
+        "size": 27725,
+        "created": "2024-03-12T01:34:58+00:00",
+        "updated": "2024-07-22T05:10:24+00:00",
+        "pushed": "2024-07-22T05:10:20+00:00",
+        "url": "https://github.com/ruyisdk/support-matrix",
+        "id": 770690133
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 152,
+        "forks": 29,
+        "size": 155378,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-07-20T18:35:46+00:00",
+        "pushed": "2024-07-21T21:16:43+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10080,
+        "forks": 4922,
+        "size": 867083,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-07-22T03:55:16+00:00",
+        "pushed": "2024-07-22T05:58:16+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 5,
+        "forks": 2,
+        "size": 20935,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-07-22T04:39:31+00:00",
+        "pushed": "2024-07-22T04:39:27+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "micropython-ulab",
+        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
+        "owner": "v923z",
+        "stars": 392,
+        "forks": 110,
+        "size": 3423,
+        "created": "2019-08-30T15:33:30+00:00",
+        "updated": "2024-07-21T11:20:22+00:00",
+        "pushed": "2024-07-21T11:20:18+00:00",
+        "url": "https://github.com/v923z/micropython-ulab",
+        "id": 205409848
+    },
+    {
+        "repo": "quasiSoC",
+        "description": "Linux capable RISC-V SoC designed to be readable and useful. ",
+        "owner": "regymm",
+        "stars": 110,
+        "forks": 8,
+        "size": 10132,
+        "created": "2021-10-17T07:43:51+00:00",
+        "updated": "2024-07-21T21:09:29+00:00",
+        "pushed": "2024-07-21T10:26:57+00:00",
+        "url": "https://github.com/regymm/quasiSoC",
+        "id": 418056913
+    },
+    {
+        "repo": "maixuanhan.github.io",
+        "description": "My development note",
+        "owner": "maixuanhan",
+        "stars": 0,
+        "forks": 0,
+        "size": 18,
+        "created": "2023-05-14T04:11:25+00:00",
+        "updated": "2024-07-22T06:01:29+00:00",
+        "pushed": "2024-07-22T06:01:26+00:00",
+        "url": "https://github.com/maixuanhan/maixuanhan.github.io",
+        "id": 640431765
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 1803,
+        "size": 2268,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-21T01:53:20+00:00",
-        "pushed": "2024-07-21T01:53:17+00:00",
+        "updated": "2024-07-22T01:50:57+00:00",
+        "pushed": "2024-07-22T01:50:53+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38342,10 +38342,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 2804,
+        "size": 2957,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-21T01:50:17+00:00",
-        "pushed": "2024-07-21T01:50:14+00:00",
+        "updated": "2024-07-22T01:47:38+00:00",
+        "pushed": "2024-07-22T01:47:35+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38355,10 +38355,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 726437,
+        "size": 726439,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-07-20T12:25:21+00:00",
-        "pushed": "2024-07-20T12:25:17+00:00",
+        "updated": "2024-07-21T12:26:28+00:00",
+        "pushed": "2024-07-21T12:26:25+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -38371,7 +38371,7 @@
         "size": 252,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-07-17T06:40:45+00:00",
-        "pushed": "2024-07-21T00:14:24+00:00",
+        "pushed": "2024-07-22T00:13:31+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

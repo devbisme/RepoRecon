@@ -12402,19 +12402,6 @@
         "id": 183392076
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 658,
-        "forks": 148,
-        "size": 657715,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-07-10T01:39:08+00:00",
-        "pushed": "2024-07-10T01:39:05+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "CVA5_PLIC",
         "description": "Priority Level Interrupt Controller for CVA5 CPU. Tested on Litex.",
         "owner": "mohammadshahidzade",
@@ -12792,19 +12779,6 @@
         "id": 468027705
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 30,
-        "forks": 1,
-        "size": 34447,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-07-19T22:10:50+00:00",
-        "pushed": "2024-07-19T22:10:47+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "litex-apps",
         "description": null,
         "owner": "JesusMuentes",
@@ -12855,32 +12829,6 @@
         "pushed": "2024-07-21T05:19:19+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 743,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-18T15:58:28+00:00",
-        "pushed": "2024-07-21T02:07:31+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1506,
-        "forks": 209,
-        "size": 208896,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-20T20:04:11+00:00",
-        "pushed": "2024-07-20T20:05:21+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "litex_m2sdr",
@@ -12961,6 +12909,58 @@
         "id": 237940918
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 743,
+        "forks": 67,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-18T15:58:28+00:00",
+        "pushed": "2024-07-22T01:55:56+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 664,
+        "forks": 149,
+        "size": 657887,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-07-21T20:15:25+00:00",
+        "pushed": "2024-07-21T20:15:22+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1507,
+        "forks": 209,
+        "size": 209508,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-22T04:11:24+00:00",
+        "pushed": "2024-07-21T17:15:57+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 34,
+        "forks": 1,
+        "size": 66363,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-07-21T15:45:19+00:00",
+        "pushed": "2024-07-21T22:06:14+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -12969,7 +12969,7 @@
         "size": 2489,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-07-18T18:04:13+00:00",
-        "pushed": "2024-07-21T00:14:07+00:00",
+        "pushed": "2024-07-22T00:13:29+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -12979,10 +12979,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1188,
+        "size": 1265,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-21T04:36:28+00:00",
-        "pushed": "2024-07-21T04:36:25+00:00",
+        "updated": "2024-07-22T04:37:42+00:00",
+        "pushed": "2024-07-22T04:37:40+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12992,10 +12992,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 65367,
+        "size": 65826,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-21T03:25:01+00:00",
-        "pushed": "2024-07-21T03:24:58+00:00",
+        "updated": "2024-07-22T03:26:05+00:00",
+        "pushed": "2024-07-22T03:26:02+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
