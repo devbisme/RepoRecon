@@ -5200,19 +5200,6 @@
         "id": 360750527
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13997,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-07-05T18:22:24+00:00",
-        "pushed": "2024-07-05T18:19:17+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "awesome-hpc-cuda-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public High Performance Computing (HPC), NVIDIA CUDA, cuBLAS, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
@@ -5250,19 +5237,6 @@
         "pushed": "2024-07-08T15:37:17+00:00",
         "url": "https://github.com/codingonion/awesome-fpga",
         "id": 825835602
-    },
-    {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 8,
-        "forks": 3,
-        "size": 823,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2024-07-10T10:22:21+00:00",
-        "pushed": "2024-07-10T10:22:16+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
     },
     {
         "repo": "ASIC-Design-Roadmap",
@@ -5328,5 +5302,31 @@
         "pushed": "2024-07-19T14:04:46+00:00",
         "url": "https://github.com/Safa-Taha/MyHDLWorkshop",
         "id": 784301828
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 8,
+        "forks": 3,
+        "size": 675,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2024-07-22T15:22:55+00:00",
+        "pushed": "2024-07-22T15:22:50+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14041,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-07-22T11:02:06+00:00",
+        "pushed": "2024-07-22T11:02:03+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]
