@@ -51870,19 +51870,6 @@
         "id": 709843590
     },
     {
-        "repo": "tt-size-exploration",
-        "description": null,
-        "owner": "gfg-development",
-        "stars": 0,
-        "forks": 0,
-        "size": 40,
-        "created": "2023-10-25T15:24:23Z",
-        "updated": "2023-10-25T15:24:29Z",
-        "pushed": "2023-10-26T10:54:49Z",
-        "url": "https://github.com/gfg-development/tt-size-exploration",
-        "id": 709882164
-    },
-    {
         "repo": "TinyTapeout",
         "description": null,
         "owner": "Username123-coder",
@@ -53857,19 +53844,6 @@
         "pushed": "2023-11-04T19:35:47+00:00",
         "url": "https://github.com/bignug13/Tapeout",
         "id": 714071153
-    },
-    {
-        "repo": "tt05-alu",
-        "description": "Simple ALU which will be used in lecture for demonstration purposes",
-        "owner": "CEJMU",
-        "stars": 0,
-        "forks": 0,
-        "size": 204,
-        "created": "2023-10-30T14:31:43+00:00",
-        "updated": "2023-11-01T17:36:01+00:00",
-        "pushed": "2023-11-04T19:18:33+00:00",
-        "url": "https://github.com/CEJMU/tt05-alu",
-        "id": 711967392
     },
     {
         "repo": "TapeOut",
@@ -74243,19 +74217,6 @@
         "id": 807582309
     },
     {
-        "repo": "caravel",
-        "description": "Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.",
-        "owner": "efabless",
-        "stars": 257,
-        "forks": 63,
-        "size": 14813573,
-        "created": "2021-10-07T18:32:22+00:00",
-        "updated": "2024-05-30T21:37:07+00:00",
-        "pushed": "2024-05-30T21:51:50+00:00",
-        "url": "https://github.com/efabless/caravel",
-        "id": 414716046
-    },
-    {
         "repo": "mpw_precheck",
         "description": null,
         "owner": "efabless",
@@ -78130,19 +78091,6 @@
         "id": 208153462
     },
     {
-        "repo": "ioplace_parser",
-        "description": "Antlr4-based parser for the input files to OpenLane custom IO placers.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 42,
-        "created": "2023-10-31T21:37:19+00:00",
-        "updated": "2024-07-01T12:30:53+00:00",
-        "pushed": "2024-07-01T12:32:06+00:00",
-        "url": "https://github.com/efabless/ioplace_parser",
-        "id": 712633983
-    },
-    {
         "repo": "tinytapeoutevesauce",
         "description": null,
         "owner": "evesauce",
@@ -78481,19 +78429,6 @@
         "id": 768699273
     },
     {
-        "repo": "open_pdks",
-        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
-        "owner": "RTimothyEdwards",
-        "stars": 263,
-        "forks": 85,
-        "size": 17855,
-        "created": "2020-07-05T19:46:38+00:00",
-        "updated": "2024-07-05T07:00:07+00:00",
-        "pushed": "2024-07-05T07:00:03+00:00",
-        "url": "https://github.com/RTimothyEdwards/open_pdks",
-        "id": 277372282
-    },
-    {
         "repo": "bwrap_devshell",
         "description": "Tarball a @numtide/devshell and bubblewrap it",
         "owner": "efabless",
@@ -78791,19 +78726,6 @@
         "pushed": "2024-07-07T21:09:00+00:00",
         "url": "https://github.com/Lmraylson26/Be-Mobile-API",
         "id": 822772850
-    },
-    {
-        "repo": "OpenFASOC",
-        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
-        "owner": "idea-fasoc",
-        "stars": 218,
-        "forks": 93,
-        "size": 419115,
-        "created": "2021-03-24T16:30:14+00:00",
-        "updated": "2024-07-06T16:04:13+00:00",
-        "pushed": "2024-07-08T21:57:50+00:00",
-        "url": "https://github.com/idea-fasoc/OpenFASOC",
-        "id": 351150248
     },
     {
         "repo": "tkvms",
@@ -80093,19 +80015,6 @@
         "id": 802642624
     },
     {
-        "repo": "wsl_osic",
-        "description": "SKY130 / GF180MCU / OpenRule1umPDK development tools for Ubuntu 22 (WSL2) ",
-        "owner": "3zki",
-        "stars": 0,
-        "forks": 0,
-        "size": 1212,
-        "created": "2024-03-18T18:55:25+00:00",
-        "updated": "2024-07-17T18:00:45+00:00",
-        "pushed": "2024-07-17T18:00:42+00:00",
-        "url": "https://github.com/3zki/wsl_osic",
-        "id": 773993461
-    },
-    {
         "repo": "rethink-about-nvdla",
         "description": null,
         "owner": "redpanda3",
@@ -80169,19 +80078,6 @@
         "pushed": "2024-07-18T04:38:18+00:00",
         "url": "https://github.com/puxina/Open-VLSI",
         "id": 825854794
-    },
-    {
-        "repo": "OpenLane",
-        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1264,
-        "forks": 369,
-        "size": 873991,
-        "created": "2020-07-20T19:35:02+00:00",
-        "updated": "2024-07-18T12:55:04+00:00",
-        "pushed": "2024-07-19T01:22:17+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
-        "id": 281208911
     },
     {
         "repo": "foss-asic-tools",
@@ -80444,19 +80340,6 @@
         "id": 805010886
     },
     {
-        "repo": "hack_cpu",
-        "description": "A hardware description of a CPU based on the HACK architecture",
-        "owner": "bugavix",
-        "stars": 0,
-        "forks": 0,
-        "size": 224,
-        "created": "2024-06-14T09:32:56+00:00",
-        "updated": "2024-07-19T13:49:29+00:00",
-        "pushed": "2024-07-19T13:49:26+00:00",
-        "url": "https://github.com/bugavix/hack_cpu",
-        "id": 815069639
-    },
-    {
         "repo": "sky130_7bit_ADC",
         "description": "Fully differential segmented split  7bit capacitive charge redistribution array SAR ADC",
         "owner": "1f7p2g3a",
@@ -80559,19 +80442,6 @@
         "pushed": "2024-07-20T14:50:23+00:00",
         "url": "https://github.com/Balakrishna-RK/Balakrishna-RK",
         "id": 821040344
-    },
-    {
-        "repo": "awesome-and-novel-works-in-slam",
-        "description": "collecting some new ideas for slam (semantic, NeRF, BEV, Nav, Learning Methods) and will update this repo weekly, for both engineering and academic usings.",
-        "owner": "runjtu",
-        "stars": 22,
-        "forks": 2,
-        "size": 166,
-        "created": "2023-08-10T05:21:09+00:00",
-        "updated": "2024-07-21T06:02:55+00:00",
-        "pushed": "2024-07-21T06:02:52+00:00",
-        "url": "https://github.com/runjtu/awesome-and-novel-works-in-slam",
-        "id": 676825917
     },
     {
         "repo": "tt-hdl-test",
@@ -80704,19 +80574,6 @@
         "id": 791616546
     },
     {
-        "repo": "VSD-SOC-Design",
-        "description": "Documentation for the NASSCOM-VSD-SOC Program",
-        "owner": "rustymemristor",
-        "stars": 0,
-        "forks": 0,
-        "size": 47468,
-        "created": "2024-07-10T15:36:29+00:00",
-        "updated": "2024-07-22T05:22:53+00:00",
-        "pushed": "2024-07-22T05:21:46+00:00",
-        "url": "https://github.com/rustymemristor/VSD-SOC-Design",
-        "id": 826894032
-    },
-    {
         "repo": "RRAM-memory-2409",
         "description": "Memory using sky130 RRAM",
         "owner": "YongukSim",
@@ -80845,32 +80702,6 @@
         "pushed": "2024-07-22T20:09:50+00:00",
         "url": "https://github.com/algofoogle/journal",
         "id": 224608755
-    },
-    {
-        "repo": "cace",
-        "description": "Circuit Automatic Characterization Engine",
-        "owner": "efabless",
-        "stars": 36,
-        "forks": 6,
-        "size": 2913,
-        "created": "2024-02-28T15:54:54+00:00",
-        "updated": "2024-07-10T15:21:37+00:00",
-        "pushed": "2024-07-22T09:43:52+00:00",
-        "url": "https://github.com/efabless/cace",
-        "id": 764728595
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1157,
-        "forks": 166,
-        "size": 58718,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-07-23T00:10:53+00:00",
-        "pushed": "2024-07-23T05:40:34+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "nasscom-pd-abhinavgorthy",
@@ -81029,19 +80860,6 @@
         "id": 832253903
     },
     {
-        "repo": "BEV-Perception",
-        "description": "Bird's Eye View Perception",
-        "owner": "vasgaowei",
-        "stars": 343,
-        "forks": 20,
-        "size": 1446,
-        "created": "2023-05-09T05:26:33+00:00",
-        "updated": "2024-07-22T15:23:23+00:00",
-        "pushed": "2024-07-22T15:23:20+00:00",
-        "url": "https://github.com/vasgaowei/BEV-Perception",
-        "id": 638110012
-    },
-    {
         "repo": "OpenROAD",
         "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
         "owner": "The-OpenROAD-Project",
@@ -81053,45 +80871,6 @@
         "pushed": "2024-07-24T02:00:48+00:00",
         "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
         "id": 218110222
-    },
-    {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 174,
-        "forks": 31,
-        "size": 32365,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-07-23T19:10:05+00:00",
-        "pushed": "2024-07-23T14:14:10+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
-        "repo": "clear",
-        "description": null,
-        "owner": "efabless",
-        "stars": 50,
-        "forks": 4,
-        "size": 2363734,
-        "created": "2022-03-20T18:21:45+00:00",
-        "updated": "2024-07-23T14:42:04+00:00",
-        "pushed": "2024-07-23T14:41:56+00:00",
-        "url": "https://github.com/efabless/clear",
-        "id": 472066000
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "A modular build system for hardware",
-        "owner": "siliconcompiler",
-        "stars": 809,
-        "forks": 83,
-        "size": 348551,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-07-24T00:11:17+00:00",
-        "pushed": "2024-07-24T00:12:06+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
     },
     {
         "repo": "ipm",
@@ -81185,19 +80964,6 @@
         "id": 826935497
     },
     {
-        "repo": "NASSCOM-VSD-SOC-Design-Program",
-        "description": "This repository contains materials and resources for a workshop on designing an Application Specific Integrated Circuit (ASIC) from the Register Transfer Level (RTL) to the Graphical Data System (GDS).",
-        "owner": "afzalamu",
-        "stars": 0,
-        "forks": 0,
-        "size": 2113,
-        "created": "2024-07-10T15:13:47+00:00",
-        "updated": "2024-07-23T08:53:05+00:00",
-        "pushed": "2024-07-23T08:53:02+00:00",
-        "url": "https://github.com/afzalamu/NASSCOM-VSD-SOC-Design-Program",
-        "id": 826884153
-    },
-    {
         "repo": "nasscom-vsd-openlane",
         "description": null,
         "owner": "KaushalKulkarni2003",
@@ -81250,19 +81016,6 @@
         "id": 787464344
     },
     {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 225,
-        "forks": 148,
-        "size": 39835,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2024-07-23T14:34:17+00:00",
-        "pushed": "2024-07-23T14:34:13+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
-    },
-    {
         "repo": "NASSCOM-VSD-SoC-Program",
         "description": "The NASSCOM-VSD  course is meant for the complete training over RTL to GDS II conversion using open-source EDA tools, specifically OPENLANE. This course is in 5 Modules viz.,  Introduction to OPENLANE and Skywater 130nm, Crafting the Blueprints and  Chip cells, Timing analysis and Layout. ",
         "owner": "ENAUL-HAQ-SHAIK",
@@ -81287,19 +81040,6 @@
         "pushed": "2024-07-23T23:28:52+00:00",
         "url": "https://github.com/vpamidi9/sfal-vsd-venkatesh",
         "id": 802703640
-    },
-    {
-        "repo": "vsd-hdp",
-        "description": "Full RTL2GDS of a 32-bit RISC-V CPU core design using SkyWater 130nm process node",
-        "owner": "mohd-khalid",
-        "stars": 0,
-        "forks": 0,
-        "size": 372,
-        "created": "2024-01-20T18:58:37+00:00",
-        "updated": "2024-07-23T14:12:56+00:00",
-        "pushed": "2024-07-23T14:12:53+00:00",
-        "url": "https://github.com/mohd-khalid/vsd-hdp",
-        "id": 745991233
     },
     {
         "repo": "sfal-vsd",
@@ -81339,19 +81079,6 @@
         "pushed": "2024-07-23T19:57:24+00:00",
         "url": "https://github.com/dlmiles/tt04-muldiv4",
         "id": 688784080
-    },
-    {
-        "repo": "vsd-sfal",
-        "description": null,
-        "owner": "nandakisho",
-        "stars": 0,
-        "forks": 0,
-        "size": 9,
-        "created": "2024-07-17T18:26:55+00:00",
-        "updated": "2024-07-24T00:20:29+00:00",
-        "pushed": "2024-07-24T00:20:26+00:00",
-        "url": "https://github.com/nandakisho/vsd-sfal",
-        "id": 830170679
     },
     {
         "repo": "test1_openlane",
@@ -81458,19 +81185,6 @@
         "id": 816482928
     },
     {
-        "repo": "vc32",
-        "description": null,
-        "owner": "MoonbaseOtago",
-        "stars": 0,
-        "forks": 0,
-        "size": 205,
-        "created": "2024-02-20T07:09:57+00:00",
-        "updated": "2024-07-23T11:09:03+00:00",
-        "pushed": "2024-07-23T11:08:59+00:00",
-        "url": "https://github.com/MoonbaseOtago/vc32",
-        "id": 760308039
-    },
-    {
         "repo": "tt08-quside-module-0",
         "description": null,
         "owner": "jgarcia-quside",
@@ -81482,19 +81196,6 @@
         "pushed": "2024-07-24T06:03:20+00:00",
         "url": "https://github.com/jgarcia-quside/tt08-quside-module-0",
         "id": 832981785
-    },
-    {
-        "repo": "tt_um_kb2ghz_xalu",
-        "description": "4-bit minicomputer ALU section",
-        "owner": "kb2ghz",
-        "stars": 0,
-        "forks": 0,
-        "size": 69,
-        "created": "2024-07-20T18:44:02+00:00",
-        "updated": "2024-07-23T16:37:45+00:00",
-        "pushed": "2024-07-23T16:37:43+00:00",
-        "url": "https://github.com/kb2ghz/tt_um_kb2ghz_xalu",
-        "id": 831504486
     },
     {
         "repo": "vsdhdp",
@@ -81562,19 +81263,6 @@
         "id": 832433016
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1299,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-24T04:36:50+00:00",
-        "pushed": "2024-07-24T04:36:47+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "stocks-lowest-iv-360",
         "description": null,
         "owner": "wallee94",
@@ -81588,15 +81276,366 @@
         "id": 743274452
     },
     {
+        "repo": "OpenLane",
+        "description": "OpenLane is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen and custom methodology scripts for design exploration and optimization.",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1268,
+        "forks": 371,
+        "size": 873991,
+        "created": "2020-07-20T19:35:02+00:00",
+        "updated": "2024-07-24T02:10:39+00:00",
+        "pushed": "2024-07-24T15:33:58+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenLane",
+        "id": 281208911
+    },
+    {
+        "repo": "caravel",
+        "description": "Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.",
+        "owner": "efabless",
+        "stars": 270,
+        "forks": 66,
+        "size": 14813573,
+        "created": "2021-10-07T18:32:22+00:00",
+        "updated": "2024-07-24T14:36:19+00:00",
+        "pushed": "2024-07-23T04:26:24+00:00",
+        "url": "https://github.com/efabless/caravel",
+        "id": 414716046
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 175,
+        "forks": 33,
+        "size": 32378,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-07-24T12:21:56+00:00",
+        "pushed": "2024-07-24T15:46:54+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "open_pdks",
+        "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
+        "owner": "RTimothyEdwards",
+        "stars": 268,
+        "forks": 85,
+        "size": 17886,
+        "created": "2020-07-05T19:46:38+00:00",
+        "updated": "2024-07-24T15:59:28+00:00",
+        "pushed": "2024-07-24T07:00:03+00:00",
+        "url": "https://github.com/RTimothyEdwards/open_pdks",
+        "id": 277372282
+    },
+    {
+        "repo": "OpenFASOC",
+        "description": "Fully Open Source FASOC generators built on top of open-source EDA tools",
+        "owner": "idea-fasoc",
+        "stars": 221,
+        "forks": 95,
+        "size": 419101,
+        "created": "2021-03-24T16:30:14+00:00",
+        "updated": "2024-07-24T18:43:22+00:00",
+        "pushed": "2024-07-24T18:43:18+00:00",
+        "url": "https://github.com/idea-fasoc/OpenFASOC",
+        "id": 351150248
+    },
+    {
+        "repo": "clear",
+        "description": null,
+        "owner": "efabless",
+        "stars": 50,
+        "forks": 5,
+        "size": 2363734,
+        "created": "2022-03-20T18:21:45+00:00",
+        "updated": "2024-07-23T14:42:04+00:00",
+        "pushed": "2024-07-24T19:26:30+00:00",
+        "url": "https://github.com/efabless/clear",
+        "id": 472066000
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "A modular build system for hardware",
+        "owner": "siliconcompiler",
+        "stars": 809,
+        "forks": 83,
+        "size": 348160,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-07-25T02:26:25+00:00",
+        "pushed": "2024-07-25T02:26:23+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "cace",
+        "description": "Circuit Automatic Characterization Engine",
+        "owner": "efabless",
+        "stars": 36,
+        "forks": 6,
+        "size": 2913,
+        "created": "2024-02-28T15:54:54+00:00",
+        "updated": "2024-07-10T15:21:37+00:00",
+        "pushed": "2024-07-24T12:35:30+00:00",
+        "url": "https://github.com/efabless/cace",
+        "id": 764728595
+    },
+    {
+        "repo": "NASSCOM-VSD-SOC-Design-Program",
+        "description": "This repository contains materials and resources for a workshop on designing an Application Specific Integrated Circuit (ASIC) from the Register Transfer Level (RTL) to the Graphical Data System (GDS).",
+        "owner": "afzalamu",
+        "stars": 0,
+        "forks": 0,
+        "size": 2139,
+        "created": "2024-07-10T15:13:47+00:00",
+        "updated": "2024-07-24T10:37:21+00:00",
+        "pushed": "2024-07-24T10:37:18+00:00",
+        "url": "https://github.com/afzalamu/NASSCOM-VSD-SOC-Design-Program",
+        "id": 826884153
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1158,
+        "forks": 166,
+        "size": 58804,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-07-25T04:57:01+00:00",
+        "pushed": "2024-07-25T04:56:58+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 225,
+        "forks": 148,
+        "size": 40064,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2024-07-24T19:21:48+00:00",
+        "pushed": "2024-07-25T03:19:36+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "sky130_ota_glayout",
+        "description": "Operational Transconductance Amplifier (OTA) implemented in SkyWater 130nm automatically layed out using OpenFASOC and glayout.",
+        "owner": "Rohit-Rangaraj",
+        "stars": 0,
+        "forks": 0,
+        "size": 2021,
+        "created": "2024-07-24T21:58:45+00:00",
+        "updated": "2024-07-24T22:12:51+00:00",
+        "pushed": "2024-07-24T22:12:48+00:00",
+        "url": "https://github.com/Rohit-Rangaraj/sky130_ota_glayout",
+        "id": 833355466
+    },
+    {
+        "repo": "vsd-hdp",
+        "description": "Full RTL2GDS of a 32-bit RISC-V CPU core design using SkyWater 130nm process node",
+        "owner": "mohd-khalid",
+        "stars": 0,
+        "forks": 0,
+        "size": 392,
+        "created": "2024-01-20T18:58:37+00:00",
+        "updated": "2024-07-25T05:39:57+00:00",
+        "pushed": "2024-07-25T05:39:54+00:00",
+        "url": "https://github.com/mohd-khalid/vsd-hdp",
+        "id": 745991233
+    },
+    {
+        "repo": "ioplace_parser",
+        "description": "Antlr4-based parser for the input files to OpenLane custom IO placers.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 1,
+        "size": 42,
+        "created": "2023-10-31T21:37:19+00:00",
+        "updated": "2024-07-01T12:30:53+00:00",
+        "pushed": "2024-07-24T10:37:22+00:00",
+        "url": "https://github.com/efabless/ioplace_parser",
+        "id": 712633983
+    },
+    {
+        "repo": "VSD-SOC-Design",
+        "description": "Documentation for the NASSCOM-VSD-SOC Program",
+        "owner": "rustymemristor",
+        "stars": 0,
+        "forks": 0,
+        "size": 153463,
+        "created": "2024-07-10T15:36:29+00:00",
+        "updated": "2024-07-25T03:18:37+00:00",
+        "pushed": "2024-07-25T03:18:34+00:00",
+        "url": "https://github.com/rustymemristor/VSD-SOC-Design",
+        "id": 826894032
+    },
+    {
+        "repo": "wsl_osic",
+        "description": "SKY130 / GF180MCU / OpenRule1umPDK development tools for Ubuntu 22 (WSL2) ",
+        "owner": "3zki",
+        "stars": 0,
+        "forks": 1,
+        "size": 1235,
+        "created": "2024-03-18T18:55:25+00:00",
+        "updated": "2024-07-24T19:03:45+00:00",
+        "pushed": "2024-07-24T19:03:41+00:00",
+        "url": "https://github.com/3zki/wsl_osic",
+        "id": 773993461
+    },
+    {
+        "repo": "vsd-sfal",
+        "description": null,
+        "owner": "nandakisho",
+        "stars": 0,
+        "forks": 0,
+        "size": 22,
+        "created": "2024-07-17T18:26:55+00:00",
+        "updated": "2024-07-25T02:34:28+00:00",
+        "pushed": "2024-07-25T02:34:25+00:00",
+        "url": "https://github.com/nandakisho/vsd-sfal",
+        "id": 830170679
+    },
+    {
+        "repo": "NASSCOM-Digital-VLSI-SoC-Design-and-Planning",
+        "description": "NASSCOM-VSD SoC Design Program  [24July - 6Aug 2024]",
+        "owner": "PANGAHARISH",
+        "stars": 0,
+        "forks": 0,
+        "size": 10,
+        "created": "2024-07-24T16:50:12+00:00",
+        "updated": "2024-07-24T17:07:30+00:00",
+        "pushed": "2024-07-24T17:07:27+00:00",
+        "url": "https://github.com/PANGAHARISH/NASSCOM-Digital-VLSI-SoC-Design-and-Planning",
+        "id": 833251935
+    },
+    {
+        "repo": "awesome-and-novel-works-in-slam",
+        "description": "collecting some new ideas for slam (semantic, NeRF, BEV, Nav, Learning Methods) and will update this repo weekly, for both engineering and academic usings.",
+        "owner": "runjtu",
+        "stars": 26,
+        "forks": 2,
+        "size": 185,
+        "created": "2023-08-10T05:21:09+00:00",
+        "updated": "2024-07-24T09:36:41+00:00",
+        "pushed": "2024-07-24T09:36:38+00:00",
+        "url": "https://github.com/runjtu/awesome-and-novel-works-in-slam",
+        "id": 676825917
+    },
+    {
+        "repo": "hack_cpu",
+        "description": "A hardware description of a CPU based on the HACK architecture",
+        "owner": "bugavix",
+        "stars": 0,
+        "forks": 0,
+        "size": 231,
+        "created": "2024-06-14T09:32:56+00:00",
+        "updated": "2024-07-24T10:50:18+00:00",
+        "pushed": "2024-07-24T10:50:15+00:00",
+        "url": "https://github.com/bugavix/hack_cpu",
+        "id": 815069639
+    },
+    {
+        "repo": "vc32",
+        "description": null,
+        "owner": "MoonbaseOtago",
+        "stars": 0,
+        "forks": 0,
+        "size": 208,
+        "created": "2024-02-20T07:09:57+00:00",
+        "updated": "2024-07-25T04:22:47+00:00",
+        "pushed": "2024-07-25T04:22:44+00:00",
+        "url": "https://github.com/MoonbaseOtago/vc32",
+        "id": 760308039
+    },
+    {
+        "repo": "tt_um_kb2ghz_xalu",
+        "description": "4-bit minicomputer ALU section",
+        "owner": "kb2ghz",
+        "stars": 0,
+        "forks": 0,
+        "size": 77,
+        "created": "2024-07-20T18:44:02+00:00",
+        "updated": "2024-07-24T18:23:16+00:00",
+        "pushed": "2024-07-24T18:23:13+00:00",
+        "url": "https://github.com/kb2ghz/tt_um_kb2ghz_xalu",
+        "id": 831504486
+    },
+    {
+        "repo": "tt05-alu",
+        "description": "Simple ALU which will be used in lecture for demonstration purposes",
+        "owner": "CEJMU",
+        "stars": 0,
+        "forks": 0,
+        "size": 207,
+        "created": "2023-10-30T14:31:43+00:00",
+        "updated": "2024-07-24T10:52:19+00:00",
+        "pushed": "2024-07-24T10:52:15+00:00",
+        "url": "https://github.com/CEJMU/tt05-alu",
+        "id": 711967392
+    },
+    {
+        "repo": "BWSI-ASICS-24-Zoom-Zoom",
+        "description": "CPU + Accelerator",
+        "owner": "ringedSquid",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2024-07-24T14:08:42+00:00",
+        "updated": "2024-07-24T19:52:18+00:00",
+        "pushed": "2024-07-24T19:52:15+00:00",
+        "url": "https://github.com/ringedSquid/BWSI-ASICS-24-Zoom-Zoom",
+        "id": 833180777
+    },
+    {
+        "repo": "tt-size-exploration",
+        "description": null,
+        "owner": "gfg-development",
+        "stars": 0,
+        "forks": 0,
+        "size": 50,
+        "created": "2023-10-25T15:24:23+00:00",
+        "updated": "2024-07-24T09:26:23+00:00",
+        "pushed": "2024-07-24T09:26:19+00:00",
+        "url": "https://github.com/gfg-development/tt-size-exploration",
+        "id": 709882164
+    },
+    {
+        "repo": "BEV-Perception",
+        "description": "Bird's Eye View Perception",
+        "owner": "vasgaowei",
+        "stars": 345,
+        "forks": 20,
+        "size": 1511,
+        "created": "2023-05-09T05:26:33+00:00",
+        "updated": "2024-07-24T14:02:53+00:00",
+        "pushed": "2024-07-24T14:02:50+00:00",
+        "url": "https://github.com/vasgaowei/BEV-Perception",
+        "id": 638110012
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1300,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-07-25T04:39:01+00:00",
+        "pushed": "2024-07-25T04:38:59+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 3197,
+        "size": 3399,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-24T01:48:44+00:00",
-        "pushed": "2024-07-24T01:48:41+00:00",
+        "updated": "2024-07-25T01:45:56+00:00",
+        "pushed": "2024-07-25T01:45:53+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -81606,10 +81645,10 @@
         "owner": "fasiha",
         "stars": 5,
         "forks": 0,
-        "size": 137944,
+        "size": 138278,
         "created": "2023-01-05T08:49:05+00:00",
-        "updated": "2024-07-23T23:57:21+00:00",
-        "pushed": "2024-07-23T23:57:18+00:00",
+        "updated": "2024-07-24T23:57:40+00:00",
+        "pushed": "2024-07-24T23:57:36+00:00",
         "url": "https://github.com/fasiha/finviz-git-scraper",
         "id": 585468833
     },
@@ -81619,10 +81658,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 24981,
+        "size": 26223,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-24T00:59:38+00:00",
-        "pushed": "2024-07-24T00:59:35+00:00",
+        "updated": "2024-07-25T01:07:10+00:00",
+        "pushed": "2024-07-25T01:07:07+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -81632,11 +81671,24 @@
         "owner": "tech-andgar",
         "stars": 11,
         "forks": 0,
-        "size": 22116,
+        "size": 22389,
         "created": "2020-11-09T02:22:44+00:00",
-        "updated": "2024-07-24T00:50:42+00:00",
-        "pushed": "2024-07-24T00:50:38+00:00",
+        "updated": "2024-07-25T00:50:47+00:00",
+        "pushed": "2024-07-25T00:50:44+00:00",
         "url": "https://github.com/tech-andgar/awesome-stars",
         "id": 311201466
+    },
+    {
+        "repo": "awesome_ai_paper",
+        "description": "paper.cheninweb.asia",
+        "owner": "chenin-wang",
+        "stars": 0,
+        "forks": 0,
+        "size": 1615,
+        "created": "2024-06-17T11:05:19+00:00",
+        "updated": "2024-07-24T16:33:58+00:00",
+        "pushed": "2024-07-24T16:33:54+00:00",
+        "url": "https://github.com/chenin-wang/awesome_ai_paper",
+        "id": 816252283
     }
 ]

@@ -37284,19 +37284,6 @@
         "id": 820349821
     },
     {
-        "repo": "canmv_examples",
-        "description": " canmv examples",
-        "owner": "kendryte",
-        "stars": 17,
-        "forks": 12,
-        "size": 20418,
-        "created": "2022-10-25T06:37:03+00:00",
-        "updated": "2024-06-29T02:31:29+00:00",
-        "pushed": "2024-06-03T02:27:42+00:00",
-        "url": "https://github.com/kendryte/canmv_examples",
-        "id": 557141473
-    },
-    {
         "repo": "Unishyper",
         "description": "A Rust-based Unikernel Enhancing Reliability and Efficiency of Embedded Systems.",
         "owner": "hky1999",
@@ -37308,19 +37295,6 @@
         "pushed": "2024-06-28T23:04:20+00:00",
         "url": "https://github.com/hky1999/Unishyper",
         "id": 696574725
-    },
-    {
-        "repo": "My_OpenWrt",
-        "description": null,
-        "owner": "xuexijiaoben",
-        "stars": 1,
-        "forks": 0,
-        "size": 653,
-        "created": "2022-11-05T14:29:46+00:00",
-        "updated": "2024-06-28T12:55:17+00:00",
-        "pushed": "2024-06-28T12:55:14+00:00",
-        "url": "https://github.com/xuexijiaoben/My_OpenWrt",
-        "id": 562172149
     },
     {
         "repo": "maixuany.shop",
@@ -37726,19 +37700,6 @@
         "id": 393403489
     },
     {
-        "repo": "JZ2440_RTT",
-        "description": null,
-        "owner": "O1024",
-        "stars": 0,
-        "forks": 0,
-        "size": 384995,
-        "created": "2024-07-09T23:09:29+00:00",
-        "updated": "2024-07-13T23:02:46+00:00",
-        "pushed": "2024-07-13T23:02:42+00:00",
-        "url": "https://github.com/O1024/JZ2440_RTT",
-        "id": 826543880
-    },
-    {
         "repo": "rCore-Tutorial-v3",
         "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
         "owner": "rcore-os",
@@ -38103,19 +38064,6 @@
         "id": 640431765
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 153,
-        "forks": 29,
-        "size": 155383,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-07-22T11:15:02+00:00",
-        "pushed": "2024-07-23T01:27:26+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "posture-detection",
         "description": "\u57fa\u4e8eK210\u7684\u5750\u59ff\u68c0\u6d4b\uff08\u5d4c\u5165yolov3\u6a21\u578b\uff09",
         "owner": "KatouMegumi-hub",
@@ -38181,19 +38129,6 @@
         "id": 832123939
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 707,
-        "forks": 180,
-        "size": 58756,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-07-17T16:19:56+00:00",
-        "pushed": "2024-07-24T05:35:35+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -38207,19 +38142,6 @@
         "id": 745771617
     },
     {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 72,
-        "forks": 4,
-        "size": 49397,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-07-08T11:01:25+00:00",
-        "pushed": "2024-07-23T21:43:26+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
-    },
-    {
         "repo": "MaixCDK",
         "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
         "owner": "sipeed",
@@ -38231,32 +38153,6 @@
         "pushed": "2024-07-24T03:41:53+00:00",
         "url": "https://github.com/sipeed/MaixCDK",
         "id": 733722162
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10090,
-        "forks": 4925,
-        "size": 867182,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-07-24T05:36:15+00:00",
-        "pushed": "2024-07-24T06:04:03+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 5,
-        "forks": 2,
-        "size": 20959,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-07-23T10:20:38+00:00",
-        "pushed": "2024-07-23T10:20:34+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
     },
     {
         "repo": "krux_binaries",
@@ -38428,15 +38324,132 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 708,
+        "forks": 180,
+        "size": 58660,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-07-24T17:07:18+00:00",
+        "pushed": "2024-07-25T04:13:52+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 153,
+        "forks": 29,
+        "size": 155389,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-07-22T11:15:02+00:00",
+        "pushed": "2024-07-24T20:16:12+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 72,
+        "forks": 4,
+        "size": 49408,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-07-08T11:01:25+00:00",
+        "pushed": "2024-07-24T21:45:35+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
+    },
+    {
+        "repo": "canmv_examples",
+        "description": " canmv examples",
+        "owner": "kendryte",
+        "stars": 18,
+        "forks": 12,
+        "size": 42792,
+        "created": "2022-10-25T06:37:03+00:00",
+        "updated": "2024-07-24T17:10:28+00:00",
+        "pushed": "2024-07-16T01:31:53+00:00",
+        "url": "https://github.com/kendryte/canmv_examples",
+        "id": 557141473
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10092,
+        "forks": 4928,
+        "size": 867608,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-07-25T01:11:12+00:00",
+        "pushed": "2024-07-25T04:29:42+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 5,
+        "forks": 2,
+        "size": 23143,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-07-25T04:11:36+00:00",
+        "pushed": "2024-07-25T04:11:33+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "ping_pang_man",
+        "description": null,
+        "owner": "Petal1017",
+        "stars": 0,
+        "forks": 0,
+        "size": 18801,
+        "created": "2024-07-09T07:54:35+00:00",
+        "updated": "2024-07-25T01:54:06+00:00",
+        "pushed": "2024-07-25T01:54:03+00:00",
+        "url": "https://github.com/Petal1017/ping_pang_man",
+        "id": 826169921
+    },
+    {
+        "repo": "My_OpenWrt",
+        "description": null,
+        "owner": "xuexijiaoben",
+        "stars": 1,
+        "forks": 0,
+        "size": 683,
+        "created": "2022-11-05T14:29:46+00:00",
+        "updated": "2024-07-24T14:10:41+00:00",
+        "pushed": "2024-07-24T14:10:38+00:00",
+        "url": "https://github.com/xuexijiaoben/My_OpenWrt",
+        "id": 562172149
+    },
+    {
+        "repo": "JZ2440_RTT",
+        "description": null,
+        "owner": "O1024",
+        "stars": 0,
+        "forks": 0,
+        "size": 385006,
+        "created": "2024-07-09T23:09:29+00:00",
+        "updated": "2024-07-24T22:56:22+00:00",
+        "pushed": "2024-07-24T22:56:18+00:00",
+        "url": "https://github.com/O1024/JZ2440_RTT",
+        "id": 826543880
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 3197,
+        "size": 3399,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-24T01:48:44+00:00",
-        "pushed": "2024-07-24T01:48:41+00:00",
+        "updated": "2024-07-25T01:45:56+00:00",
+        "pushed": "2024-07-25T01:45:53+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38446,10 +38459,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 3262,
+        "size": 3415,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-24T01:45:17+00:00",
-        "pushed": "2024-07-24T01:45:14+00:00",
+        "updated": "2024-07-25T01:44:56+00:00",
+        "pushed": "2024-07-25T01:44:52+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38459,10 +38472,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 726443,
+        "size": 726446,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-07-23T12:28:16+00:00",
-        "pushed": "2024-07-23T12:28:09+00:00",
+        "updated": "2024-07-24T12:27:43+00:00",
+        "pushed": "2024-07-24T12:27:38+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -38475,7 +38488,7 @@
         "size": 252,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-07-17T06:40:45+00:00",
-        "pushed": "2024-07-24T00:14:06+00:00",
+        "pushed": "2024-07-25T00:13:40+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

@@ -11401,19 +11401,6 @@
         "id": 782624164
     },
     {
-        "repo": "openfpga-litex",
-        "description": "A RISC-V software platform, exposing Analogue Pocket capabilities in a simple way",
-        "owner": "agg23",
-        "stars": 30,
-        "forks": 1,
-        "size": 2169,
-        "created": "2023-11-21T18:51:23+00:00",
-        "updated": "2024-04-11T20:48:36+00:00",
-        "pushed": "2024-04-16T20:53:48+00:00",
-        "url": "https://github.com/agg23/openfpga-litex",
-        "id": 721777325
-    },
-    {
         "repo": "cv32e40x-litex",
         "description": "draft for cv32e40x integration for LiteX SoC builder",
         "owner": "mohamedElbouazzati",
@@ -12142,19 +12129,6 @@
         "id": 389299309
     },
     {
-        "repo": "litedram",
-        "description": "Small footprint and configurable DRAM core",
-        "owner": "enjoy-digital",
-        "stars": 364,
-        "forks": 115,
-        "size": 3401,
-        "created": "2015-02-22T00:43:35+00:00",
-        "updated": "2024-06-19T08:42:03+00:00",
-        "pushed": "2024-06-19T08:42:00+00:00",
-        "url": "https://github.com/enjoy-digital/litedram",
-        "id": 31147284
-    },
-    {
         "repo": "linux-on-litex-rocket",
         "description": "Run 64-bit Linux on LiteX + RocketChip",
         "owner": "litex-hub",
@@ -12714,19 +12688,6 @@
         "id": 190029235
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1507,
-        "forks": 209,
-        "size": 209508,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-22T04:11:24+00:00",
-        "pushed": "2024-07-21T17:15:57+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -12818,32 +12779,6 @@
         "id": 806660960
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 743,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-23T14:06:25+00:00",
-        "pushed": "2024-07-24T01:56:55+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 455,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-07-16T02:40:31+00:00",
-        "pushed": "2024-07-24T02:18:02+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "litespi",
         "description": "Small footprint and configurable SPI core",
         "owner": "litex-hub",
@@ -12855,19 +12790,6 @@
         "pushed": "2024-07-02T06:24:33+00:00",
         "url": "https://github.com/litex-hub/litespi",
         "id": 251003436
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 27,
-        "forks": 2,
-        "size": 6500,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-07-23T14:39:26+00:00",
-        "pushed": "2024-07-23T14:39:23+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "Raptor",
@@ -12922,19 +12844,6 @@
         "id": 789527923
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 35,
-        "forks": 2,
-        "size": 66700,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-07-23T07:54:03+00:00",
-        "pushed": "2024-07-23T17:40:28+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "digital-design-dataset",
         "description": null,
         "owner": "stefanpie",
@@ -12948,6 +12857,123 @@
         "id": 532379641
     },
     {
+        "repo": "litedram",
+        "description": "Small footprint and configurable DRAM core",
+        "owner": "enjoy-digital",
+        "stars": 366,
+        "forks": 116,
+        "size": 3401,
+        "created": "2015-02-22T00:43:35+00:00",
+        "updated": "2024-07-25T01:42:29+00:00",
+        "pushed": "2024-07-18T15:57:21+00:00",
+        "url": "https://github.com/enjoy-digital/litedram",
+        "id": 31147284
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 746,
+        "forks": 67,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-24T18:21:57+00:00",
+        "pushed": "2024-07-25T01:56:04+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 456,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-07-24T16:10:26+00:00",
+        "pushed": "2024-07-25T02:18:03+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1508,
+        "forks": 209,
+        "size": 209513,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-24T09:56:51+00:00",
+        "pushed": "2024-07-24T21:00:20+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 30,
+        "forks": 2,
+        "size": 6544,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-07-25T04:12:55+00:00",
+        "pushed": "2024-07-24T09:40:19+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "openfpga-litex",
+        "description": "A RISC-V software platform, exposing Analogue Pocket capabilities in a simple way",
+        "owner": "agg23",
+        "stars": 34,
+        "forks": 1,
+        "size": 2316,
+        "created": "2023-11-21T18:51:23+00:00",
+        "updated": "2024-07-24T15:40:20+00:00",
+        "pushed": "2024-07-23T03:10:11+00:00",
+        "url": "https://github.com/agg23/openfpga-litex",
+        "id": 721777325
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 36,
+        "forks": 2,
+        "size": 68526,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-07-25T01:50:22+00:00",
+        "pushed": "2024-07-25T01:50:18+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "riscv_loop_shuffler",
+        "description": null,
+        "owner": "Clay-Cui",
+        "stars": 0,
+        "forks": 0,
+        "size": 5361,
+        "created": "2024-05-16T07:14:24+00:00",
+        "updated": "2024-07-24T12:19:33+00:00",
+        "pushed": "2024-07-24T12:16:15+00:00",
+        "url": "https://github.com/Clay-Cui/riscv_loop_shuffler",
+        "id": 801409506
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 1,
+        "forks": 0,
+        "size": 15,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-07-25T05:43:46+00:00",
+        "pushed": "2024-07-25T05:43:08+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -12956,7 +12982,7 @@
         "size": 2489,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-07-18T18:04:13+00:00",
-        "pushed": "2024-07-24T00:14:21+00:00",
+        "pushed": "2024-07-25T00:13:32+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -12966,10 +12992,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1299,
+        "size": 1300,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-24T04:36:50+00:00",
-        "pushed": "2024-07-24T04:36:47+00:00",
+        "updated": "2024-07-25T04:39:01+00:00",
+        "pushed": "2024-07-25T04:38:59+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -12979,10 +13005,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 24981,
+        "size": 26223,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-24T00:59:38+00:00",
-        "pushed": "2024-07-24T00:59:35+00:00",
+        "updated": "2024-07-25T01:07:10+00:00",
+        "pushed": "2024-07-25T01:07:07+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -12992,10 +13018,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 66742,
+        "size": 67186,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-24T03:25:18+00:00",
-        "pushed": "2024-07-24T03:25:14+00:00",
+        "updated": "2024-07-25T03:24:40+00:00",
+        "pushed": "2024-07-25T03:24:37+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
