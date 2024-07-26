@@ -5291,19 +5291,6 @@
         "id": 784301828
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 8,
-        "forks": 3,
-        "size": 675,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2024-07-22T15:22:55+00:00",
-        "pushed": "2024-07-22T15:22:50+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5328,5 +5315,18 @@
         "pushed": "2024-07-24T23:59:55+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 8,
+        "forks": 3,
+        "size": 678,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2024-07-25T09:29:12+00:00",
+        "pushed": "2024-07-25T09:29:09+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
     }
 ]

@@ -10439,19 +10439,6 @@
         "id": 671608288
     },
     {
-        "repo": "litescope",
-        "description": "Small footprint and configurable embedded FPGA logic analyzer",
-        "owner": "enjoy-digital",
-        "stars": 134,
-        "forks": 38,
-        "size": 588,
-        "created": "2015-09-07T09:34:42+00:00",
-        "updated": "2023-12-17T16:43:15+00:00",
-        "pushed": "2024-01-01T14:30:24+00:00",
-        "url": "https://github.com/enjoy-digital/litescope",
-        "id": 42044258
-    },
-    {
         "repo": "litejesd204b",
         "description": "Small footprint and configurable JESD204B core",
         "owner": "enjoy-digital",
@@ -11074,19 +11061,6 @@
         "pushed": "2024-03-18T20:40:40+00:00",
         "url": "https://github.com/TinyTapeout/tinytapeout-03",
         "id": 614036932
-    },
-    {
-        "repo": "sechzig",
-        "description": "Sechzig Compute Module",
-        "owner": "machdyne",
-        "stars": 6,
-        "forks": 1,
-        "size": 1997,
-        "created": "2023-04-11T18:19:34+00:00",
-        "updated": "2024-02-05T04:12:23+00:00",
-        "pushed": "2024-03-19T07:38:10+00:00",
-        "url": "https://github.com/machdyne/sechzig",
-        "id": 626567971
     },
     {
         "repo": "PipelineC-Graphics",
@@ -12571,19 +12545,6 @@
         "id": 84366787
     },
     {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 52,
-        "forks": 21,
-        "size": 729,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2024-07-18T16:53:07+00:00",
-        "pushed": "2024-07-18T16:53:03+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
-    },
-    {
         "repo": "litex_hw_ci",
         "description": "LiteX Hardware CI tests.",
         "owner": "enjoy-digital",
@@ -12688,19 +12649,6 @@
         "id": 190029235
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2809,
-        "forks": 542,
-        "size": 17186,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-07-22T14:23:29+00:00",
-        "pushed": "2024-07-23T02:20:25+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -12740,19 +12688,6 @@
         "id": 42048653
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 228,
-        "forks": 15,
-        "size": 13545,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-07-22T16:31:31+00:00",
-        "pushed": "2024-07-22T16:31:28+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "LiteXP",
         "description": "Smaller version of Windows XP.",
         "owner": "TZRPGD",
@@ -12790,19 +12725,6 @@
         "pushed": "2024-07-02T06:24:33+00:00",
         "url": "https://github.com/litex-hub/litespi",
         "id": 251003436
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 43,
-        "forks": 17,
-        "size": 115863,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-07-24T00:12:51+00:00",
-        "pushed": "2024-07-24T00:12:48+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "kakao",
@@ -12870,45 +12792,6 @@
         "id": 31147284
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 746,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-24T18:21:57+00:00",
-        "pushed": "2024-07-25T01:56:04+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 456,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-07-24T16:10:26+00:00",
-        "pushed": "2024-07-25T02:18:03+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1508,
-        "forks": 209,
-        "size": 209513,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-24T09:56:51+00:00",
-        "pushed": "2024-07-24T21:00:20+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -12961,15 +12844,132 @@
         "id": 801409506
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2813,
+        "forks": 541,
+        "size": 17186,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-07-26T01:52:49+00:00",
+        "pushed": "2024-07-26T01:33:34+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 748,
+        "forks": 67,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-25T18:33:21+00:00",
+        "pushed": "2024-07-26T02:02:47+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 456,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-07-24T16:10:26+00:00",
+        "pushed": "2024-07-26T02:17:55+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "litescope",
+        "description": "Small footprint and configurable embedded FPGA logic analyzer",
+        "owner": "enjoy-digital",
+        "stars": 160,
+        "forks": 39,
+        "size": 589,
+        "created": "2015-09-07T09:34:42+00:00",
+        "updated": "2024-07-25T08:48:41+00:00",
+        "pushed": "2024-07-25T08:48:37+00:00",
+        "url": "https://github.com/enjoy-digital/litescope",
+        "id": 42044258
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 52,
+        "forks": 21,
+        "size": 735,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2024-07-18T16:53:07+00:00",
+        "pushed": "2024-07-25T14:07:16+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1508,
+        "forks": 209,
+        "size": 209553,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-25T20:01:10+00:00",
+        "pushed": "2024-07-25T20:02:24+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 43,
+        "forks": 17,
+        "size": 115853,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-07-25T21:47:42+00:00",
+        "pushed": "2024-07-25T21:47:40+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 230,
+        "forks": 16,
+        "size": 13405,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-07-25T22:41:22+00:00",
+        "pushed": "2024-07-25T22:41:19+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "sechzig",
+        "description": "Sechzig Compute Module",
+        "owner": "machdyne",
+        "stars": 8,
+        "forks": 1,
+        "size": 2633,
+        "created": "2023-04-11T18:19:34+00:00",
+        "updated": "2024-07-25T12:46:43+00:00",
+        "pushed": "2024-07-25T12:30:51+00:00",
+        "url": "https://github.com/machdyne/sechzig",
+        "id": 626567971
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "3yqq",
         "stars": 1,
         "forks": 0,
-        "size": 15,
+        "size": 34,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-07-25T05:43:46+00:00",
-        "pushed": "2024-07-25T05:43:08+00:00",
+        "updated": "2024-07-26T01:38:49+00:00",
+        "pushed": "2024-07-26T01:38:44+00:00",
         "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -12982,7 +12982,7 @@
         "size": 2489,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-07-18T18:04:13+00:00",
-        "pushed": "2024-07-25T00:13:32+00:00",
+        "pushed": "2024-07-26T00:13:22+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -12992,10 +12992,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1300,
+        "size": 1302,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-25T04:39:01+00:00",
-        "pushed": "2024-07-25T04:38:59+00:00",
+        "updated": "2024-07-26T04:38:54+00:00",
+        "pushed": "2024-07-26T04:38:52+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13005,10 +13005,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 26223,
+        "size": 27466,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-07-25T01:07:10+00:00",
-        "pushed": "2024-07-25T01:07:07+00:00",
+        "updated": "2024-07-26T01:08:03+00:00",
+        "pushed": "2024-07-26T01:08:00+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -13018,10 +13018,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 67186,
+        "size": 58497,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-25T03:24:40+00:00",
-        "pushed": "2024-07-25T03:24:37+00:00",
+        "updated": "2024-07-26T03:25:29+00:00",
+        "pushed": "2024-07-26T03:25:25+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
