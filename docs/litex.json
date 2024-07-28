@@ -12233,19 +12233,6 @@
         "id": 155514739
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 4,
-        "forks": 4,
-        "size": 197,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-07-02T14:45:34+00:00",
-        "pushed": "2024-07-07T05:29:21+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "litex.js",
         "description": "Regex doesn't suck anymore?",
         "owner": "Burduk2",
@@ -12870,32 +12857,6 @@
         "id": 330793471
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 749,
-        "forks": 67,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-26T17:14:25+00:00",
-        "pushed": "2024-07-27T02:01:34+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 456,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-07-24T16:10:26+00:00",
-        "pushed": "2024-07-27T02:16:58+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -12987,6 +12948,45 @@
         "id": 833422784
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 749,
+        "forks": 68,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-26T17:14:25+00:00",
+        "pushed": "2024-07-28T02:08:26+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 456,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-07-24T16:10:26+00:00",
+        "pushed": "2024-07-28T02:19:53+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 4,
+        "forks": 4,
+        "size": 294,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-07-27T23:01:12+00:00",
+        "pushed": "2024-07-27T23:01:05+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -12995,7 +12995,7 @@
         "size": 2489,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-07-18T18:04:13+00:00",
-        "pushed": "2024-07-27T00:13:14+00:00",
+        "pushed": "2024-07-28T00:14:43+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -13005,10 +13005,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1304,
+        "size": 1380,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-27T04:37:26+00:00",
-        "pushed": "2024-07-27T04:37:23+00:00",
+        "updated": "2024-07-28T04:35:57+00:00",
+        "pushed": "2024-07-28T04:35:54+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13018,10 +13018,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 58955,
+        "size": 59398,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-27T03:26:21+00:00",
-        "pushed": "2024-07-27T03:26:18+00:00",
+        "updated": "2024-07-28T04:01:49+00:00",
+        "pushed": "2024-07-28T03:24:33+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
