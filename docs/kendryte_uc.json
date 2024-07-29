@@ -38116,19 +38116,6 @@
         "id": 205409848
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8145,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-07-23T20:45:49+00:00",
-        "pushed": "2024-07-23T20:45:46+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "PQRV",
         "description": null,
         "owner": "PQRV",
@@ -38298,19 +38285,6 @@
         "id": 826543880
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 708,
-        "forks": 180,
-        "size": 58726,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-07-26T05:45:18+00:00",
-        "pushed": "2024-07-26T05:45:15+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -38415,19 +38389,6 @@
         "id": 733722162
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10105,
-        "forks": 4933,
-        "size": 867681,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-07-28T01:03:41+00:00",
-        "pushed": "2024-07-28T04:23:43+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
@@ -38467,15 +38428,54 @@
         "id": 456793068
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 710,
+        "forks": 180,
+        "size": 58686,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-07-27T16:48:42+00:00",
+        "pushed": "2024-07-29T06:02:20+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10109,
+        "forks": 4933,
+        "size": 871000,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-07-29T05:18:35+00:00",
+        "pushed": "2024-07-29T06:16:19+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8152,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-07-28T07:45:18+00:00",
+        "pushed": "2024-07-28T07:45:15+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 4797,
+        "size": 4798,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-28T01:54:25+00:00",
-        "pushed": "2024-07-28T01:54:23+00:00",
+        "updated": "2024-07-29T01:51:14+00:00",
+        "pushed": "2024-07-29T01:51:11+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38485,10 +38485,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 3875,
+        "size": 4029,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-28T01:51:15+00:00",
-        "pushed": "2024-07-28T01:51:12+00:00",
+        "updated": "2024-07-29T01:48:06+00:00",
+        "pushed": "2024-07-29T01:48:04+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38498,10 +38498,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 731800,
+        "size": 731802,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-07-27T12:27:21+00:00",
-        "pushed": "2024-07-27T12:27:06+00:00",
+        "updated": "2024-07-28T12:25:15+00:00",
+        "pushed": "2024-07-28T12:25:12+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -38514,7 +38514,7 @@
         "size": 252,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-07-17T06:40:45+00:00",
-        "pushed": "2024-07-28T00:15:11+00:00",
+        "pushed": "2024-07-29T00:13:39+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

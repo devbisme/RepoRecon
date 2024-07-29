@@ -1495,19 +1495,6 @@
         "id": 831050890
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 311,
-        "forks": 23,
-        "size": 13995,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-07-20T16:56:27+00:00",
-        "pushed": "2024-07-20T17:10:01+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "keyboard-tools",
         "description": "Tools for mechanical keyboard design",
         "owner": "adamws",
@@ -1519,19 +1506,6 @@
         "pushed": "2024-07-21T17:37:44+00:00",
         "url": "https://github.com/adamws/keyboard-tools",
         "id": 330470333
-    },
-    {
-        "repo": "Morty",
-        "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
-        "owner": "HermiTech-LLC",
-        "stars": 2,
-        "forks": 3,
-        "size": 2034,
-        "created": "2024-07-07T12:56:24+00:00",
-        "updated": "2024-07-25T03:52:00+00:00",
-        "pushed": "2024-07-25T03:51:56+00:00",
-        "url": "https://github.com/HermiTech-LLC/Morty",
-        "id": 825318614
     },
     {
         "repo": "awesome-stars",
@@ -1558,5 +1532,31 @@
         "pushed": "2024-07-25T15:52:38+00:00",
         "url": "https://github.com/devbisme/skidl",
         "id": 65847289
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 312,
+        "forks": 23,
+        "size": 13995,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-07-21T20:03:15+00:00",
+        "pushed": "2024-07-28T22:10:53+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
+    },
+    {
+        "repo": "Morty",
+        "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
+        "owner": "HermiTech-LLC",
+        "stars": 2,
+        "forks": 3,
+        "size": 2076,
+        "created": "2024-07-07T12:56:24+00:00",
+        "updated": "2024-07-28T16:31:06+00:00",
+        "pushed": "2024-07-28T16:31:02+00:00",
+        "url": "https://github.com/HermiTech-LLC/Morty",
+        "id": 825318614
     }
 ]

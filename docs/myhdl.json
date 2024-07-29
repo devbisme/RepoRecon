@@ -5278,19 +5278,6 @@
         "id": 19449788
     },
     {
-        "repo": "MyHDLWorkshop",
-        "description": "Digital components and projects written in Python using MyHDL",
-        "owner": "Safa-Taha",
-        "stars": 1,
-        "forks": 0,
-        "size": 24,
-        "created": "2024-04-09T15:26:10+00:00",
-        "updated": "2024-07-19T14:16:55+00:00",
-        "pushed": "2024-07-19T14:04:46+00:00",
-        "url": "https://github.com/Safa-Taha/MyHDLWorkshop",
-        "id": 784301828
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5335,11 +5322,24 @@
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41391,
+        "size": 41397,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-07-27T23:45:34+00:00",
-        "pushed": "2024-07-27T23:45:31+00:00",
+        "updated": "2024-07-28T10:39:44+00:00",
+        "pushed": "2024-07-28T10:39:41+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "MyHDLWorkshop",
+        "description": "Digital components and projects using MyHDL",
+        "owner": "Safa-Taha",
+        "stars": 1,
+        "forks": 0,
+        "size": 26,
+        "created": "2024-04-09T15:26:10+00:00",
+        "updated": "2024-07-28T11:10:26+00:00",
+        "pushed": "2024-07-28T06:27:15+00:00",
+        "url": "https://github.com/Safa-Taha/MyHDLWorkshop",
+        "id": 784301828
     }
 ]
