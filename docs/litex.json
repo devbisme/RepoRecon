@@ -12610,19 +12610,6 @@
         "id": 191191221
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 452,
-        "forks": 111,
-        "size": 1780,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-07-22T10:13:50+00:00",
-        "pushed": "2024-07-22T10:13:46+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -12699,19 +12686,6 @@
         "pushed": "2024-07-23T23:36:11+00:00",
         "url": "https://github.com/roby2014/colorlight-riscv-rs",
         "id": 789527923
-    },
-    {
-        "repo": "digital-design-dataset",
-        "description": null,
-        "owner": "stefanpie",
-        "stars": 0,
-        "forks": 0,
-        "size": 3834,
-        "created": "2022-09-03T21:39:38+00:00",
-        "updated": "2024-07-24T05:37:00+00:00",
-        "pushed": "2024-07-24T05:36:56+00:00",
-        "url": "https://github.com/stefanpie/digital-design-dataset",
-        "id": 532379641
     },
     {
         "repo": "litedram",
@@ -12818,19 +12792,6 @@
         "id": 109838222
     },
     {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 246,
-        "forks": 38,
-        "size": 3843,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2024-07-25T06:56:43+00:00",
-        "pushed": "2024-07-26T07:22:44+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -12870,19 +12831,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 751,
-        "forks": 68,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-07-29T02:36:57+00:00",
-        "pushed": "2024-07-29T02:05:26+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -12894,19 +12842,6 @@
         "pushed": "2024-07-29T02:19:21+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1510,
-        "forks": 209,
-        "size": 209659,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-07-28T19:04:54+00:00",
-        "pushed": "2024-07-28T19:06:09+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "openfpga-litex",
@@ -12948,19 +12883,6 @@
         "id": 798146281
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1219,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-07-28T21:32:11+00:00",
-        "pushed": "2024-07-28T21:32:08+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "litex-apps",
         "description": null,
         "owner": "JesusMuentes",
@@ -12987,6 +12909,97 @@
         "id": 833422784
     },
     {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 456,
+        "forks": 112,
+        "size": 1780,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-07-30T03:47:38+00:00",
+        "pushed": "2024-07-29T19:31:55+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 753,
+        "forks": 68,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-07-29T22:20:20+00:00",
+        "pushed": "2024-07-30T02:02:56+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1510,
+        "forks": 211,
+        "size": 209458,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-07-29T21:29:28+00:00",
+        "pushed": "2024-07-29T20:07:32+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 246,
+        "forks": 38,
+        "size": 3845,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2024-07-29T21:56:17+00:00",
+        "pushed": "2024-07-29T13:46:56+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1233,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-07-30T03:14:50+00:00",
+        "pushed": "2024-07-30T03:14:47+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "litex-esp",
+        "description": "LiteX Embench Support Package for OpenRISC",
+        "owner": "hhe07",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2024-07-30T02:48:19+00:00",
+        "updated": "2024-07-30T02:48:59+00:00",
+        "pushed": "2024-07-30T02:48:56+00:00",
+        "url": "https://github.com/hhe07/litex-esp",
+        "id": 835525952
+    },
+    {
+        "repo": "digital-design-dataset",
+        "description": null,
+        "owner": "stefanpie",
+        "stars": 0,
+        "forks": 0,
+        "size": 3851,
+        "created": "2022-09-03T21:39:38+00:00",
+        "updated": "2024-07-30T02:17:03+00:00",
+        "pushed": "2024-07-30T02:17:00+00:00",
+        "url": "https://github.com/stefanpie/digital-design-dataset",
+        "id": 532379641
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -12995,9 +13008,22 @@
         "size": 2489,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-07-18T18:04:13+00:00",
-        "pushed": "2024-07-29T00:13:51+00:00",
+        "pushed": "2024-07-30T00:13:15+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
+    },
+    {
+        "repo": "adafruit-circuitpython",
+        "description": "Detatched fork of circuitpython for debugging",
+        "owner": "graeme-winter",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-07-30T05:32:37+00:00",
+        "updated": "2024-07-30T05:35:38+00:00",
+        "pushed": "2024-07-30T05:35:25+00:00",
+        "url": "https://github.com/graeme-winter/adafruit-circuitpython",
+        "id": 835569180
     },
     {
         "repo": "starred",
@@ -13005,10 +13031,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1382,
+        "size": 1458,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-07-29T04:37:35+00:00",
-        "pushed": "2024-07-29T04:37:33+00:00",
+        "updated": "2024-07-30T04:37:28+00:00",
+        "pushed": "2024-07-30T04:37:25+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13018,10 +13044,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 59857,
+        "size": 60314,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-07-29T03:25:37+00:00",
-        "pushed": "2024-07-29T03:25:34+00:00",
+        "updated": "2024-07-30T03:27:52+00:00",
+        "pushed": "2024-07-30T03:27:49+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

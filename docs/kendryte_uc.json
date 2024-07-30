@@ -36790,19 +36790,6 @@
         "id": 805654577
     },
     {
-        "repo": "my_diary",
-        "description": "\u8bb0\u5f55\u4e00\u4e0b\u65e5\u5e38\u5b66\u4e60\u8fdb\u5ea6",
-        "owner": "assassin-2023",
-        "stars": 1,
-        "forks": 0,
-        "size": 101,
-        "created": "2024-05-12T13:53:21+00:00",
-        "updated": "2024-06-07T15:00:23+00:00",
-        "pushed": "2024-06-07T15:00:20+00:00",
-        "url": "https://github.com/assassin-2023/my_diary",
-        "id": 799556041
-    },
-    {
         "repo": "rcore",
         "description": "following thu rcore tutorial",
         "owner": "noah822",
@@ -37661,19 +37648,6 @@
         "id": 393403489
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1527,
-        "forks": 441,
-        "size": 48318,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-07-15T05:06:46+00:00",
-        "pushed": "2024-07-14T13:20:46+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
         "repo": "mini-rv32ima",
         "description": "A tiny C header-only risc-v emulator.",
         "owner": "cnlohr",
@@ -37828,19 +37802,6 @@
         "pushed": "2024-07-16T06:49:52+00:00",
         "url": "https://github.com/KuanKuanQAQ/llvm-pass",
         "id": 826794194
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 178,
-        "forks": 145,
-        "size": 266,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2024-07-17T12:04:52+00:00",
-        "pushed": "2024-07-17T09:25:54+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
     },
     {
         "repo": "opencv_zoo",
@@ -38090,19 +38051,6 @@
         "id": 832123939
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 669610,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-07-23T09:57:07+00:00",
-        "pushed": "2024-07-23T09:57:03+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -38207,19 +38155,6 @@
         "id": 779544970
     },
     {
-        "repo": "laserweed",
-        "description": "\u57fa\u4e8e\u9f99\u82af2K1000LA\u7684\u81ea\u52a8\u5316\u6fc0\u5149\u9664\u8349\u673a\u5668\u4eba",
-        "owner": "lebronzhang224",
-        "stars": 0,
-        "forks": 1,
-        "size": 8218,
-        "created": "2024-07-09T16:16:23+00:00",
-        "updated": "2024-07-23T08:47:04+00:00",
-        "pushed": "2024-07-23T08:47:01+00:00",
-        "url": "https://github.com/lebronzhang224/laserweed",
-        "id": 826394957
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -38285,19 +38220,6 @@
         "id": 826543880
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 7,
-        "forks": 3,
-        "size": 26566,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-07-26T01:58:07+00:00",
-        "pushed": "2024-07-26T01:58:04+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "maix_train_mx",
         "description": null,
         "owner": "integemjack",
@@ -38324,32 +38246,6 @@
         "id": 833548190
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 4577,
-        "forks": 452,
-        "size": 1406,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2024-07-26T03:21:50+00:00",
-        "pushed": "2024-07-26T02:10:49+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 153,
-        "forks": 29,
-        "size": 155393,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-07-25T12:14:42+00:00",
-        "pushed": "2024-07-26T20:31:42+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "canmv_docs",
         "description": "canmv docs",
         "owner": "kendryte",
@@ -38361,32 +38257,6 @@
         "pushed": "2024-07-26T06:51:25+00:00",
         "url": "https://github.com/kendryte/canmv_docs",
         "id": 557131050
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 117,
-        "forks": 24,
-        "size": 25379,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-07-27T15:28:52+00:00",
-        "pushed": "2024-07-28T06:12:42+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 39,
-        "forks": 11,
-        "size": 14735,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-07-28T06:08:01+00:00",
-        "pushed": "2024-07-28T06:07:58+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "rvos",
@@ -38428,19 +38298,6 @@
         "id": 456793068
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 710,
-        "forks": 180,
-        "size": 58686,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-07-27T16:48:42+00:00",
-        "pushed": "2024-07-29T06:02:20+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
         "owner": "RT-Thread",
@@ -38454,17 +38311,160 @@
         "id": 7408108
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 710,
+        "forks": 180,
+        "size": 58740,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-07-27T16:48:42+00:00",
+        "pushed": "2024-07-30T05:18:05+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1546,
+        "forks": 442,
+        "size": 48318,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-07-29T15:42:17+00:00",
+        "pushed": "2024-07-30T04:03:19+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 122,
+        "forks": 26,
+        "size": 25201,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-07-29T15:19:59+00:00",
+        "pushed": "2024-07-29T11:18:29+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 155,
+        "forks": 29,
+        "size": 155430,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-07-29T18:44:58+00:00",
+        "pushed": "2024-07-29T13:04:25+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 9,
+        "forks": 6,
+        "size": 26408,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-07-29T12:41:05+00:00",
+        "pushed": "2024-07-29T09:51:31+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 180,
+        "forks": 148,
+        "size": 266,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2024-07-30T00:49:52+00:00",
+        "pushed": "2024-07-30T00:49:48+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 39,
+        "forks": 12,
+        "size": 14929,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-07-28T12:03:22+00:00",
+        "pushed": "2024-07-29T07:30:58+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 682195,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-07-29T18:08:07+00:00",
+        "pushed": "2024-07-29T18:08:03+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
         "repo": "vihal",
         "description": "Embedded Hardware Access Library",
         "owner": "nvitya",
         "stars": 4,
         "forks": 2,
-        "size": 8152,
+        "size": 8153,
         "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-07-28T07:45:18+00:00",
-        "pushed": "2024-07-28T07:45:15+00:00",
+        "updated": "2024-07-29T09:32:02+00:00",
+        "pushed": "2024-07-29T09:32:00+00:00",
         "url": "https://github.com/nvitya/vihal",
         "id": 411406144
+    },
+    {
+        "repo": "my_diary",
+        "description": "\u8bb0\u5f55\u4e00\u4e0b\u65e5\u5e38\u5b66\u4e60\u8fdb\u5ea6",
+        "owner": "assassin-2023",
+        "stars": 1,
+        "forks": 0,
+        "size": 106,
+        "created": "2024-05-12T13:53:21+00:00",
+        "updated": "2024-07-29T17:09:20+00:00",
+        "pushed": "2024-07-29T17:09:16+00:00",
+        "url": "https://github.com/assassin-2023/my_diary",
+        "id": 799556041
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 4592,
+        "forks": 452,
+        "size": 1484,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2024-07-30T05:32:13+00:00",
+        "pushed": "2024-07-30T01:45:41+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
+        "repo": "laserweed",
+        "description": "\u57fa\u4e8e\u9f99\u82af2K1000LA\u7684\u81ea\u52a8\u5316\u6fc0\u5149\u9664\u8349\u673a\u5668\u4eba",
+        "owner": "lebronzhang224",
+        "stars": 0,
+        "forks": 0,
+        "size": 8221,
+        "created": "2024-07-09T16:16:23+00:00",
+        "updated": "2024-07-29T11:25:35+00:00",
+        "pushed": "2024-07-29T11:25:32+00:00",
+        "url": "https://github.com/lebronzhang224/laserweed",
+        "id": 826394957
     },
     {
         "repo": "awesome-stars",
@@ -38472,10 +38472,10 @@
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 4798,
+        "size": 5265,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-07-29T01:51:14+00:00",
-        "pushed": "2024-07-29T01:51:11+00:00",
+        "updated": "2024-07-30T01:48:47+00:00",
+        "pushed": "2024-07-30T01:48:44+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38485,10 +38485,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 4029,
+        "size": 4183,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-07-29T01:48:06+00:00",
-        "pushed": "2024-07-29T01:48:04+00:00",
+        "updated": "2024-07-30T01:45:10+00:00",
+        "pushed": "2024-07-30T01:45:07+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38500,8 +38500,8 @@
         "forks": 35,
         "size": 731802,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-07-28T12:25:15+00:00",
-        "pushed": "2024-07-28T12:25:12+00:00",
+        "updated": "2024-07-29T12:28:11+00:00",
+        "pushed": "2024-07-29T12:28:08+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -38514,7 +38514,7 @@
         "size": 252,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-07-17T06:40:45+00:00",
-        "pushed": "2024-07-29T00:13:39+00:00",
+        "pushed": "2024-07-30T00:13:19+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
