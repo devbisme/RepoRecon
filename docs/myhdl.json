@@ -5252,19 +5252,6 @@
         "id": 342916296
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 3,
-        "forks": 1,
-        "size": 946,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-07-12T22:09:42+00:00",
-        "pushed": "2024-07-14T14:07:54+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "verilog-i2c",
         "description": "Verilog I2C interface for FPGA implementation",
         "owner": "alexforencich",
@@ -5334,12 +5321,25 @@
         "description": "Digital components and projects using MyHDL",
         "owner": "Safa-Taha",
         "stars": 1,
-        "forks": 0,
-        "size": 26,
+        "forks": 1,
+        "size": 33,
         "created": "2024-04-09T15:26:10+00:00",
-        "updated": "2024-07-28T11:10:26+00:00",
-        "pushed": "2024-07-28T06:27:15+00:00",
+        "updated": "2024-07-30T16:00:34+00:00",
+        "pushed": "2024-07-30T16:00:30+00:00",
         "url": "https://github.com/Safa-Taha/MyHDLWorkshop",
         "id": 784301828
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 4,
+        "forks": 1,
+        "size": 947,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-07-17T12:56:27+00:00",
+        "pushed": "2024-07-30T20:23:53+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
