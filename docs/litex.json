@@ -12207,19 +12207,6 @@
         "id": 760114130
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1320,
-        "forks": 178,
-        "size": 12872,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-07-06T15:48:40+00:00",
-        "pushed": "2024-07-06T15:49:31+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "litex.js",
         "description": "Regex doesn't suck anymore?",
         "owner": "Burduk2",
@@ -12426,19 +12413,6 @@
         "pushed": "2024-07-15T16:01:38+00:00",
         "url": "https://github.com/sensille/litehm2",
         "id": 574363787
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 19902,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-07-16T05:36:56+00:00",
-        "pushed": "2024-07-16T05:36:52+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "renode-models-analyzer",
@@ -12753,19 +12727,6 @@
         "id": 732706164
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 36,
-        "forks": 2,
-        "size": 68532,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-07-28T16:55:57+00:00",
-        "pushed": "2024-07-28T16:55:54+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12948,19 +12909,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 755,
-        "forks": 69,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-01T14:54:41+00:00",
-        "pushed": "2024-08-02T02:02:32+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -12972,19 +12920,6 @@
         "pushed": "2024-08-02T05:52:57+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 44,
-        "forks": 18,
-        "size": 115879,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-08-01T23:37:14+00:00",
-        "pushed": "2024-08-02T05:22:50+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "Pagliacii",
@@ -13000,19 +12935,6 @@
         "id": 389299309
     },
     {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "3yqq",
-        "stars": 1,
-        "forks": 0,
-        "size": 64,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-08-01T09:18:49+00:00",
-        "pushed": "2024-08-01T09:18:46+00:00",
-        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
         "repo": "adafruit-circuitpython",
         "description": "Detatched fork of circuitpython for debugging",
         "owner": "graeme-winter",
@@ -13026,15 +12948,93 @@
         "id": 835569180
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 755,
+        "forks": 69,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-01T14:54:41+00:00",
+        "pushed": "2024-08-03T02:00:49+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1340,
+        "forks": 179,
+        "size": 12874,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-08-02T20:42:42+00:00",
+        "pushed": "2024-08-02T20:42:38+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 44,
+        "forks": 18,
+        "size": 115893,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-08-03T02:42:59+00:00",
+        "pushed": "2024-08-03T02:42:56+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 20376,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-08-02T09:24:22+00:00",
+        "pushed": "2024-08-02T09:24:18+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 36,
+        "forks": 2,
+        "size": 87298,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-08-02T20:42:06+00:00",
+        "pushed": "2024-08-02T20:42:02+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 2,
+        "forks": 0,
+        "size": 76,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-08-03T02:02:04+00:00",
+        "pushed": "2024-08-03T02:02:01+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1645,
+        "size": 1722,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-02T04:39:10+00:00",
-        "pushed": "2024-08-02T04:39:07+00:00",
+        "updated": "2024-08-03T04:36:53+00:00",
+        "pushed": "2024-08-03T04:36:50+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13044,10 +13044,10 @@
         "owner": "markemer",
         "stars": 1,
         "forks": 0,
-        "size": 29952,
+        "size": 29954,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-08-02T01:08:08+00:00",
-        "pushed": "2024-08-02T01:08:05+00:00",
+        "updated": "2024-08-03T01:07:29+00:00",
+        "pushed": "2024-08-03T01:07:26+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -13057,10 +13057,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 61693,
+        "size": 62141,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-02T03:26:07+00:00",
-        "pushed": "2024-08-02T03:26:04+00:00",
+        "updated": "2024-08-03T03:24:03+00:00",
+        "pushed": "2024-08-03T03:24:00+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

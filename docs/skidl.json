@@ -1405,19 +1405,6 @@
     },
     {
         "repo": "skidlist",
-        "description": "A list of known skids",
-        "owner": "iusemeteor",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2024-05-25T19:21:45+00:00",
-        "updated": "2024-05-25T19:24:31+00:00",
-        "pushed": "2024-05-25T19:24:28+00:00",
-        "url": "https://github.com/iusemeteor/skidlist",
-        "id": 805895910
-    },
-    {
-        "repo": "skidlist",
         "description": "This repository maintains a list of individuals who have been identified as \"skids\" in various online communities.",
         "owner": "Devuxious",
         "stars": 10,
@@ -1508,32 +1495,6 @@
         "id": 330470333
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1006,
-        "forks": 119,
-        "size": 41050,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2024-07-25T07:03:45+00:00",
-        "pushed": "2024-07-25T15:52:38+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 312,
-        "forks": 23,
-        "size": 13995,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-07-21T20:03:15+00:00",
-        "pushed": "2024-07-28T22:10:53+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "Morty",
         "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
         "owner": "HermiTech-LLC",
@@ -1558,5 +1519,44 @@
         "pushed": "2024-08-01T00:48:29+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1007,
+        "forks": 119,
+        "size": 44301,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2024-08-03T05:08:21+00:00",
+        "pushed": "2024-08-02T18:01:54+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 312,
+        "forks": 23,
+        "size": 14012,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-08-02T15:49:01+00:00",
+        "pushed": "2024-08-02T17:41:55+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
+    },
+    {
+        "repo": "skidlist",
+        "description": "A list of known skids",
+        "owner": "iusemeteor",
+        "stars": 1,
+        "forks": 1,
+        "size": 19,
+        "created": "2024-05-25T19:21:45+00:00",
+        "updated": "2024-08-02T20:12:27+00:00",
+        "pushed": "2024-08-02T20:12:24+00:00",
+        "url": "https://github.com/iusemeteor/skidlist",
+        "id": 805895910
     }
 ]
