@@ -13442,19 +13442,6 @@
         "id": 277296850
     },
     {
-        "repo": "yolo-for-k210",
-        "description": "Yolo-for-k210",
-        "owner": "vseasky",
-        "stars": 149,
-        "forks": 66,
-        "size": 111334,
-        "created": "2020-07-05T15:25:58Z",
-        "updated": "2023-09-15T07:43:58Z",
-        "pushed": "2023-09-05T06:32:04Z",
-        "url": "https://github.com/vseasky/yolo-for-k210",
-        "id": 277329257
-    },
-    {
         "repo": "GiordanoLucioMasterThesis",
         "description": "This repository has been created for the master thesis.",
         "owner": "GiordanoLucio",
@@ -38220,19 +38207,6 @@
         "id": 826394957
     },
     {
-        "repo": "pkgs-test",
-        "description": "The RT-Thread package testing tool",
-        "owner": "RT-Thread",
-        "stars": 7,
-        "forks": 8,
-        "size": 58,
-        "created": "2023-01-03T03:14:05+00:00",
-        "updated": "2024-07-30T16:56:22+00:00",
-        "pushed": "2024-07-30T16:56:19+00:00",
-        "url": "https://github.com/RT-Thread/pkgs-test",
-        "id": 584603506
-    },
-    {
         "repo": "govin-firmwares",
         "description": null,
         "owner": "TanviSawal",
@@ -38283,19 +38257,6 @@
         "pushed": "2024-08-01T03:21:57+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 156,
-        "forks": 30,
-        "size": 155590,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-07-31T07:24:02+00:00",
-        "pushed": "2024-07-31T23:52:31+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "opencv_zoo",
@@ -38467,19 +38428,6 @@
         "id": 770690133
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10121,
-        "forks": 4934,
-        "size": 871647,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-02T08:45:37+00:00",
-        "pushed": "2024-08-03T05:46:21+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -38558,15 +38506,93 @@
         "id": 836516059
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 158,
+        "forks": 31,
+        "size": 156278,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-03T21:14:09+00:00",
+        "pushed": "2024-08-03T19:13:37+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "yolo-for-k210",
+        "description": "Yolo-for-k210",
+        "owner": "vseasky",
+        "stars": 168,
+        "forks": 73,
+        "size": 111336,
+        "created": "2020-07-05T15:25:58+00:00",
+        "updated": "2024-08-04T02:17:33+00:00",
+        "pushed": "2024-08-02T16:26:05+00:00",
+        "url": "https://github.com/vseasky/yolo-for-k210",
+        "id": 277329257
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10123,
+        "forks": 4934,
+        "size": 871649,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-08-04T01:56:56+00:00",
+        "pushed": "2024-08-04T01:56:48+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "pkgs-test",
+        "description": "The RT-Thread package testing tool",
+        "owner": "RT-Thread",
+        "stars": 7,
+        "forks": 8,
+        "size": 61,
+        "created": "2023-01-03T03:14:05+00:00",
+        "updated": "2024-08-04T01:49:33+00:00",
+        "pushed": "2024-08-04T01:49:30+00:00",
+        "url": "https://github.com/RT-Thread/pkgs-test",
+        "id": 584603506
+    },
+    {
+        "repo": "openMV4-Proj",
+        "description": "[2024\u7535\u8d5bE\u9898/openMV] Self projects using openMV4 H7 Plus or K210 chip. Including Electronics Design Contests in China.",
+        "owner": "ku-iser",
+        "stars": 2,
+        "forks": 0,
+        "size": 17,
+        "created": "2024-08-04T02:24:48+00:00",
+        "updated": "2024-08-04T03:27:54+00:00",
+        "pushed": "2024-08-04T03:14:35+00:00",
+        "url": "https://github.com/ku-iser/openMV4-Proj",
+        "id": 837779020
+    },
+    {
+        "repo": "Chen-Xu_K23073002_Albert-Merono-Penuela_SupplementalFile_2023-24",
+        "description": "Extension of Dataset and Analysis of Multimedia Gaps",
+        "owner": "1x1c",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-08-03T23:01:49+00:00",
+        "updated": "2024-08-03T23:04:50+00:00",
+        "pushed": "2024-08-03T23:04:47+00:00",
+        "url": "https://github.com/1x1c/Chen-Xu_K23073002_Albert-Merono-Penuela_SupplementalFile_2023-24",
+        "id": 837749306
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 7129,
+        "size": 7595,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-03T01:46:48+00:00",
-        "pushed": "2024-08-03T01:46:46+00:00",
+        "updated": "2024-08-04T01:54:37+00:00",
+        "pushed": "2024-08-04T01:54:35+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38576,10 +38602,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 999,
+        "size": 1155,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-03T01:43:27+00:00",
-        "pushed": "2024-08-03T01:43:24+00:00",
+        "updated": "2024-08-04T01:51:22+00:00",
+        "pushed": "2024-08-04T01:51:19+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38589,10 +38615,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 734652,
+        "size": 734655,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-02T12:28:18+00:00",
-        "pushed": "2024-08-02T12:28:07+00:00",
+        "updated": "2024-08-03T12:26:24+00:00",
+        "pushed": "2024-08-03T12:26:21+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
