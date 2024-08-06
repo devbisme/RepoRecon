@@ -33540,19 +33540,6 @@
         "id": 728648882
     },
     {
-        "repo": "kendryte",
-        "description": "Support for Kendryte K210 AI capable SOC",
-        "owner": "embeddedgo",
-        "stars": 17,
-        "forks": 4,
-        "size": 758,
-        "created": "2020-04-24T15:01:58+00:00",
-        "updated": "2023-06-08T19:26:00+00:00",
-        "pushed": "2023-12-08T10:41:01+00:00",
-        "url": "https://github.com/embeddedgo/kendryte",
-        "id": 258544188
-    },
-    {
         "repo": "AI-Chip",
         "description": "AI chip related information, including related companies, software and hardware, and related scientific research",
         "owner": "guantongpeng",
@@ -33694,19 +33681,6 @@
         "pushed": "2023-12-25T09:28:44+00:00",
         "url": "https://github.com/newstarming/OperatingSystemUbuntu",
         "id": 688444466
-    },
-    {
-        "repo": "patch",
-        "description": "Patches that add Embedded Go supported architectures to the reference Go compiler",
-        "owner": "embeddedgo",
-        "stars": 11,
-        "forks": 0,
-        "size": 7909,
-        "created": "2019-11-14T23:27:09+00:00",
-        "updated": "2022-07-15T07:52:31+00:00",
-        "pushed": "2023-12-27T12:29:54+00:00",
-        "url": "https://github.com/embeddedgo/patch",
-        "id": 221804737
     },
     {
         "repo": "K210-STM32-",
@@ -34747,19 +34721,6 @@
         "pushed": "2024-03-05T09:23:38+00:00",
         "url": "https://github.com/phylovejey/maixianzhenxuan",
         "id": 126033219
-    },
-    {
-        "repo": "K230_training_scripts",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 26,
-        "forks": 1,
-        "size": 84677,
-        "created": "2023-08-28T11:13:57+00:00",
-        "updated": "2024-01-31T08:02:54+00:00",
-        "pushed": "2024-03-07T06:23:46+00:00",
-        "url": "https://github.com/kendryte/K230_training_scripts",
-        "id": 684056600
     },
     {
         "repo": "proj304-xiaomi-nuttx-rust-enhance",
@@ -36920,19 +36881,6 @@
         "id": 178975934
     },
     {
-        "repo": "arduino-k210",
-        "description": "A arduino core for K210",
-        "owner": "kendryte",
-        "stars": 13,
-        "forks": 8,
-        "size": 2833,
-        "created": "2023-03-27T03:48:17+00:00",
-        "updated": "2024-06-17T04:32:09+00:00",
-        "pushed": "2024-06-17T04:32:04+00:00",
-        "url": "https://github.com/kendryte/arduino-k210",
-        "id": 619394414
-    },
-    {
         "repo": "MaixPy-v1",
         "description": "MicroPython for K210 RISC-V, let's play with edge AI easier",
         "owner": "sipeed",
@@ -37882,19 +37830,6 @@
         "id": 832171077
     },
     {
-        "repo": "MaixindaSubtitle",
-        "description": "\u8fc8\u4fe1\u8fbe\u97f3\u89c6\u9891\u52a0\u5b57\u5e55\u662f\u4e00\u6b3e\u4e13\u6ce8\u4e8e\u81ea\u52a8\u5316\u89c6\u9891\u8f6c\u5f55\u6587\u672c\u3001\u5b57\u5e55\u5236\u4f5c\u3001\u5b57\u5e55\u7ffb\u8bd1\u7684AI\u81ea\u52a8\u5316\u5b57\u5e55\u8f6f\u4ef6\u3002\u901a\u8fc7AI\u4e00\u952e\u751f\u6210\u672c\u5730\u97f3\u9891\u4e0e\u89c6\u9891\u7684\u5b57\u5e55\u6587\u4ef6\uff0c\u53ca\u7ffb\u8bd1\u5b57\u5e55\u5185\u5bb9\u3002\u4f7f\u7528AI\u63d0\u53d6\u97f3\u89c6\u9891\u5bf9\u8bdd\u5185\u5bb9\u540e\u7ffb\u8bd1\u3001\u751f\u6210\u5b57\u5e55\u6587\u4ef6\uff0c\u53ef\u4ee5\u4f4e\u6210\u672c\u5e76\u9ad8\u6548\u5730\u5c06\u4efb\u610f\u8bed\u8a00\u7684\u89c6\u9891\u3001\u97f3\u9891\u8f6c\u5f55\u5e76\u7ffb\u8bd1\u4e3a\u76ee\u6807\u8bed\u8a00\uff0c\u9002\u7528\u4e8e\u591a\u79cd\u5b66\u4e60\u3001\u5de5\u4f5c\u3001\u5a31\u4e50\u573a\u666f\uff0c\u5982\u82f1\u8bed\u5b66\u4e60\u3001\u5916\u8bed\u6155\u8bfe\u89c6\u9891\u89c2\u770b\u3001\u5916\u8bed\u751f\u8089\u89c6\u9891\u62a2\u5148\u89c2\u770b\u3001\u89c6\u9891\u7ffb\u8bd1\u642c\u8fd0\u3002\u8f6f\u4ef6\u64cd\u4f5c\u7b80\u5355\uff0c\u4efb\u4f55\u4eba\u5747\u53ef\u8f7b\u677e\u4e0a\u624b\u5236\u4f5c\u81ea\u5df1\u7684\u591a\u8bed\u8a00\u5b57\u5e55\u548c\u89c6\u9891\u3002\u652f\u6301LLM\u7ffb\u8bd1\u3001GPU\u52a0\u901f\u3001\u591a\u4efb\u52a1\u5904\u7406\u3001VR\u89c6\u9891\u3001\u5b57\u5e55\u5fae\u8c03\u3001\u8d85\u591a\u8bed\u79cd\u3001\u5b9e\u65f6\u9884\u89c8\u3001\u65ad\u70b9\u7eed\u4f20\u7b49\u529f\u80fd\u3002",
-        "owner": "maixinda",
-        "stars": 0,
-        "forks": 0,
-        "size": 7,
-        "created": "2024-07-23T02:10:13+00:00",
-        "updated": "2024-07-23T03:05:06+00:00",
-        "pushed": "2024-07-23T03:05:04+00:00",
-        "url": "https://github.com/maixinda/MaixindaSubtitle",
-        "id": 832423250
-    },
-    {
         "repo": "Self-introduction",
         "description": null,
         "owner": "lqr0323",
@@ -38103,19 +38038,6 @@
         "id": 833548190
     },
     {
-        "repo": "canmv_docs",
-        "description": "canmv docs",
-        "owner": "kendryte",
-        "stars": 5,
-        "forks": 2,
-        "size": 2709,
-        "created": "2022-10-25T06:08:34+00:00",
-        "updated": "2024-07-26T06:51:29+00:00",
-        "pushed": "2024-07-26T06:51:25+00:00",
-        "url": "https://github.com/kendryte/canmv_docs",
-        "id": 557131050
-    },
-    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
@@ -38244,19 +38166,6 @@
         "pushed": "2024-08-01T03:49:57+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 126,
-        "forks": 26,
-        "size": 25386,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-07-31T12:42:11+00:00",
-        "pushed": "2024-08-01T03:21:57+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "opencv_zoo",
@@ -38415,32 +38324,6 @@
         "id": 770690133
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 697193,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-08-02T19:25:09+00:00",
-        "pushed": "2024-08-02T19:25:05+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8164,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-08-02T07:33:53+00:00",
-        "pushed": "2024-08-02T07:33:49+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "k210_garbage_classification",
         "description": null,
         "owner": "earky",
@@ -38480,19 +38363,6 @@
         "id": 836516059
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 158,
-        "forks": 31,
-        "size": 156278,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-08-03T21:14:09+00:00",
-        "pushed": "2024-08-03T19:13:37+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "yolo-for-k210",
         "description": "Yolo-for-k210",
         "owner": "vseasky",
@@ -38504,19 +38374,6 @@
         "pushed": "2024-08-02T16:26:05+00:00",
         "url": "https://github.com/vseasky/yolo-for-k210",
         "id": 277329257
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10123,
-        "forks": 4934,
-        "size": 871649,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-04T01:56:56+00:00",
-        "pushed": "2024-08-04T01:56:48+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "pkgs-test",
@@ -38584,15 +38441,184 @@
         "id": 837749306
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 130,
+        "forks": 27,
+        "size": 25486,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-08-05T03:20:15+00:00",
+        "pushed": "2024-08-06T05:56:37+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 158,
+        "forks": 31,
+        "size": 156354,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-03T21:14:09+00:00",
+        "pushed": "2024-08-05T19:22:51+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "kendryte",
+        "description": "Support for Kendryte K210 AI capable SOC",
+        "owner": "embeddedgo",
+        "stars": 17,
+        "forks": 4,
+        "size": 759,
+        "created": "2020-04-24T15:01:58+00:00",
+        "updated": "2024-08-05T17:36:21+00:00",
+        "pushed": "2024-08-05T17:36:34+00:00",
+        "url": "https://github.com/embeddedgo/kendryte",
+        "id": 258544188
+    },
+    {
+        "repo": "arduino-k210",
+        "description": "A arduino core for K210",
+        "owner": "kendryte",
+        "stars": 13,
+        "forks": 8,
+        "size": 2836,
+        "created": "2023-03-27T03:48:17+00:00",
+        "updated": "2024-08-06T02:21:49+00:00",
+        "pushed": "2024-08-06T02:22:08+00:00",
+        "url": "https://github.com/kendryte/arduino-k210",
+        "id": 619394414
+    },
+    {
+        "repo": "K230_training_scripts",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 29,
+        "forks": 3,
+        "size": 86110,
+        "created": "2023-08-28T11:13:57+00:00",
+        "updated": "2024-08-05T07:49:29+00:00",
+        "pushed": "2024-08-05T07:49:20+00:00",
+        "url": "https://github.com/kendryte/K230_training_scripts",
+        "id": 684056600
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10132,
+        "forks": 4934,
+        "size": 871664,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-08-06T03:32:24+00:00",
+        "pushed": "2024-08-06T03:58:23+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 707310,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-08-05T18:27:29+00:00",
+        "pushed": "2024-08-05T18:27:23+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "canmv_docs",
+        "description": "canmv docs",
+        "owner": "kendryte",
+        "stars": 5,
+        "forks": 2,
+        "size": 2710,
+        "created": "2022-10-25T06:08:34+00:00",
+        "updated": "2024-08-06T02:22:26+00:00",
+        "pushed": "2024-08-06T02:22:23+00:00",
+        "url": "https://github.com/kendryte/canmv_docs",
+        "id": 557131050
+    },
+    {
+        "repo": "patch",
+        "description": "Patches that add Embedded Go supported architectures to the reference Go compiler",
+        "owner": "embeddedgo",
+        "stars": 9,
+        "forks": 1,
+        "size": 8227,
+        "created": "2019-11-14T23:27:09+00:00",
+        "updated": "2024-08-05T21:41:44+00:00",
+        "pushed": "2024-08-05T21:41:40+00:00",
+        "url": "https://github.com/embeddedgo/patch",
+        "id": 221804737
+    },
+    {
+        "repo": "k230_linux_sdk_docs",
+        "description": "k230_linux_sdk_docs",
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 0,
+        "size": 33,
+        "created": "2024-08-05T07:01:50+00:00",
+        "updated": "2024-08-05T09:11:05+00:00",
+        "pushed": "2024-08-05T09:11:02+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk_docs",
+        "id": 838206459
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8165,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-08-05T13:38:50+00:00",
+        "pushed": "2024-08-05T13:38:46+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "MaixindaSubtitle",
+        "description": "MaixindaSubtitle is an AI automated subtitle software that focuses on automated video transcription, subtitle production, and subtitle translation. Generate local audio and video subtitle files with one click through AI, and translate subtitle. By using AI to extract audio and video conversation content, translate and generate subtitle files.",
+        "owner": "maixinda",
+        "stars": 4,
+        "forks": 0,
+        "size": 42,
+        "created": "2024-07-23T02:10:13+00:00",
+        "updated": "2024-08-05T09:55:20+00:00",
+        "pushed": "2024-08-05T09:27:01+00:00",
+        "url": "https://github.com/maixinda/MaixindaSubtitle",
+        "id": 832423250
+    },
+    {
+        "repo": "OpenHarmony-Simple-Project",
+        "description": null,
+        "owner": "Gyang53",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-08-06T05:38:42+00:00",
+        "updated": "2024-08-06T05:41:07+00:00",
+        "pushed": "2024-08-06T05:41:04+00:00",
+        "url": "https://github.com/Gyang53/OpenHarmony-Simple-Project",
+        "id": 838665982
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 8061,
+        "size": 8527,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-05T01:51:27+00:00",
-        "pushed": "2024-08-05T01:51:24+00:00",
+        "updated": "2024-08-06T01:49:35+00:00",
+        "pushed": "2024-08-06T01:49:32+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38602,10 +38628,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 1156,
+        "size": 1312,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-05T01:48:03+00:00",
-        "pushed": "2024-08-05T01:48:00+00:00",
+        "updated": "2024-08-06T01:45:35+00:00",
+        "pushed": "2024-08-06T01:45:32+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38615,10 +38641,10 @@
         "owner": "androidtrackers",
         "stars": 120,
         "forks": 35,
-        "size": 734656,
+        "size": 737499,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-04T12:25:11+00:00",
-        "pushed": "2024-08-04T12:25:08+00:00",
+        "updated": "2024-08-05T12:29:11+00:00",
+        "pushed": "2024-08-05T12:29:07+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
