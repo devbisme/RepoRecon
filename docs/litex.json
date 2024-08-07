@@ -7592,19 +7592,6 @@
         "id": 530395511
     },
     {
-        "repo": "ULX4M-PCIe-IO",
-        "description": null,
-        "owner": "intergalaktik",
-        "stars": 10,
-        "forks": 0,
-        "size": 32975,
-        "created": "2022-09-04T10:05:39Z",
-        "updated": "2023-03-06T19:01:06Z",
-        "pushed": "2022-10-31T13:11:01Z",
-        "url": "https://github.com/intergalaktik/ULX4M-PCIe-IO",
-        "id": 532501841
-    },
-    {
         "repo": "litex_verilog_axis_test",
         "description": "Integration test of Verilog AXI Stream modules (https://github.com/alexforencich/verilog-axis) with LiteX. ",
         "owner": "enjoy-digital",
@@ -12493,19 +12480,6 @@
         "id": 237940918
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 360,
-        "forks": 276,
-        "size": 4177,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-07-22T13:28:33+00:00",
-        "pushed": "2024-07-22T13:28:30+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -12582,19 +12556,6 @@
         "pushed": "2024-07-18T15:57:21+00:00",
         "url": "https://github.com/enjoy-digital/litedram",
         "id": 31147284
-    },
-    {
-        "repo": "riscv_loop_shuffler",
-        "description": null,
-        "owner": "Clay-Cui",
-        "stars": 0,
-        "forks": 0,
-        "size": 5361,
-        "created": "2024-05-16T07:14:24+00:00",
-        "updated": "2024-07-24T12:19:33+00:00",
-        "pushed": "2024-07-24T12:16:15+00:00",
-        "url": "https://github.com/Clay-Cui/riscv_loop_shuffler",
-        "id": 801409506
     },
     {
         "repo": "litescope",
@@ -12922,32 +12883,6 @@
         "id": 330793471
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2830,
-        "forks": 545,
-        "size": 17223,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-08-06T01:45:02+00:00",
-        "pushed": "2024-08-05T12:16:42+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 758,
-        "forks": 69,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-05T17:30:44+00:00",
-        "pushed": "2024-08-06T02:02:33+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -12959,32 +12894,6 @@
         "pushed": "2024-08-06T00:38:39+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 457,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-08-06T04:03:05+00:00",
-        "pushed": "2024-08-06T02:18:20+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1511,
-        "forks": 211,
-        "size": 209681,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-08-06T05:29:58+00:00",
-        "pushed": "2024-08-06T05:31:12+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "NaxRiscv",
@@ -13013,19 +12922,6 @@
         "id": 465199162
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 231,
-        "forks": 16,
-        "size": 13425,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-08-05T23:05:52+00:00",
-        "pushed": "2024-08-05T23:05:48+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "rvv-lite",
         "description": null,
         "owner": "UBC-ORCA",
@@ -13039,15 +12935,119 @@
         "id": 449036834
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2831,
+        "forks": 545,
+        "size": 17223,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-08-06T19:10:00+00:00",
+        "pushed": "2024-08-06T14:55:58+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 364,
+        "forks": 278,
+        "size": 4177,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-08-06T21:19:17+00:00",
+        "pushed": "2024-08-04T14:07:06+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 759,
+        "forks": 69,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-06T21:01:45+00:00",
+        "pushed": "2024-08-07T02:08:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 457,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-08-06T04:03:05+00:00",
+        "pushed": "2024-08-07T02:19:21+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1511,
+        "forks": 212,
+        "size": 209757,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-08-07T05:48:39+00:00",
+        "pushed": "2024-08-07T05:49:51+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 232,
+        "forks": 16,
+        "size": 13428,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-08-06T18:47:38+00:00",
+        "pushed": "2024-08-06T18:47:34+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "ULX4M-PCIe-IO",
+        "description": null,
+        "owner": "intergalaktik",
+        "stars": 11,
+        "forks": 0,
+        "size": 45852,
+        "created": "2022-09-04T10:05:39+00:00",
+        "updated": "2024-08-06T18:35:40+00:00",
+        "pushed": "2024-08-06T18:35:34+00:00",
+        "url": "https://github.com/intergalaktik/ULX4M-PCIe-IO",
+        "id": 532501841
+    },
+    {
+        "repo": "riscv_loop_shuffler",
+        "description": null,
+        "owner": "Clay-Cui",
+        "stars": 0,
+        "forks": 0,
+        "size": 5380,
+        "created": "2024-05-16T07:14:24+00:00",
+        "updated": "2024-08-06T14:39:57+00:00",
+        "pushed": "2024-08-06T14:46:28+00:00",
+        "url": "https://github.com/Clay-Cui/riscv_loop_shuffler",
+        "id": 801409506
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "3yqq",
         "stars": 2,
         "forks": 0,
-        "size": 89,
+        "size": 91,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-08-05T09:34:36+00:00",
-        "pushed": "2024-08-05T09:34:32+00:00",
+        "updated": "2024-08-06T09:33:16+00:00",
+        "pushed": "2024-08-06T09:33:12+00:00",
         "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13057,10 +13057,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1879,
+        "size": 1956,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-06T04:38:20+00:00",
-        "pushed": "2024-08-06T04:38:17+00:00",
+        "updated": "2024-08-07T04:38:31+00:00",
+        "pushed": "2024-08-07T04:38:28+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13070,10 +13070,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 63497,
+        "size": 63958,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-06T03:25:20+00:00",
-        "pushed": "2024-08-06T03:25:17+00:00",
+        "updated": "2024-08-07T03:25:29+00:00",
+        "pushed": "2024-08-07T03:25:25+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
