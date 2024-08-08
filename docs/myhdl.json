@@ -5213,19 +5213,6 @@
         "id": 605602834
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 1025,
-        "forks": 249,
-        "size": 13382,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-07-07T19:24:52+00:00",
-        "pushed": "2024-07-07T14:21:50+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "awesome-fpga",
         "description": "A collection of some awesome public FPGA projects.",
         "owner": "codingonion",
@@ -5330,16 +5317,42 @@
         "id": 314673708
     },
     {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1028,
+        "forks": 248,
+        "size": 13384,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-08-07T18:24:36+00:00",
+        "pushed": "2024-08-07T18:24:32+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41436,
+        "size": 41447,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-08-04T23:28:04+00:00",
-        "pushed": "2024-08-04T23:28:01+00:00",
+        "updated": "2024-08-07T23:30:14+00:00",
+        "pushed": "2024-08-07T23:30:11+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "AND-gate-cosim-madness",
+        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
+        "owner": "Kreijstal",
+        "stars": 0,
+        "forks": 0,
+        "size": 520,
+        "created": "2024-08-07T20:23:56+00:00",
+        "updated": "2024-08-07T22:38:04+00:00",
+        "pushed": "2024-08-07T22:38:01+00:00",
+        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
+        "id": 839539533
     }
 ]
