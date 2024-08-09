@@ -5304,19 +5304,6 @@
         "id": 784301828
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 4,
-        "forks": 1,
-        "size": 947,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-08-01T20:20:08+00:00",
-        "pushed": "2024-08-01T20:21:15+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "myhdl",
         "description": "The MyHDL development repository",
         "owner": "myhdl",
@@ -5335,12 +5322,25 @@
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41447,
+        "size": 41453,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-08-07T23:30:14+00:00",
-        "pushed": "2024-08-07T23:30:11+00:00",
+        "updated": "2024-08-08T10:18:53+00:00",
+        "pushed": "2024-08-08T10:18:50+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 4,
+        "forks": 1,
+        "size": 968,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-08-01T20:20:08+00:00",
+        "pushed": "2024-08-08T19:49:52+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     },
     {
         "repo": "AND-gate-cosim-madness",
@@ -5348,10 +5348,10 @@
         "owner": "Kreijstal",
         "stars": 0,
         "forks": 0,
-        "size": 520,
+        "size": 533,
         "created": "2024-08-07T20:23:56+00:00",
-        "updated": "2024-08-07T22:38:04+00:00",
-        "pushed": "2024-08-07T22:38:01+00:00",
+        "updated": "2024-08-08T17:36:44+00:00",
+        "pushed": "2024-08-08T17:36:41+00:00",
         "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
         "id": 839539533
     }
