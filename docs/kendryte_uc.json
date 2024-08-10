@@ -37856,19 +37856,6 @@
         "id": 823275171
     },
     {
-        "repo": "MaixSense-drivers-java",
-        "description": "Collection of drivers to send commands and receive data from the MaixSense-A010 TOF camera.",
-        "owner": "PBernalPolo",
-        "stars": 0,
-        "forks": 0,
-        "size": 88,
-        "created": "2024-07-02T17:56:48+00:00",
-        "updated": "2024-07-23T21:47:13+00:00",
-        "pushed": "2024-07-23T21:47:10+00:00",
-        "url": "https://github.com/PBernalPolo/MaixSense-drivers-java",
-        "id": 823271876
-    },
-    {
         "repo": "maixchrome_beta",
         "description": null,
         "owner": "yangwenjie1231",
@@ -38036,19 +38023,6 @@
         "pushed": "2024-07-27T18:39:52+00:00",
         "url": "https://github.com/davidly/ttt",
         "id": 456793068
-    },
-    {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1546,
-        "forks": 442,
-        "size": 48318,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2024-07-29T15:42:17+00:00",
-        "pushed": "2024-07-30T04:03:19+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
     },
     {
         "repo": "laserweed",
@@ -38402,19 +38376,6 @@
         "id": 838206459
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8165,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-08-05T13:38:50+00:00",
-        "pushed": "2024-08-05T13:38:46+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "MaixindaSubtitle",
         "description": "MaixindaSubtitle is an AI automated subtitle software that focuses on automated video transcription, subtitle production, and subtitle translation. Generate local audio and video subtitle files with one click through AI, and translate subtitle. By using AI to extract audio and video conversation content, translate and generate subtitle files.",
         "owner": "maixinda",
@@ -38504,19 +38465,6 @@
         "pushed": "2024-08-08T03:41:34+00:00",
         "url": "https://github.com/sipeed/MaixCDK",
         "id": 733722162
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 589,
-        "forks": 175,
-        "size": 1057,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2024-08-06T16:12:38+00:00",
-        "pushed": "2024-08-07T14:49:53+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
     },
     {
         "repo": "nncase",
@@ -38649,19 +38597,6 @@
         "id": 814875365
     },
     {
-        "repo": "tech",
-        "description": null,
-        "owner": "cenzwong",
-        "stars": 0,
-        "forks": 0,
-        "size": 18498,
-        "created": "2019-10-31T07:30:35+00:00",
-        "updated": "2024-08-08T10:08:51+00:00",
-        "pushed": "2024-08-08T10:08:48+00:00",
-        "url": "https://github.com/cenzwong/tech",
-        "id": 218708914
-    },
-    {
         "repo": "BSP_STM32",
         "description": "STM\u7684BSP\u6d4b\u8bd5",
         "owner": "eternal-echo",
@@ -38688,15 +38623,106 @@
         "id": 814875474
     },
     {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1554,
+        "forks": 443,
+        "size": 48318,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2024-08-09T07:49:45+00:00",
+        "pushed": "2024-08-08T02:22:01+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 592,
+        "forks": 177,
+        "size": 1058,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2024-08-09T17:20:59+00:00",
+        "pushed": "2024-08-09T06:58:23+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8167,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-08-10T06:05:09+00:00",
+        "pushed": "2024-08-10T06:05:06+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "extract-page-table",
+        "description": null,
+        "owner": "binary-bruce",
+        "stars": 0,
+        "forks": 0,
+        "size": 86,
+        "created": "2024-08-10T01:14:20+00:00",
+        "updated": "2024-08-10T06:02:43+00:00",
+        "pushed": "2024-08-10T06:02:39+00:00",
+        "url": "https://github.com/binary-bruce/extract-page-table",
+        "id": 840546204
+    },
+    {
+        "repo": "MaixCode",
+        "description": "MaixVision on VSCode!",
+        "owner": "Cranyozen",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2024-08-09T09:40:08+00:00",
+        "updated": "2024-08-09T09:40:11+00:00",
+        "pushed": "2024-08-09T09:40:09+00:00",
+        "url": "https://github.com/Cranyozen/MaixCode",
+        "id": 840250973
+    },
+    {
+        "repo": "MaixSense-drivers-java",
+        "description": "Collection of drivers to send commands and receive data from the MaixSense-A010 TOF camera.",
+        "owner": "PBernalPolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 90,
+        "created": "2024-07-02T17:56:48+00:00",
+        "updated": "2024-08-09T18:14:19+00:00",
+        "pushed": "2024-08-09T18:14:16+00:00",
+        "url": "https://github.com/PBernalPolo/MaixSense-drivers-java",
+        "id": 823271876
+    },
+    {
+        "repo": "tech",
+        "description": null,
+        "owner": "cenzwong",
+        "stars": 0,
+        "forks": 0,
+        "size": 18501,
+        "created": "2019-10-31T07:30:35+00:00",
+        "updated": "2024-08-09T10:40:08+00:00",
+        "pushed": "2024-08-09T10:40:05+00:00",
+        "url": "https://github.com/cenzwong/tech",
+        "id": 218708914
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 9461,
+        "size": 9928,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-09T01:51:25+00:00",
-        "pushed": "2024-08-09T01:51:22+00:00",
+        "updated": "2024-08-10T01:50:03+00:00",
+        "pushed": "2024-08-10T01:50:00+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38706,10 +38732,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 1782,
+        "size": 1939,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-09T01:47:50+00:00",
-        "pushed": "2024-08-09T01:47:47+00:00",
+        "updated": "2024-08-10T01:46:49+00:00",
+        "pushed": "2024-08-10T01:46:46+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38719,10 +38745,10 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 737506,
+        "size": 737508,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-08T12:28:13+00:00",
-        "pushed": "2024-08-08T12:28:09+00:00",
+        "updated": "2024-08-09T12:28:31+00:00",
+        "pushed": "2024-08-09T12:28:27+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

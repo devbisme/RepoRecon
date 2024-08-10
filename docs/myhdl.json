@@ -5265,19 +5265,6 @@
         "id": 38977954
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 8,
-        "forks": 3,
-        "size": 678,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2024-07-25T09:29:12+00:00",
-        "pushed": "2024-07-25T09:29:09+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "ApproximateMult",
         "description": null,
         "owner": "FCHXWH823",
@@ -5354,5 +5341,31 @@
         "pushed": "2024-08-08T17:36:41+00:00",
         "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
         "id": 839539533
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 8,
+        "forks": 3,
+        "size": 693,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2024-08-09T17:41:40+00:00",
+        "pushed": "2024-08-09T17:41:36+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "galvan-v",
+        "description": "RISC-V implementation in MyHDL and some optimizations",
+        "owner": "slottwo",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2024-08-09T15:28:00+00:00",
+        "updated": "2024-08-09T15:28:04+00:00",
+        "pushed": "2024-08-09T15:28:01+00:00",
+        "url": "https://github.com/slottwo/galvan-v",
+        "id": 840384960
     }
 ]

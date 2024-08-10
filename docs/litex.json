@@ -12038,19 +12038,6 @@
         "id": 738233144
     },
     {
-        "repo": "linux-on-litex-rocket",
-        "description": "Run 64-bit Linux on LiteX + RocketChip",
-        "owner": "litex-hub",
-        "stars": 110,
-        "forks": 16,
-        "size": 61,
-        "created": "2020-12-17T16:21:16+00:00",
-        "updated": "2024-06-21T15:36:48+00:00",
-        "pushed": "2024-06-21T15:36:44+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-rocket",
-        "id": 322349362
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -12675,19 +12662,6 @@
         "id": 835525952
     },
     {
-        "repo": "digital-design-dataset",
-        "description": null,
-        "owner": "stefanpie",
-        "stars": 0,
-        "forks": 0,
-        "size": 3851,
-        "created": "2022-09-03T21:39:38+00:00",
-        "updated": "2024-07-30T02:17:03+00:00",
-        "pushed": "2024-07-30T02:17:00+00:00",
-        "url": "https://github.com/stefanpie/digital-design-dataset",
-        "id": 532379641
-    },
-    {
         "repo": "litespi",
         "description": "Small footprint and configurable SPI core",
         "owner": "litex-hub",
@@ -12844,19 +12818,6 @@
         "id": 137700800
     },
     {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 5,
-        "forks": 0,
-        "size": 360,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2024-08-04T10:20:40+00:00",
-        "pushed": "2024-08-04T10:20:37+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -12907,19 +12868,6 @@
         "pushed": "2024-08-04T14:07:06+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1511,
-        "forks": 212,
-        "size": 209757,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-08-07T05:48:39+00:00",
-        "pushed": "2024-08-07T05:49:51+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "riscv_loop_shuffler",
@@ -12987,19 +12935,6 @@
         "id": 838847664
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 759,
-        "forks": 69,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-06T21:01:45+00:00",
-        "pushed": "2024-08-09T02:09:46+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13039,19 +12974,6 @@
         "id": 434342707
     },
     {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "3yqq",
-        "stars": 2,
-        "forks": 0,
-        "size": 109,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-08-08T09:30:49+00:00",
-        "pushed": "2024-08-08T12:56:04+00:00",
-        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
         "repo": "adafruit-circuitpython",
         "description": "Detatched fork of circuitpython for debugging",
         "owner": "graeme-winter",
@@ -13065,15 +12987,93 @@
         "id": 835569180
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 759,
+        "forks": 69,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-06T21:01:45+00:00",
+        "pushed": "2024-08-10T01:58:43+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "linux-on-litex-rocket",
+        "description": "Run 64-bit Linux on LiteX + RocketChip",
+        "owner": "litex-hub",
+        "stars": 180,
+        "forks": 18,
+        "size": 62,
+        "created": "2020-12-17T16:21:16+00:00",
+        "updated": "2024-08-09T15:08:24+00:00",
+        "pushed": "2024-08-09T15:08:21+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-rocket",
+        "id": 322349362
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1514,
+        "forks": 212,
+        "size": 209540,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-08-09T15:29:56+00:00",
+        "pushed": "2024-08-09T15:21:18+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 2,
+        "forks": 0,
+        "size": 114,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-08-09T09:08:59+00:00",
+        "pushed": "2024-08-09T09:08:55+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 5,
+        "forks": 0,
+        "size": 369,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2024-08-09T08:03:13+00:00",
+        "pushed": "2024-08-09T08:03:11+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
+        "repo": "digital-design-dataset",
+        "description": null,
+        "owner": "stefanpie",
+        "stars": 0,
+        "forks": 0,
+        "size": 3861,
+        "created": "2022-09-03T21:39:38+00:00",
+        "updated": "2024-08-09T15:46:05+00:00",
+        "pushed": "2024-08-09T15:46:01+00:00",
+        "url": "https://github.com/stefanpie/digital-design-dataset",
+        "id": 532379641
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2067,
+        "size": 2068,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-09T04:37:56+00:00",
-        "pushed": "2024-08-09T04:37:53+00:00",
+        "updated": "2024-08-10T04:40:22+00:00",
+        "pushed": "2024-08-10T04:40:19+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13083,10 +13083,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 64865,
+        "size": 65322,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-09T03:25:26+00:00",
-        "pushed": "2024-08-09T03:25:23+00:00",
+        "updated": "2024-08-10T03:27:59+00:00",
+        "pushed": "2024-08-10T03:27:56+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
