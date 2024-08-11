@@ -38103,19 +38103,6 @@
         "id": 813998549
     },
     {
-        "repo": "k230_canmv",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 72,
-        "forks": 4,
-        "size": 49454,
-        "created": "2023-10-17T08:04:23+00:00",
-        "updated": "2024-08-02T03:46:18+00:00",
-        "pushed": "2024-08-02T05:37:52+00:00",
-        "url": "https://github.com/kendryte/k230_canmv",
-        "id": 706052378
-    },
-    {
         "repo": "Security-RISC",
         "description": "Proof-of-concept implementation for the paper \"A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs\" (IEEE S&P 2023)",
         "owner": "cispa",
@@ -38480,19 +38467,6 @@
         "id": 128056991
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 159,
-        "forks": 32,
-        "size": 158327,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-08-06T07:57:23+00:00",
-        "pushed": "2024-08-09T00:52:44+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -38504,19 +38478,6 @@
         "pushed": "2024-08-08T09:06:05+00:00",
         "url": "https://github.com/kendryte/k230_linux_sdk",
         "id": 793843389
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10144,
-        "forks": 4939,
-        "size": 871602,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-09T04:54:16+00:00",
-        "pushed": "2024-08-09T04:54:11+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "krux_binaries",
@@ -38727,15 +38688,54 @@
         "id": 685317589
     },
     {
+        "repo": "k230_canmv",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 73,
+        "forks": 4,
+        "size": 49466,
+        "created": "2023-10-17T08:04:23+00:00",
+        "updated": "2024-08-04T11:07:25+00:00",
+        "pushed": "2024-08-10T21:44:46+00:00",
+        "url": "https://github.com/kendryte/k230_canmv",
+        "id": 706052378
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 160,
+        "forks": 32,
+        "size": 158384,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-10T08:38:29+00:00",
+        "pushed": "2024-08-10T19:29:30+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10151,
+        "forks": 4940,
+        "size": 871602,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-08-10T14:04:30+00:00",
+        "pushed": "2024-08-11T04:15:10+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 1939,
+        "size": 2097,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-10T01:46:49+00:00",
-        "pushed": "2024-08-10T01:46:46+00:00",
+        "updated": "2024-08-11T01:53:48+00:00",
+        "pushed": "2024-08-11T01:53:46+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38745,10 +38745,10 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 737508,
+        "size": 737509,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-09T12:28:31+00:00",
-        "pushed": "2024-08-09T12:28:27+00:00",
+        "updated": "2024-08-10T12:26:27+00:00",
+        "pushed": "2024-08-10T12:26:24+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

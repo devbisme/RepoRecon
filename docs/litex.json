@@ -13,19 +13,6 @@
         "id": 283404
     },
     {
-        "repo": "litexbrl",
-        "description": "XBRL parser for Ruby",
-        "owner": "tynmarket",
-        "stars": 17,
-        "forks": 4,
-        "size": 451,
-        "created": "2013-09-28T06:33:12Z",
-        "updated": "2023-03-10T04:14:08Z",
-        "pushed": "2020-05-09T09:01:16Z",
-        "url": "https://github.com/tynmarket/litexbrl",
-        "id": 13168458
-    },
-    {
         "repo": "litex",
         "description": "A LaTeX plugin for Light Table",
         "owner": "rschroll",
@@ -12792,19 +12779,6 @@
         "id": 793871326
     },
     {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 11,
-        "forks": 0,
-        "size": 199,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2024-08-04T07:15:50+00:00",
-        "pushed": "2024-08-04T07:15:47+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
-    },
-    {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp/Miningcore/NOMP Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 VPS or Dedicated Servers",
         "owner": "goodthebest",
@@ -12816,19 +12790,6 @@
         "pushed": "2024-08-04T07:13:50+00:00",
         "url": "https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "id": 137700800
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 31197,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-08-05T01:06:19+00:00",
-        "pushed": "2024-08-05T01:06:15+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "ThunderScope",
@@ -12881,19 +12842,6 @@
         "pushed": "2024-08-06T14:46:28+00:00",
         "url": "https://github.com/Clay-Cui/riscv_loop_shuffler",
         "id": 801409506
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2833,
-        "forks": 545,
-        "size": 17226,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-08-07T18:15:53+00:00",
-        "pushed": "2024-08-07T07:23:21+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "NaxRiscv",
@@ -12987,19 +12935,6 @@
         "id": 835569180
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 759,
-        "forks": 69,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-06T21:01:45+00:00",
-        "pushed": "2024-08-10T01:58:43+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "linux-on-litex-rocket",
         "description": "Run 64-bit Linux on LiteX + RocketChip",
         "owner": "litex-hub",
@@ -13024,19 +12959,6 @@
         "pushed": "2024-08-09T15:21:18+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "3yqq",
-        "stars": 2,
-        "forks": 0,
-        "size": 114,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-08-09T09:08:59+00:00",
-        "pushed": "2024-08-09T09:08:55+00:00",
-        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
     },
     {
         "repo": "streams",
@@ -13065,17 +12987,95 @@
         "id": 532379641
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2836,
+        "forks": 546,
+        "size": 17226,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-08-10T04:04:17+00:00",
+        "pushed": "2024-08-11T03:44:20+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 759,
+        "forks": 69,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-06T21:01:45+00:00",
+        "pushed": "2024-08-11T02:01:20+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litexbrl",
+        "description": "XBRL parser for Ruby",
+        "owner": "tynmarket",
+        "stars": 21,
+        "forks": 6,
+        "size": 462,
+        "created": "2013-09-28T06:33:12+00:00",
+        "updated": "2024-08-11T02:55:27+00:00",
+        "pushed": "2024-08-11T02:57:34+00:00",
+        "url": "https://github.com/tynmarket/litexbrl",
+        "id": 13168458
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 43,
+        "forks": 0,
+        "size": 199,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2024-08-11T05:28:40+00:00",
+        "pushed": "2024-08-11T05:28:37+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 2,
+        "forks": 0,
+        "size": 120,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-08-10T11:36:22+00:00",
+        "pushed": "2024-08-10T11:36:18+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2068,
+        "size": 2070,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-10T04:40:22+00:00",
-        "pushed": "2024-08-10T04:40:19+00:00",
+        "updated": "2024-08-11T04:37:24+00:00",
+        "pushed": "2024-08-11T04:37:21+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 31678,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-08-11T00:57:32+00:00",
+        "pushed": "2024-08-11T00:57:29+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13083,10 +13083,10 @@
         "owner": "hiifong",
         "stars": 4,
         "forks": 0,
-        "size": 65322,
+        "size": 65764,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-10T03:27:59+00:00",
-        "pushed": "2024-08-10T03:27:56+00:00",
+        "updated": "2024-08-11T03:24:50+00:00",
+        "pushed": "2024-08-11T03:24:47+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
