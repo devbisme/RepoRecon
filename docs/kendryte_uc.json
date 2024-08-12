@@ -33748,19 +33748,6 @@
         "id": 737828178
     },
     {
-        "repo": "inf351",
-        "description": "Sistemas Embarcados com Arduino, NodeMCU, Esp32, K210",
-        "owner": "arduinoufv",
-        "stars": 7,
-        "forks": 4,
-        "size": 8154,
-        "created": "2020-03-01T09:07:41+00:00",
-        "updated": "2023-09-04T11:43:44+00:00",
-        "pushed": "2024-01-04T22:11:52+00:00",
-        "url": "https://github.com/arduinoufv/inf351",
-        "id": 244118295
-    },
-    {
         "repo": "Arduino_libs",
         "description": null,
         "owner": "NitiponZZZZ",
@@ -37024,19 +37011,6 @@
         "id": 805853219
     },
     {
-        "repo": "ScratchHacksBook",
-        "description": null,
-        "owner": "610t",
-        "stars": 0,
-        "forks": 0,
-        "size": 58065,
-        "created": "2024-05-18T00:31:41+00:00",
-        "updated": "2024-06-24T03:49:31+00:00",
-        "pushed": "2024-06-24T03:49:27+00:00",
-        "url": "https://github.com/610t/ScratchHacksBook",
-        "id": 802309493
-    },
-    {
         "repo": "LilyGo-K210-Script",
         "description": null,
         "owner": "Xinyuan-LilyGO",
@@ -37399,19 +37373,6 @@
         "pushed": "2024-07-09T11:11:12+00:00",
         "url": "https://github.com/HelpCreate/k230_hal",
         "id": 780991237
-    },
-    {
-        "repo": "Xiaomi_Kernel_OpenSource",
-        "description": "Xiaomi Mobile Phone Kernel OpenSource",
-        "owner": "MiCode",
-        "stars": 8578,
-        "forks": 3164,
-        "size": 4004037,
-        "created": "2014-12-31T02:48:55+00:00",
-        "updated": "2024-07-09T16:54:22+00:00",
-        "pushed": "2024-07-09T08:16:40+00:00",
-        "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-        "id": 28653585
     },
     {
         "repo": "-2024_K2102_2140550",
@@ -38454,19 +38415,6 @@
         "id": 733722162
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 711,
-        "forks": 180,
-        "size": 59015,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-08-07T02:39:34+00:00",
-        "pushed": "2024-08-09T05:58:04+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -38610,19 +38558,6 @@
         "id": 390637491
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8167,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-08-10T06:05:09+00:00",
-        "pushed": "2024-08-10T06:05:06+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "extract-page-table",
         "description": null,
         "owner": "binary-bruce",
@@ -38675,19 +38610,6 @@
         "id": 218708914
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 9928,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-10T01:50:03+00:00",
-        "pushed": "2024-08-10T01:50:00+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -38701,6 +38623,19 @@
         "id": 706052378
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 711,
+        "forks": 180,
+        "size": 59000,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-08-07T02:39:34+00:00",
+        "pushed": "2024-08-12T06:10:19+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -38709,7 +38644,7 @@
         "size": 158384,
         "created": "2021-07-12T02:24:17+00:00",
         "updated": "2024-08-10T08:38:29+00:00",
-        "pushed": "2024-08-10T19:29:30+00:00",
+        "pushed": "2024-08-11T22:22:43+00:00",
         "url": "https://github.com/selfcustody/krux",
         "id": 385102171
     },
@@ -38717,14 +38652,79 @@
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
         "owner": "RT-Thread",
-        "stars": 10151,
+        "stars": 10154,
         "forks": 4940,
-        "size": 871602,
+        "size": 871620,
         "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-10T14:04:30+00:00",
-        "pushed": "2024-08-11T04:15:10+00:00",
+        "updated": "2024-08-12T03:38:54+00:00",
+        "pushed": "2024-08-12T04:34:51+00:00",
         "url": "https://github.com/RT-Thread/rt-thread",
         "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8472,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-08-11T14:13:27+00:00",
+        "pushed": "2024-08-11T14:13:24+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "inf351",
+        "description": "Sistemas Embarcados com Arduino, NodeMCU, Esp32, K210",
+        "owner": "arduinoufv",
+        "stars": 7,
+        "forks": 3,
+        "size": 8161,
+        "created": "2020-03-01T09:07:41+00:00",
+        "updated": "2024-08-11T21:18:39+00:00",
+        "pushed": "2024-08-11T21:18:36+00:00",
+        "url": "https://github.com/arduinoufv/inf351",
+        "id": 244118295
+    },
+    {
+        "repo": "Xiaomi_Kernel_OpenSource",
+        "description": "Xiaomi Mobile Phone Kernel OpenSource",
+        "owner": "MiCode",
+        "stars": 8618,
+        "forks": 3179,
+        "size": 4004037,
+        "created": "2014-12-31T02:48:55+00:00",
+        "updated": "2024-08-12T01:05:22+00:00",
+        "pushed": "2024-08-12T05:29:02+00:00",
+        "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+        "id": 28653585
+    },
+    {
+        "repo": "Electric_Resources",
+        "description": ".",
+        "owner": "yunxi001",
+        "stars": 0,
+        "forks": 0,
+        "size": 674424,
+        "created": "2024-08-11T07:45:05+00:00",
+        "updated": "2024-08-11T09:40:10+00:00",
+        "pushed": "2024-08-11T09:40:08+00:00",
+        "url": "https://github.com/yunxi001/Electric_Resources",
+        "id": 840953740
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 10394,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-08-12T01:52:54+00:00",
+        "pushed": "2024-08-12T01:52:51+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
     },
     {
         "repo": "awesome-stars",
@@ -38732,10 +38732,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 2097,
+        "size": 2254,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-11T01:53:48+00:00",
-        "pushed": "2024-08-11T01:53:46+00:00",
+        "updated": "2024-08-12T01:49:43+00:00",
+        "pushed": "2024-08-12T01:49:40+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38745,11 +38745,24 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 737509,
+        "size": 737962,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-10T12:26:27+00:00",
-        "pushed": "2024-08-10T12:26:24+00:00",
+        "updated": "2024-08-11T12:26:08+00:00",
+        "pushed": "2024-08-11T12:26:05+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "ScratchHacksBook",
+        "description": null,
+        "owner": "610t",
+        "stars": 0,
+        "forks": 0,
+        "size": 58176,
+        "created": "2024-05-18T00:31:41+00:00",
+        "updated": "2024-08-11T08:28:36+00:00",
+        "pushed": "2024-08-11T08:28:33+00:00",
+        "url": "https://github.com/610t/ScratchHacksBook",
+        "id": 802309493
     }
 ]
