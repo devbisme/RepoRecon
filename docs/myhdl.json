@@ -5317,32 +5317,6 @@
         "id": 839539533
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 8,
-        "forks": 3,
-        "size": 693,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2024-08-09T17:41:40+00:00",
-        "pushed": "2024-08-09T17:41:36+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
-        "repo": "galvan-v",
-        "description": "RISC-V implementation in MyHDL and some optimizations",
-        "owner": "slottwo",
-        "stars": 0,
-        "forks": 0,
-        "size": 14,
-        "created": "2024-08-09T15:28:00+00:00",
-        "updated": "2024-08-09T15:28:04+00:00",
-        "pushed": "2024-08-09T15:28:01+00:00",
-        "url": "https://github.com/slottwo/galvan-v",
-        "id": 840384960
-    },
-    {
         "repo": "cyrite.howto",
         "description": null,
         "owner": "hackfin",
@@ -5367,5 +5341,31 @@
         "pushed": "2024-08-09T23:14:02+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 8,
+        "forks": 3,
+        "size": 702,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2024-08-12T13:28:12+00:00",
+        "pushed": "2024-08-12T13:28:08+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "galvan-v",
+        "description": "RISC-V implementation in MyHDL and some optimizations",
+        "owner": "slottwo",
+        "stars": 0,
+        "forks": 0,
+        "size": 16,
+        "created": "2024-08-09T15:28:00+00:00",
+        "updated": "2024-08-09T15:28:04+00:00",
+        "pushed": "2024-08-12T18:19:14+00:00",
+        "url": "https://github.com/slottwo/galvan-v",
+        "id": 840384960
     }
 ]
