@@ -22126,19 +22126,6 @@
         "id": 452575516
     },
     {
-        "repo": "OrtKI",
-        "description": "unofficial onnxruntime kernel interface",
-        "owner": "kendryte",
-        "stars": 1,
-        "forks": 1,
-        "size": 244,
-        "created": "2022-01-27T07:18:12Z",
-        "updated": "2023-09-05T15:42:54Z",
-        "pushed": "2023-05-23T08:30:17Z",
-        "url": "https://github.com/kendryte/OrtKI",
-        "id": 452579479
-    },
-    {
         "repo": "StyleGAN-Human",
         "description": "StyleGAN-Human: A Data-Centric Odyssey of Human Generation",
         "owner": "stylegan-human",
@@ -36790,19 +36777,6 @@
         "id": 807631183
     },
     {
-        "repo": "edge-ai",
-        "description": "A curated list of resources for embedded AI",
-        "owner": "crespum",
-        "stars": 319,
-        "forks": 39,
-        "size": 72,
-        "created": "2018-07-25T18:05:37+00:00",
-        "updated": "2024-06-15T19:21:14+00:00",
-        "pushed": "2024-06-12T09:26:48+00:00",
-        "url": "https://github.com/crespum/edge-ai",
-        "id": 142336474
-    },
-    {
         "repo": "mini-rv32ima_fork",
         "description": "[WIP] My mini-rv32ima fork, for mingw",
         "owner": "weimingtom",
@@ -37778,19 +37752,6 @@
         "id": 832123939
     },
     {
-        "repo": "MaixSense-processingTester",
-        "description": null,
-        "owner": "PBernalPolo",
-        "stars": 0,
-        "forks": 0,
-        "size": 4843,
-        "created": "2024-07-02T18:05:37+00:00",
-        "updated": "2024-07-23T21:51:03+00:00",
-        "pushed": "2024-07-23T21:51:00+00:00",
-        "url": "https://github.com/PBernalPolo/MaixSense-processingTester",
-        "id": 823275171
-    },
-    {
         "repo": "maixchrome_beta",
         "description": null,
         "owner": "yangwenjie1231",
@@ -38623,32 +38584,6 @@
         "id": 842286460
     },
     {
-        "repo": "AI-CAM",
-        "description": null,
-        "owner": "ouo314",
-        "stars": 0,
-        "forks": 0,
-        "size": 1,
-        "created": "2024-08-14T04:16:08+00:00",
-        "updated": "2024-08-14T04:17:57+00:00",
-        "pushed": "2024-08-14T04:17:54+00:00",
-        "url": "https://github.com/ouo314/AI-CAM",
-        "id": 842297091
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 712,
-        "forks": 180,
-        "size": 58810,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-08-13T17:03:31+00:00",
-        "pushed": "2024-08-15T02:49:00+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -38675,32 +38610,6 @@
         "id": 628955404
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8483,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-08-14T08:01:35+00:00",
-        "pushed": "2024-08-14T08:01:33+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
-        "repo": "MaixSense-drivers-java",
-        "description": "Collection of drivers to send commands and receive data from the MaixSense-A010 TOF camera.",
-        "owner": "PBernalPolo",
-        "stars": 0,
-        "forks": 0,
-        "size": 50,
-        "created": "2024-07-02T17:56:48+00:00",
-        "updated": "2024-08-09T18:14:19+00:00",
-        "pushed": "2024-08-14T19:53:49+00:00",
-        "url": "https://github.com/PBernalPolo/MaixSense-drivers-java",
-        "id": 823271876
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -38712,19 +38621,6 @@
         "pushed": "2024-08-16T05:31:13+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 160,
-        "forks": 32,
-        "size": 160392,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-08-10T08:38:29+00:00",
-        "pushed": "2024-08-15T19:41:58+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "MaixCDK",
@@ -38751,19 +38647,6 @@
         "pushed": "2024-08-15T21:01:01+00:00",
         "url": "https://github.com/opencv/opencv_zoo",
         "id": 390637491
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10175,
-        "forks": 4945,
-        "size": 874485,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-15T12:44:58+00:00",
-        "pushed": "2024-08-16T01:04:49+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "krux_binaries",
@@ -38857,15 +38740,132 @@
         "id": 218708914
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 713,
+        "forks": 180,
+        "size": 58793,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-08-15T15:38:49+00:00",
+        "pushed": "2024-08-16T07:06:47+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "edge-ai",
+        "description": "A curated list of resources for embedded AI",
+        "owner": "crespum",
+        "stars": 339,
+        "forks": 40,
+        "size": 72,
+        "created": "2018-07-25T18:05:37+00:00",
+        "updated": "2024-08-17T02:54:51+00:00",
+        "pushed": "2024-08-14T21:26:58+00:00",
+        "url": "https://github.com/crespum/edge-ai",
+        "id": 142336474
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 161,
+        "forks": 32,
+        "size": 160393,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-16T22:29:24+00:00",
+        "pushed": "2024-08-16T23:16:19+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10176,
+        "forks": 4944,
+        "size": 875175,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-08-17T04:02:23+00:00",
+        "pushed": "2024-08-17T00:20:34+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8495,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-08-17T06:10:42+00:00",
+        "pushed": "2024-08-17T06:10:39+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "OrtKI",
+        "description": "unofficial onnxruntime kernel interface",
+        "owner": "kendryte",
+        "stars": 1,
+        "forks": 2,
+        "size": 273,
+        "created": "2022-01-27T07:18:12+00:00",
+        "updated": "2024-08-16T09:27:35+00:00",
+        "pushed": "2024-08-16T09:27:31+00:00",
+        "url": "https://github.com/kendryte/OrtKI",
+        "id": 452579479
+    },
+    {
+        "repo": "MaixSense-processingTester",
+        "description": null,
+        "owner": "PBernalPolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 4860,
+        "created": "2024-07-02T18:05:37+00:00",
+        "updated": "2024-08-16T21:05:12+00:00",
+        "pushed": "2024-08-16T21:05:09+00:00",
+        "url": "https://github.com/PBernalPolo/MaixSense-processingTester",
+        "id": 823275171
+    },
+    {
+        "repo": "MaixSense-drivers-java",
+        "description": "Collection of drivers to send commands and receive data from the MaixSense-A010 TOF camera.",
+        "owner": "PBernalPolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 63,
+        "created": "2024-07-02T17:56:48+00:00",
+        "updated": "2024-08-16T15:23:10+00:00",
+        "pushed": "2024-08-16T15:23:07+00:00",
+        "url": "https://github.com/PBernalPolo/MaixSense-drivers-java",
+        "id": 823271876
+    },
+    {
+        "repo": "AI-CAM",
+        "description": null,
+        "owner": "ouo314",
+        "stars": 0,
+        "forks": 0,
+        "size": 1849,
+        "created": "2024-08-14T04:16:08+00:00",
+        "updated": "2024-08-17T05:53:03+00:00",
+        "pushed": "2024-08-17T05:53:00+00:00",
+        "url": "https://github.com/ouo314/AI-CAM",
+        "id": 842297091
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 2101,
+        "size": 2568,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-16T01:49:47+00:00",
-        "pushed": "2024-08-16T01:49:44+00:00",
+        "updated": "2024-08-17T01:46:46+00:00",
+        "pushed": "2024-08-17T01:46:43+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38875,10 +38875,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 2888,
+        "size": 3048,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-16T01:46:30+00:00",
-        "pushed": "2024-08-16T01:46:26+00:00",
+        "updated": "2024-08-17T01:43:43+00:00",
+        "pushed": "2024-08-17T01:43:40+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38888,10 +38888,10 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 741268,
+        "size": 736240,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-15T12:29:47+00:00",
-        "pushed": "2024-08-15T12:29:43+00:00",
+        "updated": "2024-08-16T12:28:25+00:00",
+        "pushed": "2024-08-16T12:28:21+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
