@@ -12506,32 +12506,6 @@
         "id": 109838222
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 4,
-        "forks": 4,
-        "size": 294,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-07-27T23:01:12+00:00",
-        "pushed": "2024-07-27T23:01:05+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
-        "repo": "openfpga-litex",
-        "description": "A RISC-V software platform, exposing Analogue Pocket capabilities in a simple way",
-        "owner": "agg23",
-        "stars": 34,
-        "forks": 1,
-        "size": 2328,
-        "created": "2023-11-21T18:51:23+00:00",
-        "updated": "2024-07-24T15:40:20+00:00",
-        "pushed": "2024-07-28T14:21:41+00:00",
-        "url": "https://github.com/agg23/openfpga-litex",
-        "id": 721777325
-    },
-    {
         "repo": "litepcie_driver_win",
         "description": "Windows Driver for the LitePCIe LiteX core",
         "owner": "NateMeyer",
@@ -12582,19 +12556,6 @@
         "pushed": "2024-07-31T19:27:32+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "litex-boards-vacajk",
-        "description": null,
-        "owner": "vacajk",
-        "stars": 0,
-        "forks": 0,
-        "size": 16,
-        "created": "2024-07-30T11:21:14+00:00",
-        "updated": "2024-07-31T16:27:24+00:00",
-        "pushed": "2024-07-31T16:27:20+00:00",
-        "url": "https://github.com/vacajk/litex-boards-vacajk",
-        "id": 835705359
     },
     {
         "repo": "VexRiscv",
@@ -12792,19 +12753,6 @@
         "id": 13168458
     },
     {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 43,
-        "forks": 0,
-        "size": 199,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2024-08-11T05:28:40+00:00",
-        "pushed": "2024-08-11T05:28:37+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
-    },
-    {
         "repo": "streams",
         "description": "Streams library for Amaranth",
         "owner": "DaveBerkeley",
@@ -12831,19 +12779,6 @@
         "id": 468027705
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 37,
-        "forks": 2,
-        "size": 87488,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-08-13T12:39:36+00:00",
-        "pushed": "2024-08-13T11:27:34+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -12855,19 +12790,6 @@
         "pushed": "2024-08-15T01:31:14+00:00",
         "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
         "id": 237940918
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 32924,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-08-15T01:08:03+00:00",
-        "pushed": "2024-08-15T01:07:59+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "thunderscope_litex",
@@ -12948,19 +12870,6 @@
         "id": 191191221
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 684,
-        "forks": 148,
-        "size": 658087,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-08-16T14:01:41+00:00",
-        "pushed": "2024-08-16T14:01:37+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12972,19 +12881,6 @@
         "pushed": "2024-08-14T06:07:05+00:00",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 767,
-        "forks": 69,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-16T10:54:19+00:00",
-        "pushed": "2024-08-17T02:04:29+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -13039,19 +12935,6 @@
         "id": 434342707
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 96,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2024-08-17T00:24:09+00:00",
-        "pushed": "2024-08-17T00:24:06+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "oss-cad-suite",
         "description": null,
         "owner": "RY5228",
@@ -13063,19 +12946,6 @@
         "pushed": "2024-08-17T02:47:32+00:00",
         "url": "https://github.com/RY5228/oss-cad-suite",
         "id": 843647098
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "3yqq",
-        "stars": 2,
-        "forks": 0,
-        "size": 150,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-08-16T15:54:10+00:00",
-        "pushed": "2024-08-16T15:54:07+00:00",
-        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
     },
     {
         "repo": "Computer-Organisation-Architecture-Projects",
@@ -13091,28 +12961,158 @@
         "id": 843435196
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 684,
+        "forks": 148,
+        "size": 658090,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-08-17T18:05:50+00:00",
+        "pushed": "2024-08-17T18:05:47+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 767,
+        "forks": 69,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-16T10:54:19+00:00",
+        "pushed": "2024-08-18T02:00:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "openfpga-litex",
+        "description": "A RISC-V software platform, exposing Analogue Pocket capabilities in a simple way",
+        "owner": "agg23",
+        "stars": 35,
+        "forks": 1,
+        "size": 2369,
+        "created": "2023-11-21T18:51:23+00:00",
+        "updated": "2024-08-18T03:09:14+00:00",
+        "pushed": "2024-08-09T14:30:41+00:00",
+        "url": "https://github.com/agg23/openfpga-litex",
+        "id": 721777325
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 4,
+        "forks": 4,
+        "size": 331,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-08-17T18:02:11+00:00",
+        "pushed": "2024-08-17T18:02:07+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 45,
+        "forks": 0,
+        "size": 1078,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2024-08-18T05:56:52+00:00",
+        "pushed": "2024-08-18T05:56:49+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 37,
+        "forks": 2,
+        "size": 88362,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-08-17T21:56:56+00:00",
+        "pushed": "2024-08-17T21:56:53+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "litex-boards-vacajk",
+        "description": null,
+        "owner": "vacajk",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2024-07-30T11:21:14+00:00",
+        "updated": "2024-08-17T18:13:04+00:00",
+        "pushed": "2024-08-17T18:13:01+00:00",
+        "url": "https://github.com/vacajk/litex-boards-vacajk",
+        "id": 835705359
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 197,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2024-08-18T05:37:20+00:00",
+        "pushed": "2024-08-18T05:37:17+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 2,
+        "forks": 0,
+        "size": 159,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-08-17T13:49:29+00:00",
+        "pushed": "2024-08-17T13:49:26+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1402,
+        "size": 1449,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-17T04:38:03+00:00",
-        "pushed": "2024-08-17T04:38:00+00:00",
+        "updated": "2024-08-18T04:37:46+00:00",
+        "pushed": "2024-08-18T04:37:43+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 34172,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-08-18T01:06:56+00:00",
+        "pushed": "2024-08-18T01:06:53+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
-        "stars": 4,
+        "stars": 5,
         "forks": 1,
-        "size": 68504,
+        "size": 68954,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-17T03:24:25+00:00",
-        "pushed": "2024-08-17T03:24:22+00:00",
+        "updated": "2024-08-18T03:24:19+00:00",
+        "pushed": "2024-08-18T03:24:16+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
