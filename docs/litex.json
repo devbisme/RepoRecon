@@ -10335,19 +10335,6 @@
         "id": 725497871
     },
     {
-        "repo": "SPDM-Hardware-Implementation",
-        "description": null,
-        "owner": "GustavsC",
-        "stars": 0,
-        "forks": 0,
-        "size": 7558,
-        "created": "2023-11-27T21:15:01+00:00",
-        "updated": "2023-12-19T00:52:59+00:00",
-        "pushed": "2023-12-19T00:10:30+00:00",
-        "url": "https://github.com/GustavsC/SPDM-Hardware-Implementation",
-        "id": 724325307
-    },
-    {
         "repo": "betrusted-ec",
         "description": "Betrusted embedded controller (UP5K)",
         "owner": "betrusted-io",
@@ -12831,19 +12818,6 @@
         "id": 42041717
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1520,
-        "forks": 210,
-        "size": 209674,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-08-16T14:45:05+00:00",
-        "pushed": "2024-08-16T14:46:22+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -12948,32 +12922,6 @@
         "id": 434342707
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 35420,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-08-19T01:06:50+00:00",
-        "pushed": "2024-08-19T01:06:47+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2847,
-        "forks": 550,
-        "size": 17129,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-08-19T11:34:58+00:00",
-        "pushed": "2024-08-19T17:56:42+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -13000,19 +12948,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 768,
-        "forks": 69,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-19T14:07:46+00:00",
-        "pushed": "2024-08-20T02:07:16+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -13024,32 +12959,6 @@
         "pushed": "2024-08-19T08:20:24+00:00",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 456,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-08-07T23:19:34+00:00",
-        "pushed": "2024-08-20T02:18:45+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 46,
-        "forks": 18,
-        "size": 115926,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-08-20T00:39:26+00:00",
-        "pushed": "2024-08-20T00:39:25+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "openCologne",
@@ -13078,15 +12987,93 @@
         "id": 793871326
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2847,
+        "forks": 550,
+        "size": 17174,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-08-20T20:06:00+00:00",
+        "pushed": "2024-08-20T20:05:56+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 768,
+        "forks": 69,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-19T14:07:46+00:00",
+        "pushed": "2024-08-21T01:58:13+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 456,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-08-07T23:19:34+00:00",
+        "pushed": "2024-08-21T02:18:57+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1521,
+        "forks": 211,
+        "size": 209674,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-08-21T02:29:33+00:00",
+        "pushed": "2024-08-20T18:55:21+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 53,
+        "forks": 18,
+        "size": 115905,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-08-21T02:26:04+00:00",
+        "pushed": "2024-08-21T02:26:01+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "SPDM-Hardware-Implementation",
+        "description": null,
+        "owner": "GustavsC",
+        "stars": 1,
+        "forks": 0,
+        "size": 7562,
+        "created": "2023-11-27T21:15:01+00:00",
+        "updated": "2024-08-20T16:22:21+00:00",
+        "pushed": "2024-08-20T16:22:17+00:00",
+        "url": "https://github.com/GustavsC/SPDM-Hardware-Implementation",
+        "id": 724325307
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "3yqq",
         "stars": 2,
         "forks": 0,
-        "size": 66,
+        "size": 67,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-08-19T10:10:01+00:00",
-        "pushed": "2024-08-19T10:09:58+00:00",
+        "updated": "2024-08-20T10:21:17+00:00",
+        "pushed": "2024-08-20T10:21:14+00:00",
         "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13096,12 +13083,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1605,
+        "size": 1639,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-20T04:40:55+00:00",
-        "pushed": "2024-08-20T04:40:52+00:00",
+        "updated": "2024-08-21T04:38:31+00:00",
+        "pushed": "2024-08-21T04:38:28+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 36186,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-08-21T01:02:20+00:00",
+        "pushed": "2024-08-21T01:02:17+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13109,10 +13109,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 61597,
+        "size": 62048,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-20T03:26:34+00:00",
-        "pushed": "2024-08-20T03:26:31+00:00",
+        "updated": "2024-08-21T03:25:04+00:00",
+        "pushed": "2024-08-21T03:25:01+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

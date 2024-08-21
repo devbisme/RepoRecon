@@ -1456,32 +1456,6 @@
         "id": 831050890
     },
     {
-        "repo": "keyboard-tools",
-        "description": "Tools for mechanical keyboard design",
-        "owner": "adamws",
-        "stars": 71,
-        "forks": 7,
-        "size": 2472,
-        "created": "2021-01-17T19:31:56+00:00",
-        "updated": "2024-07-21T17:21:49+00:00",
-        "pushed": "2024-07-21T17:37:44+00:00",
-        "url": "https://github.com/adamws/keyboard-tools",
-        "id": 330470333
-    },
-    {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 312,
-        "forks": 23,
-        "size": 14012,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-08-02T15:49:01+00:00",
-        "pushed": "2024-08-02T17:41:55+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "skidlist",
         "description": "A list of known skids",
         "owner": "iusemeteor",
@@ -1558,5 +1532,31 @@
         "pushed": "2024-08-16T14:36:38+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "keyboard-tools",
+        "description": "Tools for mechanical keyboard design",
+        "owner": "adamws",
+        "stars": 71,
+        "forks": 7,
+        "size": 2527,
+        "created": "2021-01-17T19:31:56+00:00",
+        "updated": "2024-08-20T18:46:16+00:00",
+        "pushed": "2024-08-20T19:00:15+00:00",
+        "url": "https://github.com/adamws/keyboard-tools",
+        "id": 330470333
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 329,
+        "forks": 23,
+        "size": 14014,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-08-18T22:25:17+00:00",
+        "pushed": "2024-08-20T08:17:14+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
     }
 ]
