@@ -37986,19 +37986,6 @@
         "id": 113545974
     },
     {
-        "repo": "support-matrix",
-        "description": "RISCV Board and OS Supported Matrix",
-        "owner": "ruyisdk",
-        "stars": 6,
-        "forks": 8,
-        "size": 30961,
-        "created": "2024-03-12T01:34:58+00:00",
-        "updated": "2024-08-02T08:08:52+00:00",
-        "pushed": "2024-08-02T08:08:47+00:00",
-        "url": "https://github.com/ruyisdk/support-matrix",
-        "id": 770690133
-    },
-    {
         "repo": "k210_garbage_classification",
         "description": null,
         "owner": "earky",
@@ -38714,19 +38701,6 @@
         "id": 214611123
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 163,
-        "forks": 32,
-        "size": 160660,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-08-19T22:01:30+00:00",
-        "pushed": "2024-08-20T22:21:24+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -38738,32 +38712,6 @@
         "pushed": "2024-08-20T10:48:38+00:00",
         "url": "https://github.com/kendryte/k230_linux_sdk",
         "id": 793843389
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10203,
-        "forks": 4949,
-        "size": 875202,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-21T05:24:51+00:00",
-        "pushed": "2024-08-21T06:19:06+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 877670,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-08-20T17:26:53+00:00",
-        "pushed": "2024-08-20T17:26:46+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
     },
     {
         "repo": "K210-Developer-Kit",
@@ -38857,32 +38805,6 @@
         "id": 128056991
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 138,
-        "forks": 30,
-        "size": 25723,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-08-21T16:27:36+00:00",
-        "pushed": "2024-08-21T16:27:32+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 43,
-        "forks": 12,
-        "size": 104842,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-08-19T06:32:13+00:00",
-        "pushed": "2024-08-21T08:08:30+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -38894,19 +38816,6 @@
         "pushed": "2024-08-22T04:10:26+00:00",
         "url": "https://github.com/opencv/opencv_zoo",
         "id": 390637491
-    },
-    {
-        "repo": "AI-CAM",
-        "description": null,
-        "owner": "ouo314",
-        "stars": 0,
-        "forks": 0,
-        "size": 2824,
-        "created": "2024-08-14T04:16:08+00:00",
-        "updated": "2024-08-21T12:03:50+00:00",
-        "pushed": "2024-08-21T12:03:47+00:00",
-        "url": "https://github.com/ouo314/AI-CAM",
-        "id": 842297091
     },
     {
         "repo": "tech",
@@ -38922,15 +38831,106 @@
         "id": 218708914
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 142,
+        "forks": 31,
+        "size": 25729,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-08-23T02:09:14+00:00",
+        "pushed": "2024-08-23T05:44:16+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "support-matrix",
+        "description": "RISCV Board and OS Supported Matrix",
+        "owner": "ruyisdk",
+        "stars": 7,
+        "forks": 8,
+        "size": 30964,
+        "created": "2024-03-12T01:34:58+00:00",
+        "updated": "2024-08-22T18:58:21+00:00",
+        "pushed": "2024-08-22T18:58:18+00:00",
+        "url": "https://github.com/ruyisdk/support-matrix",
+        "id": 770690133
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 163,
+        "forks": 32,
+        "size": 160661,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-19T22:01:30+00:00",
+        "pushed": "2024-08-22T20:00:07+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 43,
+        "forks": 12,
+        "size": 104844,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-08-19T06:32:13+00:00",
+        "pushed": "2024-08-22T08:48:05+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10211,
+        "forks": 4952,
+        "size": 875228,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-08-23T02:58:54+00:00",
+        "pushed": "2024-08-23T02:58:49+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 885830,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-08-22T20:06:48+00:00",
+        "pushed": "2024-08-22T20:06:44+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "AI-CAM",
+        "description": null,
+        "owner": "ouo314",
+        "stars": 0,
+        "forks": 0,
+        "size": 3199,
+        "created": "2024-08-14T04:16:08+00:00",
+        "updated": "2024-08-22T14:10:17+00:00",
+        "pushed": "2024-08-22T14:10:14+00:00",
+        "url": "https://github.com/ouo314/AI-CAM",
+        "id": 842297091
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 4232,
+        "size": 4233,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-22T01:52:30+00:00",
-        "pushed": "2024-08-22T01:52:18+00:00",
+        "updated": "2024-08-23T01:48:26+00:00",
+        "pushed": "2024-08-23T01:48:23+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -38940,10 +38940,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 3690,
+        "size": 3850,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-22T01:49:03+00:00",
-        "pushed": "2024-08-22T01:48:59+00:00",
+        "updated": "2024-08-23T01:47:18+00:00",
+        "pushed": "2024-08-23T01:47:14+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -38953,10 +38953,10 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 736260,
+        "size": 736262,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-21T12:28:46+00:00",
-        "pushed": "2024-08-21T12:28:42+00:00",
+        "updated": "2024-08-22T12:28:51+00:00",
+        "pushed": "2024-08-22T12:28:47+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
