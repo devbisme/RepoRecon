@@ -5317,19 +5317,6 @@
         "id": 840384960
     },
     {
-        "repo": "pyhdl-eval",
-        "description": "LLM Evaluation Framework for Hardware Design Using Python-Embedded DSLs",
-        "owner": "cornell-brg",
-        "stars": 1,
-        "forks": 0,
-        "size": 699,
-        "created": "2024-08-12T21:30:08+00:00",
-        "updated": "2024-08-15T16:24:32+00:00",
-        "pushed": "2024-08-15T16:15:49+00:00",
-        "url": "https://github.com/cornell-brg/pyhdl-eval",
-        "id": 841672882
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -5382,19 +5369,6 @@
         "id": 846010626
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41386,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-08-23T11:46:10+00:00",
-        "pushed": "2024-08-23T11:46:07+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "Python-Programming-",
         "description": null,
         "owner": "Mohit190405",
@@ -5406,5 +5380,31 @@
         "pushed": "2024-08-23T08:24:05+00:00",
         "url": "https://github.com/Mohit190405/Python-Programming-",
         "id": 846444963
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41393,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-08-25T11:58:57+00:00",
+        "pushed": "2024-08-25T11:58:55+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "pyhdl-eval",
+        "description": "LLM Evaluation Framework for Hardware Design Using Python-Embedded DSLs",
+        "owner": "cornell-brg",
+        "stars": 1,
+        "forks": 0,
+        "size": 714,
+        "created": "2024-08-12T21:30:08+00:00",
+        "updated": "2024-08-26T01:18:10+00:00",
+        "pushed": "2024-08-26T01:18:07+00:00",
+        "url": "https://github.com/cornell-brg/pyhdl-eval",
+        "id": 841672882
     }
 ]
