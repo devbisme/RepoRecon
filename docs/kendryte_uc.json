@@ -36647,19 +36647,6 @@
         "id": 791854423
     },
     {
-        "repo": "k230_sdk",
-        "description": "Kendryte K230 SDK",
-        "owner": "kendryte",
-        "stars": 144,
-        "forks": 31,
-        "size": 452290,
-        "created": "2023-07-07T05:53:35+00:00",
-        "updated": "2024-06-14T03:51:11+00:00",
-        "pushed": "2024-06-14T03:46:20+00:00",
-        "url": "https://github.com/kendryte/k230_sdk",
-        "id": 663357545
-    },
-    {
         "repo": "RTThread-SMP-Porting",
         "description": "RT-Thread SMP\u6846\u67b6\u79fb\u65b9\u6cd5",
         "owner": "Yaochenger",
@@ -36814,19 +36801,6 @@
         "pushed": "2024-06-18T17:50:20+00:00",
         "url": "https://github.com/sunela/me",
         "id": 657297373
-    },
-    {
-        "repo": "k230_docs",
-        "description": "Kendryte K230 SDK Docs",
-        "owner": "kendryte",
-        "stars": 71,
-        "forks": 7,
-        "size": 289826,
-        "created": "2023-07-07T08:24:19+00:00",
-        "updated": "2024-06-17T10:53:01+00:00",
-        "pushed": "2024-06-20T05:29:51+00:00",
-        "url": "https://github.com/kendryte/k230_docs",
-        "id": 663411081
     },
     {
         "repo": "rcore-tutorial",
@@ -38285,19 +38259,6 @@
         "id": 244118295
     },
     {
-        "repo": "Xiaomi_Kernel_OpenSource",
-        "description": "Xiaomi Mobile Phone Kernel OpenSource",
-        "owner": "MiCode",
-        "stars": 8618,
-        "forks": 3179,
-        "size": 4004037,
-        "created": "2014-12-31T02:48:55+00:00",
-        "updated": "2024-08-12T01:05:22+00:00",
-        "pushed": "2024-08-12T05:29:02+00:00",
-        "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-        "id": 28653585
-    },
-    {
         "repo": "Electric_Resources",
         "description": ".",
         "owner": "yunxi001",
@@ -38805,32 +38766,6 @@
         "id": 792335043
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 163,
-        "forks": 32,
-        "size": 160871,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-08-19T22:01:30+00:00",
-        "pushed": "2024-08-24T22:44:05+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 896475,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-08-24T22:45:55+00:00",
-        "pushed": "2024-08-24T22:45:52+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "k230_SDK",
         "description": "this is my rk_Code",
         "owner": "aichitudou123",
@@ -38844,19 +38779,6 @@
         "id": 845954920
     },
     {
-        "repo": "AI-CAM",
-        "description": null,
-        "owner": "ouo314",
-        "stars": 0,
-        "forks": 0,
-        "size": 3499,
-        "created": "2024-08-14T04:16:08+00:00",
-        "updated": "2024-08-24T09:50:07+00:00",
-        "pushed": "2024-08-24T09:50:04+00:00",
-        "url": "https://github.com/ouo314/AI-CAM",
-        "id": 842297091
-    },
-    {
         "repo": "doca",
         "description": null,
         "owner": "ssbandjl",
@@ -38868,19 +38790,6 @@
         "pushed": "2024-08-25T04:51:19+00:00",
         "url": "https://github.com/ssbandjl/doca",
         "id": 777810172
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 715,
-        "forks": 180,
-        "size": 59113,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-08-24T03:16:42+00:00",
-        "pushed": "2024-08-26T06:14:12+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "MaixPy",
@@ -38907,19 +38816,6 @@
         "pushed": "2024-08-25T14:29:42+00:00",
         "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
         "id": 308346100
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10220,
-        "forks": 4956,
-        "size": 878313,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-26T06:14:33+00:00",
-        "pushed": "2024-08-26T05:13:11+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "micropython-ulab",
@@ -38987,15 +38883,119 @@
         "id": 847153460
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 715,
+        "forks": 180,
+        "size": 59152,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-08-26T07:56:38+00:00",
+        "pushed": "2024-08-27T06:05:00+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_sdk",
+        "description": "Kendryte K230 SDK",
+        "owner": "kendryte",
+        "stars": 162,
+        "forks": 34,
+        "size": 478302,
+        "created": "2023-07-07T05:53:35+00:00",
+        "updated": "2024-08-26T13:55:14+00:00",
+        "pushed": "2024-08-26T08:37:42+00:00",
+        "url": "https://github.com/kendryte/k230_sdk",
+        "id": 663357545
+    },
+    {
+        "repo": "k230_docs",
+        "description": "Kendryte K230 SDK Docs",
+        "owner": "kendryte",
+        "stars": 85,
+        "forks": 9,
+        "size": 290662,
+        "created": "2023-07-07T08:24:19+00:00",
+        "updated": "2024-08-26T08:45:21+00:00",
+        "pushed": "2024-08-26T08:45:17+00:00",
+        "url": "https://github.com/kendryte/k230_docs",
+        "id": 663411081
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 165,
+        "forks": 32,
+        "size": 160901,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-25T16:56:18+00:00",
+        "pushed": "2024-08-26T18:47:26+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10225,
+        "forks": 4958,
+        "size": 875654,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-08-27T04:56:39+00:00",
+        "pushed": "2024-08-27T04:53:15+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 904346,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-08-26T16:35:52+00:00",
+        "pushed": "2024-08-26T16:35:48+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "Xiaomi_Kernel_OpenSource",
+        "description": "Xiaomi Mobile Phone Kernel OpenSource",
+        "owner": "MiCode",
+        "stars": 8635,
+        "forks": 3187,
+        "size": 4729640,
+        "created": "2014-12-31T02:48:55+00:00",
+        "updated": "2024-08-26T12:16:54+00:00",
+        "pushed": "2024-08-26T13:51:05+00:00",
+        "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+        "id": 28653585
+    },
+    {
+        "repo": "AI-CAM",
+        "description": null,
+        "owner": "ouo314",
+        "stars": 0,
+        "forks": 0,
+        "size": 3697,
+        "created": "2024-08-14T04:16:08+00:00",
+        "updated": "2024-08-26T07:50:43+00:00",
+        "pushed": "2024-08-26T07:50:40+00:00",
+        "url": "https://github.com/ouo314/AI-CAM",
+        "id": 842297091
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5170,
+        "size": 5373,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-26T01:51:55+00:00",
-        "pushed": "2024-08-26T01:51:53+00:00",
+        "updated": "2024-08-27T01:50:24+00:00",
+        "pushed": "2024-08-27T01:50:21+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39005,10 +39005,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 4014,
+        "size": 4174,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-26T01:48:53+00:00",
-        "pushed": "2024-08-26T01:48:50+00:00",
+        "updated": "2024-08-27T01:49:10+00:00",
+        "pushed": "2024-08-27T01:49:06+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39018,10 +39018,10 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 736282,
+        "size": 739136,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-25T12:26:00+00:00",
-        "pushed": "2024-08-25T12:25:57+00:00",
+        "updated": "2024-08-26T12:28:51+00:00",
+        "pushed": "2024-08-26T12:28:47+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39034,7 +39034,7 @@
         "size": 252,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-08-25T16:56:10+00:00",
-        "pushed": "2024-08-26T00:13:53+00:00",
+        "pushed": "2024-08-27T00:14:35+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

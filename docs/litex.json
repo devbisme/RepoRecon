@@ -12805,19 +12805,6 @@
         "id": 835705359
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 363,
-        "forks": 278,
-        "size": 4123,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-08-19T15:14:29+00:00",
-        "pushed": "2024-08-20T00:19:20+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -12842,19 +12829,6 @@
         "pushed": "2024-08-20T16:22:17+00:00",
         "url": "https://github.com/GustavsC/SPDM-Hardware-Implementation",
         "id": 724325307
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 36186,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-08-21T01:02:20+00:00",
-        "pushed": "2024-08-21T01:02:17+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "litex-feedstock",
@@ -12974,32 +12948,6 @@
         "id": 800027977
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 58,
-        "forks": 18,
-        "size": 115956,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-08-24T04:24:41+00:00",
-        "pushed": "2024-08-24T04:24:38+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2850,
-        "forks": 550,
-        "size": 17195,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-08-24T08:37:22+00:00",
-        "pushed": "2024-08-24T08:37:17+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "circuitpython",
         "description": null,
         "owner": "hpjsw",
@@ -13011,19 +12959,6 @@
         "pushed": "2024-08-24T20:21:34+00:00",
         "url": "https://github.com/hpjsw/circuitpython",
         "id": 847089790
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 769,
-        "forks": 70,
-        "size": 1193,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-26T05:12:11+00:00",
-        "pushed": "2024-08-26T01:57:42+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -13050,19 +12985,6 @@
         "pushed": "2024-08-25T20:09:55+00:00",
         "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
         "id": 464657430
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1524,
-        "forks": 210,
-        "size": 209820,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-08-24T21:26:53+00:00",
-        "pushed": "2024-08-25T16:41:33+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "OS",
@@ -13104,15 +13026,80 @@
         "id": 793871326
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2853,
+        "forks": 550,
+        "size": 17200,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-08-26T15:32:28+00:00",
+        "pushed": "2024-08-26T14:54:42+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 364,
+        "forks": 278,
+        "size": 4146,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-08-23T08:45:31+00:00",
+        "pushed": "2024-08-26T16:27:57+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 772,
+        "forks": 70,
+        "size": 1193,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-27T06:04:52+00:00",
+        "pushed": "2024-08-27T02:09:52+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1526,
+        "forks": 210,
+        "size": 209914,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-08-26T18:25:48+00:00",
+        "pushed": "2024-08-26T18:27:11+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 58,
+        "forks": 20,
+        "size": 115966,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-08-27T01:08:36+00:00",
+        "pushed": "2024-08-27T01:08:32+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "3yqq",
         "stars": 2,
         "forks": 0,
-        "size": 107,
+        "size": 115,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-08-25T14:10:34+00:00",
-        "pushed": "2024-08-25T14:10:31+00:00",
+        "updated": "2024-08-26T13:48:54+00:00",
+        "pushed": "2024-08-26T13:48:51+00:00",
         "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13122,12 +13109,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1878,
+        "size": 1957,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-26T04:39:44+00:00",
-        "pushed": "2024-08-26T04:39:41+00:00",
+        "updated": "2024-08-27T04:40:06+00:00",
+        "pushed": "2024-08-27T04:40:04+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 37439,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-08-27T01:07:13+00:00",
+        "pushed": "2024-08-27T01:07:10+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13135,10 +13135,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 64316,
+        "size": 64780,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-26T03:27:45+00:00",
-        "pushed": "2024-08-26T03:27:42+00:00",
+        "updated": "2024-08-27T03:25:10+00:00",
+        "pushed": "2024-08-27T03:25:06+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
