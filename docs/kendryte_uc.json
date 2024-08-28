@@ -6838,19 +6838,6 @@
         "id": 177450859
     },
     {
-        "repo": "aiot",
-        "description": "Experiments with aiot and speech recognition",
-        "owner": "Ebiroll",
-        "stars": 0,
-        "forks": 0,
-        "size": 32049,
-        "created": "2019-03-25T00:42:00Z",
-        "updated": "2019-04-06T03:43:28Z",
-        "pushed": "2019-04-06T03:43:27Z",
-        "url": "https://github.com/Ebiroll/aiot",
-        "id": 177487980
-    },
-    {
         "repo": "k210_yolo_v2_face",
         "description": "K210 YOLO_V2 FACE DETECTION",
         "owner": "zhen8838",
@@ -38675,19 +38662,6 @@
         "id": 841740694
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 1014,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2024-08-20T20:25:59+00:00",
-        "pushed": "2024-08-20T20:25:55+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -38725,19 +38699,6 @@
         "pushed": "2024-08-22T18:58:18+00:00",
         "url": "https://github.com/ruyisdk/support-matrix",
         "id": 770690133
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 43,
-        "forks": 12,
-        "size": 104880,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-08-19T06:32:13+00:00",
-        "pushed": "2024-08-23T09:26:35+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "rMAix98Q",
@@ -38792,19 +38753,6 @@
         "id": 777810172
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 142,
-        "forks": 31,
-        "size": 25757,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-08-23T02:09:14+00:00",
-        "pushed": "2024-08-26T03:49:27+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "rCore-Tutorial-Book-v3",
         "description": "A book about how to write  OS kernels in Rust easily.",
         "owner": "rcore-os",
@@ -38844,19 +38792,6 @@
         "id": 418056913
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 6,
-        "forks": 4,
-        "size": 19180,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2024-08-26T01:49:01+00:00",
-        "pushed": "2024-08-26T02:14:24+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "RK2206-TinyMaix",
         "description": null,
         "owner": "ljh095",
@@ -38883,19 +38818,6 @@
         "id": 847153460
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 715,
-        "forks": 180,
-        "size": 59152,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-08-26T07:56:38+00:00",
-        "pushed": "2024-08-27T06:05:00+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_sdk",
         "description": "Kendryte K230 SDK",
         "owner": "kendryte",
@@ -38920,32 +38842,6 @@
         "pushed": "2024-08-26T08:45:17+00:00",
         "url": "https://github.com/kendryte/k230_docs",
         "id": 663411081
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 165,
-        "forks": 32,
-        "size": 160901,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-08-25T16:56:18+00:00",
-        "pushed": "2024-08-26T18:47:26+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10225,
-        "forks": 4958,
-        "size": 875654,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-08-27T04:56:39+00:00",
-        "pushed": "2024-08-27T04:53:15+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "krux_binaries",
@@ -38987,15 +38883,145 @@
         "id": 842297091
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 715,
+        "forks": 180,
+        "size": 59183,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-08-26T07:56:38+00:00",
+        "pushed": "2024-08-28T06:12:08+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 142,
+        "forks": 32,
+        "size": 27906,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-08-23T02:09:14+00:00",
+        "pushed": "2024-08-28T03:55:18+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 166,
+        "forks": 33,
+        "size": 160817,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-28T02:23:10+00:00",
+        "pushed": "2024-08-27T16:44:57+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 43,
+        "forks": 12,
+        "size": 104966,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-08-19T06:32:13+00:00",
+        "pushed": "2024-08-27T09:03:30+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10231,
+        "forks": 4960,
+        "size": 879225,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-08-28T05:40:46+00:00",
+        "pushed": "2024-08-28T02:06:13+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 6,
+        "forks": 5,
+        "size": 18777,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2024-08-27T19:22:16+00:00",
+        "pushed": "2024-08-27T19:22:20+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "VLPR",
+        "description": "\u5728k210\u5f00\u53d1\u677f\u4e0a\u8fd0\u884c\u7684\u8f66\u724c\u8bc6\u522b\u9879\u76ee",
+        "owner": "meng-jinglei",
+        "stars": 0,
+        "forks": 0,
+        "size": 4098,
+        "created": "2024-08-27T13:11:31+00:00",
+        "updated": "2024-08-27T13:30:51+00:00",
+        "pushed": "2024-08-27T13:30:47+00:00",
+        "url": "https://github.com/meng-jinglei/VLPR",
+        "id": 848272990
+    },
+    {
+        "repo": "aiot",
+        "description": "Experiments with aiot and speech recognition",
+        "owner": "Ebiroll",
+        "stars": 0,
+        "forks": 0,
+        "size": 32046,
+        "created": "2019-03-25T00:42:00+00:00",
+        "updated": "2024-08-27T13:16:40+00:00",
+        "pushed": "2024-08-27T13:16:35+00:00",
+        "url": "https://github.com/Ebiroll/aiot",
+        "id": 177487980
+    },
+    {
+        "repo": "rockchip-linux-rtos-rt-thread-rt-thread",
+        "description": null,
+        "owner": "TinkerBoard-Linux",
+        "stars": 0,
+        "forks": 0,
+        "size": 661946,
+        "created": "2024-08-27T09:23:54+00:00",
+        "updated": "2024-08-27T09:30:56+00:00",
+        "pushed": "2024-08-27T09:30:03+00:00",
+        "url": "https://github.com/TinkerBoard-Linux/rockchip-linux-rtos-rt-thread-rt-thread",
+        "id": 848176737
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 1099,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2024-08-27T23:38:52+00:00",
+        "pushed": "2024-08-27T23:38:49+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5373,
+        "size": 5840,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-27T01:50:24+00:00",
-        "pushed": "2024-08-27T01:50:21+00:00",
+        "updated": "2024-08-28T01:53:39+00:00",
+        "pushed": "2024-08-28T01:53:36+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39005,10 +39031,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 4174,
+        "size": 847,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-27T01:49:10+00:00",
-        "pushed": "2024-08-27T01:49:06+00:00",
+        "updated": "2024-08-28T01:50:20+00:00",
+        "pushed": "2024-08-28T01:50:16+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39018,10 +39044,10 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 739136,
+        "size": 739139,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-26T12:28:51+00:00",
-        "pushed": "2024-08-26T12:28:47+00:00",
+        "updated": "2024-08-27T12:29:30+00:00",
+        "pushed": "2024-08-27T12:29:26+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39031,10 +39057,10 @@
         "owner": "lupyuen",
         "stars": 34,
         "forks": 0,
-        "size": 252,
+        "size": 251,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-08-25T16:56:10+00:00",
-        "pushed": "2024-08-27T00:14:35+00:00",
+        "pushed": "2024-08-28T00:13:38+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
