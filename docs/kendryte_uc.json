@@ -38077,19 +38077,6 @@
         "id": 838665982
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 4614,
-        "forks": 454,
-        "size": 1559,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2024-08-07T02:53:27+00:00",
-        "pushed": "2024-08-07T02:33:29+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "Maixcvn",
         "description": "Config files for my GitHub profile.",
         "owner": "Maixcvn",
@@ -38818,19 +38805,6 @@
         "id": 476865621
     },
     {
-        "repo": "Xiaomi_Kernel_OpenSource",
-        "description": "Xiaomi Mobile Phone Kernel OpenSource",
-        "owner": "MiCode",
-        "stars": 8635,
-        "forks": 3187,
-        "size": 4729640,
-        "created": "2014-12-31T02:48:55+00:00",
-        "updated": "2024-08-26T12:16:54+00:00",
-        "pushed": "2024-08-26T13:51:05+00:00",
-        "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-        "id": 28653585
-    },
-    {
         "repo": "AI-CAM",
         "description": null,
         "owner": "ouo314",
@@ -38896,19 +38870,6 @@
         "id": 848176737
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 12,
-        "forks": 6,
-        "size": 28191,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-08-29T03:44:22+00:00",
-        "pushed": "2024-08-29T03:44:19+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
         "owner": "RT-Thread",
@@ -38935,32 +38896,6 @@
         "id": 848710722
     },
     {
-        "repo": "ttt",
-        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
-        "owner": "davidly",
-        "stars": 0,
-        "forks": 0,
-        "size": 1188,
-        "created": "2022-02-08T05:17:55+00:00",
-        "updated": "2024-08-28T19:23:28+00:00",
-        "pushed": "2024-08-28T19:23:25+00:00",
-        "url": "https://github.com/davidly/ttt",
-        "id": 456793068
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 715,
-        "forks": 180,
-        "size": 59186,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-08-26T07:56:38+00:00",
-        "pushed": "2024-08-30T05:27:53+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -38972,19 +38907,6 @@
         "pushed": "2024-08-29T08:14:41+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 166,
-        "forks": 33,
-        "size": 160828,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-08-28T02:23:10+00:00",
-        "pushed": "2024-08-29T20:02:19+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "MaixCDK",
@@ -39039,17 +38961,95 @@
         "id": 350216225
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 715,
+        "forks": 180,
+        "size": 59062,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-08-26T07:56:38+00:00",
+        "pushed": "2024-08-31T02:06:07+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 167,
+        "forks": 33,
+        "size": 160834,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-08-30T16:22:55+00:00",
+        "pushed": "2024-08-30T14:51:01+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 12,
+        "forks": 6,
+        "size": 28231,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-08-30T09:49:24+00:00",
+        "pushed": "2024-08-30T09:49:21+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "Xiaomi_Kernel_OpenSource",
+        "description": "Xiaomi Mobile Phone Kernel OpenSource",
+        "owner": "MiCode",
+        "stars": 8643,
+        "forks": 3183,
+        "size": 4729640,
+        "created": "2014-12-31T02:48:55+00:00",
+        "updated": "2024-08-30T11:55:35+00:00",
+        "pushed": "2024-08-31T05:55:20+00:00",
+        "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+        "id": 28653585
+    },
+    {
         "repo": "biol211",
         "description": "Website for BIOL 211",
         "owner": "aroles",
         "stars": 0,
         "forks": 0,
-        "size": 8728,
+        "size": 11678,
         "created": "2024-05-23T15:27:45+00:00",
-        "updated": "2024-08-29T16:03:45+00:00",
-        "pushed": "2024-08-29T16:03:41+00:00",
+        "updated": "2024-08-30T19:27:50+00:00",
+        "pushed": "2024-08-30T19:27:47+00:00",
         "url": "https://github.com/aroles/biol211",
         "id": 804949396
+    },
+    {
+        "repo": "ttt",
+        "description": "tic-tac-toe and its applicability to nuclear war and WOPR",
+        "owner": "davidly",
+        "stars": 0,
+        "forks": 0,
+        "size": 1281,
+        "created": "2022-02-08T05:17:55+00:00",
+        "updated": "2024-08-30T15:22:18+00:00",
+        "pushed": "2024-08-30T15:22:14+00:00",
+        "url": "https://github.com/davidly/ttt",
+        "id": 456793068
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 4681,
+        "forks": 457,
+        "size": 1635,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2024-08-31T03:36:10+00:00",
+        "pushed": "2024-08-31T03:36:07+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
     },
     {
         "repo": "awesome-stars",
@@ -39057,10 +39057,10 @@
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 6775,
+        "size": 6777,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-08-30T01:55:20+00:00",
-        "pushed": "2024-08-30T01:55:17+00:00",
+        "updated": "2024-08-31T01:54:13+00:00",
+        "pushed": "2024-08-31T01:54:10+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39070,10 +39070,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 1170,
+        "size": 1333,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-08-30T01:51:51+00:00",
-        "pushed": "2024-08-30T01:51:48+00:00",
+        "updated": "2024-08-31T01:50:47+00:00",
+        "pushed": "2024-08-31T01:50:44+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39083,10 +39083,10 @@
         "owner": "androidtrackers",
         "stars": 121,
         "forks": 35,
-        "size": 739153,
+        "size": 739158,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-08-29T12:29:42+00:00",
-        "pushed": "2024-08-29T12:29:38+00:00",
+        "updated": "2024-08-30T12:30:19+00:00",
+        "pushed": "2024-08-30T12:30:16+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39099,7 +39099,7 @@
         "size": 251,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-08-25T16:56:10+00:00",
-        "pushed": "2024-08-30T00:13:54+00:00",
+        "pushed": "2024-08-31T00:13:33+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
