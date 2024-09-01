@@ -12675,19 +12675,6 @@
         "id": 42041717
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1831,
-        "forks": 165,
-        "size": 253,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-08-14T01:52:02+00:00",
-        "pushed": "2024-08-16T14:36:38+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "oss-cad-suite",
         "description": null,
         "owner": "RY5228",
@@ -12987,19 +12974,6 @@
         "id": 465199162
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 241,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2024-08-30T04:37:05+00:00",
-        "pushed": "2024-08-30T04:37:02+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "pythondata-cpu-vexiiriscv",
         "description": "Python module containing verilog files/generators for VexiiRiscv CPU (for use with LiteX).",
         "owner": "litex-hub",
@@ -13052,19 +13026,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 775,
-        "forks": 70,
-        "size": 1201,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-08-30T20:24:10+00:00",
-        "pushed": "2024-08-31T02:07:47+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13104,19 +13065,6 @@
         "id": 434342707
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 37,
-        "forks": 2,
-        "size": 100493,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-08-30T21:39:37+00:00",
-        "pushed": "2024-08-30T21:39:33+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "3yqq",
@@ -13130,15 +13078,67 @@
         "id": 833422784
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 776,
+        "forks": 70,
+        "size": 1201,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-08-31T12:47:51+00:00",
+        "pushed": "2024-09-01T02:18:21+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1837,
+        "forks": 165,
+        "size": 99,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-08-31T12:15:40+00:00",
+        "pushed": "2024-08-31T12:15:36+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 37,
+        "forks": 2,
+        "size": 103675,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-08-31T22:37:38+00:00",
+        "pushed": "2024-08-31T22:37:35+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 243,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2024-09-01T04:07:17+00:00",
+        "pushed": "2024-09-01T04:07:14+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2164,
+        "size": 2244,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-08-31T04:39:46+00:00",
-        "pushed": "2024-08-31T04:39:43+00:00",
+        "updated": "2024-09-01T04:40:13+00:00",
+        "pushed": "2024-09-01T04:40:10+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13148,10 +13148,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 66593,
+        "size": 67042,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-08-31T03:24:54+00:00",
-        "pushed": "2024-08-31T03:24:51+00:00",
+        "updated": "2024-09-01T03:29:53+00:00",
+        "pushed": "2024-09-01T03:29:50+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
