@@ -1495,19 +1495,6 @@
         "id": 330470333
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 329,
-        "forks": 23,
-        "size": 14014,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-08-18T22:25:17+00:00",
-        "pushed": "2024-08-20T08:17:14+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "awesome_photonics",
         "description": "\ud83d\ude0e curated list of open source photonics projects",
         "owner": "joamatab",
@@ -1534,19 +1521,6 @@
         "id": 65847289
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "stahlnow",
-        "stars": 0,
-        "forks": 0,
-        "size": 330,
-        "created": "2024-03-06T21:46:55+00:00",
-        "updated": "2024-08-29T00:48:23+00:00",
-        "pushed": "2024-08-29T00:48:19+00:00",
-        "url": "https://github.com/stahlnow/awesome-stars",
-        "id": 768320430
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -1571,5 +1545,31 @@
         "pushed": "2024-08-31T09:10:03+00:00",
         "url": "https://github.com/skidlord692/skidlord690",
         "id": 850250802
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 334,
+        "forks": 23,
+        "size": 14041,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-08-29T12:43:15+00:00",
+        "pushed": "2024-09-04T20:24:24+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "stahlnow",
+        "stars": 0,
+        "forks": 0,
+        "size": 457,
+        "created": "2024-03-06T21:46:55+00:00",
+        "updated": "2024-09-05T00:48:20+00:00",
+        "pushed": "2024-09-05T00:48:16+00:00",
+        "url": "https://github.com/stahlnow/awesome-stars",
+        "id": 768320430
     }
 ]
