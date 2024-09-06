@@ -12857,19 +12857,6 @@
         "id": 330793471
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 454,
-        "forks": 116,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-08-22T19:21:08+00:00",
-        "pushed": "2024-08-31T02:21:18+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -13000,19 +12987,6 @@
         "id": 793871326
     },
     {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "3yqq",
-        "stars": 2,
-        "forks": 0,
-        "size": 269,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-09-04T05:57:58+00:00",
-        "pushed": "2024-09-04T05:57:54+00:00",
-        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
         "repo": "pythondata-cpu-vexiiriscv",
         "description": "Python module containing verilog files/generators for VexiiRiscv CPU (for use with LiteX).",
         "owner": "litex-hub",
@@ -13026,19 +13000,6 @@
         "id": 774781647
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2865,
-        "forks": 551,
-        "size": 17264,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-09-04T12:46:51+00:00",
-        "pushed": "2024-09-04T12:46:48+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -13050,19 +13011,6 @@
         "pushed": "2024-09-04T20:06:45+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 781,
-        "forks": 71,
-        "size": 1205,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-09-04T14:19:17+00:00",
-        "pushed": "2024-09-05T02:09:41+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "liteeth",
@@ -13091,32 +13039,6 @@
         "id": 274442284
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 37,
-        "forks": 3,
-        "size": 6607,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-09-04T16:54:28+00:00",
-        "pushed": "2024-09-04T16:54:24+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 58,
-        "forks": 21,
-        "size": 116080,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-09-05T01:29:34+00:00",
-        "pushed": "2024-09-05T04:33:32+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "FazyRV",
         "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
         "owner": "meiniKi",
@@ -13143,15 +13065,93 @@
         "id": 434342707
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2868,
+        "forks": 552,
+        "size": 17263,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-09-06T04:56:59+00:00",
+        "pushed": "2024-09-05T13:15:52+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 781,
+        "forks": 71,
+        "size": 1205,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-09-04T14:19:17+00:00",
+        "pushed": "2024-09-06T02:13:11+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 455,
+        "forks": 116,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-09-05T09:49:13+00:00",
+        "pushed": "2024-09-06T02:22:37+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 37,
+        "forks": 3,
+        "size": 6543,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-09-05T17:13:48+00:00",
+        "pushed": "2024-09-05T17:13:45+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 58,
+        "forks": 21,
+        "size": 115974,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-09-06T03:26:13+00:00",
+        "pushed": "2024-09-06T03:26:11+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 2,
+        "forks": 0,
+        "size": 300,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-09-05T08:19:43+00:00",
+        "pushed": "2024-09-05T08:19:39+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2328,
+        "size": 2376,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-09-05T04:39:42+00:00",
-        "pushed": "2024-09-05T04:39:40+00:00",
+        "updated": "2024-09-06T04:39:01+00:00",
+        "pushed": "2024-09-06T04:38:59+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13161,10 +13161,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 68881,
+        "size": 69346,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-09-05T03:25:55+00:00",
-        "pushed": "2024-09-05T03:25:51+00:00",
+        "updated": "2024-09-06T03:26:10+00:00",
+        "pushed": "2024-09-06T03:26:07+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
