@@ -5252,19 +5252,6 @@
         "id": 30467971
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 4,
-        "forks": 1,
-        "size": 968,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-08-01T20:20:08+00:00",
-        "pushed": "2024-08-08T19:49:52+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "AND-gate-cosim-madness",
         "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
         "owner": "Kreijstal",
@@ -5406,5 +5393,18 @@
         "pushed": "2024-09-02T22:00:15+00:00",
         "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
         "id": 785859807
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 4,
+        "forks": 1,
+        "size": 981,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-09-06T17:37:27+00:00",
+        "pushed": "2024-09-06T17:40:43+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
