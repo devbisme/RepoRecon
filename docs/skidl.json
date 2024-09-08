@@ -1456,19 +1456,6 @@
         "id": 805895910
     },
     {
-        "repo": "skidlist",
-        "description": "This repository maintains a list of individuals who have been identified as \"skids\" in various online communities.",
-        "owner": "Devuxious",
-        "stars": 9,
-        "forks": 6,
-        "size": 25,
-        "created": "2023-09-02T13:37:20+00:00",
-        "updated": "2024-08-07T02:05:01+00:00",
-        "pushed": "2024-08-07T02:04:57+00:00",
-        "url": "https://github.com/Devuxious/skidlist",
-        "id": 686346611
-    },
-    {
         "repo": "Morty",
         "description": "A bipedal humanoid control system using a Physics-Informed Neural Network (PINN) and Reinforcement Learning (RL) for stability and manipulation tasks. Integrated with ROS for real-time control and FPGA for hardware acceleration, it offers advanced robotic control, ideal for research, education, and practical applications in dynamic environments.",
         "owner": "HermiTech-LLC",
@@ -1584,5 +1571,18 @@
         "pushed": "2024-09-06T07:00:30+00:00",
         "url": "https://github.com/sylefeb/skidl-tools",
         "id": 852625991
+    },
+    {
+        "repo": "skidlist",
+        "description": "This repository maintains a list of individuals who have been identified as \"skids\" in various online communities.",
+        "owner": "hmRemi",
+        "stars": 9,
+        "forks": 7,
+        "size": 30,
+        "created": "2023-09-02T13:37:20+00:00",
+        "updated": "2024-09-07T15:51:52+00:00",
+        "pushed": "2024-09-07T15:51:48+00:00",
+        "url": "https://github.com/hmRemi/skidlist",
+        "id": 686346611
     }
 ]
