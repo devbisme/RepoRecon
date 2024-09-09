@@ -5135,19 +5135,6 @@
         "id": 328467543
     },
     {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 56,
-        "forks": 10,
-        "size": 1562,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2024-07-04T15:19:13+00:00",
-        "pushed": "2024-07-04T06:14:52+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
         "repo": "awesome-hpc-cuda-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public High Performance Computing (HPC), NVIDIA CUDA, cuBLAS, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
@@ -5172,19 +5159,6 @@
         "pushed": "2024-07-08T15:37:17+00:00",
         "url": "https://github.com/codingonion/awesome-fpga",
         "id": 825835602
-    },
-    {
-        "repo": "ASIC-Design-Roadmap",
-        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
-        "owner": "abdelazeem201",
-        "stars": 181,
-        "forks": 25,
-        "size": 6019,
-        "created": "2021-02-27T17:29:46+00:00",
-        "updated": "2024-07-10T17:18:14+00:00",
-        "pushed": "2024-07-10T09:54:39+00:00",
-        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
-        "id": 342916296
     },
     {
         "repo": "verilog-i2c",
@@ -5406,5 +5380,31 @@
         "pushed": "2024-09-06T17:40:43+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
+    },
+    {
+        "repo": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "owner": "abdelazeem201",
+        "stars": 214,
+        "forks": 29,
+        "size": 6028,
+        "created": "2021-02-27T17:29:46+00:00",
+        "updated": "2024-09-08T19:13:20+00:00",
+        "pushed": "2024-09-08T19:13:17+00:00",
+        "url": "https://github.com/abdelazeem201/ASIC-Design-Roadmap",
+        "id": 342916296
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 63,
+        "forks": 15,
+        "size": 1569,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2024-09-08T15:23:51+00:00",
+        "pushed": "2024-09-06T05:47:47+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
     }
 ]

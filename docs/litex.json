@@ -12493,19 +12493,6 @@
         "id": 13168458
     },
     {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 5,
-        "forks": 0,
-        "size": 376,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2024-08-11T06:52:29+00:00",
-        "pushed": "2024-08-11T06:52:26+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -12779,19 +12766,6 @@
         "id": 464657430
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 37922,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-08-30T00:58:22+00:00",
-        "pushed": "2024-08-30T00:58:18+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -12816,19 +12790,6 @@
         "pushed": "2024-09-02T12:39:47+00:00",
         "url": "https://github.com/enjoy-digital/litedram",
         "id": 31147284
-    },
-    {
-        "repo": "fusion_firmware",
-        "description": null,
-        "owner": "jeandet",
-        "stars": 0,
-        "forks": 0,
-        "size": 1039,
-        "created": "2024-09-01T18:00:57+00:00",
-        "updated": "2024-09-02T15:34:43+00:00",
-        "pushed": "2024-09-02T15:34:39+00:00",
-        "url": "https://github.com/jeandet/fusion_firmware",
-        "id": 850765056
     },
     {
         "repo": "cryptocurrency-icons",
@@ -12935,19 +12896,6 @@
         "id": 45734719
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 44,
-        "forks": 4,
-        "size": 6577,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-09-07T04:17:07+00:00",
-        "pushed": "2024-09-06T19:41:28+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13013,19 +12961,6 @@
         "id": 84366787
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 383,
-        "forks": 37,
-        "size": 161686,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-09-07T04:02:42+00:00",
-        "pushed": "2024-09-07T04:02:38+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -13039,19 +12974,6 @@
         "id": 310692215
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 782,
-        "forks": 71,
-        "size": 1205,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-09-07T19:26:03+00:00",
-        "pushed": "2024-09-08T02:14:19+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13063,19 +12985,6 @@
         "pushed": "2024-09-08T02:26:16+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1536,
-        "forks": 212,
-        "size": 209673,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-09-07T12:44:35+00:00",
-        "pushed": "2024-09-07T12:45:54+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "openCologne",
@@ -13117,45 +13026,6 @@
         "id": 833422784
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1334,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-09-08T04:38:22+00:00",
-        "pushed": "2024-09-08T04:38:19+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "GithubTrending",
-        "description": null,
-        "owner": "jafshare",
-        "stars": 6,
-        "forks": 0,
-        "size": 23435,
-        "created": "2023-10-07T09:03:35+00:00",
-        "updated": "2024-09-08T00:50:40+00:00",
-        "pushed": "2024-09-08T00:50:37+00:00",
-        "url": "https://github.com/jafshare/GithubTrending",
-        "id": 701683842
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 5,
-        "forks": 1,
-        "size": 70269,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-09-08T03:26:27+00:00",
-        "pushed": "2024-09-08T03:26:24+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "stars",
         "description": "Edwin's stars.",
         "owner": "fox-self",
@@ -13167,5 +13037,148 @@
         "pushed": "2024-09-08T01:38:57+00:00",
         "url": "https://github.com/fox-self/stars",
         "id": 496850458
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 783,
+        "forks": 71,
+        "size": 1205,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-09-09T02:23:46+00:00",
+        "pushed": "2024-09-09T02:06:26+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1536,
+        "forks": 212,
+        "size": 209467,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-09-08T13:01:16+00:00",
+        "pushed": "2024-09-08T13:02:30+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 47,
+        "forks": 4,
+        "size": 6566,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-09-07T19:46:58+00:00",
+        "pushed": "2024-09-08T16:46:41+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "ts_litex_driver_win",
+        "description": "Windows Driver for the LiteX-based Thunderscope",
+        "owner": "EEVengers",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-09-09T01:38:32+00:00",
+        "updated": "2024-09-09T01:38:38+00:00",
+        "pushed": "2024-09-09T01:38:34+00:00",
+        "url": "https://github.com/EEVengers/ts_litex_driver_win",
+        "id": 854338240
+    },
+    {
+        "repo": "fusion_firmware",
+        "description": null,
+        "owner": "jeandet",
+        "stars": 0,
+        "forks": 0,
+        "size": 1259,
+        "created": "2024-09-01T18:00:57+00:00",
+        "updated": "2024-09-08T19:48:40+00:00",
+        "pushed": "2024-09-08T19:48:36+00:00",
+        "url": "https://github.com/jeandet/fusion_firmware",
+        "id": 850765056
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 5,
+        "forks": 0,
+        "size": 378,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2024-09-08T16:57:48+00:00",
+        "pushed": "2024-09-08T16:57:45+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 384,
+        "forks": 37,
+        "size": 162149,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-09-09T01:27:26+00:00",
+        "pushed": "2024-09-08T14:22:17+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1414,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-09-09T04:39:33+00:00",
+        "pushed": "2024-09-09T04:39:30+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 39177,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-09-09T01:07:29+00:00",
+        "pushed": "2024-09-09T01:07:26+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
+        "repo": "GithubTrending",
+        "description": null,
+        "owner": "jafshare",
+        "stars": 6,
+        "forks": 0,
+        "size": 23562,
+        "created": "2023-10-07T09:03:35+00:00",
+        "updated": "2024-09-09T00:48:00+00:00",
+        "pushed": "2024-09-09T00:47:57+00:00",
+        "url": "https://github.com/jafshare/GithubTrending",
+        "id": 701683842
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 5,
+        "forks": 1,
+        "size": 70735,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-09-09T03:27:37+00:00",
+        "pushed": "2024-09-09T03:27:34+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
