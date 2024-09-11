@@ -5369,19 +5369,6 @@
         "id": 785859807
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 4,
-        "forks": 1,
-        "size": 981,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-09-06T17:37:27+00:00",
-        "pushed": "2024-09-06T17:40:43+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "ASIC-Design-Roadmap",
         "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
         "owner": "abdelazeem201",
@@ -5406,5 +5393,18 @@
         "pushed": "2024-09-06T05:47:47+00:00",
         "url": "https://github.com/dan-fritchman/Hdl21",
         "id": 360750527
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 4,
+        "forks": 1,
+        "size": 974,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-09-10T18:49:45+00:00",
+        "pushed": "2024-09-10T18:49:43+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
