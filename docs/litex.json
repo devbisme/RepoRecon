@@ -12896,19 +12896,6 @@
         "id": 854856461
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 40432,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-09-10T01:07:53+00:00",
-        "pushed": "2024-09-10T01:07:50+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -12948,58 +12935,6 @@
         "id": 850803893
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 368,
-        "forks": 280,
-        "size": 4308,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-09-11T09:00:37+00:00",
-        "pushed": "2024-09-11T07:13:53+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
-        "repo": "litespi",
-        "description": "Small footprint and configurable SPI core",
-        "owner": "litex-hub",
-        "stars": 38,
-        "forks": 23,
-        "size": 214,
-        "created": "2020-03-29T10:14:20+00:00",
-        "updated": "2024-09-11T12:19:34+00:00",
-        "pushed": "2024-09-11T12:19:29+00:00",
-        "url": "https://github.com/litex-hub/litespi",
-        "id": 251003436
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1539,
-        "forks": 212,
-        "size": 209663,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-09-11T18:40:48+00:00",
-        "pushed": "2024-09-11T18:42:19+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 49,
-        "forks": 4,
-        "size": 6616,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-09-11T15:42:39+00:00",
-        "pushed": "2024-09-11T15:42:35+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -13011,19 +12946,6 @@
         "pushed": "2024-09-12T04:03:41+00:00",
         "url": "https://github.com/EEVengers/libtslitex",
         "id": 784979558
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 37,
-        "forks": 2,
-        "size": 111085,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-09-11T19:01:53+00:00",
-        "pushed": "2024-09-11T19:01:34+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "minze",
@@ -13065,19 +12987,6 @@
         "id": 701683842
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2885,
-        "forks": 555,
-        "size": 17279,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-09-13T04:36:48+00:00",
-        "pushed": "2024-09-12T16:04:36+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -13091,19 +13000,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 783,
-        "forks": 71,
-        "size": 1205,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-09-09T02:23:46+00:00",
-        "pushed": "2024-09-13T02:15:36+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -13115,19 +13011,6 @@
         "pushed": "2024-09-12T16:46:21+00:00",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 458,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-09-13T05:03:32+00:00",
-        "pushed": "2024-09-13T02:24:05+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
     },
     {
         "repo": "OS",
@@ -13169,19 +13052,6 @@
         "id": 465199162
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 0,
-        "forks": 2,
-        "size": 461,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2024-09-12T10:29:28+00:00",
-        "pushed": "2024-09-12T10:29:13+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "ts_litex_driver_linux",
         "description": "Linux Driver for the LiteX-based Thunderscope",
         "owner": "EEVengers",
@@ -13193,19 +13063,6 @@
         "pushed": "2024-09-13T04:13:26+00:00",
         "url": "https://github.com/EEVengers/ts_litex_driver_linux",
         "id": 856171040
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "3yqq",
-        "stars": 2,
-        "forks": 0,
-        "size": 383,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-09-12T10:26:41+00:00",
-        "pushed": "2024-09-12T10:26:37+00:00",
-        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
     },
     {
         "repo": "CEG491X",
@@ -13221,17 +13078,160 @@
         "id": 856537708
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2888,
+        "forks": 555,
+        "size": 17295,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-09-14T04:50:39+00:00",
+        "pushed": "2024-09-13T17:33:01+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 368,
+        "forks": 280,
+        "size": 4329,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-09-13T13:40:19+00:00",
+        "pushed": "2024-09-13T13:40:15+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 783,
+        "forks": 71,
+        "size": 1205,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-09-09T02:23:46+00:00",
+        "pushed": "2024-09-14T02:03:32+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 458,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-09-13T05:03:32+00:00",
+        "pushed": "2024-09-14T02:22:08+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "litespi",
+        "description": "Small footprint and configurable SPI core",
+        "owner": "litex-hub",
+        "stars": 38,
+        "forks": 23,
+        "size": 216,
+        "created": "2020-03-29T10:14:20+00:00",
+        "updated": "2024-09-13T09:42:42+00:00",
+        "pushed": "2024-09-13T09:42:38+00:00",
+        "url": "https://github.com/litex-hub/litespi",
+        "id": 251003436
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1541,
+        "forks": 212,
+        "size": 209915,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-09-14T04:39:27+00:00",
+        "pushed": "2024-09-14T04:40:46+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 49,
+        "forks": 4,
+        "size": 6651,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-09-13T17:37:23+00:00",
+        "pushed": "2024-09-13T17:37:20+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 0,
+        "forks": 2,
+        "size": 465,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2024-09-13T11:29:41+00:00",
+        "pushed": "2024-09-13T11:29:38+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 37,
+        "forks": 2,
+        "size": 117016,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-09-14T03:30:05+00:00",
+        "pushed": "2024-09-14T03:30:01+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 2,
+        "forks": 0,
+        "size": 394,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-09-13T09:02:12+00:00",
+        "pushed": "2024-09-13T09:02:09+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1497,
+        "size": 1658,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-09-13T04:39:32+00:00",
-        "pushed": "2024-09-13T04:39:23+00:00",
+        "updated": "2024-09-14T04:39:05+00:00",
+        "pushed": "2024-09-14T04:39:03+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 41689,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-09-14T01:08:12+00:00",
+        "pushed": "2024-09-14T01:08:09+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13239,10 +13239,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 72578,
+        "size": 73045,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-09-13T03:26:42+00:00",
-        "pushed": "2024-09-13T03:26:38+00:00",
+        "updated": "2024-09-14T03:26:11+00:00",
+        "pushed": "2024-09-14T03:26:08+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
