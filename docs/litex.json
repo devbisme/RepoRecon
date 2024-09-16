@@ -13065,19 +13065,6 @@
         "id": 251003436
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1541,
-        "forks": 212,
-        "size": 209915,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-09-14T04:39:27+00:00",
-        "pushed": "2024-09-14T04:40:46+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -13117,32 +13104,6 @@
         "id": 798146281
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 41689,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-09-14T01:08:12+00:00",
-        "pushed": "2024-09-14T01:08:09+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 784,
-        "forks": 71,
-        "size": 1207,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-09-14T10:59:26+00:00",
-        "pushed": "2024-09-15T02:18:42+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13167,19 +13128,6 @@
         "pushed": "2024-09-14T10:09:32+00:00",
         "url": "https://github.com/girlvoice/girlvoice-gateware",
         "id": 800344642
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 59,
-        "forks": 22,
-        "size": 116061,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-09-15T03:15:54+00:00",
-        "pushed": "2024-09-15T03:15:50+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "f80",
@@ -13208,15 +13156,67 @@
         "id": 761567898
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 785,
+        "forks": 71,
+        "size": 1207,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-09-15T15:13:09+00:00",
+        "pushed": "2024-09-16T02:15:19+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1541,
+        "forks": 213,
+        "size": 210206,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-09-15T21:17:46+00:00",
+        "pushed": "2024-09-15T21:18:58+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 59,
+        "forks": 22,
+        "size": 116066,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-09-16T00:48:26+00:00",
+        "pushed": "2024-09-16T00:48:23+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "usbsniffer",
+        "description": null,
+        "owner": "buildfail",
+        "stars": 0,
+        "forks": 0,
+        "size": 449,
+        "created": "2024-09-15T15:06:14+00:00",
+        "updated": "2024-09-15T15:07:44+00:00",
+        "pushed": "2024-09-15T15:07:43+00:00",
+        "url": "https://github.com/buildfail/usbsniffer",
+        "id": 857768237
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "3yqq",
         "stars": 2,
         "forks": 0,
-        "size": 394,
+        "size": 408,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-09-14T12:51:53+00:00",
-        "pushed": "2024-09-14T12:51:50+00:00",
+        "updated": "2024-09-15T09:50:34+00:00",
+        "pushed": "2024-09-15T09:50:31+00:00",
         "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13226,12 +13226,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1659,
+        "size": 1740,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-09-15T04:39:30+00:00",
-        "pushed": "2024-09-15T04:39:28+00:00",
+        "updated": "2024-09-16T04:40:42+00:00",
+        "pushed": "2024-09-16T04:40:39+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 42172,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-09-16T00:57:55+00:00",
+        "pushed": "2024-09-16T00:57:52+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13239,10 +13252,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 64737,
+        "size": 65203,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-09-15T03:29:47+00:00",
-        "pushed": "2024-09-15T03:29:43+00:00",
+        "updated": "2024-09-16T03:31:50+00:00",
+        "pushed": "2024-09-16T03:31:46+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
