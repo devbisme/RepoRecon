@@ -39195,32 +39195,6 @@
         "id": 706052378
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 172,
-        "forks": 33,
-        "size": 164041,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-09-13T19:26:27+00:00",
-        "pushed": "2024-09-14T13:29:36+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 12,
-        "forks": 7,
-        "size": 28274,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-09-14T06:59:57+00:00",
-        "pushed": "2024-09-14T06:59:54+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -39299,19 +39273,6 @@
         "id": 7408108
     },
     {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 1,
-        "forks": 0,
-        "size": 363,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2024-09-16T01:09:19+00:00",
-        "pushed": "2024-09-16T00:33:12+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
-    },
-    {
         "repo": "Baremetal-NN",
         "description": "A tool for converting PyTorch models into raw C codes that can be executed standalone in a baremetal runtime on RISC-V research chips.",
         "owner": "ucb-bar",
@@ -39323,19 +39284,6 @@
         "pushed": "2024-09-16T04:54:46+00:00",
         "url": "https://github.com/ucb-bar/Baremetal-NN",
         "id": 692600166
-    },
-    {
-        "repo": "mpp",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 1,
-        "size": 28987,
-        "created": "2024-07-05T02:49:23+00:00",
-        "updated": "2024-09-15T09:22:07+00:00",
-        "pushed": "2024-09-15T09:29:52+00:00",
-        "url": "https://github.com/canmv-k230/mpp",
-        "id": 824383370
     },
     {
         "repo": "PQRV",
@@ -39403,19 +39351,6 @@
         "id": 854181302
     },
     {
-        "repo": "u-boot",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 1,
-        "size": 30010,
-        "created": "2024-07-05T10:26:38+00:00",
-        "updated": "2024-09-13T02:13:57+00:00",
-        "pushed": "2024-09-15T09:30:05+00:00",
-        "url": "https://github.com/canmv-k230/u-boot",
-        "id": 824530800
-    },
-    {
         "repo": "Alfa_Team",
         "description": "Alfa_Team",
         "owner": "ROBOTICAIPTC",
@@ -39468,15 +39403,80 @@
         "id": 858162685
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 173,
+        "forks": 33,
+        "size": 164172,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-09-15T22:39:29+00:00",
+        "pushed": "2024-09-17T19:26:20+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 12,
+        "forks": 7,
+        "size": 28276,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-09-18T03:16:55+00:00",
+        "pushed": "2024-09-18T03:16:51+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 1,
+        "forks": 0,
+        "size": 363,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2024-09-18T03:22:18+00:00",
+        "pushed": "2024-09-18T03:22:15+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "mpp",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 1,
+        "size": 28993,
+        "created": "2024-07-05T02:49:23+00:00",
+        "updated": "2024-09-18T03:20:17+00:00",
+        "pushed": "2024-09-18T03:20:14+00:00",
+        "url": "https://github.com/canmv-k230/mpp",
+        "id": 824383370
+    },
+    {
+        "repo": "u-boot",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 1,
+        "size": 30053,
+        "created": "2024-07-05T10:26:38+00:00",
+        "updated": "2024-09-18T03:18:47+00:00",
+        "pushed": "2024-09-18T03:18:43+00:00",
+        "url": "https://github.com/canmv-k230/u-boot",
+        "id": 824530800
+    },
+    {
         "repo": "New_Line",
         "description": "New_Line",
         "owner": "ROBOTICAIPTC",
         "stars": 0,
         "forks": 0,
-        "size": 48886,
+        "size": 48931,
         "created": "2024-06-13T22:34:49+00:00",
-        "updated": "2024-09-17T01:31:35+00:00",
-        "pushed": "2024-09-17T01:31:32+00:00",
+        "updated": "2024-09-18T04:33:09+00:00",
+        "pushed": "2024-09-18T04:33:06+00:00",
         "url": "https://github.com/ROBOTICAIPTC/New_Line",
         "id": 814875474
     },
@@ -39486,10 +39486,10 @@
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 2205,
+        "size": 2675,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-09-17T01:38:44+00:00",
-        "pushed": "2024-09-17T01:38:41+00:00",
+        "updated": "2024-09-18T01:56:57+00:00",
+        "pushed": "2024-09-18T01:56:54+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39499,10 +39499,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 3963,
+        "size": 4129,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-09-17T01:35:02+00:00",
-        "pushed": "2024-09-17T01:34:59+00:00",
+        "updated": "2024-09-18T01:53:22+00:00",
+        "pushed": "2024-09-18T01:53:19+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39512,10 +39512,10 @@
         "owner": "androidtrackers",
         "stars": 124,
         "forks": 35,
-        "size": 757347,
+        "size": 759777,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-09-16T12:31:43+00:00",
-        "pushed": "2024-09-16T12:31:40+00:00",
+        "updated": "2024-09-17T12:30:09+00:00",
+        "pushed": "2024-09-17T12:30:05+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
