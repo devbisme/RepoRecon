@@ -12207,19 +12207,6 @@
         "id": 42044258
     },
     {
-        "repo": "sechzig",
-        "description": "Sechzig Compute Module",
-        "owner": "machdyne",
-        "stars": 8,
-        "forks": 1,
-        "size": 2633,
-        "created": "2023-04-11T18:19:34+00:00",
-        "updated": "2024-07-25T12:46:43+00:00",
-        "pushed": "2024-07-25T12:30:51+00:00",
-        "url": "https://github.com/machdyne/sechzig",
-        "id": 626567971
-    },
-    {
         "repo": "litepcie_driver_win",
         "description": "Windows Driver for the LitePCIe LiteX core",
         "owner": "NateMeyer",
@@ -12413,19 +12400,6 @@
         "pushed": "2024-08-15T17:17:03+00:00",
         "url": "https://github.com/panantoni01/LinuxDrivers",
         "id": 757989102
-    },
-    {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 463,
-        "forks": 114,
-        "size": 1780,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-08-16T07:59:28+00:00",
-        "pushed": "2024-08-14T06:07:05+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
     },
     {
         "repo": "oss-cad-suite",
@@ -12818,19 +12792,6 @@
         "id": 854856461
     },
     {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 53,
-        "forks": 22,
-        "size": 742,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2024-09-10T16:48:27+00:00",
-        "pushed": "2024-09-10T16:48:08+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -12961,19 +12922,6 @@
         "id": 856537708
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 368,
-        "forks": 280,
-        "size": 4329,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-09-13T13:40:19+00:00",
-        "pushed": "2024-09-13T13:40:15+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -13078,45 +13026,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 787,
-        "forks": 71,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-09-16T15:23:58+00:00",
-        "pushed": "2024-09-18T02:15:40+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 207,
-        "forks": 86,
-        "size": 1403,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-09-17T19:20:34+00:00",
-        "pushed": "2024-09-17T19:20:30+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 459,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-09-14T19:13:59+00:00",
-        "pushed": "2024-09-18T02:23:55+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "zephyr-on-litex-vexriscv",
         "description": null,
         "owner": "litex-hub",
@@ -13156,19 +13065,6 @@
         "id": 225642630
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 60,
-        "forks": 22,
-        "size": 126017,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-09-18T00:17:09+00:00",
-        "pushed": "2024-09-18T00:17:07+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "SucreLA",
         "description": "Open source Logic Analyzer based on LiteX SoC",
         "owner": "fallen",
@@ -13193,19 +13089,6 @@
         "pushed": "2024-09-17T13:15:22+00:00",
         "url": "https://github.com/myriadrf/LimeSDR_GW",
         "id": 787406556
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 37,
-        "forks": 2,
-        "size": 120494,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-09-17T20:38:55+00:00",
-        "pushed": "2024-09-17T20:16:14+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "amaranth-awesome",
@@ -13234,19 +13117,6 @@
         "id": 833422784
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1822,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-09-18T04:40:26+00:00",
-        "pushed": "2024-09-18T04:40:23+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -13260,15 +13130,145 @@
         "id": 330793471
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 369,
+        "forks": 280,
+        "size": 4238,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-09-18T09:21:56+00:00",
+        "pushed": "2024-09-18T09:21:51+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 465,
+        "forks": 116,
+        "size": 1782,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-09-18T12:18:00+00:00",
+        "pushed": "2024-09-18T12:17:56+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 788,
+        "forks": 71,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-09-18T17:24:52+00:00",
+        "pushed": "2024-09-19T02:08:53+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 208,
+        "forks": 86,
+        "size": 1414,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-09-18T22:24:27+00:00",
+        "pushed": "2024-09-18T09:19:01+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 459,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-09-14T19:13:59+00:00",
+        "pushed": "2024-09-19T02:27:21+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 53,
+        "forks": 24,
+        "size": 754,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2024-09-18T09:18:36+00:00",
+        "pushed": "2024-09-18T09:18:32+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 60,
+        "forks": 22,
+        "size": 126062,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-09-19T01:36:31+00:00",
+        "pushed": "2024-09-19T01:36:28+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 37,
+        "forks": 2,
+        "size": 129951,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-09-19T05:34:11+00:00",
+        "pushed": "2024-09-19T05:34:08+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "sechzig",
+        "description": "Sechzig Compute Module",
+        "owner": "machdyne",
+        "stars": 10,
+        "forks": 1,
+        "size": 2636,
+        "created": "2023-04-11T18:19:34+00:00",
+        "updated": "2024-09-18T10:43:40+00:00",
+        "pushed": "2024-09-18T10:43:36+00:00",
+        "url": "https://github.com/machdyne/sechzig",
+        "id": 626567971
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1903,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-09-19T04:40:53+00:00",
+        "pushed": "2024-09-19T04:40:50+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 66132,
+        "size": 66602,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-09-18T03:26:38+00:00",
-        "pushed": "2024-09-18T03:26:34+00:00",
+        "updated": "2024-09-19T03:27:45+00:00",
+        "pushed": "2024-09-19T03:27:42+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
