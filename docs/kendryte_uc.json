@@ -38935,19 +38935,6 @@
         "id": 854462776
     },
     {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 45,
-        "forks": 13,
-        "size": 105433,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-09-11T03:30:33+00:00",
-        "pushed": "2024-09-11T04:03:41+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
         "repo": "vihal",
         "description": "Embedded Hardware Access Library",
         "owner": "nvitya",
@@ -38998,19 +38985,6 @@
         "pushed": "2024-09-01T10:37:10+00:00",
         "url": "https://github.com/ophub/flippy-openwrt-actions",
         "id": 360045993
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 807139,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-09-12T18:14:19+00:00",
-        "pushed": "2024-09-12T18:14:15+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
     },
     {
         "repo": "rvos",
@@ -39182,19 +39156,6 @@
         "id": 789351076
     },
     {
-        "repo": "Baremetal-NN",
-        "description": "A tool for converting PyTorch models into raw C codes that can be executed standalone in a baremetal runtime on RISC-V research chips.",
-        "owner": "ucb-bar",
-        "stars": 16,
-        "forks": 1,
-        "size": 79556,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2024-09-16T04:54:19+00:00",
-        "pushed": "2024-09-16T04:54:46+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
-    },
-    {
         "repo": "PQRV",
         "description": null,
         "owner": "Ji-Peng",
@@ -39206,19 +39167,6 @@
         "pushed": "2024-09-12T06:26:51+00:00",
         "url": "https://github.com/Ji-Peng/PQRV",
         "id": 730666657
-    },
-    {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 1,
-        "size": 61524,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2024-09-12T01:49:21+00:00",
-        "pushed": "2024-09-15T09:29:58+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
     },
     {
         "repo": "STM32-CAR-Continuing",
@@ -39312,19 +39260,6 @@
         "id": 793843389
     },
     {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 1,
-        "forks": 0,
-        "size": 363,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2024-09-18T03:22:18+00:00",
-        "pushed": "2024-09-18T03:22:15+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
-    },
-    {
         "repo": "mpp",
         "description": null,
         "owner": "canmv-k230",
@@ -39351,45 +39286,6 @@
         "id": 824530800
     },
     {
-        "repo": "New_Line",
-        "description": "New_Line",
-        "owner": "ROBOTICAIPTC",
-        "stars": 0,
-        "forks": 0,
-        "size": 48931,
-        "created": "2024-06-13T22:34:49+00:00",
-        "updated": "2024-09-18T04:33:09+00:00",
-        "pushed": "2024-09-18T04:33:06+00:00",
-        "url": "https://github.com/ROBOTICAIPTC/New_Line",
-        "id": 814875474
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 733,
-        "forks": 181,
-        "size": 59453,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-09-18T02:42:13+00:00",
-        "pushed": "2024-09-18T08:52:57+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 174,
-        "forks": 33,
-        "size": 164192,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-09-18T13:20:08+00:00",
-        "pushed": "2024-09-18T17:30:18+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -39403,19 +39299,6 @@
         "id": 390637491
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10320,
-        "forks": 4976,
-        "size": 884909,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-09-19T06:19:20+00:00",
-        "pushed": "2024-09-19T02:00:36+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rcore-ebpf",
         "description": null,
         "owner": "chenzhiy2001",
@@ -39427,19 +39310,6 @@
         "pushed": "2024-09-18T08:36:24+00:00",
         "url": "https://github.com/chenzhiy2001/rcore-ebpf",
         "id": 625472780
-    },
-    {
-        "repo": "Alfa_Team",
-        "description": "Alfa_Team",
-        "owner": "ROBOTICAIPTC",
-        "stars": 0,
-        "forks": 0,
-        "size": 5281,
-        "created": "2024-06-13T22:32:28+00:00",
-        "updated": "2024-09-18T22:04:31+00:00",
-        "pushed": "2024-09-18T22:04:28+00:00",
-        "url": "https://github.com/ROBOTICAIPTC/Alfa_Team",
-        "id": 814874955
     },
     {
         "repo": "BETAS",
@@ -39481,15 +39351,171 @@
         "id": 804949396
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 734,
+        "forks": 181,
+        "size": 59411,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-09-19T09:18:41+00:00",
+        "pushed": "2024-09-20T06:11:37+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 174,
+        "forks": 33,
+        "size": 164222,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-09-18T13:20:08+00:00",
+        "pushed": "2024-09-19T18:17:39+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 46,
+        "forks": 13,
+        "size": 105439,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-09-18T01:27:16+00:00",
+        "pushed": "2024-09-20T02:23:46+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10326,
+        "forks": 4978,
+        "size": 884968,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-09-20T03:21:02+00:00",
+        "pushed": "2024-09-20T03:02:39+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 816692,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-09-19T19:22:38+00:00",
+        "pushed": "2024-09-19T19:22:32+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 1,
+        "forks": 0,
+        "size": 365,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2024-09-20T03:09:29+00:00",
+        "pushed": "2024-09-20T03:09:25+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "A tool for converting PyTorch models into raw C codes that can be executed standalone in a baremetal runtime on RISC-V research chips.",
+        "owner": "ucb-bar",
+        "stars": 16,
+        "forks": 1,
+        "size": 79583,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2024-09-16T04:54:19+00:00",
+        "pushed": "2024-09-20T01:20:32+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "ZacSweers",
+        "description": null,
+        "owner": "ZacSweers",
+        "stars": 15,
+        "forks": 1,
+        "size": 3008,
+        "created": "2020-08-16T19:12:40+00:00",
+        "updated": "2024-09-20T04:38:35+00:00",
+        "pushed": "2024-09-20T04:38:32+00:00",
+        "url": "https://github.com/ZacSweers/ZacSweers",
+        "id": 288008412
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 1,
+        "size": 61529,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2024-09-20T03:09:11+00:00",
+        "pushed": "2024-09-20T03:08:54+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "linux-k230",
+        "description": null,
+        "owner": "Kingxukai",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-09-19T08:50:43+00:00",
+        "updated": "2024-09-19T08:50:44+00:00",
+        "pushed": "2024-09-19T08:50:43+00:00",
+        "url": "https://github.com/Kingxukai/linux-k230",
+        "id": 859770710
+    },
+    {
+        "repo": "Alfa_Team",
+        "description": "Alfa_Team",
+        "owner": "ROBOTICAIPTC",
+        "stars": 0,
+        "forks": 0,
+        "size": 5320,
+        "created": "2024-06-13T22:32:28+00:00",
+        "updated": "2024-09-19T14:36:30+00:00",
+        "pushed": "2024-09-19T14:36:26+00:00",
+        "url": "https://github.com/ROBOTICAIPTC/Alfa_Team",
+        "id": 814874955
+    },
+    {
+        "repo": "New_Line",
+        "description": "New_Line",
+        "owner": "ROBOTICAIPTC",
+        "stars": 0,
+        "forks": 0,
+        "size": 48980,
+        "created": "2024-06-13T22:34:49+00:00",
+        "updated": "2024-09-19T23:28:03+00:00",
+        "pushed": "2024-09-19T23:28:00+00:00",
+        "url": "https://github.com/ROBOTICAIPTC/New_Line",
+        "id": 814875474
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 2879,
+        "size": 3350,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-09-19T01:56:39+00:00",
-        "pushed": "2024-09-19T01:56:36+00:00",
+        "updated": "2024-09-20T01:58:51+00:00",
+        "pushed": "2024-09-20T01:58:48+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39499,10 +39525,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 4295,
+        "size": 4462,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-09-19T01:55:41+00:00",
-        "pushed": "2024-09-19T01:55:37+00:00",
+        "updated": "2024-09-20T01:55:27+00:00",
+        "pushed": "2024-09-20T01:55:23+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39512,10 +39538,10 @@
         "owner": "androidtrackers",
         "stars": 124,
         "forks": 35,
-        "size": 759777,
+        "size": 760244,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-09-18T12:30:03+00:00",
-        "pushed": "2024-09-18T12:29:59+00:00",
+        "updated": "2024-09-19T12:31:50+00:00",
+        "pushed": "2024-09-19T12:31:45+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

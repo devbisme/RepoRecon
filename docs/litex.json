@@ -11011,19 +11011,6 @@
         "id": 231812493
     },
     {
-        "repo": "caravel_mgmt_soc_litex",
-        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
-        "owner": "efabless",
-        "stars": 25,
-        "forks": 17,
-        "size": 4929452,
-        "created": "2021-10-21T17:04:00+00:00",
-        "updated": "2024-03-24T17:50:22+00:00",
-        "pushed": "2024-03-27T10:00:36+00:00",
-        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
-        "id": 419809304
-    },
-    {
         "repo": "f4pga-examples",
         "description": "Example designs showing different ways to use F4PGA toolchains.",
         "owner": "chipsalliance",
@@ -13013,19 +13000,6 @@
         "id": 274442284
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2894,
-        "forks": 555,
-        "size": 17298,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-09-17T12:58:56+00:00",
-        "pushed": "2024-09-17T12:58:52+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "zephyr-on-litex-vexriscv",
         "description": null,
         "owner": "litex-hub",
@@ -13050,19 +13024,6 @@
         "pushed": "2024-09-17T09:47:17+00:00",
         "url": "https://github.com/amaranth-farm/amlib",
         "id": 380455385
-    },
-    {
-        "repo": "appkit",
-        "description": "Android app boilerplate + image loader",
-        "owner": "grishka",
-        "stars": 51,
-        "forks": 17,
-        "size": 299,
-        "created": "2019-12-03T14:40:58+00:00",
-        "updated": "2024-09-18T03:00:19+00:00",
-        "pushed": "2024-09-18T03:00:16+00:00",
-        "url": "https://github.com/grishka/appkit",
-        "id": 225642630
     },
     {
         "repo": "SucreLA",
@@ -13104,32 +13065,6 @@
         "id": 858125548
     },
     {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "3yqq",
-        "stars": 2,
-        "forks": 0,
-        "size": 430,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-09-17T12:26:34+00:00",
-        "pushed": "2024-09-17T12:26:30+00:00",
-        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 42655,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-09-18T00:58:13+00:00",
-        "pushed": "2024-09-18T00:58:10+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -13156,45 +13091,6 @@
         "id": 42041717
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 788,
-        "forks": 71,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-09-18T17:24:52+00:00",
-        "pushed": "2024-09-19T02:08:53+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 208,
-        "forks": 86,
-        "size": 1414,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-09-18T22:24:27+00:00",
-        "pushed": "2024-09-18T09:19:01+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 459,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-09-14T19:13:59+00:00",
-        "pushed": "2024-09-19T02:27:21+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -13206,19 +13102,6 @@
         "pushed": "2024-09-18T09:18:32+00:00",
         "url": "https://github.com/enjoy-digital/liteiclink",
         "id": 109838222
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 60,
-        "forks": 22,
-        "size": 126062,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-09-19T01:36:31+00:00",
-        "pushed": "2024-09-19T01:36:28+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "openCologne",
@@ -13247,17 +13130,134 @@
         "id": 626567971
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2893,
+        "forks": 555,
+        "size": 17308,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-09-19T09:59:10+00:00",
+        "pushed": "2024-09-19T09:59:06+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 792,
+        "forks": 71,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-09-19T11:12:50+00:00",
+        "pushed": "2024-09-20T02:07:46+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 208,
+        "forks": 86,
+        "size": 1414,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-09-19T20:19:04+00:00",
+        "pushed": "2024-09-19T20:19:00+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 459,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-09-20T02:02:29+00:00",
+        "pushed": "2024-09-20T02:25:24+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "caravel_mgmt_soc_litex",
+        "description": "https://caravel-mgmt-soc-litex.readthedocs.io/en/latest/",
+        "owner": "efabless",
+        "stars": 25,
+        "forks": 15,
+        "size": 4930365,
+        "created": "2021-10-21T17:04:00+00:00",
+        "updated": "2024-09-20T04:40:40+00:00",
+        "pushed": "2024-09-14T05:59:18+00:00",
+        "url": "https://github.com/efabless/caravel_mgmt_soc_litex",
+        "id": 419809304
+    },
+    {
+        "repo": "appkit",
+        "description": "Android app boilerplate + image loader",
+        "owner": "grishka",
+        "stars": 51,
+        "forks": 17,
+        "size": 300,
+        "created": "2019-12-03T14:40:58+00:00",
+        "updated": "2024-09-19T19:53:35+00:00",
+        "pushed": "2024-09-19T19:53:32+00:00",
+        "url": "https://github.com/grishka/appkit",
+        "id": 225642630
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 60,
+        "forks": 22,
+        "size": 126078,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-09-20T02:48:19+00:00",
+        "pushed": "2024-09-20T05:36:40+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "3yqq",
+        "stars": 2,
+        "forks": 0,
+        "size": 442,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-09-19T11:08:57+00:00",
+        "pushed": "2024-09-19T11:08:53+00:00",
+        "url": "https://github.com/3yqq/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1903,
+        "size": 1984,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-09-19T04:40:53+00:00",
-        "pushed": "2024-09-19T04:40:50+00:00",
+        "updated": "2024-09-20T04:40:11+00:00",
+        "pushed": "2024-09-20T04:40:08+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 43913,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-09-20T01:09:12+00:00",
+        "pushed": "2024-09-20T01:09:09+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13265,10 +13265,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 66602,
+        "size": 67073,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-09-19T03:27:45+00:00",
-        "pushed": "2024-09-19T03:27:42+00:00",
+        "updated": "2024-09-20T03:27:43+00:00",
+        "pushed": "2024-09-20T03:27:39+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
