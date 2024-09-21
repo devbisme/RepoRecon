@@ -39065,19 +39065,6 @@
         "id": 832937482
     },
     {
-        "repo": "support-matrix",
-        "description": "RISCV Board and OS Supported Matrix",
-        "owner": "ruyisdk",
-        "stars": 11,
-        "forks": 10,
-        "size": 31026,
-        "created": "2024-03-12T01:34:58+00:00",
-        "updated": "2024-09-14T07:09:47+00:00",
-        "pushed": "2024-09-14T07:09:43+00:00",
-        "url": "https://github.com/ruyisdk/support-matrix",
-        "id": 770690133
-    },
-    {
         "repo": "k230_canmv",
         "description": null,
         "owner": "kendryte",
@@ -39338,19 +39325,6 @@
         "id": 188584527
     },
     {
-        "repo": "biol211",
-        "description": "Website for BIOL 211",
-        "owner": "aroles",
-        "stars": 0,
-        "forks": 0,
-        "size": 23726,
-        "created": "2024-05-23T15:27:45+00:00",
-        "updated": "2024-09-18T15:53:45+00:00",
-        "pushed": "2024-09-18T15:53:41+00:00",
-        "url": "https://github.com/aroles/biol211",
-        "id": 804949396
-    },
-    {
         "repo": "nncase",
         "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
         "owner": "kendryte",
@@ -39362,19 +39336,6 @@
         "pushed": "2024-09-20T06:11:37+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 174,
-        "forks": 33,
-        "size": 164222,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-09-18T13:20:08+00:00",
-        "pushed": "2024-09-19T18:17:39+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "MaixCDK",
@@ -39403,19 +39364,6 @@
         "id": 7408108
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 816692,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-09-19T19:22:38+00:00",
-        "pushed": "2024-09-19T19:22:32+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -39440,19 +39388,6 @@
         "pushed": "2024-09-20T01:20:32+00:00",
         "url": "https://github.com/ucb-bar/Baremetal-NN",
         "id": 692600166
-    },
-    {
-        "repo": "ZacSweers",
-        "description": null,
-        "owner": "ZacSweers",
-        "stars": 15,
-        "forks": 1,
-        "size": 3008,
-        "created": "2020-08-16T19:12:40+00:00",
-        "updated": "2024-09-20T04:38:35+00:00",
-        "pushed": "2024-09-20T04:38:32+00:00",
-        "url": "https://github.com/ZacSweers/ZacSweers",
-        "id": 288008412
     },
     {
         "repo": "rtsmart",
@@ -39481,19 +39416,6 @@
         "id": 859770710
     },
     {
-        "repo": "Alfa_Team",
-        "description": "Alfa_Team",
-        "owner": "ROBOTICAIPTC",
-        "stars": 0,
-        "forks": 0,
-        "size": 5320,
-        "created": "2024-06-13T22:32:28+00:00",
-        "updated": "2024-09-19T14:36:30+00:00",
-        "pushed": "2024-09-19T14:36:26+00:00",
-        "url": "https://github.com/ROBOTICAIPTC/Alfa_Team",
-        "id": 814874955
-    },
-    {
         "repo": "New_Line",
         "description": "New_Line",
         "owner": "ROBOTICAIPTC",
@@ -39507,15 +39429,93 @@
         "id": 814875474
     },
     {
+        "repo": "support-matrix",
+        "description": "RISCV Board and OS Supported Matrix",
+        "owner": "ruyisdk",
+        "stars": 11,
+        "forks": 10,
+        "size": 31033,
+        "created": "2024-03-12T01:34:58+00:00",
+        "updated": "2024-09-20T07:05:38+00:00",
+        "pushed": "2024-09-20T07:05:34+00:00",
+        "url": "https://github.com/ruyisdk/support-matrix",
+        "id": 770690133
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 174,
+        "forks": 33,
+        "size": 164236,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-09-18T13:20:08+00:00",
+        "pushed": "2024-09-20T18:04:21+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 824553,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-09-20T18:13:07+00:00",
+        "pushed": "2024-09-20T18:13:03+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "ZacSweers",
+        "description": null,
+        "owner": "ZacSweers",
+        "stars": 15,
+        "forks": 1,
+        "size": 3009,
+        "created": "2020-08-16T19:12:40+00:00",
+        "updated": "2024-09-21T04:38:30+00:00",
+        "pushed": "2024-09-21T04:38:27+00:00",
+        "url": "https://github.com/ZacSweers/ZacSweers",
+        "id": 288008412
+    },
+    {
+        "repo": "Alfa_Team",
+        "description": "Alfa_Team",
+        "owner": "ROBOTICAIPTC",
+        "stars": 0,
+        "forks": 0,
+        "size": 5327,
+        "created": "2024-06-13T22:32:28+00:00",
+        "updated": "2024-09-20T23:52:46+00:00",
+        "pushed": "2024-09-20T23:52:42+00:00",
+        "url": "https://github.com/ROBOTICAIPTC/Alfa_Team",
+        "id": 814874955
+    },
+    {
+        "repo": "biol211",
+        "description": "Website for BIOL 211",
+        "owner": "aroles",
+        "stars": 0,
+        "forks": 0,
+        "size": 23734,
+        "created": "2024-05-23T15:27:45+00:00",
+        "updated": "2024-09-20T16:35:03+00:00",
+        "pushed": "2024-09-20T16:34:59+00:00",
+        "url": "https://github.com/aroles/biol211",
+        "id": 804949396
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 3350,
+        "size": 3822,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-09-20T01:58:51+00:00",
-        "pushed": "2024-09-20T01:58:48+00:00",
+        "updated": "2024-09-21T01:57:06+00:00",
+        "pushed": "2024-09-21T01:57:03+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39525,10 +39525,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 4462,
+        "size": 4628,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-09-20T01:55:27+00:00",
-        "pushed": "2024-09-20T01:55:23+00:00",
+        "updated": "2024-09-21T01:53:29+00:00",
+        "pushed": "2024-09-21T01:53:25+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39540,8 +39540,8 @@
         "forks": 35,
         "size": 760244,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-09-19T12:31:50+00:00",
-        "pushed": "2024-09-19T12:31:45+00:00",
+        "updated": "2024-09-20T12:30:17+00:00",
+        "pushed": "2024-09-20T12:30:14+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
