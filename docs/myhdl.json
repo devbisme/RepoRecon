@@ -5382,32 +5382,6 @@
         "id": 360750527
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 4,
-        "forks": 1,
-        "size": 974,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-09-10T18:49:45+00:00",
-        "pushed": "2024-09-10T18:49:43+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 27,
-        "size": 41400,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-09-15T11:58:00+00:00",
-        "pushed": "2024-09-15T11:57:57+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "risc-v-cpu",
         "description": null,
         "owner": "bhomik005",
@@ -5419,5 +5393,31 @@
         "pushed": "2024-09-18T06:01:45+00:00",
         "url": "https://github.com/bhomik005/risc-v-cpu",
         "id": 859113010
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 27,
+        "size": 41407,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-09-21T13:38:52+00:00",
+        "pushed": "2024-09-21T13:38:48+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 4,
+        "forks": 2,
+        "size": 893,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-09-10T18:49:45+00:00",
+        "pushed": "2024-09-21T22:28:39+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]

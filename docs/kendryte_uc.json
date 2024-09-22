@@ -35880,19 +35880,6 @@
         "id": 796639859
     },
     {
-        "repo": "K210",
-        "description": null,
-        "owner": "1716775457damn",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2024-05-07T09:15:11+00:00",
-        "updated": "2024-05-07T09:15:11+00:00",
-        "pushed": "2024-05-07T09:15:11+00:00",
-        "url": "https://github.com/1716775457damn/K210",
-        "id": 797139850
-    },
-    {
         "repo": "K210_machanical-arm",
         "description": "combination of computer vision , mechanical arm ,  traction control car and IoT",
         "owner": "1716775457damn",
@@ -39130,19 +39117,6 @@
         "id": 840250973
     },
     {
-        "repo": "Obsidian_Notes",
-        "description": null,
-        "owner": "ShallowGreen123",
-        "stars": 0,
-        "forks": 0,
-        "size": 59368,
-        "created": "2024-04-20T09:48:25+00:00",
-        "updated": "2024-09-14T10:03:29+00:00",
-        "pushed": "2024-09-14T10:03:25+00:00",
-        "url": "https://github.com/ShallowGreen123/Obsidian_Notes",
-        "id": 789351076
-    },
-    {
         "repo": "PQRV",
         "description": null,
         "owner": "Ji-Peng",
@@ -39351,19 +39325,6 @@
         "id": 733722162
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10326,
-        "forks": 4978,
-        "size": 884968,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-09-20T03:21:02+00:00",
-        "pushed": "2024-09-20T03:02:39+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -39375,19 +39336,6 @@
         "pushed": "2024-09-20T03:09:25+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "Baremetal-NN",
-        "description": "A tool for converting PyTorch models into raw C codes that can be executed standalone in a baremetal runtime on RISC-V research chips.",
-        "owner": "ucb-bar",
-        "stars": 16,
-        "forks": 1,
-        "size": 79583,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2024-09-16T04:54:19+00:00",
-        "pushed": "2024-09-20T01:20:32+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
     },
     {
         "repo": "rtsmart",
@@ -39481,19 +39429,6 @@
         "id": 288008412
     },
     {
-        "repo": "Alfa_Team",
-        "description": "Alfa_Team",
-        "owner": "ROBOTICAIPTC",
-        "stars": 0,
-        "forks": 0,
-        "size": 5327,
-        "created": "2024-06-13T22:32:28+00:00",
-        "updated": "2024-09-20T23:52:46+00:00",
-        "pushed": "2024-09-20T23:52:42+00:00",
-        "url": "https://github.com/ROBOTICAIPTC/Alfa_Team",
-        "id": 814874955
-    },
-    {
         "repo": "biol211",
         "description": "Website for BIOL 211",
         "owner": "aroles",
@@ -39507,15 +39442,93 @@
         "id": 804949396
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10333,
+        "forks": 4982,
+        "size": 884961,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-09-22T04:56:44+00:00",
+        "pushed": "2024-09-22T01:49:59+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "A tool for converting PyTorch models into raw C codes that can be executed standalone in a baremetal runtime on RISC-V research chips.",
+        "owner": "ucb-bar",
+        "stars": 16,
+        "forks": 1,
+        "size": 79585,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2024-09-16T04:54:19+00:00",
+        "pushed": "2024-09-22T01:21:28+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "K210",
+        "description": null,
+        "owner": "1716775457damn",
+        "stars": 1,
+        "forks": 0,
+        "size": 2,
+        "created": "2024-05-07T09:15:11+00:00",
+        "updated": "2024-09-22T01:11:49+00:00",
+        "pushed": "2024-09-22T01:18:26+00:00",
+        "url": "https://github.com/1716775457damn/K210",
+        "id": 797139850
+    },
+    {
+        "repo": "Obsidian_Notes",
+        "description": null,
+        "owner": "ShallowGreen123",
+        "stars": 0,
+        "forks": 0,
+        "size": 59371,
+        "created": "2024-04-20T09:48:25+00:00",
+        "updated": "2024-09-21T07:11:46+00:00",
+        "pushed": "2024-09-21T07:11:42+00:00",
+        "url": "https://github.com/ShallowGreen123/Obsidian_Notes",
+        "id": 789351076
+    },
+    {
+        "repo": "FirstRoboticArm_24HDC",
+        "description": null,
+        "owner": "Lucas-Song-zero",
+        "stars": 1,
+        "forks": 0,
+        "size": 9102,
+        "created": "2024-09-21T12:44:56+00:00",
+        "updated": "2024-09-21T16:07:17+00:00",
+        "pushed": "2024-09-21T16:02:35+00:00",
+        "url": "https://github.com/Lucas-Song-zero/FirstRoboticArm_24HDC",
+        "id": 860889086
+    },
+    {
+        "repo": "Alfa_Team",
+        "description": "Alfa_Team",
+        "owner": "ROBOTICAIPTC",
+        "stars": 0,
+        "forks": 0,
+        "size": 8616,
+        "created": "2024-06-13T22:32:28+00:00",
+        "updated": "2024-09-22T03:08:04+00:00",
+        "pushed": "2024-09-22T03:08:01+00:00",
+        "url": "https://github.com/ROBOTICAIPTC/Alfa_Team",
+        "id": 814874955
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 3822,
+        "size": 4293,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-09-21T01:57:06+00:00",
-        "pushed": "2024-09-21T01:57:03+00:00",
+        "updated": "2024-09-22T02:11:19+00:00",
+        "pushed": "2024-09-22T02:11:16+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39525,10 +39538,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 4628,
+        "size": 4630,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-09-21T01:53:29+00:00",
-        "pushed": "2024-09-21T01:53:25+00:00",
+        "updated": "2024-09-22T02:08:08+00:00",
+        "pushed": "2024-09-22T02:08:05+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39538,10 +39551,10 @@
         "owner": "androidtrackers",
         "stars": 124,
         "forks": 35,
-        "size": 760244,
+        "size": 762680,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-09-20T12:30:17+00:00",
-        "pushed": "2024-09-20T12:30:14+00:00",
+        "updated": "2024-09-21T12:30:48+00:00",
+        "pushed": "2024-09-21T12:30:44+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
