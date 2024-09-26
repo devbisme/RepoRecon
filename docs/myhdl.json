@@ -5174,19 +5174,6 @@
         "id": 19449788
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14041,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-07-22T11:02:06+00:00",
-        "pushed": "2024-07-22T11:02:03+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "ApproximateMult",
         "description": null,
         "owner": "FCHXWH823",
@@ -5395,19 +5382,6 @@
         "id": 859113010
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 4,
-        "forks": 2,
-        "size": 893,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-09-10T18:49:45+00:00",
-        "pushed": "2024-09-21T22:28:39+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5419,5 +5393,31 @@
         "pushed": "2024-09-24T13:35:52+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14050,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-09-25T12:55:57+00:00",
+        "pushed": "2024-09-25T12:55:52+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 4,
+        "forks": 2,
+        "size": 894,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-09-25T19:47:34+00:00",
+        "pushed": "2024-09-25T19:47:30+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
