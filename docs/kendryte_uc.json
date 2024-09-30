@@ -38831,19 +38831,6 @@
         "id": 854462776
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8522,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-09-10T18:06:01+00:00",
-        "pushed": "2024-09-10T18:05:41+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "RK2206-TinyMaix",
         "description": null,
         "owner": "ljh095",
@@ -39208,19 +39195,6 @@
         "id": 439560352
     },
     {
-        "repo": "Maixduino-Facial-Recognition",
-        "description": null,
-        "owner": "Shivansh21git",
-        "stars": 0,
-        "forks": 0,
-        "size": 2616,
-        "created": "2024-09-22T14:15:39+00:00",
-        "updated": "2024-09-23T08:38:18+00:00",
-        "pushed": "2024-09-23T08:36:10+00:00",
-        "url": "https://github.com/Shivansh21git/Maixduino-Facial-Recognition",
-        "id": 861293521
-    },
-    {
         "repo": "anish-k2308",
         "description": "Config files for my GitHub profile.",
         "owner": "anish-k2308",
@@ -39455,19 +39429,6 @@
         "id": 863927307
     },
     {
-        "repo": "k210_maix_train",
-        "description": "\u672c\u79d1\u6bd5\u8bbe: k210\u4eba\u8138\u68c0\u6d4b",
-        "owner": "windfollowingheart",
-        "stars": 0,
-        "forks": 0,
-        "size": 55768,
-        "created": "2024-09-27T07:12:04+00:00",
-        "updated": "2024-09-27T13:02:06+00:00",
-        "pushed": "2024-09-27T13:02:03+00:00",
-        "url": "https://github.com/windfollowingheart/k210_maix_train",
-        "id": 863927973
-    },
-    {
         "repo": "lemon-core",
         "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
         "owner": "13m0n4de",
@@ -39505,32 +39466,6 @@
         "pushed": "2024-09-28T04:22:24+00:00",
         "url": "https://github.com/emakefun/emakefun-docsify",
         "id": 859664219
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 738,
-        "forks": 181,
-        "size": 59379,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-09-28T18:22:03+00:00",
-        "pushed": "2024-09-29T06:14:54+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10360,
-        "forks": 4989,
-        "size": 885544,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-09-29T00:59:33+00:00",
-        "pushed": "2024-09-29T00:59:29+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "canmv_k230",
@@ -39611,15 +39546,93 @@
         "id": 824530800
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 738,
+        "forks": 181,
+        "size": 59433,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-09-28T18:22:03+00:00",
+        "pushed": "2024-09-30T05:35:12+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10367,
+        "forks": 4991,
+        "size": 885724,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-09-30T05:32:00+00:00",
+        "pushed": "2024-09-30T00:49:58+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 8523,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-09-29T08:59:48+00:00",
+        "pushed": "2024-09-29T08:59:38+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "k210_maix_train",
+        "description": "\u672c\u79d1\u6bd5\u8bbe: k210\u4eba\u8138\u68c0\u6d4b",
+        "owner": "windfollowingheart",
+        "stars": 0,
+        "forks": 0,
+        "size": 55773,
+        "created": "2024-09-27T07:12:04+00:00",
+        "updated": "2024-09-29T14:33:08+00:00",
+        "pushed": "2024-09-29T14:33:05+00:00",
+        "url": "https://github.com/windfollowingheart/k210_maix_train",
+        "id": 863927973
+    },
+    {
+        "repo": "Maixduino-Facial-Recognition",
+        "description": null,
+        "owner": "Shivansh21git",
+        "stars": 0,
+        "forks": 0,
+        "size": 2618,
+        "created": "2024-09-22T14:15:39+00:00",
+        "updated": "2024-09-29T11:04:21+00:00",
+        "pushed": "2024-09-29T11:04:18+00:00",
+        "url": "https://github.com/Shivansh21git/Maixduino-Facial-Recognition",
+        "id": 861293521
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "\u5b66\u4e60\u5f00\u6e90\u9879\u76eerCore-Tutorial-v3",
+        "owner": "yangzhenjiang159",
+        "stars": 0,
+        "forks": 0,
+        "size": 38,
+        "created": "2024-09-29T01:39:45+00:00",
+        "updated": "2024-09-29T06:41:56+00:00",
+        "pushed": "2024-09-29T06:41:53+00:00",
+        "url": "https://github.com/yangzhenjiang159/rCore-Tutorial-v3",
+        "id": 864721787
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 5447,
+        "size": 5922,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-09-29T02:12:43+00:00",
-        "pushed": "2024-09-29T02:12:39+00:00",
+        "updated": "2024-09-30T02:06:51+00:00",
+        "pushed": "2024-09-30T02:06:48+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39629,10 +39642,10 @@
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 1896,
+        "size": 2065,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-09-29T02:09:35+00:00",
-        "pushed": "2024-09-29T02:09:32+00:00",
+        "updated": "2024-09-30T02:04:15+00:00",
+        "pushed": "2024-09-30T02:04:11+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39642,10 +39655,10 @@
         "owner": "androidtrackers",
         "stars": 125,
         "forks": 35,
-        "size": 765312,
+        "size": 765313,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-09-28T12:29:39+00:00",
-        "pushed": "2024-09-28T12:29:35+00:00",
+        "updated": "2024-09-29T12:28:50+00:00",
+        "pushed": "2024-09-29T12:28:47+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
