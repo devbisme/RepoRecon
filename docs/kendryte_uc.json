@@ -39312,19 +39312,6 @@
         "id": 745771617
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 175,
-        "forks": 34,
-        "size": 164001,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-09-26T21:24:28+00:00",
-        "pushed": "2024-09-26T21:25:33+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "K230_training_scripts",
         "description": null,
         "owner": "kendryte",
@@ -39401,19 +39388,6 @@
         "pushed": "2024-09-27T08:30:26+00:00",
         "url": "https://github.com/ruyisdk/support-matrix",
         "id": 770690133
-    },
-    {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 6,
-        "forks": 6,
-        "size": 19158,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2024-09-27T11:06:12+00:00",
-        "pushed": "2024-09-27T11:06:14+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
     },
     {
         "repo": "bsp-k230",
@@ -39520,19 +39494,6 @@
         "id": 789351076
     },
     {
-        "repo": "canmv",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 1,
-        "size": 29640,
-        "created": "2024-07-24T07:37:50+00:00",
-        "updated": "2024-09-29T03:34:07+00:00",
-        "pushed": "2024-09-29T03:34:04+00:00",
-        "url": "https://github.com/canmv-k230/canmv",
-        "id": 833017762
-    },
-    {
         "repo": "u-boot",
         "description": null,
         "owner": "canmv-k230",
@@ -39557,19 +39518,6 @@
         "pushed": "2024-09-30T05:35:12+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10367,
-        "forks": 4991,
-        "size": 885724,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-09-30T05:32:00+00:00",
-        "pushed": "2024-09-30T00:49:58+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "vihal",
@@ -39611,19 +39559,6 @@
         "id": 861293521
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "\u5b66\u4e60\u5f00\u6e90\u9879\u76eerCore-Tutorial-v3",
-        "owner": "yangzhenjiang159",
-        "stars": 0,
-        "forks": 0,
-        "size": 38,
-        "created": "2024-09-29T01:39:45+00:00",
-        "updated": "2024-09-29T06:41:56+00:00",
-        "pushed": "2024-09-29T06:41:53+00:00",
-        "url": "https://github.com/yangzhenjiang159/rCore-Tutorial-v3",
-        "id": 864721787
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
@@ -39637,29 +39572,120 @@
         "id": 685317589
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 2,
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 175,
+        "forks": 34,
+        "size": 162307,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-09-26T21:24:28+00:00",
+        "pushed": "2024-09-30T19:54:53+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 6,
+        "forks": 6,
+        "size": 19205,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2024-09-27T11:06:12+00:00",
+        "pushed": "2024-09-30T08:14:43+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "\u5b66\u4e60\u5f00\u6e90\u9879\u76eerCore-Tutorial-v3",
+        "owner": "yangzhenjiang159",
+        "stars": 0,
+        "forks": 0,
+        "size": 40,
+        "created": "2024-09-29T01:39:45+00:00",
+        "updated": "2024-09-30T12:39:12+00:00",
+        "pushed": "2024-09-30T12:39:09+00:00",
+        "url": "https://github.com/yangzhenjiang159/rCore-Tutorial-v3",
+        "id": 864721787
+    },
+    {
+        "repo": "canmv",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
         "forks": 1,
-        "size": 2065,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-09-30T02:04:15+00:00",
-        "pushed": "2024-09-30T02:04:11+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
+        "size": 29649,
+        "created": "2024-07-24T07:37:50+00:00",
+        "updated": "2024-09-30T09:40:17+00:00",
+        "pushed": "2024-09-30T09:40:14+00:00",
+        "url": "https://github.com/canmv-k230/canmv",
+        "id": 833017762
+    },
+    {
+        "repo": "Self-balancing-robot-car",
+        "description": "STM32 Self-balancing Robot Car(Load:4KG)",
+        "owner": "YahboomTechnology",
+        "stars": 0,
+        "forks": 0,
+        "size": 55746,
+        "created": "2024-09-12T09:55:19+00:00",
+        "updated": "2024-09-30T08:52:17+00:00",
+        "pushed": "2024-09-30T08:52:13+00:00",
+        "url": "https://github.com/YahboomTechnology/Self-balancing-robot-car",
+        "id": 856278969
     },
     {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 125,
-        "forks": 35,
-        "size": 765313,
+        "forks": 36,
+        "size": 768214,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-09-29T12:28:50+00:00",
-        "pushed": "2024-09-29T12:28:47+00:00",
+        "updated": "2024-09-30T12:34:11+00:00",
+        "pushed": "2024-09-30T12:34:07+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10370,
+        "forks": 4991,
+        "size": 885676,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-10-01T03:02:20+00:00",
+        "pushed": "2024-10-01T03:02:14+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "AaMAIxHZ",
+        "description": null,
+        "owner": "MetadataGitTesting",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-10-01T04:42:44+00:00",
+        "updated": "2024-10-01T04:42:57+00:00",
+        "pushed": "2024-10-01T04:43:01+00:00",
+        "url": "https://github.com/MetadataGitTesting/AaMAIxHZ",
+        "id": 865757233
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 2,
+        "forks": 1,
+        "size": 2132,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-10-01T02:12:05+00:00",
+        "pushed": "2024-10-01T02:12:02+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
     }
 ]

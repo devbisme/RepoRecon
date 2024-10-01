@@ -12389,19 +12389,6 @@
         "id": 847089790
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 56,
-        "forks": 22,
-        "size": 77733,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-08-27T22:16:28+00:00",
-        "pushed": "2024-08-27T06:38:50+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -12766,19 +12753,6 @@
         "id": 847100684
     },
     {
-        "repo": "appkit",
-        "description": "Android app boilerplate + image loader",
-        "owner": "grishka",
-        "stars": 51,
-        "forks": 17,
-        "size": 321,
-        "created": "2019-12-03T14:40:58+00:00",
-        "updated": "2024-09-21T08:11:43+00:00",
-        "pushed": "2024-09-21T08:11:40+00:00",
-        "url": "https://github.com/grishka/appkit",
-        "id": 225642630
-    },
-    {
         "repo": "mollusc-arch",
         "description": null,
         "owner": "LithosphereRocketry",
@@ -13000,19 +12974,6 @@
         "id": 42048653
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 460,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-09-24T08:13:01+00:00",
-        "pushed": "2024-09-28T02:25:54+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "litescope",
         "description": "Small footprint and configurable embedded FPGA logic analyzer",
         "owner": "enjoy-digital",
@@ -13104,19 +13065,6 @@
         "id": 283207003
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 36,
-        "forks": 14,
-        "size": 36185,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-09-25T09:54:23+00:00",
-        "pushed": "2024-09-27T14:18:25+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "litex-feedstock",
         "description": "A conda-smithy repository for litex.",
         "owner": "conda-forge",
@@ -13156,19 +13104,6 @@
         "id": 862701449
     },
     {
-        "repo": "litei2c",
-        "description": "Small footprint and configurable I2C core",
-        "owner": "litex-hub",
-        "stars": 1,
-        "forks": 1,
-        "size": 10,
-        "created": "2024-09-24T06:34:32+00:00",
-        "updated": "2024-09-27T08:28:32+00:00",
-        "pushed": "2024-09-27T08:26:00+00:00",
-        "url": "https://github.com/litex-hub/litei2c",
-        "id": 862164421
-    },
-    {
         "repo": "pythondata-cpu-vexiiriscv",
         "description": "Python module containing verilog files/generators for VexiiRiscv CPU (for use with LiteX).",
         "owner": "litex-hub",
@@ -13206,45 +13141,6 @@
         "pushed": "2024-09-28T11:39:05+00:00",
         "url": "https://github.com/Stars-Collector/litex-138k",
         "id": 862939133
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 46916,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-09-29T01:07:15+00:00",
-        "pushed": "2024-09-29T01:07:11+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 799,
-        "forks": 71,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-09-27T11:51:34+00:00",
-        "pushed": "2024-09-30T02:29:49+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1561,
-        "forks": 217,
-        "size": 215506,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-09-30T02:09:56+00:00",
-        "pushed": "2024-09-29T16:39:19+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "tock-litex",
@@ -13299,15 +13195,106 @@
         "id": 793871326
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 799,
+        "forks": 71,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-09-27T11:51:34+00:00",
+        "pushed": "2024-10-01T02:35:16+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 461,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-09-30T13:32:28+00:00",
+        "pushed": "2024-10-01T02:30:56+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 57,
+        "forks": 22,
+        "size": 77766,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-09-30T17:08:45+00:00",
+        "pushed": "2024-09-03T07:31:43+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1561,
+        "forks": 219,
+        "size": 215828,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-09-30T02:09:56+00:00",
+        "pushed": "2024-09-30T21:17:48+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 36,
+        "forks": 14,
+        "size": 36206,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-09-25T09:54:23+00:00",
+        "pushed": "2024-09-30T21:58:53+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "appkit",
+        "description": "Android app boilerplate + image loader",
+        "owner": "grishka",
+        "stars": 52,
+        "forks": 17,
+        "size": 325,
+        "created": "2019-12-03T14:40:58+00:00",
+        "updated": "2024-09-30T16:52:03+00:00",
+        "pushed": "2024-09-30T16:52:00+00:00",
+        "url": "https://github.com/grishka/appkit",
+        "id": 225642630
+    },
+    {
+        "repo": "litei2c",
+        "description": "Small footprint and configurable I2C core",
+        "owner": "litex-hub",
+        "stars": 1,
+        "forks": 1,
+        "size": 12,
+        "created": "2024-09-24T06:34:32+00:00",
+        "updated": "2024-09-30T15:31:42+00:00",
+        "pushed": "2024-09-30T15:31:38+00:00",
+        "url": "https://github.com/litex-hub/litei2c",
+        "id": 862164421
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 239,
+        "size": 252,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-09-29T11:15:45+00:00",
-        "pushed": "2024-09-29T11:15:42+00:00",
+        "updated": "2024-09-30T10:39:22+00:00",
+        "pushed": "2024-09-30T10:39:18+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13317,12 +13304,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2486,
+        "size": 2535,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-09-30T04:42:10+00:00",
-        "pushed": "2024-09-30T04:42:07+00:00",
+        "updated": "2024-10-01T04:42:01+00:00",
+        "pushed": "2024-10-01T04:41:58+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 47692,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-10-01T00:59:50+00:00",
+        "pushed": "2024-10-01T00:59:46+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13330,10 +13330,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 71710,
+        "size": 72183,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-09-30T03:33:45+00:00",
-        "pushed": "2024-09-30T03:33:41+00:00",
+        "updated": "2024-10-01T03:36:00+00:00",
+        "pushed": "2024-10-01T03:35:56+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
