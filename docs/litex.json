@@ -10530,19 +10530,6 @@
         "id": 740727805
     },
     {
-        "repo": "litepcie_ptm_test",
-        "description": "LitePCIe PTM support / test repo.",
-        "owner": "enjoy-digital",
-        "stars": 3,
-        "forks": 1,
-        "size": 1696,
-        "created": "2023-04-26T13:26:45+00:00",
-        "updated": "2023-11-24T17:36:55+00:00",
-        "pushed": "2024-01-15T13:56:13+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie_ptm_test",
-        "id": 632955985
-    },
-    {
         "repo": "LiteX_Reference_Design_rs",
         "description": "System Level Design created using LiteX infra, target platform are ARTY A7, basys 3 fpga",
         "owner": "os-fpga",
@@ -11895,19 +11882,6 @@
         "id": 183392076
     },
     {
-        "repo": "CVA5_PLIC",
-        "description": "Priority Level Interrupt Controller for CVA5 CPU. Tested on Litex.",
-        "owner": "mohammadshahidzade",
-        "stars": 0,
-        "forks": 0,
-        "size": 20,
-        "created": "2024-06-26T19:17:02+00:00",
-        "updated": "2024-07-10T02:14:21+00:00",
-        "pushed": "2024-07-10T02:14:17+00:00",
-        "url": "https://github.com/mohammadshahidzade/CVA5_PLIC",
-        "id": 820587085
-    },
-    {
         "repo": "pythondata-cpu-naxriscv",
         "description": "Python module containing verilog files/generators for NaxRiscv CPU (for use with LiteX). ",
         "owner": "litex-hub",
@@ -12766,19 +12740,6 @@
         "id": 190029235
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 54,
-        "forks": 6,
-        "size": 6652,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-09-24T12:12:47+00:00",
-        "pushed": "2024-09-24T10:57:06+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "minze",
         "description": "Minze Computer",
         "owner": "machdyne",
@@ -12855,19 +12816,6 @@
         "pushed": "2024-09-27T07:49:15+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 465,
-        "forks": 116,
-        "size": 1787,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2024-09-27T09:45:44+00:00",
-        "pushed": "2024-09-27T09:45:40+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
     },
     {
         "repo": "litedram",
@@ -13104,19 +13052,6 @@
         "id": 793871326
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 461,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-09-30T13:32:28+00:00",
-        "pushed": "2024-10-01T02:30:56+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -13169,58 +13104,6 @@
         "id": 330793471
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2913,
-        "forks": 557,
-        "size": 17440,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-10-02T00:55:23+00:00",
-        "pushed": "2024-10-01T09:49:03+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 801,
-        "forks": 71,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-01T20:22:13+00:00",
-        "pushed": "2024-10-02T02:22:04+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1562,
-        "forks": 219,
-        "size": 215903,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-01T20:14:14+00:00",
-        "pushed": "2024-10-01T20:24:03+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1401,
-        "forks": 184,
-        "size": 12890,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-10-01T20:56:46+00:00",
-        "pushed": "2024-10-01T20:56:39+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -13232,19 +13115,6 @@
         "pushed": "2024-10-01T22:30:23+00:00",
         "url": "https://github.com/beryllium-org/OS",
         "id": 434342707
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 61,
-        "forks": 22,
-        "size": 126364,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-10-02T01:06:09+00:00",
-        "pushed": "2024-10-02T04:01:21+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "litei2c",
@@ -13273,19 +13143,6 @@
         "id": 793735929
     },
     {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 255,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-01T11:32:29+00:00",
-        "pushed": "2024-10-01T11:32:25+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -13299,6 +13156,162 @@
         "id": 237940918
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2913,
+        "forks": 557,
+        "size": 17442,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-10-02T15:10:27+00:00",
+        "pushed": "2024-10-02T15:10:22+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 467,
+        "forks": 116,
+        "size": 1646,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2024-10-02T14:39:14+00:00",
+        "pushed": "2024-10-02T14:39:02+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 805,
+        "forks": 72,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-02T20:34:59+00:00",
+        "pushed": "2024-10-03T02:22:35+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 462,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-10-02T11:22:40+00:00",
+        "pushed": "2024-10-03T02:27:22+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1563,
+        "forks": 219,
+        "size": 215996,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-02T22:55:17+00:00",
+        "pushed": "2024-10-02T19:47:26+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 54,
+        "forks": 6,
+        "size": 6654,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-10-02T14:39:38+00:00",
+        "pushed": "2024-10-02T14:39:34+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1401,
+        "forks": 184,
+        "size": 12896,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-10-02T07:26:08+00:00",
+        "pushed": "2024-10-02T07:26:05+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 61,
+        "forks": 22,
+        "size": 126314,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-10-03T05:06:56+00:00",
+        "pushed": "2024-10-03T05:06:52+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "litepcie_ptm_test",
+        "description": "LitePCIe PTM support / test repo.",
+        "owner": "enjoy-digital",
+        "stars": 4,
+        "forks": 2,
+        "size": 1706,
+        "created": "2023-04-26T13:26:45+00:00",
+        "updated": "2024-10-02T11:23:51+00:00",
+        "pushed": "2024-10-02T11:23:47+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie_ptm_test",
+        "id": 632955985
+    },
+    {
+        "repo": "CVA5_PLIC",
+        "description": "Priority Level Interrupt Controller for CVA5 CPU. Tested on Litex.",
+        "owner": "mohammadshahidzade",
+        "stars": 0,
+        "forks": 0,
+        "size": 43,
+        "created": "2024-06-26T19:17:02+00:00",
+        "updated": "2024-10-02T20:18:58+00:00",
+        "pushed": "2024-10-02T20:18:54+00:00",
+        "url": "https://github.com/mohammadshahidzade/CVA5_PLIC",
+        "id": 820587085
+    },
+    {
+        "repo": "litexwan",
+        "description": null,
+        "owner": "scriswan",
+        "stars": 0,
+        "forks": 0,
+        "size": 6081,
+        "created": "2024-10-02T16:40:53+00:00",
+        "updated": "2024-10-02T17:24:29+00:00",
+        "pushed": "2024-10-02T17:23:10+00:00",
+        "url": "https://github.com/scriswan/litexwan",
+        "id": 866657482
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 2,
+        "forks": 0,
+        "size": 256,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-10-02T08:04:42+00:00",
+        "pushed": "2024-10-02T08:04:38+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -13307,7 +13320,7 @@
         "size": 2498,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-02T01:46:31+00:00",
+        "pushed": "2024-10-03T00:14:40+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -13317,10 +13330,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2618,
+        "size": 1272,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-02T04:36:23+00:00",
-        "pushed": "2024-10-02T04:36:20+00:00",
+        "updated": "2024-10-03T04:37:13+00:00",
+        "pushed": "2024-10-03T04:37:09+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13330,10 +13343,10 @@
         "owner": "hiifong",
         "stars": 5,
         "forks": 1,
-        "size": 72656,
+        "size": 73128,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-02T03:30:24+00:00",
-        "pushed": "2024-10-02T03:30:21+00:00",
+        "updated": "2024-10-03T03:30:20+00:00",
+        "pushed": "2024-10-03T03:30:17+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

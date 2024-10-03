@@ -39546,19 +39546,6 @@
         "id": 856278969
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10370,
-        "forks": 4991,
-        "size": 885676,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-10-01T03:02:20+00:00",
-        "pushed": "2024-10-01T03:02:14+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "AaMAIxHZ",
         "description": null,
         "owner": "MetadataGitTesting",
@@ -39650,15 +39637,41 @@
         "id": 685317589
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10373,
+        "forks": 4990,
+        "size": 885681,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-10-03T04:47:27+00:00",
+        "pushed": "2024-10-02T15:59:18+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "K210-development-with-MacOS",
+        "description": "development environment of K210",
+        "owner": "feiin",
+        "stars": 0,
+        "forks": 0,
+        "size": 244,
+        "created": "2024-10-02T12:43:22+00:00",
+        "updated": "2024-10-02T13:29:27+00:00",
+        "pushed": "2024-10-02T13:29:23+00:00",
+        "url": "https://github.com/feiin/K210-development-with-MacOS",
+        "id": 866534277
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 2302,
+        "size": 2471,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-10-02T01:58:06+00:00",
-        "pushed": "2024-10-02T01:58:02+00:00",
+        "updated": "2024-10-03T01:58:30+00:00",
+        "pushed": "2024-10-03T01:58:27+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39668,10 +39681,10 @@
         "owner": "androidtrackers",
         "stars": 125,
         "forks": 36,
-        "size": 768214,
+        "size": 768218,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-10-01T12:32:19+00:00",
-        "pushed": "2024-10-01T12:32:16+00:00",
+        "updated": "2024-10-02T12:32:00+00:00",
+        "pushed": "2024-10-02T12:31:56+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39684,7 +39697,7 @@
         "size": 267,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-10-02T01:47:40+00:00",
-        "pushed": "2024-10-02T01:51:18+00:00",
+        "pushed": "2024-10-03T00:14:45+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
