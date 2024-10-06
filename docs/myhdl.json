@@ -5200,19 +5200,6 @@
         "id": 784301828
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 1028,
-        "forks": 248,
-        "size": 13384,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-08-07T18:24:36+00:00",
-        "pushed": "2024-08-07T18:24:32+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "AND-gate-cosim-madness",
         "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
         "owner": "Kreijstal",
@@ -5408,15 +5395,28 @@
         "id": 314673708
     },
     {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1034,
+        "forks": 247,
+        "size": 13390,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-10-05T08:07:47+00:00",
+        "pushed": "2024-10-05T08:07:42+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
         "stars": 40,
         "forks": 27,
-        "size": 41443,
+        "size": 41446,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-10-03T18:09:36+00:00",
-        "pushed": "2024-10-03T18:09:32+00:00",
+        "updated": "2024-10-05T13:31:51+00:00",
+        "pushed": "2024-10-05T13:31:48+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
     }
