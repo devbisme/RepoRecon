@@ -5369,19 +5369,6 @@
         "id": 859113010
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14050,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-09-25T12:55:57+00:00",
-        "pushed": "2024-09-25T12:55:52+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -5419,5 +5406,18 @@
         "pushed": "2024-10-05T13:31:48+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14049,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2024-10-06T06:54:21+00:00",
+        "pushed": "2024-10-06T06:54:17+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]
