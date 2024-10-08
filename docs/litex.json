@@ -12558,19 +12558,6 @@
         "id": 731331266
     },
     {
-        "repo": "amaranth-awesome",
-        "description": "Awesome projects using the Amaranth HDL",
-        "owner": "robtaylor",
-        "stars": 3,
-        "forks": 1,
-        "size": 8,
-        "created": "2024-09-16T11:01:26+00:00",
-        "updated": "2024-09-17T17:13:07+00:00",
-        "pushed": "2024-09-17T12:35:25+00:00",
-        "url": "https://github.com/robtaylor/amaranth-awesome",
-        "id": 858125548
-    },
-    {
         "repo": "sechzig",
         "description": "Sechzig Compute Module",
         "owner": "machdyne",
@@ -13000,19 +12987,6 @@
         "id": 793735929
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2913,
-        "forks": 557,
-        "size": 17442,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-10-02T15:10:27+00:00",
-        "pushed": "2024-10-02T15:10:22+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -13143,19 +13117,6 @@
         "id": 468027705
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 250,
-        "forks": 16,
-        "size": 13514,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-10-05T21:44:23+00:00",
-        "pushed": "2024-10-05T21:44:19+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "appkit",
         "description": "Android app boilerplate + image loader",
         "owner": "grishka",
@@ -13167,19 +13128,6 @@
         "pushed": "2024-10-05T22:20:32+00:00",
         "url": "https://github.com/grishka/appkit",
         "id": 225642630
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 61,
-        "forks": 22,
-        "size": 126279,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-10-05T16:01:33+00:00",
-        "pushed": "2024-10-05T16:01:30+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "lakritz",
@@ -13208,32 +13156,6 @@
         "id": 862939133
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 810,
-        "forks": 72,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-06T21:03:48+00:00",
-        "pushed": "2024-10-07T02:29:04+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1566,
-        "forks": 219,
-        "size": 216133,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-06T21:03:00+00:00",
-        "pushed": "2024-10-06T19:09:59+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -13260,45 +13182,6 @@
         "id": 784979558
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 40,
-        "forks": 2,
-        "size": 138177,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-10-06T08:24:03+00:00",
-        "pushed": "2024-10-06T08:24:00+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
-        "repo": "processor-ci",
-        "description": "CI/CD for RISC-V Cores",
-        "owner": "LSC-Unicamp",
-        "stars": 5,
-        "forks": 0,
-        "size": 743,
-        "created": "2023-12-11T22:52:11+00:00",
-        "updated": "2024-10-07T00:18:04+00:00",
-        "pushed": "2024-10-07T00:18:00+00:00",
-        "url": "https://github.com/LSC-Unicamp/processor-ci",
-        "id": 730429159
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 297,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-06T09:00:21+00:00",
-        "pushed": "2024-10-06T09:00:18+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
         "repo": "pengullama",
         "description": null,
         "owner": "wrighted",
@@ -13310,19 +13193,6 @@
         "pushed": "2024-10-07T01:02:52+00:00",
         "url": "https://github.com/wrighted/pengullama",
         "id": 857490388
-    },
-    {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 23,
-        "forks": 1,
-        "size": 2498,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-07T00:15:15+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
     },
     {
         "repo": "pzh-mcu-bi-weekly",
@@ -13338,19 +13208,6 @@
         "id": 237940918
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1523,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-07T04:36:33+00:00",
-        "pushed": "2024-10-07T04:36:30+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -13364,15 +13221,158 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2923,
+        "forks": 558,
+        "size": 17448,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-10-08T03:00:38+00:00",
+        "pushed": "2024-10-07T09:06:26+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 811,
+        "forks": 72,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-07T14:09:20+00:00",
+        "pushed": "2024-10-08T02:57:30+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1567,
+        "forks": 219,
+        "size": 216135,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-07T19:35:15+00:00",
+        "pushed": "2024-10-07T19:38:58+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 250,
+        "forks": 16,
+        "size": 13517,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-10-07T18:52:31+00:00",
+        "pushed": "2024-10-07T18:52:27+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "amaranth-awesome",
+        "description": "Awesome projects using the Amaranth HDL",
+        "owner": "robtaylor",
+        "stars": 6,
+        "forks": 2,
+        "size": 13,
+        "created": "2024-09-16T11:01:26+00:00",
+        "updated": "2024-10-07T21:38:21+00:00",
+        "pushed": "2024-10-07T21:38:17+00:00",
+        "url": "https://github.com/robtaylor/amaranth-awesome",
+        "id": 858125548
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 62,
+        "forks": 22,
+        "size": 126281,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-10-08T03:42:46+00:00",
+        "pushed": "2024-10-07T17:46:37+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 40,
+        "forks": 2,
+        "size": 138210,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-10-08T00:17:32+00:00",
+        "pushed": "2024-10-08T00:17:28+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "processor-ci",
+        "description": "CI/CD for RISC-V Cores",
+        "owner": "LSC-Unicamp",
+        "stars": 5,
+        "forks": 0,
+        "size": 486,
+        "created": "2023-12-11T22:52:11+00:00",
+        "updated": "2024-10-08T03:51:53+00:00",
+        "pushed": "2024-10-08T03:51:49+00:00",
+        "url": "https://github.com/LSC-Unicamp/processor-ci",
+        "id": 730429159
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 2,
+        "forks": 0,
+        "size": 311,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-10-07T11:06:38+00:00",
+        "pushed": "2024-10-07T11:06:34+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 23,
+        "forks": 1,
+        "size": 2498,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-10-02T01:46:34+00:00",
+        "pushed": "2024-10-08T00:14:25+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1525,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-10-08T04:36:24+00:00",
+        "pushed": "2024-10-08T04:36:20+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
-        "stars": 5,
+        "stars": 6,
         "forks": 1,
-        "size": 75000,
+        "size": 75476,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-07T03:32:22+00:00",
-        "pushed": "2024-10-07T03:32:18+00:00",
+        "updated": "2024-10-08T03:32:10+00:00",
+        "pushed": "2024-10-08T03:32:06+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

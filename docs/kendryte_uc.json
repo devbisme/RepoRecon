@@ -39286,19 +39286,6 @@
         "id": 188584527
     },
     {
-        "repo": "support-matrix",
-        "description": "RISCV Board and OS Supported Matrix",
-        "owner": "ruyisdk",
-        "stars": 11,
-        "forks": 11,
-        "size": 31077,
-        "created": "2024-03-12T01:34:58+00:00",
-        "updated": "2024-09-27T08:30:31+00:00",
-        "pushed": "2024-09-27T08:30:26+00:00",
-        "url": "https://github.com/ruyisdk/support-matrix",
-        "id": 770690133
-    },
-    {
         "repo": "bsp-k230",
         "description": null,
         "owner": "heyuanjie87",
@@ -39520,32 +39507,6 @@
         "id": 865757233
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 660933,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-10-01T18:19:41+00:00",
-        "pushed": "2024-10-01T18:19:37+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
-        "repo": "slides",
-        "description": "All public report slides and articles related to RustSBI",
-        "owner": "rustsbi",
-        "stars": 27,
-        "forks": 4,
-        "size": 17057,
-        "created": "2021-12-18T08:01:27+00:00",
-        "updated": "2024-10-01T14:58:44+00:00",
-        "pushed": "2024-10-01T14:58:32+00:00",
-        "url": "https://github.com/rustsbi/slides",
-        "id": 439560352
-    },
-    {
         "repo": "awesome-yolo-object-detection",
         "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects.",
         "owner": "codingonion",
@@ -39583,19 +39544,6 @@
         "pushed": "2024-10-02T13:29:23+00:00",
         "url": "https://github.com/feiin/K210-development-with-MacOS",
         "id": 866534277
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 176,
-        "forks": 36,
-        "size": 162349,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-10-04T04:54:34+00:00",
-        "pushed": "2024-10-02T19:21:27+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "vihal",
@@ -39715,19 +39663,6 @@
         "id": 868157266
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10383,
-        "forks": 4994,
-        "size": 885726,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-10-07T05:20:03+00:00",
-        "pushed": "2024-10-07T02:59:31+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rCore-OS",
         "description": null,
         "owner": "WSFcloud",
@@ -39739,32 +39674,6 @@
         "pushed": "2024-10-06T12:34:11+00:00",
         "url": "https://github.com/WSFcloud/rCore-OS",
         "id": 868438523
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 9,
-        "forks": 0,
-        "size": 51259,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-10-06T17:34:16+00:00",
-        "pushed": "2024-10-06T17:34:13+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "forfun-os",
-        "description": "A OS toy writen by rust",
-        "owner": "croakexciting",
-        "stars": 1,
-        "forks": 0,
-        "size": 6133,
-        "created": "2024-05-30T08:31:35+00:00",
-        "updated": "2024-10-06T14:41:39+00:00",
-        "pushed": "2024-10-06T14:41:39+00:00",
-        "url": "https://github.com/croakexciting/forfun-os",
-        "id": 808025891
     },
     {
         "repo": "awesome-stars",
@@ -39780,15 +39689,106 @@
         "id": 685317589
     },
     {
+        "repo": "support-matrix",
+        "description": "RISCV Board and OS Supported Matrix",
+        "owner": "ruyisdk",
+        "stars": 11,
+        "forks": 11,
+        "size": 31232,
+        "created": "2024-03-12T01:34:58+00:00",
+        "updated": "2024-10-08T04:22:56+00:00",
+        "pushed": "2024-10-08T04:22:52+00:00",
+        "url": "https://github.com/ruyisdk/support-matrix",
+        "id": 770690133
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 176,
+        "forks": 36,
+        "size": 162358,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-10-04T04:54:34+00:00",
+        "pushed": "2024-10-07T18:30:59+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10384,
+        "forks": 4994,
+        "size": 885730,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-10-08T03:13:56+00:00",
+        "pushed": "2024-10-08T03:13:52+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 668842,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-10-07T18:35:59+00:00",
+        "pushed": "2024-10-07T18:35:55+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "slides",
+        "description": "All public report slides and articles related to RustSBI",
+        "owner": "rustsbi",
+        "stars": 27,
+        "forks": 4,
+        "size": 17057,
+        "created": "2021-12-18T08:01:27+00:00",
+        "updated": "2024-10-08T06:00:15+00:00",
+        "pushed": "2024-10-08T06:00:12+00:00",
+        "url": "https://github.com/rustsbi/slides",
+        "id": 439560352
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 12,
+        "forks": 0,
+        "size": 51259,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-10-08T05:19:02+00:00",
+        "pushed": "2024-10-07T23:17:59+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "forfun-os",
+        "description": "A OS toy writen by rust",
+        "owner": "croakexciting",
+        "stars": 1,
+        "forks": 0,
+        "size": 6145,
+        "created": "2024-05-30T08:31:35+00:00",
+        "updated": "2024-10-08T01:29:37+00:00",
+        "pushed": "2024-10-08T01:29:41+00:00",
+        "url": "https://github.com/croakexciting/forfun-os",
+        "id": 808025891
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 3017,
+        "size": 3186,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-10-07T02:03:28+00:00",
-        "pushed": "2024-10-07T02:03:24+00:00",
+        "updated": "2024-10-08T01:58:49+00:00",
+        "pushed": "2024-10-08T01:58:45+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39800,8 +39800,8 @@
         "forks": 36,
         "size": 769144,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-10-06T12:28:36+00:00",
-        "pushed": "2024-10-06T12:28:33+00:00",
+        "updated": "2024-10-07T12:32:37+00:00",
+        "pushed": "2024-10-07T12:32:34+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39814,7 +39814,7 @@
         "size": 267,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-10-02T01:47:40+00:00",
-        "pushed": "2024-10-07T00:15:21+00:00",
+        "pushed": "2024-10-08T00:14:16+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
