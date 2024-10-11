@@ -12363,19 +12363,6 @@
         "id": 850765056
     },
     {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 5,
-        "forks": 0,
-        "size": 378,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2024-09-08T16:57:48+00:00",
-        "pushed": "2024-09-08T16:57:45+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
-    },
-    {
         "repo": "kakao",
         "description": "Kakao Linux",
         "owner": "machdyne",
@@ -12699,19 +12686,6 @@
         "pushed": "2024-09-25T07:57:12+00:00",
         "url": "https://github.com/myriadrf/LimeSDR_GW",
         "id": 787406556
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 20639,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-09-26T10:31:44+00:00",
-        "pushed": "2024-09-26T10:31:35+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "litedram",
@@ -13039,19 +13013,6 @@
         "id": 867204149
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 370,
-        "forks": 279,
-        "size": 4241,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-10-05T05:05:54+00:00",
-        "pushed": "2024-10-05T05:05:50+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "Colorlight-FPGA-Projects",
         "description": "current focus on Colorlight i5 and i9 & i9plus module",
         "owner": "wuxx",
@@ -13130,32 +13091,6 @@
         "id": 237940918
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 19914,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-10-07T00:58:21+00:00",
-        "pushed": "2024-10-07T00:58:17+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1567,
-        "forks": 219,
-        "size": 216135,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-07T19:35:15+00:00",
-        "pushed": "2024-10-07T19:38:58+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -13182,32 +13117,6 @@
         "id": 858125548
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2926,
-        "forks": 559,
-        "size": 17441,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-10-09T04:32:09+00:00",
-        "pushed": "2024-10-09T04:32:05+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 465,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-10-08T14:22:56+00:00",
-        "pushed": "2024-10-09T02:27:10+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "appkit",
         "description": "Android app boilerplate + image loader",
         "owner": "grishka",
@@ -13232,19 +13141,6 @@
         "pushed": "2024-10-09T00:20:04+00:00",
         "url": "https://github.com/tweakoz/ork.build",
         "id": 483508371
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 815,
-        "forks": 73,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-09T15:33:09+00:00",
-        "pushed": "2024-10-10T02:25:53+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litex_m2sdr",
@@ -13286,32 +13182,6 @@
         "id": 784979558
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 62,
-        "forks": 22,
-        "size": 126217,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-10-10T00:47:55+00:00",
-        "pushed": "2024-10-10T00:47:52+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 41,
-        "forks": 2,
-        "size": 138234,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-10-09T11:09:43+00:00",
-        "pushed": "2024-10-09T07:25:03+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "my_litex",
         "description": null,
         "owner": "greent0r",
@@ -13323,19 +13193,6 @@
         "pushed": "2024-10-09T12:25:18+00:00",
         "url": "https://github.com/greent0r/my_litex",
         "id": 870062936
-    },
-    {
-        "repo": "Capstone_Project",
-        "description": null,
-        "owner": "cherguihakim",
-        "stars": 2,
-        "forks": 0,
-        "size": 722,
-        "created": "2024-10-03T21:01:26+00:00",
-        "updated": "2024-10-10T00:03:10+00:00",
-        "pushed": "2024-10-10T00:03:07+00:00",
-        "url": "https://github.com/cherguihakim/Capstone_Project",
-        "id": 867323018
     },
     {
         "repo": "processor-ci",
@@ -13351,17 +13208,147 @@
         "id": 730429159
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2931,
+        "forks": 561,
+        "size": 17454,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-10-11T03:22:56+00:00",
+        "pushed": "2024-10-10T15:28:33+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 371,
+        "forks": 283,
+        "size": 4240,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-10-10T06:58:01+00:00",
+        "pushed": "2024-10-10T06:57:56+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 817,
+        "forks": 73,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-10T13:05:31+00:00",
+        "pushed": "2024-10-11T02:22:49+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 466,
+        "forks": 117,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-10-10T08:47:00+00:00",
+        "pushed": "2024-10-11T02:26:50+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1573,
+        "forks": 219,
+        "size": 216138,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-10T22:17:21+00:00",
+        "pushed": "2024-10-10T22:17:40+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 62,
+        "forks": 22,
+        "size": 126246,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-10-10T22:59:49+00:00",
+        "pushed": "2024-10-11T04:11:12+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 20642,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-10-10T07:04:35+00:00",
+        "pushed": "2024-10-10T07:04:31+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 41,
+        "forks": 2,
+        "size": 138298,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-10-10T21:12:57+00:00",
+        "pushed": "2024-10-10T21:12:53+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "Capstone_Project",
+        "description": null,
+        "owner": "cherguihakim",
+        "stars": 2,
+        "forks": 0,
+        "size": 727,
+        "created": "2024-10-03T21:01:26+00:00",
+        "updated": "2024-10-11T00:10:27+00:00",
+        "pushed": "2024-10-11T00:10:24+00:00",
+        "url": "https://github.com/cherguihakim/Capstone_Project",
+        "id": 867323018
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 348,
+        "size": 366,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-09T15:13:13+00:00",
-        "pushed": "2024-10-09T15:13:09+00:00",
+        "updated": "2024-10-10T09:53:20+00:00",
+        "pushed": "2024-10-10T09:53:16+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 5,
+        "forks": 0,
+        "size": 388,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2024-10-10T07:23:09+00:00",
+        "pushed": "2024-10-10T07:23:05+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
     },
     {
         "repo": "nuttx-star64",
@@ -13372,7 +13359,7 @@
         "size": 2498,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-10T00:14:36+00:00",
+        "pushed": "2024-10-11T00:14:43+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -13382,12 +13369,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1610,
+        "size": 1694,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-10T04:36:13+00:00",
-        "pushed": "2024-10-10T04:36:10+00:00",
+        "updated": "2024-10-11T04:36:10+00:00",
+        "pushed": "2024-10-11T04:36:07+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 20400,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-10-11T00:52:56+00:00",
+        "pushed": "2024-10-11T00:52:52+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13395,10 +13395,10 @@
         "owner": "hiifong",
         "stars": 6,
         "forks": 1,
-        "size": 67608,
+        "size": 68063,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-10T03:30:08+00:00",
-        "pushed": "2024-10-10T03:30:05+00:00",
+        "updated": "2024-10-11T03:29:46+00:00",
+        "pushed": "2024-10-11T03:29:43+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
