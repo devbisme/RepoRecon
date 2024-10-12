@@ -39234,19 +39234,6 @@
         "id": 855598882
     },
     {
-        "repo": "Obsidian_Notes",
-        "description": null,
-        "owner": "ShallowGreen123",
-        "stars": 0,
-        "forks": 0,
-        "size": 72220,
-        "created": "2024-04-20T09:48:25+00:00",
-        "updated": "2024-09-28T10:12:09+00:00",
-        "pushed": "2024-09-28T10:12:06+00:00",
-        "url": "https://github.com/ShallowGreen123/Obsidian_Notes",
-        "id": 789351076
-    },
-    {
         "repo": "nncase",
         "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
         "owner": "kendryte",
@@ -39284,19 +39271,6 @@
         "pushed": "2024-09-29T11:04:18+00:00",
         "url": "https://github.com/Shivansh21git/Maixduino-Facial-Recognition",
         "id": 861293521
-    },
-    {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 6,
-        "forks": 6,
-        "size": 19205,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2024-09-27T11:06:12+00:00",
-        "pushed": "2024-09-30T08:14:43+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
     },
     {
         "repo": "rCore-Tutorial-v3",
@@ -39494,19 +39468,6 @@
         "id": 868157266
     },
     {
-        "repo": "k230_canmv_docs",
-        "description": "k230_canmv_docs",
-        "owner": "kendryte",
-        "stars": 8,
-        "forks": 1,
-        "size": 18409,
-        "created": "2023-10-17T07:31:49+00:00",
-        "updated": "2024-10-08T13:26:53+00:00",
-        "pushed": "2024-10-08T13:26:49+00:00",
-        "url": "https://github.com/kendryte/k230_canmv_docs",
-        "id": 706039729
-    },
-    {
         "repo": "rtsmart",
         "description": null,
         "owner": "canmv-k230",
@@ -39585,19 +39546,6 @@
         "id": 868438523
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 14,
-        "forks": 0,
-        "size": 51264,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-10-10T02:42:14+00:00",
-        "pushed": "2024-10-10T02:42:11+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "K210.github.io",
         "description": null,
         "owner": "K210",
@@ -39648,19 +39596,6 @@
         "pushed": "2024-10-10T02:36:02+00:00",
         "url": "https://github.com/canmv-k230/u-boot",
         "id": 824530800
-    },
-    {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 0,
-        "forks": 0,
-        "size": 41743,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2024-10-10T06:15:03+00:00",
-        "pushed": "2024-10-10T06:15:00+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
     },
     {
         "repo": "biol211",
@@ -39780,19 +39715,6 @@
         "id": 808025891
     },
     {
-        "repo": "k230_flash",
-        "description": "Kendryte K230 Flash Tool Python",
-        "owner": "kendryte",
-        "stars": 0,
-        "forks": 1,
-        "size": 348,
-        "created": "2024-10-09T07:52:48+00:00",
-        "updated": "2024-10-10T12:49:01+00:00",
-        "pushed": "2024-10-11T06:06:03+00:00",
-        "url": "https://github.com/kendryte/k230_flash",
-        "id": 869962721
-    },
-    {
         "repo": "Xiaomi_Kernel_OpenSource",
         "description": "Xiaomi Mobile Phone Kernel OpenSource",
         "owner": "MiCode",
@@ -39832,15 +39754,132 @@
         "id": 685317589
     },
     {
+        "repo": "k230_canmv_docs",
+        "description": "k230_canmv_docs",
+        "owner": "kendryte",
+        "stars": 8,
+        "forks": 1,
+        "size": 18487,
+        "created": "2023-10-17T07:31:49+00:00",
+        "updated": "2024-10-11T12:12:55+00:00",
+        "pushed": "2024-10-11T12:12:52+00:00",
+        "url": "https://github.com/kendryte/k230_canmv_docs",
+        "id": 706039729
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 14,
+        "forks": 0,
+        "size": 51267,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-10-12T04:23:48+00:00",
+        "pushed": "2024-10-12T04:23:45+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "k230_flash",
+        "description": "Kendryte K230 Flash Tool Python",
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 1,
+        "size": 357,
+        "created": "2024-10-09T07:52:48+00:00",
+        "updated": "2024-10-12T05:57:58+00:00",
+        "pushed": "2024-10-12T05:58:06+00:00",
+        "url": "https://github.com/kendryte/k230_flash",
+        "id": 869962721
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 7,
+        "forks": 7,
+        "size": 19298,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2024-10-11T08:06:30+00:00",
+        "pushed": "2024-10-07T08:37:26+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "Obsidian_Notes",
+        "description": null,
+        "owner": "ShallowGreen123",
+        "stars": 0,
+        "forks": 0,
+        "size": 72890,
+        "created": "2024-04-20T09:48:25+00:00",
+        "updated": "2024-10-11T09:51:00+00:00",
+        "pushed": "2024-10-11T09:50:56+00:00",
+        "url": "https://github.com/ShallowGreen123/Obsidian_Notes",
+        "id": 789351076
+    },
+    {
+        "repo": "5CCS2PEP-C-Coursework-Abdul-Rahim-Boulkenafet-k23094535",
+        "description": null,
+        "owner": "Rahim720",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-10-11T18:02:49+00:00",
+        "updated": "2024-10-11T18:02:50+00:00",
+        "pushed": "2024-10-11T18:02:50+00:00",
+        "url": "https://github.com/Rahim720/5CCS2PEP-C-Coursework-Abdul-Rahim-Boulkenafet-k23094535",
+        "id": 871322393
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 0,
+        "forks": 0,
+        "size": 41760,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2024-10-12T03:19:37+00:00",
+        "pushed": "2024-10-12T03:19:34+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
+        "repo": "AC-380V-21KW",
+        "description": null,
+        "owner": "wyk1996",
+        "stars": 0,
+        "forks": 0,
+        "size": 36680,
+        "created": "2024-10-12T02:16:15+00:00",
+        "updated": "2024-10-12T02:18:09+00:00",
+        "pushed": "2024-10-12T02:18:02+00:00",
+        "url": "https://github.com/wyk1996/AC-380V-21KW",
+        "id": 871449187
+    },
+    {
+        "repo": "AC-380-21KW",
+        "description": null,
+        "owner": "wyk1996",
+        "stars": 0,
+        "forks": 0,
+        "size": 4,
+        "created": "2024-10-12T01:48:54+00:00",
+        "updated": "2024-10-12T01:50:13+00:00",
+        "pushed": "2024-10-12T01:50:10+00:00",
+        "url": "https://github.com/wyk1996/AC-380-21KW",
+        "id": 871443707
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 3696,
+        "size": 3867,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-10-11T01:57:41+00:00",
-        "pushed": "2024-10-11T01:57:37+00:00",
+        "updated": "2024-10-12T01:55:20+00:00",
+        "pushed": "2024-10-12T01:55:16+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39850,10 +39889,10 @@
         "owner": "androidtrackers",
         "stars": 126,
         "forks": 36,
-        "size": 772052,
+        "size": 772055,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-10-10T12:31:23+00:00",
-        "pushed": "2024-10-10T12:31:18+00:00",
+        "updated": "2024-10-11T12:31:54+00:00",
+        "pushed": "2024-10-11T12:31:50+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39861,12 +39900,12 @@
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
-        "stars": 34,
+        "stars": 35,
         "forks": 0,
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-10-02T01:47:40+00:00",
-        "pushed": "2024-10-11T00:15:00+00:00",
+        "updated": "2024-10-11T17:43:38+00:00",
+        "pushed": "2024-10-12T00:14:18+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
