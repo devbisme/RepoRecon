@@ -34580,19 +34580,6 @@
         "id": 765616777
     },
     {
-        "repo": "embeddedsystems",
-        "description": "Playing with embedded systems like arduino, TM4C123, MAiX Bit, Raspberry Pi, etc",
-        "owner": "stschulte1967",
-        "stars": 0,
-        "forks": 0,
-        "size": 1273,
-        "created": "2019-03-20T12:57:03+00:00",
-        "updated": "2024-03-02T13:50:12+00:00",
-        "pushed": "2024-03-02T13:50:06+00:00",
-        "url": "https://github.com/stschulte1967/embeddedsystems",
-        "id": 176733963
-    },
-    {
         "repo": "Hackathon-Team",
         "description": "Team: Thien, Mushtaq, Adam, Sihas, Tawyeeb, Arjan",
         "owner": "Carpilicious",
@@ -39351,19 +39338,6 @@
         "id": 866534277
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 2,
-        "size": 8639,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2024-10-03T16:09:15+00:00",
-        "pushed": "2024-10-03T16:09:12+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "k2300030653",
         "description": null,
         "owner": "k2300030653",
@@ -39663,19 +39637,6 @@
         "id": 793843389
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10401,
-        "forks": 4995,
-        "size": 885775,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-10-11T06:00:26+00:00",
-        "pushed": "2024-10-11T04:10:47+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "MTK_kernel_modules",
         "description": "Kernel_modules for MTK Platform",
         "owner": "MiCode",
@@ -39765,19 +39726,6 @@
         "pushed": "2024-10-11T12:12:52+00:00",
         "url": "https://github.com/kendryte/k230_canmv_docs",
         "id": 706039729
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 14,
-        "forks": 0,
-        "size": 51267,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-10-12T04:23:48+00:00",
-        "pushed": "2024-10-12T04:23:45+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "k230_flash",
@@ -39871,15 +39819,67 @@
         "id": 871443707
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10410,
+        "forks": 4997,
+        "size": 885778,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-10-12T20:22:39+00:00",
+        "pushed": "2024-10-12T14:34:42+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 14,
+        "forks": 0,
+        "size": 51267,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-10-13T01:03:29+00:00",
+        "pushed": "2024-10-13T01:03:26+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 2,
+        "size": 9294,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2024-10-12T10:32:20+00:00",
+        "pushed": "2024-10-12T10:32:16+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "embeddedsystems",
+        "description": "Playing with embedded systems like arduino, TM4C123, MAiX Bit, Raspberry Pi, etc",
+        "owner": "stschulte1967",
+        "stars": 0,
+        "forks": 0,
+        "size": 45308,
+        "created": "2019-03-20T12:57:03+00:00",
+        "updated": "2024-10-12T20:10:26+00:00",
+        "pushed": "2024-10-12T20:10:17+00:00",
+        "url": "https://github.com/stschulte1967/embeddedsystems",
+        "id": 176733963
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 2,
         "forks": 1,
-        "size": 3867,
+        "size": 3971,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-10-12T01:55:20+00:00",
-        "pushed": "2024-10-12T01:55:16+00:00",
+        "updated": "2024-10-13T02:08:29+00:00",
+        "pushed": "2024-10-13T02:08:25+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39889,10 +39889,10 @@
         "owner": "androidtrackers",
         "stars": 126,
         "forks": 36,
-        "size": 772055,
+        "size": 772083,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-10-11T12:31:54+00:00",
-        "pushed": "2024-10-11T12:31:50+00:00",
+        "updated": "2024-10-12T12:41:52+00:00",
+        "pushed": "2024-10-12T12:41:47+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39905,7 +39905,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-10-11T17:43:38+00:00",
-        "pushed": "2024-10-12T00:14:18+00:00",
+        "pushed": "2024-10-13T00:15:59+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

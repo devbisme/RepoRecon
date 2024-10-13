@@ -13039,19 +13039,6 @@
         "id": 862939133
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1403,
-        "forks": 185,
-        "size": 12911,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-10-06T05:52:01+00:00",
-        "pushed": "2024-10-06T20:55:36+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "pengullama",
         "description": null,
         "owner": "wrighted",
@@ -13260,32 +13247,6 @@
         "id": 615816156
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 20400,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-10-11T00:52:56+00:00",
-        "pushed": "2024-10-11T00:52:52+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 820,
-        "forks": 73,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-12T01:26:01+00:00",
-        "pushed": "2024-10-12T02:18:38+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13297,19 +13258,6 @@
         "pushed": "2024-10-12T02:24:50+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1574,
-        "forks": 219,
-        "size": 216669,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-12T02:17:02+00:00",
-        "pushed": "2024-10-11T22:19:47+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "libtslitex",
@@ -13351,15 +13299,54 @@
         "id": 867204149
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 820,
+        "forks": 73,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-12T01:26:01+00:00",
+        "pushed": "2024-10-13T02:29:31+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1574,
+        "forks": 219,
+        "size": 216676,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-13T03:46:51+00:00",
+        "pushed": "2024-10-12T19:46:45+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1407,
+        "forks": 185,
+        "size": 12914,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-10-13T05:39:52+00:00",
+        "pushed": "2024-10-12T21:16:03+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 384,
+        "size": 385,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-11T09:56:36+00:00",
-        "pushed": "2024-10-11T09:56:32+00:00",
+        "updated": "2024-10-12T12:00:45+00:00",
+        "pushed": "2024-10-12T12:00:41+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13372,7 +13359,7 @@
         "size": 2498,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-12T00:14:12+00:00",
+        "pushed": "2024-10-13T00:15:35+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -13382,12 +13369,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1777,
+        "size": 1861,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-12T04:36:11+00:00",
-        "pushed": "2024-10-12T04:36:08+00:00",
+        "updated": "2024-10-13T04:36:37+00:00",
+        "pushed": "2024-10-13T04:36:35+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 21666,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-10-13T00:57:27+00:00",
+        "pushed": "2024-10-13T00:57:24+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13395,10 +13395,10 @@
         "owner": "hiifong",
         "stars": 6,
         "forks": 1,
-        "size": 68528,
+        "size": 69006,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-12T03:28:23+00:00",
-        "pushed": "2024-10-12T03:28:20+00:00",
+        "updated": "2024-10-13T03:31:37+00:00",
+        "pushed": "2024-10-13T03:31:34+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
