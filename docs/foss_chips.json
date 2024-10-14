@@ -71071,19 +71071,6 @@
         "id": 769213926
     },
     {
-        "repo": "volare-action",
-        "description": "Action to install PDKs using volare (with caching)",
-        "owner": "TinyTapeout",
-        "stars": 0,
-        "forks": 1,
-        "size": 14,
-        "created": "2023-06-22T06:55:03+00:00",
-        "updated": "2024-05-10T14:28:56+00:00",
-        "pushed": "2024-05-10T14:28:56+00:00",
-        "url": "https://github.com/TinyTapeout/volare-action",
-        "id": 657029379
-    },
-    {
         "repo": "tt07-fp8-adder",
         "description": "Floating Point Adder",
         "owner": "wilfredkisku",
@@ -84747,19 +84734,6 @@
         "id": 305781250
     },
     {
-        "repo": "caravel_user_project",
-        "description": "https://caravel-user-project.readthedocs.io",
-        "owner": "efabless",
-        "stars": 178,
-        "forks": 330,
-        "size": 305990,
-        "created": "2021-04-05T15:14:33+00:00",
-        "updated": "2024-09-13T21:01:06+00:00",
-        "pushed": "2024-09-14T05:59:19+00:00",
-        "url": "https://github.com/efabless/caravel_user_project",
-        "id": 354876752
-    },
-    {
         "repo": "caravel_user_project_analog",
         "description": null,
         "owner": "efabless",
@@ -87607,19 +87581,6 @@
         "id": 860020521
     },
     {
-        "repo": "Automating_Analog_Layout_Using_Python_Package_GLayout",
-        "description": "This repository contains a detailed description of how to generate parameterized cells using GDSFactory-based layout automation tool GLayout",
-        "owner": "SudeepGopavaram",
-        "stars": 4,
-        "forks": 0,
-        "size": 184,
-        "created": "2024-07-25T03:29:35+00:00",
-        "updated": "2024-10-04T17:06:56+00:00",
-        "pushed": "2024-10-04T17:06:52+00:00",
-        "url": "https://github.com/SudeepGopavaram/Automating_Analog_Layout_Using_Python_Package_GLayout",
-        "id": 833429839
-    },
-    {
         "repo": "sun_tr_sky130nm",
         "description": "Standard library with MOS for Skywater 130nm",
         "owner": "wulffern",
@@ -87631,19 +87592,6 @@
         "pushed": "2024-10-04T13:03:25+00:00",
         "url": "https://github.com/wulffern/sun_tr_sky130nm",
         "id": 565383760
-    },
-    {
-        "repo": "sun_pll_sky130nm",
-        "description": "PLL for sky130nm",
-        "owner": "wulffern",
-        "stars": 0,
-        "forks": 0,
-        "size": 1468,
-        "created": "2022-11-13T08:25:54+00:00",
-        "updated": "2024-10-04T13:16:23+00:00",
-        "pushed": "2024-10-04T13:16:19+00:00",
-        "url": "https://github.com/wulffern/sun_pll_sky130nm",
-        "id": 565385180
     },
     {
         "repo": "cnr_gr02_sky130nm",
@@ -87761,19 +87709,6 @@
         "pushed": "2024-10-04T23:50:56+00:00",
         "url": "https://github.com/davidparent/PRBS-ASIC",
         "id": 714065581
-    },
-    {
-        "repo": "raybox-zero",
-        "description": "Minimal implementation of Raybox HDL ray caster concept",
-        "owner": "algofoogle",
-        "stars": 23,
-        "forks": 1,
-        "size": 6566,
-        "created": "2023-08-08T10:44:08+00:00",
-        "updated": "2024-10-04T12:17:13+00:00",
-        "pushed": "2024-10-04T12:17:09+00:00",
-        "url": "https://github.com/algofoogle/raybox-zero",
-        "id": 676059736
     },
     {
         "repo": "tt09-something-great",
@@ -88465,19 +88400,6 @@
         "id": 765777151
     },
     {
-        "repo": "EF_TMR32",
-        "description": null,
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 1055,
-        "created": "2024-02-14T11:38:49+00:00",
-        "updated": "2024-10-08T11:31:09+00:00",
-        "pushed": "2024-10-08T11:47:16+00:00",
-        "url": "https://github.com/efabless/EF_TMR32",
-        "id": 757383814
-    },
-    {
         "repo": "openlane2_script",
         "description": null,
         "owner": "pierretfie",
@@ -88699,19 +88621,6 @@
         "id": 847383726
     },
     {
-        "repo": "openlane-playground",
-        "description": null,
-        "owner": "dirkarnez",
-        "stars": 0,
-        "forks": 0,
-        "size": 4,
-        "created": "2024-10-09T20:40:48+00:00",
-        "updated": "2024-10-09T20:43:04+00:00",
-        "pushed": "2024-10-09T20:43:00+00:00",
-        "url": "https://github.com/dirkarnez/openlane-playground",
-        "id": 870323690
-    },
-    {
         "repo": "asitic-installation",
         "description": "An .sh file that install the ASITIC (Analysis and Simulation of Spiral Inductors and Transformers for ICs)",
         "owner": "Iranildot",
@@ -88762,19 +88671,6 @@
         "pushed": "2024-10-09T09:06:51+00:00",
         "url": "https://github.com/Ramses-Castro/ALU1",
         "id": 869951356
-    },
-    {
-        "repo": "tt09-tiny-ternary-tapeout",
-        "description": "Tiny Tapeout 9 - T3 (Tiny Ternary Tapeout)",
-        "owner": "arnavsacheti",
-        "stars": 0,
-        "forks": 0,
-        "size": 54,
-        "created": "2024-10-01T22:13:13+00:00",
-        "updated": "2024-10-08T00:40:08+00:00",
-        "pushed": "2024-10-09T20:40:05+00:00",
-        "url": "https://github.com/arnavsacheti/tt09-tiny-ternary-tapeout",
-        "id": 866236996
     },
     {
         "repo": "ebrick-demo",
@@ -88853,19 +88749,6 @@
         "pushed": "2024-10-09T10:02:48+00:00",
         "url": "https://github.com/daquintero/piel",
         "id": 651842998
-    },
-    {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 253,
-        "forks": 179,
-        "size": 40949,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2024-10-10T20:05:31+00:00",
-        "pushed": "2024-10-10T20:26:27+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
     },
     {
         "repo": "algofoogle-multi-caravel",
@@ -88959,19 +88842,6 @@
         "id": 684017510
     },
     {
-        "repo": "EF_I2S",
-        "description": "Two-wire I2S synchronous serial interface, compatible with I2S specification.",
-        "owner": "efabless",
-        "stars": 0,
-        "forks": 0,
-        "size": 323,
-        "created": "2023-11-05T16:20:02+00:00",
-        "updated": "2024-10-10T17:40:27+00:00",
-        "pushed": "2024-10-10T17:40:21+00:00",
-        "url": "https://github.com/efabless/EF_I2S",
-        "id": 714701311
-    },
-    {
         "repo": "nasscom-vsd-soc-design-planning",
         "description": null,
         "owner": "MansiAndotra",
@@ -88983,19 +88853,6 @@
         "pushed": "2024-10-10T15:11:33+00:00",
         "url": "https://github.com/MansiAndotra/nasscom-vsd-soc-design-planning",
         "id": 866890591
-    },
-    {
-        "repo": "EF_UVM",
-        "description": null,
-        "owner": "efabless",
-        "stars": 2,
-        "forks": 1,
-        "size": 570,
-        "created": "2024-02-04T15:07:20+00:00",
-        "updated": "2024-10-10T13:14:27+00:00",
-        "pushed": "2024-10-10T13:14:23+00:00",
-        "url": "https://github.com/efabless/EF_UVM",
-        "id": 752698421
     },
     {
         "repo": "PySpice_personal",
@@ -89232,32 +89089,6 @@
         "id": 870919417
     },
     {
-        "repo": "synthesis-optimizations",
-        "description": "Observing and optimizing synthesis of common bit manipulation operations for FPGA and ASIC",
-        "owner": "jeras",
-        "stars": 0,
-        "forks": 0,
-        "size": 240,
-        "created": "2024-02-13T23:08:55+00:00",
-        "updated": "2024-10-10T19:33:38+00:00",
-        "pushed": "2024-10-10T19:33:34+00:00",
-        "url": "https://github.com/jeras/synthesis-optimizations",
-        "id": 757159345
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 1,
-        "forks": 0,
-        "size": 8989,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-10-11T01:59:26+00:00",
-        "pushed": "2024-10-11T01:59:23+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "sky130_klayout_pdk",
         "description": "Skywaters 130nm Klayout PDK",
         "owner": "efabless",
@@ -89310,19 +89141,6 @@
         "id": 318892320
     },
     {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1201,
-        "forks": 176,
-        "size": 58195,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-10-12T00:22:31+00:00",
-        "pushed": "2024-10-12T00:22:27+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
-    },
-    {
         "repo": "riscduino",
         "description": null,
         "owner": "iqbal302",
@@ -89347,19 +89165,6 @@
         "pushed": "2024-10-11T14:22:34+00:00",
         "url": "https://github.com/analogicus/jnw_avv_sky130A",
         "id": 850981452
-    },
-    {
-        "repo": "cicsim",
-        "description": "Custom IC Creator Simulation tools",
-        "owner": "wulffern",
-        "stars": 10,
-        "forks": 1,
-        "size": 534,
-        "created": "2020-10-23T08:34:47+00:00",
-        "updated": "2024-10-11T10:07:56+00:00",
-        "pushed": "2024-10-11T10:08:01+00:00",
-        "url": "https://github.com/wulffern/cicsim",
-        "id": 306576182
     },
     {
         "repo": "openlane-ui",
@@ -89412,19 +89217,6 @@
         "pushed": "2024-10-11T21:05:19+00:00",
         "url": "https://github.com/theopenlane/riverboat",
         "id": 859392262
-    },
-    {
-        "repo": "tt09-atari-2600",
-        "description": "Atari 2600 SoC ASIC",
-        "owner": "rejunity",
-        "stars": 2,
-        "forks": 0,
-        "size": 42444,
-        "created": "2024-09-29T07:54:30+00:00",
-        "updated": "2024-10-11T11:26:54+00:00",
-        "pushed": "2024-10-11T11:26:51+00:00",
-        "url": "https://github.com/rejunity/tt09-atari-2600",
-        "id": 864804346
     },
     {
         "repo": "silicon-vlsi",
@@ -89531,19 +89323,6 @@
         "id": 868057216
     },
     {
-        "repo": "tt09-demo",
-        "description": null,
-        "owner": "briani0",
-        "stars": 0,
-        "forks": 0,
-        "size": 23,
-        "created": "2024-09-20T20:24:29+00:00",
-        "updated": "2024-10-11T23:25:37+00:00",
-        "pushed": "2024-10-11T23:25:34+00:00",
-        "url": "https://github.com/briani0/tt09-demo",
-        "id": 860637524
-    },
-    {
         "repo": "ttdemo",
         "description": null,
         "owner": "KoushikCSN",
@@ -89596,32 +89375,6 @@
         "id": 871045268
     },
     {
-        "repo": "tt09-scope-bfh-mht1_3",
-        "description": null,
-        "owner": "gfcwfzkm",
-        "stars": 0,
-        "forks": 0,
-        "size": 832,
-        "created": "2024-10-04T09:48:39+00:00",
-        "updated": "2024-10-11T13:24:41+00:00",
-        "pushed": "2024-10-11T13:24:37+00:00",
-        "url": "https://github.com/gfcwfzkm/tt09-scope-bfh-mht1_3",
-        "id": 867561237
-    },
-    {
-        "repo": "loom",
-        "description": "design and verification of asynchronous circuits",
-        "owner": "broccolimicro",
-        "stars": 5,
-        "forks": 0,
-        "size": 10363,
-        "created": "2024-01-22T16:35:07+00:00",
-        "updated": "2024-10-10T13:57:56+00:00",
-        "pushed": "2024-10-11T15:05:27+00:00",
-        "url": "https://github.com/broccolimicro/loom",
-        "id": 746770324
-    },
-    {
         "repo": "finviz-git-scraper",
         "description": "FinViz map of sectors and sub-sectors",
         "owner": "fasiha",
@@ -89648,58 +89401,6 @@
         "id": 218110222
     },
     {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 200,
-        "forks": 37,
-        "size": 32436,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-10-10T07:26:48+00:00",
-        "pushed": "2024-10-12T14:35:27+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "Modular hardware build system",
-        "owner": "siliconcompiler",
-        "stars": 853,
-        "forks": 85,
-        "size": 349510,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-10-12T21:12:01+00:00",
-        "pushed": "2024-10-13T00:11:15+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
-        "repo": "NASSCOM-VSD-Digital-VLSI-SoC-Design-and-Planning",
-        "description": null,
-        "owner": "SiddalingNagavimath",
-        "stars": 0,
-        "forks": 0,
-        "size": 21371,
-        "created": "2024-10-12T17:49:31+00:00",
-        "updated": "2024-10-13T04:59:30+00:00",
-        "pushed": "2024-10-13T04:59:27+00:00",
-        "url": "https://github.com/SiddalingNagavimath/NASSCOM-VSD-Digital-VLSI-SoC-Design-and-Planning",
-        "id": 871703931
-    },
-    {
-        "repo": "sun_sar9b_sky130nm",
-        "description": "9-bit SAR in skywater 130 nm",
-        "owner": "wulffern",
-        "stars": 11,
-        "forks": 1,
-        "size": 3702,
-        "created": "2022-11-13T08:15:21+00:00",
-        "updated": "2024-10-12T10:22:26+00:00",
-        "pushed": "2024-10-12T10:08:57+00:00",
-        "url": "https://github.com/wulffern/sun_sar9b_sky130nm",
-        "id": 565382921
-    },
-    {
         "repo": "nasscom-soc-workshop",
         "description": null,
         "owner": "LOKESHREDDYB",
@@ -89713,19 +89414,6 @@
         "id": 868243786
     },
     {
-        "repo": "My-SOC-Design-Workshop",
-        "description": "Digital VLSI SoC",
-        "owner": "dheeraj-keerthi",
-        "stars": 0,
-        "forks": 0,
-        "size": 119,
-        "created": "2024-10-07T06:24:07+00:00",
-        "updated": "2024-10-12T18:10:18+00:00",
-        "pushed": "2024-10-12T18:10:15+00:00",
-        "url": "https://github.com/dheeraj-keerthi/My-SOC-Design-Workshop",
-        "id": 868762120
-    },
-    {
         "repo": "substrate",
         "description": "21st century electronic design automation tools, written in Rust.",
         "owner": "ucb-substrate",
@@ -89737,19 +89425,6 @@
         "pushed": "2024-10-13T01:38:52+00:00",
         "url": "https://github.com/ucb-substrate/substrate",
         "id": 625733186
-    },
-    {
-        "repo": "megaboom",
-        "description": null,
-        "owner": "The-OpenROAD-Project",
-        "stars": 15,
-        "forks": 4,
-        "size": 4857,
-        "created": "2023-12-13T21:04:40+00:00",
-        "updated": "2024-10-12T16:23:38+00:00",
-        "pushed": "2024-10-12T16:23:39+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/megaboom",
-        "id": 731332420
     },
     {
         "repo": "SOC_Design",
@@ -89815,19 +89490,6 @@
         "pushed": "2024-10-12T13:57:20+00:00",
         "url": "https://github.com/yohanesstef/sky130_its_biomedical_chip_research_2024",
         "id": 871631086
-    },
-    {
-        "repo": "tech_sky130A",
-        "description": "Tech files for sky130A, requires installed PDK",
-        "owner": "wulffern",
-        "stars": 0,
-        "forks": 0,
-        "size": 73,
-        "created": "2022-11-13T08:27:31+00:00",
-        "updated": "2024-10-12T10:18:55+00:00",
-        "pushed": "2024-10-12T10:18:51+00:00",
-        "url": "https://github.com/wulffern/tech_sky130A",
-        "id": 565385530
     },
     {
         "repo": "Vishnu-VSD-HDP",
@@ -89921,19 +89583,6 @@
         "id": 675887592
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1861,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-13T04:36:37+00:00",
-        "pushed": "2024-10-13T04:36:35+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -89947,15 +89596,444 @@
         "id": 330793471
     },
     {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 201,
+        "forks": 37,
+        "size": 32436,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-10-13T09:11:11+00:00",
+        "pushed": "2024-10-13T10:37:46+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "caravel_user_project",
+        "description": "https://caravel-user-project.readthedocs.io",
+        "owner": "efabless",
+        "stars": 181,
+        "forks": 330,
+        "size": 305985,
+        "created": "2021-04-05T15:14:33+00:00",
+        "updated": "2024-10-13T09:10:48+00:00",
+        "pushed": "2024-10-03T13:32:15+00:00",
+        "url": "https://github.com/efabless/caravel_user_project",
+        "id": 354876752
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "Modular hardware build system",
+        "owner": "siliconcompiler",
+        "stars": 854,
+        "forks": 85,
+        "size": 349528,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-10-13T18:08:58+00:00",
+        "pushed": "2024-10-14T02:38:09+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "NASSCOM-VSD-Digital-VLSI-SoC-Design-and-Planning",
+        "description": null,
+        "owner": "SiddalingNagavimath",
+        "stars": 0,
+        "forks": 0,
+        "size": 64908,
+        "created": "2024-10-12T17:49:31+00:00",
+        "updated": "2024-10-14T02:09:23+00:00",
+        "pushed": "2024-10-14T02:09:20+00:00",
+        "url": "https://github.com/SiddalingNagavimath/NASSCOM-VSD-Digital-VLSI-SoC-Design-and-Planning",
+        "id": 871703931
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 255,
+        "forks": 180,
+        "size": 40501,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2024-10-14T05:44:40+00:00",
+        "pushed": "2024-10-14T05:44:35+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "sun_sar9b_sky130nm",
+        "description": "9-bit SAR in skywater 130 nm",
+        "owner": "wulffern",
+        "stars": 11,
+        "forks": 1,
+        "size": 3702,
+        "created": "2022-11-13T08:15:21+00:00",
+        "updated": "2024-10-13T21:44:26+00:00",
+        "pushed": "2024-10-13T21:44:23+00:00",
+        "url": "https://github.com/wulffern/sun_sar9b_sky130nm",
+        "id": 565382921
+    },
+    {
+        "repo": "My-SOC-Design-Workshop",
+        "description": "Digital VLSI SoC",
+        "owner": "dheeraj-keerthi",
+        "stars": 0,
+        "forks": 0,
+        "size": 139,
+        "created": "2024-10-07T06:24:07+00:00",
+        "updated": "2024-10-13T07:30:01+00:00",
+        "pushed": "2024-10-13T07:29:58+00:00",
+        "url": "https://github.com/dheeraj-keerthi/My-SOC-Design-Workshop",
+        "id": 868762120
+    },
+    {
+        "repo": "megaboom",
+        "description": null,
+        "owner": "The-OpenROAD-Project",
+        "stars": 15,
+        "forks": 4,
+        "size": 4857,
+        "created": "2023-12-13T21:04:40+00:00",
+        "updated": "2024-10-12T16:23:38+00:00",
+        "pushed": "2024-10-13T11:35:00+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/megaboom",
+        "id": 731332420
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1202,
+        "forks": 176,
+        "size": 58209,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-10-14T05:09:47+00:00",
+        "pushed": "2024-10-14T03:50:26+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "Automating_Analog_Layout_Using_Python_Package_GLayout",
+        "description": "This repository contains a detailed description of how to generate parameterized cells using GDSFactory-based layout automation tool GLayout",
+        "owner": "SudeepGopavaram",
+        "stars": 6,
+        "forks": 0,
+        "size": 184,
+        "created": "2024-07-25T03:29:35+00:00",
+        "updated": "2024-10-14T05:05:43+00:00",
+        "pushed": "2024-10-14T05:05:40+00:00",
+        "url": "https://github.com/SudeepGopavaram/Automating_Analog_Layout_Using_Python_Package_GLayout",
+        "id": 833429839
+    },
+    {
+        "repo": "openlane-playground",
+        "description": null,
+        "owner": "dirkarnez",
+        "stars": 0,
+        "forks": 0,
+        "size": 10427,
+        "created": "2024-10-09T20:40:48+00:00",
+        "updated": "2024-10-13T12:46:27+00:00",
+        "pushed": "2024-10-13T12:46:23+00:00",
+        "url": "https://github.com/dirkarnez/openlane-playground",
+        "id": 870323690
+    },
+    {
+        "repo": "skywater-130nm-adk",
+        "description": null,
+        "owner": "wspitts2",
+        "stars": 0,
+        "forks": 0,
+        "size": 16,
+        "created": "2024-10-13T09:31:45+00:00",
+        "updated": "2024-10-13T09:44:57+00:00",
+        "pushed": "2024-10-13T09:44:53+00:00",
+        "url": "https://github.com/wspitts2/skywater-130nm-adk",
+        "id": 871908406
+    },
+    {
+        "repo": "jnw_ex0_sky130a",
+        "description": "Janeway Example ",
+        "owner": "analogicus",
+        "stars": 0,
+        "forks": 0,
+        "size": 360,
+        "created": "2024-10-13T18:38:30+00:00",
+        "updated": "2024-10-13T21:53:22+00:00",
+        "pushed": "2024-10-13T21:53:19+00:00",
+        "url": "https://github.com/analogicus/jnw_ex0_sky130a",
+        "id": 872086774
+    },
+    {
+        "repo": "sun_pll_sky130nm",
+        "description": "PLL for sky130nm",
+        "owner": "wulffern",
+        "stars": 0,
+        "forks": 0,
+        "size": 1503,
+        "created": "2022-11-13T08:25:54+00:00",
+        "updated": "2024-10-13T21:44:51+00:00",
+        "pushed": "2024-10-13T21:44:48+00:00",
+        "url": "https://github.com/wulffern/sun_pll_sky130nm",
+        "id": 565385180
+    },
+    {
+        "repo": "cicsim",
+        "description": "Custom IC Creator Simulation tools",
+        "owner": "wulffern",
+        "stars": 10,
+        "forks": 1,
+        "size": 542,
+        "created": "2020-10-23T08:34:47+00:00",
+        "updated": "2024-10-11T10:07:56+00:00",
+        "pushed": "2024-10-13T07:35:16+00:00",
+        "url": "https://github.com/wulffern/cicsim",
+        "id": 306576182
+    },
+    {
+        "repo": "volare-action",
+        "description": "Action to install PDKs using volare (with caching)",
+        "owner": "TinyTapeout",
+        "stars": 0,
+        "forks": 1,
+        "size": 16,
+        "created": "2023-06-22T06:55:03+00:00",
+        "updated": "2024-10-13T20:03:48+00:00",
+        "pushed": "2024-10-13T20:03:52+00:00",
+        "url": "https://github.com/TinyTapeout/volare-action",
+        "id": 657029379
+    },
+    {
+        "repo": "EF_I2S",
+        "description": "Two-wire I2S synchronous serial interface, compatible with I2S specification.",
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 325,
+        "created": "2023-11-05T16:20:02+00:00",
+        "updated": "2024-10-10T17:40:27+00:00",
+        "pushed": "2024-10-13T11:21:11+00:00",
+        "url": "https://github.com/efabless/EF_I2S",
+        "id": 714701311
+    },
+    {
+        "repo": "tt09-atari-2600",
+        "description": "Atari 2600 SoC ASIC",
+        "owner": "rejunity",
+        "stars": 3,
+        "forks": 1,
+        "size": 42456,
+        "created": "2024-09-29T07:54:30+00:00",
+        "updated": "2024-10-13T20:10:32+00:00",
+        "pushed": "2024-10-13T20:10:29+00:00",
+        "url": "https://github.com/rejunity/tt09-atari-2600",
+        "id": 864804346
+    },
+    {
+        "repo": "EF_TMR32",
+        "description": null,
+        "owner": "efabless",
+        "stars": 0,
+        "forks": 0,
+        "size": 1056,
+        "created": "2024-02-14T11:38:49+00:00",
+        "updated": "2024-10-08T11:31:09+00:00",
+        "pushed": "2024-10-13T10:59:40+00:00",
+        "url": "https://github.com/efabless/EF_TMR32",
+        "id": 757383814
+    },
+    {
+        "repo": "VSD-SoC-PD-Oct-2024",
+        "description": null,
+        "owner": "himanshurawat443",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2024-07-10T17:05:27+00:00",
+        "updated": "2024-10-13T14:56:00+00:00",
+        "pushed": "2024-10-13T14:55:56+00:00",
+        "url": "https://github.com/himanshurawat443/VSD-SoC-PD-Oct-2024",
+        "id": 826931435
+    },
+    {
+        "repo": "EF_UVM",
+        "description": null,
+        "owner": "efabless",
+        "stars": 2,
+        "forks": 1,
+        "size": 570,
+        "created": "2024-02-04T15:07:20+00:00",
+        "updated": "2024-10-13T07:49:06+00:00",
+        "pushed": "2024-10-13T07:49:01+00:00",
+        "url": "https://github.com/efabless/EF_UVM",
+        "id": 752698421
+    },
+    {
+        "repo": "tech_sky130A",
+        "description": "Tech files for sky130A, requires installed PDK",
+        "owner": "wulffern",
+        "stars": 0,
+        "forks": 0,
+        "size": 76,
+        "created": "2022-11-13T08:27:31+00:00",
+        "updated": "2024-10-13T21:20:06+00:00",
+        "pushed": "2024-10-13T21:20:03+00:00",
+        "url": "https://github.com/wulffern/tech_sky130A",
+        "id": 565385530
+    },
+    {
+        "repo": "tt09-demo",
+        "description": null,
+        "owner": "briani0",
+        "stars": 0,
+        "forks": 0,
+        "size": 38,
+        "created": "2024-09-20T20:24:29+00:00",
+        "updated": "2024-10-13T21:03:57+00:00",
+        "pushed": "2024-10-13T21:03:54+00:00",
+        "url": "https://github.com/briani0/tt09-demo",
+        "id": 860637524
+    },
+    {
+        "repo": "ttihp0p2-verilog-example",
+        "description": null,
+        "owner": "htfab",
+        "stars": 0,
+        "forks": 0,
+        "size": 8,
+        "created": "2024-10-14T04:40:35+00:00",
+        "updated": "2024-10-14T04:40:41+00:00",
+        "pushed": "2024-10-14T04:40:37+00:00",
+        "url": "https://github.com/htfab/ttihp0p2-verilog-example",
+        "id": 872233852
+    },
+    {
+        "repo": "8bitcpu",
+        "description": null,
+        "owner": "jhill0408",
+        "stars": 0,
+        "forks": 0,
+        "size": 32,
+        "created": "2024-10-14T01:06:44+00:00",
+        "updated": "2024-10-14T05:23:12+00:00",
+        "pushed": "2024-10-14T05:23:09+00:00",
+        "url": "https://github.com/jhill0408/8bitcpu",
+        "id": 872178463
+    },
+    {
+        "repo": "loom",
+        "description": "design and verification of asynchronous circuits",
+        "owner": "broccolimicro",
+        "stars": 5,
+        "forks": 0,
+        "size": 10364,
+        "created": "2024-01-22T16:35:07+00:00",
+        "updated": "2024-10-10T13:57:56+00:00",
+        "pushed": "2024-10-13T16:41:04+00:00",
+        "url": "https://github.com/broccolimicro/loom",
+        "id": 746770324
+    },
+    {
+        "repo": "tt09-scope-bfh-mht1_3",
+        "description": null,
+        "owner": "gfcwfzkm",
+        "stars": 0,
+        "forks": 0,
+        "size": 4848,
+        "created": "2024-10-04T09:48:39+00:00",
+        "updated": "2024-10-13T17:46:26+00:00",
+        "pushed": "2024-10-13T17:46:22+00:00",
+        "url": "https://github.com/gfcwfzkm/tt09-scope-bfh-mht1_3",
+        "id": 867561237
+    },
+    {
+        "repo": "tt09-tiny-ternary-tapeout",
+        "description": "Tiny Tapeout 9 - T3 (Tiny Ternary Tapeout)",
+        "owner": "arnavsacheti",
+        "stars": 0,
+        "forks": 0,
+        "size": 76,
+        "created": "2024-10-01T22:13:13+00:00",
+        "updated": "2024-10-08T00:40:08+00:00",
+        "pushed": "2024-10-14T05:28:47+00:00",
+        "url": "https://github.com/arnavsacheti/tt09-tiny-ternary-tapeout",
+        "id": 866236996
+    },
+    {
+        "repo": "raybox-zero",
+        "description": "Minimal implementation of Raybox HDL ray caster concept",
+        "owner": "algofoogle",
+        "stars": 23,
+        "forks": 1,
+        "size": 6570,
+        "created": "2023-08-08T10:44:08+00:00",
+        "updated": "2024-10-14T05:00:57+00:00",
+        "pushed": "2024-10-14T05:00:53+00:00",
+        "url": "https://github.com/algofoogle/raybox-zero",
+        "id": 676059736
+    },
+    {
+        "repo": "ttihp0p2-algofoogle",
+        "description": "Anton's test submission to TTIHP0p2",
+        "owner": "algofoogle",
+        "stars": 0,
+        "forks": 0,
+        "size": 364,
+        "created": "2024-10-13T11:37:51+00:00",
+        "updated": "2024-10-13T11:38:50+00:00",
+        "pushed": "2024-10-14T05:02:01+00:00",
+        "url": "https://github.com/algofoogle/ttihp0p2-algofoogle",
+        "id": 871943504
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1945,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-10-14T04:36:14+00:00",
+        "pushed": "2024-10-14T04:36:11+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "synthesis-optimizations",
+        "description": "Observing and optimizing synthesis of common bit manipulation operations for FPGA and ASIC",
+        "owner": "jeras",
+        "stars": 0,
+        "forks": 0,
+        "size": 260,
+        "created": "2024-02-13T23:08:55+00:00",
+        "updated": "2024-10-13T21:09:46+00:00",
+        "pushed": "2024-10-13T21:09:42+00:00",
+        "url": "https://github.com/jeras/synthesis-optimizations",
+        "id": 757159345
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 1,
+        "forks": 0,
+        "size": 9197,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-10-14T02:01:36+00:00",
+        "pushed": "2024-10-14T02:01:33+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "tech-andgar",
         "stars": 11,
         "forks": 0,
-        "size": 17753,
+        "size": 18033,
         "created": "2020-11-09T02:22:44+00:00",
-        "updated": "2024-10-13T00:51:12+00:00",
-        "pushed": "2024-10-13T00:51:08+00:00",
+        "updated": "2024-10-14T00:51:03+00:00",
+        "pushed": "2024-10-14T00:50:59+00:00",
         "url": "https://github.com/tech-andgar/awesome-stars",
         "id": 311201466
     }
