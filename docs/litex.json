@@ -12376,19 +12376,6 @@
         "id": 591257216
     },
     {
-        "repo": "litex_agilex5_test",
-        "description": "Initial Test/Support of LiteX on Intel Agilex5 FPGAs.",
-        "owner": "enjoy-digital",
-        "stars": 1,
-        "forks": 0,
-        "size": 1863,
-        "created": "2024-07-01T12:19:22+00:00",
-        "updated": "2024-09-09T09:40:06+00:00",
-        "pushed": "2024-09-09T09:40:03+00:00",
-        "url": "https://github.com/enjoy-digital/litex_agilex5_test",
-        "id": 822581293
-    },
-    {
         "repo": "pythondata-cpu-j2",
         "description": null,
         "owner": "pietro",
@@ -12634,19 +12621,6 @@
         "pushed": "2024-09-24T01:43:17+00:00",
         "url": "https://github.com/aesc-silicon/elements-vexriscv",
         "id": 310692215
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 747,
-        "forks": 156,
-        "size": 698579,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-09-25T04:53:10+00:00",
-        "pushed": "2024-09-25T04:53:02+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
     },
     {
         "repo": "minze",
@@ -13052,19 +13026,6 @@
         "id": 857490388
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 405,
-        "forks": 39,
-        "size": 186958,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-10-07T01:44:03+00:00",
-        "pushed": "2024-10-07T01:43:59+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "amaranth-awesome",
         "description": "Awesome projects using the Amaranth HDL",
         "owner": "robtaylor",
@@ -13089,19 +13050,6 @@
         "pushed": "2024-10-08T17:29:05+00:00",
         "url": "https://github.com/grishka/appkit",
         "id": 225642630
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1276,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-10-09T00:20:08+00:00",
-        "pushed": "2024-10-09T00:20:04+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
     },
     {
         "repo": "litex_m2sdr",
@@ -13234,19 +13182,6 @@
         "id": 615816156
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 466,
-        "forks": 117,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-10-10T08:47:00+00:00",
-        "pushed": "2024-10-12T02:24:50+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -13284,45 +13219,6 @@
         "pushed": "2024-10-11T08:58:42+00:00",
         "url": "https://github.com/WordPressBugBounty/plugins-litextension-data-migration-to-woocommerce",
         "id": 867204149
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1574,
-        "forks": 219,
-        "size": 216676,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-13T03:46:51+00:00",
-        "pushed": "2024-10-12T19:46:45+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 0,
-        "size": 21666,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-10-13T00:57:27+00:00",
-        "pushed": "2024-10-13T00:57:24+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 820,
-        "forks": 73,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-12T01:26:01+00:00",
-        "pushed": "2024-10-14T02:26:19+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "serv",
@@ -13364,15 +13260,93 @@
         "id": 871976713
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 872,
+        "forks": 183,
+        "size": 698584,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-10-15T04:39:46+00:00",
+        "pushed": "2024-10-14T15:57:14+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 821,
+        "forks": 73,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-14T11:48:41+00:00",
+        "pushed": "2024-10-15T02:27:51+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 466,
+        "forks": 118,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-10-10T08:47:00+00:00",
+        "pushed": "2024-10-15T02:27:58+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1576,
+        "forks": 221,
+        "size": 216682,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-14T18:47:15+00:00",
+        "pushed": "2024-10-14T18:47:11+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex_agilex5_test",
+        "description": "Initial Test/Support of LiteX on Intel Agilex5 FPGAs.",
+        "owner": "enjoy-digital",
+        "stars": 3,
+        "forks": 0,
+        "size": 1863,
+        "created": "2024-07-01T12:19:22+00:00",
+        "updated": "2024-10-15T05:47:01+00:00",
+        "pushed": "2024-10-15T05:46:57+00:00",
+        "url": "https://github.com/enjoy-digital/litex_agilex5_test",
+        "id": 822581293
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1186,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-10-14T06:09:19+00:00",
+        "pushed": "2024-10-14T06:09:16+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 400,
+        "size": 416,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-13T10:46:23+00:00",
-        "pushed": "2024-10-13T10:46:19+00:00",
+        "updated": "2024-10-14T10:47:00+00:00",
+        "pushed": "2024-10-14T10:46:57+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13382,12 +13356,25 @@
         "owner": "lupyuen",
         "stars": 23,
         "forks": 1,
-        "size": 2498,
+        "size": 2494,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-14T00:15:52+00:00",
+        "pushed": "2024-10-15T00:15:10+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 409,
+        "forks": 39,
+        "size": 187769,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-10-15T01:04:45+00:00",
+        "pushed": "2024-10-14T07:16:13+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
     },
     {
         "repo": "starred",
@@ -13395,12 +13382,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1945,
+        "size": 1946,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-14T04:36:14+00:00",
-        "pushed": "2024-10-14T04:36:11+00:00",
+        "updated": "2024-10-15T04:36:32+00:00",
+        "pushed": "2024-10-15T04:36:28+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 0,
+        "size": 22934,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-10-15T00:57:30+00:00",
+        "pushed": "2024-10-15T00:57:26+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13408,10 +13408,10 @@
         "owner": "hiifong",
         "stars": 6,
         "forks": 1,
-        "size": 69484,
+        "size": 69963,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-14T03:33:09+00:00",
-        "pushed": "2024-10-14T03:33:05+00:00",
+        "updated": "2024-10-15T03:31:44+00:00",
+        "pushed": "2024-10-15T03:31:40+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
