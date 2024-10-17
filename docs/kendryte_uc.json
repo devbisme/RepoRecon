@@ -39091,19 +39091,6 @@
         "id": 188584527
     },
     {
-        "repo": "bsp-k230",
-        "description": null,
-        "owner": "heyuanjie87",
-        "stars": 0,
-        "forks": 0,
-        "size": 4908,
-        "created": "2024-09-27T07:10:31+00:00",
-        "updated": "2024-09-27T07:28:01+00:00",
-        "pushed": "2024-09-27T07:27:56+00:00",
-        "url": "https://github.com/heyuanjie87/bsp-k230",
-        "id": 863927307
-    },
-    {
         "repo": "lemon-core",
         "description": "A Simple RISC-V OS Kernel, Inspired by rCore-Tutorial-v3.",
         "owner": "13m0n4de",
@@ -39141,32 +39128,6 @@
         "pushed": "2024-09-28T07:27:11+00:00",
         "url": "https://github.com/MaiM1ng/rCore",
         "id": 854488332
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 738,
-        "forks": 181,
-        "size": 59433,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-09-28T18:22:03+00:00",
-        "pushed": "2024-09-30T05:35:12+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "k210_maix_train",
-        "description": "\u672c\u79d1\u6bd5\u8bbe: k210\u4eba\u8138\u68c0\u6d4b",
-        "owner": "windfollowingheart",
-        "stars": 0,
-        "forks": 0,
-        "size": 55773,
-        "created": "2024-09-27T07:12:04+00:00",
-        "updated": "2024-09-29T14:33:08+00:00",
-        "pushed": "2024-09-29T14:33:05+00:00",
-        "url": "https://github.com/windfollowingheart/k210_maix_train",
-        "id": 863927973
     },
     {
         "repo": "Maixduino-Facial-Recognition",
@@ -39416,19 +39377,6 @@
         "id": 870191970
     },
     {
-        "repo": "canmv",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 1,
-        "size": 29650,
-        "created": "2024-07-24T07:37:50+00:00",
-        "updated": "2024-10-10T02:35:54+00:00",
-        "pushed": "2024-10-10T02:35:51+00:00",
-        "url": "https://github.com/canmv-k230/canmv",
-        "id": 833017762
-    },
-    {
         "repo": "hello-world",
         "description": null,
         "owner": "K210",
@@ -39440,19 +39388,6 @@
         "pushed": "2024-10-09T15:39:20+00:00",
         "url": "https://github.com/K210/hello-world",
         "id": 870092355
-    },
-    {
-        "repo": "biol211",
-        "description": "Website for BIOL 211",
-        "owner": "aroles",
-        "stars": 0,
-        "forks": 0,
-        "size": 22762,
-        "created": "2024-05-23T15:27:45+00:00",
-        "updated": "2024-10-09T18:14:02+00:00",
-        "pushed": "2024-10-09T18:13:59+00:00",
-        "url": "https://github.com/aroles/biol211",
-        "id": 804949396
     },
     {
         "repo": "support-matrix",
@@ -39468,19 +39403,6 @@
         "id": 770690133
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 15,
-        "forks": 7,
-        "size": 31696,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-10-11T02:22:10+00:00",
-        "pushed": "2024-10-11T02:22:01+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "MTK_kernel_modules",
         "description": "Kernel_modules for MTK Platform",
         "owner": "MiCode",
@@ -39492,19 +39414,6 @@
         "pushed": "2024-10-10T13:04:12+00:00",
         "url": "https://github.com/MiCode/MTK_kernel_modules",
         "id": 207506765
-    },
-    {
-        "repo": "forfun-os",
-        "description": "A OS toy writen by rust",
-        "owner": "croakexciting",
-        "stars": 93,
-        "forks": 2,
-        "size": 6184,
-        "created": "2024-05-30T08:31:35+00:00",
-        "updated": "2024-10-11T04:00:22+00:00",
-        "pushed": "2024-10-10T10:15:25+00:00",
-        "url": "https://github.com/croakexciting/forfun-os",
-        "id": 808025891
     },
     {
         "repo": "Xiaomi_Kernel_OpenSource",
@@ -39702,19 +39611,6 @@
         "id": 859664219
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 178,
-        "forks": 36,
-        "size": 162559,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-10-12T22:12:58+00:00",
-        "pushed": "2024-10-15T14:59:28+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "rCore-Tutorial-Book-v3",
         "description": "A book about how to write  OS kernels in Rust easily.",
         "owner": "rcore-os",
@@ -39778,19 +39674,6 @@
         "pushed": "2024-10-16T00:38:47+00:00",
         "url": "https://github.com/ucb-bar/Baremetal-NN",
         "id": 692600166
-    },
-    {
-        "repo": "quasiSoC",
-        "description": "Linux capable RISC-V SoC designed to be readable and useful. ",
-        "owner": "regymm",
-        "stars": 127,
-        "forks": 8,
-        "size": 10161,
-        "created": "2021-10-17T07:43:51+00:00",
-        "updated": "2024-10-16T04:48:36+00:00",
-        "pushed": "2024-10-16T04:48:32+00:00",
-        "url": "https://github.com/regymm/quasiSoC",
-        "id": 418056913
     },
     {
         "repo": "LicheeSG-Nano-Build",
@@ -39949,15 +39832,145 @@
         "id": 872938316
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 744,
+        "forks": 181,
+        "size": 59297,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-10-16T13:17:24+00:00",
+        "pushed": "2024-10-16T11:16:25+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 178,
+        "forks": 36,
+        "size": 162563,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-10-12T22:12:58+00:00",
+        "pushed": "2024-10-16T13:56:44+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 15,
+        "forks": 7,
+        "size": 34333,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-10-16T09:47:16+00:00",
+        "pushed": "2024-10-16T09:47:05+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "forfun-os",
+        "description": "A OS toy writen by rust",
+        "owner": "croakexciting",
+        "stars": 109,
+        "forks": 2,
+        "size": 6199,
+        "created": "2024-05-30T08:31:35+00:00",
+        "updated": "2024-10-16T15:40:21+00:00",
+        "pushed": "2024-10-16T14:31:26+00:00",
+        "url": "https://github.com/croakexciting/forfun-os",
+        "id": 808025891
+    },
+    {
+        "repo": "quasiSoC",
+        "description": "Linux capable RISC-V SoC designed to be readable and useful. ",
+        "owner": "regymm",
+        "stars": 127,
+        "forks": 8,
+        "size": 10185,
+        "created": "2021-10-17T07:43:51+00:00",
+        "updated": "2024-10-17T01:46:19+00:00",
+        "pushed": "2024-10-17T01:46:15+00:00",
+        "url": "https://github.com/regymm/quasiSoC",
+        "id": 418056913
+    },
+    {
+        "repo": "k210_maix_train",
+        "description": "\u672c\u79d1\u6bd5\u8bbe: k210\u4eba\u8138\u68c0\u6d4b",
+        "owner": "windfollowingheart",
+        "stars": 0,
+        "forks": 0,
+        "size": 55817,
+        "created": "2024-09-27T07:12:04+00:00",
+        "updated": "2024-10-16T20:09:23+00:00",
+        "pushed": "2024-10-16T20:09:19+00:00",
+        "url": "https://github.com/windfollowingheart/k210_maix_train",
+        "id": 863927973
+    },
+    {
+        "repo": "bsp-k230",
+        "description": null,
+        "owner": "heyuanjie87",
+        "stars": 0,
+        "forks": 0,
+        "size": 4909,
+        "created": "2024-09-27T07:10:31+00:00",
+        "updated": "2024-10-16T10:51:32+00:00",
+        "pushed": "2024-10-16T10:51:28+00:00",
+        "url": "https://github.com/heyuanjie87/bsp-k230",
+        "id": 863927307
+    },
+    {
+        "repo": "canmv",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 2,
+        "size": 29652,
+        "created": "2024-07-24T07:37:50+00:00",
+        "updated": "2024-10-16T06:59:47+00:00",
+        "pushed": "2024-10-16T06:59:44+00:00",
+        "url": "https://github.com/canmv-k230/canmv",
+        "id": 833017762
+    },
+    {
+        "repo": "maiXMLReader",
+        "description": null,
+        "owner": "Thukumo",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2024-10-16T14:30:24+00:00",
+        "updated": "2024-10-17T05:50:18+00:00",
+        "pushed": "2024-10-17T05:50:15+00:00",
+        "url": "https://github.com/Thukumo/maiXMLReader",
+        "id": 873669908
+    },
+    {
+        "repo": "biol211",
+        "description": "Website for BIOL 211",
+        "owner": "aroles",
+        "stars": 0,
+        "forks": 0,
+        "size": 22769,
+        "created": "2024-05-23T15:27:45+00:00",
+        "updated": "2024-10-16T15:14:33+00:00",
+        "pushed": "2024-10-16T15:14:29+00:00",
+        "url": "https://github.com/aroles/biol211",
+        "id": 804949396
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 1,
         "forks": 0,
-        "size": 9405,
+        "size": 9887,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-10-16T02:00:23+00:00",
-        "pushed": "2024-10-16T02:00:19+00:00",
+        "updated": "2024-10-17T02:00:53+00:00",
+        "pushed": "2024-10-17T02:00:50+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
     },
@@ -39967,10 +39980,10 @@
         "owner": "silentEAG",
         "stars": 3,
         "forks": 1,
-        "size": 4379,
+        "size": 4550,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-10-16T01:59:29+00:00",
-        "pushed": "2024-10-16T01:59:26+00:00",
+        "updated": "2024-10-17T01:58:23+00:00",
+        "pushed": "2024-10-17T01:58:20+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -39980,10 +39993,10 @@
         "owner": "androidtrackers",
         "stars": 126,
         "forks": 36,
-        "size": 778977,
+        "size": 778978,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-10-15T12:32:47+00:00",
-        "pushed": "2024-10-15T12:32:43+00:00",
+        "updated": "2024-10-16T12:31:47+00:00",
+        "pushed": "2024-10-16T12:31:44+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -39996,7 +40009,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-10-11T17:43:38+00:00",
-        "pushed": "2024-10-16T00:15:51+00:00",
+        "pushed": "2024-10-17T00:15:21+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
