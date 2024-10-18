@@ -9204,19 +9204,6 @@
         "id": 660446631
     },
     {
-        "repo": "LitexTang9KExperiments",
-        "description": null,
-        "owner": "riktw",
-        "stars": 1,
-        "forks": 0,
-        "size": 23,
-        "created": "2023-07-05T16:52:04Z",
-        "updated": "2023-09-22T21:03:56Z",
-        "pushed": "2023-09-06T20:02:13Z",
-        "url": "https://github.com/riktw/LitexTang9KExperiments",
-        "id": 662682849
-    },
-    {
         "repo": "litex-configs",
         "description": "Linuxcnc configs for Litexcnc & some simple testing stuff",
         "owner": "ozzyrob",
@@ -13104,19 +13091,6 @@
         "id": 867204149
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1407,
-        "forks": 185,
-        "size": 12914,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-10-13T20:24:11+00:00",
-        "pushed": "2024-10-13T20:24:07+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "litex-ecp5-demo",
         "description": null,
         "owner": "Bestoa",
@@ -13128,19 +13102,6 @@
         "pushed": "2024-10-13T13:24:42+00:00",
         "url": "https://github.com/Bestoa/litex-ecp5-demo",
         "id": 871976713
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1576,
-        "forks": 221,
-        "size": 216682,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-14T18:47:15+00:00",
-        "pushed": "2024-10-14T18:47:11+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "litex_agilex5_test",
@@ -13193,19 +13154,6 @@
         "pushed": "2024-10-16T02:42:15+00:00",
         "url": "https://github.com/girlvoice/girlvoice-gateware",
         "id": 800344642
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 62,
-        "forks": 22,
-        "size": 126246,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-10-15T23:20:20+00:00",
-        "pushed": "2024-10-15T23:20:17+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "litepcie_ptm_test",
@@ -13273,32 +13221,6 @@
         "id": 857490388
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2945,
-        "forks": 562,
-        "size": 17481,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-10-17T01:16:59+00:00",
-        "pushed": "2024-10-16T20:24:32+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 822,
-        "forks": 73,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-15T18:36:55+00:00",
-        "pushed": "2024-10-17T02:26:08+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -13312,19 +13234,6 @@
         "id": 42048653
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 466,
-        "forks": 118,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-10-10T08:47:00+00:00",
-        "pushed": "2024-10-17T02:27:33+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -13336,19 +13245,6 @@
         "pushed": "2024-10-16T10:28:27+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 434,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-16T06:33:27+00:00",
-        "pushed": "2024-10-16T06:33:23+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
     },
     {
         "repo": "streams",
@@ -13377,19 +13273,6 @@
         "id": 658631896
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 2114,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-17T04:36:36+00:00",
-        "pushed": "2024-10-17T04:36:32+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -13403,15 +13286,171 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2950,
+        "forks": 562,
+        "size": 17488,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-10-18T02:09:28+00:00",
+        "pushed": "2024-10-17T17:45:44+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 822,
+        "forks": 73,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-15T18:36:55+00:00",
+        "pushed": "2024-10-18T02:26:31+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 466,
+        "forks": 118,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-10-10T08:47:00+00:00",
+        "pushed": "2024-10-18T02:28:02+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1577,
+        "forks": 221,
+        "size": 216702,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-17T20:50:56+00:00",
+        "pushed": "2024-10-17T20:52:14+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1410,
+        "forks": 186,
+        "size": 12917,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-10-17T12:34:21+00:00",
+        "pushed": "2024-10-17T12:34:17+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "LitexTang9KExperiments",
+        "description": null,
+        "owner": "riktw",
+        "stars": 4,
+        "forks": 2,
+        "size": 25,
+        "created": "2023-07-05T16:52:04+00:00",
+        "updated": "2024-10-17T06:14:23+00:00",
+        "pushed": "2024-10-17T06:14:20+00:00",
+        "url": "https://github.com/riktw/LitexTang9KExperiments",
+        "id": 662682849
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 63,
+        "forks": 22,
+        "size": 126249,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-10-17T20:12:24+00:00",
+        "pushed": "2024-10-17T20:12:22+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "iCE40-I2C-LiteX-integration",
+        "description": "LiteX module of iCE40 UltraPlus I2C Hard IP",
+        "owner": "signaloid",
+        "stars": 0,
+        "forks": 0,
+        "size": 15,
+        "created": "2024-10-15T08:35:54+00:00",
+        "updated": "2024-10-17T07:57:12+00:00",
+        "pushed": "2024-10-16T15:37:58+00:00",
+        "url": "https://github.com/signaloid/iCE40-I2C-LiteX-integration",
+        "id": 872883273
+    },
+    {
+        "repo": "Signaloid-C0-microSD-litex-integration",
+        "description": "Litex integration for Signaloid C0-microSD",
+        "owner": "signaloid",
+        "stars": 0,
+        "forks": 0,
+        "size": 28,
+        "created": "2024-10-14T20:08:35+00:00",
+        "updated": "2024-10-17T07:54:55+00:00",
+        "pushed": "2024-10-16T15:38:52+00:00",
+        "url": "https://github.com/signaloid/Signaloid-C0-microSD-litex-integration",
+        "id": 872647183
+    },
+    {
+        "repo": "Signaloid-C0-microSD-litex-I2C-demo",
+        "description": "Litex demo for Signaloid C0-microSD using I2C peripherals",
+        "owner": "signaloid",
+        "stars": 0,
+        "forks": 0,
+        "size": 283,
+        "created": "2024-10-15T07:56:29+00:00",
+        "updated": "2024-10-17T07:55:39+00:00",
+        "pushed": "2024-10-16T15:39:37+00:00",
+        "url": "https://github.com/signaloid/Signaloid-C0-microSD-litex-I2C-demo",
+        "id": 872865371
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 2,
+        "forks": 0,
+        "size": 449,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-10-17T09:56:44+00:00",
+        "pushed": "2024-10-17T09:56:40+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 2198,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-10-18T04:36:57+00:00",
+        "pushed": "2024-10-18T04:36:53+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 7,
         "forks": 2,
-        "size": 70923,
+        "size": 71391,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-17T03:31:01+00:00",
-        "pushed": "2024-10-17T03:30:57+00:00",
+        "updated": "2024-10-18T03:32:52+00:00",
+        "pushed": "2024-10-18T03:32:49+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
