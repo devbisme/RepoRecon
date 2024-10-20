@@ -11947,19 +11947,6 @@
         "id": 574363787
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
-        "owner": "apfelaudio",
-        "stars": 168,
-        "forks": 9,
-        "size": 21839,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-07-17T19:20:03+00:00",
-        "pushed": "2024-07-17T19:19:59+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "litex_hw_ci",
         "description": "LiteX Hardware CI tests.",
         "owner": "enjoy-digital",
@@ -12948,19 +12935,6 @@
         "id": 225642630
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 54,
-        "forks": 6,
-        "size": 6654,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-10-09T08:49:38+00:00",
-        "pushed": "2024-10-09T08:49:34+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "my_litex",
         "description": null,
         "owner": "greent0r",
@@ -13024,19 +12998,6 @@
         "pushed": "2024-10-12T03:02:50+00:00",
         "url": "https://github.com/EEVengers/libtslitex",
         "id": 784979558
-    },
-    {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 250,
-        "forks": 17,
-        "size": 13526,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-10-11T10:59:40+00:00",
-        "pushed": "2024-10-11T10:59:36+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
     },
     {
         "repo": "plugins-litextension-data-migration-to-woocommerce",
@@ -13299,19 +13260,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 823,
-        "forks": 73,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-18T19:25:38+00:00",
-        "pushed": "2024-10-19T02:24:13+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -13390,15 +13338,80 @@
         "id": 862164421
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 824,
+        "forks": 73,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-19T09:24:48+00:00",
+        "pushed": "2024-10-20T02:22:24+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 57,
+        "forks": 7,
+        "size": 6662,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-10-19T19:48:05+00:00",
+        "pushed": "2024-10-19T19:48:01+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 251,
+        "forks": 17,
+        "size": 13529,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-10-19T16:23:21+00:00",
+        "pushed": "2024-10-19T16:23:18+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
+        "owner": "apfelaudio",
+        "stars": 182,
+        "forks": 10,
+        "size": 21851,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2024-10-19T14:31:05+00:00",
+        "pushed": "2024-10-19T14:31:01+00:00",
+        "url": "https://github.com/apfelaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "colorlight-eth",
+        "description": "Ethernet interface for the colorlight i5 and i9 breakout boards",
+        "owner": "DaveBerkeley",
+        "stars": 1,
+        "forks": 0,
+        "size": 515,
+        "created": "2024-10-19T10:01:24+00:00",
+        "updated": "2024-10-19T20:53:41+00:00",
+        "pushed": "2024-10-19T17:02:07+00:00",
+        "url": "https://github.com/DaveBerkeley/colorlight-eth",
+        "id": 875181306
+    },
+    {
         "repo": "mollusc-arch",
         "description": null,
         "owner": "LithosphereRocketry",
         "stars": 0,
         "forks": 0,
-        "size": 191,
+        "size": 202,
         "created": "2024-02-22T04:24:10+00:00",
-        "updated": "2024-10-19T03:22:19+00:00",
-        "pushed": "2024-10-19T03:22:15+00:00",
+        "updated": "2024-10-20T00:16:04+00:00",
+        "pushed": "2024-10-20T00:16:00+00:00",
         "url": "https://github.com/LithosphereRocketry/mollusc-arch",
         "id": 761567898
     },
@@ -13408,10 +13421,10 @@
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 454,
+        "size": 457,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-18T12:55:25+00:00",
-        "pushed": "2024-10-18T12:55:21+00:00",
+        "updated": "2024-10-20T03:47:10+00:00",
+        "pushed": "2024-10-20T03:47:06+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13424,7 +13437,7 @@
         "size": 2494,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-19T00:15:08+00:00",
+        "pushed": "2024-10-20T00:15:58+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -13434,10 +13447,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2282,
+        "size": 2366,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-19T04:35:42+00:00",
-        "pushed": "2024-10-19T04:35:39+00:00",
+        "updated": "2024-10-20T04:35:49+00:00",
+        "pushed": "2024-10-20T04:35:46+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13447,10 +13460,10 @@
         "owner": "hiifong",
         "stars": 7,
         "forks": 2,
-        "size": 71870,
+        "size": 72348,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-19T03:29:29+00:00",
-        "pushed": "2024-10-19T03:29:25+00:00",
+        "updated": "2024-10-20T03:33:21+00:00",
+        "pushed": "2024-10-20T03:33:17+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

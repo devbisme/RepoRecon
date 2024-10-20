@@ -38779,19 +38779,6 @@
         "id": 858181100
     },
     {
-        "repo": "mpp",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 1,
-        "size": 28993,
-        "created": "2024-07-05T02:49:23+00:00",
-        "updated": "2024-09-18T03:20:17+00:00",
-        "pushed": "2024-09-18T03:20:14+00:00",
-        "url": "https://github.com/canmv-k230/mpp",
-        "id": 824383370
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -39481,19 +39468,6 @@
         "id": 861254483
     },
     {
-        "repo": "rCore-Tutorial-Book-v3",
-        "description": "A book about how to write  OS kernels in Rust easily.",
-        "owner": "rcore-os",
-        "stars": 1210,
-        "forks": 228,
-        "size": 97503,
-        "created": "2020-10-29T14:01:52+00:00",
-        "updated": "2024-10-15T16:21:06+00:00",
-        "pushed": "2024-10-15T16:27:54+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
-        "id": 308346100
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -39832,19 +39806,6 @@
         "id": 733722162
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10437,
-        "forks": 5003,
-        "size": 885818,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-10-19T06:07:23+00:00",
-        "pushed": "2024-10-18T08:57:58+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -39858,19 +39819,6 @@
         "id": 857263549
     },
     {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 3,
-        "size": 61576,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2024-10-18T14:53:05+00:00",
-        "pushed": "2024-10-18T14:53:00+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "forfun-os",
         "description": "A OS toy writen by pure rust",
         "owner": "croakexciting",
@@ -39882,19 +39830,6 @@
         "pushed": "2024-10-18T06:50:33+00:00",
         "url": "https://github.com/croakexciting/forfun-os",
         "id": 808025891
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 15,
-        "forks": 0,
-        "size": 51279,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-10-18T21:05:50+00:00",
-        "pushed": "2024-10-18T21:05:47+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "k230_linux_sdk_docs",
@@ -39923,19 +39858,6 @@
         "id": 244118295
     },
     {
-        "repo": "k210_maix_train",
-        "description": "\u672c\u79d1\u6bd5\u8bbe: k210\u4eba\u8138\u68c0\u6d4b",
-        "owner": "windfollowingheart",
-        "stars": 0,
-        "forks": 0,
-        "size": 58660,
-        "created": "2024-09-27T07:12:04+00:00",
-        "updated": "2024-10-19T06:06:56+00:00",
-        "pushed": "2024-10-19T06:06:52+00:00",
-        "url": "https://github.com/windfollowingheart/k210_maix_train",
-        "id": 863927973
-    },
-    {
         "repo": "canmv",
         "description": null,
         "owner": "canmv-k230",
@@ -39960,19 +39882,6 @@
         "pushed": "2024-10-18T14:53:30+00:00",
         "url": "https://github.com/canmv-k230/u-boot",
         "id": 824530800
-    },
-    {
-        "repo": "maiXMLReader",
-        "description": null,
-        "owner": "Thukumo",
-        "stars": 0,
-        "forks": 0,
-        "size": 13,
-        "created": "2024-10-17T10:12:16+00:00",
-        "updated": "2024-10-18T16:06:15+00:00",
-        "pushed": "2024-10-18T16:06:12+00:00",
-        "url": "https://github.com/Thukumo/maiXMLReader",
-        "id": 874137707
     },
     {
         "repo": "binwalk",
@@ -40014,15 +39923,132 @@
         "id": 804949396
     },
     {
+        "repo": "rCore-Tutorial-Book-v3",
+        "description": "A book about how to write  OS kernels in Rust easily.",
+        "owner": "rcore-os",
+        "stars": 1212,
+        "forks": 229,
+        "size": 97614,
+        "created": "2020-10-29T14:01:52+00:00",
+        "updated": "2024-10-19T11:49:30+00:00",
+        "pushed": "2024-10-19T11:55:27+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-Book-v3",
+        "id": 308346100
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10440,
+        "forks": 5003,
+        "size": 886035,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-10-20T01:02:05+00:00",
+        "pushed": "2024-10-19T19:19:41+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 3,
+        "size": 61578,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2024-10-20T00:40:43+00:00",
+        "pushed": "2024-10-20T00:40:39+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "mpp",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 2,
+        "size": 28999,
+        "created": "2024-07-05T02:49:23+00:00",
+        "updated": "2024-10-20T00:41:02+00:00",
+        "pushed": "2024-10-20T00:40:56+00:00",
+        "url": "https://github.com/canmv-k230/mpp",
+        "id": 824383370
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 15,
+        "forks": 0,
+        "size": 51281,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-10-20T01:13:01+00:00",
+        "pushed": "2024-10-20T01:12:58+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "k210_maix_train",
+        "description": "\u672c\u79d1\u6bd5\u8bbe: k210\u4eba\u8138\u68c0\u6d4b",
+        "owner": "windfollowingheart",
+        "stars": 0,
+        "forks": 0,
+        "size": 58700,
+        "created": "2024-09-27T07:12:04+00:00",
+        "updated": "2024-10-20T06:19:40+00:00",
+        "pushed": "2024-10-20T06:19:36+00:00",
+        "url": "https://github.com/windfollowingheart/k210_maix_train",
+        "id": 863927973
+    },
+    {
+        "repo": "STM32AIK210",
+        "description": "\u57fa\u4e8estm32\u7684k210\u89c6\u89c9\u8bc6\u522b\u5c0f\u8f66",
+        "owner": "Etherealitry",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-10-19T08:12:31+00:00",
+        "updated": "2024-10-19T08:12:35+00:00",
+        "pushed": "2024-10-19T08:12:32+00:00",
+        "url": "https://github.com/Etherealitry/STM32AIK210",
+        "id": 875148653
+    },
+    {
+        "repo": "rajada-k210",
+        "description": "Config files for my GitHub profile.",
+        "owner": "rajada-k210",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-10-19T22:30:08+00:00",
+        "updated": "2024-10-19T22:30:08+00:00",
+        "pushed": "2024-10-19T22:30:08+00:00",
+        "url": "https://github.com/rajada-k210/rajada-k210",
+        "id": 875409172
+    },
+    {
+        "repo": "maiXMLReader",
+        "description": null,
+        "owner": "Thukumo",
+        "stars": 0,
+        "forks": 0,
+        "size": 23,
+        "created": "2024-10-17T10:12:16+00:00",
+        "updated": "2024-10-20T03:55:10+00:00",
+        "pushed": "2024-10-20T03:55:07+00:00",
+        "url": "https://github.com/Thukumo/maiXMLReader",
+        "id": 874137707
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 4,
         "forks": 1,
-        "size": 4891,
+        "size": 1242,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-10-19T01:57:11+00:00",
-        "pushed": "2024-10-19T01:57:08+00:00",
+        "updated": "2024-10-20T02:10:57+00:00",
+        "pushed": "2024-10-20T02:10:53+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -40032,10 +40058,10 @@
         "owner": "androidtrackers",
         "stars": 126,
         "forks": 36,
-        "size": 778986,
+        "size": 778988,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-10-18T12:32:01+00:00",
-        "pushed": "2024-10-18T12:31:56+00:00",
+        "updated": "2024-10-19T12:29:37+00:00",
+        "pushed": "2024-10-19T12:29:33+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -40048,7 +40074,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-10-11T17:43:38+00:00",
-        "pushed": "2024-10-19T00:15:15+00:00",
+        "pushed": "2024-10-20T00:16:01+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
