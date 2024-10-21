@@ -455,19 +455,6 @@
         "id": 101771700
     },
     {
-        "repo": "meta-hdl",
-        "description": "HDL tools layer for OpenEmbedded ",
-        "owner": "nathanrossi",
-        "stars": 15,
-        "forks": 6,
-        "size": 400,
-        "created": "2017-10-01T09:12:43Z",
-        "updated": "2023-07-28T14:44:25Z",
-        "pushed": "2023-10-29T13:24:43Z",
-        "url": "https://github.com/nathanrossi/meta-hdl",
-        "id": 105430958
-    },
-    {
         "repo": "HDMI2USB-litex-firmware",
         "description": null,
         "owner": "nikita-roz",
@@ -12142,19 +12129,6 @@
         "id": 13168458
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 4,
-        "forks": 2,
-        "size": 6086,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2024-08-16T01:17:50+00:00",
-        "pushed": "2024-08-16T01:17:45+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "LinuxDrivers",
         "description": "Linux character device drivers running in Renode",
         "owner": "panantoni01",
@@ -13078,19 +13052,6 @@
         "id": 632955985
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1192,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-10-15T15:38:49+00:00",
-        "pushed": "2024-10-15T15:38:45+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
         "owner": "chili-chips-ba",
@@ -13115,19 +13076,6 @@
         "pushed": "2024-10-16T00:11:04+00:00",
         "url": "https://github.com/cherguihakim/Capstone_Project",
         "id": 867323018
-    },
-    {
-        "repo": "pengullama",
-        "description": null,
-        "owner": "wrighted",
-        "stars": 0,
-        "forks": 0,
-        "size": 765,
-        "created": "2024-09-14T19:44:29+00:00",
-        "updated": "2024-10-15T22:31:10+00:00",
-        "pushed": "2024-10-15T22:31:07+00:00",
-        "url": "https://github.com/wrighted/pengullama",
-        "id": 857490388
     },
     {
         "repo": "coreblocks",
@@ -13286,19 +13234,6 @@
         "id": 346151420
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1578,
-        "forks": 222,
-        "size": 216543,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-19T04:35:23+00:00",
-        "pushed": "2024-10-19T04:20:16+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13338,19 +13273,6 @@
         "id": 862164421
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 824,
-        "forks": 73,
-        "size": 1211,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-19T09:24:48+00:00",
-        "pushed": "2024-10-20T02:22:24+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -13364,19 +13286,6 @@
         "id": 800027977
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 251,
-        "forks": 17,
-        "size": 13529,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-10-19T16:23:21+00:00",
-        "pushed": "2024-10-19T16:23:18+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "eurorack-pmod",
         "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
         "owner": "apfelaudio",
@@ -13388,19 +13297,6 @@
         "pushed": "2024-10-19T14:31:01+00:00",
         "url": "https://github.com/apfelaudio/eurorack-pmod",
         "id": 504905833
-    },
-    {
-        "repo": "colorlight-eth",
-        "description": "Ethernet interface for the colorlight i5 and i9 breakout boards",
-        "owner": "DaveBerkeley",
-        "stars": 1,
-        "forks": 0,
-        "size": 515,
-        "created": "2024-10-19T10:01:24+00:00",
-        "updated": "2024-10-19T20:53:41+00:00",
-        "pushed": "2024-10-19T17:02:07+00:00",
-        "url": "https://github.com/DaveBerkeley/colorlight-eth",
-        "id": 875181306
     },
     {
         "repo": "mollusc-arch",
@@ -13429,6 +13325,110 @@
         "id": 833422784
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 825,
+        "forks": 73,
+        "size": 1211,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-20T10:43:17+00:00",
+        "pushed": "2024-10-21T02:23:41+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1579,
+        "forks": 223,
+        "size": 216728,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-20T18:17:12+00:00",
+        "pushed": "2024-10-20T19:01:18+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "meta-hdl",
+        "description": "HDL tools layer for OpenEmbedded ",
+        "owner": "nathanrossi",
+        "stars": 17,
+        "forks": 6,
+        "size": 422,
+        "created": "2017-10-01T09:12:43+00:00",
+        "updated": "2024-10-20T07:23:58+00:00",
+        "pushed": "2024-10-20T07:23:53+00:00",
+        "url": "https://github.com/nathanrossi/meta-hdl",
+        "id": 105430958
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 12,
+        "forks": 4,
+        "size": 6092,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2024-10-20T07:40:00+00:00",
+        "pushed": "2024-10-19T02:36:43+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 251,
+        "forks": 17,
+        "size": 13540,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-10-20T23:23:02+00:00",
+        "pushed": "2024-10-20T23:22:59+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "litex",
+        "description": null,
+        "owner": "litex-dev-create",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-10-20T15:31:03+00:00",
+        "updated": "2024-10-20T15:31:03+00:00",
+        "pushed": "2024-10-20T15:31:03+00:00",
+        "url": "https://github.com/litex-dev-create/litex",
+        "id": 875668578
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1204,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-10-21T00:47:51+00:00",
+        "pushed": "2024-10-21T00:47:58+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "colorlight-eth",
+        "description": "Ethernet interface for the colorlight i5 and i9 breakout boards",
+        "owner": "DaveBerkeley",
+        "stars": 2,
+        "forks": 0,
+        "size": 516,
+        "created": "2024-10-19T10:01:24+00:00",
+        "updated": "2024-10-20T07:45:06+00:00",
+        "pushed": "2024-10-20T07:45:02+00:00",
+        "url": "https://github.com/DaveBerkeley/colorlight-eth",
+        "id": 875181306
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -13437,9 +13437,22 @@
         "size": 2494,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-20T00:15:58+00:00",
+        "pushed": "2024-10-21T00:15:28+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
+    },
+    {
+        "repo": "pengullama",
+        "description": null,
+        "owner": "wrighted",
+        "stars": 0,
+        "forks": 0,
+        "size": 1502,
+        "created": "2024-09-14T19:44:29+00:00",
+        "updated": "2024-10-21T03:32:51+00:00",
+        "pushed": "2024-10-21T03:32:47+00:00",
+        "url": "https://github.com/wrighted/pengullama",
+        "id": 857490388
     },
     {
         "repo": "starred",
@@ -13447,10 +13460,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2366,
+        "size": 2450,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-20T04:35:49+00:00",
-        "pushed": "2024-10-20T04:35:46+00:00",
+        "updated": "2024-10-21T04:36:17+00:00",
+        "pushed": "2024-10-21T04:36:13+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13460,10 +13473,10 @@
         "owner": "hiifong",
         "stars": 7,
         "forks": 2,
-        "size": 72348,
+        "size": 72829,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-20T03:33:21+00:00",
-        "pushed": "2024-10-20T03:33:17+00:00",
+        "updated": "2024-10-21T03:33:26+00:00",
+        "pushed": "2024-10-21T03:33:22+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
