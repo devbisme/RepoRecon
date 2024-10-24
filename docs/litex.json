@@ -11622,19 +11622,6 @@
         "id": 188384736
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 194,
-        "forks": 26,
-        "size": 19885,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-06-06T22:03:50+00:00",
-        "pushed": "2024-06-06T22:03:47+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "Uart_Demo",
         "description": null,
         "owner": "mohammadshahidzade",
@@ -12519,19 +12506,6 @@
         "id": 532379641
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 0,
-        "forks": 2,
-        "size": 329,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2024-09-25T07:57:15+00:00",
-        "pushed": "2024-09-25T07:57:12+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -12779,19 +12753,6 @@
         "id": 820587085
     },
     {
-        "repo": "litexwan",
-        "description": null,
-        "owner": "scriswan",
-        "stars": 0,
-        "forks": 0,
-        "size": 10211,
-        "created": "2024-10-02T16:40:53+00:00",
-        "updated": "2024-10-04T02:01:59+00:00",
-        "pushed": "2024-10-04T02:01:56+00:00",
-        "url": "https://github.com/scriswan/litexwan",
-        "id": 866657482
-    },
-    {
         "repo": "Colorlight-FPGA-Projects",
         "description": "current focus on Colorlight i5 and i9 & i9plus module",
         "owner": "wuxx",
@@ -12842,19 +12803,6 @@
         "pushed": "2024-10-07T21:38:17+00:00",
         "url": "https://github.com/robtaylor/amaranth-awesome",
         "id": 858125548
-    },
-    {
-        "repo": "appkit",
-        "description": "Android app boilerplate + image loader",
-        "owner": "grishka",
-        "stars": 52,
-        "forks": 17,
-        "size": 352,
-        "created": "2019-12-03T14:40:58+00:00",
-        "updated": "2024-10-08T17:29:08+00:00",
-        "pushed": "2024-10-08T17:29:05+00:00",
-        "url": "https://github.com/grishka/appkit",
-        "id": 225642630
     },
     {
         "repo": "my_litex",
@@ -13130,19 +13078,6 @@
         "id": 567904928
     },
     {
-        "repo": "litei2c",
-        "description": "Small footprint and configurable I2C core",
-        "owner": "litex-hub",
-        "stars": 1,
-        "forks": 1,
-        "size": 16,
-        "created": "2024-09-24T06:34:32+00:00",
-        "updated": "2024-10-18T09:33:15+00:00",
-        "pushed": "2024-10-18T09:33:11+00:00",
-        "url": "https://github.com/litex-hub/litei2c",
-        "id": 862164421
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -13232,19 +13167,6 @@
         "pushed": "2024-10-21T03:32:47+00:00",
         "url": "https://github.com/wrighted/pengullama",
         "id": 857490388
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1578,
-        "forks": 223,
-        "size": 216807,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-10-21T19:32:49+00:00",
-        "pushed": "2024-10-21T20:26:51+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "libtslitex",
@@ -13351,45 +13273,6 @@
         "id": 310692215
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 826,
-        "forks": 74,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-22T09:40:42+00:00",
-        "pushed": "2024-10-23T02:25:22+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 467,
-        "forks": 118,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-10-18T22:15:43+00:00",
-        "pushed": "2024-10-23T02:27:28+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 15,
-        "size": 39179,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-10-22T09:13:49+00:00",
-        "pushed": "2024-10-22T14:28:48+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -13401,19 +13284,6 @@
         "pushed": "2024-10-22T13:23:40+00:00",
         "url": "https://github.com/beryllium-org/OS",
         "id": 434342707
-    },
-    {
-        "repo": "mollusc-arch",
-        "description": null,
-        "owner": "LithosphereRocketry",
-        "stars": 0,
-        "forks": 0,
-        "size": 271,
-        "created": "2024-02-22T04:24:10+00:00",
-        "updated": "2024-10-23T03:53:11+00:00",
-        "pushed": "2024-10-23T03:53:06+00:00",
-        "url": "https://github.com/LithosphereRocketry/mollusc-arch",
-        "id": 761567898
     },
     {
         "repo": "processor-ci",
@@ -13468,32 +13338,6 @@
         "id": 777943094
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 23,
-        "forks": 1,
-        "size": 2494,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-23T00:15:06+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 2537,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-23T04:36:10+00:00",
-        "pushed": "2024-10-23T04:36:07+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -13507,15 +13351,171 @@
         "id": 330793471
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 827,
+        "forks": 74,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-23T22:35:40+00:00",
+        "pushed": "2024-10-24T02:15:20+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 467,
+        "forks": 118,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-10-18T22:15:43+00:00",
+        "pushed": "2024-10-24T02:27:25+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1581,
+        "forks": 224,
+        "size": 216813,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-10-23T20:39:33+00:00",
+        "pushed": "2024-10-23T21:27:39+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 37,
+        "forks": 15,
+        "size": 39182,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-10-22T09:13:49+00:00",
+        "pushed": "2024-10-23T11:14:22+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 202,
+        "forks": 27,
+        "size": 19942,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-10-23T18:29:16+00:00",
+        "pushed": "2024-10-23T18:29:10+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "appkit",
+        "description": "Android app boilerplate + image loader",
+        "owner": "grishka",
+        "stars": 52,
+        "forks": 17,
+        "size": 361,
+        "created": "2019-12-03T14:40:58+00:00",
+        "updated": "2024-10-23T21:37:49+00:00",
+        "pushed": "2024-10-23T21:37:45+00:00",
+        "url": "https://github.com/grishka/appkit",
+        "id": 225642630
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 1,
+        "forks": 2,
+        "size": 329,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2024-10-23T10:16:16+00:00",
+        "pushed": "2024-10-23T10:16:12+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "litei2c",
+        "description": "Small footprint and configurable I2C core",
+        "owner": "litex-hub",
+        "stars": 1,
+        "forks": 1,
+        "size": 16,
+        "created": "2024-09-24T06:34:32+00:00",
+        "updated": "2024-10-23T11:14:48+00:00",
+        "pushed": "2024-10-23T11:14:44+00:00",
+        "url": "https://github.com/litex-hub/litei2c",
+        "id": 862164421
+    },
+    {
+        "repo": "mollusc-arch",
+        "description": null,
+        "owner": "LithosphereRocketry",
+        "stars": 0,
+        "forks": 0,
+        "size": 273,
+        "created": "2024-02-22T04:24:10+00:00",
+        "updated": "2024-10-24T01:25:19+00:00",
+        "pushed": "2024-10-24T01:25:15+00:00",
+        "url": "https://github.com/LithosphereRocketry/mollusc-arch",
+        "id": 761567898
+    },
+    {
+        "repo": "litexwan",
+        "description": null,
+        "owner": "scriswan",
+        "stars": 0,
+        "forks": 0,
+        "size": 10222,
+        "created": "2024-10-02T16:40:53+00:00",
+        "updated": "2024-10-23T07:33:05+00:00",
+        "pushed": "2024-10-23T07:33:01+00:00",
+        "url": "https://github.com/scriswan/litexwan",
+        "id": 866657482
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 23,
+        "forks": 1,
+        "size": 2494,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-10-02T01:46:34+00:00",
+        "pushed": "2024-10-24T00:15:07+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 2572,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-10-24T04:36:01+00:00",
+        "pushed": "2024-10-24T04:35:57+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 9,
         "forks": 2,
-        "size": 73791,
+        "size": 74254,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-23T03:30:37+00:00",
-        "pushed": "2024-10-23T03:30:33+00:00",
+        "updated": "2024-10-24T03:30:24+00:00",
+        "pushed": "2024-10-24T03:30:20+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
