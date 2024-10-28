@@ -12012,19 +12012,6 @@
         "id": 835525952
     },
     {
-        "repo": "Pagliacii",
-        "description": "My README.md",
-        "owner": "Pagliacii",
-        "stars": 4,
-        "forks": 0,
-        "size": 5775,
-        "created": "2021-07-25T08:32:13+00:00",
-        "updated": "2024-08-02T03:29:15+00:00",
-        "pushed": "2024-08-02T03:29:12+00:00",
-        "url": "https://github.com/Pagliacii/Pagliacii",
-        "id": 389299309
-    },
-    {
         "repo": "rvv-lite",
         "description": null,
         "owner": "UBC-ORCA",
@@ -12675,19 +12662,6 @@
         "id": 864583622
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 249,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2024-09-29T19:01:09+00:00",
-        "pushed": "2024-09-29T19:01:06+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -12855,19 +12829,6 @@
         "pushed": "2024-10-14T07:16:13+00:00",
         "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
         "id": 237940918
-    },
-    {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 47,
-        "forks": 0,
-        "size": 1092,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2024-10-16T02:42:18+00:00",
-        "pushed": "2024-10-16T02:42:15+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
     },
     {
         "repo": "litepcie_ptm_test",
@@ -13403,19 +13364,6 @@
         "id": 225642630
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 830,
-        "forks": 74,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-10-26T10:20:01+00:00",
-        "pushed": "2024-10-27T02:31:14+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -13468,15 +13416,54 @@
         "id": 866657482
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 834,
+        "forks": 74,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-10-27T22:53:55+00:00",
+        "pushed": "2024-10-28T02:19:22+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 47,
+        "forks": 0,
+        "size": 1118,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2024-10-28T02:53:27+00:00",
+        "pushed": "2024-10-28T02:53:23+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 250,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2024-10-27T17:10:56+00:00",
+        "pushed": "2024-10-27T17:10:53+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
         "repo": "litex-138k",
         "description": null,
         "owner": "Stars-Collector",
         "stars": 0,
         "forks": 0,
-        "size": 515,
+        "size": 595,
         "created": "2024-09-25T12:51:49+00:00",
-        "updated": "2024-10-26T08:38:34+00:00",
-        "pushed": "2024-10-26T08:38:31+00:00",
+        "updated": "2024-10-27T09:15:05+00:00",
+        "pushed": "2024-10-27T09:15:01+00:00",
         "url": "https://github.com/Stars-Collector/litex-138k",
         "id": 862939133
     },
@@ -13486,10 +13473,10 @@
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 510,
+        "size": 527,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-10-26T09:00:54+00:00",
-        "pushed": "2024-10-26T09:00:50+00:00",
+        "updated": "2024-10-27T07:55:43+00:00",
+        "pushed": "2024-10-27T07:55:40+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13502,7 +13489,7 @@
         "size": 2494,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-10-27T00:16:32+00:00",
+        "pushed": "2024-10-28T00:16:11+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -13512,12 +13499,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2828,
+        "size": 2864,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-10-27T04:36:25+00:00",
-        "pushed": "2024-10-27T04:36:22+00:00",
+        "updated": "2024-10-28T04:36:23+00:00",
+        "pushed": "2024-10-28T04:36:20+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "Pagliacii",
+        "description": "My README.md",
+        "owner": "Pagliacii",
+        "stars": 5,
+        "forks": 0,
+        "size": 6486,
+        "created": "2021-07-25T08:32:13+00:00",
+        "updated": "2024-10-28T03:38:44+00:00",
+        "pushed": "2024-10-28T03:38:40+00:00",
+        "url": "https://github.com/Pagliacii/Pagliacii",
+        "id": 389299309
     },
     {
         "repo": "starList",
@@ -13525,10 +13525,10 @@
         "owner": "hiifong",
         "stars": 9,
         "forks": 2,
-        "size": 75674,
+        "size": 76155,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-10-27T03:32:54+00:00",
-        "pushed": "2024-10-27T03:32:51+00:00",
+        "updated": "2024-10-28T03:34:10+00:00",
+        "pushed": "2024-10-28T03:34:05+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
