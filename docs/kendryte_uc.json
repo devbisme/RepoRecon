@@ -39338,19 +39338,6 @@
         "id": 706039729
     },
     {
-        "repo": "Baremetal-NN",
-        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
-        "owner": "ucb-bar",
-        "stars": 20,
-        "forks": 2,
-        "size": 81516,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2024-10-16T00:38:50+00:00",
-        "pushed": "2024-10-16T00:38:47+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
-    },
-    {
         "repo": "MaixSense-processingTester",
         "description": null,
         "owner": "PBernalPolo",
@@ -39832,19 +39819,6 @@
         "id": 557131050
     },
     {
-        "repo": "K210-Developer-Kit",
-        "description": "Yahboom AI-Motion K210 Developer Kit support C/MicroPython programming",
-        "owner": "YahboomTechnology",
-        "stars": 2,
-        "forks": 3,
-        "size": 63931,
-        "created": "2023-04-23T02:56:52+00:00",
-        "updated": "2024-10-24T10:41:04+00:00",
-        "pushed": "2024-10-24T10:40:59+00:00",
-        "url": "https://github.com/YahboomTechnology/K210-Developer-Kit",
-        "id": 631439554
-    },
-    {
         "repo": "k230_flash",
         "description": "Kendryte K230 Flash Tool Python",
         "owner": "kendryte",
@@ -39856,19 +39830,6 @@
         "pushed": "2024-10-25T03:28:44+00:00",
         "url": "https://github.com/kendryte/k230_flash",
         "id": 869962721
-    },
-    {
-        "repo": "k210-sipeed",
-        "description": "ai\u6444\u50cf\u59342.0",
-        "owner": "labplus-cn",
-        "stars": 0,
-        "forks": 0,
-        "size": 11003,
-        "created": "2024-09-11T06:19:23+00:00",
-        "updated": "2024-10-25T03:49:43+00:00",
-        "pushed": "2024-10-25T03:49:40+00:00",
-        "url": "https://github.com/labplus-cn/k210-sipeed",
-        "id": 855598882
     },
     {
         "repo": "opensbi",
@@ -39895,19 +39856,6 @@
         "pushed": "2024-10-26T01:57:21+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 181,
-        "forks": 36,
-        "size": 165492,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-10-26T07:01:46+00:00",
-        "pushed": "2024-10-26T17:54:00+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "rCore-Tutorial-Book-v3",
@@ -39960,45 +39908,6 @@
         "pushed": "2024-10-27T05:46:29+00:00",
         "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
         "id": 188584527
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 4,
-        "forks": 1,
-        "size": 1824,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-10-27T02:09:09+00:00",
-        "pushed": "2024-10-27T02:09:06+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 53,
-        "forks": 13,
-        "size": 108576,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-10-25T06:51:41+00:00",
-        "pushed": "2024-10-28T06:12:31+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10484,
-        "forks": 5019,
-        "size": 885149,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-10-28T05:53:28+00:00",
-        "pushed": "2024-10-28T04:30:35+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "rtsmart",
@@ -40090,32 +39999,6 @@
         "pushed": "2024-10-28T01:16:26+00:00",
         "url": "https://github.com/markmi/acpphint",
         "id": 214611123
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 747,
-        "forks": 181,
-        "size": 59606,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-10-24T16:57:30+00:00",
-        "pushed": "2024-10-29T02:12:44+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 182,
-        "forks": 36,
-        "size": 38433,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-10-25T11:30:52+00:00",
-        "pushed": "2024-10-29T03:37:17+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "canmv_k230",
@@ -40248,19 +40131,6 @@
         "id": 879721594
     },
     {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 0,
-        "forks": 0,
-        "size": 49165,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2024-10-28T09:31:31+00:00",
-        "pushed": "2024-10-28T09:31:28+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
-    },
-    {
         "repo": "biol211",
         "description": "Website for BIOL 211",
         "owner": "aroles",
@@ -40274,15 +40144,145 @@
         "id": 804949396
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 748,
+        "forks": 181,
+        "size": 59556,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-10-30T02:07:57+00:00",
+        "pushed": "2024-10-30T06:15:26+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 182,
+        "forks": 36,
+        "size": 38453,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-10-25T11:30:52+00:00",
+        "pushed": "2024-10-30T05:57:14+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 181,
+        "forks": 36,
+        "size": 166102,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-10-29T12:47:48+00:00",
+        "pushed": "2024-10-29T17:15:16+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 53,
+        "forks": 13,
+        "size": 108754,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-10-25T06:51:41+00:00",
+        "pushed": "2024-10-29T10:12:14+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10487,
+        "forks": 5021,
+        "size": 885148,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-10-29T22:19:28+00:00",
+        "pushed": "2024-10-29T22:19:18+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
+        "owner": "ucb-bar",
+        "stars": 21,
+        "forks": 2,
+        "size": 81520,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2024-10-29T18:12:54+00:00",
+        "pushed": "2024-10-29T18:12:50+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "K210-Developer-Kit",
+        "description": "Yahboom AI-Motion K210 Developer Kit support C/MicroPython programming",
+        "owner": "YahboomTechnology",
+        "stars": 2,
+        "forks": 3,
+        "size": 66058,
+        "created": "2023-04-23T02:56:52+00:00",
+        "updated": "2024-10-29T11:41:00+00:00",
+        "pushed": "2024-10-29T11:40:56+00:00",
+        "url": "https://github.com/YahboomTechnology/K210-Developer-Kit",
+        "id": 631439554
+    },
+    {
+        "repo": "k210-sipeed",
+        "description": "ai\u6444\u50cf\u59342.0",
+        "owner": "labplus-cn",
+        "stars": 0,
+        "forks": 0,
+        "size": 11034,
+        "created": "2024-09-11T06:19:23+00:00",
+        "updated": "2024-10-30T03:38:59+00:00",
+        "pushed": "2024-10-30T03:38:55+00:00",
+        "url": "https://github.com/labplus-cn/k210-sipeed",
+        "id": 855598882
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 0,
+        "forks": 0,
+        "size": 49370,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2024-10-30T02:32:14+00:00",
+        "pushed": "2024-10-30T02:32:11+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 4,
+        "forks": 1,
+        "size": 1891,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-10-30T02:01:31+00:00",
+        "pushed": "2024-10-30T02:01:27+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 126,
         "forks": 36,
-        "size": 781932,
+        "size": 784864,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-10-28T12:32:57+00:00",
-        "pushed": "2024-10-28T12:32:54+00:00",
+        "updated": "2024-10-29T12:33:07+00:00",
+        "pushed": "2024-10-29T12:33:02+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -40295,7 +40295,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-10-23T11:15:46+00:00",
-        "pushed": "2024-10-29T00:15:24+00:00",
+        "pushed": "2024-10-30T00:15:08+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
