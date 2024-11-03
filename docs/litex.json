@@ -12649,19 +12649,6 @@
         "id": 864583622
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 57,
-        "forks": 22,
-        "size": 77766,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-09-30T17:08:45+00:00",
-        "pushed": "2024-09-03T07:31:43+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "litespi-feedstock",
         "description": "A conda-smithy repository for litespi.",
         "owner": "conda-forge",
@@ -13468,32 +13455,6 @@
         "id": 330793471
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 839,
-        "forks": 75,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-01T18:39:04+00:00",
-        "pushed": "2024-11-02T02:24:19+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1587,
-        "forks": 224,
-        "size": 216411,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-11-01T12:57:07+00:00",
-        "pushed": "2024-11-01T20:33:18+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -13520,19 +13481,6 @@
         "id": 504905833
     },
     {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 10,
-        "forks": 1,
-        "size": 35429,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-01T20:07:50+00:00",
-        "pushed": "2024-11-02T01:26:08+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
         "owner": "chili-chips-ba",
@@ -13544,19 +13492,6 @@
         "pushed": "2024-11-01T18:56:47+00:00",
         "url": "https://github.com/chili-chips-ba/openCologne",
         "id": 798146281
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 213,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-01T10:54:06+00:00",
-        "pushed": "2024-11-01T10:54:03+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
     },
     {
         "repo": "pythondata-cpu-vexiiriscv",
@@ -13572,6 +13507,71 @@
         "id": 774781647
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 839,
+        "forks": 75,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-01T18:39:04+00:00",
+        "pushed": "2024-11-03T02:30:17+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 58,
+        "forks": 22,
+        "size": 77771,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-11-02T19:58:36+00:00",
+        "pushed": "2024-11-02T22:27:04+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1587,
+        "forks": 224,
+        "size": 216569,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-11-02T21:42:16+00:00",
+        "pushed": "2024-11-02T21:42:13+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 5,
+        "forks": 1,
+        "size": 35429,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-03T02:00:14+00:00",
+        "pushed": "2024-11-03T01:40:23+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 2,
+        "forks": 0,
+        "size": 229,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-11-02T08:47:33+00:00",
+        "pushed": "2024-11-02T08:47:29+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
@@ -13579,8 +13579,8 @@
         "forks": 0,
         "size": 1418,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-02T04:36:11+00:00",
-        "pushed": "2024-11-02T04:36:08+00:00",
+        "updated": "2024-11-03T04:35:21+00:00",
+        "pushed": "2024-11-03T04:35:18+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13590,10 +13590,10 @@
         "owner": "hiifong",
         "stars": 10,
         "forks": 2,
-        "size": 78525,
+        "size": 79006,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-02T03:29:29+00:00",
-        "pushed": "2024-11-02T03:29:25+00:00",
+        "updated": "2024-11-03T03:33:03+00:00",
+        "pushed": "2024-11-03T03:32:59+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
