@@ -36894,19 +36894,6 @@
         "id": 418199179
     },
     {
-        "repo": "pxt-koi2",
-        "description": "KOI2 is an AI camera module based on the K210 chip from KittenBot, which aims to combine offline AI technology and high-performance embedded systems to provide strong support for visual recognition and intelligent AI applications. It comes with hardware such as a screen, camera, speaker, microphone, and buttons.",
-        "owner": "KittenBot",
-        "stars": 0,
-        "forks": 1,
-        "size": 356,
-        "created": "2024-02-23T06:55:48+00:00",
-        "updated": "2024-07-04T07:57:35+00:00",
-        "pushed": "2024-07-04T07:58:11+00:00",
-        "url": "https://github.com/KittenBot/pxt-koi2",
-        "id": 762139588
-    },
-    {
         "repo": "Project_SunBone",
         "description": "2024 Intelligent SoC Innovative Project Contest",
         "owner": "Atypical281795",
@@ -39325,58 +39312,6 @@
         "id": 872997185
     },
     {
-        "repo": "aseprite",
-        "description": null,
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 1,
-        "size": 10,
-        "created": "2022-12-19T15:15:27+00:00",
-        "updated": "2024-10-15T12:52:44+00:00",
-        "pushed": "2024-10-15T12:52:41+00:00",
-        "url": "https://github.com/maix-flake/aseprite",
-        "id": 580041108
-    },
-    {
-        "repo": "rofi",
-        "description": null,
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2024-09-22T15:19:48+00:00",
-        "updated": "2024-10-15T12:54:04+00:00",
-        "pushed": "2024-10-15T12:54:01+00:00",
-        "url": "https://github.com/maix-flake/rofi",
-        "id": 861316304
-    },
-    {
-        "repo": "cargo-ws",
-        "description": "A nix flake for cargo workspace",
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2022-11-24T12:09:32+00:00",
-        "updated": "2024-10-15T12:52:59+00:00",
-        "pushed": "2024-10-15T12:52:55+00:00",
-        "url": "https://github.com/maix-flake/cargo-ws",
-        "id": 570131141
-    },
-    {
-        "repo": "cargo-semver-checks",
-        "description": "A nix flake for Cargo semver Checks",
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 0,
-        "size": 4,
-        "created": "2022-12-23T22:54:55+00:00",
-        "updated": "2024-10-15T12:52:56+00:00",
-        "pushed": "2024-10-15T12:52:52+00:00",
-        "url": "https://github.com/maix-flake/cargo-semver-checks",
-        "id": 581673429
-    },
-    {
         "repo": "c_formatter_42",
         "description": "A nix flake for c_formatter_42 build by @dawnbeen",
         "owner": "maix-flake",
@@ -40092,19 +40027,6 @@
         "id": 857263549
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 832134,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2024-10-31T19:20:17+00:00",
-        "pushed": "2024-10-31T19:20:13+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "krux-installer",
         "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
         "owner": "selfcustody",
@@ -40116,19 +40038,6 @@
         "pushed": "2024-10-31T19:27:28+00:00",
         "url": "https://github.com/selfcustody/krux-installer",
         "id": 516560139
-    },
-    {
-        "repo": "canmv",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 2,
-        "size": 29691,
-        "created": "2024-07-24T07:37:50+00:00",
-        "updated": "2024-10-31T10:17:55+00:00",
-        "pushed": "2024-10-31T10:17:51+00:00",
-        "url": "https://github.com/canmv-k230/canmv",
-        "id": 833017762
     },
     {
         "repo": "u-boot",
@@ -40222,19 +40131,6 @@
         "id": 505364954
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 19,
-        "forks": 2,
-        "size": 51263,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-11-01T18:38:59+00:00",
-        "pushed": "2024-11-01T18:38:55+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "rtsmart",
         "description": null,
         "owner": "canmv-k230",
@@ -40246,19 +40142,6 @@
         "pushed": "2024-11-01T11:15:23+00:00",
         "url": "https://github.com/canmv-k230/rtsmart",
         "id": 824521722
-    },
-    {
-        "repo": "mpp",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 2,
-        "size": 31458,
-        "created": "2024-07-05T02:49:23+00:00",
-        "updated": "2024-11-01T14:54:53+00:00",
-        "pushed": "2024-11-01T14:54:49+00:00",
-        "url": "https://github.com/canmv-k230/mpp",
-        "id": 824383370
     },
     {
         "repo": "wmt_ai_study",
@@ -40313,19 +40196,6 @@
         "id": 551745130
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10499,
-        "forks": 5020,
-        "size": 887547,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-11-03T02:08:56+00:00",
-        "pushed": "2024-11-03T02:08:45+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "k230-master",
         "description": "mainline for k230",
         "owner": "TroyMitchell911",
@@ -40365,6 +40235,136 @@
         "id": 731012323
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10502,
+        "forks": 5023,
+        "size": 887551,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-11-04T07:00:57+00:00",
+        "pushed": "2024-11-04T03:49:51+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 840803,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2024-11-04T01:45:30+00:00",
+        "pushed": "2024-11-04T01:45:26+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 19,
+        "forks": 2,
+        "size": 51266,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-11-03T20:04:37+00:00",
+        "pushed": "2024-11-03T23:18:25+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "mpp",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 2,
+        "size": 32160,
+        "created": "2024-07-05T02:49:23+00:00",
+        "updated": "2024-11-04T02:38:32+00:00",
+        "pushed": "2024-11-04T02:38:29+00:00",
+        "url": "https://github.com/canmv-k230/mpp",
+        "id": 824383370
+    },
+    {
+        "repo": "canmv",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 2,
+        "size": 29698,
+        "created": "2024-07-24T07:37:50+00:00",
+        "updated": "2024-11-04T02:59:01+00:00",
+        "pushed": "2024-11-04T02:58:57+00:00",
+        "url": "https://github.com/canmv-k230/canmv",
+        "id": 833017762
+    },
+    {
+        "repo": "aseprite",
+        "description": null,
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 1,
+        "size": 9,
+        "created": "2022-12-19T15:15:27+00:00",
+        "updated": "2024-11-03T11:52:27+00:00",
+        "pushed": "2024-11-03T11:52:23+00:00",
+        "url": "https://github.com/maix-flake/aseprite",
+        "id": 580041108
+    },
+    {
+        "repo": "rofi",
+        "description": null,
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2024-09-22T15:19:48+00:00",
+        "updated": "2024-11-03T12:08:34+00:00",
+        "pushed": "2024-11-03T12:08:30+00:00",
+        "url": "https://github.com/maix-flake/rofi",
+        "id": 861316304
+    },
+    {
+        "repo": "cargo-ws",
+        "description": "A nix flake for cargo workspace",
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2022-11-24T12:09:32+00:00",
+        "updated": "2024-11-03T11:52:38+00:00",
+        "pushed": "2024-11-03T11:52:34+00:00",
+        "url": "https://github.com/maix-flake/cargo-ws",
+        "id": 570131141
+    },
+    {
+        "repo": "cargo-semver-checks",
+        "description": "A nix flake for Cargo semver Checks",
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 0,
+        "size": 4,
+        "created": "2022-12-23T22:54:55+00:00",
+        "updated": "2024-11-03T11:52:33+00:00",
+        "pushed": "2024-11-03T11:52:30+00:00",
+        "url": "https://github.com/maix-flake/cargo-semver-checks",
+        "id": 581673429
+    },
+    {
+        "repo": "pxt-koi2",
+        "description": "KOI2 is an AI camera module based on the K210 chip from KittenBot, which aims to combine offline AI technology and high-performance embedded systems to provide strong support for visual recognition and intelligent AI applications. It comes with hardware such as a screen, camera, speaker, microphone, and buttons.",
+        "owner": "KittenBot",
+        "stars": 0,
+        "forks": 1,
+        "size": 367,
+        "created": "2024-02-23T06:55:48+00:00",
+        "updated": "2024-11-04T03:47:05+00:00",
+        "pushed": "2024-11-04T03:47:01+00:00",
+        "url": "https://github.com/KittenBot/pxt-koi2",
+        "id": 762139588
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
@@ -40372,8 +40372,8 @@
         "forks": 36,
         "size": 792866,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-11-02T12:29:33+00:00",
-        "pushed": "2024-11-02T12:29:29+00:00",
+        "updated": "2024-11-03T12:28:36+00:00",
+        "pushed": "2024-11-03T12:28:33+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

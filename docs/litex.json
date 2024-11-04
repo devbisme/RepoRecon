@@ -12792,19 +12792,6 @@
         "id": 822581293
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 409,
-        "forks": 39,
-        "size": 187769,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-10-15T01:04:45+00:00",
-        "pushed": "2024-10-14T07:16:13+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "litepcie_ptm_test",
         "description": "LitePCIe PTM support / test repo.",
         "owner": "enjoy-digital",
@@ -12829,19 +12816,6 @@
         "pushed": "2024-10-16T00:11:04+00:00",
         "url": "https://github.com/cherguihakim/Capstone_Project",
         "id": 867323018
-    },
-    {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 5,
-        "forks": 0,
-        "size": 389,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2024-10-16T07:15:33+00:00",
-        "pushed": "2024-10-16T07:15:30+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
     },
     {
         "repo": "serv",
@@ -13299,19 +13273,6 @@
         "id": 190029235
     },
     {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 20733,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-10-30T15:33:49+00:00",
-        "pushed": "2024-10-30T15:31:30+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
         "repo": "LimeSDR_GW",
         "description": "LiteX-based gateware for LimeSDR boards.",
         "owner": "myriadrf",
@@ -13507,32 +13468,6 @@
         "id": 774781647
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 839,
-        "forks": 75,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-01T18:39:04+00:00",
-        "pushed": "2024-11-03T02:30:17+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 58,
-        "forks": 22,
-        "size": 77771,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-11-02T19:58:36+00:00",
-        "pushed": "2024-11-02T22:27:04+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -13546,15 +13481,54 @@
         "id": 274442284
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 840,
+        "forks": 75,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-03T19:56:30+00:00",
+        "pushed": "2024-11-04T02:17:48+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 58,
+        "forks": 22,
+        "size": 77775,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-11-03T20:58:30+00:00",
+        "pushed": "2024-11-03T20:58:27+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 21234,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-11-03T19:11:39+00:00",
+        "pushed": "2024-11-03T19:11:36+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
         "repo": "JohnRaivenOlazo",
         "description": "Config files for my GitHub profile.",
         "owner": "JohnRaivenOlazo",
         "stars": 5,
         "forks": 1,
-        "size": 35429,
+        "size": 35390,
         "created": "2023-11-07T11:54:04+00:00",
         "updated": "2024-11-03T02:00:14+00:00",
-        "pushed": "2024-11-03T01:40:23+00:00",
+        "pushed": "2024-11-04T01:37:16+00:00",
         "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
         "id": 715563210
     },
@@ -13564,12 +13538,38 @@
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 229,
+        "size": 231,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-02T08:47:33+00:00",
-        "pushed": "2024-11-02T08:47:29+00:00",
+        "updated": "2024-11-03T09:07:25+00:00",
+        "pushed": "2024-11-03T09:07:21+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 5,
+        "forks": 0,
+        "size": 395,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2024-11-03T11:24:35+00:00",
+        "pushed": "2024-11-03T11:24:31+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 421,
+        "forks": 39,
+        "size": 188623,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-11-04T04:56:43+00:00",
+        "pushed": "2024-11-03T13:27:50+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
     },
     {
         "repo": "starred",
@@ -13577,10 +13577,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1418,
+        "size": 1419,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-03T04:35:21+00:00",
-        "pushed": "2024-11-03T04:35:18+00:00",
+        "updated": "2024-11-04T04:35:45+00:00",
+        "pushed": "2024-11-04T04:35:42+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13590,10 +13590,10 @@
         "owner": "hiifong",
         "stars": 10,
         "forks": 2,
-        "size": 79006,
+        "size": 79488,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-03T03:33:03+00:00",
-        "pushed": "2024-11-03T03:32:59+00:00",
+        "updated": "2024-11-04T03:33:35+00:00",
+        "pushed": "2024-11-04T03:33:31+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
