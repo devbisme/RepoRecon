@@ -10790,19 +10790,6 @@
         "id": 64712541
     },
     {
-        "repo": "pogobot-sdk",
-        "description": "SDK for the Pogobot open-source open-hardware robotic platform for swarm robotics",
-        "owner": "nekonaute",
-        "stars": 1,
-        "forks": 1,
-        "size": 31350,
-        "created": "2022-06-20T14:00:20+00:00",
-        "updated": "2023-01-11T15:06:12+00:00",
-        "pushed": "2024-03-07T09:14:48+00:00",
-        "url": "https://github.com/nekonaute/pogobot-sdk",
-        "id": 505464815
-    },
-    {
         "repo": "list-o-pad",
         "description": null,
         "owner": "dev-pts",
@@ -12545,19 +12532,6 @@
         "id": 109838222
     },
     {
-        "repo": "litespi",
-        "description": "Small footprint and configurable SPI core",
-        "owner": "litex-hub",
-        "stars": 38,
-        "forks": 23,
-        "size": 226,
-        "created": "2020-03-29T10:14:20+00:00",
-        "updated": "2024-09-20T10:38:51+00:00",
-        "pushed": "2024-09-27T07:45:50+00:00",
-        "url": "https://github.com/litex-hub/litespi",
-        "id": 251003436
-    },
-    {
         "repo": "litejesd204b",
         "description": "Small footprint and configurable JESD204B core",
         "owner": "enjoy-digital",
@@ -12909,19 +12883,6 @@
         "id": 567904928
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 57,
-        "forks": 7,
-        "size": 6662,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-10-19T19:48:05+00:00",
-        "pushed": "2024-10-19T19:48:01+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "meta-hdl",
         "description": "HDL tools layer for OpenEmbedded ",
         "owner": "nathanrossi",
@@ -13156,19 +13117,6 @@
         "id": 862939133
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2971,
-        "forks": 565,
-        "size": 17266,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-10-28T20:54:46+00:00",
-        "pushed": "2024-10-28T20:51:50+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -13273,19 +13221,6 @@
         "id": 190029235
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 1,
-        "forks": 2,
-        "size": 365,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2024-10-30T15:32:58+00:00",
-        "pushed": "2024-10-30T15:31:35+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "litedhrystone",
         "description": "Run the Dhrystone benchmark on LiteX",
         "owner": "pepijndevos",
@@ -13364,19 +13299,6 @@
         "id": 434342707
     },
     {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 63,
-        "forks": 22,
-        "size": 108723,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-10-30T16:01:55+00:00",
-        "pushed": "2024-11-01T04:46:07+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -13414,19 +13336,6 @@
         "pushed": "2024-11-01T05:33:10+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 15,
-        "size": 39675,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-11-01T19:35:23+00:00",
-        "pushed": "2024-11-01T19:46:35+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "eurorack-pmod",
@@ -13481,32 +13390,6 @@
         "id": 274442284
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 840,
-        "forks": 75,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-03T19:56:30+00:00",
-        "pushed": "2024-11-04T02:17:48+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 58,
-        "forks": 22,
-        "size": 77775,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-11-03T20:58:30+00:00",
-        "pushed": "2024-11-03T20:58:27+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -13518,32 +13401,6 @@
         "pushed": "2024-11-03T19:11:36+00:00",
         "url": "https://github.com/buncram/cram-soc",
         "id": 564480301
-    },
-    {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 5,
-        "forks": 1,
-        "size": 35390,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-03T02:00:14+00:00",
-        "pushed": "2024-11-04T01:37:16+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 231,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-03T09:07:25+00:00",
-        "pushed": "2024-11-03T09:07:21+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
     },
     {
         "repo": "streams",
@@ -13572,15 +13429,158 @@
         "id": 237940918
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2988,
+        "forks": 566,
+        "size": 17275,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-11-05T00:40:52+00:00",
+        "pushed": "2024-11-04T13:34:38+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 840,
+        "forks": 75,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-03T19:56:30+00:00",
+        "pushed": "2024-11-05T02:22:09+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 58,
+        "forks": 22,
+        "size": 77777,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-11-03T20:58:30+00:00",
+        "pushed": "2024-11-04T22:36:57+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "litespi",
+        "description": "Small footprint and configurable SPI core",
+        "owner": "litex-hub",
+        "stars": 39,
+        "forks": 24,
+        "size": 225,
+        "created": "2020-03-29T10:14:20+00:00",
+        "updated": "2024-11-04T13:11:52+00:00",
+        "pushed": "2024-11-04T13:11:47+00:00",
+        "url": "https://github.com/litex-hub/litespi",
+        "id": 251003436
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 60,
+        "forks": 7,
+        "size": 6671,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-11-04T08:46:45+00:00",
+        "pushed": "2024-11-04T08:46:42+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 37,
+        "forks": 15,
+        "size": 39678,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-11-04T22:03:19+00:00",
+        "pushed": "2024-11-04T19:01:54+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 65,
+        "forks": 22,
+        "size": 108749,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-11-05T02:25:35+00:00",
+        "pushed": "2024-11-05T02:25:33+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 1,
+        "forks": 2,
+        "size": 418,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2024-11-04T08:38:23+00:00",
+        "pushed": "2024-11-04T08:38:19+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 5,
+        "forks": 1,
+        "size": 35388,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-03T02:00:14+00:00",
+        "pushed": "2024-11-05T01:26:00+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
+        "repo": "pogobot-sdk",
+        "description": "SDK for the Pogobot open-source open-hardware robotic platform for swarm robotics",
+        "owner": "nekonaute",
+        "stars": 1,
+        "forks": 1,
+        "size": 63801,
+        "created": "2022-06-20T14:00:20+00:00",
+        "updated": "2024-11-04T15:52:47+00:00",
+        "pushed": "2024-11-04T15:52:41+00:00",
+        "url": "https://github.com/nekonaute/pogobot-sdk",
+        "id": 505464815
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 2,
+        "forks": 0,
+        "size": 232,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-11-04T10:28:06+00:00",
+        "pushed": "2024-11-04T10:28:02+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1419,
+        "size": 1506,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-04T04:35:45+00:00",
-        "pushed": "2024-11-04T04:35:42+00:00",
+        "updated": "2024-11-05T04:35:43+00:00",
+        "pushed": "2024-11-05T04:35:40+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13590,10 +13590,10 @@
         "owner": "hiifong",
         "stars": 10,
         "forks": 2,
-        "size": 79488,
+        "size": 70089,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-04T03:33:35+00:00",
-        "pushed": "2024-11-04T03:33:31+00:00",
+        "updated": "2024-11-05T03:28:57+00:00",
+        "pushed": "2024-11-05T03:28:53+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
