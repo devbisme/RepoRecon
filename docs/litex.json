@@ -12558,19 +12558,6 @@
         "id": 283207003
     },
     {
-        "repo": "litex-feedstock",
-        "description": "A conda-smithy repository for litex.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 2,
-        "size": 30,
-        "created": "2023-03-24T15:52:53+00:00",
-        "updated": "2024-09-27T15:02:25+00:00",
-        "pushed": "2024-09-27T15:02:21+00:00",
-        "url": "https://github.com/conda-forge/litex-feedstock",
-        "id": 618501910
-    },
-    {
         "repo": "robo-perf",
         "description": "Upgrading robotics software using profiling, tracing, and automated debugging (target ARM-Cortex)",
         "owner": "abisop",
@@ -12623,19 +12610,6 @@
         "id": 864583622
     },
     {
-        "repo": "litespi-feedstock",
-        "description": "A conda-smithy repository for litespi.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 21,
-        "created": "2024-04-29T19:14:13+00:00",
-        "updated": "2024-10-01T13:34:33+00:00",
-        "pushed": "2024-10-01T13:34:28+00:00",
-        "url": "https://github.com/conda-forge/litespi-feedstock",
-        "id": 793735929
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -12673,19 +12647,6 @@
         "pushed": "2024-10-06T05:20:57+00:00",
         "url": "https://github.com/wuxx/Colorlight-FPGA-Projects",
         "id": 293705373
-    },
-    {
-        "repo": "lakritz",
-        "description": "Lakritz Computer",
-        "owner": "machdyne",
-        "stars": 0,
-        "forks": 0,
-        "size": 3439,
-        "created": "2024-06-17T08:13:42+00:00",
-        "updated": "2024-10-05T20:22:01+00:00",
-        "pushed": "2024-10-05T20:21:57+00:00",
-        "url": "https://github.com/machdyne/lakritz",
-        "id": 816189694
     },
     {
         "repo": "amaranth-awesome",
@@ -13273,19 +13234,6 @@
         "id": 881077264
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 468,
-        "forks": 119,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-10-25T11:04:28+00:00",
-        "pushed": "2024-11-01T02:31:02+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -13310,19 +13258,6 @@
         "pushed": "2024-11-01T00:16:10+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
-    },
-    {
-        "repo": "litexwan",
-        "description": null,
-        "owner": "scriswan",
-        "stars": 0,
-        "forks": 0,
-        "size": 10109,
-        "created": "2024-10-02T16:40:53+00:00",
-        "updated": "2024-11-01T04:51:37+00:00",
-        "pushed": "2024-11-01T04:51:34+00:00",
-        "url": "https://github.com/scriswan/litexwan",
-        "id": 866657482
     },
     {
         "repo": "awesome-stars",
@@ -13429,32 +13364,6 @@
         "id": 237940918
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 2988,
-        "forks": 566,
-        "size": 17275,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-11-05T00:40:52+00:00",
-        "pushed": "2024-11-04T13:34:38+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 840,
-        "forks": 75,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-03T19:56:30+00:00",
-        "pushed": "2024-11-05T02:22:09+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -13494,19 +13403,6 @@
         "id": 800027977
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 15,
-        "size": 39678,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-11-04T22:03:19+00:00",
-        "pushed": "2024-11-04T19:01:54+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13533,19 +13429,6 @@
         "id": 787406556
     },
     {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 5,
-        "forks": 1,
-        "size": 35388,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-03T02:00:14+00:00",
-        "pushed": "2024-11-05T01:26:00+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
-    },
-    {
         "repo": "pogobot-sdk",
         "description": "SDK for the Pogobot open-source open-hardware robotic platform for swarm robotics",
         "owner": "nekonaute",
@@ -13559,15 +13442,132 @@
         "id": 505464815
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 2989,
+        "forks": 567,
+        "size": 17281,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-11-05T16:33:40+00:00",
+        "pushed": "2024-11-05T16:33:36+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 841,
+        "forks": 75,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-05T11:17:27+00:00",
+        "pushed": "2024-11-06T02:20:40+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 469,
+        "forks": 120,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-11-05T16:28:32+00:00",
+        "pushed": "2024-11-06T02:25:22+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 37,
+        "forks": 15,
+        "size": 41097,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-11-05T10:06:47+00:00",
+        "pushed": "2024-11-05T19:45:51+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "litex-feedstock",
+        "description": "A conda-smithy repository for litex.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 2,
+        "size": 30,
+        "created": "2023-03-24T15:52:53+00:00",
+        "updated": "2024-11-06T01:44:55+00:00",
+        "pushed": "2024-11-06T01:44:51+00:00",
+        "url": "https://github.com/conda-forge/litex-feedstock",
+        "id": 618501910
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 5,
+        "forks": 1,
+        "size": 35388,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-03T02:00:14+00:00",
+        "pushed": "2024-11-06T01:25:32+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
+        "repo": "litexwan",
+        "description": null,
+        "owner": "scriswan",
+        "stars": 0,
+        "forks": 0,
+        "size": 10119,
+        "created": "2024-10-02T16:40:53+00:00",
+        "updated": "2024-11-05T11:14:55+00:00",
+        "pushed": "2024-11-05T11:14:51+00:00",
+        "url": "https://github.com/scriswan/litexwan",
+        "id": 866657482
+    },
+    {
+        "repo": "lakritz",
+        "description": "Lakritz Computer",
+        "owner": "machdyne",
+        "stars": 0,
+        "forks": 0,
+        "size": 3439,
+        "created": "2024-06-17T08:13:42+00:00",
+        "updated": "2024-11-06T06:08:15+00:00",
+        "pushed": "2024-11-06T06:08:12+00:00",
+        "url": "https://github.com/machdyne/lakritz",
+        "id": 816189694
+    },
+    {
+        "repo": "litespi-feedstock",
+        "description": "A conda-smithy repository for litespi.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 22,
+        "created": "2024-04-29T19:14:13+00:00",
+        "updated": "2024-11-06T04:16:20+00:00",
+        "pushed": "2024-11-06T04:16:17+00:00",
+        "url": "https://github.com/conda-forge/litespi-feedstock",
+        "id": 793735929
+    },
+    {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
         "description": null,
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 232,
+        "size": 233,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-04T10:28:06+00:00",
-        "pushed": "2024-11-04T10:28:02+00:00",
+        "updated": "2024-11-05T09:05:58+00:00",
+        "pushed": "2024-11-05T09:05:54+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
     },
@@ -13577,10 +13577,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1506,
+        "size": 1592,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-05T04:35:43+00:00",
-        "pushed": "2024-11-05T04:35:40+00:00",
+        "updated": "2024-11-06T04:35:51+00:00",
+        "pushed": "2024-11-06T04:35:48+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13590,10 +13590,10 @@
         "owner": "hiifong",
         "stars": 10,
         "forks": 2,
-        "size": 70089,
+        "size": 70558,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-05T03:28:57+00:00",
-        "pushed": "2024-11-05T03:28:53+00:00",
+        "updated": "2024-11-06T03:28:26+00:00",
+        "pushed": "2024-11-06T03:28:22+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

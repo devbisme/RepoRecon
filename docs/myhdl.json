@@ -5070,19 +5070,6 @@
         "id": 811951673
     },
     {
-        "repo": "myhdl-feedstock",
-        "description": "A conda-smithy repository for myhdl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 33,
-        "created": "2021-01-10T19:57:49+00:00",
-        "updated": "2024-06-14T11:52:15+00:00",
-        "pushed": "2024-06-14T11:52:12+00:00",
-        "url": "https://github.com/conda-forge/myhdl-feedstock",
-        "id": 328467543
-    },
-    {
         "repo": "awesome-hpc-cuda-fpga",
         "description": "\ud83d\udd25\ud83d\udd25\ud83d\udd25 A collection of some awesome public High Performance Computing (HPC), NVIDIA CUDA, cuBLAS, TensorRT, AMD ROCm and FPGA projects.",
         "owner": "codingonion",
@@ -5484,5 +5471,18 @@
         "pushed": "2024-11-02T12:40:42+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "myhdl-feedstock",
+        "description": "A conda-smithy repository for myhdl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 33,
+        "created": "2021-01-10T19:57:49+00:00",
+        "updated": "2024-11-05T20:40:31+00:00",
+        "pushed": "2024-11-05T20:40:25+00:00",
+        "url": "https://github.com/conda-forge/myhdl-feedstock",
+        "id": 328467543
     }
 ]
