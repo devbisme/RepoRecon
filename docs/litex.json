@@ -12857,19 +12857,6 @@
         "id": 875668578
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 7,
-        "forks": 4,
-        "size": 301,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-10-22T02:51:06+00:00",
-        "pushed": "2024-10-22T02:51:02+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "colorlight-eth",
         "description": "Ethernet interface for the colorlight i5 and i9 breakout boards",
         "owner": "DaveBerkeley",
@@ -13299,19 +13286,6 @@
         "id": 237940918
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 58,
-        "forks": 22,
-        "size": 77777,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2024-11-03T20:58:30+00:00",
-        "pushed": "2024-11-04T22:36:57+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "litespi",
         "description": "Small footprint and configurable SPI core",
         "owner": "litex-hub",
@@ -13336,19 +13310,6 @@
         "pushed": "2024-11-04T08:46:42+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 65,
-        "forks": 22,
-        "size": 108749,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-11-05T02:25:35+00:00",
-        "pushed": "2024-11-05T02:25:33+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "pogobot-sdk",
@@ -13429,19 +13390,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 841,
-        "forks": 75,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-05T11:17:27+00:00",
-        "pushed": "2024-11-07T02:20:42+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13453,32 +13401,6 @@
         "pushed": "2024-11-07T02:26:05+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1589,
-        "forks": 224,
-        "size": 216593,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-11-06T21:34:26+00:00",
-        "pushed": "2024-11-06T21:36:20+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 15,
-        "size": 41104,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-11-05T10:06:47+00:00",
-        "pushed": "2024-11-06T15:32:27+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "eurorack-pmod",
@@ -13507,19 +13429,6 @@
         "id": 787406556
     },
     {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 5,
-        "forks": 1,
-        "size": 35391,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-03T02:00:14+00:00",
-        "pushed": "2024-11-07T01:26:01+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
-    },
-    {
         "repo": "Capstone_Project",
         "description": null,
         "owner": "cherguihakim",
@@ -13531,19 +13440,6 @@
         "pushed": "2024-11-07T00:02:26+00:00",
         "url": "https://github.com/cherguihakim/Capstone_Project",
         "id": 867323018
-    },
-    {
-        "repo": "litexwan",
-        "description": null,
-        "owner": "scriswan",
-        "stars": 0,
-        "forks": 0,
-        "size": 11601,
-        "created": "2024-10-02T16:40:53+00:00",
-        "updated": "2024-11-06T09:46:08+00:00",
-        "pushed": "2024-11-06T09:46:04+00:00",
-        "url": "https://github.com/scriswan/litexwan",
-        "id": 866657482
     },
     {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
@@ -13559,19 +13455,6 @@
         "id": 833422784
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1593,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-07T04:35:56+00:00",
-        "pushed": "2024-11-07T04:35:53+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -13585,15 +13468,145 @@
         "id": 330793471
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 841,
+        "forks": 75,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-05T11:17:27+00:00",
+        "pushed": "2024-11-08T02:23:51+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 58,
+        "forks": 22,
+        "size": 77754,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2024-11-03T20:58:30+00:00",
+        "pushed": "2024-11-07T22:34:18+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1591,
+        "forks": 225,
+        "size": 216600,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-11-07T19:38:35+00:00",
+        "pushed": "2024-11-07T11:42:34+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 37,
+        "forks": 15,
+        "size": 41115,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-11-05T10:06:47+00:00",
+        "pushed": "2024-11-07T16:06:28+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 7,
+        "forks": 4,
+        "size": 302,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-11-08T02:39:17+00:00",
+        "pushed": "2024-11-08T02:39:14+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 65,
+        "forks": 22,
+        "size": 108750,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-11-05T02:25:35+00:00",
+        "pushed": "2024-11-08T04:46:23+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 5,
+        "forks": 1,
+        "size": 35387,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-03T02:00:14+00:00",
+        "pushed": "2024-11-08T01:26:16+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
+        "repo": "litexwan",
+        "description": null,
+        "owner": "scriswan",
+        "stars": 0,
+        "forks": 0,
+        "size": 11603,
+        "created": "2024-10-02T16:40:53+00:00",
+        "updated": "2024-11-07T16:21:52+00:00",
+        "pushed": "2024-11-07T16:21:48+00:00",
+        "url": "https://github.com/scriswan/litexwan",
+        "id": 866657482
+    },
+    {
+        "repo": "LiteXDR",
+        "description": null,
+        "owner": "jkatz01",
+        "stars": 0,
+        "forks": 0,
+        "size": 19210,
+        "created": "2023-06-28T02:46:37+00:00",
+        "updated": "2024-11-08T03:48:20+00:00",
+        "pushed": "2024-11-08T03:48:15+00:00",
+        "url": "https://github.com/jkatz01/LiteXDR",
+        "id": 659521415
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1595,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-11-08T04:35:34+00:00",
+        "pushed": "2024-11-08T04:35:31+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 10,
         "forks": 2,
-        "size": 71028,
+        "size": 71511,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-07T03:31:01+00:00",
-        "pushed": "2024-11-07T03:30:57+00:00",
+        "updated": "2024-11-08T03:29:03+00:00",
+        "pushed": "2024-11-08T03:28:59+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
