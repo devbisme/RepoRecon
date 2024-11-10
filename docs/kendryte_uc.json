@@ -40092,19 +40092,6 @@
         "id": 722305838
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 19,
-        "forks": 2,
-        "size": 51267,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-11-06T19:59:46+00:00",
-        "pushed": "2024-11-06T19:59:43+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "os",
         "description": null,
         "owner": "morrezhao",
@@ -40129,19 +40116,6 @@
         "pushed": "2024-11-07T05:47:05+00:00",
         "url": "https://github.com/MrHeiH/xv6-main",
         "id": 884598544
-    },
-    {
-        "repo": "MaixHolmes",
-        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
-        "owner": "MaixHolmes",
-        "stars": 0,
-        "forks": 0,
-        "size": 1,
-        "created": "2024-11-07T02:54:02+00:00",
-        "updated": "2024-11-07T02:54:05+00:00",
-        "pushed": "2024-11-07T02:54:02+00:00",
-        "url": "https://github.com/MaixHolmes/MaixHolmes",
-        "id": 884588946
     },
     {
         "repo": "biol211",
@@ -40220,19 +40194,6 @@
         "pushed": "2024-11-01T08:55:36+00:00",
         "url": "https://github.com/ophub/flippy-openwrt-actions",
         "id": 360045993
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10508,
-        "forks": 5027,
-        "size": 887413,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-11-07T17:26:33+00:00",
-        "pushed": "2024-11-08T01:22:57+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "muriscv-nn",
@@ -40378,19 +40339,6 @@
         "id": 146167925
     },
     {
-        "repo": "FARMSIGHT-autonomus-rover",
-        "description": "I am building an autonomous rover designed to contribute to modern farming through real-time, on-the-go data processing and analysis, powered by the Sipeed Maxduino",
-        "owner": "pxvn",
-        "stars": 0,
-        "forks": 0,
-        "size": 857,
-        "created": "2024-09-23T09:40:28+00:00",
-        "updated": "2024-11-08T10:20:02+00:00",
-        "pushed": "2024-11-08T10:19:59+00:00",
-        "url": "https://github.com/pxvn/FARMSIGHT-autonomus-rover",
-        "id": 861654327
-    },
-    {
         "repo": "emakefun-docsify",
         "description": null,
         "owner": "emakefun",
@@ -40430,15 +40378,80 @@
         "id": 885286309
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10517,
+        "forks": 5029,
+        "size": 887426,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-11-10T06:18:50+00:00",
+        "pushed": "2024-11-10T00:01:11+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 20,
+        "forks": 2,
+        "size": 51269,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-11-09T21:35:48+00:00",
+        "pushed": "2024-11-09T21:35:46+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "MaixHolmes",
+        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
+        "owner": "MaixHolmes",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2024-11-07T02:54:02+00:00",
+        "updated": "2024-11-10T02:54:07+00:00",
+        "pushed": "2024-11-10T02:54:04+00:00",
+        "url": "https://github.com/MaixHolmes/MaixHolmes",
+        "id": 884588946
+    },
+    {
+        "repo": "android_kernel_samsung_sma155f",
+        "description": "Samsung Mobile kernel source for sma155f devices (MediaTek Helio G99)",
+        "owner": "poqdavid",
+        "stars": 0,
+        "forks": 0,
+        "size": 761425,
+        "created": "2024-11-09T09:07:59+00:00",
+        "updated": "2024-11-09T23:25:22+00:00",
+        "pushed": "2024-11-09T23:25:18+00:00",
+        "url": "https://github.com/poqdavid/android_kernel_samsung_sma155f",
+        "id": 885738802
+    },
+    {
+        "repo": "FARMSIGHT-autonomus-rover",
+        "description": "I am building an autonomous rover designed to contribute to modern farming through real-time, on-the-go data processing and analysis, powered by the Sipeed Maxduino",
+        "owner": "pxvn",
+        "stars": 0,
+        "forks": 0,
+        "size": 868,
+        "created": "2024-09-23T09:40:28+00:00",
+        "updated": "2024-11-09T15:02:02+00:00",
+        "pushed": "2024-11-09T15:02:00+00:00",
+        "url": "https://github.com/pxvn/FARMSIGHT-autonomus-rover",
+        "id": 861654327
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 128,
         "forks": 36,
-        "size": 796274,
+        "size": 796276,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-11-08T12:31:20+00:00",
-        "pushed": "2024-11-08T12:31:16+00:00",
+        "updated": "2024-11-09T12:28:25+00:00",
+        "pushed": "2024-11-09T12:28:20+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
