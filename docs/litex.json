@@ -11310,19 +11310,6 @@
         "id": 196820841
     },
     {
-        "repo": "orangecrab-hardware",
-        "description": "ECP5 breakout board in a feather physical format",
-        "owner": "orangecrab-fpga",
-        "stars": 466,
-        "forks": 55,
-        "size": 44491,
-        "created": "2019-06-26T05:37:32+00:00",
-        "updated": "2024-05-07T22:35:08+00:00",
-        "pushed": "2024-05-07T22:35:04+00:00",
-        "url": "https://github.com/orangecrab-fpga/orangecrab-hardware",
-        "id": 193836334
-    },
-    {
         "repo": "a2o",
         "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue.  It is now being updated for compliancy and integration into open projects.",
         "owner": "OpenPOWERFoundation",
@@ -12454,19 +12441,6 @@
         "id": 730283249
     },
     {
-        "repo": "digital-design-dataset",
-        "description": null,
-        "owner": "stefanpie",
-        "stars": 0,
-        "forks": 0,
-        "size": 3872,
-        "created": "2022-09-03T21:39:38+00:00",
-        "updated": "2024-09-24T22:14:50+00:00",
-        "pushed": "2024-09-24T22:14:46+00:00",
-        "url": "https://github.com/stefanpie/digital-design-dataset",
-        "id": 532379641
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -12725,19 +12699,6 @@
         "pushed": "2024-10-15T14:05:21+00:00",
         "url": "https://github.com/enjoy-digital/litepcie_ptm_test",
         "id": 632955985
-    },
-    {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1410,
-        "forks": 186,
-        "size": 12917,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-10-17T12:34:21+00:00",
-        "pushed": "2024-10-17T12:34:17+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
     },
     {
         "repo": "LitexTang9KExperiments",
@@ -13429,19 +13390,6 @@
         "id": 191191221
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 470,
-        "forks": 120,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-11-07T21:40:56+00:00",
-        "pushed": "2024-11-09T02:22:47+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -13507,19 +13455,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 842,
-        "forks": 76,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-08T21:42:56+00:00",
-        "pushed": "2024-11-10T02:17:37+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -13531,32 +13466,6 @@
         "pushed": "2024-11-10T00:06:12+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 15,
-        "size": 41133,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-11-05T10:06:47+00:00",
-        "pushed": "2024-11-09T13:54:39+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 5,
-        "forks": 1,
-        "size": 35386,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-03T02:00:14+00:00",
-        "pushed": "2024-11-10T01:37:51+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
     },
     {
         "repo": "kirsch",
@@ -13585,6 +13494,84 @@
         "id": 793871326
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 843,
+        "forks": 76,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-10T10:34:16+00:00",
+        "pushed": "2024-11-11T02:29:54+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 470,
+        "forks": 120,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-11-07T21:40:56+00:00",
+        "pushed": "2024-11-11T02:27:18+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "orangecrab-hardware",
+        "description": "ECP5 breakout board in a feather physical format",
+        "owner": "orangecrab-fpga",
+        "stars": 490,
+        "forks": 59,
+        "size": 45504,
+        "created": "2019-06-26T05:37:32+00:00",
+        "updated": "2024-11-10T23:21:08+00:00",
+        "pushed": "2024-11-06T06:08:53+00:00",
+        "url": "https://github.com/orangecrab-fpga/orangecrab-hardware",
+        "id": 193836334
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1437,
+        "forks": 189,
+        "size": 12917,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-11-11T06:43:06+00:00",
+        "pushed": "2024-11-11T06:43:01+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 37,
+        "forks": 15,
+        "size": 41223,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-11-10T11:38:45+00:00",
+        "pushed": "2024-11-10T19:31:59+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 5,
+        "forks": 1,
+        "size": 35389,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-03T02:00:14+00:00",
+        "pushed": "2024-11-11T01:27:39+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
         "repo": "crystal-soc-with-litex",
         "description": null,
         "owner": "RaymondMeng",
@@ -13592,10 +13579,23 @@
         "forks": 0,
         "size": 86951,
         "created": "2024-11-08T12:57:58+00:00",
-        "updated": "2024-11-09T16:37:59+00:00",
-        "pushed": "2024-11-09T16:37:54+00:00",
+        "updated": "2024-11-11T06:32:10+00:00",
+        "pushed": "2024-11-11T06:32:06+00:00",
         "url": "https://github.com/RaymondMeng/crystal-soc-with-litex",
         "id": 885366363
+    },
+    {
+        "repo": "FFTonRiscV",
+        "description": "Based on SpinalHDL and litex. Run FFT on Gowin FPGA.",
+        "owner": "watermeko",
+        "stars": 0,
+        "forks": 0,
+        "size": 13109,
+        "created": "2024-11-10T22:21:23+00:00",
+        "updated": "2024-11-11T00:19:24+00:00",
+        "pushed": "2024-11-11T00:19:20+00:00",
+        "url": "https://github.com/watermeko/FFTonRiscV",
+        "id": 886400401
     },
     {
         "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
@@ -13603,12 +13603,25 @@
         "owner": "malloc-realloc",
         "stars": 2,
         "forks": 0,
-        "size": 237,
+        "size": 238,
         "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-09T07:33:12+00:00",
-        "pushed": "2024-11-09T07:33:09+00:00",
+        "updated": "2024-11-10T11:29:09+00:00",
+        "pushed": "2024-11-10T11:29:05+00:00",
         "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
         "id": 833422784
+    },
+    {
+        "repo": "digital-design-dataset",
+        "description": null,
+        "owner": "stefanpie",
+        "stars": 0,
+        "forks": 0,
+        "size": 3875,
+        "created": "2022-09-03T21:39:38+00:00",
+        "updated": "2024-11-11T04:37:15+00:00",
+        "pushed": "2024-11-11T04:37:11+00:00",
+        "url": "https://github.com/stefanpie/digital-design-dataset",
+        "id": 532379641
     },
     {
         "repo": "starred",
@@ -13616,10 +13629,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1717,
+        "size": 1718,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-10T04:35:07+00:00",
-        "pushed": "2024-11-10T04:35:04+00:00",
+        "updated": "2024-11-11T04:35:27+00:00",
+        "pushed": "2024-11-11T04:35:24+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13629,10 +13642,10 @@
         "owner": "hiifong",
         "stars": 10,
         "forks": 2,
-        "size": 72469,
+        "size": 72931,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-10T03:29:14+00:00",
-        "pushed": "2024-11-10T03:29:10+00:00",
+        "updated": "2024-11-11T03:30:03+00:00",
+        "pushed": "2024-11-11T03:29:59+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

@@ -40053,19 +40053,6 @@
         "id": 188584527
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 5,
-        "forks": 1,
-        "size": 2648,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-11-06T01:56:16+00:00",
-        "pushed": "2024-11-06T01:56:12+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
         "repo": "k230_sdk",
         "description": "Kendryte K230 SDK",
         "owner": "kendryte",
@@ -40142,32 +40129,6 @@
         "pushed": "2024-11-07T01:58:28+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 748,
-        "forks": 181,
-        "size": 59544,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-11-08T05:40:15+00:00",
-        "pushed": "2024-11-08T06:55:00+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 15,
-        "forks": 7,
-        "size": 34343,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-11-08T06:46:21+00:00",
-        "pushed": "2024-11-08T06:46:18+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
     },
     {
         "repo": "MaixCDK",
@@ -40274,19 +40235,6 @@
         "id": 879466173
     },
     {
-        "repo": "maixhashi-zenn-contents",
-        "description": null,
-        "owner": "maixhashi",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2024-11-05T12:46:01+00:00",
-        "updated": "2024-11-07T22:21:55+00:00",
-        "pushed": "2024-11-07T22:21:52+00:00",
-        "url": "https://github.com/maixhashi/maixhashi-zenn-contents",
-        "id": 883708840
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -40378,32 +40326,6 @@
         "id": 885286309
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10517,
-        "forks": 5029,
-        "size": 887426,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-11-10T06:18:50+00:00",
-        "pushed": "2024-11-10T00:01:11+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 20,
-        "forks": 2,
-        "size": 51269,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-11-09T21:35:48+00:00",
-        "pushed": "2024-11-09T21:35:46+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "MaixHolmes",
         "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
         "owner": "MaixHolmes",
@@ -40415,19 +40337,6 @@
         "pushed": "2024-11-10T02:54:04+00:00",
         "url": "https://github.com/MaixHolmes/MaixHolmes",
         "id": 884588946
-    },
-    {
-        "repo": "android_kernel_samsung_sma155f",
-        "description": "Samsung Mobile kernel source for sma155f devices (MediaTek Helio G99)",
-        "owner": "poqdavid",
-        "stars": 0,
-        "forks": 0,
-        "size": 761425,
-        "created": "2024-11-09T09:07:59+00:00",
-        "updated": "2024-11-09T23:25:22+00:00",
-        "pushed": "2024-11-09T23:25:18+00:00",
-        "url": "https://github.com/poqdavid/android_kernel_samsung_sma155f",
-        "id": 885738802
     },
     {
         "repo": "FARMSIGHT-autonomus-rover",
@@ -40443,15 +40352,119 @@
         "id": 861654327
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 748,
+        "forks": 182,
+        "size": 59608,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-11-08T05:40:15+00:00",
+        "pushed": "2024-11-11T07:05:43+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 16,
+        "forks": 7,
+        "size": 34350,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-11-11T06:16:59+00:00",
+        "pushed": "2024-11-11T06:16:55+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10521,
+        "forks": 5030,
+        "size": 887443,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-11-11T06:15:13+00:00",
+        "pushed": "2024-11-11T01:36:35+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 20,
+        "forks": 2,
+        "size": 51271,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-11-11T02:18:58+00:00",
+        "pushed": "2024-11-11T02:18:55+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "maixhashi-zenn-contents",
+        "description": null,
+        "owner": "maixhashi",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2024-11-05T12:46:01+00:00",
+        "updated": "2024-11-10T19:07:44+00:00",
+        "pushed": "2024-11-10T19:07:41+00:00",
+        "url": "https://github.com/maixhashi/maixhashi-zenn-contents",
+        "id": 883708840
+    },
+    {
+        "repo": "android_kernel_samsung_sma155f",
+        "description": "Samsung Mobile kernel source for sma155f devices (MediaTek Helio G99)",
+        "owner": "poqdavid",
+        "stars": 0,
+        "forks": 0,
+        "size": 792663,
+        "created": "2024-11-09T09:07:59+00:00",
+        "updated": "2024-11-10T13:14:07+00:00",
+        "pushed": "2024-11-10T13:35:11+00:00",
+        "url": "https://github.com/poqdavid/android_kernel_samsung_sma155f",
+        "id": 885738802
+    },
+    {
+        "repo": "bsp-MilkvDuo-xx",
+        "description": null,
+        "owner": "heyuanjie87",
+        "stars": 0,
+        "forks": 0,
+        "size": 657,
+        "created": "2024-09-09T06:16:41+00:00",
+        "updated": "2024-11-10T14:30:30+00:00",
+        "pushed": "2024-11-10T14:30:27+00:00",
+        "url": "https://github.com/heyuanjie87/bsp-MilkvDuo-xx",
+        "id": 854417738
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 5,
+        "forks": 1,
+        "size": 2822,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-11-11T01:58:47+00:00",
+        "pushed": "2024-11-11T01:58:44+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 128,
         "forks": 36,
-        "size": 796276,
+        "size": 796277,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-11-09T12:28:25+00:00",
-        "pushed": "2024-11-09T12:28:20+00:00",
+        "updated": "2024-11-10T12:28:03+00:00",
+        "pushed": "2024-11-10T12:27:59+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
