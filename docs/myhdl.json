@@ -4433,19 +4433,6 @@
         "id": 154458175
     },
     {
-        "repo": "awesome-hwd-tools",
-        "description": "A curated list of awesome open source hardware design tools",
-        "owner": "TM90",
-        "stars": 56,
-        "forks": 8,
-        "size": 57,
-        "created": "2018-11-24T11:13:39+00:00",
-        "updated": "2024-02-07T15:25:36+00:00",
-        "pushed": "2024-02-08T10:18:59+00:00",
-        "url": "https://github.com/TM90/awesome-hwd-tools",
-        "id": 158928501
-    },
-    {
         "repo": "vcd-samples",
         "description": "sample VCD files",
         "owner": "wavedrom",
@@ -5484,5 +5471,18 @@
         "pushed": "2024-11-05T20:40:25+00:00",
         "url": "https://github.com/conda-forge/myhdl-feedstock",
         "id": 328467543
+    },
+    {
+        "repo": "awesome-hwd-tools",
+        "description": "A curated list of awesome open source hardware design tools",
+        "owner": "TM90",
+        "stars": 70,
+        "forks": 8,
+        "size": 60,
+        "created": "2018-11-24T11:13:39+00:00",
+        "updated": "2024-11-12T13:09:22+00:00",
+        "pushed": "2024-11-12T13:09:19+00:00",
+        "url": "https://github.com/TM90/awesome-hwd-tools",
+        "id": 158928501
     }
 ]
