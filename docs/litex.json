@@ -12857,19 +12857,6 @@
         "id": 876022495
     },
     {
-        "repo": "processor-ci",
-        "description": "CI/CD for RISC-V Cores",
-        "owner": "LSC-Unicamp",
-        "stars": 5,
-        "forks": 0,
-        "size": 510,
-        "created": "2023-12-11T22:52:11+00:00",
-        "updated": "2024-10-23T03:00:02+00:00",
-        "pushed": "2024-10-23T02:59:58+00:00",
-        "url": "https://github.com/LSC-Unicamp/processor-ci",
-        "id": 730429159
-    },
-    {
         "repo": "PathView",
         "description": "An open-source tool for visualizing and analyzing timing paths extracted from Static Timing Analysis (STA) reports.",
         "owner": "kanndil",
@@ -13299,19 +13286,6 @@
         "id": 784979558
     },
     {
-        "repo": "LiteXDR",
-        "description": null,
-        "owner": "jkatz01",
-        "stars": 0,
-        "forks": 0,
-        "size": 19210,
-        "created": "2023-06-28T02:46:37+00:00",
-        "updated": "2024-11-08T03:48:20+00:00",
-        "pushed": "2024-11-08T03:48:15+00:00",
-        "url": "https://github.com/jkatz01/LiteXDR",
-        "id": 659521415
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -13520,19 +13494,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 852,
-        "forks": 76,
-        "size": 1212,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-14T03:01:08+00:00",
-        "pushed": "2024-11-14T02:25:00+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -13546,19 +13507,6 @@
         "id": 464657430
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 15,
-        "size": 43028,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-11-13T15:21:59+00:00",
-        "pushed": "2024-11-13T15:36:31+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13570,19 +13518,6 @@
         "pushed": "2024-11-14T05:05:18+00:00",
         "url": "https://github.com/os-fpga/Raptor",
         "id": 465199162
-    },
-    {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 5,
-        "forks": 1,
-        "size": 35388,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-03T02:00:14+00:00",
-        "pushed": "2024-11-14T01:26:56+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
     },
     {
         "repo": "ork.build",
@@ -13624,19 +13559,6 @@
         "id": 793871326
     },
     {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 245,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-13T12:41:33+00:00",
-        "pushed": "2024-11-13T12:41:29+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
         "repo": "digital-design-dataset",
         "description": null,
         "owner": "stefanpie",
@@ -13650,15 +13572,106 @@
         "id": 532379641
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 854,
+        "forks": 76,
+        "size": 1212,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-14T17:03:21+00:00",
+        "pushed": "2024-11-15T02:31:41+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 37,
+        "forks": 15,
+        "size": 43093,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-11-13T15:21:59+00:00",
+        "pushed": "2024-11-14T16:07:54+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
+        "owner": "malloc-realloc",
+        "stars": 17,
+        "forks": 0,
+        "size": 826,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-11-14T14:01:53+00:00",
+        "pushed": "2024-11-14T08:03:46+00:00",
+        "url": "https://github.com/malloc-realloc/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 5,
+        "forks": 1,
+        "size": 35389,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-03T02:00:14+00:00",
+        "pushed": "2024-11-15T01:40:01+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
+        "repo": "LiteXDR",
+        "description": "Event detection/response system for Windows designed to keep server costs light.",
+        "owner": "jkatz01",
+        "stars": 0,
+        "forks": 0,
+        "size": 19213,
+        "created": "2023-06-28T02:46:37+00:00",
+        "updated": "2024-11-14T23:15:14+00:00",
+        "pushed": "2024-11-14T23:13:10+00:00",
+        "url": "https://github.com/jkatz01/LiteXDR",
+        "id": 659521415
+    },
+    {
+        "repo": "processor-ci",
+        "description": "CI/CD for RISC-V Cores",
+        "owner": "LSC-Unicamp",
+        "stars": 5,
+        "forks": 0,
+        "size": 579,
+        "created": "2023-12-11T22:52:11+00:00",
+        "updated": "2024-11-14T21:17:21+00:00",
+        "pushed": "2024-11-14T21:17:18+00:00",
+        "url": "https://github.com/LSC-Unicamp/processor-ci",
+        "id": 730429159
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 2,
+        "forks": 0,
+        "size": 245,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-11-14T09:09:28+00:00",
+        "pushed": "2024-11-14T09:09:24+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1842,
+        "size": 1843,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-14T04:36:29+00:00",
-        "pushed": "2024-11-14T04:36:25+00:00",
+        "updated": "2024-11-15T04:36:56+00:00",
+        "pushed": "2024-11-15T04:36:52+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13668,10 +13681,10 @@
         "owner": "hiifong",
         "stars": 10,
         "forks": 3,
-        "size": 74360,
+        "size": 74847,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-14T03:30:13+00:00",
-        "pushed": "2024-11-14T03:30:09+00:00",
+        "updated": "2024-11-15T03:35:43+00:00",
+        "pushed": "2024-11-15T03:35:39+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
