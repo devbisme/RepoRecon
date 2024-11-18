@@ -83785,19 +83785,6 @@
         "id": 857393334
     },
     {
-        "repo": "tt08-verilog-template_01",
-        "description": null,
-        "owner": "jrl-test-053",
-        "stars": 0,
-        "forks": 0,
-        "size": 798,
-        "created": "2024-09-14T17:50:54+00:00",
-        "updated": "2024-09-14T18:12:02+00:00",
-        "pushed": "2024-09-14T18:11:59+00:00",
-        "url": "https://github.com/jrl-test-053/tt08-verilog-template_01",
-        "id": 857455834
-    },
-    {
         "repo": "nasscom_vsd_soc_design_thirupathi",
         "description": null,
         "owner": "THIRUPATHI-959",
@@ -91039,19 +91026,6 @@
         "id": 882931196
     },
     {
-        "repo": "ttihp-conway-termvga",
-        "description": "Tiny Tapeout IHP \u2013 A simulation of Conways' Game of Life visualized to an ANSI terminal over UART and to VGA",
-        "owner": "ccattuto",
-        "stars": 0,
-        "forks": 0,
-        "size": 56,
-        "created": "2024-11-01T09:08:35+00:00",
-        "updated": "2024-11-03T17:35:13+00:00",
-        "pushed": "2024-11-03T17:35:10+00:00",
-        "url": "https://github.com/ccattuto/ttihp-conway-termvga",
-        "id": 881803194
-    },
-    {
         "repo": "ttihp_grayscale_sobel",
         "description": null,
         "owner": "DianaNatali",
@@ -95342,19 +95316,6 @@
         "id": 743274452
     },
     {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 207,
-        "forks": 38,
-        "size": 32250,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-11-10T12:37:01+00:00",
-        "pushed": "2024-11-14T10:37:34+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
         "repo": "asic-design-class",
         "description": null,
         "owner": "VaibhavDachewar",
@@ -95496,19 +95457,6 @@
         "pushed": "2024-11-14T22:13:27+00:00",
         "url": "https://github.com/yashgupta17402/Asic-Design-Flow",
         "id": 838449608
-    },
-    {
-        "repo": "Asic-Design-Class",
-        "description": null,
-        "owner": "Abu-Huzaifa123",
-        "stars": 0,
-        "forks": 0,
-        "size": 429,
-        "created": "2024-07-16T04:24:17+00:00",
-        "updated": "2024-11-15T00:21:32+00:00",
-        "pushed": "2024-11-15T00:21:28+00:00",
-        "url": "https://github.com/Abu-Huzaifa123/Asic-Design-Class",
-        "id": 829252503
     },
     {
         "repo": "ASIC-Design",
@@ -96317,32 +96265,6 @@
         "id": 585468833
     },
     {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1602,
-        "forks": 556,
-        "size": 635075,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-11-17T06:47:29+00:00",
-        "pushed": "2024-11-17T06:47:25+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "Modular hardware build system",
-        "owner": "siliconcompiler",
-        "stars": 861,
-        "forks": 86,
-        "size": 349798,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-11-15T14:20:44+00:00",
-        "pushed": "2024-11-17T00:11:43+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
         "repo": "woset-workshop.github.io",
         "description": "Workshop on Open-Source EDA Technology (WOSET)",
         "owner": "woset-workshop",
@@ -96421,19 +96343,6 @@
         "id": 815815050
     },
     {
-        "repo": "core",
-        "description": "The Openlane core holds the central schema definitions, resolvers, endpoints, and other tooling associated with the openlane product suite",
-        "owner": "theopenlane",
-        "stars": 7,
-        "forks": 3,
-        "size": 13217,
-        "created": "2024-08-24T15:26:59+00:00",
-        "updated": "2024-11-17T05:16:34+00:00",
-        "pushed": "2024-11-17T05:16:31+00:00",
-        "url": "https://github.com/theopenlane/core",
-        "id": 847006986
-    },
-    {
         "repo": "sky130_ef_ip__biasgen",
         "description": "Current bias generator circuit for distributing bias currents to analog circuits.",
         "owner": "RTimothyEdwards",
@@ -96445,19 +96354,6 @@
         "pushed": "2024-11-16T15:10:17+00:00",
         "url": "https://github.com/RTimothyEdwards/sky130_ef_ip__biasgen",
         "id": 805010886
-    },
-    {
-        "repo": "openlane-ui",
-        "description": "the openlane ui - holds openlane console and storybook ",
-        "owner": "theopenlane",
-        "stars": 3,
-        "forks": 0,
-        "size": 11271,
-        "created": "2024-08-29T00:18:18+00:00",
-        "updated": "2024-11-17T03:34:40+00:00",
-        "pushed": "2024-11-16T23:06:29+00:00",
-        "url": "https://github.com/theopenlane/openlane-ui",
-        "id": 849083648
     },
     {
         "repo": "caravel_user_sram",
@@ -96512,19 +96408,6 @@
         "id": 882589742
     },
     {
-        "repo": "tcl9-FPGA_IGNITE_2024",
-        "description": "Adds tcl 9 support for openlan for FPGA_IGNITE_2024",
-        "owner": "cevinclein",
-        "stars": 0,
-        "forks": 0,
-        "size": 10,
-        "created": "2024-11-16T20:06:50+00:00",
-        "updated": "2024-11-17T00:34:22+00:00",
-        "pushed": "2024-11-17T00:34:19+00:00",
-        "url": "https://github.com/cevinclein/tcl9-FPGA_IGNITE_2024",
-        "id": 889627640
-    },
-    {
         "repo": "riverboat",
         "description": "the openlane job queue server based on riverqueue",
         "owner": "theopenlane",
@@ -96536,19 +96419,6 @@
         "pushed": "2024-11-17T05:16:14+00:00",
         "url": "https://github.com/theopenlane/riverboat",
         "id": 859392262
-    },
-    {
-        "repo": "NOT-Gate",
-        "description": "CMOS inverter / NOT Gate using Sky water PDK 130nm Technology",
-        "owner": "ShravanaHS",
-        "stars": 0,
-        "forks": 0,
-        "size": 221,
-        "created": "2024-11-16T07:41:50+00:00",
-        "updated": "2024-11-16T10:47:39+00:00",
-        "pushed": "2024-11-16T10:47:36+00:00",
-        "url": "https://github.com/ShravanaHS/NOT-Gate",
-        "id": 889371371
     },
     {
         "repo": "sky130nm_ip",
@@ -96889,19 +96759,6 @@
         "id": 889374259
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1880,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-17T04:36:01+00:00",
-        "pushed": "2024-11-17T04:35:58+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Synopsys_RTL2GDSII_SFAL",
         "description": null,
         "owner": "yathAg",
@@ -96913,5 +96770,213 @@
         "pushed": "2024-11-17T06:42:51+00:00",
         "url": "https://github.com/yathAg/Synopsys_RTL2GDSII_SFAL",
         "id": 876863931
+    },
+    {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1604,
+        "forks": 557,
+        "size": 635085,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-11-18T06:44:04+00:00",
+        "pushed": "2024-11-18T06:43:59+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 208,
+        "forks": 38,
+        "size": 32297,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-11-17T09:03:54+00:00",
+        "pushed": "2024-11-17T14:57:58+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "Modular hardware build system",
+        "owner": "siliconcompiler",
+        "stars": 862,
+        "forks": 86,
+        "size": 349807,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-11-17T15:52:39+00:00",
+        "pushed": "2024-11-18T02:54:50+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "Asic-Design-Class",
+        "description": null,
+        "owner": "Abu-Huzaifa123",
+        "stars": 0,
+        "forks": 0,
+        "size": 533,
+        "created": "2024-07-16T04:24:17+00:00",
+        "updated": "2024-11-17T21:11:38+00:00",
+        "pushed": "2024-11-17T21:11:35+00:00",
+        "url": "https://github.com/Abu-Huzaifa123/Asic-Design-Class",
+        "id": 829252503
+    },
+    {
+        "repo": "core",
+        "description": "The Openlane core holds the central schema definitions, resolvers, endpoints, and other tooling associated with the openlane product suite",
+        "owner": "theopenlane",
+        "stars": 7,
+        "forks": 3,
+        "size": 13281,
+        "created": "2024-08-24T15:26:59+00:00",
+        "updated": "2024-11-17T05:16:34+00:00",
+        "pushed": "2024-11-18T03:22:15+00:00",
+        "url": "https://github.com/theopenlane/core",
+        "id": 847006986
+    },
+    {
+        "repo": "openlane-ui",
+        "description": "the openlane ui - holds openlane console and storybook ",
+        "owner": "theopenlane",
+        "stars": 3,
+        "forks": 0,
+        "size": 11274,
+        "created": "2024-08-29T00:18:18+00:00",
+        "updated": "2024-11-17T03:34:40+00:00",
+        "pushed": "2024-11-17T22:06:06+00:00",
+        "url": "https://github.com/theopenlane/openlane-ui",
+        "id": 849083648
+    },
+    {
+        "repo": "tcl9-FPGA_IGNITE_2024",
+        "description": "Adds tcl 9 support for openlan for FPGA_IGNITE_2024",
+        "owner": "cevinclein",
+        "stars": 0,
+        "forks": 0,
+        "size": 20,
+        "created": "2024-11-16T20:06:50+00:00",
+        "updated": "2024-11-18T02:14:41+00:00",
+        "pushed": "2024-11-18T02:14:37+00:00",
+        "url": "https://github.com/cevinclein/tcl9-FPGA_IGNITE_2024",
+        "id": 889627640
+    },
+    {
+        "repo": "NOT-Gate",
+        "description": "CMOS inverter / NOT Gate using Sky water PDK 130nm Technology",
+        "owner": "ShravanaHS",
+        "stars": 0,
+        "forks": 0,
+        "size": 224,
+        "created": "2024-11-16T07:41:50+00:00",
+        "updated": "2024-11-18T05:21:03+00:00",
+        "pushed": "2024-11-18T05:21:00+00:00",
+        "url": "https://github.com/ShravanaHS/NOT-Gate",
+        "id": 889371371
+    },
+    {
+        "repo": "tt08-verilog-template_01",
+        "description": null,
+        "owner": "jrl-test-053",
+        "stars": 0,
+        "forks": 0,
+        "size": 800,
+        "created": "2024-09-14T17:50:54+00:00",
+        "updated": "2024-11-17T18:08:00+00:00",
+        "pushed": "2024-11-17T18:07:57+00:00",
+        "url": "https://github.com/jrl-test-053/tt08-verilog-template_01",
+        "id": 857455834
+    },
+    {
+        "repo": "tt10-verilog-example",
+        "description": null,
+        "owner": "htfab",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2024-11-18T01:54:25+00:00",
+        "updated": "2024-11-18T01:54:31+00:00",
+        "pushed": "2024-11-18T01:54:27+00:00",
+        "url": "https://github.com/htfab/tt10-verilog-example",
+        "id": 890105539
+    },
+    {
+        "repo": "eyeriss-accelerator",
+        "description": "A simplified replica of the Eyeriss AI accelerator coded in Verilog",
+        "owner": "Madhav-Malhotra",
+        "stars": 0,
+        "forks": 0,
+        "size": 18,
+        "created": "2024-11-17T17:07:55+00:00",
+        "updated": "2024-11-17T17:19:39+00:00",
+        "pushed": "2024-11-17T17:19:35+00:00",
+        "url": "https://github.com/Madhav-Malhotra/eyeriss-accelerator",
+        "id": 889958335
+    },
+    {
+        "repo": "ttihp-conway-termvga",
+        "description": "Tiny Tapeout IHP \u2013 A simulation of Conways' Game of Life visualized to an ANSI terminal over UART and to VGA",
+        "owner": "ccattuto",
+        "stars": 0,
+        "forks": 0,
+        "size": 66,
+        "created": "2024-11-01T09:08:35+00:00",
+        "updated": "2024-11-17T13:59:13+00:00",
+        "pushed": "2024-11-17T13:59:10+00:00",
+        "url": "https://github.com/ccattuto/ttihp-conway-termvga",
+        "id": 881803194
+    },
+    {
+        "repo": "toy-sram",
+        "description": null,
+        "owner": "wancoder",
+        "stars": 0,
+        "forks": 0,
+        "size": 72482,
+        "created": "2024-11-17T23:57:00+00:00",
+        "updated": "2024-11-18T00:00:41+00:00",
+        "pushed": "2024-11-18T00:00:16+00:00",
+        "url": "https://github.com/wancoder/toy-sram",
+        "id": 890077359
+    },
+    {
+        "repo": "a2o",
+        "description": null,
+        "owner": "wancoder",
+        "stars": 0,
+        "forks": 0,
+        "size": 24849,
+        "created": "2024-11-18T00:02:23+00:00",
+        "updated": "2024-11-18T00:03:52+00:00",
+        "pushed": "2024-11-18T00:03:46+00:00",
+        "url": "https://github.com/wancoder/a2o",
+        "id": 890078532
+    },
+    {
+        "repo": "RISCV-Processor-ASIC",
+        "description": "This is a basic RISC-V based processor under development. It follows the 32-bit Integer ISA.",
+        "owner": "SKpro-glitch",
+        "stars": 0,
+        "forks": 0,
+        "size": 80,
+        "created": "2024-09-16T02:41:32+00:00",
+        "updated": "2024-11-17T15:37:48+00:00",
+        "pushed": "2024-11-15T16:35:37+00:00",
+        "url": "https://github.com/SKpro-glitch/RISCV-Processor-ASIC",
+        "id": 857951246
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1916,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-11-18T04:37:12+00:00",
+        "pushed": "2024-11-18T04:37:09+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
     }
 ]
