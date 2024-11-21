@@ -12168,19 +12168,6 @@
         "id": 847089790
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1837,
-        "forks": 165,
-        "size": 99,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-08-31T12:15:40+00:00",
-        "pushed": "2024-08-31T12:15:36+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "cryptocurrency-icons",
         "description": "All the cryptocurrency icons available on coinmarketcap.com",
         "owner": "ErikThiart",
@@ -12909,32 +12896,6 @@
         "id": 225642630
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 202,
-        "forks": 27,
-        "size": 20012,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-10-26T13:47:12+00:00",
-        "pushed": "2024-10-26T13:47:08+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 31,
-        "forks": 2,
-        "size": 18278,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2024-10-26T14:15:36+00:00",
-        "pushed": "2024-10-26T14:15:32+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
-    },
-    {
         "repo": "girlvoice-gateware",
         "description": null,
         "owner": "girlvoice",
@@ -13063,19 +13024,6 @@
         "pushed": "2024-10-30T21:50:57+00:00",
         "url": "https://github.com/common-repository/litextension-phpurchase-to-woocommerce-migration",
         "id": 881077264
-    },
-    {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 257,
-        "forks": 17,
-        "size": 13553,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-11-01T02:29:15+00:00",
-        "pushed": "2024-10-31T22:29:58+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
     },
     {
         "repo": "nuttx-star64",
@@ -13312,19 +13260,6 @@
         "id": 274442284
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 65,
-        "forks": 7,
-        "size": 6634,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-11-12T15:51:59+00:00",
-        "pushed": "2024-11-12T15:51:55+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -13481,19 +13416,6 @@
         "id": 45734719
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 475,
-        "forks": 120,
-        "size": 41642,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-11-18T16:30:41+00:00",
-        "pushed": "2024-11-19T02:30:07+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "138k_pro_litex_ddr3",
         "description": "This module uses official IP cores instead of \"LiteDRAM\" to solve the problem that \"Tang Mega 138k Pro\" cannot initiate DDR3.",
         "owner": "hvdanyan",
@@ -13520,19 +13442,6 @@
         "id": 867323018
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 858,
-        "forks": 76,
-        "size": 1229,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-19T21:14:15+00:00",
-        "pushed": "2024-11-20T02:29:38+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -13557,19 +13466,6 @@
         "pushed": "2024-11-19T12:20:56+00:00",
         "url": "https://github.com/olofk/serv",
         "id": 155514739
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 16,
-        "size": 43691,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-11-19T09:31:10+00:00",
-        "pushed": "2024-11-19T10:35:35+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "tslitex",
@@ -13624,19 +13520,6 @@
         "id": 564480301
     },
     {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 6,
-        "forks": 1,
-        "size": 35383,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-18T06:30:21+00:00",
-        "pushed": "2024-11-20T01:38:53+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
-    },
-    {
         "repo": "litex_",
         "description": "Litex with Coreblocks support",
         "owner": "kuznia-rdzeni",
@@ -13648,32 +13531,6 @@
         "pushed": "2024-11-19T22:15:17+00:00",
         "url": "https://github.com/kuznia-rdzeni/litex_",
         "id": 631244452
-    },
-    {
-        "repo": "kirsch",
-        "description": "Kirsch Computer",
-        "owner": "machdyne",
-        "stars": 1,
-        "forks": 0,
-        "size": 920,
-        "created": "2024-11-08T20:27:07+00:00",
-        "updated": "2024-11-19T22:58:52+00:00",
-        "pushed": "2024-11-19T22:58:48+00:00",
-        "url": "https://github.com/machdyne/kirsch",
-        "id": 885556787
-    },
-    {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 266,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-19T15:00:15+00:00",
-        "pushed": "2024-11-19T09:26:11+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
     },
     {
         "repo": "digital-design-dataset",
@@ -13702,32 +13559,6 @@
         "id": 857490388
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 2004,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-20T04:36:47+00:00",
-        "pushed": "2024-11-20T04:36:44+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 10,
-        "forks": 3,
-        "size": 77236,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-20T03:35:16+00:00",
-        "pushed": "2024-11-20T03:35:12+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "repos",
         "description": "Fetch Github repos information with Github REST API and PHP every 15 minutes",
         "owner": "dev-chenxing",
@@ -13739,5 +13570,187 @@
         "pushed": "2024-11-20T07:00:33+00:00",
         "url": "https://github.com/dev-chenxing/repos",
         "id": 886768304
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 858,
+        "forks": 77,
+        "size": 1229,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-21T00:05:01+00:00",
+        "pushed": "2024-11-21T02:35:50+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 475,
+        "forks": 120,
+        "size": 41642,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-11-18T16:30:41+00:00",
+        "pushed": "2024-11-21T02:29:33+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 67,
+        "forks": 7,
+        "size": 6635,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-11-20T10:40:55+00:00",
+        "pushed": "2024-11-20T10:40:51+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 37,
+        "forks": 16,
+        "size": 43701,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-11-19T09:31:10+00:00",
+        "pushed": "2024-11-20T11:30:59+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1908,
+        "forks": 175,
+        "size": 156,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-11-21T03:34:48+00:00",
+        "pushed": "2024-11-21T01:09:37+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 259,
+        "forks": 17,
+        "size": 13561,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-11-21T01:37:05+00:00",
+        "pushed": "2024-11-21T01:37:01+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 202,
+        "forks": 27,
+        "size": 20060,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-11-20T20:41:40+00:00",
+        "pushed": "2024-11-20T20:41:35+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 31,
+        "forks": 2,
+        "size": 24276,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2024-11-20T16:31:24+00:00",
+        "pushed": "2024-11-20T16:31:20+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 6,
+        "forks": 1,
+        "size": 35378,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-18T06:30:21+00:00",
+        "pushed": "2024-11-21T01:38:52+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
+        "repo": "kirsch",
+        "description": "Kirsch Computer",
+        "owner": "machdyne",
+        "stars": 1,
+        "forks": 0,
+        "size": 1297,
+        "created": "2024-11-08T20:27:07+00:00",
+        "updated": "2024-11-20T15:18:47+00:00",
+        "pushed": "2024-11-20T15:18:43+00:00",
+        "url": "https://github.com/machdyne/kirsch",
+        "id": 885556787
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 2,
+        "forks": 0,
+        "size": 284,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-11-20T12:25:13+00:00",
+        "pushed": "2024-11-20T12:25:09+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 2006,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-11-21T04:37:00+00:00",
+        "pushed": "2024-11-21T04:36:56+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 10,
+        "forks": 3,
+        "size": 77706,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-11-21T03:35:12+00:00",
+        "pushed": "2024-11-21T03:35:08+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
+    },
+    {
+        "repo": "fpga_advent",
+        "description": null,
+        "owner": "LZS-Chen",
+        "stars": 0,
+        "forks": 0,
+        "size": 1318,
+        "created": "2024-11-20T20:40:30+00:00",
+        "updated": "2024-11-20T22:45:57+00:00",
+        "pushed": "2024-11-20T22:45:53+00:00",
+        "url": "https://github.com/LZS-Chen/fpga_advent",
+        "id": 891717652
     }
 ]

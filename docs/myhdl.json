@@ -5200,19 +5200,6 @@
         "id": 841672882
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1837,
-        "forks": 165,
-        "size": 99,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-08-31T12:15:40+00:00",
-        "pushed": "2024-08-31T12:15:36+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "LLM-Hardware-Experiments",
         "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
         "owner": "parker-research",
@@ -5369,32 +5356,6 @@
         "id": 151136062
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 34,
-        "forks": 7,
-        "size": 7407,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2024-10-26T13:12:08+00:00",
-        "pushed": "2024-10-26T13:12:05+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 202,
-        "forks": 27,
-        "size": 20012,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2024-10-26T13:47:12+00:00",
-        "pushed": "2024-10-26T13:47:08+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -5484,5 +5445,44 @@
         "pushed": "2024-11-14T14:30:08+00:00",
         "url": "https://github.com/SmartAcoustics/Kea",
         "id": 162131770
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 34,
+        "forks": 7,
+        "size": 7428,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2024-11-20T20:41:46+00:00",
+        "pushed": "2024-11-20T20:41:42+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 202,
+        "forks": 27,
+        "size": 20060,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2024-11-20T20:41:40+00:00",
+        "pushed": "2024-11-20T20:41:35+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1908,
+        "forks": 175,
+        "size": 156,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2024-11-21T03:34:48+00:00",
+        "pushed": "2024-11-21T01:09:37+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
     }
 ]
