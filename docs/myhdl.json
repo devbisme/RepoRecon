@@ -5382,19 +5382,6 @@
         "id": 881538216
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 28,
-        "size": 41528,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-11-02T12:40:46+00:00",
-        "pushed": "2024-11-02T12:40:42+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl-feedstock",
         "description": "A conda-smithy repository for myhdl.",
         "owner": "conda-forge",
@@ -5447,19 +5434,6 @@
         "id": 162131770
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 34,
-        "forks": 7,
-        "size": 7428,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2024-11-20T20:41:46+00:00",
-        "pushed": "2024-11-20T20:41:42+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5484,5 +5458,31 @@
         "pushed": "2024-11-21T01:09:37+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 34,
+        "forks": 7,
+        "size": 7432,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2024-11-21T12:49:25+00:00",
+        "pushed": "2024-11-21T12:49:22+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 29,
+        "size": 41533,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-11-21T12:40:01+00:00",
+        "pushed": "2024-11-21T12:39:56+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
     }
 ]
