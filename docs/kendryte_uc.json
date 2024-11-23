@@ -28535,19 +28535,6 @@
         "id": 604364942
     },
     {
-        "repo": "opensource-toolchain-bouffalo-lab",
-        "description": "Opensource toolchain for BL602/BL604, BL702/BL704/BL706, BL616/BL618, BL808 and other series of RISC-V based chips from Bouffalo Lab",
-        "owner": "cjacker",
-        "stars": 11,
-        "forks": 2,
-        "size": 87262,
-        "created": "2023-02-21T04:21:51Z",
-        "updated": "2023-08-14T17:11:21Z",
-        "pushed": "2023-04-05T07:34:52Z",
-        "url": "https://github.com/cjacker/opensource-toolchain-bouffalo-lab",
-        "id": 604445329
-    },
-    {
         "repo": "spring-microservices-v3",
         "description": null,
         "owner": "in28minutes",
@@ -39663,19 +39650,6 @@
         "id": 753959088
     },
     {
-        "repo": "nuttx-ox64",
-        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
-        "owner": "lupyuen",
-        "stars": 36,
-        "forks": 0,
-        "size": 259,
-        "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-10-23T11:15:46+00:00",
-        "pushed": "2024-11-01T00:16:05+00:00",
-        "url": "https://github.com/lupyuen/nuttx-ox64",
-        "id": 711107946
-    },
-    {
         "repo": "acpphint",
         "description": "A C++ variation on the serial and pthread HINT benchmarks, tailored to my use.",
         "owner": "markmi",
@@ -40326,19 +40300,6 @@
         "id": 889960004
     },
     {
-        "repo": "bsp-k230",
-        "description": null,
-        "owner": "heyuanjie87",
-        "stars": 0,
-        "forks": 0,
-        "size": 4921,
-        "created": "2024-09-27T07:10:31+00:00",
-        "updated": "2024-11-19T06:58:52+00:00",
-        "pushed": "2024-11-19T06:58:49+00:00",
-        "url": "https://github.com/heyuanjie87/bsp-k230",
-        "id": 863927307
-    },
-    {
         "repo": "MaixSense-A075V",
         "description": null,
         "owner": "RoboDD",
@@ -40443,19 +40404,6 @@
         "id": 891474912
     },
     {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 0,
-        "forks": 0,
-        "size": 59851,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2024-11-21T04:02:52+00:00",
-        "pushed": "2024-11-21T04:02:48+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
-    },
-    {
         "repo": "ScratchHacksBook",
         "description": null,
         "owner": "610t",
@@ -40534,32 +40482,6 @@
         "id": 857263549
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 22,
-        "forks": 3,
-        "size": 51279,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-11-21T18:19:15+00:00",
-        "pushed": "2024-11-21T18:19:11+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "muriscv-nn",
-        "description": "muRISCV-NN is a collection of efficient deep learning kernels for embedded platforms and microcontrollers.",
-        "owner": "tum-ei-eda",
-        "stars": 64,
-        "forks": 7,
-        "size": 5721,
-        "created": "2022-06-20T08:55:03+00:00",
-        "updated": "2024-11-22T06:26:56+00:00",
-        "pushed": "2024-11-22T06:26:53+00:00",
-        "url": "https://github.com/tum-ei-eda/muriscv-nn",
-        "id": 505364954
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -40625,17 +40547,121 @@
         "id": 884588946
     },
     {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 23,
+        "forks": 3,
+        "size": 51281,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-11-22T20:46:33+00:00",
+        "pushed": "2024-11-22T20:44:16+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "muriscv-nn",
+        "description": "muRISCV-NN is a collection of efficient deep learning kernels for embedded platforms and microcontrollers.",
+        "owner": "tum-ei-eda",
+        "stars": 64,
+        "forks": 7,
+        "size": 5730,
+        "created": "2022-06-20T08:55:03+00:00",
+        "updated": "2024-11-23T06:13:14+00:00",
+        "pushed": "2024-11-23T06:13:10+00:00",
+        "url": "https://github.com/tum-ei-eda/muriscv-nn",
+        "id": 505364954
+    },
+    {
+        "repo": "awesome-edge-ai",
+        "description": "A curated list of resources for embedded AI",
+        "owner": "XiaomingX",
+        "stars": 1,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-11-22T08:14:52+00:00",
+        "updated": "2024-11-22T11:49:38+00:00",
+        "pushed": "2024-11-22T08:17:36+00:00",
+        "url": "https://github.com/XiaomingX/awesome-edge-ai",
+        "id": 892495993
+    },
+    {
+        "repo": "bsp-k230",
+        "description": null,
+        "owner": "heyuanjie87",
+        "stars": 0,
+        "forks": 0,
+        "size": 4926,
+        "created": "2024-09-27T07:10:31+00:00",
+        "updated": "2024-11-22T09:33:07+00:00",
+        "pushed": "2024-11-22T09:33:03+00:00",
+        "url": "https://github.com/heyuanjie87/bsp-k230",
+        "id": 863927307
+    },
+    {
+        "repo": "maixou-",
+        "description": null,
+        "owner": "OGuilherme7",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2024-11-22T12:55:05+00:00",
+        "updated": "2024-11-22T15:38:38+00:00",
+        "pushed": "2024-11-22T15:38:34+00:00",
+        "url": "https://github.com/OGuilherme7/maixou-",
+        "id": 892613684
+    },
+    {
+        "repo": "StudyMaix",
+        "description": null,
+        "owner": "Pandasgam777",
+        "stars": 0,
+        "forks": 0,
+        "size": 74,
+        "created": "2024-11-22T12:23:12+00:00",
+        "updated": "2024-11-22T12:23:55+00:00",
+        "pushed": "2024-11-22T12:23:51+00:00",
+        "url": "https://github.com/Pandasgam777/StudyMaix",
+        "id": 892599688
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 0,
+        "forks": 0,
+        "size": 59851,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2024-11-23T06:40:54+00:00",
+        "pushed": "2024-11-23T07:08:24+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 7,
         "forks": 1,
-        "size": 3308,
+        "size": 3377,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-11-22T02:08:39+00:00",
-        "pushed": "2024-11-22T02:08:36+00:00",
+        "updated": "2024-11-23T01:59:26+00:00",
+        "pushed": "2024-11-23T01:59:23+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "opensource-toolchain-bouffalo-lab",
+        "description": "Opensource toolchain for BL602/BL604, BL702/BL704/BL706, BL616/BL618, BL808 and other series of RISC-V based chips from Bouffalo Lab",
+        "owner": "cjacker",
+        "stars": 16,
+        "forks": 3,
+        "size": 87263,
+        "created": "2023-02-21T04:21:51+00:00",
+        "updated": "2024-11-22T13:57:30+00:00",
+        "pushed": "2024-11-22T13:57:25+00:00",
+        "url": "https://github.com/cjacker/opensource-toolchain-bouffalo-lab",
+        "id": 604445329
     },
     {
         "repo": "certified-android-devices",
@@ -40643,11 +40669,24 @@
         "owner": "androidtrackers",
         "stars": 129,
         "forks": 36,
-        "size": 803162,
+        "size": 803164,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-11-21T12:33:53+00:00",
-        "pushed": "2024-11-21T12:33:49+00:00",
+        "updated": "2024-11-22T12:33:02+00:00",
+        "pushed": "2024-11-22T12:32:58+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "nuttx-ox64",
+        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
+        "owner": "lupyuen",
+        "stars": 37,
+        "forks": 0,
+        "size": 259,
+        "created": "2023-10-28T08:34:51+00:00",
+        "updated": "2024-11-23T06:39:04+00:00",
+        "pushed": "2024-11-23T00:15:26+00:00",
+        "url": "https://github.com/lupyuen/nuttx-ox64",
+        "id": 711107946
     }
 ]
