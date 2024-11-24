@@ -40040,19 +40040,6 @@
         "id": 218708914
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 4885,
-        "forks": 472,
-        "size": 1379,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2024-11-15T06:58:59+00:00",
-        "pushed": "2024-11-15T06:58:55+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -40129,19 +40116,6 @@
         "pushed": "2024-11-15T15:19:50+00:00",
         "url": "https://github.com/thangnguyen021203/maixoa",
         "id": 888886780
-    },
-    {
-        "repo": "wmt_linux011_study",
-        "description": "My linux-0.11 study, for 16bit 8086 machine.",
-        "owner": "weimingtom",
-        "stars": 0,
-        "forks": 0,
-        "size": 42,
-        "created": "2023-08-26T07:04:02+00:00",
-        "updated": "2024-11-17T04:03:41+00:00",
-        "pushed": "2024-11-17T04:03:38+00:00",
-        "url": "https://github.com/weimingtom/wmt_linux011_study",
-        "id": 683315982
     },
     {
         "repo": "maixuanhao",
@@ -40456,19 +40430,6 @@
         "id": 793843389
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10557,
-        "forks": 5030,
-        "size": 887674,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-11-22T06:11:50+00:00",
-        "pushed": "2024-11-22T06:11:40+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -40547,32 +40508,6 @@
         "id": 884588946
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 23,
-        "forks": 3,
-        "size": 51281,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-11-22T20:46:33+00:00",
-        "pushed": "2024-11-22T20:44:16+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "muriscv-nn",
-        "description": "muRISCV-NN is a collection of efficient deep learning kernels for embedded platforms and microcontrollers.",
-        "owner": "tum-ei-eda",
-        "stars": 64,
-        "forks": 7,
-        "size": 5730,
-        "created": "2022-06-20T08:55:03+00:00",
-        "updated": "2024-11-23T06:13:14+00:00",
-        "pushed": "2024-11-23T06:13:10+00:00",
-        "url": "https://github.com/tum-ei-eda/muriscv-nn",
-        "id": 505364954
-    },
-    {
         "repo": "awesome-edge-ai",
         "description": "A curated list of resources for embedded AI",
         "owner": "XiaomingX",
@@ -40638,19 +40573,6 @@
         "id": 859664219
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 7,
-        "forks": 1,
-        "size": 3377,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-11-23T01:59:26+00:00",
-        "pushed": "2024-11-23T01:59:23+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
         "repo": "opensource-toolchain-bouffalo-lab",
         "description": "Opensource toolchain for BL602/BL604, BL702/BL704/BL706, BL616/BL618, BL808 and other series of RISC-V based chips from Bouffalo Lab",
         "owner": "cjacker",
@@ -40664,15 +40586,119 @@
         "id": 604445329
     },
     {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10562,
+        "forks": 5030,
+        "size": 887792,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-11-24T06:29:26+00:00",
+        "pushed": "2024-11-24T05:57:37+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 23,
+        "forks": 3,
+        "size": 51284,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-11-24T03:00:57+00:00",
+        "pushed": "2024-11-24T03:00:54+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "muriscv-nn",
+        "description": "muRISCV-NN is a collection of efficient deep learning kernels for embedded platforms and microcontrollers.",
+        "owner": "tum-ei-eda",
+        "stars": 64,
+        "forks": 7,
+        "size": 5730,
+        "created": "2022-06-20T08:55:03+00:00",
+        "updated": "2024-11-24T06:46:24+00:00",
+        "pushed": "2024-11-24T06:46:20+00:00",
+        "url": "https://github.com/tum-ei-eda/muriscv-nn",
+        "id": 505364954
+    },
+    {
+        "repo": "wmt_linux011_study",
+        "description": "My linux-0.11 study, for 16bit 8086 machine.",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 51,
+        "created": "2023-08-26T07:04:02+00:00",
+        "updated": "2024-11-24T05:20:14+00:00",
+        "pushed": "2024-11-24T05:20:10+00:00",
+        "url": "https://github.com/weimingtom/wmt_linux011_study",
+        "id": 683315982
+    },
+    {
+        "repo": "maixcam",
+        "description": null,
+        "owner": "q946398098",
+        "stars": 0,
+        "forks": 0,
+        "size": 65680,
+        "created": "2024-11-24T02:15:14+00:00",
+        "updated": "2024-11-24T02:22:50+00:00",
+        "pushed": "2024-11-24T02:22:45+00:00",
+        "url": "https://github.com/q946398098/maixcam",
+        "id": 893279960
+    },
+    {
+        "repo": "game_dino_sdl",
+        "description": "[WIP] My dino game SDL port",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 20,
+        "created": "2024-11-23T10:06:42+00:00",
+        "updated": "2024-11-23T10:20:02+00:00",
+        "pushed": "2024-11-23T10:19:58+00:00",
+        "url": "https://github.com/weimingtom/game_dino_sdl",
+        "id": 893016110
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 4912,
+        "forks": 475,
+        "size": 1536,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2024-11-24T04:08:13+00:00",
+        "pushed": "2024-11-23T07:29:19+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 7,
+        "forks": 1,
+        "size": 3484,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-11-24T02:14:08+00:00",
+        "pushed": "2024-11-24T02:14:05+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 129,
         "forks": 36,
-        "size": 803164,
+        "size": 803165,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-11-22T12:33:02+00:00",
-        "pushed": "2024-11-22T12:32:58+00:00",
+        "updated": "2024-11-23T12:30:53+00:00",
+        "pushed": "2024-11-23T12:30:48+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -40685,7 +40711,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-11-23T06:39:04+00:00",
-        "pushed": "2024-11-23T00:15:26+00:00",
+        "pushed": "2024-11-24T00:16:55+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
