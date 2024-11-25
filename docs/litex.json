@@ -13104,19 +13104,6 @@
         "id": 793735929
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 7,
-        "forks": 4,
-        "size": 302,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2024-11-08T02:39:17+00:00",
-        "pushed": "2024-11-08T02:39:14+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "litexwan",
         "description": null,
         "owner": "scriswan",
@@ -13128,19 +13115,6 @@
         "pushed": "2024-11-08T12:12:36+00:00",
         "url": "https://github.com/scriswan/litexwan",
         "id": 866657482
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 901,
-        "forks": 190,
-        "size": 717629,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-11-10T02:24:26+00:00",
-        "pushed": "2024-11-10T02:24:21+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
     },
     {
         "repo": "orangecrab-hardware",
@@ -13520,19 +13494,6 @@
         "id": 42041717
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 13,
-        "forks": 5,
-        "size": 6093,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2024-11-22T01:19:56+00:00",
-        "pushed": "2024-11-22T01:20:01+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13585,19 +13546,6 @@
         "id": 892022189
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 259,
-        "forks": 17,
-        "size": 13569,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-11-23T00:02:22+00:00",
-        "pushed": "2024-11-23T00:02:18+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -13611,19 +13559,6 @@
         "id": 564480301
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1253,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-11-22T21:05:26+00:00",
-        "pushed": "2024-11-22T21:05:22+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -13635,19 +13570,6 @@
         "pushed": "2024-11-23T00:53:34+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 867,
-        "forks": 77,
-        "size": 1229,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-11-23T21:04:24+00:00",
-        "pushed": "2024-11-24T02:26:40+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "CFU-Playground",
@@ -13702,32 +13624,6 @@
         "id": 35898469
     },
     {
-        "repo": "JohnRaivenOlazo",
-        "description": "Config files for my GitHub profile.",
-        "owner": "JohnRaivenOlazo",
-        "stars": 6,
-        "forks": 1,
-        "size": 35388,
-        "created": "2023-11-07T11:54:04+00:00",
-        "updated": "2024-11-18T06:30:21+00:00",
-        "pushed": "2024-11-24T01:44:23+00:00",
-        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
-        "id": 715563210
-    },
-    {
-        "repo": "litex-in-davinciA7",
-        "description": null,
-        "owner": "nmdbxqmz",
-        "stars": 2,
-        "forks": 0,
-        "size": 617,
-        "created": "2024-11-23T00:43:11+00:00",
-        "updated": "2024-11-24T03:29:32+00:00",
-        "pushed": "2024-11-24T03:29:29+00:00",
-        "url": "https://github.com/nmdbxqmz/litex-in-davinciA7",
-        "id": 892878969
-    },
-    {
         "repo": "mollusc-arch",
         "description": null,
         "owner": "LithosphereRocketry",
@@ -13754,32 +13650,6 @@
         "id": 833422784
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 2059,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-24T04:35:46+00:00",
-        "pushed": "2024-11-24T04:35:43+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 13,
-        "forks": 4,
-        "size": 79165,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-11-24T03:38:04+00:00",
-        "pushed": "2024-11-24T03:38:00+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "fpga_advent",
         "description": null,
         "owner": "LZS-Chen",
@@ -13791,5 +13661,135 @@
         "pushed": "2024-11-23T10:52:55+00:00",
         "url": "https://github.com/LZS-Chen/fpga_advent",
         "id": 891717652
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 919,
+        "forks": 192,
+        "size": 717629,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-11-24T13:38:17+00:00",
+        "pushed": "2024-11-25T06:07:13+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 867,
+        "forks": 77,
+        "size": 1229,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-11-23T21:04:24+00:00",
+        "pushed": "2024-11-25T02:31:59+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 14,
+        "forks": 5,
+        "size": 6095,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2024-11-24T10:05:14+00:00",
+        "pushed": "2024-11-25T06:02:14+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 7,
+        "forks": 4,
+        "size": 320,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2024-11-08T02:39:17+00:00",
+        "pushed": "2024-11-25T05:48:24+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 261,
+        "forks": 17,
+        "size": 13575,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-11-25T03:17:51+00:00",
+        "pushed": "2024-11-25T03:17:47+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "JohnRaivenOlazo",
+        "description": "Config files for my GitHub profile.",
+        "owner": "JohnRaivenOlazo",
+        "stars": 6,
+        "forks": 1,
+        "size": 35390,
+        "created": "2023-11-07T11:54:04+00:00",
+        "updated": "2024-11-18T06:30:21+00:00",
+        "pushed": "2024-11-25T01:41:40+00:00",
+        "url": "https://github.com/JohnRaivenOlazo/JohnRaivenOlazo",
+        "id": 715563210
+    },
+    {
+        "repo": "litex-in-davinciA7",
+        "description": null,
+        "owner": "nmdbxqmz",
+        "stars": 2,
+        "forks": 0,
+        "size": 2170,
+        "created": "2024-11-23T00:43:11+00:00",
+        "updated": "2024-11-25T05:38:54+00:00",
+        "pushed": "2024-11-25T05:38:50+00:00",
+        "url": "https://github.com/nmdbxqmz/litex-in-davinciA7",
+        "id": 892878969
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1342,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-11-25T01:54:14+00:00",
+        "pushed": "2024-11-25T01:54:10+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 2060,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-11-25T04:36:37+00:00",
+        "pushed": "2024-11-25T04:36:34+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 13,
+        "forks": 4,
+        "size": 79652,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-11-25T03:37:51+00:00",
+        "pushed": "2024-11-25T03:37:47+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
