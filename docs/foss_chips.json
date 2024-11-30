@@ -75114,19 +75114,6 @@
         "id": 805806983
     },
     {
-        "repo": "Learning-Deep-Learning",
-        "description": "Paper reading notes on Deep Learning and Machine Learning",
-        "owner": "patrick-llgc",
-        "stars": 1053,
-        "forks": 175,
-        "size": 91605,
-        "created": "2017-04-02T05:29:55+00:00",
-        "updated": "2024-06-24T02:21:27+00:00",
-        "pushed": "2024-06-24T02:21:24+00:00",
-        "url": "https://github.com/patrick-llgc/Learning-Deep-Learning",
-        "id": 86965622
-    },
-    {
         "repo": "sky130_ldo_rl",
         "description": "This repo contains the code that runs RL+GNN to optimize LDOs in SKY130 process.",
         "owner": "ChrisZonghaoLi",
@@ -89739,19 +89726,6 @@
         "id": 882052381
     },
     {
-        "repo": "SFALVSD",
-        "description": "A comprehensive 12-week SoC Design and Implementation course, featuring 6 weeks of foundational instruction on semiconductor design basics, including floorplanning, placement, clock tree synthesis (CTS), routing, optimization, and verification organized by VSD.",
-        "owner": "VijayalaxmiSKumbhar",
-        "stars": 0,
-        "forks": 0,
-        "size": 79,
-        "created": "2024-10-20T17:32:33+00:00",
-        "updated": "2024-11-02T05:09:50+00:00",
-        "pushed": "2024-11-02T05:09:47+00:00",
-        "url": "https://github.com/VijayalaxmiSKumbhar/SFALVSD",
-        "id": 875725979
-    },
-    {
         "repo": "rply_ex0_sky130nm",
         "description": null,
         "owner": "jspark9797",
@@ -91752,19 +91726,6 @@
         "pushed": "2024-11-08T02:31:55+00:00",
         "url": "https://github.com/Karthigaa-S/Current_starved_VCO",
         "id": 880752420
-    },
-    {
-        "repo": "chip-design-intro",
-        "description": "Introduction to Chip Design",
-        "owner": "os-chip-design",
-        "stars": 6,
-        "forks": 1,
-        "size": 528,
-        "created": "2024-08-15T09:03:58+00:00",
-        "updated": "2024-11-07T22:05:23+00:00",
-        "pushed": "2024-11-07T22:05:20+00:00",
-        "url": "https://github.com/os-chip-design/chip-design-intro",
-        "id": 842864471
     },
     {
         "repo": "sky130_its_biomedical_chip_research_2024",
@@ -94146,19 +94107,6 @@
         "id": 888041148
     },
     {
-        "repo": "cicsim",
-        "description": "Custom IC Creator Simulation tools",
-        "owner": "wulffern",
-        "stars": 10,
-        "forks": 1,
-        "size": 548,
-        "created": "2020-10-23T08:34:47+00:00",
-        "updated": "2024-11-13T11:33:06+00:00",
-        "pushed": "2024-11-13T11:33:02+00:00",
-        "url": "https://github.com/wulffern/cicsim",
-        "id": 306576182
-    },
-    {
         "repo": "UNIC-CASS-TSAR-ADC-ITS",
         "description": null,
         "owner": "mthudaaa",
@@ -94302,19 +94250,6 @@
         "id": 880781096
     },
     {
-        "repo": "ASIC-Design",
-        "description": null,
-        "owner": "divyansh3107",
-        "stars": 0,
-        "forks": 0,
-        "size": 755,
-        "created": "2024-08-05T17:16:23+00:00",
-        "updated": "2024-11-15T00:02:02+00:00",
-        "pushed": "2024-11-15T00:01:59+00:00",
-        "url": "https://github.com/divyansh3107/ASIC-Design",
-        "id": 838456473
-    },
-    {
         "repo": "aloe-sky130",
         "description": null,
         "owner": "Li-Yueting",
@@ -94404,19 +94339,6 @@
         "pushed": "2024-11-15T22:27:32+00:00",
         "url": "https://github.com/iic-jku/osic-multitool",
         "id": 441934279
-    },
-    {
-        "repo": "cace",
-        "description": "Circuit Automatic Characterization Engine",
-        "owner": "efabless",
-        "stars": 45,
-        "forks": 6,
-        "size": 3071,
-        "created": "2024-02-28T15:54:54+00:00",
-        "updated": "2024-11-15T08:38:13+00:00",
-        "pushed": "2024-11-15T08:38:09+00:00",
-        "url": "https://github.com/efabless/cace",
-        "id": 764728595
     },
     {
         "repo": "sfal-vsd",
@@ -95173,19 +95095,6 @@
         "id": 856050395
     },
     {
-        "repo": "BEV-Perception",
-        "description": "Bird's Eye View Perception",
-        "owner": "vasgaowei",
-        "stars": 444,
-        "forks": 24,
-        "size": 1342,
-        "created": "2023-05-09T05:26:33+00:00",
-        "updated": "2024-11-18T15:27:23+00:00",
-        "pushed": "2024-11-18T15:27:11+00:00",
-        "url": "https://github.com/vasgaowei/BEV-Perception",
-        "id": 638110012
-    },
-    {
         "repo": "2024-Arxiv-Paper-List-Gaussian-Splatting",
         "description": "2024 Gaussian Splatting Paper List(Arxiv)",
         "owner": "Lee-JaeWon",
@@ -95496,19 +95405,6 @@
         "pushed": "2024-11-21T18:16:29+00:00",
         "url": "https://github.com/FOSSEE/eSim",
         "id": 32133565
-    },
-    {
-        "repo": "bazel_rules_hdl",
-        "description": "Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel (https://bazel.build)",
-        "owner": "hdl",
-        "stars": 119,
-        "forks": 44,
-        "size": 988,
-        "created": "2020-12-05T21:25:31+00:00",
-        "updated": "2024-11-21T07:10:37+00:00",
-        "pushed": "2024-11-21T07:10:35+00:00",
-        "url": "https://github.com/hdl/bazel_rules_hdl",
-        "id": 318892320
     },
     {
         "repo": "SKY130_CT-DSM",
@@ -96241,19 +96137,6 @@
     {
         "repo": "asic-design-class",
         "description": null,
-        "owner": "thelikith",
-        "stars": 0,
-        "forks": 0,
-        "size": 6258,
-        "created": "2024-07-16T04:23:01+00:00",
-        "updated": "2024-11-26T01:32:24+00:00",
-        "pushed": "2024-11-26T01:32:20+00:00",
-        "url": "https://github.com/thelikith/asic-design-class",
-        "id": 829252164
-    },
-    {
-        "repo": "asic-design-class",
-        "description": null,
         "owner": "ayushprakash2207",
         "stars": 0,
         "forks": 0,
@@ -96473,19 +96356,6 @@
         "id": 838353754
     },
     {
-        "repo": "ASIC-Design-Class",
-        "description": null,
-        "owner": "Yashgit1893",
-        "stars": 0,
-        "forks": 0,
-        "size": 2631,
-        "created": "2024-08-06T02:36:47+00:00",
-        "updated": "2024-11-26T00:44:42+00:00",
-        "pushed": "2024-11-26T00:44:39+00:00",
-        "url": "https://github.com/Yashgit1893/ASIC-Design-Class",
-        "id": 838614080
-    },
-    {
         "repo": "asic-design-class",
         "description": null,
         "owner": "EshwarAllampally",
@@ -96575,19 +96445,6 @@
         "pushed": "2024-11-25T07:39:06+00:00",
         "url": "https://github.com/Balakrishna-RK/Balakrishna-RK",
         "id": 821040344
-    },
-    {
-        "repo": "openlane_frontend_challenge",
-        "description": null,
-        "owner": "szypulinskin",
-        "stars": 0,
-        "forks": 0,
-        "size": 189,
-        "created": "2024-11-25T22:52:02+00:00",
-        "updated": "2024-11-26T03:38:44+00:00",
-        "pushed": "2024-11-26T03:38:41+00:00",
-        "url": "https://github.com/szypulinskin/openlane_frontend_challenge",
-        "id": 894185011
     },
     {
         "repo": "tt09-ternary-septenary-decoders",
@@ -96692,19 +96549,6 @@
         "pushed": "2024-11-26T23:51:27+00:00",
         "url": "https://github.com/efabless/chipcraft---mest-course",
         "id": 751575131
-    },
-    {
-        "repo": "sky130_schematics",
-        "description": null,
-        "owner": "sifferman",
-        "stars": 1,
-        "forks": 7,
-        "size": 14,
-        "created": "2024-10-25T20:42:24+00:00",
-        "updated": "2024-11-25T01:17:45+00:00",
-        "pushed": "2024-11-26T16:32:49+00:00",
-        "url": "https://github.com/sifferman/sky130_schematics",
-        "id": 878673050
     },
     {
         "repo": "tt-fpga-hdl-demo",
@@ -97071,19 +96915,6 @@
         "id": 446207276
     },
     {
-        "repo": "cvw",
-        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-        "owner": "openhwgroup",
-        "stars": 273,
-        "forks": 198,
-        "size": 41356,
-        "created": "2021-01-15T04:16:46+00:00",
-        "updated": "2024-11-27T16:25:03+00:00",
-        "pushed": "2024-11-27T16:24:57+00:00",
-        "url": "https://github.com/openhwgroup/cvw",
-        "id": 329806615
-    },
-    {
         "repo": "megaboom",
         "description": null,
         "owner": "The-OpenROAD-Project",
@@ -97318,19 +97149,6 @@
         "id": 145092451
     },
     {
-        "repo": "OpenROAD",
-        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-        "owner": "The-OpenROAD-Project",
-        "stars": 1643,
-        "forks": 566,
-        "size": 630027,
-        "created": "2019-10-28T17:48:14+00:00",
-        "updated": "2024-11-29T06:48:21+00:00",
-        "pushed": "2024-11-29T06:07:42+00:00",
-        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-        "id": 218110222
-    },
-    {
         "repo": "open_pdks",
         "description": "PDK installer for open-source EDA tools and toolchains.  Distributed with setups for the SkyWater 130nm and Global Foundries 180nm open processes.",
         "owner": "RTimothyEdwards",
@@ -97344,32 +97162,6 @@
         "id": 277372282
     },
     {
-        "repo": "openlane2",
-        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
-        "owner": "efabless",
-        "stars": 217,
-        "forks": 38,
-        "size": 32344,
-        "created": "2023-01-16T00:29:32+00:00",
-        "updated": "2024-11-27T18:08:15+00:00",
-        "pushed": "2024-11-28T22:57:20+00:00",
-        "url": "https://github.com/efabless/openlane2",
-        "id": 589378383
-    },
-    {
-        "repo": "siliconcompiler",
-        "description": "Modular hardware build system",
-        "owner": "siliconcompiler",
-        "stars": 864,
-        "forks": 86,
-        "size": 349802,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-11-27T17:49:46+00:00",
-        "pushed": "2024-11-29T00:11:10+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
         "repo": "piel",
         "description": "Photonic Integrated ELectronics. Microservices to codesign photonics, electronics, quantum, and more.",
         "owner": "daquintero",
@@ -97381,32 +97173,6 @@
         "pushed": "2024-11-28T12:43:26+00:00",
         "url": "https://github.com/daquintero/piel",
         "id": 651842998
-    },
-    {
-        "repo": "core",
-        "description": "Core holds the central schema definitions, resolvers, endpoints, and other tooling associated with the Openlane product suite",
-        "owner": "theopenlane",
-        "stars": 8,
-        "forks": 4,
-        "size": 12380,
-        "created": "2024-08-24T15:26:59+00:00",
-        "updated": "2024-11-28T16:48:49+00:00",
-        "pushed": "2024-11-28T16:48:46+00:00",
-        "url": "https://github.com/theopenlane/core",
-        "id": 847006986
-    },
-    {
-        "repo": "xls",
-        "description": "XLS: Accelerated HW Synthesis",
-        "owner": "google",
-        "stars": 1215,
-        "forks": 180,
-        "size": 66390,
-        "created": "2020-05-07T21:38:30+00:00",
-        "updated": "2024-11-28T20:26:24+00:00",
-        "pushed": "2024-11-28T20:26:20+00:00",
-        "url": "https://github.com/google/xls",
-        "id": 262163993
     },
     {
         "repo": "asic-design-class",
@@ -97433,19 +97199,6 @@
         "pushed": "2024-11-28T19:54:20+00:00",
         "url": "https://github.com/DakshSharma119/ASIC-Design",
         "id": 838449314
-    },
-    {
-        "repo": "Tutorial1_SKY130",
-        "description": "First Example Project",
-        "owner": "EneaDim",
-        "stars": 0,
-        "forks": 0,
-        "size": 4,
-        "created": "2024-11-28T16:11:28+00:00",
-        "updated": "2024-11-28T16:57:28+00:00",
-        "pushed": "2024-11-28T16:57:25+00:00",
-        "url": "https://github.com/EneaDim/Tutorial1_SKY130",
-        "id": 895657495
     },
     {
         "repo": "chipignite",
@@ -97487,19 +97240,6 @@
         "id": 850981452
     },
     {
-        "repo": "nasscom-soc-design-and-planning",
-        "description": null,
-        "owner": "rmahathi",
-        "stars": 0,
-        "forks": 0,
-        "size": 4328,
-        "created": "2024-11-27T15:46:07+00:00",
-        "updated": "2024-11-28T20:22:43+00:00",
-        "pushed": "2024-11-28T20:22:40+00:00",
-        "url": "https://github.com/rmahathi/nasscom-soc-design-and-planning",
-        "id": 895122607
-    },
-    {
         "repo": "Synopsys_Caravel_sky130",
         "description": null,
         "owner": "yathAg",
@@ -97524,19 +97264,6 @@
         "pushed": "2024-11-28T09:43:13+00:00",
         "url": "https://github.com/arshasv/openlane_automation",
         "id": 874609963
-    },
-    {
-        "repo": "SOC_Design",
-        "description": null,
-        "owner": "Harshithajoshi43",
-        "stars": 0,
-        "forks": 0,
-        "size": 24,
-        "created": "2024-11-28T17:49:38+00:00",
-        "updated": "2024-11-28T18:59:26+00:00",
-        "pushed": "2024-11-28T18:59:23+00:00",
-        "url": "https://github.com/Harshithajoshi43/SOC_Design",
-        "id": 895697893
     },
     {
         "repo": "tiny_tapeout",
@@ -97617,19 +97344,6 @@
         "id": 891452839
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 2237,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-11-29T04:37:31+00:00",
-        "pushed": "2024-11-29T04:37:27+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Synopsys_RTL2GDSII_SFAL",
         "description": null,
         "owner": "yathAg",
@@ -97656,19 +97370,6 @@
         "id": 772615734
     },
     {
-        "repo": "finviz-git-scraper",
-        "description": "FinViz map of sectors and sub-sectors",
-        "owner": "fasiha",
-        "stars": 6,
-        "forks": 1,
-        "size": 168567,
-        "created": "2023-01-05T08:49:05+00:00",
-        "updated": "2024-11-28T23:57:21+00:00",
-        "pushed": "2024-11-28T23:57:17+00:00",
-        "url": "https://github.com/fasiha/finviz-git-scraper",
-        "id": 585468833
-    },
-    {
         "repo": "DailyArXiv",
         "description": null,
         "owner": "tangwen-qian",
@@ -97680,5 +97381,369 @@
         "pushed": "2024-11-28T16:48:08+00:00",
         "url": "https://github.com/tangwen-qian/DailyArXiv",
         "id": 783672596
+    },
+    {
+        "repo": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "owner": "The-OpenROAD-Project",
+        "stars": 1646,
+        "forks": 567,
+        "size": 630510,
+        "created": "2019-10-28T17:48:14+00:00",
+        "updated": "2024-11-30T04:30:26+00:00",
+        "pushed": "2024-11-30T04:30:21+00:00",
+        "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+        "id": 218110222
+    },
+    {
+        "repo": "openlane2",
+        "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
+        "owner": "efabless",
+        "stars": 218,
+        "forks": 38,
+        "size": 32349,
+        "created": "2023-01-16T00:29:32+00:00",
+        "updated": "2024-11-29T17:29:59+00:00",
+        "pushed": "2024-11-29T15:47:42+00:00",
+        "url": "https://github.com/efabless/openlane2",
+        "id": 589378383
+    },
+    {
+        "repo": "bazel_rules_hdl",
+        "description": "Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel (https://bazel.build)",
+        "owner": "hdl",
+        "stars": 120,
+        "forks": 45,
+        "size": 990,
+        "created": "2020-12-05T21:25:31+00:00",
+        "updated": "2024-11-29T18:28:24+00:00",
+        "pushed": "2024-11-29T18:28:20+00:00",
+        "url": "https://github.com/hdl/bazel_rules_hdl",
+        "id": 318892320
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "Modular hardware build system",
+        "owner": "siliconcompiler",
+        "stars": 864,
+        "forks": 86,
+        "size": 349802,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-11-27T17:49:46+00:00",
+        "pushed": "2024-11-30T00:11:00+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "cace",
+        "description": "Circuit Automatic Characterization Engine",
+        "owner": "efabless",
+        "stars": 45,
+        "forks": 6,
+        "size": 3073,
+        "created": "2024-02-28T15:54:54+00:00",
+        "updated": "2024-11-29T10:51:25+00:00",
+        "pushed": "2024-11-29T10:51:31+00:00",
+        "url": "https://github.com/efabless/cace",
+        "id": 764728595
+    },
+    {
+        "repo": "sky130_schematics",
+        "description": null,
+        "owner": "sifferman",
+        "stars": 1,
+        "forks": 7,
+        "size": 17,
+        "created": "2024-10-25T20:42:24+00:00",
+        "updated": "2024-11-30T03:59:41+00:00",
+        "pushed": "2024-11-30T04:06:08+00:00",
+        "url": "https://github.com/sifferman/sky130_schematics",
+        "id": 878673050
+    },
+    {
+        "repo": "cvw",
+        "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F,  M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+        "owner": "openhwgroup",
+        "stars": 272,
+        "forks": 198,
+        "size": 41120,
+        "created": "2021-01-15T04:16:46+00:00",
+        "updated": "2024-11-30T00:15:15+00:00",
+        "pushed": "2024-11-30T00:15:11+00:00",
+        "url": "https://github.com/openhwgroup/cvw",
+        "id": 329806615
+    },
+    {
+        "repo": "core",
+        "description": "Core holds the central schema definitions, resolvers, endpoints, and other tooling associated with the Openlane product suite",
+        "owner": "theopenlane",
+        "stars": 8,
+        "forks": 4,
+        "size": 14654,
+        "created": "2024-08-24T15:26:59+00:00",
+        "updated": "2024-11-29T20:56:50+00:00",
+        "pushed": "2024-11-29T22:15:46+00:00",
+        "url": "https://github.com/theopenlane/core",
+        "id": 847006986
+    },
+    {
+        "repo": "xls",
+        "description": "XLS: Accelerated HW Synthesis",
+        "owner": "google",
+        "stars": 1215,
+        "forks": 181,
+        "size": 66390,
+        "created": "2020-05-07T21:38:30+00:00",
+        "updated": "2024-11-28T20:26:24+00:00",
+        "pushed": "2024-11-29T07:53:40+00:00",
+        "url": "https://github.com/google/xls",
+        "id": 262163993
+    },
+    {
+        "repo": "OpenLane",
+        "description": null,
+        "owner": "sampath198",
+        "stars": 0,
+        "forks": 0,
+        "size": 8021,
+        "created": "2024-11-29T09:43:07+00:00",
+        "updated": "2024-11-29T14:36:31+00:00",
+        "pushed": "2024-11-29T14:36:27+00:00",
+        "url": "https://github.com/sampath198/OpenLane",
+        "id": 895973617
+    },
+    {
+        "repo": "asic-design-class",
+        "description": null,
+        "owner": "thelikith",
+        "stars": 0,
+        "forks": 0,
+        "size": 6842,
+        "created": "2024-07-16T04:23:01+00:00",
+        "updated": "2024-11-29T18:57:26+00:00",
+        "pushed": "2024-11-29T18:57:23+00:00",
+        "url": "https://github.com/thelikith/asic-design-class",
+        "id": 829252164
+    },
+    {
+        "repo": "ASIC-Design-Class",
+        "description": null,
+        "owner": "Yashgit1893",
+        "stars": 0,
+        "forks": 0,
+        "size": 2850,
+        "created": "2024-08-06T02:36:47+00:00",
+        "updated": "2024-11-29T11:48:48+00:00",
+        "pushed": "2024-11-29T11:48:45+00:00",
+        "url": "https://github.com/Yashgit1893/ASIC-Design-Class",
+        "id": 838614080
+    },
+    {
+        "repo": "Tutorial1_SKY130",
+        "description": "First Example Project",
+        "owner": "EneaDim",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2024-11-28T16:11:28+00:00",
+        "updated": "2024-11-29T15:56:35+00:00",
+        "pushed": "2024-11-29T15:56:31+00:00",
+        "url": "https://github.com/EneaDim/Tutorial1_SKY130",
+        "id": 895657495
+    },
+    {
+        "repo": "ASIC-Design",
+        "description": null,
+        "owner": "divyansh3107",
+        "stars": 0,
+        "forks": 0,
+        "size": 1176,
+        "created": "2024-08-05T17:16:23+00:00",
+        "updated": "2024-11-29T11:28:08+00:00",
+        "pushed": "2024-11-29T11:28:05+00:00",
+        "url": "https://github.com/divyansh3107/ASIC-Design",
+        "id": 838456473
+    },
+    {
+        "repo": "esim_ubuntu23_installation",
+        "description": null,
+        "owner": "avinashlalotra",
+        "stars": 0,
+        "forks": 0,
+        "size": 99473,
+        "created": "2024-11-29T19:39:12+00:00",
+        "updated": "2024-11-29T19:42:06+00:00",
+        "pushed": "2024-11-29T19:41:58+00:00",
+        "url": "https://github.com/avinashlalotra/esim_ubuntu23_installation",
+        "id": 896212774
+    },
+    {
+        "repo": "cicsim",
+        "description": "Custom IC Creator Simulation tools",
+        "owner": "wulffern",
+        "stars": 10,
+        "forks": 1,
+        "size": 558,
+        "created": "2020-10-23T08:34:47+00:00",
+        "updated": "2024-11-13T11:33:06+00:00",
+        "pushed": "2024-11-29T14:59:33+00:00",
+        "url": "https://github.com/wulffern/cicsim",
+        "id": 306576182
+    },
+    {
+        "repo": "nasscom-soc-design-and-planning",
+        "description": null,
+        "owner": "rmahathi",
+        "stars": 0,
+        "forks": 0,
+        "size": 9794,
+        "created": "2024-11-27T15:46:07+00:00",
+        "updated": "2024-11-29T12:32:39+00:00",
+        "pushed": "2024-11-29T12:32:36+00:00",
+        "url": "https://github.com/rmahathi/nasscom-soc-design-and-planning",
+        "id": 895122607
+    },
+    {
+        "repo": "chip-design-intro",
+        "description": "Introduction to Chip Design",
+        "owner": "os-chip-design",
+        "stars": 6,
+        "forks": 1,
+        "size": 529,
+        "created": "2024-08-15T09:03:58+00:00",
+        "updated": "2024-11-30T02:22:35+00:00",
+        "pushed": "2024-11-30T02:22:31+00:00",
+        "url": "https://github.com/os-chip-design/chip-design-intro",
+        "id": 842864471
+    },
+    {
+        "repo": "nasscom-vsd-soc-design-program",
+        "description": null,
+        "owner": "Varadain",
+        "stars": 0,
+        "forks": 0,
+        "size": 62,
+        "created": "2024-11-28T04:39:30+00:00",
+        "updated": "2024-11-30T05:46:46+00:00",
+        "pushed": "2024-11-30T05:46:43+00:00",
+        "url": "https://github.com/Varadain/nasscom-vsd-soc-design-program",
+        "id": 895368714
+    },
+    {
+        "repo": "SOC_Design",
+        "description": null,
+        "owner": "Harshithajoshi43",
+        "stars": 0,
+        "forks": 0,
+        "size": 25,
+        "created": "2024-11-28T17:49:38+00:00",
+        "updated": "2024-11-29T16:22:30+00:00",
+        "pushed": "2024-11-29T16:22:27+00:00",
+        "url": "https://github.com/Harshithajoshi43/SOC_Design",
+        "id": 895697893
+    },
+    {
+        "repo": "SFALVSD",
+        "description": "A comprehensive 12-week SoC Design and Implementation course, featuring 6 weeks of foundational instruction on semiconductor design basics, including floorplanning, placement, clock tree synthesis (CTS), routing, optimization, and verification organized by VSD.",
+        "owner": "VijayalaxmiSKumbhar",
+        "stars": 0,
+        "forks": 0,
+        "size": 542,
+        "created": "2024-10-20T17:32:33+00:00",
+        "updated": "2024-11-29T12:12:50+00:00",
+        "pushed": "2024-11-29T12:12:46+00:00",
+        "url": "https://github.com/VijayalaxmiSKumbhar/SFALVSD",
+        "id": 875725979
+    },
+    {
+        "repo": "openlane_frontend_challenge",
+        "description": null,
+        "owner": "szypulinskin",
+        "stars": 0,
+        "forks": 0,
+        "size": 192,
+        "created": "2024-11-25T22:52:02+00:00",
+        "updated": "2024-11-30T05:22:30+00:00",
+        "pushed": "2024-11-30T05:22:27+00:00",
+        "url": "https://github.com/szypulinskin/openlane_frontend_challenge",
+        "id": 894185011
+    },
+    {
+        "repo": "sky130-pdk",
+        "description": "A touch of security",
+        "owner": "izumigoto",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2024-11-29T15:33:42+00:00",
+        "updated": "2024-11-30T04:37:00+00:00",
+        "pushed": "2024-11-30T04:36:57+00:00",
+        "url": "https://github.com/izumigoto/sky130-pdk",
+        "id": 896121343
+    },
+    {
+        "repo": "jnw_sv_sky130a",
+        "description": "System Verilog example in Ngspice",
+        "owner": "wulffern",
+        "stars": 1,
+        "forks": 0,
+        "size": 16,
+        "created": "2024-11-29T14:46:48+00:00",
+        "updated": "2024-11-29T14:59:53+00:00",
+        "pushed": "2024-11-29T14:54:38+00:00",
+        "url": "https://github.com/wulffern/jnw_sv_sky130a",
+        "id": 896101185
+    },
+    {
+        "repo": "BEV-Perception",
+        "description": "Bird's Eye View Perception",
+        "owner": "vasgaowei",
+        "stars": 456,
+        "forks": 25,
+        "size": 1379,
+        "created": "2023-05-09T05:26:33+00:00",
+        "updated": "2024-11-29T13:50:45+00:00",
+        "pushed": "2024-11-29T13:50:41+00:00",
+        "url": "https://github.com/vasgaowei/BEV-Perception",
+        "id": 638110012
+    },
+    {
+        "repo": "Learning-Deep-Learning",
+        "description": "Paper reading notes on Deep Learning and Machine Learning",
+        "owner": "patrick-llgc",
+        "stars": 1133,
+        "forks": 176,
+        "size": 91704,
+        "created": "2017-04-02T05:29:55+00:00",
+        "updated": "2024-11-29T15:28:55+00:00",
+        "pushed": "2024-11-29T15:28:50+00:00",
+        "url": "https://github.com/patrick-llgc/Learning-Deep-Learning",
+        "id": 86965622
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 2238,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-11-30T04:36:14+00:00",
+        "pushed": "2024-11-30T04:36:11+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "finviz-git-scraper",
+        "description": "FinViz map of sectors and sub-sectors",
+        "owner": "fasiha",
+        "stars": 6,
+        "forks": 1,
+        "size": 168904,
+        "created": "2023-01-05T08:49:05+00:00",
+        "updated": "2024-11-29T23:57:33+00:00",
+        "pushed": "2024-11-29T23:57:29+00:00",
+        "url": "https://github.com/fasiha/finviz-git-scraper",
+        "id": 585468833
     }
 ]

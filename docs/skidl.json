@@ -1547,19 +1547,6 @@
         "id": 872044586
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 354,
-        "forks": 21,
-        "size": 14065,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-10-13T18:16:17+00:00",
-        "pushed": "2024-10-17T20:06:02+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "kicad-3rd-party-tools",
         "description": "Software tools/utilities made by others to augment the KiCad PCB EDA suite.",
         "owner": "devbisme",
@@ -1688,5 +1675,18 @@
         "pushed": "2024-11-28T00:48:09+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 367,
+        "forks": 23,
+        "size": 14083,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2024-11-25T10:29:24+00:00",
+        "pushed": "2024-11-28T14:34:01+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
     }
 ]
