@@ -76882,19 +76882,6 @@
         "id": 825854794
     },
     {
-        "repo": "xschem-viewer",
-        "description": "Online viewer of Xschem schematic files",
-        "owner": "TinyTapeout",
-        "stars": 18,
-        "forks": 0,
-        "size": 1055,
-        "created": "2024-03-10T10:24:27+00:00",
-        "updated": "2024-07-18T18:09:15+00:00",
-        "pushed": "2024-07-18T18:09:12+00:00",
-        "url": "https://github.com/TinyTapeout/xschem-viewer",
-        "id": 769878838
-    },
-    {
         "repo": "SOC-DESIGN-AND-PLANNING",
         "description": null,
         "owner": "LefnounSolution",
@@ -84706,19 +84693,6 @@
         "pushed": "2024-09-24T05:32:21+00:00",
         "url": "https://github.com/jenila19/vsd_workshop",
         "id": 648864952
-    },
-    {
-        "repo": "wsl_osic",
-        "description": "SKY130 / GF180MCU / OpenRule1umPDK development tools for Ubuntu 22 (WSL2) ",
-        "owner": "3zki",
-        "stars": 0,
-        "forks": 2,
-        "size": 1288,
-        "created": "2024-03-18T18:55:25+00:00",
-        "updated": "2024-09-23T13:05:29+00:00",
-        "pushed": "2024-09-23T13:05:25+00:00",
-        "url": "https://github.com/3zki/wsl_osic",
-        "id": 773993461
     },
     {
         "repo": "tt09-ihp-verilog-template",
@@ -94419,19 +94393,6 @@
         "id": 888967923
     },
     {
-        "repo": "awesome-eda",
-        "description": "A curated list of awesome electronic design automation topics",
-        "owner": "RarityBrown",
-        "stars": 0,
-        "forks": 0,
-        "size": 11,
-        "created": "2024-10-28T15:08:59+00:00",
-        "updated": "2024-11-16T01:56:31+00:00",
-        "pushed": "2024-11-16T01:56:28+00:00",
-        "url": "https://github.com/RarityBrown/awesome-eda",
-        "id": 879798359
-    },
-    {
         "repo": "nl2bench",
         "description": "Converts from combinational netlists to the BENCH format for DFT",
         "owner": "donn",
@@ -95888,19 +95849,6 @@
         "id": 676825917
     },
     {
-        "repo": "ProyectoElectrico",
-        "description": null,
-        "owner": "Anndress07",
-        "stars": 0,
-        "forks": 0,
-        "size": 151,
-        "created": "2024-08-24T20:13:29+00:00",
-        "updated": "2024-11-25T00:56:31+00:00",
-        "pushed": "2024-11-25T00:56:28+00:00",
-        "url": "https://github.com/Anndress07/ProyectoElectrico",
-        "id": 847087915
-    },
-    {
         "repo": "Awesome-Lane-Detection",
         "description": null,
         "owner": "Core9724",
@@ -96029,19 +95977,6 @@
         "pushed": "2024-11-26T06:43:00+00:00",
         "url": "https://github.com/utkarsh-jain2000/asic-design-class",
         "id": 829251834
-    },
-    {
-        "repo": "Qiskit-Metal-to-Litho",
-        "description": "From Qiskit Metal to pattern generation to real nanofabrication demo. Here, quantum devices on a chip are patterned via direct-write electron-beam lithography in a nanofabrication facility. Written & patterned by Onri Jay Benally, an Indigenous American quantum hardware engineer.",
-        "owner": "OJB-Quantum",
-        "stars": 40,
-        "forks": 14,
-        "size": 103374,
-        "created": "2023-06-17T13:27:59+00:00",
-        "updated": "2024-11-25T17:32:58+00:00",
-        "pushed": "2024-11-25T17:32:35+00:00",
-        "url": "https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho",
-        "id": 654966534
     },
     {
         "repo": "asic-design-class",
@@ -96393,19 +96328,6 @@
         "pushed": "2024-11-25T14:17:47+00:00",
         "url": "https://github.com/jesari-git/tt10_larva",
         "id": 893581886
-    },
-    {
-        "repo": "tt10-enigma",
-        "description": null,
-        "owner": "virantha",
-        "stars": 0,
-        "forks": 0,
-        "size": 196,
-        "created": "2024-11-17T02:55:59+00:00",
-        "updated": "2024-11-26T01:31:07+00:00",
-        "pushed": "2024-11-26T01:31:03+00:00",
-        "url": "https://github.com/virantha/tt10-enigma",
-        "id": 889713236
     },
     {
         "repo": "Node.js-Jobs",
@@ -96876,19 +96798,6 @@
         "id": 805010886
     },
     {
-        "repo": "Skywater_tools",
-        "description": "To make the IC simulation with Skywater 130 PDK, i created a script that install the tools to run the first simulation. ",
-        "owner": "RobertoDiLorenzo",
-        "stars": 5,
-        "forks": 0,
-        "size": 45,
-        "created": "2023-08-10T20:02:03+00:00",
-        "updated": "2024-11-27T21:33:36+00:00",
-        "pushed": "2024-11-27T21:33:32+00:00",
-        "url": "https://github.com/RobertoDiLorenzo/Skywater_tools",
-        "id": 677126807
-    },
-    {
         "repo": "openlane-cloud",
         "description": "resources built on top of Openlane core used for providing SaaS services",
         "owner": "theopenlane",
@@ -96928,19 +96837,6 @@
         "id": 686239063
     },
     {
-        "repo": "bfg",
-        "description": "An Open-Source Silicon Compiler for Reduced-Complexity Reconfigurable Fabrics",
-        "owner": "growly",
-        "stars": 7,
-        "forks": 0,
-        "size": 39493,
-        "created": "2022-06-03T21:40:36+00:00",
-        "updated": "2024-11-28T06:28:24+00:00",
-        "pushed": "2024-11-28T06:28:21+00:00",
-        "url": "https://github.com/growly/bfg",
-        "id": 499658756
-    },
-    {
         "repo": "comparator_sky130_cace",
         "description": "Cace Template for comparator Internal testing purpose",
         "owner": "Revenantx86",
@@ -96978,19 +96874,6 @@
         "pushed": "2024-11-27T21:36:53+00:00",
         "url": "https://github.com/stevehoover/tt10-makerchip-template",
         "id": 895250908
-    },
-    {
-        "repo": "DAC2025_ROAR",
-        "description": "This repository contains all software, scripts, and characterizations to reproduce the results in the paper submission Analytical Optimization for Robust and Efficient Analog IC Design with Layout Convergence. This repository uses the skywater 130nm FOSS PDK as well as ALIGN analog generator.",
-        "owner": "alecadair",
-        "stars": 0,
-        "forks": 0,
-        "size": 8048,
-        "created": "2024-11-19T09:40:47+00:00",
-        "updated": "2024-11-27T12:28:24+00:00",
-        "pushed": "2024-11-27T12:28:19+00:00",
-        "url": "https://github.com/alecadair/DAC2025_ROAR",
-        "id": 890849681
     },
     {
         "repo": "Top-10-OpenSource-News-Weekly",
@@ -97175,32 +97058,6 @@
         "id": 891452839
     },
     {
-        "repo": "DailyArXiv",
-        "description": "Daily ArXiv Papers.",
-        "owner": "zezhishao",
-        "stars": 41,
-        "forks": 4,
-        "size": 12481,
-        "created": "2024-03-15T14:45:16+00:00",
-        "updated": "2024-11-28T23:22:20+00:00",
-        "pushed": "2024-11-28T16:48:19+00:00",
-        "url": "https://github.com/zezhishao/DailyArXiv",
-        "id": 772615734
-    },
-    {
-        "repo": "DailyArXiv",
-        "description": null,
-        "owner": "tangwen-qian",
-        "stars": 15,
-        "forks": 1,
-        "size": 27774,
-        "created": "2024-04-08T10:54:08+00:00",
-        "updated": "2024-11-28T16:48:12+00:00",
-        "pushed": "2024-11-28T16:48:08+00:00",
-        "url": "https://github.com/tangwen-qian/DailyArXiv",
-        "id": 783672596
-    },
-    {
         "repo": "openlane2",
         "description": "The next generation of OpenLane, rewritten from scratch with a modular architecture",
         "owner": "efabless",
@@ -97305,19 +97162,6 @@
         "id": 838456473
     },
     {
-        "repo": "esim_ubuntu23_installation",
-        "description": null,
-        "owner": "avinashlalotra",
-        "stars": 0,
-        "forks": 0,
-        "size": 99473,
-        "created": "2024-11-29T19:39:12+00:00",
-        "updated": "2024-11-29T19:42:06+00:00",
-        "pushed": "2024-11-29T19:41:58+00:00",
-        "url": "https://github.com/avinashlalotra/esim_ubuntu23_installation",
-        "id": 896212774
-    },
-    {
         "repo": "cicsim",
         "description": "Custom IC Creator Simulation tools",
         "owner": "wulffern",
@@ -97394,19 +97238,6 @@
         "pushed": "2024-11-29T12:12:46+00:00",
         "url": "https://github.com/VijayalaxmiSKumbhar/SFALVSD",
         "id": 875725979
-    },
-    {
-        "repo": "openlane_frontend_challenge",
-        "description": null,
-        "owner": "szypulinskin",
-        "stars": 0,
-        "forks": 0,
-        "size": 192,
-        "created": "2024-11-25T22:52:02+00:00",
-        "updated": "2024-11-30T05:22:30+00:00",
-        "pushed": "2024-11-30T05:22:27+00:00",
-        "url": "https://github.com/szypulinskin/openlane_frontend_challenge",
-        "id": 894185011
     },
     {
         "repo": "sky130-pdk",
@@ -97487,19 +97318,6 @@
         "id": 667922078
     },
     {
-        "repo": "siliconcompiler",
-        "description": "Modular hardware build system",
-        "owner": "siliconcompiler",
-        "stars": 864,
-        "forks": 86,
-        "size": 349803,
-        "created": "2020-12-10T21:52:17+00:00",
-        "updated": "2024-11-27T17:49:46+00:00",
-        "pushed": "2024-12-01T00:13:23+00:00",
-        "url": "https://github.com/siliconcompiler/siliconcompiler",
-        "id": 320398696
-    },
-    {
         "repo": "floret",
         "description": "Automated custom cell layout generator",
         "owner": "broccolimicro",
@@ -97511,19 +97329,6 @@
         "pushed": "2024-11-30T14:36:34+00:00",
         "url": "https://github.com/broccolimicro/floret",
         "id": 744602136
-    },
-    {
-        "repo": "core",
-        "description": "Core holds the central schema definitions, resolvers, endpoints, and other tooling associated with the Openlane product suite",
-        "owner": "theopenlane",
-        "stars": 8,
-        "forks": 4,
-        "size": 12490,
-        "created": "2024-08-24T15:26:59+00:00",
-        "updated": "2024-11-29T20:56:50+00:00",
-        "pushed": "2024-12-01T03:56:24+00:00",
-        "url": "https://github.com/theopenlane/core",
-        "id": 847006986
     },
     {
         "repo": "xls",
@@ -97602,19 +97407,6 @@
         "pushed": "2024-11-30T22:12:46+00:00",
         "url": "https://github.com/schda1/tt10-moody-mimosa",
         "id": 896407999
-    },
-    {
-        "repo": "tiny-connect-four",
-        "description": null,
-        "owner": "RoyTr16",
-        "stars": 0,
-        "forks": 0,
-        "size": 89,
-        "created": "2024-11-05T15:15:19+00:00",
-        "updated": "2024-11-30T15:39:17+00:00",
-        "pushed": "2024-11-30T15:39:13+00:00",
-        "url": "https://github.com/RoyTr16/tiny-connect-four",
-        "id": 883788037
     },
     {
         "repo": "abcoincidence",
@@ -97760,19 +97552,6 @@
         "id": 896683190
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 2289,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-01T04:38:13+00:00",
-        "pushed": "2024-12-01T04:38:09+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Synopsys_RTL2GDSII_SFAL",
         "description": null,
         "owner": "yathAg",
@@ -97784,5 +97563,291 @@
         "pushed": "2024-12-01T02:04:37+00:00",
         "url": "https://github.com/yathAg/Synopsys_RTL2GDSII_SFAL",
         "id": 876863931
+    },
+    {
+        "repo": "siliconcompiler",
+        "description": "Modular hardware build system",
+        "owner": "siliconcompiler",
+        "stars": 864,
+        "forks": 86,
+        "size": 349807,
+        "created": "2020-12-10T21:52:17+00:00",
+        "updated": "2024-12-01T20:21:29+00:00",
+        "pushed": "2024-12-02T02:09:24+00:00",
+        "url": "https://github.com/siliconcompiler/siliconcompiler",
+        "id": 320398696
+    },
+    {
+        "repo": "xschem-viewer",
+        "description": "Online viewer of Xschem schematic files",
+        "owner": "TinyTapeout",
+        "stars": 21,
+        "forks": 2,
+        "size": 1056,
+        "created": "2024-03-10T10:24:27+00:00",
+        "updated": "2024-12-01T09:43:37+00:00",
+        "pushed": "2024-12-01T09:43:33+00:00",
+        "url": "https://github.com/TinyTapeout/xschem-viewer",
+        "id": 769878838
+    },
+    {
+        "repo": "nasscom-vsd-soc-design",
+        "description": "NASSCOM SOC Design flow workshop",
+        "owner": "Prathamanchan",
+        "stars": 0,
+        "forks": 0,
+        "size": 23,
+        "created": "2024-11-28T20:00:09+00:00",
+        "updated": "2024-12-01T19:33:59+00:00",
+        "pushed": "2024-12-01T19:33:56+00:00",
+        "url": "https://github.com/Prathamanchan/nasscom-vsd-soc-design",
+        "id": 895742027
+    },
+    {
+        "repo": "core",
+        "description": "Core holds the central schema definitions, resolvers, endpoints, and other tooling associated with the Openlane product suite",
+        "owner": "theopenlane",
+        "stars": 8,
+        "forks": 4,
+        "size": 14281,
+        "created": "2024-08-24T15:26:59+00:00",
+        "updated": "2024-12-02T06:02:18+00:00",
+        "pushed": "2024-12-02T06:02:15+00:00",
+        "url": "https://github.com/theopenlane/core",
+        "id": 847006986
+    },
+    {
+        "repo": "OpenLane",
+        "description": null,
+        "owner": "sampath198",
+        "stars": 0,
+        "forks": 0,
+        "size": 8190,
+        "created": "2024-12-01T08:31:07+00:00",
+        "updated": "2024-12-01T08:32:19+00:00",
+        "pushed": "2024-12-01T08:32:14+00:00",
+        "url": "https://github.com/sampath198/OpenLane",
+        "id": 896761629
+    },
+    {
+        "repo": "Qiskit-Metal-to-Litho",
+        "description": "From Qiskit Metal to pattern generation to real nanofabrication demo. Here, quantum devices on a chip are patterned via direct-write electron-beam lithography in a nanofabrication facility. Written & patterned by Onri Jay Benally, an Indigenous American quantum hardware engineer.",
+        "owner": "OJB-Quantum",
+        "stars": 40,
+        "forks": 14,
+        "size": 103404,
+        "created": "2023-06-17T13:27:59+00:00",
+        "updated": "2024-12-02T01:33:25+00:00",
+        "pushed": "2024-12-02T01:33:21+00:00",
+        "url": "https://github.com/OJB-Quantum/Qiskit-Metal-to-Litho",
+        "id": 654966534
+    },
+    {
+        "repo": "wsl_osic",
+        "description": "SKY130 / GF180MCU / OpenRule1umPDK development tools for Ubuntu 22 (WSL2) ",
+        "owner": "3zki",
+        "stars": 0,
+        "forks": 2,
+        "size": 1297,
+        "created": "2024-03-18T18:55:25+00:00",
+        "updated": "2024-12-02T02:58:22+00:00",
+        "pushed": "2024-12-02T02:58:18+00:00",
+        "url": "https://github.com/3zki/wsl_osic",
+        "id": 773993461
+    },
+    {
+        "repo": "Skywater_tools",
+        "description": "To make the IC simulation with Skywater 130 PDK, i created a script that install the tools to run the first simulation. ",
+        "owner": "RobertoDiLorenzo",
+        "stars": 5,
+        "forks": 0,
+        "size": 52,
+        "created": "2023-08-10T20:02:03+00:00",
+        "updated": "2024-12-01T12:28:06+00:00",
+        "pushed": "2024-12-01T12:28:03+00:00",
+        "url": "https://github.com/RobertoDiLorenzo/Skywater_tools",
+        "id": 677126807
+    },
+    {
+        "repo": "esim_ubuntu_installation",
+        "description": null,
+        "owner": "avinashlalotra",
+        "stars": 0,
+        "forks": 0,
+        "size": 99489,
+        "created": "2024-11-29T19:39:12+00:00",
+        "updated": "2024-12-01T11:24:21+00:00",
+        "pushed": "2024-12-01T11:57:06+00:00",
+        "url": "https://github.com/avinashlalotra/esim_ubuntu_installation",
+        "id": 896212774
+    },
+    {
+        "repo": "nasscom-soc-vlsi-design",
+        "description": null,
+        "owner": "SnehasishBiswas",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-11-28T07:40:00+00:00",
+        "updated": "2024-12-01T20:18:45+00:00",
+        "pushed": "2024-12-01T20:18:41+00:00",
+        "url": "https://github.com/SnehasishBiswas/nasscom-soc-vlsi-design",
+        "id": 895430366
+    },
+    {
+        "repo": "PHNet",
+        "description": "Parallel Heterogeneous Networks with Adaptive Routing for Online Video Lane Detection.",
+        "owner": "CZY-Code",
+        "stars": 0,
+        "forks": 0,
+        "size": 8984,
+        "created": "2024-12-02T02:14:22+00:00",
+        "updated": "2024-12-02T03:25:10+00:00",
+        "pushed": "2024-12-02T03:24:09+00:00",
+        "url": "https://github.com/CZY-Code/PHNet",
+        "id": 897089648
+    },
+    {
+        "repo": "bfg",
+        "description": "An Open-Source Silicon Compiler for Reduced-Complexity Reconfigurable Fabrics",
+        "owner": "growly",
+        "stars": 7,
+        "forks": 0,
+        "size": 39561,
+        "created": "2022-06-03T21:40:36+00:00",
+        "updated": "2024-12-02T01:26:50+00:00",
+        "pushed": "2024-12-02T01:26:46+00:00",
+        "url": "https://github.com/growly/bfg",
+        "id": 499658756
+    },
+    {
+        "repo": "openlane_frontend_challenge",
+        "description": null,
+        "owner": "szypulinskin",
+        "stars": 0,
+        "forks": 0,
+        "size": 196,
+        "created": "2024-11-25T22:52:02+00:00",
+        "updated": "2024-12-02T03:55:52+00:00",
+        "pushed": "2024-12-02T03:55:48+00:00",
+        "url": "https://github.com/szypulinskin/openlane_frontend_challenge",
+        "id": 894185011
+    },
+    {
+        "repo": "caravel_ucr_project",
+        "description": null,
+        "owner": "jjimenezu",
+        "stars": 0,
+        "forks": 0,
+        "size": 17084,
+        "created": "2024-08-21T06:10:50+00:00",
+        "updated": "2024-12-02T03:25:25+00:00",
+        "pushed": "2024-12-02T03:25:14+00:00",
+        "url": "https://github.com/jjimenezu/caravel_ucr_project",
+        "id": 845376938
+    },
+    {
+        "repo": "tiny-connect-four",
+        "description": null,
+        "owner": "RoyTr16",
+        "stars": 0,
+        "forks": 0,
+        "size": 120,
+        "created": "2024-11-05T15:15:19+00:00",
+        "updated": "2024-12-02T00:05:03+00:00",
+        "pushed": "2024-12-02T00:04:59+00:00",
+        "url": "https://github.com/RoyTr16/tiny-connect-four",
+        "id": 883788037
+    },
+    {
+        "repo": "awesome-eda",
+        "description": "A curated list of awesome electronic design automation topics",
+        "owner": "RarityBrown",
+        "stars": 0,
+        "forks": 0,
+        "size": 13,
+        "created": "2024-10-28T15:08:59+00:00",
+        "updated": "2024-12-01T07:46:49+00:00",
+        "pushed": "2024-12-01T07:46:46+00:00",
+        "url": "https://github.com/RarityBrown/awesome-eda",
+        "id": 879798359
+    },
+    {
+        "repo": "tt10-enigma",
+        "description": null,
+        "owner": "virantha",
+        "stars": 0,
+        "forks": 0,
+        "size": 197,
+        "created": "2024-11-17T02:55:59+00:00",
+        "updated": "2024-12-02T02:58:14+00:00",
+        "pushed": "2024-12-02T02:58:10+00:00",
+        "url": "https://github.com/virantha/tt10-enigma",
+        "id": 889713236
+    },
+    {
+        "repo": "ProyectoElectrico",
+        "description": null,
+        "owner": "Anndress07",
+        "stars": 0,
+        "forks": 0,
+        "size": 751,
+        "created": "2024-08-24T20:13:29+00:00",
+        "updated": "2024-12-02T00:48:09+00:00",
+        "pushed": "2024-12-02T00:48:06+00:00",
+        "url": "https://github.com/Anndress07/ProyectoElectrico",
+        "id": 847087915
+    },
+    {
+        "repo": "DAC2025_ROAR",
+        "description": "This repository contains all software, scripts, and characterizations to reproduce the results in the paper submission Analytical Optimization for Robust and Efficient Analog IC Design with Layout Convergence. This repository uses the skywater 130nm FOSS PDK as well as ALIGN analog generator.",
+        "owner": "alecadair",
+        "stars": 0,
+        "forks": 0,
+        "size": 8047,
+        "created": "2024-11-19T09:40:47+00:00",
+        "updated": "2024-12-01T14:19:34+00:00",
+        "pushed": "2024-12-01T14:19:30+00:00",
+        "url": "https://github.com/alecadair/DAC2025_ROAR",
+        "id": 890849681
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 2377,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-12-02T04:37:28+00:00",
+        "pushed": "2024-12-02T04:37:24+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "DailyArXiv",
+        "description": "Daily ArXiv Papers.",
+        "owner": "zezhishao",
+        "stars": 41,
+        "forks": 4,
+        "size": 12482,
+        "created": "2024-03-15T14:45:16+00:00",
+        "updated": "2024-12-01T16:45:18+00:00",
+        "pushed": "2024-12-01T16:45:15+00:00",
+        "url": "https://github.com/zezhishao/DailyArXiv",
+        "id": 772615734
+    },
+    {
+        "repo": "DailyArXiv",
+        "description": null,
+        "owner": "tangwen-qian",
+        "stars": 15,
+        "forks": 1,
+        "size": 27775,
+        "created": "2024-04-08T10:54:08+00:00",
+        "updated": "2024-12-01T16:45:05+00:00",
+        "pushed": "2024-12-01T16:45:01+00:00",
+        "url": "https://github.com/tangwen-qian/DailyArXiv",
+        "id": 783672596
     }
 ]
