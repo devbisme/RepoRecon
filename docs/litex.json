@@ -11037,19 +11037,6 @@
         "id": 668485047
     },
     {
-        "repo": "ulx3s.github.io",
-        "description": "community projects that can be used with the ULX3S FPGA ESP32 board",
-        "owner": "ulx3s",
-        "stars": 14,
-        "forks": 3,
-        "size": 2793,
-        "created": "2020-02-29T16:22:28+00:00",
-        "updated": "2023-11-01T03:47:21+00:00",
-        "pushed": "2024-04-12T21:55:47+00:00",
-        "url": "https://github.com/ulx3s/ulx3s.github.io",
-        "id": 244001351
-    },
-    {
         "repo": "KWS-ASIC",
         "description": "Keyword Spotting Accelerator chip design for Efabless AI-design-contest",
         "owner": "meyanik",
@@ -13481,19 +13468,6 @@
         "id": 42048653
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1393,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-11-26T05:16:20+00:00",
-        "pushed": "2024-11-26T05:16:17+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "litex_",
         "description": "Litex with Coreblocks support",
         "owner": "kuznia-rdzeni",
@@ -13598,32 +13572,6 @@
         "id": 862939133
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3028,
-        "forks": 573,
-        "size": 17338,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-11-29T05:13:07+00:00",
-        "pushed": "2024-11-28T12:33:32+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
-        "owner": "litexlang",
-        "stars": 27,
-        "forks": 0,
-        "size": 1229,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-11-30T01:46:04+00:00",
-        "pushed": "2024-11-30T01:46:01+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "LimeSDR_GW",
         "description": "LiteX-based gateware for LimeSDR boards.",
         "owner": "myriadrf",
@@ -13715,19 +13663,6 @@
         "id": 892878969
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 873,
-        "forks": 78,
-        "size": 1229,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-01T19:18:30+00:00",
-        "pushed": "2024-12-02T02:27:41+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -13780,19 +13715,6 @@
         "id": 761567898
     },
     {
-        "repo": "LiteXDR",
-        "description": "Event detection/response system for Windows designed to keep server costs light.",
-        "owner": "jkatz01",
-        "stars": 0,
-        "forks": 0,
-        "size": 19219,
-        "created": "2023-06-28T02:46:37+00:00",
-        "updated": "2024-12-02T06:59:01+00:00",
-        "pushed": "2024-12-02T06:58:58+00:00",
-        "url": "https://github.com/jkatz01/LiteXDR",
-        "id": 659521415
-    },
-    {
         "repo": "wmt_riscv_study",
         "description": "My RISC-V study",
         "owner": "weimingtom",
@@ -13819,15 +13741,106 @@
         "id": 793742406
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3036,
+        "forks": 573,
+        "size": 17343,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-12-03T04:05:18+00:00",
+        "pushed": "2024-12-02T16:29:14+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 873,
+        "forks": 78,
+        "size": 1230,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-02T13:22:24+00:00",
+        "pushed": "2024-12-03T02:40:24+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
+        "owner": "litexlang",
+        "stars": 31,
+        "forks": 0,
+        "size": 1292,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-03T02:56:02+00:00",
+        "pushed": "2024-12-03T02:55:57+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "ulx3s.github.io",
+        "description": "community projects that can be used with the ULX3S FPGA ESP32 board",
+        "owner": "ulx3s",
+        "stars": 15,
+        "forks": 4,
+        "size": 2801,
+        "created": "2020-02-29T16:22:28+00:00",
+        "updated": "2024-12-02T20:54:44+00:00",
+        "pushed": "2024-12-02T20:54:39+00:00",
+        "url": "https://github.com/ulx3s/ulx3s.github.io",
+        "id": 244001351
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1401,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-12-02T17:35:35+00:00",
+        "pushed": "2024-12-02T17:35:31+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "LiteXDR",
+        "description": "Event detection/response system for Windows designed to keep server costs light.",
+        "owner": "jkatz01",
+        "stars": 0,
+        "forks": 0,
+        "size": 19534,
+        "created": "2023-06-28T02:46:37+00:00",
+        "updated": "2024-12-03T05:54:18+00:00",
+        "pushed": "2024-12-03T05:54:15+00:00",
+        "url": "https://github.com/jkatz01/LiteXDR",
+        "id": 659521415
+    },
+    {
+        "repo": "LiteXfer",
+        "description": "This is a small HTTP server meant to transfer files",
+        "owner": "rcallaby",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2024-12-03T00:39:03+00:00",
+        "updated": "2024-12-03T00:39:07+00:00",
+        "pushed": "2024-12-03T00:40:42+00:00",
+        "url": "https://github.com/rcallaby/LiteXfer",
+        "id": 897628460
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2377,
+        "size": 2378,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-02T04:37:28+00:00",
-        "pushed": "2024-12-02T04:37:24+00:00",
+        "updated": "2024-12-03T04:37:32+00:00",
+        "pushed": "2024-12-03T04:37:28+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13837,10 +13850,10 @@
         "owner": "jafshare",
         "stars": 7,
         "forks": 0,
-        "size": 32883,
+        "size": 32941,
         "created": "2023-10-07T09:03:35+00:00",
-        "updated": "2024-12-02T00:55:32+00:00",
-        "pushed": "2024-12-02T00:55:29+00:00",
+        "updated": "2024-12-03T00:54:40+00:00",
+        "pushed": "2024-12-03T00:54:36+00:00",
         "url": "https://github.com/jafshare/GithubTrending",
         "id": 701683842
     },
@@ -13850,10 +13863,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 74656,
+        "size": 75136,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-02T03:41:40+00:00",
-        "pushed": "2024-12-02T03:41:37+00:00",
+        "updated": "2024-12-03T03:41:14+00:00",
+        "pushed": "2024-12-03T03:41:10+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
