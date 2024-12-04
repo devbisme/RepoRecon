@@ -12662,19 +12662,6 @@
         "id": 872647183
     },
     {
-        "repo": "Signaloid-C0-microSD-litex-I2C-demo",
-        "description": "Litex demo for Signaloid C0-microSD using I2C peripherals",
-        "owner": "signaloid",
-        "stars": 0,
-        "forks": 0,
-        "size": 283,
-        "created": "2024-10-15T07:56:29+00:00",
-        "updated": "2024-10-17T07:55:39+00:00",
-        "pushed": "2024-10-16T15:39:37+00:00",
-        "url": "https://github.com/signaloid/Signaloid-C0-microSD-litex-I2C-demo",
-        "id": 872865371
-    },
-    {
         "repo": "f80",
         "description": "A simple Z80 system running on an FPGA",
         "owner": "rprinz08",
@@ -13429,19 +13416,6 @@
         "id": 784979558
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 261,
-        "forks": 17,
-        "size": 13575,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-11-25T03:17:51+00:00",
-        "pushed": "2024-11-25T03:17:47+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -13520,19 +13494,6 @@
         "id": 894193017
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1447,
-        "forks": 192,
-        "size": 12924,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-11-26T18:59:06+00:00",
-        "pushed": "2024-11-26T18:59:02+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -13570,19 +13531,6 @@
         "pushed": "2024-11-27T11:44:40+00:00",
         "url": "https://github.com/Stars-Collector/litex-138k",
         "id": 862939133
-    },
-    {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 1,
-        "forks": 3,
-        "size": 2057,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2024-11-29T09:12:15+00:00",
-        "pushed": "2024-11-29T09:12:11+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
     },
     {
         "repo": "pythondata_cpu_myooo",
@@ -13663,32 +13611,6 @@
         "id": 892878969
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1615,
-        "forks": 227,
-        "size": 216973,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-02T06:22:48+00:00",
-        "pushed": "2024-12-01T20:21:26+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 71,
-        "forks": 22,
-        "size": 108807,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-12-02T04:25:52+00:00",
-        "pushed": "2024-12-02T04:25:50+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
-    },
-    {
         "repo": "awesome-latticeFPGAs",
         "description": ":book: List of FPGA Lattice boards using open tools",
         "owner": "kelu124",
@@ -13752,19 +13674,6 @@
         "pushed": "2024-12-02T16:29:14+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 873,
-        "forks": 78,
-        "size": 1230,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-02T13:22:24+00:00",
-        "pushed": "2024-12-03T02:40:24+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "tslitex",
@@ -13832,6 +13741,97 @@
         "id": 897628460
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 874,
+        "forks": 78,
+        "size": 1230,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-04T03:41:37+00:00",
+        "pushed": "2024-12-04T02:40:54+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1615,
+        "forks": 227,
+        "size": 216951,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-03T21:13:22+00:00",
+        "pushed": "2024-12-03T21:13:18+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1452,
+        "forks": 192,
+        "size": 12927,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2024-12-03T19:53:51+00:00",
+        "pushed": "2024-12-03T12:54:23+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 264,
+        "forks": 17,
+        "size": 13579,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2024-12-03T18:59:05+00:00",
+        "pushed": "2024-12-03T18:59:01+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 71,
+        "forks": 22,
+        "size": 108771,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-12-03T21:06:01+00:00",
+        "pushed": "2024-12-04T04:29:11+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 1,
+        "forks": 3,
+        "size": 2070,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2024-12-03T09:01:04+00:00",
+        "pushed": "2024-12-03T09:01:00+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "Signaloid-C0-microSD-litex-I2C-demo",
+        "description": "Litex demo for Signaloid C0-microSD using I2C peripherals",
+        "owner": "signaloid",
+        "stars": 3,
+        "forks": 0,
+        "size": 1580,
+        "created": "2024-10-15T07:56:29+00:00",
+        "updated": "2024-12-03T16:59:31+00:00",
+        "pushed": "2024-12-03T16:59:21+00:00",
+        "url": "https://github.com/signaloid/Signaloid-C0-microSD-litex-I2C-demo",
+        "id": 872865371
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
@@ -13839,8 +13839,8 @@
         "forks": 0,
         "size": 2378,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-03T04:37:32+00:00",
-        "pushed": "2024-12-03T04:37:28+00:00",
+        "updated": "2024-12-04T04:36:48+00:00",
+        "pushed": "2024-12-04T04:36:45+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13850,10 +13850,10 @@
         "owner": "jafshare",
         "stars": 7,
         "forks": 0,
-        "size": 32941,
+        "size": 33019,
         "created": "2023-10-07T09:03:35+00:00",
-        "updated": "2024-12-03T00:54:40+00:00",
-        "pushed": "2024-12-03T00:54:36+00:00",
+        "updated": "2024-12-04T00:54:36+00:00",
+        "pushed": "2024-12-04T00:54:28+00:00",
         "url": "https://github.com/jafshare/GithubTrending",
         "id": 701683842
     },
@@ -13863,10 +13863,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 75136,
+        "size": 75609,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-03T03:41:14+00:00",
-        "pushed": "2024-12-03T03:41:10+00:00",
+        "updated": "2024-12-04T03:40:15+00:00",
+        "pushed": "2024-12-04T03:40:11+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
