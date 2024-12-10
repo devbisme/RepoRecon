@@ -13377,19 +13377,6 @@
         "id": 894193017
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 37,
-        "forks": 16,
-        "size": 46612,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-11-26T20:32:54+00:00",
-        "pushed": "2024-11-26T20:36:06+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "litex-138k",
         "description": null,
         "owner": "Stars-Collector",
@@ -13479,19 +13466,6 @@
         "pushed": "2024-12-02T20:54:39+00:00",
         "url": "https://github.com/ulx3s/ulx3s.github.io",
         "id": 244001351
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1401,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-12-02T17:35:35+00:00",
-        "pushed": "2024-12-02T17:35:31+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
     },
     {
         "repo": "neorv32",
@@ -13624,19 +13598,6 @@
         "id": 659521415
     },
     {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 268,
-        "forks": 40,
-        "size": 3860,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2024-12-07T06:55:30+00:00",
-        "pushed": "2024-12-02T15:20:36+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
-    },
-    {
         "repo": "girlvoice-gateware",
         "description": null,
         "owner": "girlvoice",
@@ -13702,19 +13663,6 @@
         "id": 899646330
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 938,
-        "forks": 197,
-        "size": 730917,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-12-07T12:11:24+00:00",
-        "pushed": "2024-12-07T02:12:24+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13741,32 +13689,6 @@
         "id": 761567898
     },
     {
-        "repo": "wmt_riscv_study",
-        "description": "My RISC-V study",
-        "owner": "weimingtom",
-        "stars": 0,
-        "forks": 0,
-        "size": 254,
-        "created": "2024-10-08T11:43:37+00:00",
-        "updated": "2024-12-08T04:32:58+00:00",
-        "pushed": "2024-12-08T04:32:54+00:00",
-        "url": "https://github.com/weimingtom/wmt_riscv_study",
-        "id": 869491318
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 877,
-        "forks": 79,
-        "size": 1230,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-07T07:42:37+00:00",
-        "pushed": "2024-12-09T02:44:03+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13778,19 +13700,6 @@
         "pushed": "2024-12-09T02:33:01+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
-        "owner": "litexlang",
-        "stars": 36,
-        "forks": 0,
-        "size": 1463,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-09T06:27:11+00:00",
-        "pushed": "2024-12-09T06:27:07+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "pythondata_cpu_myooo",
@@ -13817,19 +13726,6 @@
         "pushed": "2024-12-08T15:17:59+00:00",
         "url": "https://github.com/rcallaby/LiteXfer",
         "id": 897628460
-    },
-    {
-        "repo": "fpga-projects",
-        "description": "A collection of my FPGA projects",
-        "owner": "matiasilva",
-        "stars": 0,
-        "forks": 0,
-        "size": 33,
-        "created": "2024-04-29T19:30:51+00:00",
-        "updated": "2024-12-08T23:27:29+00:00",
-        "pushed": "2024-12-08T23:27:25+00:00",
-        "url": "https://github.com/matiasilva/fpga-projects",
-        "id": 793742406
     },
     {
         "repo": "caravel_docs",
@@ -13871,30 +13767,121 @@
         "id": 237940918
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 938,
+        "forks": 197,
+        "size": 736191,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-12-07T12:11:24+00:00",
+        "pushed": "2024-12-10T05:35:05+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 877,
+        "forks": 80,
+        "size": 1230,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-10T06:47:14+00:00",
+        "pushed": "2024-12-10T06:47:09+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 268,
+        "forks": 40,
+        "size": 3899,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2024-12-07T06:55:30+00:00",
+        "pushed": "2024-12-09T17:05:16+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 39,
+        "forks": 16,
+        "size": 47068,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-12-09T22:05:32+00:00",
+        "pushed": "2024-12-09T22:18:40+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
+        "owner": "litexlang",
+        "stars": 38,
+        "forks": 0,
+        "size": 1619,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-10T06:35:06+00:00",
+        "pushed": "2024-12-10T06:35:02+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1409,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-12-09T18:42:55+00:00",
+        "pushed": "2024-12-09T18:42:51+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "wmt_riscv_study",
+        "description": "My RISC-V study",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 186,
+        "created": "2024-10-08T11:43:37+00:00",
+        "updated": "2024-12-09T19:58:28+00:00",
+        "pushed": "2024-12-09T19:58:25+00:00",
+        "url": "https://github.com/weimingtom/wmt_riscv_study",
+        "id": 869491318
+    },
+    {
+        "repo": "fpga-projects",
+        "description": "A collection of my FPGA projects",
+        "owner": "matiasilva",
+        "stars": 0,
+        "forks": 0,
+        "size": 46,
+        "created": "2024-04-29T19:30:51+00:00",
+        "updated": "2024-12-09T22:44:02+00:00",
+        "pushed": "2024-12-09T22:43:58+00:00",
+        "url": "https://github.com/matiasilva/fpga-projects",
+        "id": 793742406
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1582,
+        "size": 1584,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-09T04:37:45+00:00",
-        "pushed": "2024-12-09T04:37:42+00:00",
+        "updated": "2024-12-10T04:37:29+00:00",
+        "pushed": "2024-12-10T04:37:26+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
-    },
-    {
-        "repo": "GithubTrending",
-        "description": null,
-        "owner": "jafshare",
-        "stars": 7,
-        "forks": 0,
-        "size": 33572,
-        "created": "2023-10-07T09:03:35+00:00",
-        "updated": "2024-12-09T00:56:12+00:00",
-        "pushed": "2024-12-09T00:56:08+00:00",
-        "url": "https://github.com/jafshare/GithubTrending",
-        "id": 701683842
     },
     {
         "repo": "starList",
@@ -13902,11 +13889,24 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 78054,
+        "size": 78548,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-09T03:42:33+00:00",
-        "pushed": "2024-12-09T03:42:29+00:00",
+        "updated": "2024-12-10T03:41:33+00:00",
+        "pushed": "2024-12-10T03:41:29+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "GithubTrending",
+        "description": null,
+        "owner": "jafshare",
+        "stars": 7,
+        "forks": 0,
+        "size": 33716,
+        "created": "2023-10-07T09:03:35+00:00",
+        "updated": "2024-12-10T00:55:19+00:00",
+        "pushed": "2024-12-10T00:55:15+00:00",
+        "url": "https://github.com/jafshare/GithubTrending",
+        "id": 701683842
     }
 ]
