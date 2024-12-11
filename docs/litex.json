@@ -13468,19 +13468,6 @@
         "id": 244001351
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1615,
-        "forks": 227,
-        "size": 216951,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-03T21:13:22+00:00",
-        "pushed": "2024-12-03T21:13:18+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -13572,19 +13559,6 @@
         "id": 898620004
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 69,
-        "forks": 8,
-        "size": 6662,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-12-05T12:48:14+00:00",
-        "pushed": "2024-12-05T12:48:10+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "LiteXDR",
         "description": "Event detection/response system for Windows designed to keep server costs light.",
         "owner": "jkatz01",
@@ -13624,19 +13598,6 @@
         "id": 504905833
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 1,
-        "forks": 3,
-        "size": 2631,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2024-12-06T15:25:08+00:00",
-        "pushed": "2024-12-06T15:25:04+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -13661,19 +13622,6 @@
         "pushed": "2024-12-06T18:24:04+00:00",
         "url": "https://github.com/thiago0003/TCC_RISC_V",
         "id": 899646330
-    },
-    {
-        "repo": "Raptor",
-        "description": "Raptor end-to-end FPGA Compiler and GUI",
-        "owner": "os-fpga",
-        "stars": 71,
-        "forks": 22,
-        "size": 108806,
-        "created": "2022-03-02T07:21:57+00:00",
-        "updated": "2024-12-07T08:06:53+00:00",
-        "pushed": "2024-12-07T08:06:50+00:00",
-        "url": "https://github.com/os-fpga/Raptor",
-        "id": 465199162
     },
     {
         "repo": "mollusc-arch",
@@ -13728,19 +13676,6 @@
         "id": 897628460
     },
     {
-        "repo": "caravel_docs",
-        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
-        "owner": "algofoogle",
-        "stars": 0,
-        "forks": 0,
-        "size": 1149,
-        "created": "2024-12-07T20:21:37+00:00",
-        "updated": "2024-12-08T11:05:38+00:00",
-        "pushed": "2024-12-08T11:05:34+00:00",
-        "url": "https://github.com/algofoogle/caravel_docs",
-        "id": 900084065
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -13780,19 +13715,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 877,
-        "forks": 80,
-        "size": 1230,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-10T06:47:14+00:00",
-        "pushed": "2024-12-10T06:47:09+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -13804,45 +13726,6 @@
         "pushed": "2024-12-09T17:05:16+00:00",
         "url": "https://github.com/SpinalHDL/NaxRiscv",
         "id": 413357087
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 39,
-        "forks": 16,
-        "size": 47068,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-12-09T22:05:32+00:00",
-        "pushed": "2024-12-09T22:18:40+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
-        "owner": "litexlang",
-        "stars": 38,
-        "forks": 0,
-        "size": 1619,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-10T06:35:06+00:00",
-        "pushed": "2024-12-10T06:35:02+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1409,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-12-09T18:42:55+00:00",
-        "pushed": "2024-12-09T18:42:51+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
     },
     {
         "repo": "wmt_riscv_study",
@@ -13858,17 +13741,147 @@
         "id": 869491318
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 878,
+        "forks": 80,
+        "size": 1236,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-11T01:34:48+00:00",
+        "pushed": "2024-12-11T02:40:56+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 70,
+        "forks": 9,
+        "size": 6688,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-12-10T15:43:24+00:00",
+        "pushed": "2024-12-10T15:43:19+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1623,
+        "forks": 227,
+        "size": 217004,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-10T19:57:16+00:00",
+        "pushed": "2024-12-10T20:10:25+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 39,
+        "forks": 16,
+        "size": 48932,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-12-10T22:29:29+00:00",
+        "pushed": "2024-12-10T22:42:20+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
+        "owner": "litexlang",
+        "stars": 40,
+        "forks": 0,
+        "size": 1836,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-11T06:20:42+00:00",
+        "pushed": "2024-12-11T01:29:45+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "Raptor",
+        "description": "Raptor end-to-end FPGA Compiler and GUI",
+        "owner": "os-fpga",
+        "stars": 71,
+        "forks": 22,
+        "size": 108807,
+        "created": "2022-03-02T07:21:57+00:00",
+        "updated": "2024-12-07T08:06:53+00:00",
+        "pushed": "2024-12-11T05:01:56+00:00",
+        "url": "https://github.com/os-fpga/Raptor",
+        "id": 465199162
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 1,
+        "forks": 3,
+        "size": 3205,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2024-12-10T12:06:33+00:00",
+        "pushed": "2024-12-10T12:06:28+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1417,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-12-11T00:45:36+00:00",
+        "pushed": "2024-12-11T00:45:32+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "k230-bare-metal",
+        "description": "Bare-metal Rust Embedded on K230",
+        "owner": "andelf",
+        "stars": 0,
+        "forks": 0,
+        "size": 235,
+        "created": "2024-12-02T09:23:20+00:00",
+        "updated": "2024-12-11T05:52:00+00:00",
+        "pushed": "2024-12-11T05:51:56+00:00",
+        "url": "https://github.com/andelf/k230-bare-metal",
+        "id": 897233661
+    },
+    {
         "repo": "fpga-projects",
         "description": "A collection of my FPGA projects",
         "owner": "matiasilva",
         "stars": 0,
         "forks": 0,
-        "size": 46,
+        "size": 55,
         "created": "2024-04-29T19:30:51+00:00",
-        "updated": "2024-12-09T22:44:02+00:00",
-        "pushed": "2024-12-09T22:43:58+00:00",
+        "updated": "2024-12-10T23:30:40+00:00",
+        "pushed": "2024-12-10T23:30:37+00:00",
         "url": "https://github.com/matiasilva/fpga-projects",
         "id": 793742406
+    },
+    {
+        "repo": "caravel_docs",
+        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
+        "owner": "algofoogle",
+        "stars": 0,
+        "forks": 0,
+        "size": 1159,
+        "created": "2024-12-07T20:21:37+00:00",
+        "updated": "2024-12-10T19:30:48+00:00",
+        "pushed": "2024-12-10T19:30:44+00:00",
+        "url": "https://github.com/algofoogle/caravel_docs",
+        "id": 900084065
     },
     {
         "repo": "starred",
@@ -13876,10 +13889,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1584,
+        "size": 1585,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-10T04:37:29+00:00",
-        "pushed": "2024-12-10T04:37:26+00:00",
+        "updated": "2024-12-11T04:37:01+00:00",
+        "pushed": "2024-12-11T04:36:57+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13889,10 +13902,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 78548,
+        "size": 79042,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-10T03:41:33+00:00",
-        "pushed": "2024-12-10T03:41:29+00:00",
+        "updated": "2024-12-11T03:39:58+00:00",
+        "pushed": "2024-12-11T03:39:54+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -13902,10 +13915,10 @@
         "owner": "jafshare",
         "stars": 7,
         "forks": 0,
-        "size": 33716,
+        "size": 33869,
         "created": "2023-10-07T09:03:35+00:00",
-        "updated": "2024-12-10T00:55:19+00:00",
-        "pushed": "2024-12-10T00:55:15+00:00",
+        "updated": "2024-12-11T00:54:27+00:00",
+        "pushed": "2024-12-11T00:54:23+00:00",
         "url": "https://github.com/jafshare/GithubTrending",
         "id": 701683842
     }

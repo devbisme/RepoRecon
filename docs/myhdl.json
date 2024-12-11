@@ -5252,19 +5252,6 @@
         "id": 859113010
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 4,
-        "forks": 2,
-        "size": 894,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-09-25T19:47:34+00:00",
-        "pushed": "2024-09-25T19:47:30+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "myhdl",
         "description": "The MyHDL development repository",
         "owner": "myhdl",
@@ -5484,5 +5471,18 @@
         "pushed": "2024-12-08T10:22:56+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 7,
+        "forks": 3,
+        "size": 877,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2024-12-10T20:56:53+00:00",
+        "pushed": "2024-12-10T20:59:40+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
