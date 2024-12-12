@@ -12844,19 +12844,6 @@
         "id": 658631896
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 44,
-        "forks": 2,
-        "size": 135899,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-11-01T18:56:50+00:00",
-        "pushed": "2024-11-01T18:56:47+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "pythondata-cpu-vexiiriscv",
         "description": "Python module containing verilog files/generators for VexiiRiscv CPU (for use with LiteX).",
         "owner": "litex-hub",
@@ -13195,19 +13182,6 @@
         "id": 885556787
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 379,
-        "forks": 289,
-        "size": 4279,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-11-21T07:40:18+00:00",
-        "pushed": "2024-11-21T07:40:14+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -13494,19 +13468,6 @@
         "id": 434342707
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3038,
-        "forks": 573,
-        "size": 17359,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-12-05T00:16:44+00:00",
-        "pushed": "2024-12-04T08:17:02+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "Signaloid-C0-microSD-litex-I2C-demo",
         "description": "Litex demo for Signaloid C0-microSD using I2C peripherals",
         "owner": "signaloid",
@@ -13596,19 +13557,6 @@
         "pushed": "2024-12-06T20:47:48+00:00",
         "url": "https://github.com/apfelaudio/eurorack-pmod",
         "id": 504905833
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 23358,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-12-06T11:32:04+00:00",
-        "pushed": "2024-12-06T11:32:00+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "TCC_RISC_V",
@@ -13702,32 +13650,6 @@
         "id": 237940918
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 938,
-        "forks": 197,
-        "size": 736191,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-12-07T12:11:24+00:00",
-        "pushed": "2024-12-10T05:35:05+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 268,
-        "forks": 40,
-        "size": 3899,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2024-12-07T06:55:30+00:00",
-        "pushed": "2024-12-09T17:05:16+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
-    },
-    {
         "repo": "wmt_riscv_study",
         "description": "My RISC-V study",
         "owner": "weimingtom",
@@ -13739,19 +13661,6 @@
         "pushed": "2024-12-09T19:58:25+00:00",
         "url": "https://github.com/weimingtom/wmt_riscv_study",
         "id": 869491318
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 878,
-        "forks": 80,
-        "size": 1236,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-11T01:34:48+00:00",
-        "pushed": "2024-12-11T02:40:56+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litex_m2sdr",
@@ -13767,19 +13676,6 @@
         "id": 800027977
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1623,
-        "forks": 227,
-        "size": 217004,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-10T19:57:16+00:00",
-        "pushed": "2024-12-10T20:10:25+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -13791,19 +13687,6 @@
         "pushed": "2024-12-10T22:42:20+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
-        "owner": "litexlang",
-        "stars": 40,
-        "forks": 0,
-        "size": 1836,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-11T06:20:42+00:00",
-        "pushed": "2024-12-11T01:29:45+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "Raptor",
@@ -13884,32 +13767,6 @@
         "id": 900084065
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1585,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-11T04:37:01+00:00",
-        "pushed": "2024-12-11T04:36:57+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 13,
-        "forks": 3,
-        "size": 79042,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-11T03:39:58+00:00",
-        "pushed": "2024-12-11T03:39:54+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "GithubTrending",
         "description": null,
         "owner": "jafshare",
@@ -13921,5 +13778,148 @@
         "pushed": "2024-12-11T00:54:23+00:00",
         "url": "https://github.com/jafshare/GithubTrending",
         "id": 701683842
+    },
+    {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3056,
+        "forks": 574,
+        "size": 17373,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-12-11T21:11:16+00:00",
+        "pushed": "2024-12-11T11:05:56+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 380,
+        "forks": 290,
+        "size": 4290,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-12-11T07:44:04+00:00",
+        "pushed": "2024-12-11T07:43:57+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 940,
+        "forks": 197,
+        "size": 736191,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-12-11T16:49:42+00:00",
+        "pushed": "2024-12-12T06:06:01+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 879,
+        "forks": 80,
+        "size": 1236,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-11T08:12:30+00:00",
+        "pushed": "2024-12-12T02:40:40+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1624,
+        "forks": 228,
+        "size": 217015,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-12T03:48:08+00:00",
+        "pushed": "2024-12-11T20:10:05+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 268,
+        "forks": 40,
+        "size": 3902,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2024-12-07T06:55:30+00:00",
+        "pushed": "2024-12-11T17:06:19+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
+        "owner": "litexlang",
+        "stars": 41,
+        "forks": 0,
+        "size": 1836,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-12T06:55:57+00:00",
+        "pushed": "2024-12-12T06:55:52+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 23383,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-12-12T06:44:48+00:00",
+        "pushed": "2024-12-12T06:44:43+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
+        "owner": "chili-chips-ba",
+        "stars": 46,
+        "forks": 2,
+        "size": 135907,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-12-11T20:27:14+00:00",
+        "pushed": "2024-12-11T20:27:06+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1586,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-12-12T04:37:39+00:00",
+        "pushed": "2024-12-12T04:37:35+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 13,
+        "forks": 3,
+        "size": 79535,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2024-12-12T03:40:18+00:00",
+        "pushed": "2024-12-12T03:40:12+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
