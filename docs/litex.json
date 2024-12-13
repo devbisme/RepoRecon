@@ -12402,19 +12402,6 @@
         "id": 42045393
     },
     {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 53,
-        "forks": 24,
-        "size": 758,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2024-09-27T07:47:43+00:00",
-        "pushed": "2024-09-27T07:47:40+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
-    },
-    {
         "repo": "litejesd204b",
         "description": "Small footprint and configurable JESD204B core",
         "owner": "enjoy-digital",
@@ -13117,19 +13104,6 @@
         "id": 532379641
     },
     {
-        "repo": "pengullama",
-        "description": null,
-        "owner": "wrighted",
-        "stars": 0,
-        "forks": 0,
-        "size": 1726,
-        "created": "2024-09-14T19:44:29+00:00",
-        "updated": "2024-11-19T20:27:56+00:00",
-        "pushed": "2024-11-19T20:27:53+00:00",
-        "url": "https://github.com/wrighted/pengullama",
-        "id": 857490388
-    },
-    {
         "repo": "repos",
         "description": "Fetch Github repos information with Github REST API and PHP every 15 minutes",
         "owner": "dev-chenxing",
@@ -13284,19 +13258,6 @@
         "pushed": "2024-11-25T05:48:24+00:00",
         "url": "https://github.com/EEVengers/libtslitex",
         "id": 784979558
-    },
-    {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 216,
-        "forks": 87,
-        "size": 1473,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-11-25T08:21:30+00:00",
-        "pushed": "2024-11-25T08:21:26+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
     },
     {
         "repo": "litex_",
@@ -13585,19 +13546,6 @@
         "id": 761567898
     },
     {
-        "repo": "CFU-Playground",
-        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
-        "owner": "google",
-        "stars": 476,
-        "forks": 123,
-        "size": 41637,
-        "created": "2021-03-09T21:38:18+00:00",
-        "updated": "2024-12-08T14:48:01+00:00",
-        "pushed": "2024-12-09T02:33:01+00:00",
-        "url": "https://github.com/google/CFU-Playground",
-        "id": 346151420
-    },
-    {
         "repo": "pythondata_cpu_myooo",
         "description": null,
         "owner": "msyksphinz-self",
@@ -13648,19 +13596,6 @@
         "pushed": "2024-12-09T02:24:14+00:00",
         "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
         "id": 237940918
-    },
-    {
-        "repo": "wmt_riscv_study",
-        "description": "My RISC-V study",
-        "owner": "weimingtom",
-        "stars": 0,
-        "forks": 0,
-        "size": 186,
-        "created": "2024-10-08T11:43:37+00:00",
-        "updated": "2024-12-09T19:58:28+00:00",
-        "pushed": "2024-12-09T19:58:25+00:00",
-        "url": "https://github.com/weimingtom/wmt_riscv_study",
-        "id": 869491318
     },
     {
         "repo": "litex_m2sdr",
@@ -13780,19 +13715,6 @@
         "id": 701683842
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3056,
-        "forks": 574,
-        "size": 17373,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-12-11T21:11:16+00:00",
-        "pushed": "2024-12-11T11:05:56+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -13817,32 +13739,6 @@
         "pushed": "2024-12-12T06:06:01+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 879,
-        "forks": 80,
-        "size": 1236,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-11T08:12:30+00:00",
-        "pushed": "2024-12-12T02:40:40+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1624,
-        "forks": 228,
-        "size": 217015,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-12T03:48:08+00:00",
-        "pushed": "2024-12-11T20:10:05+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "NaxRiscv",
@@ -13897,15 +13793,132 @@
         "id": 798146281
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3061,
+        "forks": 574,
+        "size": 17375,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-12-13T03:11:35+00:00",
+        "pushed": "2024-12-12T14:29:14+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 879,
+        "forks": 80,
+        "size": 1236,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-11T08:12:30+00:00",
+        "pushed": "2024-12-13T02:42:37+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 216,
+        "forks": 88,
+        "size": 1446,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-12-12T13:41:37+00:00",
+        "pushed": "2024-12-12T13:41:33+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "owner": "google",
+        "stars": 476,
+        "forks": 125,
+        "size": 41637,
+        "created": "2021-03-09T21:38:18+00:00",
+        "updated": "2024-12-08T14:48:01+00:00",
+        "pushed": "2024-12-13T02:32:07+00:00",
+        "url": "https://github.com/google/CFU-Playground",
+        "id": 346151420
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 54,
+        "forks": 26,
+        "size": 772,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2024-12-12T11:44:38+00:00",
+        "pushed": "2024-12-12T11:44:34+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1625,
+        "forks": 228,
+        "size": 217093,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-12T21:16:31+00:00",
+        "pushed": "2024-12-12T22:14:47+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "wmt_riscv_study",
+        "description": "My RISC-V study",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 203,
+        "created": "2024-10-08T11:43:37+00:00",
+        "updated": "2024-12-12T12:35:17+00:00",
+        "pushed": "2024-12-12T12:35:13+00:00",
+        "url": "https://github.com/weimingtom/wmt_riscv_study",
+        "id": 869491318
+    },
+    {
+        "repo": "NYCU_AAML2024_final",
+        "description": null,
+        "owner": "weiluohuang",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-12-13T06:30:05+00:00",
+        "updated": "2024-12-13T06:31:51+00:00",
+        "pushed": "2024-12-13T06:31:45+00:00",
+        "url": "https://github.com/weiluohuang/NYCU_AAML2024_final",
+        "id": 902726076
+    },
+    {
+        "repo": "pengullama",
+        "description": null,
+        "owner": "wrighted",
+        "stars": 0,
+        "forks": 0,
+        "size": 2271,
+        "created": "2024-09-14T19:44:29+00:00",
+        "updated": "2024-12-13T00:34:03+00:00",
+        "pushed": "2024-12-13T00:33:59+00:00",
+        "url": "https://github.com/wrighted/pengullama",
+        "id": 857490388
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1586,
+        "size": 1622,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-12T04:37:39+00:00",
-        "pushed": "2024-12-12T04:37:35+00:00",
+        "updated": "2024-12-13T04:37:09+00:00",
+        "pushed": "2024-12-13T04:37:03+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13915,10 +13928,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 79535,
+        "size": 80030,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-12T03:40:18+00:00",
-        "pushed": "2024-12-12T03:40:12+00:00",
+        "updated": "2024-12-13T03:41:04+00:00",
+        "pushed": "2024-12-13T03:41:00+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
