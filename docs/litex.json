@@ -13572,19 +13572,6 @@
         "id": 897628460
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 2,
-        "forks": 0,
-        "size": 238,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2024-12-08T10:23:00+00:00",
-        "pushed": "2024-12-08T10:22:56+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -13596,19 +13583,6 @@
         "pushed": "2024-12-09T02:24:14+00:00",
         "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
         "id": 237940918
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 70,
-        "forks": 9,
-        "size": 6688,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-12-10T15:43:24+00:00",
-        "pushed": "2024-12-10T15:43:19+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "coreblocks",
@@ -13676,19 +13650,6 @@
         "id": 897233661
     },
     {
-        "repo": "fpga-projects",
-        "description": "A collection of my FPGA projects",
-        "owner": "matiasilva",
-        "stars": 0,
-        "forks": 0,
-        "size": 55,
-        "created": "2024-04-29T19:30:51+00:00",
-        "updated": "2024-12-10T23:30:40+00:00",
-        "pushed": "2024-12-10T23:30:37+00:00",
-        "url": "https://github.com/matiasilva/fpga-projects",
-        "id": 793742406
-    },
-    {
         "repo": "caravel_docs",
         "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
         "owner": "algofoogle",
@@ -13715,19 +13676,6 @@
         "id": 701683842
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 380,
-        "forks": 290,
-        "size": 4290,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2024-12-11T07:44:04+00:00",
-        "pushed": "2024-12-11T07:43:57+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -13752,19 +13700,6 @@
         "pushed": "2024-12-11T17:06:19+00:00",
         "url": "https://github.com/SpinalHDL/NaxRiscv",
         "id": 413357087
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system inspired by Lisp semantics and LaTeX syntax. It helps ANYONE express and verify proofs at ANY LEVEL as INTUITIVELY as if they were writing natural language.",
-        "owner": "litexlang",
-        "stars": 41,
-        "forks": 0,
-        "size": 1836,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-12T06:55:57+00:00",
-        "pushed": "2024-12-12T06:55:52+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "cram-soc",
@@ -13806,32 +13741,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 879,
-        "forks": 80,
-        "size": 1236,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-11T08:12:30+00:00",
-        "pushed": "2024-12-13T02:42:37+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 216,
-        "forks": 88,
-        "size": 1446,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-12-12T13:41:37+00:00",
-        "pushed": "2024-12-12T13:41:33+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -13871,32 +13780,6 @@
         "id": 274442284
     },
     {
-        "repo": "wmt_riscv_study",
-        "description": "My RISC-V study",
-        "owner": "weimingtom",
-        "stars": 0,
-        "forks": 0,
-        "size": 203,
-        "created": "2024-10-08T11:43:37+00:00",
-        "updated": "2024-12-12T12:35:17+00:00",
-        "pushed": "2024-12-12T12:35:13+00:00",
-        "url": "https://github.com/weimingtom/wmt_riscv_study",
-        "id": 869491318
-    },
-    {
-        "repo": "NYCU_AAML2024_final",
-        "description": null,
-        "owner": "weiluohuang",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2024-12-13T06:30:05+00:00",
-        "updated": "2024-12-13T06:31:51+00:00",
-        "pushed": "2024-12-13T06:31:45+00:00",
-        "url": "https://github.com/weiluohuang/NYCU_AAML2024_final",
-        "id": 902726076
-    },
-    {
         "repo": "pengullama",
         "description": null,
         "owner": "wrighted",
@@ -13910,15 +13793,132 @@
         "id": 857490388
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 380,
+        "forks": 291,
+        "size": 4290,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2024-12-14T07:04:03+00:00",
+        "pushed": "2024-12-14T07:03:59+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 881,
+        "forks": 80,
+        "size": 1236,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-13T17:43:01+00:00",
+        "pushed": "2024-12-14T02:30:39+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 216,
+        "forks": 88,
+        "size": 1448,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2024-12-13T20:28:18+00:00",
+        "pushed": "2024-12-13T20:28:14+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 70,
+        "forks": 9,
+        "size": 6702,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-12-13T21:32:57+00:00",
+        "pushed": "2024-12-13T21:32:53+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 43,
+        "forks": 0,
+        "size": 1929,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-14T06:29:37+00:00",
+        "pushed": "2024-12-14T06:29:33+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "wmt_riscv_study",
+        "description": "My RISC-V study",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 275,
+        "created": "2024-10-08T11:43:37+00:00",
+        "updated": "2024-12-13T22:23:14+00:00",
+        "pushed": "2024-12-13T22:23:10+00:00",
+        "url": "https://github.com/weimingtom/wmt_riscv_study",
+        "id": 869491318
+    },
+    {
+        "repo": "NYCU_AAML2024_final",
+        "description": null,
+        "owner": "weiluohuang",
+        "stars": 0,
+        "forks": 0,
+        "size": 17210,
+        "created": "2024-12-13T06:30:05+00:00",
+        "updated": "2024-12-14T06:08:47+00:00",
+        "pushed": "2024-12-14T06:08:43+00:00",
+        "url": "https://github.com/weiluohuang/NYCU_AAML2024_final",
+        "id": 902726076
+    },
+    {
+        "repo": "fpga-projects",
+        "description": "A collection of my FPGA projects",
+        "owner": "matiasilva",
+        "stars": 0,
+        "forks": 0,
+        "size": 58,
+        "created": "2024-04-29T19:30:51+00:00",
+        "updated": "2024-12-13T22:29:19+00:00",
+        "pushed": "2024-12-13T22:29:15+00:00",
+        "url": "https://github.com/matiasilva/fpga-projects",
+        "id": 793742406
+    },
+    {
+        "repo": "fpga-useful-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 2,
+        "forks": 0,
+        "size": 239,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2024-12-13T22:10:26+00:00",
+        "pushed": "2024-12-13T22:10:22+00:00",
+        "url": "https://github.com/RDSik/fpga-useful-list",
+        "id": 777943094
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1622,
+        "size": 1674,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-13T04:37:09+00:00",
-        "pushed": "2024-12-13T04:37:03+00:00",
+        "updated": "2024-12-14T04:36:52+00:00",
+        "pushed": "2024-12-14T04:36:49+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -13928,10 +13928,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 80030,
+        "size": 80517,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-13T03:41:04+00:00",
-        "pushed": "2024-12-13T03:41:00+00:00",
+        "updated": "2024-12-14T03:36:56+00:00",
+        "pushed": "2024-12-14T03:36:52+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

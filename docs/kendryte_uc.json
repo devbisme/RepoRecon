@@ -39390,19 +39390,6 @@
         "id": 879466173
     },
     {
-        "repo": "camvisiotech-edge-ai-wifi",
-        "description": "This repository contains the full source code and setup for Camvisiotech, designed for Kendryte's KP10-based boards, specifically using the Maixduino by Sipeed. Developed for CircuitDigest's IoT and Edge AI Challenge 2024, this version includes WiFi functionality, making it accessible to users without GSM connectivity.",
-        "owner": "mohittalwar23",
-        "stars": 1,
-        "forks": 0,
-        "size": 944,
-        "created": "2024-10-28T12:41:24+00:00",
-        "updated": "2024-11-08T19:10:28+00:00",
-        "pushed": "2024-11-08T19:10:25+00:00",
-        "url": "https://github.com/mohittalwar23/camvisiotech-edge-ai-wifi",
-        "id": 879721594
-    },
-    {
         "repo": "camvisiotech-edge-ai-gsm",
         "description": "This repository contains source code and complete setup of Mohit's project Camvisiotech's complete code for Kendryte's KP10 based boards , here Maixduino by Sipeed for CircuitDigest's IOT and Edge AI Challenge 2024. This particular draft has GSM functionalities included so people with GSM can  utilize this project.",
         "owner": "mohittalwar23",
@@ -39557,19 +39544,6 @@
         "pushed": "2024-11-14T08:24:59+00:00",
         "url": "https://github.com/weimingtom/wmt_ai_study",
         "id": 146167925
-    },
-    {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 647,
-        "forks": 191,
-        "size": 1114,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2024-11-15T17:54:59+00:00",
-        "pushed": "2024-11-15T17:54:55+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
     },
     {
         "repo": "K510-DigitalCommunications",
@@ -39962,19 +39936,6 @@
         "id": 874855737
     },
     {
-        "repo": "Baremetal-NN",
-        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
-        "owner": "ucb-bar",
-        "stars": 23,
-        "forks": 3,
-        "size": 81536,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2024-11-29T01:58:57+00:00",
-        "pushed": "2024-11-25T22:48:14+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
-    },
-    {
         "repo": "PQRV",
         "description": null,
         "owner": "Ji-Peng",
@@ -40300,19 +40261,6 @@
         "id": 505364954
     },
     {
-        "repo": "k210-sipeed",
-        "description": "ai\u6444\u50cf\u59342.0",
-        "owner": "labplus-cn",
-        "stars": 0,
-        "forks": 0,
-        "size": 11203,
-        "created": "2024-09-11T06:19:23+00:00",
-        "updated": "2024-12-04T08:11:03+00:00",
-        "pushed": "2024-12-04T08:10:56+00:00",
-        "url": "https://github.com/labplus-cn/k210-sipeed",
-        "id": 855598882
-    },
-    {
         "repo": "k23059_09",
         "description": null,
         "owner": "shiba-2005",
@@ -40352,19 +40300,6 @@
         "id": 898622110
     },
     {
-        "repo": "aseprite",
-        "description": null,
-        "owner": "maix-flake",
-        "stars": 1,
-        "forks": 1,
-        "size": 11,
-        "created": "2022-12-19T15:15:27+00:00",
-        "updated": "2024-12-04T16:41:30+00:00",
-        "pushed": "2024-12-04T16:41:26+00:00",
-        "url": "https://github.com/maix-flake/aseprite",
-        "id": 580041108
-    },
-    {
         "repo": "k210-sdk-remake",
         "description": "More tidy and modular k210 sdk",
         "owner": "KEKE046",
@@ -40378,19 +40313,6 @@
         "id": 874256380
     },
     {
-        "repo": "rofi",
-        "description": null,
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 0,
-        "size": 10,
-        "created": "2024-09-22T15:19:48+00:00",
-        "updated": "2024-12-04T16:52:11+00:00",
-        "pushed": "2024-12-04T16:52:08+00:00",
-        "url": "https://github.com/maix-flake/rofi",
-        "id": 861316304
-    },
-    {
         "repo": "nncase_docs",
         "description": null,
         "owner": "kendryte",
@@ -40402,45 +40324,6 @@
         "pushed": "2024-12-04T08:21:35+00:00",
         "url": "https://github.com/kendryte/nncase_docs",
         "id": 769078187
-    },
-    {
-        "repo": "cargo-ws",
-        "description": "A nix flake for cargo workspace",
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2022-11-24T12:09:32+00:00",
-        "updated": "2024-12-04T16:41:44+00:00",
-        "pushed": "2024-12-04T16:41:41+00:00",
-        "url": "https://github.com/maix-flake/cargo-ws",
-        "id": 570131141
-    },
-    {
-        "repo": "cargo-semver-checks",
-        "description": "A nix flake for Cargo semver Checks",
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2022-12-23T22:54:55+00:00",
-        "updated": "2024-12-04T16:41:39+00:00",
-        "pushed": "2024-12-04T16:41:35+00:00",
-        "url": "https://github.com/maix-flake/cargo-semver-checks",
-        "id": 581673429
-    },
-    {
-        "repo": "c_formatter_42",
-        "description": "A nix flake for c_formatter_42 build by @dawnbeen",
-        "owner": "maix-flake",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2023-11-17T20:35:54+00:00",
-        "updated": "2024-12-04T16:41:36+00:00",
-        "pushed": "2024-12-04T16:41:31+00:00",
-        "url": "https://github.com/maix-flake/c_formatter_42",
-        "id": 720210545
     },
     {
         "repo": "327_assign8_IoT_Group30",
@@ -40768,19 +40651,6 @@
         "id": 28653585
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 12,
-        "forks": 3,
-        "size": 1682,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2024-12-10T15:45:37+00:00",
-        "pushed": "2024-12-10T15:45:33+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "k230-bare-metal",
         "description": "Bare-metal Rust Embedded on K230",
         "owner": "andelf",
@@ -40844,19 +40714,6 @@
         "pushed": "2024-12-11T12:09:12+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 25,
-        "forks": 5,
-        "size": 51305,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-12-11T22:27:34+00:00",
-        "pushed": "2024-12-11T22:27:30+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "k230_canmv_docs",
@@ -40989,19 +40846,6 @@
         "id": 745771617
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 187,
-        "forks": 37,
-        "size": 165617,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2024-12-09T17:53:02+00:00",
-        "pushed": "2024-12-12T18:10:15+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "CherryUSB",
         "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
         "owner": "cherry-embedded",
@@ -41039,19 +40883,6 @@
         "pushed": "2024-12-12T07:21:56+00:00",
         "url": "https://github.com/sipeed/MaixCDK",
         "id": 733722162
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10644,
-        "forks": 5043,
-        "size": 889734,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-12-13T06:27:28+00:00",
-        "pushed": "2024-12-13T02:39:20+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "vihal",
@@ -41132,15 +40963,184 @@
         "id": 731012323
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 188,
+        "forks": 37,
+        "size": 165620,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2024-12-13T19:00:22+00:00",
+        "pushed": "2024-12-13T13:16:21+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 27,
+        "forks": 6,
+        "size": 51310,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-12-13T16:52:08+00:00",
+        "pushed": "2024-12-14T02:01:29+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 666,
+        "forks": 195,
+        "size": 1115,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2024-12-13T16:52:13+00:00",
+        "pushed": "2024-12-13T12:32:12+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10647,
+        "forks": 5042,
+        "size": 889844,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-12-14T04:38:38+00:00",
+        "pushed": "2024-12-14T04:38:32+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
+        "owner": "ucb-bar",
+        "stars": 25,
+        "forks": 4,
+        "size": 81533,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2024-12-14T00:35:02+00:00",
+        "pushed": "2024-12-14T00:34:59+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 12,
+        "forks": 3,
+        "size": 1743,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2024-12-13T20:51:25+00:00",
+        "pushed": "2024-12-13T20:51:20+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "k210-sipeed",
+        "description": "ai\u6444\u50cf\u59342.0",
+        "owner": "labplus-cn",
+        "stars": 0,
+        "forks": 0,
+        "size": 11249,
+        "created": "2024-09-11T06:19:23+00:00",
+        "updated": "2024-12-13T08:22:16+00:00",
+        "pushed": "2024-12-13T08:22:12+00:00",
+        "url": "https://github.com/labplus-cn/k210-sipeed",
+        "id": 855598882
+    },
+    {
+        "repo": "aseprite",
+        "description": null,
+        "owner": "maix-flake",
+        "stars": 1,
+        "forks": 1,
+        "size": 13,
+        "created": "2022-12-19T15:15:27+00:00",
+        "updated": "2024-12-13T20:09:03+00:00",
+        "pushed": "2024-12-13T20:08:59+00:00",
+        "url": "https://github.com/maix-flake/aseprite",
+        "id": 580041108
+    },
+    {
+        "repo": "rofi",
+        "description": null,
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2024-09-22T15:19:48+00:00",
+        "updated": "2024-12-13T20:13:49+00:00",
+        "pushed": "2024-12-13T20:13:45+00:00",
+        "url": "https://github.com/maix-flake/rofi",
+        "id": 861316304
+    },
+    {
+        "repo": "cargo-ws",
+        "description": "A nix flake for cargo workspace",
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2022-11-24T12:09:32+00:00",
+        "updated": "2024-12-13T20:09:28+00:00",
+        "pushed": "2024-12-13T20:09:24+00:00",
+        "url": "https://github.com/maix-flake/cargo-ws",
+        "id": 570131141
+    },
+    {
+        "repo": "cargo-semver-checks",
+        "description": "A nix flake for Cargo semver Checks",
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2022-12-23T22:54:55+00:00",
+        "updated": "2024-12-13T20:09:24+00:00",
+        "pushed": "2024-12-13T20:09:19+00:00",
+        "url": "https://github.com/maix-flake/cargo-semver-checks",
+        "id": 581673429
+    },
+    {
+        "repo": "c_formatter_42",
+        "description": "A nix flake for c_formatter_42 build by @dawnbeen",
+        "owner": "maix-flake",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2023-11-17T20:35:54+00:00",
+        "updated": "2024-12-13T20:09:20+00:00",
+        "pushed": "2024-12-13T20:09:13+00:00",
+        "url": "https://github.com/maix-flake/c_formatter_42",
+        "id": 720210545
+    },
+    {
+        "repo": "camvisiotech-edge-ai",
+        "description": "This repository contains the full source code and setup for Camvisiotech, designed for Kendryte's KP10-based boards, specifically using the Maixduino by Sipeed. Developed for CircuitDigest's IoT and Edge AI Challenge 2024, this version includes WiFi functionality, making it accessible to users without GSM connectivity.",
+        "owner": "mohittalwar23",
+        "stars": 1,
+        "forks": 0,
+        "size": 1666,
+        "created": "2024-10-28T12:41:24+00:00",
+        "updated": "2024-12-13T13:14:18+00:00",
+        "pushed": "2024-12-13T13:14:14+00:00",
+        "url": "https://github.com/mohittalwar23/camvisiotech-edge-ai",
+        "id": 879721594
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 130,
         "forks": 36,
-        "size": 851484,
+        "size": 851488,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-12T12:35:21+00:00",
-        "pushed": "2024-12-12T12:35:16+00:00",
+        "updated": "2024-12-13T12:34:59+00:00",
+        "pushed": "2024-12-13T12:34:54+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41150,10 +41150,10 @@
         "owner": "weimingtom",
         "stars": 0,
         "forks": 0,
-        "size": 203,
+        "size": 275,
         "created": "2024-10-08T11:43:37+00:00",
-        "updated": "2024-12-12T12:35:17+00:00",
-        "pushed": "2024-12-12T12:35:13+00:00",
+        "updated": "2024-12-13T22:23:14+00:00",
+        "pushed": "2024-12-13T22:23:10+00:00",
         "url": "https://github.com/weimingtom/wmt_riscv_study",
         "id": 869491318
     },
@@ -41163,10 +41163,10 @@
         "owner": "610t",
         "stars": 0,
         "forks": 0,
-        "size": 63070,
+        "size": 68469,
         "created": "2024-05-18T00:31:41+00:00",
-        "updated": "2024-12-13T04:50:46+00:00",
-        "pushed": "2024-12-13T04:50:42+00:00",
+        "updated": "2024-12-14T00:12:31+00:00",
+        "pushed": "2024-12-14T00:12:27+00:00",
         "url": "https://github.com/610t/ScratchHacksBook",
         "id": 802309493
     }
