@@ -12818,19 +12818,6 @@
         "id": 881077264
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 23,
-        "forks": 1,
-        "size": 2494,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-10-02T01:46:34+00:00",
-        "pushed": "2024-11-01T00:16:10+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "pythondata-cpu-vexiiriscv",
         "description": "Python module containing verilog files/generators for VexiiRiscv CPU (for use with LiteX).",
         "owner": "litex-hub",
@@ -12998,19 +12985,6 @@
         "pushed": "2024-11-13T15:25:34+00:00",
         "url": "https://github.com/TeletextTerminalEmulator/TeletextTerminalEmulator",
         "id": 833186421
-    },
-    {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 254,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2024-11-14T03:05:02+00:00",
-        "pushed": "2024-11-14T03:04:58+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
     },
     {
         "repo": "VexRiscv",
@@ -13193,19 +13167,6 @@
         "pushed": "2024-11-21T11:28:27+00:00",
         "url": "https://github.com/farhan5786/V7A-LITEx46",
         "id": 892022189
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 1,
-        "size": 28998,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-11-23T00:53:38+00:00",
-        "pushed": "2024-11-23T00:53:34+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "hwt",
@@ -13507,19 +13468,6 @@
         "id": 800344642
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
-        "owner": "apfelaudio",
-        "stars": 187,
-        "forks": 13,
-        "size": 21861,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-12-06T20:47:53+00:00",
-        "pushed": "2024-12-06T20:47:48+00:00",
-        "url": "https://github.com/apfelaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "TCC_RISC_V",
         "description": null,
         "owner": "thiago0003",
@@ -13585,19 +13533,6 @@
         "id": 237940918
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 39,
-        "forks": 16,
-        "size": 48932,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-12-10T22:29:29+00:00",
-        "pushed": "2024-12-10T22:42:20+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13622,19 +13557,6 @@
         "pushed": "2024-12-10T12:06:28+00:00",
         "url": "https://github.com/myriadrf/LimeSDR_GW",
         "id": 787406556
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1417,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-12-11T00:45:36+00:00",
-        "pushed": "2024-12-11T00:45:32+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
     },
     {
         "repo": "k230-bare-metal",
@@ -13676,19 +13598,6 @@
         "id": 701683842
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 940,
-        "forks": 197,
-        "size": 736191,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-12-11T16:49:42+00:00",
-        "pushed": "2024-12-12T06:06:01+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -13713,19 +13622,6 @@
         "pushed": "2024-12-12T06:44:43+00:00",
         "url": "https://github.com/buncram/cram-soc",
         "id": 564480301
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples.  https://www.chili-chips.xyz/open-cologne",
-        "owner": "chili-chips-ba",
-        "stars": 46,
-        "forks": 2,
-        "size": 135907,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-12-11T20:27:14+00:00",
-        "pushed": "2024-12-11T20:27:06+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "litex",
@@ -13767,19 +13663,6 @@
         "id": 109838222
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1625,
-        "forks": 228,
-        "size": 217093,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-12T21:16:31+00:00",
-        "pushed": "2024-12-12T22:14:47+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "pengullama",
         "description": null,
         "owner": "wrighted",
@@ -13804,19 +13687,6 @@
         "pushed": "2024-12-14T07:03:59+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 881,
-        "forks": 80,
-        "size": 1236,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-13T17:43:01+00:00",
-        "pushed": "2024-12-14T02:30:39+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "liteeth",
@@ -13884,15 +13754,132 @@
         "id": 902726076
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 943,
+        "forks": 197,
+        "size": 752898,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-12-14T16:42:14+00:00",
+        "pushed": "2024-12-14T20:23:42+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 882,
+        "forks": 80,
+        "size": 1236,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-15T02:51:56+00:00",
+        "pushed": "2024-12-15T02:32:39+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1626,
+        "forks": 229,
+        "size": 217988,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-14T16:12:06+00:00",
+        "pushed": "2024-12-14T20:56:24+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 39,
+        "forks": 16,
+        "size": 49313,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2024-12-14T10:38:15+00:00",
+        "pushed": "2024-12-14T10:51:07+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
+        "owner": "apfaudio",
+        "stars": 188,
+        "forks": 13,
+        "size": 21871,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2024-12-14T14:12:34+00:00",
+        "pushed": "2024-12-14T13:37:17+00:00",
+        "url": "https://github.com/apfaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1428,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2024-12-15T03:27:30+00:00",
+        "pushed": "2024-12-15T03:27:26+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 46,
+        "forks": 2,
+        "size": 136009,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-12-14T19:57:36+00:00",
+        "pushed": "2024-12-14T19:57:32+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 255,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2024-12-14T19:08:04+00:00",
+        "pushed": "2024-12-14T19:08:00+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
+        "repo": "tang-primer-verilog",
+        "description": null,
+        "owner": "Gabbo28",
+        "stars": 0,
+        "forks": 0,
+        "size": 919,
+        "created": "2024-08-07T11:32:26+00:00",
+        "updated": "2024-12-14T10:29:42+00:00",
+        "pushed": "2024-12-14T10:29:39+00:00",
+        "url": "https://github.com/Gabbo28/tang-primer-verilog",
+        "id": 839323728
+    },
+    {
         "repo": "fpga-projects",
         "description": "A collection of my FPGA projects",
         "owner": "matiasilva",
         "stars": 0,
         "forks": 0,
-        "size": 58,
+        "size": 64,
         "created": "2024-04-29T19:30:51+00:00",
-        "updated": "2024-12-13T22:29:19+00:00",
-        "pushed": "2024-12-13T22:29:15+00:00",
+        "updated": "2024-12-14T22:47:10+00:00",
+        "pushed": "2024-12-14T22:47:06+00:00",
         "url": "https://github.com/matiasilva/fpga-projects",
         "id": 793742406
     },
@@ -13902,12 +13889,25 @@
         "owner": "RDSik",
         "stars": 2,
         "forks": 0,
-        "size": 239,
+        "size": 240,
         "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2024-12-13T22:10:26+00:00",
-        "pushed": "2024-12-13T22:10:22+00:00",
+        "updated": "2024-12-14T16:43:56+00:00",
+        "pushed": "2024-12-14T16:43:52+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 24,
+        "forks": 1,
+        "size": 2492,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-12-14T17:50:45+00:00",
+        "pushed": "2024-12-15T00:17:30+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
     },
     {
         "repo": "starred",
@@ -13915,12 +13915,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1674,
+        "size": 1676,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-14T04:36:52+00:00",
-        "pushed": "2024-12-14T04:36:49+00:00",
+        "updated": "2024-12-15T04:36:46+00:00",
+        "pushed": "2024-12-15T04:36:42+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 1,
+        "size": 29495,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-12-15T00:53:54+00:00",
+        "pushed": "2024-12-15T00:53:50+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -13928,10 +13941,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 80517,
+        "size": 80995,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-14T03:36:56+00:00",
-        "pushed": "2024-12-14T03:36:52+00:00",
+        "updated": "2024-12-15T03:42:13+00:00",
+        "pushed": "2024-12-15T03:42:09+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
