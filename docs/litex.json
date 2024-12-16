@@ -12285,19 +12285,6 @@
         "id": 380455385
     },
     {
-        "repo": "SucreLA",
-        "description": "Open source Logic Analyzer based on LiteX SoC",
-        "owner": "fallen",
-        "stars": 24,
-        "forks": 0,
-        "size": 2463,
-        "created": "2023-12-13T21:00:19+00:00",
-        "updated": "2024-09-17T21:21:42+00:00",
-        "pushed": "2024-09-17T21:21:38+00:00",
-        "url": "https://github.com/fallen/SucreLA",
-        "id": 731331266
-    },
-    {
         "repo": "sechzig",
         "description": "Sechzig Compute Module",
         "owner": "machdyne",
@@ -13520,19 +13507,6 @@
         "id": 897628460
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 453,
-        "forks": 39,
-        "size": 190099,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-12-09T02:24:18+00:00",
-        "pushed": "2024-12-09T02:24:14+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13609,32 +13583,6 @@
         "pushed": "2024-12-11T17:06:19+00:00",
         "url": "https://github.com/SpinalHDL/NaxRiscv",
         "id": 413357087
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 23383,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-12-12T06:44:48+00:00",
-        "pushed": "2024-12-12T06:44:43+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3061,
-        "forks": 574,
-        "size": 17375,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-12-13T03:11:35+00:00",
-        "pushed": "2024-12-12T14:29:14+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "CFU-Playground",
@@ -13715,19 +13663,6 @@
         "id": 800027977
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 43,
-        "forks": 0,
-        "size": 1929,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-14T06:29:37+00:00",
-        "pushed": "2024-12-14T06:29:33+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "wmt_riscv_study",
         "description": "My RISC-V study",
         "owner": "weimingtom",
@@ -13752,45 +13687,6 @@
         "pushed": "2024-12-14T06:08:43+00:00",
         "url": "https://github.com/weiluohuang/NYCU_AAML2024_final",
         "id": 902726076
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 943,
-        "forks": 197,
-        "size": 752898,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-12-14T16:42:14+00:00",
-        "pushed": "2024-12-14T20:23:42+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 882,
-        "forks": 80,
-        "size": 1236,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-15T02:51:56+00:00",
-        "pushed": "2024-12-15T02:32:39+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1626,
-        "forks": 229,
-        "size": 217988,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-14T16:12:06+00:00",
-        "pushed": "2024-12-14T20:56:24+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "coreblocks",
@@ -13830,19 +13726,6 @@
         "pushed": "2024-12-15T03:27:26+00:00",
         "url": "https://github.com/tweakoz/ork.build",
         "id": 483508371
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 46,
-        "forks": 2,
-        "size": 136009,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-12-14T19:57:36+00:00",
-        "pushed": "2024-12-14T19:57:32+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "litex-apps",
@@ -13897,32 +13780,6 @@
         "id": 777943094
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 24,
-        "forks": 1,
-        "size": 2492,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-15T00:17:30+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1676,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-15T04:36:46+00:00",
-        "pushed": "2024-12-15T04:36:42+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -13936,15 +13793,158 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3067,
+        "forks": 574,
+        "size": 17385,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-12-16T06:37:44+00:00",
+        "pushed": "2024-12-15T11:26:12+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 943,
+        "forks": 197,
+        "size": 753217,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-12-14T16:42:14+00:00",
+        "pushed": "2024-12-15T22:00:33+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 883,
+        "forks": 80,
+        "size": 1236,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-15T12:25:29+00:00",
+        "pushed": "2024-12-16T02:38:21+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1627,
+        "forks": 229,
+        "size": 217780,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-15T21:00:26+00:00",
+        "pushed": "2024-12-15T21:01:35+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 44,
+        "forks": 0,
+        "size": 1294,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-16T06:54:10+00:00",
+        "pushed": "2024-12-16T06:54:07+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "SucreLA",
+        "description": "Open source Logic Analyzer based on LiteX SoC",
+        "owner": "fallen",
+        "stars": 24,
+        "forks": 0,
+        "size": 6492,
+        "created": "2023-12-13T21:00:19+00:00",
+        "updated": "2024-12-15T11:22:47+00:00",
+        "pushed": "2024-12-15T11:22:42+00:00",
+        "url": "https://github.com/fallen/SucreLA",
+        "id": 731331266
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 23797,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-12-15T19:30:42+00:00",
+        "pushed": "2024-12-15T19:30:37+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 46,
+        "forks": 2,
+        "size": 145985,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2024-12-15T21:41:10+00:00",
+        "pushed": "2024-12-15T21:41:07+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 24,
+        "forks": 1,
+        "size": 2492,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-12-14T17:50:45+00:00",
+        "pushed": "2024-12-16T00:16:32+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 461,
+        "forks": 40,
+        "size": 190455,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-12-16T05:39:17+00:00",
+        "pushed": "2024-12-15T14:39:09+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1712,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2024-12-16T04:37:14+00:00",
+        "pushed": "2024-12-16T04:37:11+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 80995,
+        "size": 81489,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-15T03:42:13+00:00",
-        "pushed": "2024-12-15T03:42:09+00:00",
+        "updated": "2024-12-16T03:42:28+00:00",
+        "pushed": "2024-12-16T03:42:24+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
