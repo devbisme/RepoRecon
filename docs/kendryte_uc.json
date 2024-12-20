@@ -38805,32 +38805,6 @@
         "id": 861254483
     },
     {
-        "repo": "MaixSense-processingTester",
-        "description": null,
-        "owner": "PBernalPolo",
-        "stars": 0,
-        "forks": 0,
-        "size": 4865,
-        "created": "2024-07-02T18:05:37+00:00",
-        "updated": "2024-10-15T21:50:41+00:00",
-        "pushed": "2024-10-15T21:50:37+00:00",
-        "url": "https://github.com/PBernalPolo/MaixSense-processingTester",
-        "id": 823275171
-    },
-    {
-        "repo": "MaixSense-drivers-java",
-        "description": "Collection of drivers to send commands and receive data from the MaixSense-A010 TOF camera.",
-        "owner": "PBernalPolo",
-        "stars": 0,
-        "forks": 0,
-        "size": 71,
-        "created": "2024-07-02T17:56:48+00:00",
-        "updated": "2024-10-15T21:49:15+00:00",
-        "pushed": "2024-10-15T21:49:11+00:00",
-        "url": "https://github.com/PBernalPolo/MaixSense-drivers-java",
-        "id": 823271876
-    },
-    {
         "repo": "canmv_k230_manifest",
         "description": null,
         "owner": "xu-yingjing",
@@ -38881,19 +38855,6 @@
         "pushed": "2024-10-17T05:50:15+00:00",
         "url": "https://github.com/Thukumo/maiXMLReader",
         "id": 873669908
-    },
-    {
-        "repo": "openblock-tools",
-        "description": "This repo does not contain any source code. It is just used to release binary files of tools.",
-        "owner": "openblockcc",
-        "stars": 3,
-        "forks": 8,
-        "size": 11,
-        "created": "2021-01-22T10:52:51+00:00",
-        "updated": "2024-10-17T15:53:40+00:00",
-        "pushed": "2024-10-17T15:54:04+00:00",
-        "url": "https://github.com/openblockcc/openblock-tools",
-        "id": 331917919
     },
     {
         "repo": "TinybitPro",
@@ -40066,19 +40027,6 @@
         "id": 683315982
     },
     {
-        "repo": "nuttx-ox64",
-        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
-        "owner": "lupyuen",
-        "stars": 37,
-        "forks": 0,
-        "size": 259,
-        "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-11-23T06:39:04+00:00",
-        "pushed": "2024-12-01T00:18:20+00:00",
-        "url": "https://github.com/lupyuen/nuttx-ox64",
-        "id": 711107946
-    },
-    {
         "repo": "rCore-Tutorial-v3",
         "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
         "owner": "rcore-os",
@@ -40794,19 +40742,6 @@
         "id": 734858218
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 19,
-        "forks": 11,
-        "size": 47294,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-12-16T03:36:30+00:00",
-        "pushed": "2024-12-16T03:36:26+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -40950,19 +40885,6 @@
         "id": 188584527
     },
     {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1334,
-        "forks": 287,
-        "size": 61063,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2024-12-18T01:09:00+00:00",
-        "pushed": "2024-12-17T13:41:50+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -41000,19 +40922,6 @@
         "pushed": "2024-12-18T03:16:52+00:00",
         "url": "https://github.com/canmv-k230/rtsmart",
         "id": 824521722
-    },
-    {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 13,
-        "forks": 3,
-        "size": 1888,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2024-12-17T22:42:47+00:00",
-        "pushed": "2024-12-17T22:42:43+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
     },
     {
         "repo": "k230-bare-metal",
@@ -41093,71 +41002,6 @@
         "id": 869491318
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 757,
-        "forks": 185,
-        "size": 59796,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-12-14T03:33:49+00:00",
-        "pushed": "2024-12-19T05:27:28+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 207,
-        "forks": 41,
-        "size": 39581,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-12-19T06:01:51+00:00",
-        "pushed": "2024-12-19T03:19:21+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
-        "repo": "learn",
-        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
-        "owner": "riscv",
-        "stars": 615,
-        "forks": 73,
-        "size": 1683,
-        "created": "2023-11-22T21:20:35+00:00",
-        "updated": "2024-12-19T06:46:58+00:00",
-        "pushed": "2024-12-18T15:47:41+00:00",
-        "url": "https://github.com/riscv/learn",
-        "id": 722305838
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 60,
-        "forks": 16,
-        "size": 117259,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-12-19T03:19:05+00:00",
-        "pushed": "2024-12-19T03:22:14+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 27,
-        "forks": 6,
-        "size": 51328,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-12-19T01:02:39+00:00",
-        "pushed": "2024-12-19T01:02:35+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
         "owner": "RT-Thread",
@@ -41169,19 +41013,6 @@
         "pushed": "2024-12-19T02:08:03+00:00",
         "url": "https://github.com/RT-Thread/rt-thread",
         "id": 7408108
-    },
-    {
-        "repo": "PQRV",
-        "description": null,
-        "owner": "Ji-Peng",
-        "stars": 4,
-        "forks": 0,
-        "size": 31861,
-        "created": "2023-12-12T12:19:03+00:00",
-        "updated": "2024-12-18T12:22:44+00:00",
-        "pushed": "2024-12-18T12:45:34+00:00",
-        "url": "https://github.com/Ji-Peng/PQRV",
-        "id": 730666657
     },
     {
         "repo": "ji-yu-K210-xin-pian-de-ren-lian-shi-bie-zhi-neng-men-jin-xi-tong",
@@ -41262,16 +41093,185 @@
         "id": 731012323
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 757,
+        "forks": 185,
+        "size": 59820,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-12-14T03:33:49+00:00",
+        "pushed": "2024-12-20T06:42:45+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 208,
+        "forks": 41,
+        "size": 39724,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-12-20T04:56:08+00:00",
+        "pushed": "2024-12-20T04:09:49+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1337,
+        "forks": 287,
+        "size": 61117,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2024-12-19T13:20:46+00:00",
+        "pushed": "2024-12-19T13:20:42+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 19,
+        "forks": 11,
+        "size": 47304,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2024-12-19T11:29:49+00:00",
+        "pushed": "2024-12-19T11:29:45+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "learn",
+        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
+        "owner": "riscv",
+        "stars": 620,
+        "forks": 75,
+        "size": 1704,
+        "created": "2023-11-22T21:20:35+00:00",
+        "updated": "2024-12-19T20:48:55+00:00",
+        "pushed": "2024-12-19T10:56:15+00:00",
+        "url": "https://github.com/riscv/learn",
+        "id": 722305838
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 60,
+        "forks": 16,
+        "size": 117354,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2024-12-20T04:07:57+00:00",
+        "pushed": "2024-12-20T07:16:46+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 27,
+        "forks": 6,
+        "size": 51329,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-12-20T01:34:50+00:00",
+        "pushed": "2024-12-20T01:38:59+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "openblock-tools",
+        "description": "This repo does not contain any source code. It is just used to release binary files of tools.",
+        "owner": "openblockcc",
+        "stars": 3,
+        "forks": 9,
+        "size": 9,
+        "created": "2021-01-22T10:52:51+00:00",
+        "updated": "2024-12-19T09:57:49+00:00",
+        "pushed": "2024-12-19T09:58:04+00:00",
+        "url": "https://github.com/openblockcc/openblock-tools",
+        "id": 331917919
+    },
+    {
+        "repo": "PQRV",
+        "description": null,
+        "owner": "Ji-Peng",
+        "stars": 4,
+        "forks": 0,
+        "size": 31866,
+        "created": "2023-12-12T12:19:03+00:00",
+        "updated": "2024-12-20T01:52:18+00:00",
+        "pushed": "2024-12-20T01:52:51+00:00",
+        "url": "https://github.com/Ji-Peng/PQRV",
+        "id": 730666657
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 13,
+        "forks": 3,
+        "size": 1853,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2024-12-19T15:28:59+00:00",
+        "pushed": "2024-12-19T15:28:55+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "MaixSense-processingTester",
+        "description": null,
+        "owner": "PBernalPolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 4866,
+        "created": "2024-07-02T18:05:37+00:00",
+        "updated": "2024-12-19T17:35:54+00:00",
+        "pushed": "2024-12-19T17:35:50+00:00",
+        "url": "https://github.com/PBernalPolo/MaixSense-processingTester",
+        "id": 823275171
+    },
+    {
+        "repo": "MaixSense-drivers-java",
+        "description": "Collection of drivers to send commands and receive data from the MaixSense-A010 TOF camera.",
+        "owner": "PBernalPolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 72,
+        "created": "2024-07-02T17:56:48+00:00",
+        "updated": "2024-12-19T17:35:09+00:00",
+        "pushed": "2024-12-19T17:35:05+00:00",
+        "url": "https://github.com/PBernalPolo/MaixSense-drivers-java",
+        "id": 823271876
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 130,
         "forks": 36,
-        "size": 854445,
+        "size": 857403,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-18T12:33:32+00:00",
-        "pushed": "2024-12-18T12:33:28+00:00",
+        "updated": "2024-12-19T12:34:33+00:00",
+        "pushed": "2024-12-19T12:34:29+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "nuttx-ox64",
+        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
+        "owner": "lupyuen",
+        "stars": 36,
+        "forks": 0,
+        "size": 259,
+        "created": "2023-10-28T08:34:51+00:00",
+        "updated": "2024-12-20T03:16:22+00:00",
+        "pushed": "2024-12-20T00:15:05+00:00",
+        "url": "https://github.com/lupyuen/nuttx-ox64",
+        "id": 711107946
     }
 ]
