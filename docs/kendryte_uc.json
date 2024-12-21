@@ -39195,19 +39195,6 @@
         "id": 864102540
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 10,
-        "forks": 7,
-        "size": 24449,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2024-10-31T19:27:28+00:00",
-        "pushed": "2024-10-31T19:27:28+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "kidbright_MAI_server",
         "description": "Server for KidBright micro AI",
         "owner": "KidBrightAI",
@@ -40326,19 +40313,6 @@
         "id": 842297091
     },
     {
-        "repo": "os",
-        "description": null,
-        "owner": "morrezhao",
-        "stars": 0,
-        "forks": 0,
-        "size": 5328,
-        "created": "2024-10-21T08:37:10+00:00",
-        "updated": "2024-12-08T12:45:34+00:00",
-        "pushed": "2024-12-08T12:45:30+00:00",
-        "url": "https://github.com/morrezhao/os",
-        "id": 876004023
-    },
-    {
         "repo": "K230_training_scripts",
         "description": null,
         "owner": "kendryte",
@@ -41002,19 +40976,6 @@
         "id": 869491318
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10660,
-        "forks": 5046,
-        "size": 889767,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-12-19T04:30:10+00:00",
-        "pushed": "2024-12-19T02:08:03+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "ji-yu-K210-xin-pian-de-ren-lian-shi-bie-zhi-neng-men-jin-xi-tong",
         "description": "\u57fa\u4e8eK210\u82af\u7247\u7684\u4eba\u8138\u8bc6\u522b\u667a\u80fd\u95e8\u7981\u7cfb\u7edf",
         "owner": "chaos198800",
@@ -41119,19 +41080,6 @@
         "id": 745771617
     },
     {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1337,
-        "forks": 287,
-        "size": 61117,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2024-12-19T13:20:46+00:00",
-        "pushed": "2024-12-19T13:20:42+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -41145,19 +41093,6 @@
         "id": 793843389
     },
     {
-        "repo": "learn",
-        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
-        "owner": "riscv",
-        "stars": 620,
-        "forks": 75,
-        "size": 1704,
-        "created": "2023-11-22T21:20:35+00:00",
-        "updated": "2024-12-19T20:48:55+00:00",
-        "pushed": "2024-12-19T10:56:15+00:00",
-        "url": "https://github.com/riscv/learn",
-        "id": 722305838
-    },
-    {
         "repo": "MaixCDK",
         "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
         "owner": "sipeed",
@@ -41169,19 +41104,6 @@
         "pushed": "2024-12-20T07:16:46+00:00",
         "url": "https://github.com/sipeed/MaixCDK",
         "id": 733722162
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 27,
-        "forks": 6,
-        "size": 51329,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-12-20T01:34:50+00:00",
-        "pushed": "2024-12-20T01:38:59+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "openblock-tools",
@@ -41210,19 +41132,6 @@
         "id": 730666657
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 13,
-        "forks": 3,
-        "size": 1853,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2024-12-19T15:28:59+00:00",
-        "pushed": "2024-12-19T15:28:55+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "MaixSense-processingTester",
         "description": null,
         "owner": "PBernalPolo",
@@ -41249,15 +41158,106 @@
         "id": 823271876
     },
     {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1338,
+        "forks": 288,
+        "size": 61138,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2024-12-20T13:25:41+00:00",
+        "pushed": "2024-12-20T09:25:50+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "learn",
+        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
+        "owner": "riscv",
+        "stars": 624,
+        "forks": 76,
+        "size": 1713,
+        "created": "2023-11-22T21:20:35+00:00",
+        "updated": "2024-12-21T06:32:37+00:00",
+        "pushed": "2024-12-20T11:49:04+00:00",
+        "url": "https://github.com/riscv/learn",
+        "id": 722305838
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 27,
+        "forks": 6,
+        "size": 51330,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-12-21T03:53:29+00:00",
+        "pushed": "2024-12-21T03:53:26+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10665,
+        "forks": 5047,
+        "size": 889773,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-12-21T05:47:59+00:00",
+        "pushed": "2024-12-20T22:50:00+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 10,
+        "forks": 8,
+        "size": 24490,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2024-12-20T18:20:18+00:00",
+        "pushed": "2024-12-20T19:19:36+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 13,
+        "forks": 3,
+        "size": 1939,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2024-12-20T19:20:31+00:00",
+        "pushed": "2024-12-20T19:20:27+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "os",
+        "description": null,
+        "owner": "morrezhao",
+        "stars": 0,
+        "forks": 0,
+        "size": 5348,
+        "created": "2024-10-21T08:37:10+00:00",
+        "updated": "2024-12-20T15:22:52+00:00",
+        "pushed": "2024-12-20T15:22:48+00:00",
+        "url": "https://github.com/morrezhao/os",
+        "id": 876004023
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 130,
         "forks": 36,
-        "size": 857403,
+        "size": 857406,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-19T12:34:33+00:00",
-        "pushed": "2024-12-19T12:34:29+00:00",
+        "updated": "2024-12-20T12:31:43+00:00",
+        "pushed": "2024-12-20T12:31:39+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41270,7 +41270,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-12-20T03:16:22+00:00",
-        "pushed": "2024-12-20T00:15:05+00:00",
+        "pushed": "2024-12-21T00:14:46+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

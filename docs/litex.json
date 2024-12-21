@@ -13416,19 +13416,6 @@
         "id": 895948678
     },
     {
-        "repo": "LiteXfer",
-        "description": "This is a small HTTP server meant to transfer files",
-        "owner": "rcallaby",
-        "stars": 0,
-        "forks": 0,
-        "size": 18,
-        "created": "2024-12-03T00:39:03+00:00",
-        "updated": "2024-12-08T15:18:03+00:00",
-        "pushed": "2024-12-08T15:17:59+00:00",
-        "url": "https://github.com/rcallaby/LiteXfer",
-        "id": 897628460
-    },
-    {
         "repo": "Raptor",
         "description": "Raptor end-to-end FPGA Compiler and GUI",
         "owner": "os-fpga",
@@ -13728,19 +13715,6 @@
         "id": 904199643
     },
     {
-        "repo": "caravel_docs",
-        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
-        "owner": "algofoogle",
-        "stars": 0,
-        "forks": 0,
-        "size": 1775,
-        "created": "2024-12-07T20:21:37+00:00",
-        "updated": "2024-12-18T04:36:53+00:00",
-        "pushed": "2024-12-18T04:36:49+00:00",
-        "url": "https://github.com/algofoogle/caravel_docs",
-        "id": 900084065
-    },
-    {
         "repo": "my-stars",
         "description": null,
         "owner": "SatyrDiamond",
@@ -13871,45 +13845,6 @@
         "id": 330793471
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3075,
-        "forks": 575,
-        "size": 17400,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-12-19T17:00:06+00:00",
-        "pushed": "2024-12-19T17:00:02+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 884,
-        "forks": 81,
-        "size": 1236,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-17T11:37:06+00:00",
-        "pushed": "2024-12-20T02:30:15+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 73,
-        "forks": 9,
-        "size": 6775,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-12-19T20:52:35+00:00",
-        "pushed": "2024-12-19T20:52:31+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -13923,19 +13858,6 @@
         "id": 274442284
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 46,
-        "forks": 0,
-        "size": 1540,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-20T00:59:29+00:00",
-        "pushed": "2024-12-20T00:59:26+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "zephyr-on-litex-coreblocks",
         "description": "LiteX SoC builder for Zephyr litex_coreblocks configuration",
         "owner": "kuznia-rdzeni",
@@ -13947,19 +13869,6 @@
         "pushed": "2024-12-19T22:54:44+00:00",
         "url": "https://github.com/kuznia-rdzeni/zephyr-on-litex-coreblocks",
         "id": 886179466
-    },
-    {
-        "repo": "jtakefman_honours_project_300171459",
-        "description": "This is my honours project repo that runs a basic blinky demo using a custom Litex nax-riscv soft-soc., simluated in Renode ",
-        "owner": "JTakefman",
-        "stars": 0,
-        "forks": 1,
-        "size": 5078,
-        "created": "2024-11-25T23:20:10+00:00",
-        "updated": "2024-12-19T21:23:05+00:00",
-        "pushed": "2024-12-19T21:23:01+00:00",
-        "url": "https://github.com/JTakefman/jtakefman_honours_project_300171459",
-        "id": 894193017
     },
     {
         "repo": "litex-apps",
@@ -14001,6 +13910,110 @@
         "id": 906081018
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3075,
+        "forks": 575,
+        "size": 17400,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-12-20T17:17:50+00:00",
+        "pushed": "2024-12-20T17:17:45+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 884,
+        "forks": 81,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-20T07:20:56+00:00",
+        "pushed": "2024-12-21T02:19:05+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 73,
+        "forks": 9,
+        "size": 6796,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2024-12-20T08:27:05+00:00",
+        "pushed": "2024-12-20T08:27:01+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 46,
+        "forks": 0,
+        "size": 1580,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-21T05:40:22+00:00",
+        "pushed": "2024-12-21T05:40:18+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "Clock_Glitching_PMP_VexRiscv_Terasic_SoCKit",
+        "description": null,
+        "owner": "Jiraax",
+        "stars": 0,
+        "forks": 0,
+        "size": 1286,
+        "created": "2024-12-20T13:40:53+00:00",
+        "updated": "2024-12-20T13:47:12+00:00",
+        "pushed": "2024-12-20T13:47:07+00:00",
+        "url": "https://github.com/Jiraax/Clock_Glitching_PMP_VexRiscv_Terasic_SoCKit",
+        "id": 906252940
+    },
+    {
+        "repo": "jtakefman_honours_project_300171459",
+        "description": "This is my honours project repo that runs a basic blinky demo using a custom Litex nax-riscv soft-soc., simluated in Renode ",
+        "owner": "JTakefman",
+        "stars": 0,
+        "forks": 1,
+        "size": 5083,
+        "created": "2024-11-25T23:20:10+00:00",
+        "updated": "2024-12-20T22:30:45+00:00",
+        "pushed": "2024-12-20T22:30:41+00:00",
+        "url": "https://github.com/JTakefman/jtakefman_honours_project_300171459",
+        "id": 894193017
+    },
+    {
+        "repo": "openglory",
+        "description": "OpenGlory toy GPU",
+        "owner": "egorxe",
+        "stars": 0,
+        "forks": 0,
+        "size": 49344,
+        "created": "2024-12-21T03:18:05+00:00",
+        "updated": "2024-12-21T03:34:26+00:00",
+        "pushed": "2024-12-21T03:34:23+00:00",
+        "url": "https://github.com/egorxe/openglory",
+        "id": 906484422
+    },
+    {
+        "repo": "LiteXfer",
+        "description": "This is a small HTTP server meant to transfer files",
+        "owner": "rcallaby",
+        "stars": 0,
+        "forks": 0,
+        "size": 18,
+        "created": "2024-12-03T00:39:03+00:00",
+        "updated": "2024-12-08T15:18:03+00:00",
+        "pushed": "2024-12-20T18:25:32+00:00",
+        "url": "https://github.com/rcallaby/LiteXfer",
+        "id": 897628460
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -14009,9 +14022,22 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-20T00:14:47+00:00",
+        "pushed": "2024-12-21T00:14:32+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
+    },
+    {
+        "repo": "caravel_docs",
+        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
+        "owner": "algofoogle",
+        "stars": 0,
+        "forks": 0,
+        "size": 3778,
+        "created": "2024-12-07T20:21:37+00:00",
+        "updated": "2024-12-21T05:26:48+00:00",
+        "pushed": "2024-12-21T05:26:43+00:00",
+        "url": "https://github.com/algofoogle/caravel_docs",
+        "id": 900084065
     },
     {
         "repo": "starred",
@@ -14019,10 +14045,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1839,
+        "size": 1927,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-20T04:36:17+00:00",
-        "pushed": "2024-12-20T04:36:13+00:00",
+        "updated": "2024-12-21T04:35:14+00:00",
+        "pushed": "2024-12-21T04:35:10+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14032,10 +14058,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 83470,
+        "size": 83964,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-20T03:30:27+00:00",
-        "pushed": "2024-12-20T03:30:23+00:00",
+        "updated": "2024-12-21T03:27:44+00:00",
+        "pushed": "2024-12-21T03:27:40+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
