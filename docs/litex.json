@@ -12818,19 +12818,6 @@
         "id": 505464815
     },
     {
-        "repo": "litex-feedstock",
-        "description": "A conda-smithy repository for litex.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 2,
-        "size": 30,
-        "created": "2023-03-24T15:52:53+00:00",
-        "updated": "2024-11-06T01:44:55+00:00",
-        "pushed": "2024-11-06T01:44:51+00:00",
-        "url": "https://github.com/conda-forge/litex-feedstock",
-        "id": 618501910
-    },
-    {
         "repo": "lakritz",
         "description": "Lakritz Computer",
         "owner": "machdyne",
@@ -13247,19 +13234,6 @@
         "id": 896571183
     },
     {
-        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "description": null,
-        "owner": "malloc-realloc",
-        "stars": 2,
-        "forks": 0,
-        "size": 370,
-        "created": "2024-07-25T03:00:12+00:00",
-        "updated": "2024-11-30T08:52:02+00:00",
-        "pushed": "2024-11-30T08:51:59+00:00",
-        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
-        "id": 833422784
-    },
-    {
         "repo": "litex-in-davinciA7",
         "description": "litex was transplanted for the DaVinci A7",
         "owner": "nmdbxqmz",
@@ -13585,19 +13559,6 @@
         "id": 787406556
     },
     {
-        "repo": "SucreLA",
-        "description": "Open source Logic Analyzer based on LiteX SoC",
-        "owner": "fallen",
-        "stars": 24,
-        "forks": 0,
-        "size": 7269,
-        "created": "2023-12-13T21:00:19+00:00",
-        "updated": "2024-12-16T08:06:36+00:00",
-        "pushed": "2024-12-16T08:06:31+00:00",
-        "url": "https://github.com/fallen/SucreLA",
-        "id": 731331266
-    },
-    {
         "repo": "litex_xtrx",
         "description": "XTRX LiteX/LitePCIe based alternative Gateware/Software.",
         "owner": "enjoy-digital",
@@ -13741,19 +13702,6 @@
         "id": 191191221
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 945,
-        "forks": 199,
-        "size": 764194,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-12-19T05:20:57+00:00",
-        "pushed": "2024-12-19T05:20:40+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -13845,19 +13793,6 @@
         "id": 330793471
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1629,
-        "forks": 231,
-        "size": 217792,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-19T19:50:37+00:00",
-        "pushed": "2024-12-19T19:51:44+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "zephyr-on-litex-coreblocks",
         "description": "LiteX SoC builder for Zephyr litex_coreblocks configuration",
         "owner": "kuznia-rdzeni",
@@ -13910,32 +13845,6 @@
         "id": 906081018
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3075,
-        "forks": 575,
-        "size": 17400,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-12-20T17:17:50+00:00",
-        "pushed": "2024-12-20T17:17:45+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 884,
-        "forks": 81,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-20T07:20:56+00:00",
-        "pushed": "2024-12-21T02:19:05+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -13947,19 +13856,6 @@
         "pushed": "2024-12-20T08:27:01+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 46,
-        "forks": 0,
-        "size": 1580,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-21T05:40:22+00:00",
-        "pushed": "2024-12-21T05:40:18+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "Clock_Glitching_PMP_VexRiscv_Terasic_SoCKit",
@@ -14014,19 +13910,6 @@
         "id": 897628460
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 24,
-        "forks": 1,
-        "size": 2492,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-21T00:14:32+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "caravel_docs",
         "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
         "owner": "algofoogle",
@@ -14040,15 +13923,145 @@
         "id": 900084065
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3075,
+        "forks": 575,
+        "size": 17410,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2024-12-21T17:35:59+00:00",
+        "pushed": "2024-12-21T17:35:56+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 947,
+        "forks": 199,
+        "size": 764196,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2024-12-22T05:21:57+00:00",
+        "pushed": "2024-12-22T05:21:54+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 888,
+        "forks": 81,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-22T00:55:02+00:00",
+        "pushed": "2024-12-22T02:30:39+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1628,
+        "forks": 231,
+        "size": 217901,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-22T04:03:05+00:00",
+        "pushed": "2024-12-21T13:28:23+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 46,
+        "forks": 0,
+        "size": 1640,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-22T03:57:04+00:00",
+        "pushed": "2024-12-22T03:57:01+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "litex-feedstock",
+        "description": "A conda-smithy repository for litex.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 2,
+        "size": 34,
+        "created": "2023-03-24T15:52:53+00:00",
+        "updated": "2024-12-22T00:10:06+00:00",
+        "pushed": "2024-12-22T00:10:01+00:00",
+        "url": "https://github.com/conda-forge/litex-feedstock",
+        "id": 618501910
+    },
+    {
+        "repo": "SucreLA",
+        "description": "Open source Logic Analyzer based on LiteX SoC",
+        "owner": "fallen",
+        "stars": 24,
+        "forks": 0,
+        "size": 6609,
+        "created": "2023-12-13T21:00:19+00:00",
+        "updated": "2024-12-21T13:12:37+00:00",
+        "pushed": "2024-12-21T13:12:33+00:00",
+        "url": "https://github.com/fallen/SucreLA",
+        "id": 731331266
+    },
+    {
+        "repo": "openglory",
+        "description": "OpenGlory toy GPU",
+        "owner": "egorxe",
+        "stars": 3,
+        "forks": 0,
+        "size": 4662,
+        "created": "2024-12-21T08:05:55+00:00",
+        "updated": "2024-12-21T13:01:10+00:00",
+        "pushed": "2024-12-21T13:01:06+00:00",
+        "url": "https://github.com/egorxe/openglory",
+        "id": 906552198
+    },
+    {
+        "repo": "ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "description": null,
+        "owner": "malloc-realloc",
+        "stars": 3,
+        "forks": 0,
+        "size": 1129,
+        "created": "2024-07-25T03:00:12+00:00",
+        "updated": "2024-12-21T09:11:22+00:00",
+        "pushed": "2024-12-21T09:11:18+00:00",
+        "url": "https://github.com/malloc-realloc/ten-plus-lisp-interpreters-in-ten-plus-langs",
+        "id": 833422784
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 24,
+        "forks": 1,
+        "size": 2492,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-12-14T17:50:45+00:00",
+        "pushed": "2024-12-22T00:16:00+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1927,
+        "size": 1928,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-21T04:35:14+00:00",
-        "pushed": "2024-12-21T04:35:10+00:00",
+        "updated": "2024-12-22T04:34:52+00:00",
+        "pushed": "2024-12-22T04:34:49+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14058,10 +14071,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 83964,
+        "size": 84463,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-21T03:27:44+00:00",
-        "pushed": "2024-12-21T03:27:40+00:00",
+        "updated": "2024-12-22T03:31:47+00:00",
+        "pushed": "2024-12-22T03:31:44+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

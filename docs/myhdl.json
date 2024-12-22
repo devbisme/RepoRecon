@@ -5239,19 +5239,6 @@
         "id": 859113010
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 1034,
-        "forks": 247,
-        "size": 13390,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-10-05T08:07:47+00:00",
-        "pushed": "2024-10-05T08:07:42+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5460,19 +5447,6 @@
         "id": 360750527
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 40,
-        "forks": 29,
-        "size": 41435,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-12-14T02:48:35+00:00",
-        "pushed": "2024-12-14T02:48:32+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -5510,5 +5484,31 @@
         "pushed": "2024-12-20T19:35:05+00:00",
         "url": "https://github.com/Nextjingjing/ALU_1bit-overflow_detector",
         "id": 906360752
+    },
+    {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1053,
+        "forks": 248,
+        "size": 13435,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2024-12-21T16:21:16+00:00",
+        "pushed": "2024-12-21T16:21:11+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 40,
+        "forks": 30,
+        "size": 41445,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2024-12-21T15:34:53+00:00",
+        "pushed": "2024-12-21T15:34:50+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
     }
 ]
