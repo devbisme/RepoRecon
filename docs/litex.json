@@ -13039,19 +13039,6 @@
         "id": 479118982
     },
     {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 31,
-        "forks": 2,
-        "size": 24276,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2024-11-20T16:31:24+00:00",
-        "pushed": "2024-11-20T16:31:20+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
-    },
-    {
         "repo": "kirsch",
         "description": "Kirsch Computer",
         "owner": "machdyne",
@@ -13507,19 +13494,6 @@
         "id": 793742406
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 2,
-        "forks": 0,
-        "size": 240,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2024-12-14T16:43:56+00:00",
-        "pushed": "2024-12-14T16:43:52+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -13949,45 +13923,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 888,
-        "forks": 81,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-22T00:55:02+00:00",
-        "pushed": "2024-12-22T02:30:39+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1628,
-        "forks": 231,
-        "size": 217901,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-22T04:03:05+00:00",
-        "pushed": "2024-12-21T13:28:23+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 46,
-        "forks": 0,
-        "size": 1640,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-22T03:57:04+00:00",
-        "pushed": "2024-12-22T03:57:01+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "litex-feedstock",
         "description": "A conda-smithy repository for litex.",
         "owner": "conda-forge",
@@ -14040,6 +13975,71 @@
         "id": 833422784
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 889,
+        "forks": 81,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-22T19:52:05+00:00",
+        "pushed": "2024-12-23T02:25:43+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1628,
+        "forks": 231,
+        "size": 217787,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-22T20:26:56+00:00",
+        "pushed": "2024-12-22T20:28:05+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 46,
+        "forks": 0,
+        "size": 1640,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-23T06:33:32+00:00",
+        "pushed": "2024-12-23T06:33:28+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 32,
+        "forks": 2,
+        "size": 24322,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2024-12-22T12:55:51+00:00",
+        "pushed": "2024-12-22T12:55:47+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "fpga-useful-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 2,
+        "forks": 0,
+        "size": 246,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2024-12-22T14:54:39+00:00",
+        "pushed": "2024-12-22T14:54:35+00:00",
+        "url": "https://github.com/RDSik/fpga-useful-list",
+        "id": 777943094
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -14048,7 +14048,7 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-22T00:16:00+00:00",
+        "pushed": "2024-12-23T00:15:23+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -14058,10 +14058,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1928,
+        "size": 1929,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-22T04:34:52+00:00",
-        "pushed": "2024-12-22T04:34:49+00:00",
+        "updated": "2024-12-23T04:36:38+00:00",
+        "pushed": "2024-12-23T04:36:35+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14071,10 +14071,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 84463,
+        "size": 84961,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-22T03:31:47+00:00",
-        "pushed": "2024-12-22T03:31:44+00:00",
+        "updated": "2024-12-23T03:31:13+00:00",
+        "pushed": "2024-12-23T03:31:09+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
