@@ -13910,19 +13910,6 @@
         "id": 906552198
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 46,
-        "forks": 0,
-        "size": 1640,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-23T06:33:32+00:00",
-        "pushed": "2024-12-23T06:33:28+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -13934,19 +13921,6 @@
         "pushed": "2024-12-22T14:54:35+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 891,
-        "forks": 82,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-24T03:29:29+00:00",
-        "pushed": "2024-12-24T02:23:22+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "neorv32",
@@ -13962,19 +13936,6 @@
         "id": 274442284
     },
     {
-        "repo": "scope",
-        "description": "Siglent SDS1x0xX-E FPGA bitstreams",
-        "owner": "360nosc0pe",
-        "stars": 40,
-        "forks": 6,
-        "size": 375,
-        "created": "2021-02-19T10:20:48+00:00",
-        "updated": "2024-12-23T17:44:09+00:00",
-        "pushed": "2024-12-23T17:44:06+00:00",
-        "url": "https://github.com/360nosc0pe/scope",
-        "id": 340332883
-    },
-    {
         "repo": "kakao",
         "description": "Kakao Linux",
         "owner": "machdyne",
@@ -13986,19 +13947,6 @@
         "pushed": "2024-12-23T20:17:41+00:00",
         "url": "https://github.com/machdyne/kakao",
         "id": 591257216
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 24139,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-12-23T11:23:42+00:00",
-        "pushed": "2024-12-23T11:23:38+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "LiteXfer",
@@ -14027,19 +13975,6 @@
         "id": 833422784
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 24,
-        "forks": 1,
-        "size": 2492,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-24T00:14:55+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -14053,15 +13988,80 @@
         "id": 237940918
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 890,
+        "forks": 82,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-24T09:25:03+00:00",
+        "pushed": "2024-12-25T02:11:09+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "scope",
+        "description": "Siglent SDS1x0xX-E FPGA bitstreams",
+        "owner": "360nosc0pe",
+        "stars": 40,
+        "forks": 6,
+        "size": 381,
+        "created": "2021-02-19T10:20:48+00:00",
+        "updated": "2024-12-24T10:52:45+00:00",
+        "pushed": "2024-12-24T10:52:42+00:00",
+        "url": "https://github.com/360nosc0pe/scope",
+        "id": 340332883
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 51,
+        "forks": 0,
+        "size": 1754,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-25T05:42:18+00:00",
+        "pushed": "2024-12-25T05:42:14+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 24419,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2024-12-24T22:10:48+00:00",
+        "pushed": "2024-12-24T22:10:44+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 24,
+        "forks": 1,
+        "size": 2492,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2024-12-14T17:50:45+00:00",
+        "pushed": "2024-12-25T00:14:45+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1930,
+        "size": 1967,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-24T04:35:20+00:00",
-        "pushed": "2024-12-24T04:35:17+00:00",
+        "updated": "2024-12-25T04:35:37+00:00",
+        "pushed": "2024-12-25T04:35:34+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14071,10 +14071,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 75950,
+        "size": 76448,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-24T03:30:28+00:00",
-        "pushed": "2024-12-24T03:30:24+00:00",
+        "updated": "2024-12-25T03:29:02+00:00",
+        "pushed": "2024-12-25T03:28:58+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
