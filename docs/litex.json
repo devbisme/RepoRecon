@@ -13988,19 +13988,6 @@
         "id": 237940918
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 890,
-        "forks": 82,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-24T09:25:03+00:00",
-        "pushed": "2024-12-25T02:11:09+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "scope",
         "description": "Siglent SDS1x0xX-E FPGA bitstreams",
         "owner": "360nosc0pe",
@@ -14027,15 +14014,28 @@
         "id": 888329277
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 891,
+        "forks": 82,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-26T04:16:29+00:00",
+        "pushed": "2024-12-26T02:27:52+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
         "stars": 4,
         "forks": 0,
-        "size": 24419,
+        "size": 24676,
         "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-12-24T22:10:48+00:00",
-        "pushed": "2024-12-24T22:10:44+00:00",
+        "updated": "2024-12-25T18:02:27+00:00",
+        "pushed": "2024-12-25T18:02:24+00:00",
         "url": "https://github.com/buncram/cram-soc",
         "id": 564480301
     },
@@ -14048,7 +14048,7 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-25T00:14:45+00:00",
+        "pushed": "2024-12-26T00:14:40+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -14058,10 +14058,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1967,
+        "size": 2055,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-25T04:35:37+00:00",
-        "pushed": "2024-12-25T04:35:34+00:00",
+        "updated": "2024-12-26T04:35:49+00:00",
+        "pushed": "2024-12-26T04:35:46+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14071,10 +14071,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 76448,
+        "size": 76948,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-25T03:29:02+00:00",
-        "pushed": "2024-12-25T03:28:58+00:00",
+        "updated": "2024-12-26T03:29:56+00:00",
+        "pushed": "2024-12-26T03:29:52+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
