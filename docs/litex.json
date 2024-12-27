@@ -13585,19 +13585,6 @@
         "id": 897233661
     },
     {
-        "repo": "wmt_riscv_study",
-        "description": "My RISC-V study",
-        "owner": "weimingtom",
-        "stars": 0,
-        "forks": 0,
-        "size": 386,
-        "created": "2024-10-08T11:43:37+00:00",
-        "updated": "2024-12-17T21:09:40+00:00",
-        "pushed": "2024-12-17T21:09:36+00:00",
-        "url": "https://github.com/weimingtom/wmt_riscv_study",
-        "id": 869491318
-    },
-    {
         "repo": "liteXlReWrapText",
         "description": "A Justify text for the Lite-XL Editor",
         "owner": "stephengaito",
@@ -13923,19 +13910,6 @@
         "id": 777943094
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1628,
-        "forks": 231,
-        "size": 218262,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2024-12-23T07:17:29+00:00",
-        "pushed": "2024-12-23T23:28:45+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "kakao",
         "description": "Kakao Linux",
         "owner": "machdyne",
@@ -13975,19 +13949,6 @@
         "id": 833422784
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 464,
-        "forks": 40,
-        "size": 190455,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2024-12-23T14:27:34+00:00",
-        "pushed": "2024-12-23T14:27:30+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "scope",
         "description": "Siglent SDS1x0xX-E FPGA bitstreams",
         "owner": "360nosc0pe",
@@ -14001,19 +13962,6 @@
         "id": 340332883
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 51,
-        "forks": 0,
-        "size": 1754,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-25T05:42:18+00:00",
-        "pushed": "2024-12-25T05:42:14+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "oss-cad-suite-build",
         "description": "Multi-platform nightly builds of open source digital design and verification tools",
         "owner": "YosysHQ",
@@ -14022,9 +13970,35 @@
         "size": 1232,
         "created": "2021-02-01T08:34:29+00:00",
         "updated": "2024-12-26T04:16:29+00:00",
-        "pushed": "2024-12-26T02:27:52+00:00",
+        "pushed": "2024-12-27T02:23:42+00:00",
         "url": "https://github.com/YosysHQ/oss-cad-suite-build",
         "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1630,
+        "forks": 232,
+        "size": 218944,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2024-12-26T17:10:44+00:00",
+        "pushed": "2024-12-27T04:49:06+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 52,
+        "forks": 0,
+        "size": 1826,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-27T04:12:32+00:00",
+        "pushed": "2024-12-27T04:12:28+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
     },
     {
         "repo": "cram-soc",
@@ -14032,12 +14006,77 @@
         "owner": "buncram",
         "stars": 4,
         "forks": 0,
-        "size": 24676,
+        "size": 24947,
         "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2024-12-25T18:02:27+00:00",
-        "pushed": "2024-12-25T18:02:24+00:00",
+        "updated": "2024-12-27T00:17:58+00:00",
+        "pushed": "2024-12-27T00:17:55+00:00",
         "url": "https://github.com/buncram/cram-soc",
         "id": 564480301
+    },
+    {
+        "repo": "hub75_colorlight75_stuff",
+        "description": "Old project, works, needs some more work, might not correctly build",
+        "owner": "david-sawatzke",
+        "stars": 0,
+        "forks": 0,
+        "size": 297,
+        "created": "2024-12-26T22:35:01+00:00",
+        "updated": "2024-12-26T22:49:35+00:00",
+        "pushed": "2024-12-26T22:36:15+00:00",
+        "url": "https://github.com/david-sawatzke/hub75_colorlight75_stuff",
+        "id": 908760051
+    },
+    {
+        "repo": "TangNano-20K-example",
+        "description": null,
+        "owner": "sryoon",
+        "stars": 0,
+        "forks": 0,
+        "size": 3788,
+        "created": "2024-12-26T23:33:05+00:00",
+        "updated": "2024-12-26T23:34:19+00:00",
+        "pushed": "2024-12-26T23:34:16+00:00",
+        "url": "https://github.com/sryoon/TangNano-20K-example",
+        "id": 908770682
+    },
+    {
+        "repo": "wmt_riscv_study",
+        "description": "My RISC-V study",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 405,
+        "created": "2024-10-08T11:43:37+00:00",
+        "updated": "2024-12-26T13:20:27+00:00",
+        "pushed": "2024-12-26T13:20:23+00:00",
+        "url": "https://github.com/weimingtom/wmt_riscv_study",
+        "id": 869491318
+    },
+    {
+        "repo": "ClockFaultInjector",
+        "description": "Clock Fault Injector - Clock Glitching Attack with Chipwhisperer",
+        "owner": "KevinQhv",
+        "stars": 6,
+        "forks": 1,
+        "size": 58,
+        "created": "2024-04-12T19:50:31+00:00",
+        "updated": "2024-12-26T17:30:01+00:00",
+        "pushed": "2024-12-26T17:29:58+00:00",
+        "url": "https://github.com/KevinQhv/ClockFaultInjector",
+        "id": 785867559
+    },
+    {
+        "repo": "custom-litex-boards",
+        "description": "Custom board implementations using litex",
+        "owner": "uglyoldbob",
+        "stars": 0,
+        "forks": 0,
+        "size": 28,
+        "created": "2024-12-26T14:11:53+00:00",
+        "updated": "2024-12-27T00:13:33+00:00",
+        "pushed": "2024-12-27T00:13:30+00:00",
+        "url": "https://github.com/uglyoldbob/custom-litex-boards",
+        "id": 908616881
     },
     {
         "repo": "nuttx-star64",
@@ -14048,9 +14087,22 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-26T00:14:40+00:00",
+        "pushed": "2024-12-27T00:14:47+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 466,
+        "forks": 40,
+        "size": 191454,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2024-12-27T02:31:42+00:00",
+        "pushed": "2024-12-27T02:31:38+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
     },
     {
         "repo": "starred",
@@ -14058,10 +14110,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2055,
+        "size": 2056,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-26T04:35:49+00:00",
-        "pushed": "2024-12-26T04:35:46+00:00",
+        "updated": "2024-12-27T04:35:32+00:00",
+        "pushed": "2024-12-27T04:35:29+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14071,10 +14123,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 76948,
+        "size": 77449,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-26T03:29:56+00:00",
-        "pushed": "2024-12-26T03:29:52+00:00",
+        "updated": "2024-12-27T03:29:35+00:00",
+        "pushed": "2024-12-27T03:29:32+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
