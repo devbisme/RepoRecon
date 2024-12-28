@@ -40846,19 +40846,6 @@
         "id": 823271876
     },
     {
-        "repo": "learn",
-        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
-        "owner": "riscv",
-        "stars": 624,
-        "forks": 76,
-        "size": 1713,
-        "created": "2023-11-22T21:20:35+00:00",
-        "updated": "2024-12-21T06:32:37+00:00",
-        "pushed": "2024-12-20T11:49:04+00:00",
-        "url": "https://github.com/riscv/learn",
-        "id": 722305838
-    },
-    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
@@ -40883,19 +40870,6 @@
         "pushed": "2024-12-20T15:22:48+00:00",
         "url": "https://github.com/morrezhao/os",
         "id": 876004023
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1341,
-        "forks": 289,
-        "size": 61138,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2024-12-21T17:15:38+00:00",
-        "pushed": "2024-12-23T06:53:39+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
     },
     {
         "repo": "ncnn-riscv-vector-test",
@@ -41067,19 +41041,6 @@
         "id": 456793068
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 4,
-        "forks": 0,
-        "size": 3973,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-12-25T01:59:15+00:00",
-        "pushed": "2024-12-25T01:59:12+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -41132,19 +41093,6 @@
         "id": 857263549
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 28,
-        "forks": 6,
-        "size": 51314,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-12-27T02:34:49+00:00",
-        "pushed": "2024-12-27T02:34:46+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
         "owner": "RT-Thread",
@@ -41156,19 +41104,6 @@
         "pushed": "2024-12-27T07:22:08+00:00",
         "url": "https://github.com/RT-Thread/rt-thread",
         "id": 7408108
-    },
-    {
-        "repo": "slides",
-        "description": "All public report slides, articles and meeting minutes related to RustSBI",
-        "owner": "rustsbi",
-        "stars": 27,
-        "forks": 9,
-        "size": 35536,
-        "created": "2021-12-18T08:01:27+00:00",
-        "updated": "2024-12-26T04:07:59+00:00",
-        "pushed": "2024-12-26T04:07:55+00:00",
-        "url": "https://github.com/rustsbi/slides",
-        "id": 439560352
     },
     {
         "repo": "canmv",
@@ -41275,19 +41210,6 @@
         "id": 894236258
     },
     {
-        "repo": "stocklist",
-        "description": null,
-        "owner": "fifteenhex",
-        "stars": 0,
-        "forks": 0,
-        "size": 225,
-        "created": "2020-03-22T03:59:35+00:00",
-        "updated": "2024-12-27T06:42:24+00:00",
-        "pushed": "2024-12-27T06:42:21+00:00",
-        "url": "https://github.com/fifteenhex/stocklist",
-        "id": 249109529
-    },
-    {
         "repo": "Self-balancing-robot-car",
         "description": "STM32 Self-balancing Robot Car(Load:4KG)",
         "owner": "YahboomTechnology",
@@ -41299,19 +41221,6 @@
         "pushed": "2024-12-27T02:11:16+00:00",
         "url": "https://github.com/YahboomTechnology/Self-balancing-robot-car",
         "id": 856278969
-    },
-    {
-        "repo": "CACRS-on-STM32F4",
-        "description": "base on STM32, acess ADS1292 collection date , use IIR and FIR filer to process data,  Using deep learning frameworks to analyze data and obtain heart status",
-        "owner": "liji3597",
-        "stars": 0,
-        "forks": 0,
-        "size": 25471,
-        "created": "2024-12-26T13:32:02+00:00",
-        "updated": "2024-12-27T06:23:25+00:00",
-        "pushed": "2024-12-27T06:15:18+00:00",
-        "url": "https://github.com/liji3597/CACRS-on-STM32F4",
-        "id": 908603160
     },
     {
         "repo": "emakefun-docsify",
@@ -41327,32 +41236,6 @@
         "id": 859664219
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 7,
-        "forks": 1,
-        "size": 1801,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-12-27T01:58:08+00:00",
-        "pushed": "2024-12-27T01:58:04+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 130,
-        "forks": 36,
-        "size": 863817,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-26T12:32:08+00:00",
-        "pushed": "2024-12-26T12:32:03+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "wmt_riscv_study",
         "description": "My RISC-V study",
         "owner": "weimingtom",
@@ -41366,19 +41249,6 @@
         "id": 869491318
     },
     {
-        "repo": "nuttx-ox64",
-        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
-        "owner": "lupyuen",
-        "stars": 36,
-        "forks": 0,
-        "size": 259,
-        "created": "2023-10-28T08:34:51+00:00",
-        "updated": "2024-12-20T03:16:22+00:00",
-        "pushed": "2024-12-27T00:15:02+00:00",
-        "url": "https://github.com/lupyuen/nuttx-ox64",
-        "id": 711107946
-    },
-    {
         "repo": "VIT",
         "description": null,
         "owner": "lfy23",
@@ -41390,5 +41260,135 @@
         "pushed": "2024-12-25T14:05:58+00:00",
         "url": "https://github.com/lfy23/VIT",
         "id": 908221451
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1350,
+        "forks": 292,
+        "size": 61146,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2024-12-27T07:55:54+00:00",
+        "pushed": "2024-12-28T07:21:02+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "learn",
+        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
+        "owner": "riscv",
+        "stars": 632,
+        "forks": 76,
+        "size": 1713,
+        "created": "2023-11-22T21:20:35+00:00",
+        "updated": "2024-12-27T12:06:15+00:00",
+        "pushed": "2024-12-27T12:06:11+00:00",
+        "url": "https://github.com/riscv/learn",
+        "id": 722305838
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 28,
+        "forks": 6,
+        "size": 51318,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-12-28T00:42:31+00:00",
+        "pushed": "2024-12-28T00:42:28+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "slides",
+        "description": "All public report slides, articles and meeting minutes related to RustSBI",
+        "owner": "rustsbi",
+        "stars": 27,
+        "forks": 9,
+        "size": 35536,
+        "created": "2021-12-18T08:01:27+00:00",
+        "updated": "2024-12-28T06:30:50+00:00",
+        "pushed": "2024-12-28T06:30:47+00:00",
+        "url": "https://github.com/rustsbi/slides",
+        "id": 439560352
+    },
+    {
+        "repo": "stocklist",
+        "description": null,
+        "owner": "fifteenhex",
+        "stars": 0,
+        "forks": 0,
+        "size": 254,
+        "created": "2020-03-22T03:59:35+00:00",
+        "updated": "2024-12-28T01:22:49+00:00",
+        "pushed": "2024-12-28T01:22:45+00:00",
+        "url": "https://github.com/fifteenhex/stocklist",
+        "id": 249109529
+    },
+    {
+        "repo": "CACRS-on-STM32F4",
+        "description": "base on STM32, acess ADS1292 collection date , use IIR and FIR filer to process data,  Using deep learning frameworks to analyze data and obtain heart status",
+        "owner": "liji3597",
+        "stars": 0,
+        "forks": 0,
+        "size": 26268,
+        "created": "2024-12-26T13:32:02+00:00",
+        "updated": "2024-12-28T05:19:19+00:00",
+        "pushed": "2024-12-28T05:19:16+00:00",
+        "url": "https://github.com/liji3597/CACRS-on-STM32F4",
+        "id": 908603160
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 4,
+        "forks": 0,
+        "size": 4464,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2024-12-28T01:57:57+00:00",
+        "pushed": "2024-12-28T01:57:54+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 7,
+        "forks": 1,
+        "size": 1871,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-12-28T01:55:10+00:00",
+        "pushed": "2024-12-28T01:55:06+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 131,
+        "forks": 36,
+        "size": 863820,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2024-12-27T19:59:22+00:00",
+        "pushed": "2024-12-27T12:31:44+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
+    },
+    {
+        "repo": "nuttx-ox64",
+        "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
+        "owner": "lupyuen",
+        "stars": 36,
+        "forks": 0,
+        "size": 259,
+        "created": "2023-10-28T08:34:51+00:00",
+        "updated": "2024-12-20T03:16:22+00:00",
+        "pushed": "2024-12-28T00:14:48+00:00",
+        "url": "https://github.com/lupyuen/nuttx-ox64",
+        "id": 711107946
     }
 ]
