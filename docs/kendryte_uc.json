@@ -40456,19 +40456,6 @@
         "id": 390637491
     },
     {
-        "repo": "Baremetal-NN",
-        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
-        "owner": "ucb-bar",
-        "stars": 25,
-        "forks": 4,
-        "size": 81533,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2024-12-14T00:35:02+00:00",
-        "pushed": "2024-12-14T00:34:59+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
-    },
-    {
         "repo": "k210-sipeed",
         "description": "ai\u6444\u50cf\u59342.0",
         "owner": "labplus-cn",
@@ -41054,19 +41041,6 @@
         "id": 188584527
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 757,
-        "forks": 185,
-        "size": 59949,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-12-26T11:42:38+00:00",
-        "pushed": "2024-12-27T07:15:52+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -41288,32 +41262,6 @@
         "id": 722305838
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 28,
-        "forks": 6,
-        "size": 51318,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-12-28T00:42:31+00:00",
-        "pushed": "2024-12-28T00:42:28+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "slides",
-        "description": "All public report slides, articles and meeting minutes related to RustSBI",
-        "owner": "rustsbi",
-        "stars": 27,
-        "forks": 9,
-        "size": 35536,
-        "created": "2021-12-18T08:01:27+00:00",
-        "updated": "2024-12-28T06:30:50+00:00",
-        "pushed": "2024-12-28T06:30:47+00:00",
-        "url": "https://github.com/rustsbi/slides",
-        "id": 439560352
-    },
-    {
         "repo": "stocklist",
         "description": null,
         "owner": "fifteenhex",
@@ -41366,15 +41314,67 @@
         "id": 731012323
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 757,
+        "forks": 185,
+        "size": 60089,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-12-26T11:42:38+00:00",
+        "pushed": "2024-12-29T03:55:33+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 28,
+        "forks": 6,
+        "size": 51321,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-12-29T03:39:03+00:00",
+        "pushed": "2024-12-29T03:38:59+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
+        "owner": "ucb-bar",
+        "stars": 26,
+        "forks": 4,
+        "size": 81551,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2024-12-29T06:11:42+00:00",
+        "pushed": "2024-12-29T04:52:31+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "slides",
+        "description": "All public report slides, articles and meeting minutes related to RustSBI",
+        "owner": "rustsbi",
+        "stars": 27,
+        "forks": 11,
+        "size": 37648,
+        "created": "2021-12-18T08:01:27+00:00",
+        "updated": "2024-12-29T06:16:43+00:00",
+        "pushed": "2024-12-29T06:16:39+00:00",
+        "url": "https://github.com/rustsbi/slides",
+        "id": 439560352
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 131,
-        "forks": 36,
-        "size": 863820,
+        "forks": 37,
+        "size": 863821,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-27T19:59:22+00:00",
-        "pushed": "2024-12-27T12:31:44+00:00",
+        "updated": "2024-12-28T12:28:50+00:00",
+        "pushed": "2024-12-28T12:28:46+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41387,7 +41387,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-12-20T03:16:22+00:00",
-        "pushed": "2024-12-28T00:14:48+00:00",
+        "pushed": "2024-12-29T00:16:50+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

@@ -11271,19 +11271,6 @@
         "id": 250694268
     },
     {
-        "repo": "pythondata-auto",
-        "description": "Scripts which automate the creation of the `litex.data` Python modules from various git repositories.",
-        "owner": "litex-hub",
-        "stars": 4,
-        "forks": 10,
-        "size": 95,
-        "created": "2020-02-23T01:12:53+00:00",
-        "updated": "2024-05-14T10:11:14+00:00",
-        "pushed": "2024-05-14T10:11:10+00:00",
-        "url": "https://github.com/litex-hub/pythondata-auto",
-        "id": 242436296
-    },
-    {
         "repo": "dm_vdo_kernel",
         "description": "kernel workflows",
         "owner": "averyfreeman",
@@ -13091,19 +13078,6 @@
         "id": 891717652
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 14,
-        "forks": 5,
-        "size": 6095,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2024-11-24T10:05:14+00:00",
-        "pushed": "2024-11-25T06:02:14+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -13676,19 +13650,6 @@
         "id": 902726076
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 1,
-        "size": 32080,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2024-12-19T01:00:13+00:00",
-        "pushed": "2024-12-19T01:00:10+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "zephyr-on-litex-coreblocks",
         "description": "LiteX SoC builder for Zephyr litex_coreblocks configuration",
         "owner": "kuznia-rdzeni",
@@ -14027,19 +13988,6 @@
         "id": 237940918
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 892,
-        "forks": 82,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2024-12-27T15:54:03+00:00",
-        "pushed": "2024-12-28T02:16:30+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -14051,19 +13999,6 @@
         "pushed": "2024-12-28T05:57:26+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 52,
-        "forks": 0,
-        "size": 1943,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2024-12-28T03:35:34+00:00",
-        "pushed": "2024-12-28T03:35:29+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "OS",
@@ -14092,6 +14027,58 @@
         "id": 485301689
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 894,
+        "forks": 82,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2024-12-28T21:38:52+00:00",
+        "pushed": "2024-12-29T02:31:29+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 14,
+        "forks": 5,
+        "size": 6096,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2024-12-28T15:53:50+00:00",
+        "pushed": "2024-12-28T15:54:49+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "pythondata-auto",
+        "description": "Scripts which automate the creation of the `litex.data` Python modules from various git repositories.",
+        "owner": "litex-hub",
+        "stars": 4,
+        "forks": 11,
+        "size": 107,
+        "created": "2020-02-23T01:12:53+00:00",
+        "updated": "2024-12-28T18:26:20+00:00",
+        "pushed": "2024-12-28T18:26:16+00:00",
+        "url": "https://github.com/litex-hub/pythondata-auto",
+        "id": 242436296
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 52,
+        "forks": 0,
+        "size": 2039,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2024-12-29T06:30:21+00:00",
+        "pushed": "2024-12-29T06:30:17+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -14100,7 +14087,7 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2024-12-28T00:14:36+00:00",
+        "pushed": "2024-12-29T00:16:13+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -14110,12 +14097,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2144,
+        "size": 2146,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2024-12-28T04:35:25+00:00",
-        "pushed": "2024-12-28T04:35:21+00:00",
+        "updated": "2024-12-29T04:35:24+00:00",
+        "pushed": "2024-12-29T04:35:21+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 1,
+        "size": 32577,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2024-12-29T00:54:11+00:00",
+        "pushed": "2024-12-29T00:54:07+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14123,10 +14123,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 77928,
+        "size": 78411,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2024-12-28T03:27:49+00:00",
-        "pushed": "2024-12-28T03:27:46+00:00",
+        "updated": "2024-12-29T03:32:50+00:00",
+        "pushed": "2024-12-29T03:32:46+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
