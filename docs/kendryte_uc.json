@@ -40677,19 +40677,6 @@
         "id": 824383370
     },
     {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 3,
-        "size": 61717,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2024-12-18T03:16:54+00:00",
-        "pushed": "2024-12-18T03:16:52+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "k230-bare-metal",
         "description": "Bare-metal Rust Embedded on K230",
         "owner": "andelf",
@@ -41067,19 +41054,6 @@
         "id": 857263549
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10694,
-        "forks": 5052,
-        "size": 889911,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-12-27T07:22:16+00:00",
-        "pushed": "2024-12-27T07:22:08+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "canmv",
         "description": null,
         "owner": "canmv-k230",
@@ -41262,19 +41236,6 @@
         "id": 722305838
     },
     {
-        "repo": "stocklist",
-        "description": null,
-        "owner": "fifteenhex",
-        "stars": 0,
-        "forks": 0,
-        "size": 254,
-        "created": "2020-03-22T03:59:35+00:00",
-        "updated": "2024-12-28T01:22:49+00:00",
-        "pushed": "2024-12-28T01:22:45+00:00",
-        "url": "https://github.com/fifteenhex/stocklist",
-        "id": 249109529
-    },
-    {
         "repo": "CACRS-on-STM32F4",
         "description": "base on STM32, acess ADS1292 collection date , use IIR and FIR filer to process data,  Using deep learning frameworks to analyze data and obtain heart status",
         "owner": "liji3597",
@@ -41299,45 +41260,6 @@
         "pushed": "2024-12-28T01:57:54+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 7,
-        "forks": 1,
-        "size": 1871,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-12-28T01:55:10+00:00",
-        "pushed": "2024-12-28T01:55:06+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 757,
-        "forks": 185,
-        "size": 60089,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2024-12-26T11:42:38+00:00",
-        "pushed": "2024-12-29T03:55:33+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 28,
-        "forks": 6,
-        "size": 51321,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-12-29T03:39:03+00:00",
-        "pushed": "2024-12-29T03:38:59+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "Baremetal-NN",
@@ -41366,15 +41288,119 @@
         "id": 439560352
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 757,
+        "forks": 185,
+        "size": 60107,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2024-12-26T11:42:38+00:00",
+        "pushed": "2024-12-30T05:43:23+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 28,
+        "forks": 6,
+        "size": 51325,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2024-12-30T04:08:52+00:00",
+        "pushed": "2024-12-30T04:08:49+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10704,
+        "forks": 5056,
+        "size": 889925,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2024-12-30T07:19:10+00:00",
+        "pushed": "2024-12-30T03:32:10+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 3,
+        "size": 61718,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2024-12-30T03:24:01+00:00",
+        "pushed": "2024-12-30T03:23:57+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "k210",
+        "description": null,
+        "owner": "cnzzl",
+        "stars": 0,
+        "forks": 0,
+        "size": 256,
+        "created": "2024-12-27T16:26:16+00:00",
+        "updated": "2024-12-29T11:45:06+00:00",
+        "pushed": "2024-12-29T11:45:02+00:00",
+        "url": "https://github.com/cnzzl/k210",
+        "id": 909052592
+    },
+    {
+        "repo": "STM32-yu-K210OpenMV-chuan-kou-tong-xin-yuan-ma",
+        "description": "STM32\u4e0eK210OpenMV\u4e32\u53e3\u901a\u4fe1\u6e90\u7801",
+        "owner": "chaos198800",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-12-30T04:45:03+00:00",
+        "updated": "2024-12-30T04:46:09+00:00",
+        "pushed": "2024-12-30T04:46:06+00:00",
+        "url": "https://github.com/chaos198800/STM32-yu-K210OpenMV-chuan-kou-tong-xin-yuan-ma",
+        "id": 909928147
+    },
+    {
+        "repo": "stocklist",
+        "description": null,
+        "owner": "fifteenhex",
+        "stars": 0,
+        "forks": 0,
+        "size": 268,
+        "created": "2020-03-22T03:59:35+00:00",
+        "updated": "2024-12-30T04:49:36+00:00",
+        "pushed": "2024-12-30T04:49:33+00:00",
+        "url": "https://github.com/fifteenhex/stocklist",
+        "id": 249109529
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 7,
+        "forks": 1,
+        "size": 1982,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2024-12-30T02:01:18+00:00",
+        "pushed": "2024-12-30T02:01:14+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 131,
         "forks": 37,
-        "size": 863821,
+        "size": 866785,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-28T12:28:50+00:00",
-        "pushed": "2024-12-28T12:28:46+00:00",
+        "updated": "2024-12-29T12:30:21+00:00",
+        "pushed": "2024-12-29T12:30:17+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41387,7 +41413,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-12-20T03:16:22+00:00",
-        "pushed": "2024-12-29T00:16:50+00:00",
+        "pushed": "2024-12-30T00:16:10+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
