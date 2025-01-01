@@ -25987,19 +25987,6 @@
         "id": 541544219
     },
     {
-        "repo": "MaixSense_ROS",
-        "description": "ROS package for MaixSense RGBD/ToF Sensor",
-        "owner": "sipeed",
-        "stars": 3,
-        "forks": 1,
-        "size": 65,
-        "created": "2022-09-27T08:13:21Z",
-        "updated": "2023-08-31T07:29:28Z",
-        "pushed": "2023-08-11T01:59:50Z",
-        "url": "https://github.com/sipeed/MaixSense_ROS",
-        "id": 541974508
-    },
-    {
         "repo": "TinyMaix_STM32F103RC",
         "description": null,
         "owner": "Anuo-shuo",
@@ -36465,19 +36452,6 @@
         "id": 816496210
     },
     {
-        "repo": "me",
-        "description": "Sunela Mechanical Design",
-        "owner": "sunela",
-        "stars": 0,
-        "forks": 0,
-        "size": 893,
-        "created": "2023-06-22T18:49:32+00:00",
-        "updated": "2024-06-18T17:50:24+00:00",
-        "pushed": "2024-06-18T17:50:20+00:00",
-        "url": "https://github.com/sunela/me",
-        "id": 657297373
-    },
-    {
         "repo": "rcore-tutorial",
         "description": null,
         "owner": "cypppper",
@@ -40846,19 +40820,6 @@
         "id": 670236699
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 211,
-        "forks": 44,
-        "size": 39512,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2024-12-25T02:50:35+00:00",
-        "pushed": "2024-12-25T02:59:59+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -41210,19 +41171,6 @@
         "id": 7408108
     },
     {
-        "repo": "k210",
-        "description": null,
-        "owner": "cnzzl",
-        "stars": 0,
-        "forks": 0,
-        "size": 256,
-        "created": "2024-12-27T16:26:16+00:00",
-        "updated": "2024-12-29T11:45:06+00:00",
-        "pushed": "2024-12-29T11:45:02+00:00",
-        "url": "https://github.com/cnzzl/k210",
-        "id": 909052592
-    },
-    {
         "repo": "STM32-yu-K210OpenMV-chuan-kou-tong-xin-yuan-ma",
         "description": "STM32\u4e0eK210OpenMV\u4e32\u53e3\u901a\u4fe1\u6e90\u7801",
         "owner": "chaos198800",
@@ -41247,19 +41195,6 @@
         "pushed": "2024-12-31T06:17:26+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 63,
-        "forks": 16,
-        "size": 117497,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2024-12-31T03:18:19+00:00",
-        "pushed": "2024-12-30T09:26:44+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "LicheeSG-Nano-Build",
@@ -41379,19 +41314,6 @@
         "id": 734858218
     },
     {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 0,
-        "forks": 1,
-        "size": 68482,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2024-12-30T10:12:19+00:00",
-        "pushed": "2024-12-30T10:12:16+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
-    },
-    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
@@ -41405,15 +41327,54 @@
         "id": 731012323
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 213,
+        "forks": 45,
+        "size": 39516,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2024-12-30T14:17:35+00:00",
+        "pushed": "2025-01-01T05:04:18+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "MaixSense_ROS",
+        "description": "ROS package for MaixSense RGBD/ToF Sensor",
+        "owner": "sipeed",
+        "stars": 9,
+        "forks": 5,
+        "size": 66,
+        "created": "2022-09-27T08:13:21+00:00",
+        "updated": "2024-12-31T08:58:09+00:00",
+        "pushed": "2024-12-31T08:58:05+00:00",
+        "url": "https://github.com/sipeed/MaixSense_ROS",
+        "id": 541974508
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 0,
+        "forks": 1,
+        "size": 76540,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2024-12-31T10:00:47+00:00",
+        "pushed": "2024-12-31T10:00:42+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 131,
         "forks": 37,
-        "size": 866787,
+        "size": 866789,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-30T12:31:29+00:00",
-        "pushed": "2024-12-30T12:31:25+00:00",
+        "updated": "2024-12-31T12:31:08+00:00",
+        "pushed": "2024-12-31T12:31:03+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41426,8 +41387,60 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2024-12-20T03:16:22+00:00",
-        "pushed": "2024-12-31T00:17:01+00:00",
+        "pushed": "2025-01-01T00:16:20+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "k210",
+        "description": null,
+        "owner": "cnzzl",
+        "stars": 0,
+        "forks": 0,
+        "size": 3950,
+        "created": "2024-12-27T16:26:16+00:00",
+        "updated": "2025-01-01T03:59:38+00:00",
+        "pushed": "2025-01-01T03:59:34+00:00",
+        "url": "https://github.com/cnzzl/k210",
+        "id": 909052592
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 63,
+        "forks": 16,
+        "size": 117483,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-01-01T05:03:37+00:00",
+        "pushed": "2025-01-01T05:06:52+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "pComputer",
+        "description": "A simple \"computer\" from scratch, running on FPGA-based hardware. ",
+        "owner": "regymm",
+        "stars": 3,
+        "forks": 0,
+        "size": 1336,
+        "created": "2020-06-13T03:13:30+00:00",
+        "updated": "2025-01-01T02:27:22+00:00",
+        "pushed": "2025-01-01T02:27:18+00:00",
+        "url": "https://github.com/regymm/pComputer",
+        "id": 271931601
+    },
+    {
+        "repo": "me",
+        "description": "Sunela Mechanical Design",
+        "owner": "sunela",
+        "stars": 0,
+        "forks": 0,
+        "size": 1744,
+        "created": "2023-06-22T18:49:32+00:00",
+        "updated": "2025-01-01T04:39:16+00:00",
+        "pushed": "2025-01-01T04:39:11+00:00",
+        "url": "https://github.com/sunela/me",
+        "id": 657297373
     }
 ]
