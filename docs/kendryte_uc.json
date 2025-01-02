@@ -40924,19 +40924,6 @@
         "id": 188584527
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 19,
-        "forks": 11,
-        "size": 47675,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2024-12-25T09:51:11+00:00",
-        "pushed": "2024-12-25T09:51:07+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -41158,19 +41145,6 @@
         "id": 439560352
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10704,
-        "forks": 5056,
-        "size": 889925,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2024-12-30T07:19:10+00:00",
-        "pushed": "2024-12-30T03:32:10+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "STM32-yu-K210OpenMV-chuan-kou-tong-xin-yuan-ma",
         "description": "STM32\u4e0eK210OpenMV\u4e32\u53e3\u901a\u4fe1\u6e90\u7801",
         "owner": "chaos198800",
@@ -41197,19 +41171,6 @@
         "id": 128056991
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 30,
-        "forks": 6,
-        "size": 51329,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2024-12-31T00:19:12+00:00",
-        "pushed": "2024-12-31T00:19:09+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -41221,19 +41182,6 @@
         "pushed": "2024-12-30T21:22:15+00:00",
         "url": "https://github.com/v923z/micropython-ulab",
         "id": 205409848
-    },
-    {
-        "repo": "Baremetal-NN",
-        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
-        "owner": "ucb-bar",
-        "stars": 26,
-        "forks": 4,
-        "size": 81615,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2024-12-30T11:23:44+00:00",
-        "pushed": "2024-12-31T04:18:58+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
     },
     {
         "repo": "rtsmart",
@@ -41314,19 +41262,6 @@
         "id": 734858218
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 7,
-        "forks": 1,
-        "size": 1984,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2024-12-31T01:57:34+00:00",
-        "pushed": "2024-12-31T01:57:31+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -41351,32 +41286,6 @@
         "pushed": "2024-12-31T08:58:05+00:00",
         "url": "https://github.com/sipeed/MaixSense_ROS",
         "id": 541974508
-    },
-    {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 0,
-        "forks": 1,
-        "size": 76540,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2024-12-31T10:00:47+00:00",
-        "pushed": "2024-12-31T10:00:42+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 131,
-        "forks": 37,
-        "size": 866789,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2024-12-31T12:31:08+00:00",
-        "pushed": "2024-12-31T12:31:03+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
     },
     {
         "repo": "nuttx-ox64",
@@ -41442,5 +41351,122 @@
         "pushed": "2025-01-01T04:39:11+00:00",
         "url": "https://github.com/sunela/me",
         "id": 657297373
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 19,
+        "forks": 13,
+        "size": 47677,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-01-02T03:49:42+00:00",
+        "pushed": "2025-01-02T03:49:38+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 31,
+        "forks": 6,
+        "size": 51338,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-01-02T06:50:31+00:00",
+        "pushed": "2025-01-01T22:35:50+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10708,
+        "forks": 5058,
+        "size": 889983,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-01-02T06:55:00+00:00",
+        "pushed": "2025-01-02T06:54:53+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
+        "owner": "ucb-bar",
+        "stars": 26,
+        "forks": 4,
+        "size": 81626,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2025-01-01T22:22:47+00:00",
+        "pushed": "2025-01-01T22:22:46+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "xux-core",
+        "description": null,
+        "owner": "xiaomo-xty",
+        "stars": 0,
+        "forks": 0,
+        "size": 101,
+        "created": "2024-11-20T06:43:42+00:00",
+        "updated": "2025-01-01T09:35:41+00:00",
+        "pushed": "2025-01-01T09:35:38+00:00",
+        "url": "https://github.com/xiaomo-xty/xux-core",
+        "id": 891339225
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 0,
+        "forks": 1,
+        "size": 84478,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2025-01-02T03:09:23+00:00",
+        "pushed": "2025-01-02T03:09:20+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
+        "repo": "rtos",
+        "description": null,
+        "owner": "khadas",
+        "stars": 0,
+        "forks": 0,
+        "size": 661585,
+        "created": "2025-01-02T03:29:36+00:00",
+        "updated": "2025-01-02T03:44:02+00:00",
+        "pushed": "2025-01-02T03:43:08+00:00",
+        "url": "https://github.com/khadas/rtos",
+        "id": 911011085
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 7,
+        "forks": 1,
+        "size": 2164,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-01-02T01:57:31+00:00",
+        "pushed": "2025-01-02T01:57:28+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 131,
+        "forks": 37,
+        "size": 866789,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2025-01-01T12:30:32+00:00",
+        "pushed": "2025-01-01T12:30:28+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]
