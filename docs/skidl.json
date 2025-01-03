@@ -1573,19 +1573,6 @@
         "id": 840353528
     },
     {
-        "repo": "skidl-feedstock",
-        "description": "A conda-smithy repository for skidl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 25,
-        "created": "2020-01-05T20:43:36+00:00",
-        "updated": "2024-11-06T10:33:20+00:00",
-        "pushed": "2024-11-06T10:33:16+00:00",
-        "url": "https://github.com/conda-forge/skidl-feedstock",
-        "id": 231973467
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -1753,5 +1740,18 @@
         "pushed": "2025-01-02T00:47:48+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "skidl-feedstock",
+        "description": "A conda-smithy repository for skidl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 2,
+        "size": 32,
+        "created": "2020-01-05T20:43:36+00:00",
+        "updated": "2025-01-03T02:20:48+00:00",
+        "pushed": "2025-01-03T02:20:43+00:00",
+        "url": "https://github.com/conda-forge/skidl-feedstock",
+        "id": 231973467
     }
 ]

@@ -10959,19 +10959,6 @@
         "id": 765108502
     },
     {
-        "repo": "lilydrum",
-        "description": "Drums and Lilypond",
-        "owner": "snowgoon88",
-        "stars": 2,
-        "forks": 0,
-        "size": 1511,
-        "created": "2019-02-04T12:02:21+00:00",
-        "updated": "2023-01-09T14:32:41+00:00",
-        "pushed": "2024-04-08T13:34:31+00:00",
-        "url": "https://github.com/snowgoon88/lilydrum",
-        "id": 169072211
-    },
-    {
         "repo": "openfpga-litex-junk",
         "description": "fork of agg23/openfpga-litex",
         "owner": "mcclure",
@@ -13481,19 +13468,6 @@
         "id": 650913012
     },
     {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 217,
-        "forks": 88,
-        "size": 1469,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2024-12-18T10:31:00+00:00",
-        "pushed": "2024-12-18T10:30:50+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -13596,19 +13570,6 @@
         "pushed": "2024-12-20T05:59:06+00:00",
         "url": "https://github.com/aquilasarmiento-ekonek/ima-litex-apk-updater",
         "id": 906081018
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 73,
-        "forks": 9,
-        "size": 6796,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2024-12-20T08:27:05+00:00",
-        "pushed": "2024-12-20T08:27:01+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "Clock_Glitching_PMP_VexRiscv_Terasic_SoCKit",
@@ -13858,19 +13819,6 @@
         "id": 237940918
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 270,
-        "forks": 18,
-        "size": 13583,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2024-12-28T00:38:56+00:00",
-        "pushed": "2024-12-28T00:38:53+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "litex-bin",
         "description": "LaTeX alternative. Render markdown files with CSS to PDF",
         "owner": "linuskmr",
@@ -14014,45 +13962,6 @@
         "id": 658631896
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 52,
-        "forks": 0,
-        "size": 1579,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-01T03:40:06+00:00",
-        "pushed": "2025-01-01T03:40:03+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 897,
-        "forks": 82,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-01T15:53:15+00:00",
-        "pushed": "2025-01-02T02:23:12+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1633,
-        "forks": 233,
-        "size": 224747,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-01T20:34:39+00:00",
-        "pushed": "2025-01-01T19:01:37+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -14118,15 +14027,106 @@
         "id": 246758856
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 901,
+        "forks": 82,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-03T05:53:12+00:00",
+        "pushed": "2025-01-03T02:23:09+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 218,
+        "forks": 88,
+        "size": 1469,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2025-01-02T17:25:28+00:00",
+        "pushed": "2025-01-02T17:25:24+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 76,
+        "forks": 9,
+        "size": 6806,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-01-02T17:29:31+00:00",
+        "pushed": "2025-01-02T17:29:27+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1635,
+        "forks": 234,
+        "size": 224878,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-03T05:45:14+00:00",
+        "pushed": "2025-01-02T20:28:01+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 52,
+        "forks": 0,
+        "size": 1686,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-03T06:57:59+00:00",
+        "pushed": "2025-01-03T06:57:56+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 269,
+        "forks": 18,
+        "size": 13592,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2025-01-02T17:20:16+00:00",
+        "pushed": "2025-01-02T17:20:12+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "lilydrum",
+        "description": "Drums and Lilypond",
+        "owner": "snowgoon88",
+        "stars": 3,
+        "forks": 0,
+        "size": 1527,
+        "created": "2019-02-04T12:02:21+00:00",
+        "updated": "2025-01-02T23:13:58+00:00",
+        "pushed": "2025-01-02T23:13:54+00:00",
+        "url": "https://github.com/snowgoon88/lilydrum",
+        "id": 169072211
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2324,
+        "size": 2326,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-02T04:35:55+00:00",
-        "pushed": "2025-01-02T04:35:51+00:00",
+        "updated": "2025-01-03T04:36:09+00:00",
+        "pushed": "2025-01-03T04:36:06+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14136,10 +14136,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 3,
-        "size": 80377,
+        "size": 80865,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-02T03:29:16+00:00",
-        "pushed": "2025-01-02T03:29:12+00:00",
+        "updated": "2025-01-03T03:29:44+00:00",
+        "pushed": "2025-01-03T03:29:41+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
