@@ -13351,19 +13351,6 @@
         "id": 793742406
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 46,
-        "forks": 2,
-        "size": 145985,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2024-12-15T21:41:10+00:00",
-        "pushed": "2024-12-15T21:41:07+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "LimeSDR_GW",
         "description": "LiteX-based gateware for LimeSDR boards.",
         "owner": "myriadrf",
@@ -13414,19 +13401,6 @@
         "pushed": "2024-12-18T02:29:52+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 39,
-        "forks": 16,
-        "size": 49729,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2024-12-17T20:40:15+00:00",
-        "pushed": "2024-12-17T20:53:33+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "k230-bare-metal",
@@ -13624,19 +13598,6 @@
         "id": 900084065
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3075,
-        "forks": 575,
-        "size": 17410,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2024-12-21T17:35:59+00:00",
-        "pushed": "2024-12-21T17:35:56+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -13687,19 +13648,6 @@
         "pushed": "2024-12-21T13:01:06+00:00",
         "url": "https://github.com/egorxe/openglory",
         "id": 906552198
-    },
-    {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 2,
-        "forks": 0,
-        "size": 246,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2024-12-22T14:54:39+00:00",
-        "pushed": "2024-12-22T14:54:35+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
     },
     {
         "repo": "kakao",
@@ -13975,19 +13923,6 @@
         "id": 564480301
     },
     {
-        "repo": "linux_RT",
-        "description": null,
-        "owner": "disdi",
-        "stars": 0,
-        "forks": 0,
-        "size": 752,
-        "created": "2024-05-29T22:58:52+00:00",
-        "updated": "2025-01-01T20:08:25+00:00",
-        "pushed": "2025-01-01T20:08:43+00:00",
-        "url": "https://github.com/disdi/linux_RT",
-        "id": 807856638
-    },
-    {
         "repo": "custom-litex-boards",
         "description": "Custom board implementations using litex",
         "owner": "uglyoldbob",
@@ -14027,19 +13962,6 @@
         "id": 246758856
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 901,
-        "forks": 82,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-03T05:53:12+00:00",
-        "pushed": "2025-01-03T02:23:09+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -14064,19 +13986,6 @@
         "pushed": "2025-01-02T17:29:27+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1635,
-        "forks": 234,
-        "size": 224878,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-03T05:45:14+00:00",
-        "pushed": "2025-01-02T20:28:01+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "tslitex",
@@ -14105,17 +14014,134 @@
         "id": 434342707
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3095,
+        "forks": 579,
+        "size": 17416,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-01-04T01:55:17+00:00",
+        "pushed": "2025-01-03T20:57:40+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 902,
+        "forks": 82,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-03T09:42:04+00:00",
+        "pushed": "2025-01-04T02:23:13+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1637,
+        "forks": 234,
+        "size": 225255,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-04T05:22:49+00:00",
+        "pushed": "2025-01-04T05:23:58+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 39,
+        "forks": 16,
+        "size": 50479,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-01-03T18:42:23+00:00",
+        "pushed": "2025-01-03T18:56:16+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "litepcie-macos-driver",
+        "description": "macos driverkit driver for litepcie",
+        "owner": "tech2077",
+        "stars": 10,
+        "forks": 0,
+        "size": 105,
+        "created": "2023-09-11T02:24:29+00:00",
+        "updated": "2025-01-03T21:37:48+00:00",
+        "pushed": "2025-01-03T21:38:42+00:00",
+        "url": "https://github.com/tech2077/litepcie-macos-driver",
+        "id": 689836782
+    },
+    {
         "repo": "lilydrum",
         "description": "Drums and Lilypond",
         "owner": "snowgoon88",
         "stars": 3,
         "forks": 0,
-        "size": 1527,
+        "size": 1529,
         "created": "2019-02-04T12:02:21+00:00",
-        "updated": "2025-01-02T23:13:58+00:00",
-        "pushed": "2025-01-02T23:13:54+00:00",
+        "updated": "2025-01-03T10:21:29+00:00",
+        "pushed": "2025-01-03T10:21:24+00:00",
         "url": "https://github.com/snowgoon88/lilydrum",
         "id": 169072211
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 46,
+        "forks": 4,
+        "size": 146958,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-01-04T02:58:10+00:00",
+        "pushed": "2025-01-04T02:58:06+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "linux_RT",
+        "description": null,
+        "owner": "disdi",
+        "stars": 0,
+        "forks": 0,
+        "size": 756,
+        "created": "2024-05-29T22:58:52+00:00",
+        "updated": "2025-01-03T23:20:28+00:00",
+        "pushed": "2025-01-03T23:20:43+00:00",
+        "url": "https://github.com/disdi/linux_RT",
+        "id": 807856638
+    },
+    {
+        "repo": "pyPPA",
+        "description": null,
+        "owner": "ReaLLMASIC",
+        "stars": 1,
+        "forks": 0,
+        "size": 4878,
+        "created": "2024-07-10T23:48:14+00:00",
+        "updated": "2025-01-04T02:10:05+00:00",
+        "pushed": "2025-01-03T05:15:11+00:00",
+        "url": "https://github.com/ReaLLMASIC/pyPPA",
+        "id": 827054090
+    },
+    {
+        "repo": "fpga-useful-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 2,
+        "forks": 0,
+        "size": 114,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-01-03T15:02:42+00:00",
+        "pushed": "2025-01-03T15:02:38+00:00",
+        "url": "https://github.com/RDSik/fpga-useful-list",
+        "id": 777943094
     },
     {
         "repo": "starred",
@@ -14123,10 +14149,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2326,
+        "size": 2363,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-03T04:36:09+00:00",
-        "pushed": "2025-01-03T04:36:06+00:00",
+        "updated": "2025-01-04T04:35:01+00:00",
+        "pushed": "2025-01-04T04:34:58+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14134,12 +14160,12 @@
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
-        "stars": 13,
+        "stars": 11,
         "forks": 3,
-        "size": 80865,
+        "size": 81366,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-03T03:29:44+00:00",
-        "pushed": "2025-01-03T03:29:41+00:00",
+        "updated": "2025-01-04T03:28:32+00:00",
+        "pushed": "2025-01-04T03:28:28+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
