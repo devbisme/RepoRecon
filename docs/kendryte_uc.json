@@ -40625,19 +40625,6 @@
         "id": 823271876
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 13,
-        "forks": 3,
-        "size": 1939,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2024-12-20T19:20:31+00:00",
-        "pushed": "2024-12-20T19:20:27+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "os",
         "description": null,
         "owner": "morrezhao",
@@ -40911,19 +40898,6 @@
         "id": 908603160
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 4,
-        "forks": 0,
-        "size": 4464,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2024-12-28T01:57:57+00:00",
-        "pushed": "2024-12-28T01:57:54+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "STM32-yu-K210OpenMV-chuan-kou-tong-xin-yuan-ma",
         "description": "STM32\u4e0eK210OpenMV\u4e32\u53e3\u901a\u4fe1\u6e90\u7801",
         "owner": "chaos198800",
@@ -41054,19 +41028,6 @@
         "id": 657297373
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 19,
-        "forks": 13,
-        "size": 47677,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-01-02T03:49:42+00:00",
-        "pushed": "2025-01-02T03:49:38+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "Baremetal-NN",
         "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
         "owner": "ucb-bar",
@@ -41130,19 +41091,6 @@
         "pushed": "2025-01-02T21:41:16+00:00",
         "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
         "id": 840056339
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10711,
-        "forks": 5058,
-        "size": 890169,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-01-03T05:42:26+00:00",
-        "pushed": "2025-01-03T05:42:21+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "MTK_kernel_modules",
@@ -41496,6 +41444,71 @@
         "id": 731012323
     },
     {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 19,
+        "forks": 13,
+        "size": 47684,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-01-04T09:21:53+00:00",
+        "pushed": "2025-01-04T09:21:49+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10714,
+        "forks": 5060,
+        "size": 890170,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-01-05T04:40:11+00:00",
+        "pushed": "2025-01-05T03:50:04+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 13,
+        "forks": 3,
+        "size": 2055,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-01-05T00:15:07+00:00",
+        "pushed": "2025-01-05T00:15:04+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "maixuhw.github.io",
+        "description": null,
+        "owner": "maixuto",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2025-01-05T04:45:20+00:00",
+        "updated": "2025-01-05T04:48:14+00:00",
+        "pushed": "2025-01-05T04:48:11+00:00",
+        "url": "https://github.com/maixuto/maixuhw.github.io",
+        "id": 912269651
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 4,
+        "forks": 0,
+        "size": 4956,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2025-01-05T02:12:17+00:00",
+        "pushed": "2025-01-05T02:12:14+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
@@ -41503,8 +41516,8 @@
         "forks": 37,
         "size": 869757,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-03T12:31:24+00:00",
-        "pushed": "2025-01-03T12:31:20+00:00",
+        "updated": "2025-01-04T12:29:21+00:00",
+        "pushed": "2025-01-04T12:29:17+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

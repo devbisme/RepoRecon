@@ -13520,19 +13520,6 @@
         "id": 886179466
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 256,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2024-12-20T03:55:59+00:00",
-        "pushed": "2024-12-20T03:55:55+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "ima-litex-apk-updater",
         "description": "App Updater",
         "owner": "aquilasarmiento-ekonek",
@@ -13923,19 +13910,6 @@
         "id": 564480301
     },
     {
-        "repo": "custom-litex-boards",
-        "description": "Custom board implementations using litex",
-        "owner": "uglyoldbob",
-        "stars": 0,
-        "forks": 0,
-        "size": 68,
-        "created": "2024-12-26T14:11:53+00:00",
-        "updated": "2025-01-01T18:09:10+00:00",
-        "pushed": "2025-01-01T18:09:06+00:00",
-        "url": "https://github.com/uglyoldbob/custom-litex-boards",
-        "id": 908616881
-    },
-    {
         "repo": "litespi-feedstock",
         "description": "A conda-smithy repository for litespi.",
         "owner": "conda-forge",
@@ -13988,19 +13962,6 @@
         "id": 800027977
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 52,
-        "forks": 0,
-        "size": 1686,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-03T06:57:59+00:00",
-        "pushed": "2025-01-03T06:57:56+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -14025,19 +13986,6 @@
         "pushed": "2025-01-03T20:57:40+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 902,
-        "forks": 82,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-03T09:42:04+00:00",
-        "pushed": "2025-01-04T02:23:13+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "neorv32",
@@ -14105,32 +14053,6 @@
         "id": 798146281
     },
     {
-        "repo": "linux_RT",
-        "description": null,
-        "owner": "disdi",
-        "stars": 0,
-        "forks": 0,
-        "size": 756,
-        "created": "2024-05-29T22:58:52+00:00",
-        "updated": "2025-01-03T23:20:28+00:00",
-        "pushed": "2025-01-03T23:20:43+00:00",
-        "url": "https://github.com/disdi/linux_RT",
-        "id": 807856638
-    },
-    {
-        "repo": "pyPPA",
-        "description": null,
-        "owner": "ReaLLMASIC",
-        "stars": 1,
-        "forks": 0,
-        "size": 4878,
-        "created": "2024-07-10T23:48:14+00:00",
-        "updated": "2025-01-04T02:10:05+00:00",
-        "pushed": "2025-01-03T05:15:11+00:00",
-        "url": "https://github.com/ReaLLMASIC/pyPPA",
-        "id": 827054090
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -14144,15 +14066,106 @@
         "id": 777943094
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 903,
+        "forks": 82,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-04T09:13:56+00:00",
+        "pushed": "2025-01-05T02:30:38+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 1846,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-05T06:11:58+00:00",
+        "pushed": "2025-01-05T06:11:54+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "linux_RT",
+        "description": null,
+        "owner": "disdi",
+        "stars": 0,
+        "forks": 0,
+        "size": 757,
+        "created": "2024-05-29T22:58:52+00:00",
+        "updated": "2025-01-04T11:53:58+00:00",
+        "pushed": "2025-01-04T11:54:13+00:00",
+        "url": "https://github.com/disdi/linux_RT",
+        "id": 807856638
+    },
+    {
+        "repo": "pyPPA",
+        "description": null,
+        "owner": "ReaLLMASIC",
+        "stars": 1,
+        "forks": 0,
+        "size": 4883,
+        "created": "2024-07-10T23:48:14+00:00",
+        "updated": "2025-01-04T02:10:05+00:00",
+        "pushed": "2025-01-04T21:05:09+00:00",
+        "url": "https://github.com/ReaLLMASIC/pyPPA",
+        "id": 827054090
+    },
+    {
+        "repo": "custom-litex-boards",
+        "description": "Custom board implementations using litex",
+        "owner": "uglyoldbob",
+        "stars": 0,
+        "forks": 0,
+        "size": 78,
+        "created": "2024-12-26T14:11:53+00:00",
+        "updated": "2025-01-04T16:35:44+00:00",
+        "pushed": "2025-01-04T16:35:40+00:00",
+        "url": "https://github.com/uglyoldbob/custom-litex-boards",
+        "id": 908616881
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 257,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2025-01-04T15:49:51+00:00",
+        "pushed": "2025-01-04T15:49:47+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
+        "repo": "awesome-gatemate",
+        "description": "A curated directory of recommended resources for the Cologne Chips GateMate FPGA. ",
+        "owner": "PythonLinks",
+        "stars": 0,
+        "forks": 0,
+        "size": 4,
+        "created": "2025-01-04T16:56:47+00:00",
+        "updated": "2025-01-05T06:37:16+00:00",
+        "pushed": "2025-01-05T06:37:14+00:00",
+        "url": "https://github.com/PythonLinks/awesome-gatemate",
+        "id": 912120725
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2363,
+        "size": 2364,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-04T04:35:01+00:00",
-        "pushed": "2025-01-04T04:34:58+00:00",
+        "updated": "2025-01-05T04:34:55+00:00",
+        "pushed": "2025-01-05T04:34:52+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14162,10 +14175,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 81366,
+        "size": 81866,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-04T03:28:32+00:00",
-        "pushed": "2025-01-04T03:28:28+00:00",
+        "updated": "2025-01-05T03:32:04+00:00",
+        "pushed": "2025-01-05T03:32:00+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

@@ -5239,19 +5239,6 @@
         "id": 859113010
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14049,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2024-10-06T06:54:21+00:00",
-        "pushed": "2024-10-06T06:54:17+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "KalmanFilter",
         "description": "A simple low-resource usage Kalman Filter using shared resources - in MyHDL",
         "owner": "josyb",
@@ -5328,19 +5315,6 @@
         "pushed": "2024-10-31T20:18:46+00:00",
         "url": "https://github.com/GabrielFOP/Project-RISC-V-Decoder-",
         "id": 881538216
-    },
-    {
-        "repo": "myhdl-feedstock",
-        "description": "A conda-smithy repository for myhdl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 1,
-        "size": 33,
-        "created": "2021-01-10T19:57:49+00:00",
-        "updated": "2024-11-05T20:40:31+00:00",
-        "pushed": "2024-11-05T20:40:25+00:00",
-        "url": "https://github.com/conda-forge/myhdl-feedstock",
-        "id": 328467543
     },
     {
         "repo": "awesome-hwd-tools",
@@ -5486,19 +5460,6 @@
         "id": 30467971
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 41,
-        "forks": 30,
-        "size": 41458,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2024-12-30T15:08:02+00:00",
-        "pushed": "2024-12-30T15:07:59+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -5510,5 +5471,44 @@
         "pushed": "2025-01-03T15:02:38+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 41,
+        "forks": 30,
+        "size": 41465,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-01-04T15:12:17+00:00",
+        "pushed": "2025-01-04T15:12:14+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14093,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2025-01-04T17:35:46+00:00",
+        "pushed": "2025-01-04T17:35:41+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "myhdl-feedstock",
+        "description": "A conda-smithy repository for myhdl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 1,
+        "size": 37,
+        "created": "2021-01-10T19:57:49+00:00",
+        "updated": "2025-01-04T08:17:26+00:00",
+        "pushed": "2025-01-04T08:17:21+00:00",
+        "url": "https://github.com/conda-forge/myhdl-feedstock",
+        "id": 328467543
     }
 ]
