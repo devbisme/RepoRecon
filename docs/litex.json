@@ -13988,19 +13988,6 @@
         "id": 45734719
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1637,
-        "forks": 234,
-        "size": 225255,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-04T05:22:49+00:00",
-        "pushed": "2025-01-04T05:23:58+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14066,32 +14053,6 @@
         "id": 777943094
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 903,
-        "forks": 82,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-04T09:13:56+00:00",
-        "pushed": "2025-01-05T02:30:38+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 1846,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-05T06:11:58+00:00",
-        "pushed": "2025-01-05T06:11:54+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "linux_RT",
         "description": null,
         "owner": "disdi",
@@ -14103,19 +14064,6 @@
         "pushed": "2025-01-04T11:54:13+00:00",
         "url": "https://github.com/disdi/linux_RT",
         "id": 807856638
-    },
-    {
-        "repo": "pyPPA",
-        "description": null,
-        "owner": "ReaLLMASIC",
-        "stars": 1,
-        "forks": 0,
-        "size": 4883,
-        "created": "2024-07-10T23:48:14+00:00",
-        "updated": "2025-01-04T02:10:05+00:00",
-        "pushed": "2025-01-04T21:05:09+00:00",
-        "url": "https://github.com/ReaLLMASIC/pyPPA",
-        "id": 827054090
     },
     {
         "repo": "custom-litex-boards",
@@ -14131,19 +14079,6 @@
         "id": 908616881
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 257,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2025-01-04T15:49:51+00:00",
-        "pushed": "2025-01-04T15:49:47+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "awesome-gatemate",
         "description": "A curated directory of recommended resources for the Cologne Chips GateMate FPGA. ",
         "owner": "PythonLinks",
@@ -14157,15 +14092,80 @@
         "id": 912120725
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 907,
+        "forks": 82,
+        "size": 1232,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-06T04:07:29+00:00",
+        "pushed": "2025-01-06T02:29:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1637,
+        "forks": 234,
+        "size": 225677,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-05T14:37:11+00:00",
+        "pushed": "2025-01-05T09:58:32+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 1872,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-06T06:25:51+00:00",
+        "pushed": "2025-01-06T06:25:47+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "pyPPA",
+        "description": null,
+        "owner": "ReaLLMASIC",
+        "stars": 1,
+        "forks": 0,
+        "size": 4884,
+        "created": "2024-07-10T23:48:14+00:00",
+        "updated": "2025-01-04T02:10:05+00:00",
+        "pushed": "2025-01-05T07:17:31+00:00",
+        "url": "https://github.com/ReaLLMASIC/pyPPA",
+        "id": 827054090
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "JesusMuentes",
+        "stars": 0,
+        "forks": 0,
+        "size": 259,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2025-01-05T23:13:16+00:00",
+        "pushed": "2025-01-05T23:13:12+00:00",
+        "url": "https://github.com/JesusMuentes/litex-apps",
+        "id": 793871326
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2364,
+        "size": 2416,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-05T04:34:55+00:00",
-        "pushed": "2025-01-05T04:34:52+00:00",
+        "updated": "2025-01-06T04:36:36+00:00",
+        "pushed": "2025-01-06T04:36:33+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14175,10 +14175,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 81866,
+        "size": 82355,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-05T03:32:04+00:00",
-        "pushed": "2025-01-05T03:32:00+00:00",
+        "updated": "2025-01-06T03:32:49+00:00",
+        "pushed": "2025-01-06T03:32:46+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
