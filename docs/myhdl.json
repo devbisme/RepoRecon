@@ -5460,19 +5460,6 @@
         "id": 30467971
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 2,
-        "forks": 0,
-        "size": 114,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-01-03T15:02:42+00:00",
-        "pushed": "2025-01-03T15:02:38+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5510,5 +5497,31 @@
         "pushed": "2025-01-04T08:17:21+00:00",
         "url": "https://github.com/conda-forge/myhdl-feedstock",
         "id": 328467543
+    },
+    {
+        "repo": "fpga-useful-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 2,
+        "forks": 0,
+        "size": 134,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-01-07T19:12:51+00:00",
+        "pushed": "2025-01-07T19:12:47+00:00",
+        "url": "https://github.com/RDSik/fpga-useful-list",
+        "id": 777943094
+    },
+    {
+        "repo": "awesome-rtl",
+        "description": null,
+        "owner": "ixaxaar",
+        "stars": 0,
+        "forks": 0,
+        "size": 8,
+        "created": "2025-01-07T15:24:44+00:00",
+        "updated": "2025-01-07T15:29:32+00:00",
+        "pushed": "2025-01-07T15:28:16+00:00",
+        "url": "https://github.com/ixaxaar/awesome-rtl",
+        "id": 913383186
     }
 ]
