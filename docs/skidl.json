@@ -1625,19 +1625,6 @@
         "id": 254747856
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1069,
-        "forks": 121,
-        "size": 55989,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2024-12-12T00:32:02+00:00",
-        "pushed": "2024-12-12T00:32:14+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "awesome_photonics",
         "description": "\ud83d\ude0e curated list of open source photonics projects",
         "owner": "joamatab",
@@ -1729,19 +1716,6 @@
         "id": 910329511
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "stahlnow",
-        "stars": 0,
-        "forks": 0,
-        "size": 1897,
-        "created": "2024-03-06T21:46:55+00:00",
-        "updated": "2025-01-02T00:47:52+00:00",
-        "pushed": "2025-01-02T00:47:48+00:00",
-        "url": "https://github.com/stahlnow/awesome-stars",
-        "id": 768320430
-    },
-    {
         "repo": "skidl-feedstock",
         "description": "A conda-smithy repository for skidl.",
         "owner": "conda-forge",
@@ -1753,5 +1727,31 @@
         "pushed": "2025-01-03T02:20:43+00:00",
         "url": "https://github.com/conda-forge/skidl-feedstock",
         "id": 231973467
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1080,
+        "forks": 123,
+        "size": 55855,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2025-01-08T18:27:33+00:00",
+        "pushed": "2025-01-05T18:47:38+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "stahlnow",
+        "stars": 0,
+        "forks": 0,
+        "size": 1898,
+        "created": "2024-03-06T21:46:55+00:00",
+        "updated": "2025-01-09T00:47:59+00:00",
+        "pushed": "2025-01-09T00:47:56+00:00",
+        "url": "https://github.com/stahlnow/awesome-stars",
+        "id": 768320430
     }
 ]
