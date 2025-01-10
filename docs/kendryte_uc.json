@@ -40729,19 +40729,6 @@
         "id": 863927307
     },
     {
-        "repo": "u-boot",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 2,
-        "size": 30401,
-        "created": "2024-07-05T10:26:38+00:00",
-        "updated": "2024-12-26T05:13:45+00:00",
-        "pushed": "2024-12-26T05:13:04+00:00",
-        "url": "https://github.com/canmv-k230/u-boot",
-        "id": 824530800
-    },
-    {
         "repo": "k230_rtsmart_examples",
         "description": "k230 cpp examples",
         "owner": "canmv-k230",
@@ -41145,19 +41132,6 @@
         "id": 877286162
     },
     {
-        "repo": "awesome-ai-tools",
-        "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated January 2025",
-        "owner": "eudk",
-        "stars": 64,
-        "forks": 17,
-        "size": 680,
-        "created": "2023-12-22T20:37:48+00:00",
-        "updated": "2025-01-03T18:42:07+00:00",
-        "pushed": "2025-01-03T10:16:12+00:00",
-        "url": "https://github.com/eudk/awesome-ai-tools",
-        "id": 734858218
-    },
-    {
         "repo": "aseprite",
         "description": null,
         "owner": "maix-flake",
@@ -41314,32 +41288,6 @@
         "id": 722305838
     },
     {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 62,
-        "forks": 16,
-        "size": 117973,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-01-05T09:52:45+00:00",
-        "pushed": "2025-01-08T03:22:22+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 36,
-        "forks": 6,
-        "size": 51346,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-01-06T23:48:22+00:00",
-        "pushed": "2025-01-08T00:45:15+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -41392,19 +41340,6 @@
         "id": 685317589
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 758,
-        "forks": 185,
-        "size": 60220,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-01-09T05:56:55+00:00",
-        "pushed": "2025-01-09T04:52:30+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -41442,19 +41377,6 @@
         "pushed": "2025-01-08T08:16:53+00:00",
         "url": "https://github.com/kendryte/k230_canmv_docs",
         "id": 706039729
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10724,
-        "forks": 5063,
-        "size": 890289,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-01-09T03:54:28+00:00",
-        "pushed": "2025-01-09T03:07:03+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "muriscv-nn",
@@ -41535,19 +41457,6 @@
         "id": 914180650
     },
     {
-        "repo": "OpenWrt-Actions",
-        "description": "\u4e00\u952e\u7f16\u8bd1N1\u76d2\u5b50\u7b49\u8bbe\u5907OpenWrt\u56fa\u4ef6\u5e95\u5305\uff0c\u5e76\u4f7f\u7528flippy\u7684\u6253\u5305\u811a\u672c\u751f\u6210\u6307\u5b9a\u5185\u6838\u7248\u672c\u7684\u56fa\u4ef6\u3002Flippy's OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "FoxDring",
-        "stars": 0,
-        "forks": 0,
-        "size": 846,
-        "created": "2025-01-03T14:02:13+00:00",
-        "updated": "2025-01-08T17:30:03+00:00",
-        "pushed": "2025-01-08T17:30:00+00:00",
-        "url": "https://github.com/FoxDring/OpenWrt-Actions",
-        "id": 911644315
-    },
-    {
         "repo": "emakefun-docsify",
         "description": null,
         "owner": "emakefun",
@@ -41574,15 +41483,106 @@
         "id": 731012323
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 758,
+        "forks": 185,
+        "size": 60230,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-01-09T05:56:55+00:00",
+        "pushed": "2025-01-10T01:40:54+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 62,
+        "forks": 16,
+        "size": 117995,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-01-05T09:52:45+00:00",
+        "pushed": "2025-01-09T08:50:38+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 36,
+        "forks": 6,
+        "size": 51347,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-01-09T17:41:28+00:00",
+        "pushed": "2025-01-09T17:41:25+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10730,
+        "forks": 5064,
+        "size": 890319,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-01-10T02:25:29+00:00",
+        "pushed": "2025-01-10T01:37:48+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "u-boot",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 2,
+        "size": 30401,
+        "created": "2024-07-05T10:26:38+00:00",
+        "updated": "2025-01-10T05:54:49+00:00",
+        "pushed": "2025-01-10T05:54:45+00:00",
+        "url": "https://github.com/canmv-k230/u-boot",
+        "id": 824530800
+    },
+    {
+        "repo": "awesome-ai-tools",
+        "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated January 2025",
+        "owner": "eudk",
+        "stars": 66,
+        "forks": 17,
+        "size": 713,
+        "created": "2023-12-22T20:37:48+00:00",
+        "updated": "2025-01-10T01:08:38+00:00",
+        "pushed": "2025-01-09T18:06:47+00:00",
+        "url": "https://github.com/eudk/awesome-ai-tools",
+        "id": 734858218
+    },
+    {
+        "repo": "OpenWrt-Actions",
+        "description": "\u4e00\u952e\u7f16\u8bd1N1\u76d2\u5b50\u7b49\u8bbe\u5907OpenWrt\u56fa\u4ef6\u5e95\u5305\uff0c\u5e76\u4f7f\u7528flippy\u7684\u6253\u5305\u811a\u672c\u751f\u6210\u6307\u5b9a\u5185\u6838\u7248\u672c\u7684\u56fa\u4ef6\u3002Flippy's OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "FoxDring",
+        "stars": 0,
+        "forks": 0,
+        "size": 846,
+        "created": "2025-01-03T14:02:13+00:00",
+        "updated": "2025-01-08T17:30:03+00:00",
+        "pushed": "2025-01-09T21:47:39+00:00",
+        "url": "https://github.com/FoxDring/OpenWrt-Actions",
+        "id": 911644315
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 131,
         "forks": 37,
-        "size": 873199,
+        "size": 873202,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-08T12:32:47+00:00",
-        "pushed": "2025-01-08T12:32:43+00:00",
+        "updated": "2025-01-09T12:32:36+00:00",
+        "pushed": "2025-01-09T12:32:32+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
