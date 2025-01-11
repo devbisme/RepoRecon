@@ -40313,19 +40313,6 @@
         "id": 411406144
     },
     {
-        "repo": "opencv_zoo",
-        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
-        "owner": "opencv",
-        "stars": 666,
-        "forks": 195,
-        "size": 1115,
-        "created": "2021-07-29T07:22:20+00:00",
-        "updated": "2024-12-13T16:52:13+00:00",
-        "pushed": "2024-12-13T12:32:12+00:00",
-        "url": "https://github.com/opencv/opencv_zoo",
-        "id": 390637491
-    },
-    {
         "repo": "k210-sipeed",
         "description": "ai\u6444\u50cf\u59342.0",
         "owner": "labplus-cn",
@@ -40586,19 +40573,6 @@
         "id": 885738802
     },
     {
-        "repo": "Four-category-garbage-bin-neural-network-recognition",
-        "description": "\u57fa\u4e8e K210 \u548c mobilenet_0.75 \u7684 \u56db\u5206\u7c7b\u795e\u7ecf\u7f51\u7edc\u8bc6\u522b\u5783\u573e\u6876",
-        "owner": "from-import",
-        "stars": 3,
-        "forks": 0,
-        "size": 1577,
-        "created": "2023-07-24T15:35:18+00:00",
-        "updated": "2024-12-23T13:26:28+00:00",
-        "pushed": "2024-12-23T13:21:58+00:00",
-        "url": "https://github.com/from-import/Four-category-garbage-bin-neural-network-recognition",
-        "id": 670236699
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -40820,19 +40794,6 @@
         "id": 205409848
     },
     {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 3,
-        "size": 61721,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2024-12-31T02:15:00+00:00",
-        "pushed": "2024-12-31T02:14:56+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "krux-installer",
         "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
         "owner": "selfcustody",
@@ -40989,19 +40950,6 @@
         "id": 439560352
     },
     {
-        "repo": "canmv",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 3,
-        "size": 29926,
-        "created": "2024-07-24T07:37:50+00:00",
-        "updated": "2025-01-03T02:31:50+00:00",
-        "pushed": "2025-01-03T02:31:58+00:00",
-        "url": "https://github.com/canmv-k230/canmv",
-        "id": 833017762
-    },
-    {
         "repo": "k210",
         "description": null,
         "owner": "cnzzl",
@@ -41104,19 +41052,6 @@
         "pushed": "2025-01-03T08:23:58+00:00",
         "url": "https://github.com/crespum/edge-ai",
         "id": 142336474
-    },
-    {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 29,
-        "forks": 4,
-        "size": 461,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2025-01-03T14:35:43+00:00",
-        "pushed": "2025-01-03T10:09:26+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
     },
     {
         "repo": "huenit_ai_project",
@@ -41288,19 +41223,6 @@
         "id": 722305838
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 17,
-        "forks": 2,
-        "size": 907476,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2025-01-06T18:24:37+00:00",
-        "pushed": "2025-01-06T18:24:33+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
@@ -41340,19 +41262,6 @@
         "id": 685317589
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 217,
-        "forks": 47,
-        "size": 50344,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-01-08T16:48:17+00:00",
-        "pushed": "2025-01-09T03:56:20+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -41377,19 +41286,6 @@
         "pushed": "2025-01-08T08:16:53+00:00",
         "url": "https://github.com/kendryte/k230_canmv_docs",
         "id": 706039729
-    },
-    {
-        "repo": "muriscv-nn",
-        "description": "muRISCV-NN is a collection of efficient deep learning kernels for embedded platforms and microcontrollers.",
-        "owner": "tum-ei-eda",
-        "stars": 66,
-        "forks": 8,
-        "size": 5769,
-        "created": "2022-06-20T08:55:03+00:00",
-        "updated": "2025-01-07T10:14:01+00:00",
-        "pushed": "2025-01-08T08:51:04+00:00",
-        "url": "https://github.com/tum-ei-eda/muriscv-nn",
-        "id": 505364954
     },
     {
         "repo": "openblock-tools",
@@ -41457,19 +41353,6 @@
         "id": 914180650
     },
     {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 0,
-        "forks": 1,
-        "size": 128497,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2025-01-09T07:05:11+00:00",
-        "pushed": "2025-01-09T07:05:08+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
-    },
-    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
@@ -41494,32 +41377,6 @@
         "pushed": "2025-01-10T01:40:54+00:00",
         "url": "https://github.com/kendryte/nncase",
         "id": 128056991
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 62,
-        "forks": 16,
-        "size": 117995,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-01-05T09:52:45+00:00",
-        "pushed": "2025-01-09T08:50:38+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 36,
-        "forks": 6,
-        "size": 51347,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-01-09T17:41:28+00:00",
-        "pushed": "2025-01-09T17:41:25+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "rt-thread",
@@ -41561,6 +41418,149 @@
         "id": 734858218
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 219,
+        "forks": 47,
+        "size": 51717,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-01-11T03:14:39+00:00",
+        "pushed": "2025-01-10T11:14:36+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 31,
+        "forks": 4,
+        "size": 433,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2025-01-11T06:35:10+00:00",
+        "pushed": "2025-01-10T10:28:11+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 63,
+        "forks": 16,
+        "size": 116539,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-01-11T06:24:40+00:00",
+        "pushed": "2025-01-11T06:27:26+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 36,
+        "forks": 6,
+        "size": 51347,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-01-10T20:27:13+00:00",
+        "pushed": "2025-01-10T20:27:10+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "opencv_zoo",
+        "description": "Model Zoo For OpenCV DNN and Benchmarks.",
+        "owner": "opencv",
+        "stars": 678,
+        "forks": 199,
+        "size": 1117,
+        "created": "2021-07-29T07:22:20+00:00",
+        "updated": "2025-01-10T08:28:58+00:00",
+        "pushed": "2025-01-10T08:28:54+00:00",
+        "url": "https://github.com/opencv/opencv_zoo",
+        "id": 390637491
+    },
+    {
+        "repo": "muriscv-nn",
+        "description": "muRISCV-NN is a collection of efficient deep learning kernels for embedded platforms and microcontrollers.",
+        "owner": "tum-ei-eda",
+        "stars": 66,
+        "forks": 8,
+        "size": 35733,
+        "created": "2022-06-20T08:55:03+00:00",
+        "updated": "2025-01-07T10:14:01+00:00",
+        "pushed": "2025-01-10T09:50:20+00:00",
+        "url": "https://github.com/tum-ei-eda/muriscv-nn",
+        "id": 505364954
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 17,
+        "forks": 2,
+        "size": 1027586,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2025-01-10T19:38:59+00:00",
+        "pushed": "2025-01-10T19:38:55+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 3,
+        "size": 61732,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-01-10T10:30:31+00:00",
+        "pushed": "2025-01-10T10:30:27+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "canmv",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 3,
+        "size": 29927,
+        "created": "2024-07-24T07:37:50+00:00",
+        "updated": "2025-01-10T10:32:15+00:00",
+        "pushed": "2025-01-10T10:32:12+00:00",
+        "url": "https://github.com/canmv-k230/canmv",
+        "id": 833017762
+    },
+    {
+        "repo": "CanMV-K230-Demo",
+        "description": "\u7acb\u521b\u5f00\u53d1\u677f\u5e90\u5c71\u6d3eCanMV-K230 Demo",
+        "owner": "bubao",
+        "stars": 1,
+        "forks": 0,
+        "size": 33,
+        "created": "2025-01-10T09:15:21+00:00",
+        "updated": "2025-01-11T05:32:28+00:00",
+        "pushed": "2025-01-11T05:32:25+00:00",
+        "url": "https://github.com/bubao/CanMV-K230-Demo",
+        "id": 914768981
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 0,
+        "forks": 2,
+        "size": 129722,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2025-01-10T09:16:01+00:00",
+        "pushed": "2025-01-10T09:15:58+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
         "repo": "OpenWrt-Actions",
         "description": "\u4e00\u952e\u7f16\u8bd1N1\u76d2\u5b50\u7b49\u8bbe\u5907OpenWrt\u56fa\u4ef6\u5e95\u5305\uff0c\u5e76\u4f7f\u7528flippy\u7684\u6253\u5305\u811a\u672c\u751f\u6210\u6307\u5b9a\u5185\u6838\u7248\u672c\u7684\u56fa\u4ef6\u3002Flippy's OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
         "owner": "FoxDring",
@@ -41569,9 +41569,22 @@
         "size": 846,
         "created": "2025-01-03T14:02:13+00:00",
         "updated": "2025-01-08T17:30:03+00:00",
-        "pushed": "2025-01-09T21:47:39+00:00",
+        "pushed": "2025-01-10T21:56:28+00:00",
         "url": "https://github.com/FoxDring/OpenWrt-Actions",
         "id": 911644315
+    },
+    {
+        "repo": "Four-category-garbage-bin-neural-network-recognition",
+        "description": "\u57fa\u4e8e K210 \u548c mobilenet_0.75 \u7684\u56db\u5206\u7c7b\u795e\u7ecf\u7f51\u7edc\u8bc6\u522b\u5783\u573e\u6876,\u5b9e\u6d4b\u5b9e\u73b096.9%\u7684\u8bc6\u522b\u51c6\u786e\u5ea6",
+        "owner": "from-import",
+        "stars": 4,
+        "forks": 0,
+        "size": 1581,
+        "created": "2023-07-24T15:35:18+00:00",
+        "updated": "2025-01-10T09:48:48+00:00",
+        "pushed": "2025-01-10T09:40:49+00:00",
+        "url": "https://github.com/from-import/Four-category-garbage-bin-neural-network-recognition",
+        "id": 670236699
     },
     {
         "repo": "certified-android-devices",
@@ -41581,8 +41594,8 @@
         "forks": 37,
         "size": 873202,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-09T12:32:36+00:00",
-        "pushed": "2025-01-09T12:32:32+00:00",
+        "updated": "2025-01-10T12:32:02+00:00",
+        "pushed": "2025-01-10T12:31:58+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

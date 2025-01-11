@@ -2418,19 +2418,6 @@
         "id": 242440824
     },
     {
-        "repo": "pythondata-cpu-picorv32",
-        "description": "Python module containing verilog files for picorv32 cpu (for use with LiteX).",
-        "owner": "litex-hub",
-        "stars": 2,
-        "forks": 0,
-        "size": 974,
-        "created": "2020-02-23T02:01:13Z",
-        "updated": "2022-01-10T18:04:18Z",
-        "pushed": "2023-05-08T09:03:33Z",
-        "url": "https://github.com/litex-hub/pythondata-cpu-picorv32",
-        "id": 242440829
-    },
-    {
         "repo": "pythondata-cpu-minerva",
         "description": "Python module containing sources files for minerva cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -2442,19 +2429,6 @@
         "pushed": "2023-05-08T09:03:29Z",
         "url": "https://github.com/litex-hub/pythondata-cpu-minerva",
         "id": 242440834
-    },
-    {
-        "repo": "pythondata-cpu-mor1kx",
-        "description": "Python module containing verilog files for mor1kx cpu (for use with LiteX).",
-        "owner": "litex-hub",
-        "stars": 1,
-        "forks": 0,
-        "size": 1897,
-        "created": "2020-02-23T02:01:17Z",
-        "updated": "2022-01-10T18:04:18Z",
-        "pushed": "2023-05-08T09:03:01Z",
-        "url": "https://github.com/litex-hub/pythondata-cpu-mor1kx",
-        "id": 242440835
     },
     {
         "repo": "pythondata-software-compiler_rt",
@@ -3001,19 +2975,6 @@
         "pushed": "2020-05-20T02:28:14Z",
         "url": "https://github.com/antmicro-labs/litex-ideas",
         "id": 265395731
-    },
-    {
-        "repo": "pythondata-cpu-cv32e40p",
-        "description": "Python module containing system_verilog files for cv32e40p cpu (for use with LiteX).",
-        "owner": "litex-hub",
-        "stars": 1,
-        "forks": 5,
-        "size": 3301,
-        "created": "2020-05-20T17:20:18Z",
-        "updated": "2022-01-10T18:04:22Z",
-        "pushed": "2023-05-08T09:03:08Z",
-        "url": "https://github.com/litex-hub/pythondata-cpu-cv32e40p",
-        "id": 265636711
     },
     {
         "repo": "HMI",
@@ -13221,19 +13182,6 @@
         "id": 793742406
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 2,
-        "forks": 3,
-        "size": 4338,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2024-12-16T14:24:28+00:00",
-        "pushed": "2024-12-16T14:24:24+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "litex_xtrx",
         "description": "XTRX LiteX/LitePCIe based alternative Gateware/Software.",
         "owner": "enjoy-digital",
@@ -13689,19 +13637,6 @@
         "id": 658631896
     },
     {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 25226,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2025-01-01T15:06:36+00:00",
-        "pushed": "2025-01-01T15:06:32+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
         "repo": "autoinvoice",
         "description": "Automatic invoicing system with plugins and caching",
         "owner": "str0g",
@@ -13778,19 +13713,6 @@
         "pushed": "2025-01-03T10:21:24+00:00",
         "url": "https://github.com/snowgoon88/lilydrum",
         "id": 169072211
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 46,
-        "forks": 4,
-        "size": 146958,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-01-04T02:58:10+00:00",
-        "pushed": "2025-01-04T02:58:06+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "litex-apps",
@@ -13962,19 +13884,6 @@
         "id": 631244452
     },
     {
-        "repo": "wyrm",
-        "description": "A colorlight 5a-75b-based display using liteX",
-        "owner": "kscz",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2025-01-08T06:39:23+00:00",
-        "updated": "2025-01-08T06:57:34+00:00",
-        "pushed": "2025-01-08T06:57:31+00:00",
-        "url": "https://github.com/kscz/wyrm",
-        "id": 913681059
-    },
-    {
         "repo": "awesome-gatemate",
         "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
         "owner": "PythonLinks",
@@ -14053,19 +13962,6 @@
         "id": 777943094
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 1,
-        "size": 35169,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-01-08T00:59:28+00:00",
-        "pushed": "2025-01-08T00:59:24+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -14103,45 +13999,6 @@
         "pushed": "2025-01-08T10:31:56+00:00",
         "url": "https://github.com/ZeroMips/pythondata-misc-xosera",
         "id": 913754065
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 914,
-        "forks": 83,
-        "size": 1232,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-10T06:31:44+00:00",
-        "pushed": "2025-01-10T02:27:09+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 59,
-        "forks": 22,
-        "size": 77861,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2025-01-10T02:19:03+00:00",
-        "pushed": "2025-01-09T22:52:33+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1641,
-        "forks": 233,
-        "size": 225996,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-10T07:03:34+00:00",
-        "pushed": "2025-01-10T07:03:30+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "tslitex",
@@ -14209,15 +14066,171 @@
         "id": 902726076
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 915,
+        "forks": 83,
+        "size": 1234,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-11T04:54:03+00:00",
+        "pushed": "2025-01-11T02:30:24+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 59,
+        "forks": 22,
+        "size": 77867,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2025-01-10T10:00:36+00:00",
+        "pushed": "2025-01-10T10:02:22+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1642,
+        "forks": 233,
+        "size": 226025,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-11T05:33:26+00:00",
+        "pushed": "2025-01-11T06:01:01+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "pythondata-cpu-cv32e40p",
+        "description": "Python module containing system_verilog files for cv32e40p cpu (for use with LiteX).",
+        "owner": "litex-hub",
+        "stars": 1,
+        "forks": 7,
+        "size": 10898,
+        "created": "2020-05-20T17:20:18+00:00",
+        "updated": "2025-01-10T21:19:08+00:00",
+        "pushed": "2025-01-10T21:17:24+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-cv32e40p",
+        "id": 265636711
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 2,
+        "forks": 3,
+        "size": 4922,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-01-10T10:40:31+00:00",
+        "pushed": "2025-01-10T10:40:28+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "pythondata-cpu-mor1kx",
+        "description": "Python module containing verilog files for mor1kx cpu (for use with LiteX).",
+        "owner": "litex-hub",
+        "stars": 1,
+        "forks": 2,
+        "size": 1908,
+        "created": "2020-02-23T02:01:17+00:00",
+        "updated": "2025-01-10T21:16:52+00:00",
+        "pushed": "2025-01-10T21:16:45+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-mor1kx",
+        "id": 242440835
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 25268,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2025-01-11T05:58:29+00:00",
+        "pushed": "2025-01-11T05:58:25+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "pythondata-cpu-picorv32",
+        "description": "Python module containing verilog files for picorv32 cpu (for use with LiteX).",
+        "owner": "litex-hub",
+        "stars": 3,
+        "forks": 1,
+        "size": 1001,
+        "created": "2020-02-23T02:01:13+00:00",
+        "updated": "2025-01-10T21:16:44+00:00",
+        "pushed": "2025-01-10T21:16:37+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-picorv32",
+        "id": 242440829
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 47,
+        "forks": 4,
+        "size": 146966,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-01-10T21:05:56+00:00",
+        "pushed": "2025-01-10T21:05:50+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "wyrm",
+        "description": "A colorlight 5a-75b-based display using liteX",
+        "owner": "kscz",
+        "stars": 0,
+        "forks": 0,
+        "size": 12,
+        "created": "2025-01-08T06:39:23+00:00",
+        "updated": "2025-01-08T06:57:34+00:00",
+        "pushed": "2025-01-11T02:01:17+00:00",
+        "url": "https://github.com/kscz/wyrm",
+        "id": 913681059
+    },
+    {
+        "repo": "OpenSoC",
+        "description": "Build Open-Source SoC for ysyx ASIC",
+        "owner": "MrAMS",
+        "stars": 0,
+        "forks": 0,
+        "size": 15,
+        "created": "2025-01-11T03:19:03+00:00",
+        "updated": "2025-01-11T05:16:31+00:00",
+        "pushed": "2025-01-11T05:16:28+00:00",
+        "url": "https://github.com/MrAMS/OpenSoC",
+        "id": 915125208
+    },
+    {
+        "repo": "OpenFPGATools_DockerImage",
+        "description": null,
+        "owner": "fjpolo",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2025-01-10T13:28:35+00:00",
+        "updated": "2025-01-10T13:43:08+00:00",
+        "pushed": "2025-01-10T13:43:05+00:00",
+        "url": "https://github.com/fjpolo/OpenFPGATools_DockerImage",
+        "id": 914869410
+    },
+    {
         "repo": "CT-key",
         "description": null,
         "owner": "Assured",
         "stars": 0,
         "forks": 0,
-        "size": 132,
+        "size": 140,
         "created": "2025-01-08T10:51:42+00:00",
         "updated": "2025-01-09T17:13:33+00:00",
-        "pushed": "2025-01-09T17:13:28+00:00",
+        "pushed": "2025-01-10T12:42:07+00:00",
         "url": "https://github.com/Assured/CT-key",
         "id": 913784813
     },
@@ -14227,10 +14240,10 @@
         "owner": "algofoogle",
         "stars": 0,
         "forks": 0,
-        "size": 3779,
+        "size": 4488,
         "created": "2024-12-07T20:21:37+00:00",
-        "updated": "2025-01-10T06:48:24+00:00",
-        "pushed": "2025-01-10T06:48:21+00:00",
+        "updated": "2025-01-11T03:07:53+00:00",
+        "pushed": "2025-01-11T03:07:50+00:00",
         "url": "https://github.com/algofoogle/caravel_docs",
         "id": 900084065
     },
@@ -14240,12 +14253,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1590,
+        "size": 1591,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-10T04:35:53+00:00",
-        "pushed": "2025-01-10T04:35:50+00:00",
+        "updated": "2025-01-11T04:34:59+00:00",
+        "pushed": "2025-01-11T04:34:56+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 1,
+        "size": 36466,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-01-11T00:59:40+00:00",
+        "pushed": "2025-01-11T00:59:36+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14253,10 +14279,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 84325,
+        "size": 84826,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-10T03:31:53+00:00",
-        "pushed": "2025-01-10T03:31:50+00:00",
+        "updated": "2025-01-11T03:30:03+00:00",
+        "pushed": "2025-01-11T03:29:59+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
