@@ -5460,19 +5460,6 @@
         "id": 30467971
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 41,
-        "forks": 30,
-        "size": 41465,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-01-04T15:12:17+00:00",
-        "pushed": "2025-01-04T15:12:14+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5499,19 +5486,6 @@
         "id": 328467543
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 2,
-        "forks": 0,
-        "size": 134,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-01-07T19:12:51+00:00",
-        "pushed": "2025-01-07T19:12:47+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "awesome-rtl",
         "description": null,
         "owner": "ixaxaar",
@@ -5523,5 +5497,44 @@
         "pushed": "2025-01-07T15:28:16+00:00",
         "url": "https://github.com/ixaxaar/awesome-rtl",
         "id": 913383186
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 41,
+        "forks": 30,
+        "size": 41476,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-01-12T03:11:51+00:00",
+        "pushed": "2025-01-12T03:11:48+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl",
+        "description": "hdl code fragments",
+        "owner": "konosubakonoakua",
+        "stars": 0,
+        "forks": 0,
+        "size": 4,
+        "created": "2025-01-12T01:42:25+00:00",
+        "updated": "2025-01-12T03:02:54+00:00",
+        "pushed": "2025-01-12T03:02:50+00:00",
+        "url": "https://github.com/konosubakonoakua/myhdl",
+        "id": 915494443
+    },
+    {
+        "repo": "fpga-useful-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 2,
+        "forks": 0,
+        "size": 147,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-01-11T21:25:56+00:00",
+        "pushed": "2025-01-11T21:25:52+00:00",
+        "url": "https://github.com/RDSik/fpga-useful-list",
+        "id": 777943094
     }
 ]
