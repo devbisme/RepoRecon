@@ -13312,19 +13312,6 @@
         "id": 886179466
     },
     {
-        "repo": "ima-litex-apk-updater",
-        "description": "App Updater",
-        "owner": "aquilasarmiento-ekonek",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2024-12-20T05:59:06+00:00",
-        "updated": "2024-12-20T05:59:06+00:00",
-        "pushed": "2024-12-20T05:59:06+00:00",
-        "url": "https://github.com/aquilasarmiento-ekonek/ima-litex-apk-updater",
-        "id": 906081018
-    },
-    {
         "repo": "Clock_Glitching_PMP_VexRiscv_Terasic_SoCKit",
         "description": null,
         "owner": "Jiraax",
@@ -14027,19 +14014,6 @@
         "id": 464657430
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1642,
-        "forks": 233,
-        "size": 226025,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-11T05:33:26+00:00",
-        "pushed": "2025-01-11T06:01:01+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "pythondata-cpu-cv32e40p",
         "description": "Python module containing system_verilog files for cv32e40p cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -14118,32 +14092,6 @@
         "id": 798146281
     },
     {
-        "repo": "wyrm",
-        "description": "A colorlight 5a-75b-based display using liteX",
-        "owner": "kscz",
-        "stars": 0,
-        "forks": 0,
-        "size": 12,
-        "created": "2025-01-08T06:39:23+00:00",
-        "updated": "2025-01-08T06:57:34+00:00",
-        "pushed": "2025-01-11T02:01:17+00:00",
-        "url": "https://github.com/kscz/wyrm",
-        "id": 913681059
-    },
-    {
-        "repo": "OpenSoC",
-        "description": "Build Open-Source SoC for ysyx ASIC",
-        "owner": "MrAMS",
-        "stars": 0,
-        "forks": 0,
-        "size": 15,
-        "created": "2025-01-11T03:19:03+00:00",
-        "updated": "2025-01-11T05:16:31+00:00",
-        "pushed": "2025-01-11T05:16:28+00:00",
-        "url": "https://github.com/MrAMS/OpenSoC",
-        "id": 915125208
-    },
-    {
         "repo": "OpenFPGATools_DockerImage",
         "description": null,
         "owner": "fjpolo",
@@ -14155,32 +14103,6 @@
         "pushed": "2025-01-10T13:43:05+00:00",
         "url": "https://github.com/fjpolo/OpenFPGATools_DockerImage",
         "id": 914869410
-    },
-    {
-        "repo": "CT-key",
-        "description": null,
-        "owner": "Assured",
-        "stars": 0,
-        "forks": 0,
-        "size": 140,
-        "created": "2025-01-08T10:51:42+00:00",
-        "updated": "2025-01-09T17:13:33+00:00",
-        "pushed": "2025-01-10T12:42:07+00:00",
-        "url": "https://github.com/Assured/CT-key",
-        "id": 913784813
-    },
-    {
-        "repo": "caravel_docs",
-        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
-        "owner": "algofoogle",
-        "stars": 0,
-        "forks": 0,
-        "size": 4488,
-        "created": "2024-12-07T20:21:37+00:00",
-        "updated": "2025-01-11T03:07:53+00:00",
-        "pushed": "2025-01-11T03:07:50+00:00",
-        "url": "https://github.com/algofoogle/caravel_docs",
-        "id": 900084065
     },
     {
         "repo": "awesome-stars",
@@ -14196,19 +14118,6 @@
         "id": 330793471
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 916,
-        "forks": 83,
-        "size": 1234,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-11T19:30:23+00:00",
-        "pushed": "2025-01-12T02:36:45+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -14220,19 +14129,6 @@
         "pushed": "2025-01-11T17:29:44+00:00",
         "url": "https://github.com/EEVengers/libtslitex",
         "id": 784979558
-    },
-    {
-        "repo": "pyPPA",
-        "description": null,
-        "owner": "ReaLLMASIC",
-        "stars": 1,
-        "forks": 0,
-        "size": 4897,
-        "created": "2024-07-10T23:48:14+00:00",
-        "updated": "2025-01-04T02:10:05+00:00",
-        "pushed": "2025-01-12T02:15:11+00:00",
-        "url": "https://github.com/ReaLLMASIC/pyPPA",
-        "id": 827054090
     },
     {
         "repo": "fpga-useful-list",
@@ -14261,15 +14157,119 @@
         "id": 237940918
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 917,
+        "forks": 83,
+        "size": 1234,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-13T03:05:08+00:00",
+        "pushed": "2025-01-13T02:29:42+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1642,
+        "forks": 234,
+        "size": 226545,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-12T05:02:32+00:00",
+        "pushed": "2025-01-12T08:08:06+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "wyrm",
+        "description": "A colorlight 5a-75b-based display using liteX",
+        "owner": "kscz",
+        "stars": 0,
+        "forks": 0,
+        "size": 25,
+        "created": "2025-01-08T06:39:23+00:00",
+        "updated": "2025-01-08T06:57:34+00:00",
+        "pushed": "2025-01-13T04:50:05+00:00",
+        "url": "https://github.com/kscz/wyrm",
+        "id": 913681059
+    },
+    {
+        "repo": "OpenSoC",
+        "description": "Build Open-Source SoC for ysyx ASIC",
+        "owner": "MrAMS",
+        "stars": 0,
+        "forks": 0,
+        "size": 65,
+        "created": "2025-01-11T03:19:03+00:00",
+        "updated": "2025-01-12T15:28:21+00:00",
+        "pushed": "2025-01-12T15:28:17+00:00",
+        "url": "https://github.com/MrAMS/OpenSoC",
+        "id": 915125208
+    },
+    {
+        "repo": "pyPPA",
+        "description": null,
+        "owner": "ReaLLMASIC",
+        "stars": 1,
+        "forks": 0,
+        "size": 8497,
+        "created": "2024-07-10T23:48:14+00:00",
+        "updated": "2025-01-04T02:10:05+00:00",
+        "pushed": "2025-01-13T05:25:57+00:00",
+        "url": "https://github.com/ReaLLMASIC/pyPPA",
+        "id": 827054090
+    },
+    {
+        "repo": "CT-key",
+        "description": null,
+        "owner": "Assured",
+        "stars": 0,
+        "forks": 0,
+        "size": 212,
+        "created": "2025-01-08T10:51:42+00:00",
+        "updated": "2025-01-09T17:13:33+00:00",
+        "pushed": "2025-01-12T21:51:15+00:00",
+        "url": "https://github.com/Assured/CT-key",
+        "id": 913784813
+    },
+    {
+        "repo": "ima-litex-apk-updater",
+        "description": "App Updater",
+        "owner": "aquilasarmiento-ekonek",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2024-12-20T05:59:06+00:00",
+        "updated": "2025-01-13T06:44:35+00:00",
+        "pushed": "2025-01-13T06:44:31+00:00",
+        "url": "https://github.com/aquilasarmiento-ekonek/ima-litex-apk-updater",
+        "id": 906081018
+    },
+    {
+        "repo": "caravel_docs",
+        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
+        "owner": "algofoogle",
+        "stars": 0,
+        "forks": 0,
+        "size": 4774,
+        "created": "2024-12-07T20:21:37+00:00",
+        "updated": "2025-01-13T05:33:58+00:00",
+        "pushed": "2025-01-13T05:33:55+00:00",
+        "url": "https://github.com/algofoogle/caravel_docs",
+        "id": 900084065
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1629,
+        "size": 1631,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-12T04:35:24+00:00",
-        "pushed": "2025-01-12T04:35:21+00:00",
+        "updated": "2025-01-13T04:36:35+00:00",
+        "pushed": "2025-01-13T04:36:32+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14279,10 +14279,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 85328,
+        "size": 85831,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-12T03:33:37+00:00",
-        "pushed": "2025-01-12T03:33:34+00:00",
+        "updated": "2025-01-13T03:33:15+00:00",
+        "pushed": "2025-01-13T03:33:12+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
