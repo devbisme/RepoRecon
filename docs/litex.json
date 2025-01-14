@@ -13520,32 +13520,6 @@
         "id": 786797602
     },
     {
-        "repo": "pythondata-auto",
-        "description": "Scripts which automate the creation of the `litex.data` Python modules from various git repositories.",
-        "owner": "litex-hub",
-        "stars": 4,
-        "forks": 11,
-        "size": 107,
-        "created": "2020-02-23T01:12:53+00:00",
-        "updated": "2024-12-28T18:26:20+00:00",
-        "pushed": "2024-12-28T18:26:16+00:00",
-        "url": "https://github.com/litex-hub/pythondata-auto",
-        "id": 242436296
-    },
-    {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 47,
-        "forks": 0,
-        "size": 1202,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2024-12-30T06:01:28+00:00",
-        "pushed": "2024-12-30T06:01:24+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -13936,19 +13910,6 @@
         "id": 913754065
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 1989,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-10T06:49:12+00:00",
-        "pushed": "2025-01-10T06:49:08+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "litex_hal",
         "description": null,
         "owner": "GNAT-Academic-Program",
@@ -13975,19 +13936,6 @@
         "id": 807856638
     },
     {
-        "repo": "Litex-RiscX",
-        "description": "depois",
-        "owner": "DaviLdM",
-        "stars": 0,
-        "forks": 0,
-        "size": 12,
-        "created": "2025-01-09T20:15:09+00:00",
-        "updated": "2025-01-09T20:32:35+00:00",
-        "pushed": "2025-01-09T20:32:32+00:00",
-        "url": "https://github.com/DaviLdM/Litex-RiscX",
-        "id": 914548766
-    },
-    {
         "repo": "NYCU_AAML2024_final",
         "description": null,
         "owner": "weiluohuang",
@@ -14001,19 +13949,6 @@
         "id": 902726076
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 59,
-        "forks": 22,
-        "size": 77867,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2025-01-10T10:00:36+00:00",
-        "pushed": "2025-01-10T10:02:22+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "pythondata-cpu-cv32e40p",
         "description": "Python module containing system_verilog files for cv32e40p cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -14025,19 +13960,6 @@
         "pushed": "2025-01-10T21:17:24+00:00",
         "url": "https://github.com/litex-hub/pythondata-cpu-cv32e40p",
         "id": 265636711
-    },
-    {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 2,
-        "forks": 3,
-        "size": 4922,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-01-10T10:40:31+00:00",
-        "pushed": "2025-01-10T10:40:28+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
     },
     {
         "repo": "pythondata-cpu-mor1kx",
@@ -14105,19 +14027,6 @@
         "id": 914869410
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 1,
-        "size": 36466,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-01-11T00:59:40+00:00",
-        "pushed": "2025-01-11T00:59:36+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -14155,32 +14064,6 @@
         "pushed": "2025-01-11T09:45:34+00:00",
         "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
         "id": 237940918
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 917,
-        "forks": 83,
-        "size": 1234,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-13T03:05:08+00:00",
-        "pushed": "2025-01-13T02:29:42+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1642,
-        "forks": 234,
-        "size": 226545,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-12T05:02:32+00:00",
-        "pushed": "2025-01-12T08:08:06+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "wyrm",
@@ -14222,19 +14105,6 @@
         "id": 827054090
     },
     {
-        "repo": "CT-key",
-        "description": null,
-        "owner": "Assured",
-        "stars": 0,
-        "forks": 0,
-        "size": 212,
-        "created": "2025-01-08T10:51:42+00:00",
-        "updated": "2025-01-09T17:13:33+00:00",
-        "pushed": "2025-01-12T21:51:15+00:00",
-        "url": "https://github.com/Assured/CT-key",
-        "id": 913784813
-    },
-    {
         "repo": "ima-litex-apk-updater",
         "description": "App Updater",
         "owner": "aquilasarmiento-ekonek",
@@ -14248,15 +14118,158 @@
         "id": 906081018
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 919,
+        "forks": 83,
+        "size": 1234,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-13T23:25:13+00:00",
+        "pushed": "2025-01-14T02:21:10+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 59,
+        "forks": 22,
+        "size": 77874,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2025-01-13T20:22:40+00:00",
+        "pushed": "2025-01-13T20:23:54+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1644,
+        "forks": 234,
+        "size": 226268,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-13T23:25:45+00:00",
+        "pushed": "2025-01-13T21:00:47+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "pythondata-auto",
+        "description": "Scripts which automate the creation of the `litex.data` Python modules from various git repositories.",
+        "owner": "litex-hub",
+        "stars": 4,
+        "forks": 11,
+        "size": 115,
+        "created": "2020-02-23T01:12:53+00:00",
+        "updated": "2025-01-13T09:02:31+00:00",
+        "pushed": "2025-01-13T09:02:27+00:00",
+        "url": "https://github.com/litex-hub/pythondata-auto",
+        "id": 242436296
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 2017,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-14T03:44:49+00:00",
+        "pushed": "2025-01-14T03:44:46+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 48,
+        "forks": 0,
+        "size": 1202,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2025-01-14T06:36:13+00:00",
+        "pushed": "2025-01-14T06:36:09+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 2,
+        "forks": 3,
+        "size": 5492,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-01-13T12:38:45+00:00",
+        "pushed": "2025-01-13T12:38:41+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "pythondata-cpu-openc906",
+        "description": "Python module containing verilog files for OpenC906 cpu (for use with LiteX).",
+        "owner": "litex-hub",
+        "stars": 0,
+        "forks": 0,
+        "size": 33566,
+        "created": "2025-01-13T08:58:57+00:00",
+        "updated": "2025-01-13T08:59:53+00:00",
+        "pushed": "2025-01-13T08:59:48+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-openc906",
+        "id": 915995828
+    },
+    {
+        "repo": "Litex-RiscX",
+        "description": "depois",
+        "owner": "DaviLdM",
+        "stars": 0,
+        "forks": 0,
+        "size": 13,
+        "created": "2025-01-09T20:15:09+00:00",
+        "updated": "2025-01-13T14:06:27+00:00",
+        "pushed": "2025-01-13T14:06:23+00:00",
+        "url": "https://github.com/DaviLdM/Litex-RiscX",
+        "id": 914548766
+    },
+    {
+        "repo": "CT-key",
+        "description": null,
+        "owner": "Assured",
+        "stars": 0,
+        "forks": 0,
+        "size": 233,
+        "created": "2025-01-08T10:51:42+00:00",
+        "updated": "2025-01-09T17:13:33+00:00",
+        "pushed": "2025-01-13T16:36:15+00:00",
+        "url": "https://github.com/Assured/CT-key",
+        "id": 913784813
+    },
+    {
+        "repo": "Extension_Boards_for_Olimex_GateMate",
+        "description": "Simple extension boards for Olimex GateMate FPGA Board",
+        "owner": "intergalaktik",
+        "stars": 15,
+        "forks": 0,
+        "size": 83581,
+        "created": "2024-10-16T09:54:22+00:00",
+        "updated": "2025-01-13T08:59:10+00:00",
+        "pushed": "2025-01-13T08:59:07+00:00",
+        "url": "https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate",
+        "id": 873518178
+    },
+    {
         "repo": "caravel_docs",
         "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
         "owner": "algofoogle",
         "stars": 0,
         "forks": 0,
-        "size": 4774,
+        "size": 5115,
         "created": "2024-12-07T20:21:37+00:00",
-        "updated": "2025-01-13T05:33:58+00:00",
-        "pushed": "2025-01-13T05:33:55+00:00",
+        "updated": "2025-01-14T01:33:57+00:00",
+        "pushed": "2025-01-14T01:33:54+00:00",
         "url": "https://github.com/algofoogle/caravel_docs",
         "id": 900084065
     },
@@ -14266,12 +14279,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1631,
+        "size": 1668,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-13T04:36:35+00:00",
-        "pushed": "2025-01-13T04:36:32+00:00",
+        "updated": "2025-01-14T04:34:37+00:00",
+        "pushed": "2025-01-14T04:34:34+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 1,
+        "forks": 1,
+        "size": 37764,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-01-14T00:59:33+00:00",
+        "pushed": "2025-01-14T00:59:30+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14279,10 +14305,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 85831,
+        "size": 86337,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-13T03:33:15+00:00",
-        "pushed": "2025-01-13T03:33:12+00:00",
+        "updated": "2025-01-14T03:25:51+00:00",
+        "pushed": "2025-01-14T03:25:48+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
