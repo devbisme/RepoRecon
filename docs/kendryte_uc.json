@@ -40690,19 +40690,6 @@
         "id": 909928147
     },
     {
-        "repo": "micropython-ulab",
-        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
-        "owner": "v923z",
-        "stars": 441,
-        "forks": 118,
-        "size": 3430,
-        "created": "2019-08-30T15:33:30+00:00",
-        "updated": "2024-12-30T00:35:00+00:00",
-        "pushed": "2024-12-30T21:22:15+00:00",
-        "url": "https://github.com/v923z/micropython-ulab",
-        "id": 205409848
-    },
-    {
         "repo": "krux-installer",
         "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
         "owner": "selfcustody",
@@ -40924,19 +40911,6 @@
         "id": 113545974
     },
     {
-        "repo": "edge-ai",
-        "description": "A curated list of resources for embedded AI",
-        "owner": "crespum",
-        "stars": 375,
-        "forks": 44,
-        "size": 81,
-        "created": "2018-07-25T18:05:37+00:00",
-        "updated": "2025-01-03T08:24:02+00:00",
-        "pushed": "2025-01-03T08:23:58+00:00",
-        "url": "https://github.com/crespum/edge-ai",
-        "id": 142336474
-    },
-    {
         "repo": "huenit_ai_project",
         "description": "OID \ub370\uc774\ud130\uc14b\uc744 \ub2e4\uc6b4\ub85c\ub4dc\ud558\uc5ec, \ud150\uc11c\ud50c\ub85c\uc6b0 \uae30\ubc18\uc758 \uac1d\uccb4 \ud0d0\uc9c0 \ubaa8\ub378\uc744 \ud559\uc2b5\ud588\uc2b5\ub2c8\ub2e4. \ud559\uc2b5 \ud6c4 K210 \ubcf4\ub4dc\uc5d0\uc11c \ub3d9\uc791\ud560 \uc218 \uc788\ub3c4\ub85d K210 \ud638\ud658 \ud3ec\ub9f7(kmodel)\uc73c\ub85c \ubcc0\ud658\ub418\uba70, \ucd5c\uc885\uc801\uc73c\ub85c K210 \ud50c\ub7ab\ud3fc\uc5d0\uc11c \uc2e4\uc2dc\uac04\uc73c\ub85c \uac1d\uccb4 \ud0d0\uc9c0\uac00 \uc774\ub8e8\uc5b4\uc9d1\ub2c8\ub2e4.",
         "owner": "eun-lim",
@@ -41104,19 +41078,6 @@
         "pushed": "2025-01-06T11:36:07+00:00",
         "url": "https://github.com/hrm1994/maixduino",
         "id": 912779050
-    },
-    {
-        "repo": "k230_canmv_docs",
-        "description": "k230_canmv_docs",
-        "owner": "kendryte",
-        "stars": 10,
-        "forks": 2,
-        "size": 21117,
-        "created": "2023-10-17T07:31:49+00:00",
-        "updated": "2025-01-08T08:16:56+00:00",
-        "pushed": "2025-01-08T08:16:53+00:00",
-        "url": "https://github.com/kendryte/k230_canmv_docs",
-        "id": 706039729
     },
     {
         "repo": "openblock-tools",
@@ -41301,19 +41262,6 @@
         "id": 915517643
     },
     {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 63,
-        "forks": 16,
-        "size": 116636,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-01-13T04:10:05+00:00",
-        "pushed": "2025-01-13T04:13:07+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
         "repo": "ulisp-riscv",
         "description": "A version of the Lisp programming language for RISC-V based boards.",
         "owner": "technoblogy",
@@ -41364,45 +41312,6 @@
         "pushed": "2025-01-13T02:10:40+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 758,
-        "forks": 185,
-        "size": 60373,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-01-09T05:56:55+00:00",
-        "pushed": "2025-01-14T07:11:24+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 220,
-        "forks": 47,
-        "size": 53226,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-01-14T03:14:23+00:00",
-        "pushed": "2025-01-14T03:24:30+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1365,
-        "forks": 292,
-        "size": 61093,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-01-13T13:45:10+00:00",
-        "pushed": "2025-01-13T13:45:06+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
     },
     {
         "repo": "PQRV",
@@ -41481,19 +41390,6 @@
         "pushed": "2025-01-15T02:49:41+00:00",
         "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
         "id": 840056339
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10744,
-        "forks": 5069,
-        "size": 890980,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-01-15T05:55:26+00:00",
-        "pushed": "2025-01-15T02:26:40+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "mpp",
@@ -41600,17 +41496,134 @@
         "id": 916536350
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 760,
+        "forks": 185,
+        "size": 59763,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-01-16T02:13:46+00:00",
+        "pushed": "2025-01-15T10:47:19+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "edge-ai",
+        "description": "A curated list of resources for embedded AI",
+        "owner": "crespum",
+        "stars": 381,
+        "forks": 47,
+        "size": 82,
+        "created": "2018-07-25T18:05:37+00:00",
+        "updated": "2025-01-15T21:31:55+00:00",
+        "pushed": "2025-01-15T08:10:34+00:00",
+        "url": "https://github.com/crespum/edge-ai",
+        "id": 142336474
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 223,
+        "forks": 47,
+        "size": 63352,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-01-15T20:59:56+00:00",
+        "pushed": "2025-01-16T03:26:24+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1371,
+        "forks": 294,
+        "size": 61097,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-01-16T06:14:20+00:00",
+        "pushed": "2025-01-16T02:49:22+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 63,
+        "forks": 16,
+        "size": 117309,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-01-13T04:10:05+00:00",
+        "pushed": "2025-01-15T11:50:02+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "k230_canmv_docs",
+        "description": "k230_canmv_docs",
+        "owner": "kendryte",
+        "stars": 10,
+        "forks": 2,
+        "size": 21122,
+        "created": "2023-10-17T07:31:49+00:00",
+        "updated": "2025-01-16T05:46:23+00:00",
+        "pushed": "2025-01-16T05:46:22+00:00",
+        "url": "https://github.com/kendryte/k230_canmv_docs",
+        "id": 706039729
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10741,
+        "forks": 5069,
+        "size": 891016,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-01-16T04:12:41+00:00",
+        "pushed": "2025-01-16T01:56:55+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "micropython-ulab",
+        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
+        "owner": "v923z",
+        "stars": 444,
+        "forks": 118,
+        "size": 3410,
+        "created": "2019-08-30T15:33:30+00:00",
+        "updated": "2025-01-15T09:29:30+00:00",
+        "pushed": "2025-01-15T09:29:31+00:00",
+        "url": "https://github.com/v923z/micropython-ulab",
+        "id": 205409848
+    },
+    {
         "repo": "rCore-Tutorial-v3",
         "description": "\u5b66\u4e60\u5f00\u6e90\u9879\u76eerCore-Tutorial-v3",
         "owner": "yangzhenjiang159",
         "stars": 0,
         "forks": 0,
-        "size": 68,
+        "size": 73,
         "created": "2024-09-29T01:39:45+00:00",
-        "updated": "2025-01-14T15:37:53+00:00",
-        "pushed": "2025-01-14T15:37:49+00:00",
+        "updated": "2025-01-16T03:36:50+00:00",
+        "pushed": "2025-01-16T03:36:49+00:00",
         "url": "https://github.com/yangzhenjiang159/rCore-Tutorial-v3",
         "id": 864721787
+    },
+    {
+        "repo": "MaixPy",
+        "description": "This is for learn MaixPy and OpenCV",
+        "owner": "Hyperk1ler",
+        "stars": 0,
+        "forks": 0,
+        "size": 5,
+        "created": "2025-01-15T14:43:15+00:00",
+        "updated": "2025-01-15T15:30:33+00:00",
+        "pushed": "2025-01-15T15:30:32+00:00",
+        "url": "https://github.com/Hyperk1ler/MaixPy",
+        "id": 917198417
     },
     {
         "repo": "emakefun-docsify",
@@ -41618,10 +41631,10 @@
         "owner": "emakefun",
         "stars": 0,
         "forks": 2,
-        "size": 153857,
+        "size": 156748,
         "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2025-01-14T11:20:59+00:00",
-        "pushed": "2025-01-14T11:20:55+00:00",
+        "updated": "2025-01-15T08:05:32+00:00",
+        "pushed": "2025-01-15T08:05:30+00:00",
         "url": "https://github.com/emakefun/emakefun-docsify",
         "id": 859664219
     },
@@ -41631,10 +41644,10 @@
         "owner": "androidtrackers",
         "stars": 131,
         "forks": 37,
-        "size": 876180,
+        "size": 879491,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-14T12:31:52+00:00",
-        "pushed": "2025-01-14T12:31:47+00:00",
+        "updated": "2025-01-15T12:31:28+00:00",
+        "pushed": "2025-01-15T12:31:25+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41647,7 +41660,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-01-12T22:30:16+00:00",
-        "pushed": "2025-01-15T00:14:53+00:00",
+        "pushed": "2025-01-16T00:14:56+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

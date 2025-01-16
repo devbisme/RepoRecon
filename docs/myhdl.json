@@ -5447,19 +5447,6 @@
         "id": 906360752
     },
     {
-        "repo": "myhdl",
-        "description": "The MyHDL development repository",
-        "owner": "myhdl",
-        "stars": 1053,
-        "forks": 248,
-        "size": 13435,
-        "created": "2015-02-07T19:50:27+00:00",
-        "updated": "2024-12-21T16:21:16+00:00",
-        "pushed": "2024-12-21T16:21:11+00:00",
-        "url": "https://github.com/myhdl/myhdl",
-        "id": 30467971
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5512,15 +5499,28 @@
         "id": 915494443
     },
     {
+        "repo": "myhdl",
+        "description": "The MyHDL development repository",
+        "owner": "myhdl",
+        "stars": 1059,
+        "forks": 250,
+        "size": 13436,
+        "created": "2015-02-07T19:50:27+00:00",
+        "updated": "2025-01-16T00:21:09+00:00",
+        "pushed": "2025-01-15T08:10:44+00:00",
+        "url": "https://github.com/myhdl/myhdl",
+        "id": 30467971
+    },
+    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
         "stars": 41,
         "forks": 30,
-        "size": 41498,
+        "size": 41532,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-01-14T12:40:20+00:00",
-        "pushed": "2025-01-14T12:40:17+00:00",
+        "updated": "2025-01-15T18:24:05+00:00",
+        "pushed": "2025-01-15T18:24:04+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
     },
@@ -5530,10 +5530,10 @@
         "owner": "RDSik",
         "stars": 2,
         "forks": 0,
-        "size": 154,
+        "size": 162,
         "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-01-14T20:40:29+00:00",
-        "pushed": "2025-01-14T20:40:25+00:00",
+        "updated": "2025-01-15T21:46:22+00:00",
+        "pushed": "2025-01-15T21:46:21+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
     }
