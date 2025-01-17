@@ -5512,19 +5512,6 @@
         "id": 30467971
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 41,
-        "forks": 30,
-        "size": 41532,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-01-15T18:24:05+00:00",
-        "pushed": "2025-01-15T18:24:04+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -5536,5 +5523,57 @@
         "pushed": "2025-01-15T21:46:21+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 41,
+        "forks": 30,
+        "size": 41548,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-01-17T00:11:32+00:00",
+        "pushed": "2025-01-17T00:11:30+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "BinaryCounter",
+        "description": "Basic AND gate design written in myHDL ",
+        "owner": "rainerrodrigues",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-01-16T22:37:27+00:00",
+        "updated": "2025-01-16T22:47:39+00:00",
+        "pushed": "2025-01-16T22:47:38+00:00",
+        "url": "https://github.com/rainerrodrigues/BinaryCounter",
+        "id": 917924147
+    },
+    {
+        "repo": "ShiftRegister",
+        "description": "PISO Shift Register designed in myHDL",
+        "owner": "rainerrodrigues",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2025-01-16T23:48:06+00:00",
+        "updated": "2025-01-17T01:04:37+00:00",
+        "pushed": "2025-01-17T01:04:36+00:00",
+        "url": "https://github.com/rainerrodrigues/ShiftRegister",
+        "id": 917941991
+    },
+    {
+        "repo": "UART",
+        "description": "UART designed in myhdl",
+        "owner": "rainerrodrigues",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-01-17T01:40:57+00:00",
+        "updated": "2025-01-17T02:08:12+00:00",
+        "pushed": "2025-01-17T02:08:11+00:00",
+        "url": "https://github.com/rainerrodrigues/UART",
+        "id": 917968758
     }
 ]

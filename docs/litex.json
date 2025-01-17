@@ -13598,19 +13598,6 @@
         "id": 434342707
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 39,
-        "forks": 16,
-        "size": 50479,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-01-03T18:42:23+00:00",
-        "pushed": "2025-01-03T18:56:16+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "litepcie-macos-driver",
         "description": "macos driverkit driver for litepcie",
         "owner": "tech2077",
@@ -13949,19 +13936,6 @@
         "id": 242440829
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 47,
-        "forks": 4,
-        "size": 146966,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-01-10T21:05:56+00:00",
-        "pushed": "2025-01-10T21:05:50+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "OpenFPGATools_DockerImage",
         "description": null,
         "owner": "fjpolo",
@@ -14092,19 +14066,6 @@
         "id": 900084065
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 1,
-        "forks": 1,
-        "size": 37764,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-01-14T00:59:33+00:00",
-        "pushed": "2025-01-14T00:59:30+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -14168,45 +14129,6 @@
         "pushed": "2025-01-14T10:15:31+00:00",
         "url": "https://github.com/intergalaktik/Extension_Boards_for_Olimex_GateMate",
         "id": 873518178
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3115,
-        "forks": 584,
-        "size": 17511,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-01-15T08:16:00+00:00",
-        "pushed": "2025-01-15T08:15:59+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 920,
-        "forks": 84,
-        "size": 1234,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-14T12:14:55+00:00",
-        "pushed": "2025-01-16T02:16:08+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1647,
-        "forks": 236,
-        "size": 226727,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-15T21:09:48+00:00",
-        "pushed": "2025-01-15T21:06:06+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "girlvoice-gateware",
@@ -14300,17 +14222,95 @@
         "id": 777943094
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3115,
+        "forks": 585,
+        "size": 17515,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-01-16T13:22:03+00:00",
+        "pushed": "2025-01-16T13:22:00+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 922,
+        "forks": 85,
+        "size": 1234,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-17T03:06:29+00:00",
+        "pushed": "2025-01-17T02:14:22+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1648,
+        "forks": 236,
+        "size": 226823,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-16T21:12:13+00:00",
+        "pushed": "2025-01-16T21:12:11+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 39,
+        "forks": 16,
+        "size": 51000,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-01-16T11:12:41+00:00",
+        "pushed": "2025-01-16T11:25:59+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 48,
+        "forks": 5,
+        "size": 146968,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-01-17T05:59:31+00:00",
+        "pushed": "2025-01-17T05:59:30+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1758,
+        "size": 1811,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-16T04:34:31+00:00",
-        "pushed": "2025-01-16T04:34:29+00:00",
+        "updated": "2025-01-17T04:36:58+00:00",
+        "pushed": "2025-01-17T04:36:56+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 2,
+        "forks": 1,
+        "size": 38264,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-01-17T00:54:02+00:00",
+        "pushed": "2025-01-17T00:54:00+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14318,10 +14318,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 87349,
+        "size": 87839,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-16T03:26:50+00:00",
-        "pushed": "2025-01-16T03:26:49+00:00",
+        "updated": "2025-01-17T03:27:29+00:00",
+        "pushed": "2025-01-17T03:27:27+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
