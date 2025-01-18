@@ -12792,19 +12792,6 @@
         "id": 886768304
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1908,
-        "forks": 175,
-        "size": 156,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2024-11-21T03:34:48+00:00",
-        "pushed": "2024-11-21T01:09:37+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "kirsch",
         "description": "Kirsch Computer",
         "owner": "machdyne",
@@ -13572,19 +13559,6 @@
         "id": 246758856
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 76,
-        "forks": 9,
-        "size": 6806,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-01-02T17:29:31+00:00",
-        "pushed": "2025-01-02T17:29:27+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -13609,19 +13583,6 @@
         "pushed": "2025-01-03T21:38:42+00:00",
         "url": "https://github.com/tech2077/litepcie-macos-driver",
         "id": 689836782
-    },
-    {
-        "repo": "lilydrum",
-        "description": "Drums and Lilypond",
-        "owner": "snowgoon88",
-        "stars": 3,
-        "forks": 0,
-        "size": 1529,
-        "created": "2019-02-04T12:02:21+00:00",
-        "updated": "2025-01-03T10:21:29+00:00",
-        "pushed": "2025-01-03T10:21:24+00:00",
-        "url": "https://github.com/snowgoon88/lilydrum",
-        "id": 169072211
     },
     {
         "repo": "litex-apps",
@@ -14066,19 +14027,6 @@
         "id": 900084065
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 383,
-        "forks": 296,
-        "size": 4283,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-01-14T07:22:38+00:00",
-        "pushed": "2025-01-14T07:22:34+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "pythondata-cpu-ibex",
         "description": "Python module containing system_verilog files for ibex cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -14131,19 +14079,6 @@
         "id": 873518178
     },
     {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 48,
-        "forks": 0,
-        "size": 1222,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2025-01-15T09:58:28+00:00",
-        "pushed": "2025-01-15T09:58:26+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
-    },
-    {
         "repo": "LimeSDR_GW",
         "description": "LiteX-based gateware for LimeSDR boards.",
         "owner": "myriadrf",
@@ -14170,19 +14105,6 @@
         "id": 913681059
     },
     {
-        "repo": "123",
-        "description": null,
-        "owner": "Tufuwu",
-        "stars": 0,
-        "forks": 0,
-        "size": 1218,
-        "created": "2025-01-14T09:37:03+00:00",
-        "updated": "2025-01-16T06:56:35+00:00",
-        "pushed": "2025-01-16T06:56:34+00:00",
-        "url": "https://github.com/Tufuwu/123",
-        "id": 916535229
-    },
-    {
         "repo": "pyPPA",
         "description": null,
         "owner": "ReaLLMASIC",
@@ -14194,19 +14116,6 @@
         "pushed": "2025-01-16T06:48:10+00:00",
         "url": "https://github.com/ReaLLMASIC/pyPPA",
         "id": 827054090
-    },
-    {
-        "repo": "ima-litex-apk-updater",
-        "description": "App Updater",
-        "owner": "aquilasarmiento-ekonek",
-        "stars": 0,
-        "forks": 0,
-        "size": 28908,
-        "created": "2024-12-20T05:59:06+00:00",
-        "updated": "2025-01-15T08:28:12+00:00",
-        "pushed": "2025-01-15T08:28:21+00:00",
-        "url": "https://github.com/aquilasarmiento-ekonek/ima-litex-apk-updater",
-        "id": 906081018
     },
     {
         "repo": "fpga-useful-list",
@@ -14233,19 +14142,6 @@
         "pushed": "2025-01-16T13:22:00+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 922,
-        "forks": 85,
-        "size": 1234,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-17T03:06:29+00:00",
-        "pushed": "2025-01-17T02:14:22+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "neorv32",
@@ -14287,19 +14183,6 @@
         "id": 798146281
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 4,
-        "forks": 0,
-        "size": 1811,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-17T04:36:58+00:00",
-        "pushed": "2025-01-17T04:36:56+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -14313,15 +14196,132 @@
         "id": 330793471
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 384,
+        "forks": 296,
+        "size": 4284,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-01-17T16:34:23+00:00",
+        "pushed": "2025-01-17T09:00:32+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 922,
+        "forks": 85,
+        "size": 1234,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-17T03:06:29+00:00",
+        "pushed": "2025-01-18T02:18:06+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 76,
+        "forks": 9,
+        "size": 6815,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-01-17T09:35:54+00:00",
+        "pushed": "2025-01-17T09:35:53+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 48,
+        "forks": 0,
+        "size": 1227,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2025-01-18T04:59:55+00:00",
+        "pushed": "2025-01-18T04:59:53+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 1958,
+        "forks": 182,
+        "size": 196,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2025-01-17T14:33:05+00:00",
+        "pushed": "2025-01-17T14:33:03+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
+        "repo": "lilydrum",
+        "description": "Drums and Lilypond",
+        "owner": "snowgoon88",
+        "stars": 3,
+        "forks": 0,
+        "size": 1531,
+        "created": "2019-02-04T12:02:21+00:00",
+        "updated": "2025-01-17T20:33:15+00:00",
+        "pushed": "2025-01-17T20:33:13+00:00",
+        "url": "https://github.com/snowgoon88/lilydrum",
+        "id": 169072211
+    },
+    {
+        "repo": "123",
+        "description": null,
+        "owner": "Tufuwu",
+        "stars": 0,
+        "forks": 0,
+        "size": 1231,
+        "created": "2025-01-14T09:37:03+00:00",
+        "updated": "2025-01-18T07:05:46+00:00",
+        "pushed": "2025-01-18T07:05:45+00:00",
+        "url": "https://github.com/Tufuwu/123",
+        "id": 916535229
+    },
+    {
+        "repo": "ima-litex-apk-updater",
+        "description": "App Updater",
+        "owner": "aquilasarmiento-ekonek",
+        "stars": 0,
+        "forks": 0,
+        "size": 38551,
+        "created": "2024-12-20T05:59:06+00:00",
+        "updated": "2025-01-17T10:31:24+00:00",
+        "pushed": "2025-01-17T10:31:45+00:00",
+        "url": "https://github.com/aquilasarmiento-ekonek/ima-litex-apk-updater",
+        "id": 906081018
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 4,
+        "forks": 0,
+        "size": 1900,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-01-18T04:34:33+00:00",
+        "pushed": "2025-01-18T04:34:32+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 87839,
+        "size": 88345,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-17T03:27:29+00:00",
-        "pushed": "2025-01-17T03:27:27+00:00",
+        "updated": "2025-01-18T03:25:44+00:00",
+        "pushed": "2025-01-18T03:25:42+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
