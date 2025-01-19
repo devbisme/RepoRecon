@@ -11752,19 +11752,6 @@
         "id": 789527923
     },
     {
-        "repo": "litepcie_driver_win",
-        "description": "Windows Driver for the LitePCIe LiteX core",
-        "owner": "NateMeyer",
-        "stars": 5,
-        "forks": 3,
-        "size": 98,
-        "created": "2023-12-17T15:19:19+00:00",
-        "updated": "2024-07-29T04:15:14+00:00",
-        "pushed": "2024-07-29T04:15:10+00:00",
-        "url": "https://github.com/NateMeyer/litepcie_driver_win",
-        "id": 732706164
-    },
-    {
         "repo": "litex-esp",
         "description": "LiteX Embench Support Package for OpenRISC",
         "owner": "hhe07",
@@ -13910,19 +13897,6 @@
         "id": 914869410
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 8,
-        "forks": 5,
-        "size": 389,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-01-11T23:54:41+00:00",
-        "pushed": "2025-01-11T17:29:44+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -14092,19 +14066,6 @@
         "id": 787406556
     },
     {
-        "repo": "wyrm",
-        "description": "A colorlight 5a-75b-based display using liteX",
-        "owner": "kscz",
-        "stars": 0,
-        "forks": 0,
-        "size": 26,
-        "created": "2025-01-08T06:39:23+00:00",
-        "updated": "2025-01-16T05:50:20+00:00",
-        "pushed": "2025-01-16T05:50:19+00:00",
-        "url": "https://github.com/kscz/wyrm",
-        "id": 913681059
-    },
-    {
         "repo": "pyPPA",
         "description": null,
         "owner": "ReaLLMASIC",
@@ -14142,19 +14103,6 @@
         "pushed": "2025-01-16T13:22:00+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1648,
-        "forks": 236,
-        "size": 226823,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-16T21:12:13+00:00",
-        "pushed": "2025-01-16T21:12:11+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "coreblocks",
@@ -14207,19 +14155,6 @@
         "pushed": "2025-01-17T09:00:32+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 922,
-        "forks": 85,
-        "size": 1234,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-17T03:06:29+00:00",
-        "pushed": "2025-01-18T02:18:06+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litex_m2sdr",
@@ -14300,6 +14235,71 @@
         "id": 906081018
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 924,
+        "forks": 85,
+        "size": 1234,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-19T02:43:53+00:00",
+        "pushed": "2025-01-19T02:20:49+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1648,
+        "forks": 236,
+        "size": 226902,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-16T21:12:13+00:00",
+        "pushed": "2025-01-18T21:44:22+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 8,
+        "forks": 5,
+        "size": 392,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-01-11T23:54:41+00:00",
+        "pushed": "2025-01-19T05:33:39+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "litepcie_driver_win",
+        "description": "Windows Driver for the LitePCIe LiteX core",
+        "owner": "NateMeyer",
+        "stars": 6,
+        "forks": 3,
+        "size": 105,
+        "created": "2023-12-17T15:19:19+00:00",
+        "updated": "2025-01-18T14:41:25+00:00",
+        "pushed": "2025-01-18T14:41:26+00:00",
+        "url": "https://github.com/NateMeyer/litepcie_driver_win",
+        "id": 732706164
+    },
+    {
+        "repo": "wyrm",
+        "description": "A colorlight 5a-75b-based display using liteX",
+        "owner": "kscz",
+        "stars": 0,
+        "forks": 0,
+        "size": 34,
+        "created": "2025-01-08T06:39:23+00:00",
+        "updated": "2025-01-18T18:55:46+00:00",
+        "pushed": "2025-01-18T18:55:44+00:00",
+        "url": "https://github.com/kscz/wyrm",
+        "id": 913681059
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
@@ -14307,8 +14307,8 @@
         "forks": 0,
         "size": 1900,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-18T04:34:33+00:00",
-        "pushed": "2025-01-18T04:34:32+00:00",
+        "updated": "2025-01-19T04:34:31+00:00",
+        "pushed": "2025-01-19T04:34:30+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14318,10 +14318,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 88345,
+        "size": 79537,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-18T03:25:44+00:00",
-        "pushed": "2025-01-18T03:25:42+00:00",
+        "updated": "2025-01-19T03:28:38+00:00",
+        "pushed": "2025-01-19T03:28:36+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
