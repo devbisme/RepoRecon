@@ -13598,19 +13598,6 @@
         "id": 31147284
     },
     {
-        "repo": "liteeth",
-        "description": "Small footprint and configurable Ethernet core",
-        "owner": "enjoy-digital",
-        "stars": 218,
-        "forks": 88,
-        "size": 1470,
-        "created": "2015-09-07T11:13:19+00:00",
-        "updated": "2025-01-07T08:32:13+00:00",
-        "pushed": "2025-01-07T08:49:15+00:00",
-        "url": "https://github.com/enjoy-digital/liteeth",
-        "id": 42048653
-    },
-    {
         "repo": "litescope",
         "description": "Small footprint and configurable embedded FPGA logic analyzer",
         "owner": "enjoy-digital",
@@ -14014,19 +14001,6 @@
         "id": 339128468
     },
     {
-        "repo": "CT-key",
-        "description": null,
-        "owner": "Assured",
-        "stars": 0,
-        "forks": 0,
-        "size": 239,
-        "created": "2025-01-08T10:51:42+00:00",
-        "updated": "2025-01-14T12:58:36+00:00",
-        "pushed": "2025-01-14T14:20:31+00:00",
-        "url": "https://github.com/Assured/CT-key",
-        "id": 913784813
-    },
-    {
         "repo": "awesome-gatemate",
         "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
         "owner": "PythonLinks",
@@ -14066,19 +14040,6 @@
         "id": 787406556
     },
     {
-        "repo": "pyPPA",
-        "description": null,
-        "owner": "ReaLLMASIC",
-        "stars": 1,
-        "forks": 0,
-        "size": 8499,
-        "created": "2024-07-10T23:48:14+00:00",
-        "updated": "2025-01-04T02:10:05+00:00",
-        "pushed": "2025-01-16T06:48:10+00:00",
-        "url": "https://github.com/ReaLLMASIC/pyPPA",
-        "id": 827054090
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -14090,19 +14051,6 @@
         "pushed": "2025-01-15T21:46:21+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3115,
-        "forks": 585,
-        "size": 17515,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-01-16T13:22:03+00:00",
-        "pushed": "2025-01-16T13:22:00+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "openCologne",
@@ -14209,32 +14157,6 @@
         "id": 732706164
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 925,
-        "forks": 85,
-        "size": 1234,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-19T16:44:51+00:00",
-        "pushed": "2025-01-20T02:15:43+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1647,
-        "forks": 236,
-        "size": 226901,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-19T19:50:14+00:00",
-        "pushed": "2025-01-19T19:50:12+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14246,19 +14168,6 @@
         "pushed": "2025-01-19T21:13:04+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 48,
-        "forks": 0,
-        "size": 1246,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2025-01-20T05:44:03+00:00",
-        "pushed": "2025-01-20T05:44:02+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
     },
     {
         "repo": "awesome-opensource-hardware",
@@ -14274,19 +14183,6 @@
         "id": 479118982
     },
     {
-        "repo": "wyrm",
-        "description": "A colorlight 5a-75b-based display using liteX",
-        "owner": "kscz",
-        "stars": 0,
-        "forks": 0,
-        "size": 37,
-        "created": "2025-01-08T06:39:23+00:00",
-        "updated": "2025-01-19T07:25:32+00:00",
-        "pushed": "2025-01-19T07:25:31+00:00",
-        "url": "https://github.com/kscz/wyrm",
-        "id": 913681059
-    },
-    {
         "repo": "ima-litex-apk-updater",
         "description": "App Updater",
         "owner": "aquilasarmiento-ekonek",
@@ -14300,15 +14196,119 @@
         "id": 906081018
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3125,
+        "forks": 586,
+        "size": 17516,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-01-21T05:29:29+00:00",
+        "pushed": "2025-01-20T09:54:39+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 926,
+        "forks": 85,
+        "size": 1241,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-21T05:54:51+00:00",
+        "pushed": "2025-01-21T02:22:50+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteeth",
+        "description": "Small footprint and configurable Ethernet core",
+        "owner": "enjoy-digital",
+        "stars": 219,
+        "forks": 89,
+        "size": 1471,
+        "created": "2015-09-07T11:13:19+00:00",
+        "updated": "2025-01-20T17:47:58+00:00",
+        "pushed": "2025-01-20T17:47:57+00:00",
+        "url": "https://github.com/enjoy-digital/liteeth",
+        "id": 42048653
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1647,
+        "forks": 237,
+        "size": 226914,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-20T20:39:42+00:00",
+        "pushed": "2025-01-20T20:39:37+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 48,
+        "forks": 0,
+        "size": 1287,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2025-01-21T03:23:54+00:00",
+        "pushed": "2025-01-21T03:23:49+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "CT-key",
+        "description": null,
+        "owner": "Assured",
+        "stars": 0,
+        "forks": 0,
+        "size": 128,
+        "created": "2025-01-08T10:51:42+00:00",
+        "updated": "2025-01-20T19:45:05+00:00",
+        "pushed": "2025-01-20T19:45:08+00:00",
+        "url": "https://github.com/Assured/CT-key",
+        "id": 913784813
+    },
+    {
+        "repo": "wyrm",
+        "description": "A colorlight 5a-75b-based display using liteX",
+        "owner": "kscz",
+        "stars": 0,
+        "forks": 0,
+        "size": 48,
+        "created": "2025-01-08T06:39:23+00:00",
+        "updated": "2025-01-21T01:00:31+00:00",
+        "pushed": "2025-01-21T01:00:28+00:00",
+        "url": "https://github.com/kscz/wyrm",
+        "id": 913681059
+    },
+    {
+        "repo": "pyPPA",
+        "description": null,
+        "owner": "ReaLLMASIC",
+        "stars": 1,
+        "forks": 0,
+        "size": 8530,
+        "created": "2024-07-10T23:48:14+00:00",
+        "updated": "2025-01-04T02:10:05+00:00",
+        "pushed": "2025-01-21T05:04:47+00:00",
+        "url": "https://github.com/ReaLLMASIC/pyPPA",
+        "id": 827054090
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1902,
+        "size": 1940,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-20T04:35:44+00:00",
-        "pushed": "2025-01-20T04:35:43+00:00",
+        "updated": "2025-01-21T04:34:46+00:00",
+        "pushed": "2025-01-21T04:34:43+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14318,10 +14318,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 80044,
+        "size": 80530,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-20T03:28:06+00:00",
-        "pushed": "2025-01-20T03:28:04+00:00",
+        "updated": "2025-01-21T03:26:41+00:00",
+        "pushed": "2025-01-21T03:26:37+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

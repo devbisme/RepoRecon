@@ -5343,19 +5343,6 @@
         "id": 766023963
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 9,
-        "forks": 3,
-        "size": 736,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2024-11-14T14:30:14+00:00",
-        "pushed": "2024-11-14T14:30:08+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -5588,5 +5575,57 @@
         "pushed": "2025-01-20T02:29:33+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 9,
+        "forks": 3,
+        "size": 749,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2025-01-20T16:55:12+00:00",
+        "pushed": "2025-01-20T16:55:09+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "SPI-Module",
+        "description": "SPI module implementation in myhdl",
+        "owner": "rainerrodrigues",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2025-01-20T23:18:34+00:00",
+        "updated": "2025-01-21T03:02:45+00:00",
+        "pushed": "2025-01-21T03:02:42+00:00",
+        "url": "https://github.com/rainerrodrigues/SPI-Module",
+        "id": 919739132
+    },
+    {
+        "repo": "MemoryModule",
+        "description": "A synchronous RAM module designed in myhdl",
+        "owner": "rainerrodrigues",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2025-01-20T21:17:30+00:00",
+        "updated": "2025-01-20T22:35:57+00:00",
+        "pushed": "2025-01-20T22:35:54+00:00",
+        "url": "https://github.com/rainerrodrigues/MemoryModule",
+        "id": 919704411
+    },
+    {
+        "repo": "Chip_Design_Roadmap",
+        "description": "Designing an ASIC (Application-Specific Integrated Circuit) is a fascinating journey that transitions from concept and specification to final tape-out. Despite the end product's tiny size (measured in nanometers), the process is complex, involving numerous steps and engineering challenges that make it both rewarding and intriguing.",
+        "owner": "Mathi27",
+        "stars": 2,
+        "forks": 0,
+        "size": 5475,
+        "created": "2025-01-20T18:00:35+00:00",
+        "updated": "2025-01-20T18:42:17+00:00",
+        "pushed": "2025-01-20T18:04:17+00:00",
+        "url": "https://github.com/Mathi27/Chip_Design_Roadmap",
+        "id": 919612371
     }
 ]
