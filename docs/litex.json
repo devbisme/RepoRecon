@@ -13845,19 +13845,6 @@
         "id": 242440835
     },
     {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 25268,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2025-01-11T05:58:29+00:00",
-        "pushed": "2025-01-11T05:58:25+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
         "repo": "pythondata-cpu-picorv32",
         "description": "Python module containing verilog files for picorv32 cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -13908,19 +13895,6 @@
         "pushed": "2025-01-12T15:28:17+00:00",
         "url": "https://github.com/MrAMS/OpenSoC",
         "id": 915125208
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 59,
-        "forks": 22,
-        "size": 77874,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2025-01-13T20:22:40+00:00",
-        "pushed": "2025-01-13T20:23:54+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
     },
     {
         "repo": "pythondata-auto",
@@ -14157,19 +14131,6 @@
         "id": 732706164
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 39,
-        "forks": 16,
-        "size": 51787,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-01-19T20:59:25+00:00",
-        "pushed": "2025-01-19T21:13:04+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -14209,19 +14170,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 926,
-        "forks": 85,
-        "size": 1241,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-21T05:54:51+00:00",
-        "pushed": "2025-01-21T02:22:50+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -14233,19 +14181,6 @@
         "pushed": "2025-01-20T17:47:57+00:00",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1647,
-        "forks": 237,
-        "size": 226914,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-20T20:39:42+00:00",
-        "pushed": "2025-01-20T20:39:37+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "girlvoice-gateware",
@@ -14300,6 +14235,71 @@
         "id": 827054090
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 927,
+        "forks": 85,
+        "size": 1241,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-21T11:56:02+00:00",
+        "pushed": "2025-01-22T02:29:29+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 60,
+        "forks": 22,
+        "size": 77876,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2025-01-19T00:28:02+00:00",
+        "pushed": "2025-01-21T22:54:05+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1649,
+        "forks": 237,
+        "size": 226905,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-21T21:34:53+00:00",
+        "pushed": "2025-01-21T20:50:12+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 39,
+        "forks": 16,
+        "size": 52028,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-01-21T10:12:26+00:00",
+        "pushed": "2025-01-21T10:26:19+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 25545,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2025-01-21T07:49:06+00:00",
+        "pushed": "2025-01-21T07:49:02+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
@@ -14307,8 +14307,8 @@
         "forks": 0,
         "size": 1940,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-21T04:34:46+00:00",
-        "pushed": "2025-01-21T04:34:43+00:00",
+        "updated": "2025-01-22T04:35:06+00:00",
+        "pushed": "2025-01-22T04:35:03+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14318,10 +14318,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 80530,
+        "size": 81037,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-21T03:26:41+00:00",
-        "pushed": "2025-01-21T03:26:37+00:00",
+        "updated": "2025-01-22T03:28:58+00:00",
+        "pushed": "2025-01-22T03:28:54+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
