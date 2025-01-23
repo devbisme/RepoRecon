@@ -13520,19 +13520,6 @@
         "id": 892174121
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 24,
-        "forks": 1,
-        "size": 2492,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2024-12-14T17:50:45+00:00",
-        "pushed": "2025-01-01T00:16:21+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "autoinvoice",
         "description": "Automatic invoicing system with plugins and caching",
         "owner": "str0g",
@@ -13910,19 +13897,6 @@
         "id": 242436296
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 2017,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-14T03:44:49+00:00",
-        "pushed": "2025-01-14T03:44:46+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "pythondata-cpu-openc906",
         "description": "Python module containing verilog files for OpenC906 cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -14157,19 +14131,6 @@
         "id": 906081018
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3125,
-        "forks": 586,
-        "size": 17516,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-01-21T05:29:29+00:00",
-        "pushed": "2025-01-20T09:54:39+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -14181,19 +14142,6 @@
         "pushed": "2025-01-20T17:47:57+00:00",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
-    },
-    {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 48,
-        "forks": 0,
-        "size": 1287,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2025-01-21T03:23:54+00:00",
-        "pushed": "2025-01-21T03:23:49+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
     },
     {
         "repo": "CT-key",
@@ -14235,19 +14183,6 @@
         "id": 827054090
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 927,
-        "forks": 85,
-        "size": 1241,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-21T11:56:02+00:00",
-        "pushed": "2025-01-22T02:29:29+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -14259,32 +14194,6 @@
         "pushed": "2025-01-21T22:54:05+00:00",
         "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
         "id": 464657430
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1649,
-        "forks": 237,
-        "size": 226905,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-21T21:34:53+00:00",
-        "pushed": "2025-01-21T20:50:12+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 39,
-        "forks": 16,
-        "size": 52028,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-01-21T10:12:26+00:00",
-        "pushed": "2025-01-21T10:26:19+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "cram-soc",
@@ -14300,15 +14209,132 @@
         "id": 564480301
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3127,
+        "forks": 587,
+        "size": 17518,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-01-23T05:05:32+00:00",
+        "pushed": "2025-01-22T14:04:19+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 931,
+        "forks": 86,
+        "size": 1251,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-23T07:03:21+00:00",
+        "pushed": "2025-01-23T02:15:44+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1650,
+        "forks": 237,
+        "size": 226934,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-23T01:18:46+00:00",
+        "pushed": "2025-01-22T19:55:50+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 39,
+        "forks": 16,
+        "size": 52046,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-01-22T13:19:13+00:00",
+        "pushed": "2025-01-22T13:32:56+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 2108,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-23T02:51:36+00:00",
+        "pushed": "2025-01-23T02:51:31+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 48,
+        "forks": 0,
+        "size": 1305,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2025-01-22T09:56:17+00:00",
+        "pushed": "2025-01-22T09:56:13+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "Projet_M2_IAR",
+        "description": null,
+        "owner": "natacharvr",
+        "stars": 0,
+        "forks": 0,
+        "size": 63831,
+        "created": "2025-01-20T14:23:06+00:00",
+        "updated": "2025-01-22T16:57:09+00:00",
+        "pushed": "2025-01-22T16:54:36+00:00",
+        "url": "https://github.com/natacharvr/Projet_M2_IAR",
+        "id": 919510797
+    },
+    {
+        "repo": ".github",
+        "description": null,
+        "owner": "AllLiteV",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-01-23T06:51:38+00:00",
+        "updated": "2025-01-23T06:56:45+00:00",
+        "pushed": "2025-01-23T06:56:41+00:00",
+        "url": "https://github.com/AllLiteV/.github",
+        "id": 921006519
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 25,
+        "forks": 1,
+        "size": 2492,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-01-22T23:27:13+00:00",
+        "pushed": "2025-01-23T00:15:01+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1940,
+        "size": 1978,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-22T04:35:06+00:00",
-        "pushed": "2025-01-22T04:35:03+00:00",
+        "updated": "2025-01-23T04:35:01+00:00",
+        "pushed": "2025-01-23T04:34:58+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14318,10 +14344,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 81037,
+        "size": 81531,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-22T03:28:58+00:00",
-        "pushed": "2025-01-22T03:28:54+00:00",
+        "updated": "2025-01-23T03:26:49+00:00",
+        "pushed": "2025-01-23T03:26:45+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
