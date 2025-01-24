@@ -14014,19 +14014,6 @@
         "id": 798146281
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 2,
-        "forks": 1,
-        "size": 38264,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-01-17T00:54:02+00:00",
-        "pushed": "2025-01-17T00:54:00+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -14222,32 +14209,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 931,
-        "forks": 86,
-        "size": 1251,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-23T07:03:21+00:00",
-        "pushed": "2025-01-23T02:15:44+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1650,
-        "forks": 237,
-        "size": 226934,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-23T01:18:46+00:00",
-        "pushed": "2025-01-22T19:55:50+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14259,19 +14220,6 @@
         "pushed": "2025-01-22T13:32:56+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 2108,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-23T02:51:36+00:00",
-        "pushed": "2025-01-23T02:51:31+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "girlvoice-gateware",
@@ -14313,6 +14261,45 @@
         "id": 921006519
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 932,
+        "forks": 86,
+        "size": 1254,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-24T03:43:24+00:00",
+        "pushed": "2025-01-24T02:23:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1650,
+        "forks": 237,
+        "size": 227005,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-23T21:42:03+00:00",
+        "pushed": "2025-01-23T21:41:59+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 2134,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-24T04:09:08+00:00",
+        "pushed": "2025-01-24T04:09:04+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -14321,7 +14308,7 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-01-22T23:27:13+00:00",
-        "pushed": "2025-01-23T00:15:01+00:00",
+        "pushed": "2025-01-24T00:16:06+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -14331,12 +14318,25 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 1978,
+        "size": 2067,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-23T04:35:01+00:00",
-        "pushed": "2025-01-23T04:34:58+00:00",
+        "updated": "2025-01-24T04:35:28+00:00",
+        "pushed": "2025-01-24T04:35:24+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 2,
+        "forks": 1,
+        "size": 39564,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-01-24T01:00:52+00:00",
+        "pushed": "2025-01-24T01:00:48+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14344,10 +14344,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 81531,
+        "size": 82040,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-23T03:26:49+00:00",
-        "pushed": "2025-01-23T03:26:45+00:00",
+        "updated": "2025-01-24T03:27:33+00:00",
+        "pushed": "2025-01-24T03:27:29+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
