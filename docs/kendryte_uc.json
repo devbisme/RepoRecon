@@ -41483,32 +41483,6 @@
         "id": 824530800
     },
     {
-        "repo": "stocklist",
-        "description": null,
-        "owner": "fifteenhex",
-        "stars": 0,
-        "forks": 0,
-        "size": 404,
-        "created": "2020-03-22T03:59:35+00:00",
-        "updated": "2025-01-21T11:12:23+00:00",
-        "pushed": "2025-01-21T11:12:19+00:00",
-        "url": "https://github.com/fifteenhex/stocklist",
-        "id": 249109529
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1381,
-        "forks": 295,
-        "size": 61286,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-01-23T07:08:21+00:00",
-        "pushed": "2025-01-23T07:08:18+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
         "repo": "PQRV",
         "description": null,
         "owner": "Ji-Peng",
@@ -41559,32 +41533,6 @@
         "pushed": "2025-01-22T16:32:05+00:00",
         "url": "https://github.com/MaixHolmes/MaixHolmes",
         "id": 884588946
-    },
-    {
-        "repo": "MaixPy",
-        "description": "This is for learn MaixPy and OpenCV",
-        "owner": "Hyperk1ler",
-        "stars": 1,
-        "forks": 0,
-        "size": 1309,
-        "created": "2025-01-15T14:43:15+00:00",
-        "updated": "2025-01-22T17:28:52+00:00",
-        "pushed": "2025-01-22T17:28:48+00:00",
-        "url": "https://github.com/Hyperk1ler/MaixPy",
-        "id": 917198417
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 8,
-        "forks": 1,
-        "size": 3459,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-01-23T01:55:43+00:00",
-        "pushed": "2025-01-23T01:55:39+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
     },
     {
         "repo": "nncase",
@@ -41717,17 +41665,69 @@
         "id": 859664219
     },
     {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1381,
+        "forks": 295,
+        "size": 61322,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-01-24T09:45:51+00:00",
+        "pushed": "2025-01-24T09:45:46+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "MaixPy",
+        "description": "This is for learn MaixPy and OpenCV",
+        "owner": "Hyperk1ler",
+        "stars": 1,
+        "forks": 0,
+        "size": 1311,
+        "created": "2025-01-15T14:43:15+00:00",
+        "updated": "2025-01-24T16:40:45+00:00",
+        "pushed": "2025-01-24T16:40:42+00:00",
+        "url": "https://github.com/Hyperk1ler/MaixPy",
+        "id": 917198417
+    },
+    {
+        "repo": "stocklist",
+        "description": null,
+        "owner": "fifteenhex",
+        "stars": 0,
+        "forks": 0,
+        "size": 436,
+        "created": "2020-03-22T03:59:35+00:00",
+        "updated": "2025-01-25T04:50:34+00:00",
+        "pushed": "2025-01-25T04:50:31+00:00",
+        "url": "https://github.com/fifteenhex/stocklist",
+        "id": 249109529
+    },
+    {
         "repo": "edge_installer",
         "description": null,
         "owner": "rnus699",
         "stars": 2,
         "forks": 0,
-        "size": 3791,
+        "size": 3816,
         "created": "2024-03-24T09:38:01+00:00",
-        "updated": "2025-01-24T06:13:19+00:00",
-        "pushed": "2025-01-24T06:13:15+00:00",
+        "updated": "2025-01-25T06:11:43+00:00",
+        "pushed": "2025-01-25T06:11:39+00:00",
         "url": "https://github.com/rnus699/edge_installer",
         "id": 776716998
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 8,
+        "forks": 1,
+        "size": 3642,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-01-25T01:50:57+00:00",
+        "pushed": "2025-01-25T01:50:53+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
     },
     {
         "repo": "certified-android-devices",
@@ -41735,10 +41735,10 @@
         "owner": "androidtrackers",
         "stars": 133,
         "forks": 37,
-        "size": 882483,
+        "size": 882489,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-23T12:32:06+00:00",
-        "pushed": "2025-01-23T12:32:01+00:00",
+        "updated": "2025-01-24T12:33:19+00:00",
+        "pushed": "2025-01-24T12:33:15+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41751,7 +41751,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-01-24T02:48:10+00:00",
-        "pushed": "2025-01-24T00:15:32+00:00",
+        "pushed": "2025-01-25T00:14:08+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }
