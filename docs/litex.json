@@ -13273,19 +13273,6 @@
         "id": 906484422
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 947,
-        "forks": 199,
-        "size": 764196,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2024-12-22T05:21:57+00:00",
-        "pushed": "2024-12-22T05:21:54+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "SucreLA",
         "description": "Open source Logic Analyzer based on LiteX SoC",
         "owner": "fallen",
@@ -14131,19 +14118,6 @@
         "id": 921006519
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 2,
-        "forks": 1,
-        "size": 39564,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-01-24T01:00:52+00:00",
-        "pushed": "2025-01-24T01:00:48+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -14170,19 +14144,6 @@
         "id": 800027977
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1650,
-        "forks": 237,
-        "size": 226450,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-24T17:30:59+00:00",
-        "pushed": "2025-01-24T17:32:16+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "LimeSDR_GW",
         "description": "LiteX-based gateware for LimeSDR boards.",
         "owner": "myriadrf",
@@ -14194,32 +14155,6 @@
         "pushed": "2025-01-24T11:37:40+00:00",
         "url": "https://github.com/myriadrf/LimeSDR_GW",
         "id": 787406556
-    },
-    {
-        "repo": "wyrm",
-        "description": "A colorlight 5a-75b-based display using liteX",
-        "owner": "kscz",
-        "stars": 0,
-        "forks": 0,
-        "size": 55,
-        "created": "2025-01-08T06:39:23+00:00",
-        "updated": "2025-01-25T03:17:35+00:00",
-        "pushed": "2025-01-25T03:17:32+00:00",
-        "url": "https://github.com/kscz/wyrm",
-        "id": 913681059
-    },
-    {
-        "repo": "awesome-gatemate",
-        "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
-        "owner": "PythonLinks",
-        "stars": 4,
-        "forks": 0,
-        "size": 9,
-        "created": "2025-01-04T16:56:47+00:00",
-        "updated": "2025-01-24T10:06:08+00:00",
-        "pushed": "2025-01-24T10:06:05+00:00",
-        "url": "https://github.com/PythonLinks/awesome-gatemate",
-        "id": 912120725
     },
     {
         "repo": "VexRiscv",
@@ -14248,19 +14183,6 @@
         "id": 310692215
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 934,
-        "forks": 86,
-        "size": 1254,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-25T20:58:32+00:00",
-        "pushed": "2025-01-26T02:22:54+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -14287,19 +14209,6 @@
         "id": 468027705
     },
     {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 2161,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-26T03:11:21+00:00",
-        "pushed": "2025-01-26T03:11:17+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -14313,6 +14222,84 @@
         "id": 798146281
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 934,
+        "forks": 86,
+        "size": 1254,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-25T20:58:32+00:00",
+        "pushed": "2025-01-27T02:21:55+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 972,
+        "forks": 203,
+        "size": 765915,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-01-27T02:59:43+00:00",
+        "pushed": "2025-01-27T02:59:37+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1650,
+        "forks": 237,
+        "size": 226499,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-26T18:59:00+00:00",
+        "pushed": "2025-01-26T19:00:19+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 2181,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-27T06:19:51+00:00",
+        "pushed": "2025-01-27T06:19:48+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "wyrm",
+        "description": "A colorlight 5a-75b-based display using liteX",
+        "owner": "kscz",
+        "stars": 0,
+        "forks": 0,
+        "size": 59,
+        "created": "2025-01-08T06:39:23+00:00",
+        "updated": "2025-01-27T04:58:37+00:00",
+        "pushed": "2025-01-27T04:58:33+00:00",
+        "url": "https://github.com/kscz/wyrm",
+        "id": 913681059
+    },
+    {
+        "repo": "awesome-gatemate",
+        "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
+        "owner": "PythonLinks",
+        "stars": 4,
+        "forks": 0,
+        "size": 9,
+        "created": "2025-01-04T16:56:47+00:00",
+        "updated": "2025-01-26T14:09:52+00:00",
+        "pushed": "2025-01-26T14:09:49+00:00",
+        "url": "https://github.com/PythonLinks/awesome-gatemate",
+        "id": 912120725
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -14321,7 +14308,7 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-01-22T23:27:13+00:00",
-        "pushed": "2025-01-26T00:16:04+00:00",
+        "pushed": "2025-01-27T00:15:06+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -14333,10 +14320,23 @@
         "forks": 0,
         "size": 2158,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-26T04:34:47+00:00",
-        "pushed": "2025-01-26T04:34:44+00:00",
+        "updated": "2025-01-27T04:35:36+00:00",
+        "pushed": "2025-01-27T04:35:32+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 2,
+        "forks": 1,
+        "size": 40865,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-01-27T01:00:09+00:00",
+        "pushed": "2025-01-27T01:00:06+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14344,10 +14344,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 83056,
+        "size": 83549,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-26T03:11:38+00:00",
-        "pushed": "2025-01-26T03:11:34+00:00",
+        "updated": "2025-01-27T03:12:14+00:00",
+        "pushed": "2025-01-27T03:12:11+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
