@@ -13494,19 +13494,6 @@
         "id": 689836782
     },
     {
-        "repo": "litex-apps",
-        "description": null,
-        "owner": "JesusMuentes",
-        "stars": 0,
-        "forks": 0,
-        "size": 259,
-        "created": "2024-04-30T03:02:36+00:00",
-        "updated": "2025-01-05T23:13:16+00:00",
-        "pushed": "2025-01-05T23:13:12+00:00",
-        "url": "https://github.com/JesusMuentes/litex-apps",
-        "id": 793871326
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -13962,19 +13949,6 @@
         "id": 479118982
     },
     {
-        "repo": "ima-litex-apk-updater",
-        "description": "App Updater",
-        "owner": "aquilasarmiento-ekonek",
-        "stars": 0,
-        "forks": 0,
-        "size": 38551,
-        "created": "2024-12-20T05:59:06+00:00",
-        "updated": "2025-01-20T07:05:11+00:00",
-        "pushed": "2025-01-20T07:05:08+00:00",
-        "url": "https://github.com/aquilasarmiento-ekonek/ima-litex-apk-updater",
-        "id": 906081018
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -14144,19 +14118,6 @@
         "id": 190029235
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1650,
-        "forks": 237,
-        "size": 226499,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-26T18:59:00+00:00",
-        "pushed": "2025-01-26T19:00:19+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "wyrm",
         "description": "A colorlight 5a-75b-based display using liteX",
         "owner": "kscz",
@@ -14196,19 +14157,6 @@
         "id": 330793471
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3132,
-        "forks": 587,
-        "size": 17543,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-01-27T22:33:40+00:00",
-        "pushed": "2025-01-27T07:54:37+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -14222,19 +14170,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 934,
-        "forks": 86,
-        "size": 1254,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-25T20:58:32+00:00",
-        "pushed": "2025-01-28T02:17:52+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -14246,19 +14181,6 @@
         "pushed": "2025-01-27T10:08:38+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 40,
-        "forks": 16,
-        "size": 54500,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-01-27T15:00:25+00:00",
-        "pushed": "2025-01-27T15:15:18+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "tslitex",
@@ -14313,17 +14235,82 @@
         "id": 922969376
     },
     {
-        "repo": "CVA6-RT",
-        "description": "container project with scripts to setup CVA6 with RealTime optimisations",
-        "owner": "Dri99",
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3133,
+        "forks": 588,
+        "size": 17546,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-01-28T15:50:10+00:00",
+        "pushed": "2025-01-28T13:52:51+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 936,
+        "forks": 86,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-28T21:25:30+00:00",
+        "pushed": "2025-01-29T02:21:54+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1652,
+        "forks": 237,
+        "size": 226635,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-28T20:49:14+00:00",
+        "pushed": "2025-01-28T20:53:53+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 40,
+        "forks": 16,
+        "size": 54957,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-01-28T09:46:28+00:00",
+        "pushed": "2025-01-28T10:00:58+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "litex-apps",
+        "description": null,
+        "owner": "jesusmuentes",
         "stars": 0,
         "forks": 0,
-        "size": 1,
-        "created": "2025-01-27T13:31:02+00:00",
-        "updated": "2025-01-27T16:37:32+00:00",
-        "pushed": "2025-01-27T16:37:29+00:00",
-        "url": "https://github.com/Dri99/CVA6-RT",
-        "id": 923002487
+        "size": 262,
+        "created": "2024-04-30T03:02:36+00:00",
+        "updated": "2025-01-28T17:39:28+00:00",
+        "pushed": "2025-01-28T17:39:24+00:00",
+        "url": "https://github.com/jesusmuentes/litex-apps",
+        "id": 793871326
+    },
+    {
+        "repo": "ima-litex-apk-updater",
+        "description": "App Updater",
+        "owner": "aquilasarmiento-ekonek",
+        "stars": 0,
+        "forks": 0,
+        "size": 19956,
+        "created": "2024-12-20T05:59:06+00:00",
+        "updated": "2025-01-28T10:59:43+00:00",
+        "pushed": "2025-01-28T10:59:38+00:00",
+        "url": "https://github.com/aquilasarmiento-ekonek/ima-litex-apk-updater",
+        "id": 906081018
     },
     {
         "repo": "fpga-useful-list",
@@ -14331,10 +14318,10 @@
         "owner": "RDSik",
         "stars": 2,
         "forks": 0,
-        "size": 176,
+        "size": 183,
         "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-01-27T20:04:56+00:00",
-        "pushed": "2025-01-27T20:04:52+00:00",
+        "updated": "2025-01-28T20:58:57+00:00",
+        "pushed": "2025-01-28T20:58:53+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
     },
@@ -14347,9 +14334,22 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-01-22T23:27:13+00:00",
-        "pushed": "2025-01-28T00:15:29+00:00",
+        "pushed": "2025-01-29T00:15:12+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
+    },
+    {
+        "repo": "CVA6-RT",
+        "description": "container project with scripts to setup CVA6 with RealTime optimisations",
+        "owner": "Dri99",
+        "stars": 0,
+        "forks": 0,
+        "size": 4,
+        "created": "2025-01-27T13:31:02+00:00",
+        "updated": "2025-01-28T11:47:06+00:00",
+        "pushed": "2025-01-28T11:47:03+00:00",
+        "url": "https://github.com/Dri99/CVA6-RT",
+        "id": 923002487
     },
     {
         "repo": "starred",
@@ -14357,10 +14357,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2248,
+        "size": 2249,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-28T04:35:33+00:00",
-        "pushed": "2025-01-28T04:35:30+00:00",
+        "updated": "2025-01-29T04:34:44+00:00",
+        "pushed": "2025-01-29T04:34:41+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14368,12 +14368,12 @@
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
-        "stars": 11,
+        "stars": 12,
         "forks": 3,
-        "size": 84045,
+        "size": 84542,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-28T03:11:10+00:00",
-        "pushed": "2025-01-28T03:11:05+00:00",
+        "updated": "2025-01-29T03:11:08+00:00",
+        "pushed": "2025-01-29T03:11:04+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
