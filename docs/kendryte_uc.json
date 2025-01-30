@@ -36179,19 +36179,6 @@
         "id": 809251132
     },
     {
-        "repo": "TinyMaix",
-        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
-        "owner": "sipeed",
-        "stars": 838,
-        "forks": 136,
-        "size": 42895,
-        "created": "2022-08-08T17:19:54+00:00",
-        "updated": "2024-06-03T13:50:58+00:00",
-        "pushed": "2024-06-03T13:50:54+00:00",
-        "url": "https://github.com/sipeed/TinyMaix",
-        "id": 522642478
-    },
-    {
         "repo": "sdk-rt-thread-source-code",
         "description": null,
         "owner": "RT-Thread-Studio",
@@ -40235,19 +40222,6 @@
         "id": 879721594
     },
     {
-        "repo": "kendryte_boot",
-        "description": "Boot Canaan Kendryte SoCs via USB loader",
-        "owner": "orangecms",
-        "stars": 3,
-        "forks": 0,
-        "size": 15,
-        "created": "2024-12-15T23:53:36+00:00",
-        "updated": "2024-12-16T04:18:58+00:00",
-        "pushed": "2024-12-15T23:54:21+00:00",
-        "url": "https://github.com/orangecms/kendryte_boot",
-        "id": 903941334
-    },
-    {
         "repo": "WangMaixin",
         "description": "from WangMaixin",
         "owner": "WangMaixin",
@@ -41600,19 +41574,6 @@
         "id": 840056339
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10762,
-        "forks": 5075,
-        "size": 891535,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-01-27T05:53:46+00:00",
-        "pushed": "2025-01-27T06:32:21+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -41691,19 +41652,6 @@
         "id": 776716998
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 8,
-        "forks": 1,
-        "size": 3713,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-01-27T01:56:53+00:00",
-        "pushed": "2025-01-27T01:56:50+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
         "repo": "flippy-openwrt-actions",
         "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
         "owner": "ophub",
@@ -41769,15 +41717,80 @@
         "id": 884588946
     },
     {
+        "repo": "TinyMaix",
+        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
+        "owner": "sipeed",
+        "stars": 939,
+        "forks": 146,
+        "size": 42934,
+        "created": "2022-08-08T17:19:54+00:00",
+        "updated": "2025-01-29T12:11:58+00:00",
+        "pushed": "2025-01-29T12:11:53+00:00",
+        "url": "https://github.com/sipeed/TinyMaix",
+        "id": 522642478
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10767,
+        "forks": 5073,
+        "size": 892283,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-01-30T05:42:14+00:00",
+        "pushed": "2025-01-30T01:56:23+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "kendryte_boot",
+        "description": "Boot Canaan Kendryte SoCs via USB loader",
+        "owner": "orangecms",
+        "stars": 3,
+        "forks": 0,
+        "size": 16,
+        "created": "2024-12-15T23:53:36+00:00",
+        "updated": "2025-01-29T20:03:39+00:00",
+        "pushed": "2025-01-29T20:03:36+00:00",
+        "url": "https://github.com/orangecms/kendryte_boot",
+        "id": 903941334
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "Temp",
+        "owner": "usfind",
+        "stars": 0,
+        "forks": 0,
+        "size": 26,
+        "created": "2024-01-16T09:15:09+00:00",
+        "updated": "2025-01-29T17:10:34+00:00",
+        "pushed": "2025-01-29T17:10:30+00:00",
+        "url": "https://github.com/usfind/flippy-openwrt-actions",
+        "id": 743920049
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 8,
+        "forks": 1,
+        "size": 3897,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-01-30T01:53:46+00:00",
+        "pushed": "2025-01-30T01:53:42+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 133,
         "forks": 37,
-        "size": 885478,
+        "size": 885479,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-28T12:30:55+00:00",
-        "pushed": "2025-01-28T12:30:51+00:00",
+        "updated": "2025-01-29T12:30:40+00:00",
+        "pushed": "2025-01-29T12:30:37+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41790,7 +41803,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-01-24T02:48:10+00:00",
-        "pushed": "2025-01-29T00:15:01+00:00",
+        "pushed": "2025-01-30T00:16:40+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     }

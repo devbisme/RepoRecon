@@ -13169,19 +13169,6 @@
         "id": 650913012
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1463,
-        "forks": 193,
-        "size": 12938,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2024-12-18T12:48:48+00:00",
-        "pushed": "2024-12-18T12:48:43+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "AAML_Group2",
         "description": null,
         "owner": "Yukimura0119",
@@ -13414,19 +13401,6 @@
         "pushed": "2024-12-28T15:54:49+00:00",
         "url": "https://github.com/EEVengers/thunderscope_litex",
         "id": 786797602
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1437,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2024-12-30T23:34:01+00:00",
-        "pushed": "2024-12-30T23:33:57+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
     },
     {
         "repo": "LiteXDR",
@@ -13910,19 +13884,6 @@
         "id": 916535229
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 8,
-        "forks": 5,
-        "size": 392,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-01-11T23:54:41+00:00",
-        "pushed": "2025-01-19T05:33:39+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "litepcie_driver_win",
         "description": "Windows Driver for the LitePCIe LiteX core",
         "owner": "NateMeyer",
@@ -13973,19 +13934,6 @@
         "pushed": "2025-01-20T19:45:08+00:00",
         "url": "https://github.com/Assured/CT-key",
         "id": 913784813
-    },
-    {
-        "repo": "pyPPA",
-        "description": null,
-        "owner": "ReaLLMASIC",
-        "stars": 1,
-        "forks": 0,
-        "size": 8530,
-        "created": "2024-07-10T23:48:14+00:00",
-        "updated": "2025-01-04T02:10:05+00:00",
-        "pushed": "2025-01-21T05:04:47+00:00",
-        "url": "https://github.com/ReaLLMASIC/pyPPA",
-        "id": 827054090
     },
     {
         "repo": "LiteX-CNC",
@@ -14157,19 +14105,6 @@
         "id": 330793471
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 385,
-        "forks": 297,
-        "size": 4340,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-01-27T07:50:48+00:00",
-        "pushed": "2025-01-27T07:50:44+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -14181,19 +14116,6 @@
         "pushed": "2025-01-27T10:08:38+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 2206,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-28T03:02:02+00:00",
-        "pushed": "2025-01-28T03:01:57+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "girlvoice-gateware",
@@ -14246,19 +14168,6 @@
         "pushed": "2025-01-28T13:52:51+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 936,
-        "forks": 86,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-28T21:25:30+00:00",
-        "pushed": "2025-01-29T02:21:54+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "neorv32",
@@ -14326,6 +14235,110 @@
         "id": 777943094
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 386,
+        "forks": 297,
+        "size": 4351,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-01-30T00:04:31+00:00",
+        "pushed": "2025-01-29T18:11:23+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 937,
+        "forks": 86,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-29T15:13:57+00:00",
+        "pushed": "2025-01-30T02:21:18+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1474,
+        "forks": 196,
+        "size": 12945,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2025-01-29T21:27:14+00:00",
+        "pushed": "2025-01-29T21:27:09+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 2225,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-30T03:53:39+00:00",
+        "pushed": "2025-01-30T03:53:34+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 8,
+        "forks": 5,
+        "size": 391,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-01-11T23:54:41+00:00",
+        "pushed": "2025-01-30T04:35:16+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1444,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2025-01-29T16:28:37+00:00",
+        "pushed": "2025-01-29T16:28:33+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": ".github",
+        "description": null,
+        "owner": "ProjectAllLite",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2025-01-29T19:29:18+00:00",
+        "updated": "2025-01-29T19:33:53+00:00",
+        "pushed": "2025-01-29T19:33:50+00:00",
+        "url": "https://github.com/ProjectAllLite/.github",
+        "id": 924313417
+    },
+    {
+        "repo": "pyPPA",
+        "description": null,
+        "owner": "ReaLLMASIC",
+        "stars": 1,
+        "forks": 0,
+        "size": 8536,
+        "created": "2024-07-10T23:48:14+00:00",
+        "updated": "2025-01-04T02:10:05+00:00",
+        "pushed": "2025-01-29T22:31:59+00:00",
+        "url": "https://github.com/ReaLLMASIC/pyPPA",
+        "id": 827054090
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -14334,7 +14347,7 @@
         "size": 2492,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-01-22T23:27:13+00:00",
-        "pushed": "2025-01-29T00:15:12+00:00",
+        "pushed": "2025-01-30T00:15:34+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -14344,10 +14357,10 @@
         "owner": "Dri99",
         "stars": 0,
         "forks": 0,
-        "size": 4,
+        "size": 10,
         "created": "2025-01-27T13:31:02+00:00",
-        "updated": "2025-01-28T11:47:06+00:00",
-        "pushed": "2025-01-28T11:47:03+00:00",
+        "updated": "2025-01-29T16:37:51+00:00",
+        "pushed": "2025-01-29T16:37:47+00:00",
         "url": "https://github.com/Dri99/CVA6-RT",
         "id": 923002487
     },
@@ -14357,10 +14370,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2249,
+        "size": 2250,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-29T04:34:44+00:00",
-        "pushed": "2025-01-29T04:34:41+00:00",
+        "updated": "2025-01-30T04:35:36+00:00",
+        "pushed": "2025-01-30T04:35:32+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14370,10 +14383,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 3,
-        "size": 84542,
+        "size": 85049,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-29T03:11:08+00:00",
-        "pushed": "2025-01-29T03:11:04+00:00",
+        "updated": "2025-01-30T03:10:20+00:00",
+        "pushed": "2025-01-30T03:10:16+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
