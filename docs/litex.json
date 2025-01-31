@@ -14170,19 +14170,6 @@
         "id": 45734719
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1652,
-        "forks": 237,
-        "size": 226635,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-01-28T20:49:14+00:00",
-        "pushed": "2025-01-28T20:53:53+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14248,19 +14235,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 937,
-        "forks": 86,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-01-29T15:13:57+00:00",
-        "pushed": "2025-01-30T02:21:18+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -14272,32 +14246,6 @@
         "pushed": "2025-01-29T21:27:09+00:00",
         "url": "https://github.com/olofk/serv",
         "id": 155514739
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 2225,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-01-30T03:53:39+00:00",
-        "pushed": "2025-01-30T03:53:34+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
-    },
-    {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 8,
-        "forks": 5,
-        "size": 391,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-01-11T23:54:41+00:00",
-        "pushed": "2025-01-30T04:35:16+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
     },
     {
         "repo": "ork.build",
@@ -14339,15 +14287,67 @@
         "id": 827054090
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 938,
+        "forks": 86,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-01-30T15:23:18+00:00",
+        "pushed": "2025-01-31T02:22:41+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1653,
+        "forks": 237,
+        "size": 226636,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-01-30T20:06:28+00:00",
+        "pushed": "2025-01-30T20:06:21+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 2237,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-01-31T02:12:40+00:00",
+        "pushed": "2025-01-31T02:12:37+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 8,
+        "forks": 5,
+        "size": 391,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-01-11T23:54:41+00:00",
+        "pushed": "2025-01-31T06:18:20+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
-        "stars": 25,
+        "stars": 26,
         "forks": 1,
-        "size": 2492,
+        "size": 2496,
         "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-01-22T23:27:13+00:00",
-        "pushed": "2025-01-30T00:15:34+00:00",
+        "updated": "2025-01-31T00:40:15+00:00",
+        "pushed": "2025-01-31T00:40:12+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -14360,7 +14360,7 @@
         "size": 10,
         "created": "2025-01-27T13:31:02+00:00",
         "updated": "2025-01-29T16:37:51+00:00",
-        "pushed": "2025-01-29T16:37:47+00:00",
+        "pushed": "2025-01-30T15:13:09+00:00",
         "url": "https://github.com/Dri99/CVA6-RT",
         "id": 923002487
     },
@@ -14370,10 +14370,10 @@
         "owner": "pbsds",
         "stars": 4,
         "forks": 0,
-        "size": 2250,
+        "size": 2251,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-01-30T04:35:36+00:00",
-        "pushed": "2025-01-30T04:35:32+00:00",
+        "updated": "2025-01-31T04:35:10+00:00",
+        "pushed": "2025-01-31T04:35:06+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14383,10 +14383,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 3,
-        "size": 85049,
+        "size": 85533,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-01-30T03:10:20+00:00",
-        "pushed": "2025-01-30T03:10:16+00:00",
+        "updated": "2025-01-31T03:10:46+00:00",
+        "pushed": "2025-01-31T03:10:42+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
