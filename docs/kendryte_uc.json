@@ -41431,19 +41431,6 @@
         "id": 859664219
     },
     {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1381,
-        "forks": 295,
-        "size": 61338,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-01-26T07:19:44+00:00",
-        "pushed": "2025-01-26T07:19:40+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
         "repo": "OS",
         "description": "lab for Operating System in PKU",
         "owner": "Aki-yzh",
@@ -41691,19 +41678,6 @@
         "id": 923663108
     },
     {
-        "repo": "MaixHolmes",
-        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
-        "owner": "MaixHolmes",
-        "stars": 0,
-        "forks": 0,
-        "size": 20,
-        "created": "2024-11-07T02:54:02+00:00",
-        "updated": "2025-01-28T16:32:08+00:00",
-        "pushed": "2025-01-28T16:32:04+00:00",
-        "url": "https://github.com/MaixHolmes/MaixHolmes",
-        "id": 884588946
-    },
-    {
         "repo": "TinyMaix",
         "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
         "owner": "sipeed",
@@ -41715,32 +41689,6 @@
         "pushed": "2025-01-29T12:11:53+00:00",
         "url": "https://github.com/sipeed/TinyMaix",
         "id": 522642478
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10767,
-        "forks": 5073,
-        "size": 892283,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-01-30T05:42:14+00:00",
-        "pushed": "2025-01-30T01:56:23+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "kendryte_boot",
-        "description": "Boot Canaan Kendryte SoCs via USB loader",
-        "owner": "orangecms",
-        "stars": 3,
-        "forks": 0,
-        "size": 16,
-        "created": "2024-12-15T23:53:36+00:00",
-        "updated": "2025-01-29T20:03:39+00:00",
-        "pushed": "2025-01-29T20:03:36+00:00",
-        "url": "https://github.com/orangecms/kendryte_boot",
-        "id": 903941334
     },
     {
         "repo": "flippy-openwrt-actions",
@@ -41782,15 +41730,41 @@
         "id": 840056339
     },
     {
+        "repo": "kendryte_boot",
+        "description": "Boot Canaan Kendryte SoCs via USB loader",
+        "owner": "orangecms",
+        "stars": 3,
+        "forks": 0,
+        "size": 17,
+        "created": "2024-12-15T23:53:36+00:00",
+        "updated": "2025-01-31T15:22:29+00:00",
+        "pushed": "2025-01-31T15:22:26+00:00",
+        "url": "https://github.com/orangecms/kendryte_boot",
+        "id": 903941334
+    },
+    {
+        "repo": "MaixHolmes",
+        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
+        "owner": "MaixHolmes",
+        "stars": 0,
+        "forks": 0,
+        "size": 21,
+        "created": "2024-11-07T02:54:02+00:00",
+        "updated": "2025-01-31T16:32:07+00:00",
+        "pushed": "2025-01-31T16:32:04+00:00",
+        "url": "https://github.com/MaixHolmes/MaixHolmes",
+        "id": 884588946
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 133,
         "forks": 37,
-        "size": 885954,
+        "size": 888464,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-30T12:30:58+00:00",
-        "pushed": "2025-01-30T12:30:55+00:00",
+        "updated": "2025-01-31T12:30:31+00:00",
+        "pushed": "2025-01-31T12:30:27+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -41803,8 +41777,34 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-01-24T02:48:10+00:00",
-        "pushed": "2025-01-31T00:14:58+00:00",
+        "pushed": "2025-02-01T00:16:58+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1385,
+        "forks": 297,
+        "size": 61345,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-02-01T06:45:18+00:00",
+        "pushed": "2025-02-01T06:45:14+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10769,
+        "forks": 5076,
+        "size": 892011,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-02-01T04:39:35+00:00",
+        "pushed": "2025-02-01T04:39:40+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
     }
 ]
