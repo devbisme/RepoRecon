@@ -37323,19 +37323,6 @@
         "id": 829097881
     },
     {
-        "repo": "24-NUEDC-E",
-        "description": "\u5e94B\u7ad9\u7f51\u53cb\u9700\u6c42\uff0c\u5c06\u6b64\u6b212024\u7535\u8d5bE\u9898\u4e0a\u4e0b\u4f4d\u673a\u4ee3\u7801\u5f00\u6e90\uff0c\u5171\u540c\u4ea4\u6d41\u8fdb\u6b65",
-        "owner": "0Leeeezy0",
-        "stars": 1,
-        "forks": 0,
-        "size": 21064,
-        "created": "2024-08-02T03:37:26+00:00",
-        "updated": "2024-08-02T03:52:55+00:00",
-        "pushed": "2024-08-02T03:46:10+00:00",
-        "url": "https://github.com/0Leeeezy0/24-NUEDC-E",
-        "id": 837018693
-    },
-    {
         "repo": "Lvgl_MicroPython_Test",
         "description": null,
         "owner": "RMaixtr",
@@ -41470,19 +41457,6 @@
         "id": 580041108
     },
     {
-        "repo": "awesome-ai-tools",
-        "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated January 2025",
-        "owner": "eudk",
-        "stars": 69,
-        "forks": 18,
-        "size": 66,
-        "created": "2023-12-22T20:37:48+00:00",
-        "updated": "2025-01-25T20:49:18+00:00",
-        "pushed": "2025-01-25T20:49:15+00:00",
-        "url": "https://github.com/eudk/awesome-ai-tools",
-        "id": 734858218
-    },
-    {
         "repo": "rofi",
         "description": null,
         "owner": "maix-flake",
@@ -41626,19 +41600,6 @@
         "id": 776716998
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 207,
-        "forks": 170,
-        "size": 239,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-01-27T08:10:45+00:00",
-        "pushed": "2025-01-27T08:10:41+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
@@ -41704,32 +41665,6 @@
         "id": 743920049
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 8,
-        "forks": 1,
-        "size": 3897,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-01-30T01:53:46+00:00",
-        "pushed": "2025-01-30T01:53:42+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 37,
-        "forks": 7,
-        "size": 51336,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-01-31T03:19:29+00:00",
-        "pushed": "2025-01-31T04:43:37+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "kendryte_boot",
         "description": "Boot Canaan Kendryte SoCs via USB loader",
         "owner": "orangecms",
@@ -41754,19 +41689,6 @@
         "pushed": "2025-01-31T16:32:04+00:00",
         "url": "https://github.com/MaixHolmes/MaixHolmes",
         "id": 884588946
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 133,
-        "forks": 37,
-        "size": 888464,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-01-31T12:30:31+00:00",
-        "pushed": "2025-01-31T12:30:27+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
     },
     {
         "repo": "nuttx-ox64",
@@ -41806,5 +41728,96 @@
         "pushed": "2025-02-01T04:39:40+00:00",
         "url": "https://github.com/RT-Thread/rt-thread",
         "id": 7408108
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 208,
+        "forks": 171,
+        "size": 239,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-02-02T03:55:33+00:00",
+        "pushed": "2025-02-01T07:34:17+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 37,
+        "forks": 7,
+        "size": 51352,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-02-02T00:11:32+00:00",
+        "pushed": "2025-02-02T00:16:49+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "awesome-ai-tools",
+        "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated January 2025",
+        "owner": "eudk",
+        "stars": 73,
+        "forks": 18,
+        "size": 99,
+        "created": "2023-12-22T20:37:48+00:00",
+        "updated": "2025-02-02T00:45:14+00:00",
+        "pushed": "2025-02-01T13:16:28+00:00",
+        "url": "https://github.com/eudk/awesome-ai-tools",
+        "id": 734858218
+    },
+    {
+        "repo": "24-NUEDC-E",
+        "description": "\u5e94B\u7ad9\u7f51\u53cb\u9700\u6c42\uff0c\u5c06\u6b64\u6b212024\u7535\u8d5bE\u9898\u4e0a\u4e0b\u4f4d\u673a\u4ee3\u7801\u5f00\u6e90\uff0c\u5171\u540c\u4ea4\u6d41\u8fdb\u6b65",
+        "owner": "0Leeeezy0",
+        "stars": 8,
+        "forks": 0,
+        "size": 21067,
+        "created": "2024-08-02T03:37:26+00:00",
+        "updated": "2025-02-01T10:41:40+00:00",
+        "pushed": "2025-02-01T10:41:32+00:00",
+        "url": "https://github.com/0Leeeezy0/24-NUEDC-E",
+        "id": 837018693
+    },
+    {
+        "repo": "Facial-Recognition-Robot-Car",
+        "description": "SJTU ICE3505 Science and Technology Innovation (Part 4-A) project, based on MaixPy, Maixduino-K210.",
+        "owner": "willwang02",
+        "stars": 0,
+        "forks": 0,
+        "size": 40504,
+        "created": "2025-02-01T22:23:19+00:00",
+        "updated": "2025-02-01T22:58:13+00:00",
+        "pushed": "2025-02-01T22:31:05+00:00",
+        "url": "https://github.com/willwang02/Facial-Recognition-Robot-Car",
+        "id": 925850371
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 8,
+        "forks": 1,
+        "size": 4081,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-02-02T01:59:29+00:00",
+        "pushed": "2025-02-02T01:59:25+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 133,
+        "forks": 37,
+        "size": 888466,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2025-02-01T12:27:44+00:00",
+        "pushed": "2025-02-01T12:27:40+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]
