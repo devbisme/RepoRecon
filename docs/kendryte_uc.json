@@ -41626,19 +41626,6 @@
         "id": 923663108
     },
     {
-        "repo": "TinyMaix",
-        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
-        "owner": "sipeed",
-        "stars": 939,
-        "forks": 146,
-        "size": 42934,
-        "created": "2022-08-08T17:19:54+00:00",
-        "updated": "2025-01-29T12:11:58+00:00",
-        "pushed": "2025-01-29T12:11:53+00:00",
-        "url": "https://github.com/sipeed/TinyMaix",
-        "id": 522642478
-    },
-    {
         "repo": "flippy-openwrt-actions",
         "description": "Temp",
         "owner": "usfind",
@@ -41650,19 +41637,6 @@
         "pushed": "2025-01-29T17:10:30+00:00",
         "url": "https://github.com/usfind/flippy-openwrt-actions",
         "id": 743920049
-    },
-    {
-        "repo": "kendryte_boot",
-        "description": "Boot Canaan Kendryte SoCs via USB loader",
-        "owner": "orangecms",
-        "stars": 3,
-        "forks": 0,
-        "size": 17,
-        "created": "2024-12-15T23:53:36+00:00",
-        "updated": "2025-01-31T15:22:29+00:00",
-        "pushed": "2025-01-31T15:22:26+00:00",
-        "url": "https://github.com/orangecms/kendryte_boot",
-        "id": 903941334
     },
     {
         "repo": "nuttx-ox64",
@@ -41821,15 +41795,67 @@
         "id": 884588946
     },
     {
+        "repo": "TinyMaix",
+        "description": "TinyMaix is a tiny inference library for microcontrollers (TinyML).",
+        "owner": "sipeed",
+        "stars": 937,
+        "forks": 147,
+        "size": 42936,
+        "created": "2022-08-08T17:19:54+00:00",
+        "updated": "2025-02-05T01:57:34+00:00",
+        "pushed": "2025-02-05T01:57:29+00:00",
+        "url": "https://github.com/sipeed/TinyMaix",
+        "id": 522642478
+    },
+    {
+        "repo": "kendryte_boot",
+        "description": "Boot Canaan Kendryte SoCs via USB loader",
+        "owner": "orangecms",
+        "stars": 3,
+        "forks": 0,
+        "size": 19,
+        "created": "2024-12-15T23:53:36+00:00",
+        "updated": "2025-02-04T17:20:01+00:00",
+        "pushed": "2025-02-04T17:19:58+00:00",
+        "url": "https://github.com/orangecms/kendryte_boot",
+        "id": 903941334
+    },
+    {
+        "repo": "K210",
+        "description": "\u7528\u6765\u5b66\u4e60\u5236\u4f5c\u5de5\u521b\u5c0f\u8f66\u7684\u5185\u5bb9",
+        "owner": "miaomiao-r1",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-02-04T12:14:31+00:00",
+        "updated": "2025-02-04T12:14:32+00:00",
+        "pushed": "2025-02-04T12:14:32+00:00",
+        "url": "https://github.com/miaomiao-r1/K210",
+        "id": 927104571
+    },
+    {
+        "repo": "Object-Recognition-using-huskylens",
+        "description": null,
+        "owner": "Renad-Alshaik",
+        "stars": 0,
+        "forks": 0,
+        "size": 808,
+        "created": "2025-02-03T20:12:48+00:00",
+        "updated": "2025-02-04T11:40:36+00:00",
+        "pushed": "2025-02-04T11:40:33+00:00",
+        "url": "https://github.com/Renad-Alshaik/Object-Recognition-using-huskylens",
+        "id": 926760668
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 8,
         "forks": 1,
-        "size": 4154,
+        "size": 4338,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-02-04T01:55:09+00:00",
-        "pushed": "2025-02-04T01:55:06+00:00",
+        "updated": "2025-02-05T01:56:51+00:00",
+        "pushed": "2025-02-05T01:56:48+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -41839,10 +41865,10 @@
         "owner": "androidtrackers",
         "stars": 133,
         "forks": 37,
-        "size": 895781,
+        "size": 895782,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-02-03T12:31:15+00:00",
-        "pushed": "2025-02-03T12:31:11+00:00",
+        "updated": "2025-02-04T12:31:31+00:00",
+        "pushed": "2025-02-04T12:31:27+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

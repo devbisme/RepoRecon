@@ -13910,19 +13910,6 @@
         "id": 913784813
     },
     {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 60,
-        "forks": 22,
-        "size": 77876,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2025-01-19T00:28:02+00:00",
-        "pushed": "2025-01-21T22:54:05+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -14014,19 +14001,6 @@
         "id": 413357087
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 48,
-        "forks": 5,
-        "size": 151828,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-01-26T00:23:16+00:00",
-        "pushed": "2025-01-26T00:23:12+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -14116,19 +14090,6 @@
         "pushed": "2025-01-27T12:21:24+00:00",
         "url": "https://github.com/kuznia-rdzeni/linux-on-litex-coreblocks",
         "id": 922969376
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 40,
-        "forks": 16,
-        "size": 54957,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-01-28T09:46:28+00:00",
-        "pushed": "2025-01-28T10:00:58+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "litex-apps",
@@ -14300,19 +14261,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 941,
-        "forks": 85,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-02-03T20:59:50+00:00",
-        "pushed": "2025-02-04T02:18:47+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litescope",
         "description": "Small footprint and configurable embedded FPGA logic analyzer",
         "owner": "enjoy-digital",
@@ -14337,19 +14285,6 @@
         "pushed": "2025-02-04T06:51:31+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "tslitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 54,
-        "forks": 0,
-        "size": 2288,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-02-04T06:51:19+00:00",
-        "pushed": "2025-02-04T06:51:15+00:00",
-        "url": "https://github.com/litexlang/tslitex",
-        "id": 888329277
     },
     {
         "repo": "SPDM-Hardware-Implementation",
@@ -14404,15 +14339,80 @@
         "id": 917668053
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 940,
+        "forks": 85,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-02-04T13:09:19+00:00",
+        "pushed": "2025-02-05T02:27:14+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 60,
+        "forks": 22,
+        "size": 77914,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2025-02-04T20:54:24+00:00",
+        "pushed": "2025-02-04T22:07:15+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 40,
+        "forks": 16,
+        "size": 55366,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-02-04T17:29:57+00:00",
+        "pushed": "2025-02-04T17:44:23+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "tslitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 54,
+        "forks": 0,
+        "size": 2327,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-02-05T06:46:01+00:00",
+        "pushed": "2025-02-05T06:45:58+00:00",
+        "url": "https://github.com/litexlang/tslitex",
+        "id": 888329277
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 51,
+        "forks": 5,
+        "size": 151971,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-02-04T21:43:32+00:00",
+        "pushed": "2025-02-04T21:43:28+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 5,
         "forks": 0,
-        "size": 2380,
+        "size": 2418,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-02-04T04:35:15+00:00",
-        "pushed": "2025-02-04T04:35:12+00:00",
+        "updated": "2025-02-05T04:35:32+00:00",
+        "pushed": "2025-02-05T04:35:29+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14422,10 +14422,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 87526,
+        "size": 88036,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-02-04T03:11:28+00:00",
-        "pushed": "2025-02-04T03:11:25+00:00",
+        "updated": "2025-02-05T03:12:58+00:00",
+        "pushed": "2025-02-05T03:12:55+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
