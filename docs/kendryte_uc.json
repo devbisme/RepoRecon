@@ -40430,19 +40430,6 @@
         "id": 908417588
     },
     {
-        "repo": "k230_rtsmart_examples",
-        "description": "k230 cpp examples",
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 0,
-        "size": 12005,
-        "created": "2024-11-26T02:01:31+00:00",
-        "updated": "2024-12-26T09:54:53+00:00",
-        "pushed": "2024-12-26T09:54:49+00:00",
-        "url": "https://github.com/canmv-k230/k230_rtsmart_examples",
-        "id": 894236258
-    },
-    {
         "repo": "Self-balancing-robot-car",
         "description": "STM32 Self-balancing Robot Car(Load:4KG)",
         "owner": "YahboomTechnology",
@@ -41197,19 +41184,6 @@
         "id": 244118295
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 21,
-        "forks": 17,
-        "size": 49040,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-01-22T00:40:57+00:00",
-        "pushed": "2025-01-22T00:40:43+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "muriscv-nn",
         "description": "muRISCV-NN is a collection of efficient deep learning kernels for embedded platforms and microcontrollers.",
         "owner": "tum-ei-eda",
@@ -41299,32 +41273,6 @@
         "pushed": "2025-01-23T04:34:33+00:00",
         "url": "https://github.com/EmbeddedKC/RustEKC",
         "id": 920928086
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 758,
-        "forks": 185,
-        "size": 59876,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-01-16T10:27:35+00:00",
-        "pushed": "2025-01-24T04:03:53+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 228,
-        "forks": 47,
-        "size": 63631,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-01-24T01:19:40+00:00",
-        "pushed": "2025-01-24T06:25:34+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "MaixCDK",
@@ -41535,19 +41483,6 @@
         "id": 205409848
     },
     {
-        "repo": "slides",
-        "description": "All public report slides, articles and meeting minutes related to RustSBI",
-        "owner": "rustsbi",
-        "stars": 28,
-        "forks": 12,
-        "size": 37659,
-        "created": "2021-12-18T08:01:27+00:00",
-        "updated": "2025-01-26T15:20:30+00:00",
-        "pushed": "2025-01-26T15:20:26+00:00",
-        "url": "https://github.com/rustsbi/slides",
-        "id": 439560352
-    },
-    {
         "repo": "llm-embedded",
         "description": "Running LlaMa2 on embedded systems (ESP32, K210, ARM).",
         "owner": "wuhanstudio",
@@ -41650,19 +41585,6 @@
         "pushed": "2025-02-01T00:16:58+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1385,
-        "forks": 297,
-        "size": 61345,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-02-01T06:45:18+00:00",
-        "pushed": "2025-02-01T06:45:14+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
     },
     {
         "repo": "flippy-openwrt-actions",
@@ -41769,19 +41691,6 @@
         "id": 558589102
     },
     {
-        "repo": "sbitest",
-        "description": null,
-        "owner": "orangecms",
-        "stars": 1,
-        "forks": 1,
-        "size": 4,
-        "created": "2023-05-30T12:58:24+00:00",
-        "updated": "2025-02-03T17:59:07+00:00",
-        "pushed": "2025-02-03T17:59:09+00:00",
-        "url": "https://github.com/orangecms/sbitest",
-        "id": 647283571
-    },
-    {
         "repo": "MaixHolmes",
         "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
         "owner": "MaixHolmes",
@@ -41860,15 +41769,106 @@
         "id": 731012323
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 761,
+        "forks": 186,
+        "size": 59909,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-02-06T02:40:51+00:00",
+        "pushed": "2025-02-05T08:12:45+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 233,
+        "forks": 49,
+        "size": 63820,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-02-06T03:25:17+00:00",
+        "pushed": "2025-02-05T08:42:39+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 21,
+        "forks": 18,
+        "size": 49044,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-02-06T02:11:08+00:00",
+        "pushed": "2025-02-05T08:47:22+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny, beautiful and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1389,
+        "forks": 298,
+        "size": 61370,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-02-05T14:49:13+00:00",
+        "pushed": "2025-02-05T14:49:09+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "slides",
+        "description": "All public report slides, articles and meeting minutes related to RustSBI",
+        "owner": "rustsbi",
+        "stars": 28,
+        "forks": 12,
+        "size": 37672,
+        "created": "2021-12-18T08:01:27+00:00",
+        "updated": "2025-02-05T14:57:40+00:00",
+        "pushed": "2025-02-05T14:57:36+00:00",
+        "url": "https://github.com/rustsbi/slides",
+        "id": 439560352
+    },
+    {
+        "repo": "sbitest",
+        "description": null,
+        "owner": "orangecms",
+        "stars": 1,
+        "forks": 1,
+        "size": 5,
+        "created": "2023-05-30T12:58:24+00:00",
+        "updated": "2025-02-05T23:49:29+00:00",
+        "pushed": "2025-02-05T23:49:26+00:00",
+        "url": "https://github.com/orangecms/sbitest",
+        "id": 647283571
+    },
+    {
+        "repo": "k230_rtsmart_examples",
+        "description": "k230 cpp examples",
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 0,
+        "size": 23922,
+        "created": "2024-11-26T02:01:31+00:00",
+        "updated": "2025-02-06T02:03:50+00:00",
+        "pushed": "2025-02-06T02:03:46+00:00",
+        "url": "https://github.com/canmv-k230/k230_rtsmart_examples",
+        "id": 894236258
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 133,
         "forks": 37,
-        "size": 895782,
+        "size": 898768,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-02-04T12:31:31+00:00",
-        "pushed": "2025-02-04T12:31:27+00:00",
+        "updated": "2025-02-05T12:31:49+00:00",
+        "pushed": "2025-02-05T12:31:45+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

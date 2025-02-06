@@ -14001,19 +14001,6 @@
         "id": 413357087
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 972,
-        "forks": 203,
-        "size": 765915,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-01-27T02:59:43+00:00",
-        "pushed": "2025-01-27T02:59:37+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "awesome-gatemate",
         "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
         "owner": "PythonLinks",
@@ -14274,19 +14261,6 @@
         "id": 42044258
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1661,
-        "forks": 238,
-        "size": 227206,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-02-04T06:50:08+00:00",
-        "pushed": "2025-02-04T06:51:31+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "SPDM-Hardware-Implementation",
         "description": null,
         "owner": "GustavsC",
@@ -14339,19 +14313,6 @@
         "id": 917668053
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 940,
-        "forks": 85,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-02-04T13:09:19+00:00",
-        "pushed": "2025-02-05T02:27:14+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "LiteX-CNC",
         "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
         "owner": "Peter-van-Tol",
@@ -14391,15 +14352,54 @@
         "id": 888329277
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 941,
+        "forks": 85,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-02-06T01:13:00+00:00",
+        "pushed": "2025-02-06T02:21:58+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 982,
+        "forks": 205,
+        "size": 777234,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-02-05T18:09:05+00:00",
+        "pushed": "2025-02-04T18:29:38+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1665,
+        "forks": 241,
+        "size": 227525,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-02-05T19:30:37+00:00",
+        "pushed": "2025-02-05T19:31:48+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
         "stars": 51,
         "forks": 5,
-        "size": 151971,
+        "size": 151995,
         "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-02-04T21:43:32+00:00",
-        "pushed": "2025-02-04T21:43:28+00:00",
+        "updated": "2025-02-05T22:46:41+00:00",
+        "pushed": "2025-02-05T22:46:37+00:00",
         "url": "https://github.com/chili-chips-ba/openCologne",
         "id": 798146281
     },
@@ -14409,10 +14409,10 @@
         "owner": "pbsds",
         "stars": 5,
         "forks": 0,
-        "size": 2418,
+        "size": 2508,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-02-05T04:35:32+00:00",
-        "pushed": "2025-02-05T04:35:29+00:00",
+        "updated": "2025-02-06T04:35:57+00:00",
+        "pushed": "2025-02-06T04:35:53+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14422,10 +14422,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 88036,
+        "size": 88548,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-02-05T03:12:58+00:00",
-        "pushed": "2025-02-05T03:12:55+00:00",
+        "updated": "2025-02-06T03:13:05+00:00",
+        "pushed": "2025-02-06T03:13:01+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
