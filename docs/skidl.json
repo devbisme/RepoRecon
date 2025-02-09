@@ -1599,19 +1599,6 @@
         "id": 896392152
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 371,
-        "forks": 25,
-        "size": 14087,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2024-12-09T09:20:45+00:00",
-        "pushed": "2024-12-09T09:31:40+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "awesome_photonics",
         "description": "\ud83d\ude0e curated list of open source photonics projects",
         "owner": "joamatab",
@@ -1729,19 +1716,6 @@
         "id": 908388872
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1092,
-        "forks": 123,
-        "size": 56097,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-02-06T07:01:33+00:00",
-        "pushed": "2025-02-05T21:08:34+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "stahlnow",
@@ -1753,5 +1727,31 @@
         "pushed": "2025-02-06T00:47:45+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1093,
+        "forks": 124,
+        "size": 56099,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2025-02-07T15:31:58+00:00",
+        "pushed": "2025-02-08T16:27:51+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 396,
+        "forks": 27,
+        "size": 14057,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2025-02-08T17:50:45+00:00",
+        "pushed": "2025-02-08T10:22:12+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
     }
 ]
