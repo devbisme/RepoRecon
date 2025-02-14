@@ -13975,19 +13975,6 @@
         "id": 777943094
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 386,
-        "forks": 297,
-        "size": 4351,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-01-30T00:04:31+00:00",
-        "pushed": "2025-01-29T18:11:23+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -14092,19 +14079,6 @@
         "id": 923002487
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3137,
-        "forks": 588,
-        "size": 17547,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-02-03T19:25:09+00:00",
-        "pushed": "2025-02-03T19:25:02+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litescope",
         "description": "Small footprint and configurable embedded FPGA logic analyzer",
         "owner": "enjoy-digital",
@@ -14207,19 +14181,6 @@
         "pushed": "2025-02-09T06:48:45+00:00",
         "url": "https://github.com/buncram/cram-soc",
         "id": 564480301
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1666,
-        "forks": 240,
-        "size": 228368,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-02-09T19:45:43+00:00",
-        "pushed": "2025-02-09T19:45:39+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "lucretia-overlay",
@@ -14352,32 +14313,6 @@
         "id": 659573875
     },
     {
-        "repo": "football-logos",
-        "description": "\u2728\u26bd\ufe0f Collection of Football Team Logos",
-        "owner": "Leo4815162342",
-        "stars": 2,
-        "forks": 0,
-        "size": 268526,
-        "created": "2025-01-16T12:31:04+00:00",
-        "updated": "2025-02-11T20:02:54+00:00",
-        "pushed": "2025-02-11T20:02:51+00:00",
-        "url": "https://github.com/Leo4815162342/football-logos",
-        "id": 917668053
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 951,
-        "forks": 86,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-02-12T16:56:25+00:00",
-        "pushed": "2025-02-13T02:30:03+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -14402,32 +14337,6 @@
         "pushed": "2025-02-12T21:51:03+00:00",
         "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
         "id": 464657430
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 41,
-        "forks": 16,
-        "size": 56221,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-02-12T15:19:01+00:00",
-        "pushed": "2025-02-12T15:33:35+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 52,
-        "forks": 5,
-        "size": 152242,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-02-12T18:06:42+00:00",
-        "pushed": "2025-02-12T18:06:38+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "awesome-gatemate",
@@ -14456,17 +14365,134 @@
         "id": 931438415
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3149,
+        "forks": 588,
+        "size": 17556,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-02-13T16:56:15+00:00",
+        "pushed": "2025-02-13T16:56:12+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 388,
+        "forks": 299,
+        "size": 4303,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-02-13T15:12:16+00:00",
+        "pushed": "2025-02-13T15:12:11+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 951,
+        "forks": 87,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-02-14T06:21:32+00:00",
+        "pushed": "2025-02-14T02:22:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1669,
+        "forks": 240,
+        "size": 228448,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-02-13T20:24:57+00:00",
+        "pushed": "2025-02-13T20:26:14+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 41,
+        "forks": 16,
+        "size": 56237,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-02-12T15:19:01+00:00",
+        "pushed": "2025-02-13T10:27:42+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 52,
+        "forks": 5,
+        "size": 155514,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-02-14T02:13:24+00:00",
+        "pushed": "2025-02-14T02:13:20+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "DDR_FPGA",
+        "description": "Dance Dance Revolution on FPGA",
+        "owner": "Sayrener",
+        "stars": 0,
+        "forks": 0,
+        "size": 14,
+        "created": "2025-02-12T15:41:07+00:00",
+        "updated": "2025-02-13T10:33:57+00:00",
+        "pushed": "2025-02-13T10:33:53+00:00",
+        "url": "https://github.com/Sayrener/DDR_FPGA",
+        "id": 931626760
+    },
+    {
+        "repo": "Neorv32",
+        "description": "Neorv32 RISC-V core",
+        "owner": "Rialias",
+        "stars": 0,
+        "forks": 0,
+        "size": 226095,
+        "created": "2025-02-13T11:59:47+00:00",
+        "updated": "2025-02-13T12:35:41+00:00",
+        "pushed": "2025-02-13T12:35:36+00:00",
+        "url": "https://github.com/Rialias/Neorv32",
+        "id": 932121353
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 5,
         "forks": 0,
-        "size": 1600,
+        "size": 1602,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-02-13T04:35:53+00:00",
-        "pushed": "2025-02-13T04:35:50+00:00",
+        "updated": "2025-02-14T04:35:45+00:00",
+        "pushed": "2025-02-14T04:35:42+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "football-logos",
+        "description": "\u2b50\ufe0f\u26bd\ufe0f Collection of Football Team Logos in PNG/SVG. 1000+ teams",
+        "owner": "Leo4815162342",
+        "stars": 2,
+        "forks": 0,
+        "size": 269007,
+        "created": "2025-01-16T12:31:04+00:00",
+        "updated": "2025-02-13T21:24:31+00:00",
+        "pushed": "2025-02-13T21:24:28+00:00",
+        "url": "https://github.com/Leo4815162342/football-logos",
+        "id": 917668053
     },
     {
         "repo": "starList",
@@ -14474,10 +14500,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 82875,
+        "size": 83375,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-02-13T03:13:06+00:00",
-        "pushed": "2025-02-13T03:13:03+00:00",
+        "updated": "2025-02-14T03:13:18+00:00",
+        "pushed": "2025-02-14T03:13:14+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
