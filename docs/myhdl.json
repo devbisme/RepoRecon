@@ -5187,19 +5187,6 @@
         "id": 841672882
     },
     {
-        "repo": "LLM-Hardware-Experiments",
-        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
-        "owner": "parker-research",
-        "stars": 0,
-        "forks": 0,
-        "size": 182,
-        "created": "2024-04-12T19:26:24+00:00",
-        "updated": "2024-09-02T22:00:18+00:00",
-        "pushed": "2024-09-02T22:00:15+00:00",
-        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
-        "id": 785859807
-    },
-    {
         "repo": "ASIC-Design-Roadmap",
         "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
         "owner": "abdelazeem201",
@@ -5692,5 +5679,31 @@
         "pushed": "2025-02-11T12:42:35+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "myHDL-working-",
+        "description": "In this repository I will be sharing my Verilog codes ",
+        "owner": "Eminkaya0",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-02-14T10:52:09+00:00",
+        "updated": "2025-02-14T10:52:12+00:00",
+        "pushed": "2025-02-14T10:52:09+00:00",
+        "url": "https://github.com/Eminkaya0/myHDL-working-",
+        "id": 932694731
+    },
+    {
+        "repo": "LLM-Hardware-Experiments",
+        "description": "Hardware design (EDA) experiment utilizing Large Language Models to design secure hardware",
+        "owner": "parker-research",
+        "stars": 0,
+        "forks": 0,
+        "size": 186,
+        "created": "2024-04-12T19:26:24+00:00",
+        "updated": "2025-02-14T22:00:42+00:00",
+        "pushed": "2025-02-14T22:00:37+00:00",
+        "url": "https://github.com/parker-research/LLM-Hardware-Experiments",
+        "id": 785859807
     }
 ]
