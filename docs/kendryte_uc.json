@@ -39741,19 +39741,6 @@
         "id": 683315982
     },
     {
-        "repo": "awesome-latticeFPGAs",
-        "description": ":book: List of FPGA Lattice boards using open tools",
-        "owner": "kelu124",
-        "stars": 310,
-        "forks": 20,
-        "size": 56,
-        "created": "2020-01-04T18:51:08+00:00",
-        "updated": "2024-12-01T15:55:31+00:00",
-        "pushed": "2024-12-01T15:55:26+00:00",
-        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
-        "id": 231812493
-    },
-    {
         "repo": "mini-rv32ima_fork",
         "description": "[WIP] My mini-rv32ima fork, for mingw",
         "owner": "weimingtom",
@@ -41704,32 +41691,6 @@
         "id": 918820846
     },
     {
-        "repo": "MaixHolmes",
-        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
-        "owner": "MaixHolmes",
-        "stars": 0,
-        "forks": 0,
-        "size": 25,
-        "created": "2024-11-07T02:54:02+00:00",
-        "updated": "2025-02-12T16:32:07+00:00",
-        "pushed": "2025-02-12T16:32:04+00:00",
-        "url": "https://github.com/MaixHolmes/MaixHolmes",
-        "id": 884588946
-    },
-    {
-        "repo": "Maixinhgai",
-        "description": null,
-        "owner": "nguyenhoangmaiscripter",
-        "stars": 0,
-        "forks": 0,
-        "size": 35,
-        "created": "2025-02-13T04:57:15+00:00",
-        "updated": "2025-02-13T05:44:47+00:00",
-        "pushed": "2025-02-13T05:44:44+00:00",
-        "url": "https://github.com/nguyenhoangmaiscripter/Maixinhgai",
-        "id": 931932956
-    },
-    {
         "repo": "maixhashi-qiita-contents",
         "description": null,
         "owner": "maixhashi",
@@ -41990,19 +41951,6 @@
         "id": 859664219
     },
     {
-        "repo": "pokemon-angular",
-        "description": null,
-        "owner": "cedric-chimot",
-        "stars": 0,
-        "forks": 0,
-        "size": 1018,
-        "created": "2024-12-19T19:32:43+00:00",
-        "updated": "2025-02-14T23:14:44+00:00",
-        "pushed": "2025-02-14T23:14:40+00:00",
-        "url": "https://github.com/cedric-chimot/pokemon-angular",
-        "id": 905917212
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -42029,6 +41977,84 @@
         "id": 731012323
     },
     {
+        "repo": "awesome-latticeFPGAs",
+        "description": ":book: List of FPGA Lattice boards using open tools",
+        "owner": "kelu124",
+        "stars": 317,
+        "forks": 20,
+        "size": 120,
+        "created": "2020-01-04T18:51:08+00:00",
+        "updated": "2025-02-15T12:13:41+00:00",
+        "pushed": "2025-02-15T12:12:50+00:00",
+        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
+        "id": 231812493
+    },
+    {
+        "repo": "microbit_micropython_k210",
+        "description": null,
+        "owner": "cyc36880",
+        "stars": 0,
+        "forks": 0,
+        "size": 4807,
+        "created": "2025-02-16T01:23:32+00:00",
+        "updated": "2025-02-16T01:23:36+00:00",
+        "pushed": "2025-02-16T01:51:11+00:00",
+        "url": "https://github.com/cyc36880/microbit_micropython_k210",
+        "id": 933450446
+    },
+    {
+        "repo": "MaixHolmes",
+        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
+        "owner": "MaixHolmes",
+        "stars": 0,
+        "forks": 0,
+        "size": 26,
+        "created": "2024-11-07T02:54:02+00:00",
+        "updated": "2025-02-15T16:32:12+00:00",
+        "pushed": "2025-02-15T16:32:08+00:00",
+        "url": "https://github.com/MaixHolmes/MaixHolmes",
+        "id": 884588946
+    },
+    {
+        "repo": "Maixinhgai",
+        "description": null,
+        "owner": "nguyenhoangmaiscripter",
+        "stars": 0,
+        "forks": 0,
+        "size": 57,
+        "created": "2025-02-13T04:57:15+00:00",
+        "updated": "2025-02-16T02:53:28+00:00",
+        "pushed": "2025-02-16T02:53:24+00:00",
+        "url": "https://github.com/nguyenhoangmaiscripter/Maixinhgai",
+        "id": 931932956
+    },
+    {
+        "repo": "depth_maixsense_a010",
+        "description": "Package for depth camera MaixSense A010 in ROS Humble",
+        "owner": "Tesis-ORION",
+        "stars": 0,
+        "forks": 0,
+        "size": 53,
+        "created": "2025-02-10T00:18:50+00:00",
+        "updated": "2025-02-16T03:07:52+00:00",
+        "pushed": "2025-02-16T03:07:48+00:00",
+        "url": "https://github.com/Tesis-ORION/depth_maixsense_a010",
+        "id": 930036845
+    },
+    {
+        "repo": "pokemon-angular",
+        "description": null,
+        "owner": "cedric-chimot",
+        "stars": 0,
+        "forks": 0,
+        "size": 1047,
+        "created": "2024-12-19T19:32:43+00:00",
+        "updated": "2025-02-16T01:17:02+00:00",
+        "pushed": "2025-02-16T01:16:58+00:00",
+        "url": "https://github.com/cedric-chimot/pokemon-angular",
+        "id": 905917212
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
@@ -42036,8 +42062,8 @@
         "forks": 37,
         "size": 901781,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-02-14T12:33:44+00:00",
-        "pushed": "2025-02-14T12:33:40+00:00",
+        "updated": "2025-02-15T12:28:17+00:00",
+        "pushed": "2025-02-15T12:28:14+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
