@@ -12649,19 +12649,6 @@
         "id": 890755823
     },
     {
-        "repo": "digital-design-dataset",
-        "description": null,
-        "owner": "stefanpie",
-        "stars": 0,
-        "forks": 0,
-        "size": 3972,
-        "created": "2022-09-03T21:39:38+00:00",
-        "updated": "2024-11-19T08:59:24+00:00",
-        "pushed": "2024-11-19T08:59:20+00:00",
-        "url": "https://github.com/stefanpie/digital-design-dataset",
-        "id": 532379641
-    },
-    {
         "repo": "repos",
         "description": "Fetch Github repos information with Github REST API and PHP every 15 minutes",
         "owner": "dev-chenxing",
@@ -13611,19 +13598,6 @@
         "id": 915125208
     },
     {
-        "repo": "pythondata-auto",
-        "description": "Scripts which automate the creation of the `litex.data` Python modules from various git repositories.",
-        "owner": "litex-hub",
-        "stars": 4,
-        "forks": 11,
-        "size": 115,
-        "created": "2020-02-23T01:12:53+00:00",
-        "updated": "2025-01-13T09:02:31+00:00",
-        "pushed": "2025-01-13T09:02:27+00:00",
-        "url": "https://github.com/litex-hub/pythondata-auto",
-        "id": 242436296
-    },
-    {
         "repo": "pythondata-cpu-openc906",
         "description": "Python module containing verilog files for OpenC906 cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -13804,19 +13778,6 @@
         "pushed": "2025-01-21T21:17:15+00:00",
         "url": "https://github.com/SpinalHDL/NaxRiscv",
         "id": 413357087
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 81,
-        "forks": 9,
-        "size": 6623,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-01-27T20:19:57+00:00",
-        "pushed": "2025-01-27T10:08:38+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "kakao",
@@ -14170,19 +14131,6 @@
         "id": 912120725
     },
     {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 388,
-        "forks": 299,
-        "size": 4303,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-02-13T15:12:16+00:00",
-        "pushed": "2025-02-13T15:12:11+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14222,19 +14170,6 @@
         "id": 932121353
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3150,
-        "forks": 589,
-        "size": 17560,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-02-14T11:26:08+00:00",
-        "pushed": "2025-02-14T09:11:43+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -14246,19 +14181,6 @@
         "pushed": "2025-02-14T10:28:53+00:00",
         "url": "https://github.com/enjoy-digital/liteeth",
         "id": 42048653
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1671,
-        "forks": 240,
-        "size": 227993,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-02-14T21:24:37+00:00",
-        "pushed": "2025-02-14T21:25:49+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "Litex_gowin",
@@ -14326,19 +14248,6 @@
         "id": 310692215
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 8,
-        "forks": 5,
-        "size": 391,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-02-15T17:35:26+00:00",
-        "pushed": "2025-02-16T00:46:46+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "awesome-latticeFPGAs",
         "description": ":book: List of FPGA Lattice boards using open tools",
         "owner": "kelu124",
@@ -14404,45 +14313,6 @@
         "id": 211116919
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 952,
-        "forks": 88,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-02-15T03:47:59+00:00",
-        "pushed": "2025-02-17T02:25:38+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 986,
-        "forks": 204,
-        "size": 779638,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-02-15T22:00:06+00:00",
-        "pushed": "2025-02-16T21:42:14+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "golitex",
-        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
-        "owner": "litexlang",
-        "stars": 58,
-        "forks": 0,
-        "size": 2485,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-02-17T06:29:33+00:00",
-        "pushed": "2025-02-17T06:29:29+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -14469,19 +14339,6 @@
         "id": 933989450
     },
     {
-        "repo": "lucretia-overlay",
-        "description": "Remake of my Gentoo overlay for common packages I install",
-        "owner": "Lucretia",
-        "stars": 0,
-        "forks": 0,
-        "size": 128,
-        "created": "2025-01-23T21:59:46+00:00",
-        "updated": "2025-02-16T14:38:12+00:00",
-        "pushed": "2025-02-16T14:38:08+00:00",
-        "url": "https://github.com/Lucretia/lucretia-overlay",
-        "id": 921400512
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -14493,19 +14350,6 @@
         "pushed": "2025-02-16T19:30:49+00:00",
         "url": "https://github.com/RDSik/fpga-useful-list",
         "id": 777943094
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 5,
-        "forks": 0,
-        "size": 1784,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-02-17T04:35:52+00:00",
-        "pushed": "2025-02-17T04:35:49+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
     },
     {
         "repo": "football-logos",
@@ -14521,15 +14365,197 @@
         "id": 917668053
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3157,
+        "forks": 593,
+        "size": 17566,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-02-18T03:04:30+00:00",
+        "pushed": "2025-02-17T10:26:22+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 388,
+        "forks": 301,
+        "size": 4330,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-02-17T09:20:03+00:00",
+        "pushed": "2025-02-17T09:19:59+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 955,
+        "forks": 88,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-02-18T02:22:56+00:00",
+        "pushed": "2025-02-18T02:17:20+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 987,
+        "forks": 204,
+        "size": 781230,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-02-18T01:56:23+00:00",
+        "pushed": "2025-02-17T18:20:22+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 85,
+        "forks": 10,
+        "size": 6675,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-02-17T18:48:16+00:00",
+        "pushed": "2025-02-17T18:48:13+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1674,
+        "forks": 240,
+        "size": 228023,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-02-17T15:41:06+00:00",
+        "pushed": "2025-02-17T21:06:06+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "pythondata-auto",
+        "description": "Scripts which automate the creation of the `litex.data` Python modules from various git repositories.",
+        "owner": "litex-hub",
+        "stars": 4,
+        "forks": 12,
+        "size": 116,
+        "created": "2020-02-23T01:12:53+00:00",
+        "updated": "2025-02-17T10:28:07+00:00",
+        "pushed": "2025-02-17T10:28:03+00:00",
+        "url": "https://github.com/litex-hub/pythondata-auto",
+        "id": 242436296
+    },
+    {
+        "repo": "golitex",
+        "description": "LiTeX is a formal proof management system designed to empower anyone, regardless of their mathematical background or expertise, to express and verify mathematics as intuitively as using natural language.",
+        "owner": "litexlang",
+        "stars": 59,
+        "forks": 0,
+        "size": 2502,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-02-18T06:33:16+00:00",
+        "pushed": "2025-02-18T06:33:12+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 8,
+        "forks": 5,
+        "size": 370,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-02-15T17:35:26+00:00",
+        "pushed": "2025-02-18T05:45:18+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "pythondata-cpu-sentinel",
+        "description": "Python module containing files for sentinel cpu (for use with LiteX).",
+        "owner": "litex-hub",
+        "stars": 0,
+        "forks": 0,
+        "size": 6385,
+        "created": "2025-02-17T10:29:26+00:00",
+        "updated": "2025-02-17T14:56:49+00:00",
+        "pushed": "2025-02-17T14:56:03+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-sentinel",
+        "id": 934133885
+    },
+    {
+        "repo": "lucretia-overlay",
+        "description": "Remake of my Gentoo overlay for common packages I install",
+        "owner": "Lucretia",
+        "stars": 0,
+        "forks": 0,
+        "size": 128,
+        "created": "2025-01-23T21:59:46+00:00",
+        "updated": "2025-02-17T08:10:45+00:00",
+        "pushed": "2025-02-17T08:10:41+00:00",
+        "url": "https://github.com/Lucretia/lucretia-overlay",
+        "id": 921400512
+    },
+    {
+        "repo": "litex-SoC-framework",
+        "description": null,
+        "owner": "ericlin1231",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-02-18T06:55:47+00:00",
+        "updated": "2025-02-18T06:58:50+00:00",
+        "pushed": "2025-02-18T06:58:43+00:00",
+        "url": "https://github.com/ericlin1231/litex-SoC-framework",
+        "id": 934638743
+    },
+    {
+        "repo": "digital-design-dataset",
+        "description": null,
+        "owner": "stefanpie",
+        "stars": 0,
+        "forks": 0,
+        "size": 4110,
+        "created": "2022-09-03T21:39:38+00:00",
+        "updated": "2025-02-18T02:03:43+00:00",
+        "pushed": "2025-02-18T02:03:40+00:00",
+        "url": "https://github.com/stefanpie/digital-design-dataset",
+        "id": 532379641
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 5,
+        "forks": 0,
+        "size": 1875,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-02-18T04:35:35+00:00",
+        "pushed": "2025-02-18T04:35:32+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 84887,
+        "size": 85386,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-02-17T03:15:16+00:00",
-        "pushed": "2025-02-17T03:15:13+00:00",
+        "updated": "2025-02-18T03:12:32+00:00",
+        "pushed": "2025-02-18T03:12:28+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
