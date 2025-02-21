@@ -1703,19 +1703,6 @@
         "id": 908388872
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 396,
-        "forks": 27,
-        "size": 14057,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2025-02-08T17:50:45+00:00",
-        "pushed": "2025-02-08T10:22:12+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "pcbflow",
         "description": "Python based Printed Circuit Board (PCB) layout and design package based on CuFlow.",
         "owner": "michaelgale",
@@ -1753,5 +1740,18 @@
         "pushed": "2025-02-20T00:48:28+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 400,
+        "forks": 27,
+        "size": 14066,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2025-02-18T06:47:38+00:00",
+        "pushed": "2025-02-20T21:48:25+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
     }
 ]
