@@ -1612,19 +1612,6 @@
         "id": 906032197
     },
     {
-        "repo": "cheapaudio",
-        "description": "CheapSkate Audio for Analog DSP's and TI Digital Amps",
-        "owner": "aselle",
-        "stars": 0,
-        "forks": 0,
-        "size": 1798,
-        "created": "2022-03-06T18:21:58+00:00",
-        "updated": "2024-12-20T06:41:14+00:00",
-        "pushed": "2024-12-20T06:41:10+00:00",
-        "url": "https://github.com/aselle/cheapaudio",
-        "id": 466820332
-    },
-    {
         "repo": "keyboard-tools",
         "description": "Tools for mechanical keyboard design",
         "owner": "adamws",
@@ -1745,13 +1732,26 @@
         "repo": "kicad-kbplacer",
         "description": "KiCad plugin for automatic keyboard's key placement and routing",
         "owner": "adamws",
-        "stars": 400,
+        "stars": 401,
         "forks": 27,
-        "size": 14066,
+        "size": 14139,
         "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2025-02-18T06:47:38+00:00",
-        "pushed": "2025-02-20T21:48:25+00:00",
+        "updated": "2025-02-21T19:52:43+00:00",
+        "pushed": "2025-02-21T20:10:45+00:00",
         "url": "https://github.com/adamws/kicad-kbplacer",
         "id": 254747856
+    },
+    {
+        "repo": "cheapaudio",
+        "description": "CheapSkate Audio for Analog DSP's and TI Digital Amps",
+        "owner": "aselle",
+        "stars": 0,
+        "forks": 0,
+        "size": 1838,
+        "created": "2022-03-06T18:21:58+00:00",
+        "updated": "2025-02-21T07:18:10+00:00",
+        "pushed": "2025-02-21T07:18:07+00:00",
+        "url": "https://github.com/aselle/cheapaudio",
+        "id": 466820332
     }
 ]
