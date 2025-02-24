@@ -11115,19 +11115,6 @@
         "id": 798473275
     },
     {
-        "repo": "learn-fpga",
-        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
-        "owner": "BrunoLevy",
-        "stars": 2371,
-        "forks": 226,
-        "size": 239645,
-        "created": "2020-05-27T15:04:05+00:00",
-        "updated": "2024-05-12T05:40:08+00:00",
-        "pushed": "2024-05-11T10:09:14+00:00",
-        "url": "https://github.com/BrunoLevy/learn-fpga",
-        "id": 267350664
-    },
-    {
         "repo": "fpga",
         "description": "Collection of projects for various FPGA development boards",
         "owner": "sam210723",
@@ -13949,19 +13936,6 @@
         "id": 929989948
     },
     {
-        "repo": "rust-litex-hal",
-        "description": "A Rust embedded HAL crate for LiteX cores",
-        "owner": "pepijndevos",
-        "stars": 28,
-        "forks": 7,
-        "size": 63,
-        "created": "2020-08-04T14:03:13+00:00",
-        "updated": "2025-02-10T16:33:30+00:00",
-        "pushed": "2025-02-10T02:33:58+00:00",
-        "url": "https://github.com/pepijndevos/rust-litex-hal",
-        "id": 284997809
-    },
-    {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp/Miningcore/NOMP Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 and 24.04 VPS or Dedicated Servers",
         "owner": "goodthebest",
@@ -13973,19 +13947,6 @@
         "pushed": "2025-02-10T18:32:54+00:00",
         "url": "https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "id": 137700800
-    },
-    {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 487,
-        "forks": 42,
-        "size": 192361,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2025-02-11T02:39:02+00:00",
-        "pushed": "2025-02-10T07:11:47+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
     },
     {
         "repo": "wyrm",
@@ -14339,19 +14300,6 @@
         "id": 242436296
     },
     {
-        "repo": "girlvoice-gateware",
-        "description": null,
-        "owner": "girlvoice",
-        "stars": 51,
-        "forks": 0,
-        "size": 1550,
-        "created": "2024-05-14T06:47:41+00:00",
-        "updated": "2025-02-20T07:55:28+00:00",
-        "pushed": "2025-02-20T07:55:24+00:00",
-        "url": "https://github.com/girlvoice/girlvoice-gateware",
-        "id": 800344642
-    },
-    {
         "repo": "OS",
         "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
         "owner": "beryllium-org",
@@ -14391,19 +14339,6 @@
         "id": 330793471
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 992,
-        "forks": 203,
-        "size": 781265,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-02-20T03:08:42+00:00",
-        "pushed": "2025-02-22T05:06:05+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -14430,19 +14365,6 @@
         "id": 468027705
     },
     {
-        "repo": "Caravel_on_FPGA",
-        "description": null,
-        "owner": "efabless",
-        "stars": 4,
-        "forks": 0,
-        "size": 8541,
-        "created": "2023-07-24T08:30:12+00:00",
-        "updated": "2025-02-20T14:49:33+00:00",
-        "pushed": "2025-02-21T23:29:00+00:00",
-        "url": "https://github.com/efabless/Caravel_on_FPGA",
-        "id": 670072480
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -14454,45 +14376,6 @@
         "pushed": "2025-02-22T01:41:02+00:00",
         "url": "https://github.com/chili-chips-ba/openCologne",
         "id": 798146281
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 960,
-        "forks": 88,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-02-22T22:52:35+00:00",
-        "pushed": "2025-02-23T02:29:17+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1678,
-        "forks": 242,
-        "size": 228312,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-02-22T23:02:32+00:00",
-        "pushed": "2025-02-22T23:02:30+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 63,
-        "forks": 0,
-        "size": 2614,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-02-23T04:35:54+00:00",
-        "pushed": "2025-02-22T10:44:42+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "libtslitex",
@@ -14521,32 +14404,6 @@
         "id": 647035284
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 6,
-        "forks": 0,
-        "size": 1972,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-02-23T04:36:15+00:00",
-        "pushed": "2025-02-23T04:36:12+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 11,
-        "forks": 3,
-        "size": 87876,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-02-23T03:15:50+00:00",
-        "pushed": "2025-02-23T03:15:46+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "liuzhenqi77",
@@ -14558,5 +14415,161 @@
         "pushed": "2025-02-23T02:10:26+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
+    },
+    {
+        "repo": "learn-fpga",
+        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
+        "owner": "BrunoLevy",
+        "stars": 2694,
+        "forks": 252,
+        "size": 239317,
+        "created": "2020-05-27T15:04:05+00:00",
+        "updated": "2025-02-23T18:36:27+00:00",
+        "pushed": "2025-02-23T18:36:19+00:00",
+        "url": "https://github.com/BrunoLevy/learn-fpga",
+        "id": 267350664
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 961,
+        "forks": 88,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-02-23T13:32:24+00:00",
+        "pushed": "2025-02-24T02:22:04+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 993,
+        "forks": 203,
+        "size": 784498,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-02-23T06:44:07+00:00",
+        "pushed": "2025-02-24T05:45:26+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1679,
+        "forks": 242,
+        "size": 232832,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-02-24T06:01:38+00:00",
+        "pushed": "2025-02-23T17:24:36+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "rust-litex-hal",
+        "description": "A Rust embedded HAL crate for LiteX cores",
+        "owner": "pepijndevos",
+        "stars": 28,
+        "forks": 7,
+        "size": 63,
+        "created": "2020-08-04T14:03:13+00:00",
+        "updated": "2025-02-10T16:33:30+00:00",
+        "pushed": "2025-02-24T02:49:55+00:00",
+        "url": "https://github.com/pepijndevos/rust-litex-hal",
+        "id": 284997809
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 64,
+        "forks": 0,
+        "size": 2632,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-02-24T03:47:20+00:00",
+        "pushed": "2025-02-24T03:47:16+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "girlvoice-gateware",
+        "description": null,
+        "owner": "girlvoice",
+        "stars": 51,
+        "forks": 0,
+        "size": 1555,
+        "created": "2024-05-14T06:47:41+00:00",
+        "updated": "2025-02-23T23:21:35+00:00",
+        "pushed": "2025-02-23T23:21:32+00:00",
+        "url": "https://github.com/girlvoice/girlvoice-gateware",
+        "id": 800344642
+    },
+    {
+        "repo": "Caravel_on_FPGA",
+        "description": null,
+        "owner": "efabless",
+        "stars": 4,
+        "forks": 0,
+        "size": 9106,
+        "created": "2023-07-24T08:30:12+00:00",
+        "updated": "2025-02-23T15:06:43+00:00",
+        "pushed": "2025-02-24T05:40:21+00:00",
+        "url": "https://github.com/efabless/Caravel_on_FPGA",
+        "id": 670072480
+    },
+    {
+        "repo": "tang-20k-wiki",
+        "description": null,
+        "owner": "youenchene",
+        "stars": 0,
+        "forks": 0,
+        "size": 109,
+        "created": "2025-02-23T07:33:35+00:00",
+        "updated": "2025-02-23T15:13:54+00:00",
+        "pushed": "2025-02-23T15:13:51+00:00",
+        "url": "https://github.com/youenchene/tang-20k-wiki",
+        "id": 937495638
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 495,
+        "forks": 44,
+        "size": 193092,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2025-02-24T02:17:07+00:00",
+        "pushed": "2025-02-23T13:21:54+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 6,
+        "forks": 0,
+        "size": 1973,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-02-24T04:35:28+00:00",
+        "pushed": "2025-02-24T04:35:25+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 11,
+        "forks": 3,
+        "size": 88372,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-02-24T03:16:42+00:00",
+        "pushed": "2025-02-24T03:16:39+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
