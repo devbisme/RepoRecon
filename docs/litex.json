@@ -13091,19 +13091,6 @@
         "id": 731331266
     },
     {
-        "repo": "openglory",
-        "description": "OpenGlory toy GPU",
-        "owner": "egorxe",
-        "stars": 3,
-        "forks": 0,
-        "size": 4662,
-        "created": "2024-12-21T08:05:55+00:00",
-        "updated": "2024-12-21T13:01:10+00:00",
-        "pushed": "2024-12-21T13:01:06+00:00",
-        "url": "https://github.com/egorxe/openglory",
-        "id": 906552198
-    },
-    {
         "repo": "LiteXfer",
         "description": "This is a small HTTP server meant to transfer files",
         "owner": "rcallaby",
@@ -13297,19 +13284,6 @@
         "pushed": "2025-01-07T08:49:21+00:00",
         "url": "https://github.com/enjoy-digital/litesata",
         "id": 42045393
-    },
-    {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 54,
-        "forks": 27,
-        "size": 690,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2025-01-07T14:19:05+00:00",
-        "pushed": "2025-01-07T14:17:45+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
     },
     {
         "repo": "litespi",
@@ -14287,19 +14261,6 @@
         "id": 330793471
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 41,
-        "forks": 16,
-        "size": 57594,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-02-21T13:44:37+00:00",
-        "pushed": "2025-02-21T13:59:27+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -14350,19 +14311,6 @@
         "pushed": "2025-02-23T02:10:26+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
-    },
-    {
-        "repo": "learn-fpga",
-        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
-        "owner": "BrunoLevy",
-        "stars": 2694,
-        "forks": 252,
-        "size": 239317,
-        "created": "2020-05-27T15:04:05+00:00",
-        "updated": "2025-02-23T18:36:27+00:00",
-        "pushed": "2025-02-23T18:36:19+00:00",
-        "url": "https://github.com/BrunoLevy/learn-fpga",
-        "id": 267350664
     },
     {
         "repo": "ThunderScope",
@@ -14417,19 +14365,6 @@
         "id": 800344642
     },
     {
-        "repo": "Caravel_on_FPGA",
-        "description": null,
-        "owner": "efabless",
-        "stars": 4,
-        "forks": 0,
-        "size": 9106,
-        "created": "2023-07-24T08:30:12+00:00",
-        "updated": "2025-02-23T15:06:43+00:00",
-        "pushed": "2025-02-24T05:40:21+00:00",
-        "url": "https://github.com/efabless/Caravel_on_FPGA",
-        "id": 670072480
-    },
-    {
         "repo": "tang-20k-wiki",
         "description": null,
         "owner": "youenchene",
@@ -14482,45 +14417,6 @@
         "id": 42041717
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 961,
-        "forks": 88,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-02-23T13:32:24+00:00",
-        "pushed": "2025-02-25T02:25:42+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 91,
-        "forks": 13,
-        "size": 6814,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-02-24T08:02:40+00:00",
-        "pushed": "2025-02-24T08:02:36+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 64,
-        "forks": 0,
-        "size": 2670,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-02-25T01:44:38+00:00",
-        "pushed": "2025-02-25T01:44:30+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -14547,17 +14443,134 @@
         "id": 937999806
     },
     {
+        "repo": "learn-fpga",
+        "description": "Learning FPGA, yosys, nextpnr, and RISC-V ",
+        "owner": "BrunoLevy",
+        "stars": 2694,
+        "forks": 252,
+        "size": 239320,
+        "created": "2020-05-27T15:04:05+00:00",
+        "updated": "2025-02-25T09:54:15+00:00",
+        "pushed": "2025-02-25T09:54:11+00:00",
+        "url": "https://github.com/BrunoLevy/learn-fpga",
+        "id": 267350664
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 963,
+        "forks": 88,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-02-25T23:04:23+00:00",
+        "pushed": "2025-02-26T02:33:05+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 55,
+        "forks": 27,
+        "size": 705,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2025-02-25T18:03:03+00:00",
+        "pushed": "2025-02-25T18:02:59+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 91,
+        "forks": 13,
+        "size": 6837,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-02-25T16:43:08+00:00",
+        "pushed": "2025-02-25T16:43:05+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 41,
+        "forks": 16,
+        "size": 58057,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-02-25T14:00:02+00:00",
+        "pushed": "2025-02-25T14:15:10+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 64,
+        "forks": 0,
+        "size": 2697,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-02-26T02:00:47+00:00",
+        "pushed": "2025-02-26T02:00:44+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "openglory",
+        "description": "Open source GPU in VHDL",
+        "owner": "egorxe",
+        "stars": 3,
+        "forks": 0,
+        "size": 4681,
+        "created": "2024-12-21T08:05:55+00:00",
+        "updated": "2025-02-25T17:18:56+00:00",
+        "pushed": "2025-02-25T17:18:51+00:00",
+        "url": "https://github.com/egorxe/openglory",
+        "id": 906552198
+    },
+    {
+        "repo": "Caravel_on_FPGA",
+        "description": null,
+        "owner": "efabless",
+        "stars": 4,
+        "forks": 0,
+        "size": 9527,
+        "created": "2023-07-24T08:30:12+00:00",
+        "updated": "2025-02-23T15:06:43+00:00",
+        "pushed": "2025-02-25T15:57:34+00:00",
+        "url": "https://github.com/efabless/Caravel_on_FPGA",
+        "id": 670072480
+    },
+    {
         "repo": "Neorv32_core",
         "description": "Neorv32 RISC-V core",
         "owner": "Rialias",
         "stars": 0,
         "forks": 0,
-        "size": 226165,
+        "size": 226237,
         "created": "2025-02-13T11:59:47+00:00",
-        "updated": "2025-02-24T15:05:49+00:00",
-        "pushed": "2025-02-24T15:05:46+00:00",
+        "updated": "2025-02-25T15:42:27+00:00",
+        "pushed": "2025-02-25T15:42:24+00:00",
         "url": "https://github.com/Rialias/Neorv32_core",
         "id": 932121353
+    },
+    {
+        "repo": "xtrx_on_rpi5",
+        "description": "Fairwaves (legacy) XTRX board on Raspberry Pi 5",
+        "owner": "oscimp",
+        "stars": 0,
+        "forks": 0,
+        "size": 712,
+        "created": "2025-02-25T06:17:21+00:00",
+        "updated": "2025-02-25T07:25:27+00:00",
+        "pushed": "2025-02-25T07:25:24+00:00",
+        "url": "https://github.com/oscimp/xtrx_on_rpi5",
+        "id": 938554990
     },
     {
         "repo": "starred",
@@ -14565,10 +14578,10 @@
         "owner": "pbsds",
         "stars": 6,
         "forks": 0,
-        "size": 2064,
+        "size": 2065,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-02-25T04:36:04+00:00",
-        "pushed": "2025-02-25T04:36:01+00:00",
+        "updated": "2025-02-26T04:37:08+00:00",
+        "pushed": "2025-02-26T04:37:04+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14578,10 +14591,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 88871,
+        "size": 89373,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-02-25T03:16:23+00:00",
-        "pushed": "2025-02-25T03:16:19+00:00",
+        "updated": "2025-02-26T03:15:42+00:00",
+        "pushed": "2025-02-26T03:15:38+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
