@@ -1,5 +1,10 @@
 [
     {
+        "title": "AI, ML, LLMs",
+        "search_terms": "(Artificial Intelligence OR AI) OR (Machine Learning OR ML) OR (Large Language Model OR LLM)",
+        "JSON_file": "ai_ml_llms"
+    },
+    {
         "title": "KiCad",
         "search_terms": "kicad",
         "JSON_file": "kicad"
@@ -46,12 +51,12 @@
     },
     {
         "title": "El-Cheapo Microcontrollers",
-        "search_terms": "RP2040 OR CH32V003 OR PY32F",
+        "search_terms": "RP2040 OR CH32V OR PY32F",
         "JSON_file": "el_cheapo_uc"
     },
     {
         "title": "Awesome Lists",
         "search_terms": "awesome+curated+list",
         "JSON_file": "awesome_list"
-    }
+    },
 ]
