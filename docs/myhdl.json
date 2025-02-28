@@ -5057,19 +5057,6 @@
         "id": 825835602
     },
     {
-        "repo": "verilog-i2c",
-        "description": "Verilog I2C interface for FPGA implementation",
-        "owner": "alexforencich",
-        "stars": 495,
-        "forks": 164,
-        "size": 130,
-        "created": "2014-05-05T08:49:01+00:00",
-        "updated": "2024-07-14T08:09:56+00:00",
-        "pushed": "2024-07-15T12:53:14+00:00",
-        "url": "https://github.com/alexforencich/verilog-i2c",
-        "id": 19449788
-    },
-    {
         "repo": "ApproximateMult",
         "description": null,
         "owner": "FCHXWH823",
@@ -5707,19 +5694,6 @@
         "id": 936841534
     },
     {
-        "repo": "25a-bits-25a-bits-lab-myhdl-lab-myhdl-comb",
-        "description": "25a-bits-25a-bits-lab-myhdl-lab-myhdl-comb created by GitHub Classroom",
-        "owner": "insper-classroom",
-        "stars": 0,
-        "forks": 12,
-        "size": 4,
-        "created": "2025-02-21T19:18:41+00:00",
-        "updated": "2025-02-21T19:18:47+00:00",
-        "pushed": "2025-02-21T19:18:44+00:00",
-        "url": "https://github.com/insper-classroom/25a-bits-25a-bits-lab-myhdl-lab-myhdl-comb",
-        "id": 936836371
-    },
-    {
         "repo": "lab-myhdl-comb",
         "description": null,
         "owner": "insper-bits",
@@ -5744,5 +5718,31 @@
         "pushed": "2025-02-25T04:07:20+00:00",
         "url": "https://github.com/aolofsson/awesome-opensource-hardware",
         "id": 479118982
+    },
+    {
+        "repo": "verilog-i2c",
+        "description": "Verilog I2C interface for FPGA implementation",
+        "owner": "alexforencich",
+        "stars": 580,
+        "forks": 175,
+        "size": 116,
+        "created": "2014-05-05T08:49:01+00:00",
+        "updated": "2025-02-27T23:55:18+00:00",
+        "pushed": "2025-02-27T23:55:14+00:00",
+        "url": "https://github.com/alexforencich/verilog-i2c",
+        "id": 19449788
+    },
+    {
+        "repo": "25a-bits-25a-bits-lab-myhdl-lab-myhdl-comb",
+        "description": "25a-bits-25a-bits-lab-myhdl-lab-myhdl-comb created by GitHub Classroom",
+        "owner": "insper-classroom",
+        "stars": 0,
+        "forks": 12,
+        "size": 8,
+        "created": "2025-02-21T19:18:41+00:00",
+        "updated": "2025-02-27T21:44:58+00:00",
+        "pushed": "2025-02-27T21:44:55+00:00",
+        "url": "https://github.com/insper-classroom/25a-bits-25a-bits-lab-myhdl-lab-myhdl-comb",
+        "id": 936836371
     }
 ]

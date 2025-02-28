@@ -13533,19 +13533,6 @@
         "id": 914548766
     },
     {
-        "repo": "caravel_docs",
-        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
-        "owner": "algofoogle",
-        "stars": 0,
-        "forks": 0,
-        "size": 5115,
-        "created": "2024-12-07T20:21:37+00:00",
-        "updated": "2025-01-14T01:33:57+00:00",
-        "pushed": "2025-01-14T01:33:54+00:00",
-        "url": "https://github.com/algofoogle/caravel_docs",
-        "id": 900084065
-    },
-    {
         "repo": "pythondata-cpu-ibex",
         "description": "Python module containing system_verilog files for ibex cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -13661,19 +13648,6 @@
         "pushed": "2025-01-24T11:37:40+00:00",
         "url": "https://github.com/myriadrf/LimeSDR_GW",
         "id": 787406556
-    },
-    {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 272,
-        "forks": 40,
-        "size": 3902,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2025-01-25T20:15:04+00:00",
-        "pushed": "2025-01-21T21:17:15+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
     },
     {
         "repo": "kakao",
@@ -13947,19 +13921,6 @@
         "pushed": "2025-02-12T21:51:03+00:00",
         "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
         "id": 464657430
-    },
-    {
-        "repo": "DDR_FPGA",
-        "description": "Dance Dance Revolution on FPGA",
-        "owner": "Sayrener",
-        "stars": 0,
-        "forks": 0,
-        "size": 14,
-        "created": "2025-02-12T15:41:07+00:00",
-        "updated": "2025-02-13T10:33:57+00:00",
-        "pushed": "2025-02-13T10:33:53+00:00",
-        "url": "https://github.com/Sayrener/DDR_FPGA",
-        "id": 931626760
     },
     {
         "repo": "liteeth",
@@ -14261,19 +14222,6 @@
         "id": 330793471
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 54,
-        "forks": 5,
-        "size": 166587,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-02-22T01:41:06+00:00",
-        "pushed": "2025-02-22T01:41:02+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -14311,19 +14259,6 @@
         "pushed": "2025-02-23T02:10:26+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 993,
-        "forks": 203,
-        "size": 784498,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-02-23T06:44:07+00:00",
-        "pushed": "2025-02-24T05:45:26+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
     },
     {
         "repo": "neorv32",
@@ -14456,19 +14391,6 @@
         "id": 267350664
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 963,
-        "forks": 88,
-        "size": 1264,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-02-25T23:04:23+00:00",
-        "pushed": "2025-02-26T02:33:05+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "liteiclink",
         "description": "Small footprint and configurable Inter-Chip communication cores",
         "owner": "enjoy-digital",
@@ -14482,19 +14404,6 @@
         "id": 109838222
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 91,
-        "forks": 13,
-        "size": 6837,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-02-25T16:43:08+00:00",
-        "pushed": "2025-02-25T16:43:05+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14506,19 +14415,6 @@
         "pushed": "2025-02-25T14:15:10+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 64,
-        "forks": 0,
-        "size": 2697,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-02-26T02:00:47+00:00",
-        "pushed": "2025-02-26T02:00:44+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "openglory",
@@ -14547,19 +14443,6 @@
         "id": 670072480
     },
     {
-        "repo": "Neorv32_core",
-        "description": "Neorv32 RISC-V core",
-        "owner": "Rialias",
-        "stars": 0,
-        "forks": 0,
-        "size": 226237,
-        "created": "2025-02-13T11:59:47+00:00",
-        "updated": "2025-02-25T15:42:27+00:00",
-        "pushed": "2025-02-25T15:42:24+00:00",
-        "url": "https://github.com/Rialias/Neorv32_core",
-        "id": 932121353
-    },
-    {
         "repo": "xtrx_on_rpi5",
         "description": "Fairwaves (legacy) XTRX board on Raspberry Pi 5",
         "owner": "oscimp",
@@ -14573,15 +14456,145 @@
         "id": 938554990
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 963,
+        "forks": 87,
+        "size": 1264,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-02-26T19:01:21+00:00",
+        "pushed": "2025-02-28T02:25:56+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 996,
+        "forks": 204,
+        "size": 784888,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-02-28T00:58:24+00:00",
+        "pushed": "2025-02-27T19:28:44+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 91,
+        "forks": 14,
+        "size": 6850,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-02-28T05:55:43+00:00",
+        "pushed": "2025-02-28T05:55:40+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 275,
+        "forks": 41,
+        "size": 3842,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2025-02-27T07:45:12+00:00",
+        "pushed": "2025-02-27T07:45:08+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 67,
+        "forks": 0,
+        "size": 2799,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-02-28T07:02:01+00:00",
+        "pushed": "2025-02-28T07:01:57+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 56,
+        "forks": 5,
+        "size": 166802,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-02-27T03:51:46+00:00",
+        "pushed": "2025-02-27T03:51:43+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "DDR_FPGA",
+        "description": "Dance Dance Revolution on FPGA",
+        "owner": "Sayrener",
+        "stars": 0,
+        "forks": 0,
+        "size": 21,
+        "created": "2025-02-12T15:41:07+00:00",
+        "updated": "2025-02-27T13:07:25+00:00",
+        "pushed": "2025-02-27T13:07:21+00:00",
+        "url": "https://github.com/Sayrener/DDR_FPGA",
+        "id": 931626760
+    },
+    {
+        "repo": "neorv32",
+        "description": "NEORV32 fork. Minor modifications.",
+        "owner": "0xRP",
+        "stars": 0,
+        "forks": 0,
+        "size": 226788,
+        "created": "2025-02-25T13:23:00+00:00",
+        "updated": "2025-02-26T09:56:22+00:00",
+        "pushed": "2025-02-26T09:56:18+00:00",
+        "url": "https://github.com/0xRP/neorv32",
+        "id": 938767074
+    },
+    {
+        "repo": "Neorv32_core",
+        "description": "Neorv32 RISC-V core",
+        "owner": "Rialias",
+        "stars": 0,
+        "forks": 0,
+        "size": 226258,
+        "created": "2025-02-13T11:59:47+00:00",
+        "updated": "2025-02-26T11:43:22+00:00",
+        "pushed": "2025-02-26T11:43:19+00:00",
+        "url": "https://github.com/Rialias/Neorv32_core",
+        "id": 932121353
+    },
+    {
+        "repo": "caravel_docs",
+        "description": "DRAFT/UNRELEASED documentation for the Caravel chip frame and SoC",
+        "owner": "algofoogle",
+        "stars": 0,
+        "forks": 0,
+        "size": 5286,
+        "created": "2024-12-07T20:21:37+00:00",
+        "updated": "2025-02-27T19:41:09+00:00",
+        "pushed": "2025-02-27T19:41:05+00:00",
+        "url": "https://github.com/algofoogle/caravel_docs",
+        "id": 900084065
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 6,
         "forks": 0,
-        "size": 2065,
+        "size": 2104,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-02-26T04:37:08+00:00",
-        "pushed": "2025-02-26T04:37:04+00:00",
+        "updated": "2025-02-28T04:36:11+00:00",
+        "pushed": "2025-02-28T04:36:08+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14591,10 +14604,10 @@
         "owner": "hiifong",
         "stars": 11,
         "forks": 3,
-        "size": 89373,
+        "size": 90402,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-02-26T03:15:42+00:00",
-        "pushed": "2025-02-26T03:15:38+00:00",
+        "updated": "2025-02-28T03:16:48+00:00",
+        "pushed": "2025-02-28T03:16:45+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
