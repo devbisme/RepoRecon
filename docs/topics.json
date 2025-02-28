@@ -1,10 +1,5 @@
 [
     {
-        "title": "AI, ML, LLMs",
-        "search_terms": "(Artificial Intelligence) OR (Machine Learning) OR (Large Language Model) OR LLM OR (neural net)",
-        "JSON_file": "ai_ml_llms"
-    },
-    {
         "title": "KiCad",
         "search_terms": "kicad",
         "JSON_file": "kicad"
@@ -58,5 +53,5 @@
         "title": "Awesome Lists",
         "search_terms": "awesome+curated+list",
         "JSON_file": "awesome_list"
-    },
+    }
 ]
