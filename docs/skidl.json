@@ -1716,32 +1716,6 @@
         "id": 466820332
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 1988,
-        "forks": 186,
-        "size": 217,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2025-02-25T04:07:23+00:00",
-        "pushed": "2025-02-25T04:07:20+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1103,
-        "forks": 124,
-        "size": 56133,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-02-25T22:41:49+00:00",
-        "pushed": "2025-02-25T17:50:12+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "skidlang",
         "description": null,
         "owner": "sexhax",
@@ -1755,15 +1729,41 @@
         "id": 940092791
     },
     {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1110,
+        "forks": 125,
+        "size": 56128,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2025-03-10T02:23:56+00:00",
+        "pushed": "2025-03-09T18:06:59+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 2007,
+        "forks": 186,
+        "size": 218,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2025-03-10T09:10:58+00:00",
+        "pushed": "2025-03-10T02:53:30+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "stahlnow",
         "stars": 0,
         "forks": 0,
-        "size": 2538,
+        "size": 2670,
         "created": "2024-03-06T21:46:55+00:00",
-        "updated": "2025-02-27T00:47:57+00:00",
-        "pushed": "2025-02-27T00:47:54+00:00",
+        "updated": "2025-03-06T00:48:38+00:00",
+        "pushed": "2025-03-06T00:48:35+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
     }
