@@ -39442,19 +39442,6 @@
         "id": 895132133
     },
     {
-        "repo": "manifest",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 1,
-        "size": 8,
-        "created": "2024-07-24T03:22:05+00:00",
-        "updated": "2024-11-28T06:31:56+00:00",
-        "pushed": "2024-11-28T06:31:53+00:00",
-        "url": "https://github.com/canmv-k230/manifest",
-        "id": 832937482
-    },
-    {
         "repo": "binwalk",
         "description": "Binwalk-v3 flake until nixpkgs switch to the v3",
         "owner": "maix-flake",
@@ -41665,19 +41652,6 @@
         "id": 308248461
     },
     {
-        "repo": "k230_canmv_docs",
-        "description": "k230_canmv_docs",
-        "owner": "kendryte",
-        "stars": 12,
-        "forks": 2,
-        "size": 21218,
-        "created": "2023-10-17T07:31:49+00:00",
-        "updated": "2025-02-28T02:54:30+00:00",
-        "pushed": "2025-02-28T02:54:27+00:00",
-        "url": "https://github.com/kendryte/k230_canmv_docs",
-        "id": 706039729
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -41741,19 +41715,6 @@
         "pushed": "2025-02-28T01:09:36+00:00",
         "url": "https://github.com/weimingtom/wmt_linux011_study",
         "id": 683315982
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 766,
-        "forks": 189,
-        "size": 62886,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-03-01T13:09:11+00:00",
-        "pushed": "2025-03-10T08:39:38+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "MaixPy",
@@ -41860,19 +41821,6 @@
         "id": 930788058
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 25,
-        "forks": 21,
-        "size": 69784,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-03-10T11:06:11+00:00",
-        "pushed": "2025-03-10T11:06:07+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -41936,32 +41884,6 @@
         "pushed": "2025-03-03T02:12:53+00:00",
         "url": "https://github.com/ophub/flippy-openwrt-actions",
         "id": 360045993
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 59,
-        "forks": 6,
-        "size": 51353,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-03-10T13:57:40+00:00",
-        "pushed": "2025-03-07T02:51:22+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10870,
-        "forks": 5104,
-        "size": 896145,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-03-10T14:32:42+00:00",
-        "pushed": "2025-03-10T14:32:32+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "muriscv-nn",
@@ -42172,19 +42094,6 @@
         "id": 920928086
     },
     {
-        "repo": "License_Plate_Recognition",
-        "description": "\u548cK210\u901a\u4fe1\uff0c\u63a5\u6536K210\u7684\u6570\u636e\uff0c\u89e3\u6790\u8f66\u724c\uff0c\u5b9e\u73b0\u7c7b\u4f3c\u8f66\u5e93\u529f\u80fd",
-        "owner": "NoraZXT",
-        "stars": 0,
-        "forks": 0,
-        "size": 329,
-        "created": "2025-03-04T17:34:02+00:00",
-        "updated": "2025-03-04T17:43:40+00:00",
-        "pushed": "2025-03-04T19:44:00+00:00",
-        "url": "https://github.com/NoraZXT/License_Plate_Recognition",
-        "id": 942798091
-    },
-    {
         "repo": "k230_rtsmart_examples",
         "description": "k230 cpp examples",
         "owner": "canmv-k230",
@@ -42209,32 +42118,6 @@
         "pushed": "2025-03-08T18:12:04+00:00",
         "url": "https://github.com/MaixHolmes/MaixHolmes",
         "id": 884588946
-    },
-    {
-        "repo": "ESP32CAM-OV7725-TFT-ambilight",
-        "description": "camera based TV ambilight ",
-        "owner": "WASmars",
-        "stars": 17,
-        "forks": 4,
-        "size": 8046,
-        "created": "2019-09-04T03:40:03+00:00",
-        "updated": "2025-03-06T22:30:09+00:00",
-        "pushed": "2025-03-03T07:14:48+00:00",
-        "url": "https://github.com/WASmars/ESP32CAM-OV7725-TFT-ambilight",
-        "id": 206225019
-    },
-    {
-        "repo": "rv",
-        "description": null,
-        "owner": "HuXiabing",
-        "stars": 0,
-        "forks": 0,
-        "size": 2227,
-        "created": "2025-03-03T08:48:38+00:00",
-        "updated": "2025-03-10T09:02:49+00:00",
-        "pushed": "2025-03-10T09:02:45+00:00",
-        "url": "https://github.com/HuXiabing/rv",
-        "id": 941903663
     },
     {
         "repo": "K2300032950",
@@ -42469,5 +42352,122 @@
         "pushed": "2025-03-01T23:49:20+00:00",
         "url": "https://github.com/Pedroxz63/MiniCityMenu",
         "id": 941290953
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 766,
+        "forks": 189,
+        "size": 62907,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-03-11T02:41:16+00:00",
+        "pushed": "2025-03-11T03:44:56+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 25,
+        "forks": 21,
+        "size": 69788,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-03-11T04:21:51+00:00",
+        "pushed": "2025-03-11T04:21:48+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 59,
+        "forks": 6,
+        "size": 51353,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-03-11T02:45:49+00:00",
+        "pushed": "2025-03-11T02:45:47+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "k230_canmv_docs",
+        "description": "k230_canmv_docs",
+        "owner": "kendryte",
+        "stars": 12,
+        "forks": 2,
+        "size": 21218,
+        "created": "2023-10-17T07:31:49+00:00",
+        "updated": "2025-03-11T05:47:50+00:00",
+        "pushed": "2025-03-11T05:47:46+00:00",
+        "url": "https://github.com/kendryte/k230_canmv_docs",
+        "id": 706039729
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10872,
+        "forks": 5104,
+        "size": 896185,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-03-11T04:58:33+00:00",
+        "pushed": "2025-03-11T03:53:23+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "manifest",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 1,
+        "forks": 2,
+        "size": 8,
+        "created": "2024-07-24T03:22:05+00:00",
+        "updated": "2025-03-11T06:13:38+00:00",
+        "pushed": "2025-03-11T06:13:34+00:00",
+        "url": "https://github.com/canmv-k230/manifest",
+        "id": 832937482
+    },
+    {
+        "repo": "License_Plate_Recognition",
+        "description": "\u548cK210\u901a\u4fe1\uff0c\u63a5\u6536K210\u7684\u6570\u636e\uff0c\u89e3\u6790\u8f66\u724c\uff0c\u5b9e\u73b0\u7c7b\u4f3c\u8f66\u5e93\u529f\u80fd",
+        "owner": "NoraZXT",
+        "stars": 0,
+        "forks": 0,
+        "size": 2701,
+        "created": "2025-03-04T17:34:02+00:00",
+        "updated": "2025-03-04T17:43:40+00:00",
+        "pushed": "2025-03-10T19:55:28+00:00",
+        "url": "https://github.com/NoraZXT/License_Plate_Recognition",
+        "id": 942798091
+    },
+    {
+        "repo": "ESP32CAM-OV7725-TFT-ambilight",
+        "description": "camera based TV ambilight ",
+        "owner": "WASmars",
+        "stars": 17,
+        "forks": 4,
+        "size": 8046,
+        "created": "2019-09-04T03:40:03+00:00",
+        "updated": "2025-03-06T22:30:09+00:00",
+        "pushed": "2025-03-11T00:31:12+00:00",
+        "url": "https://github.com/WASmars/ESP32CAM-OV7725-TFT-ambilight",
+        "id": 206225019
+    },
+    {
+        "repo": "rv",
+        "description": null,
+        "owner": "HuXiabing",
+        "stars": 0,
+        "forks": 0,
+        "size": 2244,
+        "created": "2025-03-03T08:48:38+00:00",
+        "updated": "2025-03-11T03:05:06+00:00",
+        "pushed": "2025-03-11T03:05:03+00:00",
+        "url": "https://github.com/HuXiabing/rv",
+        "id": 941903663
     }
 ]
