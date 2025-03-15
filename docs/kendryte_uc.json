@@ -38948,19 +38948,6 @@
         "id": 883489125
     },
     {
-        "repo": "k230_docs",
-        "description": "Kendryte K230 SDK Docs",
-        "owner": "kendryte",
-        "stars": 88,
-        "forks": 11,
-        "size": 290662,
-        "created": "2023-07-07T08:24:19+00:00",
-        "updated": "2024-11-06T06:30:24+00:00",
-        "pushed": "2024-11-06T06:30:18+00:00",
-        "url": "https://github.com/kendryte/k230_docs",
-        "id": 663411081
-    },
-    {
         "repo": "K230_AI_Demo_Development_Process_Analysis",
         "description": "\u57fa\u4e8eK230\u7684AI\u7b97\u6cd5\u5f00\u53d1\u662f\u628a\u5df2\u8bad\u7ec3\u597dAI\u6a21\u578b\u5728PC\u4e0a\u7684\u63a8\u7406\u6d41\u7a0b\uff0c\u79fb\u690d\u5230K230\u5f00\u53d1\u677f\u7684\u8fc7\u7a0b",
         "owner": "JayL323",
@@ -39037,19 +39024,6 @@
         "pushed": "2024-11-11T10:45:59+00:00",
         "url": "https://github.com/perpetualbits/riscv-guide",
         "id": 886640465
-    },
-    {
-        "repo": "k230_sdk",
-        "description": "Kendryte K230 SDK",
-        "owner": "kendryte",
-        "stars": 175,
-        "forks": 39,
-        "size": 479465,
-        "created": "2023-07-07T05:53:35+00:00",
-        "updated": "2024-11-12T08:07:40+00:00",
-        "pushed": "2024-11-12T08:07:34+00:00",
-        "url": "https://github.com/kendryte/k230_sdk",
-        "id": 663357545
     },
     {
         "repo": "maixuanhop",
@@ -41574,32 +41548,6 @@
         "id": 938700451
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1738,
-        "forks": 488,
-        "size": 49644,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2025-02-27T02:55:06+00:00",
-        "pushed": "2025-02-26T14:52:04+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 19,
-        "forks": 2,
-        "size": 1186846,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2025-02-26T22:16:37+00:00",
-        "pushed": "2025-02-26T22:16:33+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "rvos",
         "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
         "owner": "davidly",
@@ -41743,19 +41691,6 @@
         "id": 930788058
     },
     {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 41,
-        "forks": 10,
-        "size": 450,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2025-03-10T09:12:19+00:00",
-        "pushed": "2025-03-10T09:12:16+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
-    },
-    {
         "repo": "CherryUSB",
         "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
         "owner": "cherry-embedded",
@@ -41845,19 +41780,6 @@
         "pushed": "2025-03-07T11:06:58+00:00",
         "url": "https://github.com/Ji-Peng/PQRV",
         "id": 730666657
-    },
-    {
-        "repo": "canmv",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 1,
-        "forks": 6,
-        "size": 30015,
-        "created": "2024-07-24T07:37:50+00:00",
-        "updated": "2025-03-10T08:55:05+00:00",
-        "pushed": "2025-03-10T08:55:02+00:00",
-        "url": "https://github.com/canmv-k230/canmv",
-        "id": 833017762
     },
     {
         "repo": "python-ml-projects",
@@ -42185,19 +42107,6 @@
         "id": 840056339
     },
     {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 2,
-        "forks": 4,
-        "size": 62131,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2025-03-11T08:10:50+00:00",
-        "pushed": "2025-03-11T08:10:46+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "chessboard",
         "description": null,
         "owner": "burose",
@@ -42209,19 +42118,6 @@
         "pushed": "2025-03-11T17:50:50+00:00",
         "url": "https://github.com/burose/chessboard",
         "id": 946804745
-    },
-    {
-        "repo": "MaixHolmes",
-        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
-        "owner": "MaixHolmes",
-        "stars": 0,
-        "forks": 0,
-        "size": 34,
-        "created": "2024-11-07T02:54:02+00:00",
-        "updated": "2025-03-11T18:12:07+00:00",
-        "pushed": "2025-03-11T18:12:04+00:00",
-        "url": "https://github.com/MaixHolmes/MaixHolmes",
-        "id": 884588946
     },
     {
         "repo": "MaixSense-processingTester",
@@ -42263,19 +42159,6 @@
         "id": 947048912
     },
     {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 67,
-        "forks": 19,
-        "size": 126683,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-03-10T05:02:09+00:00",
-        "pushed": "2025-03-13T03:58:30+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
         "owner": "RT-Thread",
@@ -42287,19 +42170,6 @@
         "pushed": "2025-03-13T02:57:54+00:00",
         "url": "https://github.com/RT-Thread/rt-thread",
         "id": 7408108
-    },
-    {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 11,
-        "forks": 8,
-        "size": 24406,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2025-03-06T00:37:42+00:00",
-        "pushed": "2025-03-12T15:29:30+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
     },
     {
         "repo": "T-Display-K230_canmv_rt",
@@ -42365,19 +42235,6 @@
         "pushed": "2025-03-13T12:12:12+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 214,
-        "forks": 42,
-        "size": 186344,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-03-11T17:38:17+00:00",
-        "pushed": "2025-03-13T11:38:50+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "CVprojects",
@@ -42497,16 +42354,185 @@
         "id": 656464545
     },
     {
+        "repo": "k230_sdk",
+        "description": "Kendryte K230 SDK",
+        "owner": "kendryte",
+        "stars": 195,
+        "forks": 50,
+        "size": 570626,
+        "created": "2023-07-07T05:53:35+00:00",
+        "updated": "2025-03-14T10:45:24+00:00",
+        "pushed": "2025-03-14T10:39:58+00:00",
+        "url": "https://github.com/kendryte/k230_sdk",
+        "id": 663357545
+    },
+    {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1761,
+        "forks": 497,
+        "size": 49654,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2025-03-14T12:17:34+00:00",
+        "pushed": "2025-03-14T12:18:29+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "k230_docs",
+        "description": "Kendryte K230 SDK Docs",
+        "owner": "kendryte",
+        "stars": 101,
+        "forks": 12,
+        "size": 291941,
+        "created": "2023-07-07T08:24:19+00:00",
+        "updated": "2025-03-14T17:29:49+00:00",
+        "pushed": "2025-03-14T09:52:06+00:00",
+        "url": "https://github.com/kendryte/k230_docs",
+        "id": 663411081
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 42,
+        "forks": 10,
+        "size": 452,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2025-03-14T07:00:07+00:00",
+        "pushed": "2025-03-14T07:00:03+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 215,
+        "forks": 42,
+        "size": 196348,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-03-14T18:38:36+00:00",
+        "pushed": "2025-03-14T12:29:39+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 67,
+        "forks": 19,
+        "size": 126689,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-03-10T05:02:09+00:00",
+        "pushed": "2025-03-14T07:42:56+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 19,
+        "forks": 2,
+        "size": 774156,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2025-03-14T12:28:02+00:00",
+        "pushed": "2025-03-14T12:27:57+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 2,
+        "forks": 4,
+        "size": 62139,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-03-14T06:56:26+00:00",
+        "pushed": "2025-03-14T06:56:21+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 11,
+        "forks": 8,
+        "size": 24437,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2025-03-14T19:57:57+00:00",
+        "pushed": "2025-03-14T19:57:52+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "canmv",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 1,
+        "forks": 6,
+        "size": 30015,
+        "created": "2024-07-24T07:37:50+00:00",
+        "updated": "2025-03-14T06:59:57+00:00",
+        "pushed": "2025-03-14T06:59:53+00:00",
+        "url": "https://github.com/canmv-k230/canmv",
+        "id": 833017762
+    },
+    {
+        "repo": "MaixHolmes",
+        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
+        "owner": "MaixHolmes",
+        "stars": 0,
+        "forks": 0,
+        "size": 35,
+        "created": "2024-11-07T02:54:02+00:00",
+        "updated": "2025-03-14T18:12:07+00:00",
+        "pushed": "2025-03-14T18:12:04+00:00",
+        "url": "https://github.com/MaixHolmes/MaixHolmes",
+        "id": 884588946
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 9,
         "forks": 1,
-        "size": 3153,
+        "size": 3227,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-03-14T02:06:45+00:00",
-        "pushed": "2025-03-14T02:06:41+00:00",
+        "updated": "2025-03-15T02:01:28+00:00",
+        "pushed": "2025-03-15T02:01:25+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "Zahiro.x",
+        "description": "cd zahiro.X python x.py",
+        "owner": "zahirobaba",
+        "stars": 0,
+        "forks": 0,
+        "size": 38,
+        "created": "2025-03-07T09:38:57+00:00",
+        "updated": "2025-03-14T17:31:14+00:00",
+        "pushed": "2025-03-14T17:31:11+00:00",
+        "url": "https://github.com/zahirobaba/Zahiro.x",
+        "id": 944404764
+    },
+    {
+        "repo": "EleContest",
+        "description": "\u8fd9\u662f\u6211\u4eec\u7ec4\u7535\u8d5b\u5c0f\u7ec4\u7684GitHub\u4ed3\u5e93\uff0c\u5305\u542b\u5fc5\u8981\u7684MicroPython\u6587\u6863\u8bf4\u660e\u4ee5\u53ca\u6240\u6709\u5373\u5c06\u4e0a\u4f20\u7684STM32\u7684C\u8bed\u8a00\u6587\u4ef6\u3001K210\u7684Python\u6587\u4ef6\u7b49\uff0c\u5e0c\u671b\u6211\u4eec\u53ef\u4ee5\u8fdb\u5165\u56fd\u8d5b\u3002",
+        "owner": "Antonio11111111111",
+        "stars": 0,
+        "forks": 0,
+        "size": 220,
+        "created": "2025-03-14T10:48:20+00:00",
+        "updated": "2025-03-14T13:18:20+00:00",
+        "pushed": "2025-03-14T13:18:16+00:00",
+        "url": "https://github.com/Antonio11111111111/EleContest",
+        "id": 948442326
     }
 ]
