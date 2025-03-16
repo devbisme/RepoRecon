@@ -14379,19 +14379,6 @@
     },
     {
         "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 20,
-        "forks": 0,
-        "size": 17889,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-03-09T01:46:39+00:00",
-        "pushed": "2025-03-09T01:46:36+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
-    },
-    {
-        "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
         "stars": 4,
@@ -14508,19 +14495,6 @@
         "id": 800027977
     },
     {
-        "repo": "LiTeX-eq-renderer",
-        "description": "A lightweight pixel-perfect mathematical equation renderer.",
-        "owner": "ComplexSymbol",
-        "stars": 0,
-        "forks": 0,
-        "size": 106,
-        "created": "2025-01-26T01:06:33+00:00",
-        "updated": "2025-03-14T03:35:07+00:00",
-        "pushed": "2025-03-14T03:35:04+00:00",
-        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
-        "id": 922355485
-    },
-    {
         "repo": "scr1-colorlight-i9-litex",
         "description": "An attempt to run SCR1 on Colorlight i9 using LiteX",
         "owner": "Mukovenkov-Roman-Sergeyevich",
@@ -14532,19 +14506,6 @@
         "pushed": "2025-03-14T03:03:22+00:00",
         "url": "https://github.com/Mukovenkov-Roman-Sergeyevich/scr1-colorlight-i9-litex",
         "id": 913327181
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 980,
-        "forks": 90,
-        "size": 1268,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-03-14T13:54:49+00:00",
-        "pushed": "2025-03-15T02:33:35+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "ThunderScope",
@@ -14560,19 +14521,6 @@
         "id": 190029235
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1698,
-        "forks": 247,
-        "size": 234609,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-03-14T22:46:25+00:00",
-        "pushed": "2025-03-14T22:46:23+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14586,19 +14534,6 @@
         "id": 468027705
     },
     {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 78,
-        "forks": 0,
-        "size": 2131,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-03-15T04:08:44+00:00",
-        "pushed": "2025-03-15T04:08:40+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "kakao",
         "description": "Kakao Linux",
         "owner": "machdyne",
@@ -14610,19 +14545,6 @@
         "pushed": "2025-03-14T12:09:17+00:00",
         "url": "https://github.com/machdyne/kakao",
         "id": 591257216
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 60,
-        "forks": 6,
-        "size": 201237,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-03-14T22:03:49+00:00",
-        "pushed": "2025-03-14T22:03:45+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "kirsch",
@@ -14664,6 +14586,71 @@
         "id": 777943094
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 982,
+        "forks": 90,
+        "size": 1268,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-03-15T13:45:12+00:00",
+        "pushed": "2025-03-16T02:41:40+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1698,
+        "forks": 247,
+        "size": 234733,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-03-15T21:15:14+00:00",
+        "pushed": "2025-03-15T21:16:26+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 78,
+        "forks": 0,
+        "size": 2187,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-03-16T03:26:36+00:00",
+        "pushed": "2025-03-16T03:26:32+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 60,
+        "forks": 7,
+        "size": 201293,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-03-15T22:52:24+00:00",
+        "pushed": "2025-03-15T22:52:20+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "LiTeX-eq-renderer",
+        "description": "A lightweight pixel-perfect mathematical equation renderer.",
+        "owner": "ComplexSymbol",
+        "stars": 0,
+        "forks": 0,
+        "size": 148,
+        "created": "2025-01-26T01:06:33+00:00",
+        "updated": "2025-03-16T05:01:08+00:00",
+        "pushed": "2025-03-16T05:01:05+00:00",
+        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
+        "id": 922355485
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
@@ -14671,9 +14658,22 @@
         "forks": 0,
         "size": 2669,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-03-15T04:35:40+00:00",
-        "pushed": "2025-03-15T04:35:37+00:00",
+        "updated": "2025-03-16T04:36:00+00:00",
+        "pushed": "2025-03-16T04:35:57+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 21,
+        "forks": 0,
+        "size": 18153,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-03-16T02:15:50+00:00",
+        "pushed": "2025-03-16T02:15:46+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
     }
 ]
