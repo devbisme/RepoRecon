@@ -4654,19 +4654,6 @@
         "id": 765869517
     },
     {
-        "repo": "transaction-pysim-example",
-        "description": null,
-        "owner": "lx071",
-        "stars": 0,
-        "forks": 0,
-        "size": 1511,
-        "created": "2023-08-02T15:02:10+00:00",
-        "updated": "2023-08-02T15:16:26+00:00",
-        "pushed": "2024-03-04T07:35:04+00:00",
-        "url": "https://github.com/lx071/transaction-pysim-example",
-        "id": 673849444
-    },
-    {
         "repo": "24a-bits-lab-3-myhdl-daniboy_bits_2024a",
         "description": "24a-bits-lab-3-myhdl-daniboy_bits_2024a created by GitHub Classroom",
         "owner": "insper-classroom",
@@ -5733,29 +5720,42 @@
         "id": 922144388
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 3,
-        "forks": 0,
-        "size": 205,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-03-14T20:49:45+00:00",
-        "pushed": "2025-03-14T20:49:41+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
         "stars": 4,
         "forks": 1,
-        "size": 14140,
+        "size": 14398,
         "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-03-15T16:48:23+00:00",
-        "pushed": "2025-03-15T16:48:19+00:00",
+        "updated": "2025-03-16T20:55:59+00:00",
+        "pushed": "2025-03-16T20:55:56+00:00",
         "url": "https://github.com/jmgc/myhdl-numeric",
         "id": 38977954
+    },
+    {
+        "repo": "transaction-pysim-example",
+        "description": null,
+        "owner": "lx071",
+        "stars": 0,
+        "forks": 0,
+        "size": 1512,
+        "created": "2023-08-02T15:02:10+00:00",
+        "updated": "2025-03-16T12:40:30+00:00",
+        "pushed": "2025-03-16T12:40:23+00:00",
+        "url": "https://github.com/lx071/transaction-pysim-example",
+        "id": 673849444
+    },
+    {
+        "repo": "fpga-useful-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 3,
+        "forks": 0,
+        "size": 212,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-03-16T11:26:37+00:00",
+        "pushed": "2025-03-16T11:26:33+00:00",
+        "url": "https://github.com/RDSik/fpga-useful-list",
+        "id": 777943094
     }
 ]
