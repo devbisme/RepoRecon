@@ -41860,32 +41860,6 @@
         "id": 823271876
     },
     {
-        "repo": "NVEDC-TRAINING",
-        "description": "This is a plan for Electronic Design Competition",
-        "owner": "yyt123-123",
-        "stars": 0,
-        "forks": 0,
-        "size": 9,
-        "created": "2025-03-12T04:26:18+00:00",
-        "updated": "2025-03-12T05:38:30+00:00",
-        "pushed": "2025-03-12T05:38:28+00:00",
-        "url": "https://github.com/yyt123-123/NVEDC-TRAINING",
-        "id": 947048912
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 132,
-        "forks": 37,
-        "size": 928061,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-03-12T12:35:57+00:00",
-        "pushed": "2025-03-12T12:35:53+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "CVprojects",
         "description": "computer vision projects |  \u8ba1\u7b97\u673a\u89c6\u89c9\u76f8\u5173\u597d\u73a9\u7684AI\u9879\u76ee\uff08Python\u3001C++\u3001embedded system\uff09",
         "owner": "enpeizhao",
@@ -41923,19 +41897,6 @@
         "pushed": "2025-03-14T06:24:47+00:00",
         "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
         "id": 28653585
-    },
-    {
-        "repo": "awesome-yolo-object-detection",
-        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.",
-        "owner": "coderonion",
-        "stars": 1411,
-        "forks": 200,
-        "size": 394,
-        "created": "2022-02-19T17:57:06+00:00",
-        "updated": "2025-03-13T12:15:26+00:00",
-        "pushed": "2025-03-13T12:15:22+00:00",
-        "url": "https://github.com/coderonion/awesome-yolo-object-detection",
-        "id": 461270746
     },
     {
         "repo": "k230_sdk",
@@ -42406,19 +42367,6 @@
         "id": 733722162
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10907,
-        "forks": 5110,
-        "size": 896862,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-03-20T01:30:40+00:00",
-        "pushed": "2025-03-20T01:30:35+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -42432,19 +42380,6 @@
         "id": 476865621
     },
     {
-        "repo": "wmt_ai_study",
-        "description": "My AI study",
-        "owner": "weimingtom",
-        "stars": 24,
-        "forks": 5,
-        "size": 2012,
-        "created": "2018-08-26T09:31:59+00:00",
-        "updated": "2025-03-20T06:04:45+00:00",
-        "pushed": "2025-03-20T06:04:41+00:00",
-        "url": "https://github.com/weimingtom/wmt_ai_study",
-        "id": 146167925
-    },
-    {
         "repo": "slides",
         "description": "All public report slides, articles and meeting minutes related to RustSBI",
         "owner": "rustsbi",
@@ -42456,19 +42391,6 @@
         "pushed": "2025-03-19T09:26:05+00:00",
         "url": "https://github.com/rustsbi/slides",
         "id": 439560352
-    },
-    {
-        "repo": "canmv",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 1,
-        "forks": 6,
-        "size": 30029,
-        "created": "2024-07-24T07:37:50+00:00",
-        "updated": "2025-03-19T09:07:18+00:00",
-        "pushed": "2025-03-19T09:07:12+00:00",
-        "url": "https://github.com/canmv-k230/canmv",
-        "id": 833017762
     },
     {
         "repo": "T-Display-K230_canmv_rt",
@@ -42601,19 +42523,6 @@
         "id": 824530800
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 13,
-        "forks": 4,
-        "size": 3165,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-03-20T22:50:19+00:00",
-        "pushed": "2025-03-20T22:50:15+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "MaixHolmes",
         "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
         "owner": "MaixHolmes",
@@ -42716,5 +42625,109 @@
         "pushed": "2025-03-20T09:12:29+00:00",
         "url": "https://github.com/SmithAriana/traffic_sign_car",
         "id": 951771658
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10919,
+        "forks": 5113,
+        "size": 896888,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-03-22T00:52:28+00:00",
+        "pushed": "2025-03-22T04:30:28+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "wmt_ai_study",
+        "description": "My AI study",
+        "owner": "weimingtom",
+        "stars": 24,
+        "forks": 5,
+        "size": 2054,
+        "created": "2018-08-26T09:31:59+00:00",
+        "updated": "2025-03-21T12:58:48+00:00",
+        "pushed": "2025-03-21T12:58:45+00:00",
+        "url": "https://github.com/weimingtom/wmt_ai_study",
+        "id": 146167925
+    },
+    {
+        "repo": "canmv",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 1,
+        "forks": 6,
+        "size": 30029,
+        "created": "2024-07-24T07:37:50+00:00",
+        "updated": "2025-03-21T10:36:06+00:00",
+        "pushed": "2025-03-21T10:36:03+00:00",
+        "url": "https://github.com/canmv-k230/canmv",
+        "id": 833017762
+    },
+    {
+        "repo": "MAIX_DOCK",
+        "description": "\u901a\u8fc7\u6444\u50cf\u5934\u91c7\u96c6\u56fe\u7247\uff0c\u7528\u8054\u7f51\u6a21\u5757\u5c06\u56fe\u7247\u53d1\u9001\u5230\u670d\u52a1\u5668\uff0c\u8c03\u7528\u5927\u8bed\u8a00\u6a21\u578b\u83b7\u53d6\u63cf\u8ff0\u4fe1\u606f\uff0c\u548c\u91c7\u96c6\u7684\u56fe\u7247\u4e00\u5757\u663e\u793a\u5230\u5c4f\u5e55\u4e0a\u3002",
+        "owner": "onionc",
+        "stars": 0,
+        "forks": 0,
+        "size": 9454,
+        "created": "2025-03-21T12:28:48+00:00",
+        "updated": "2025-03-21T13:38:02+00:00",
+        "pushed": "2025-03-21T13:37:58+00:00",
+        "url": "https://github.com/onionc/MAIX_DOCK",
+        "id": 952525407
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 13,
+        "forks": 4,
+        "size": 3193,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-03-21T20:34:33+00:00",
+        "pushed": "2025-03-21T20:34:30+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "awesome-yolo-object-detection",
+        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.",
+        "owner": "coderonion",
+        "stars": 1419,
+        "forks": 200,
+        "size": 395,
+        "created": "2022-02-19T17:57:06+00:00",
+        "updated": "2025-03-22T00:09:00+00:00",
+        "pushed": "2025-03-21T13:01:51+00:00",
+        "url": "https://github.com/coderonion/awesome-yolo-object-detection",
+        "id": 461270746
+    },
+    {
+        "repo": "NUEDC-TRAINING",
+        "description": "This is a plan for Electronic Design Competition",
+        "owner": "yyt123-123",
+        "stars": 0,
+        "forks": 0,
+        "size": 18,
+        "created": "2025-03-12T04:26:18+00:00",
+        "updated": "2025-03-21T14:29:05+00:00",
+        "pushed": "2025-03-21T14:29:02+00:00",
+        "url": "https://github.com/yyt123-123/NUEDC-TRAINING",
+        "id": 947048912
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 132,
+        "forks": 37,
+        "size": 931131,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2025-03-21T12:34:07+00:00",
+        "pushed": "2025-03-21T12:34:03+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     }
 ]
