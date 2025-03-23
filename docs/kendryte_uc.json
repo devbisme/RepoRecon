@@ -41717,19 +41717,6 @@
         "id": 685317589
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 5140,
-        "forks": 490,
-        "size": 1638,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2025-03-10T07:18:12+00:00",
-        "pushed": "2025-03-09T05:01:30+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "cv",
         "description": "intelligent mini car instruction",
         "owner": "Adela2613",
@@ -41806,19 +41793,6 @@
         "pushed": "2025-03-11T00:31:12+00:00",
         "url": "https://github.com/WASmars/ESP32CAM-OV7725-TFT-ambilight",
         "id": 206225019
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 59,
-        "forks": 6,
-        "size": 51354,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-03-11T23:34:31+00:00",
-        "pushed": "2025-03-12T04:23:26+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "chessboard",
@@ -42536,19 +42510,6 @@
         "id": 884588946
     },
     {
-        "repo": "stocklist",
-        "description": null,
-        "owner": "fifteenhex",
-        "stars": 0,
-        "forks": 0,
-        "size": 156,
-        "created": "2020-03-22T03:59:35+00:00",
-        "updated": "2025-03-20T07:28:27+00:00",
-        "pushed": "2025-03-20T07:28:23+00:00",
-        "url": "https://github.com/fifteenhex/stocklist",
-        "id": 249109529
-    },
-    {
         "repo": "maixcam-npu",
         "description": "Running inference using MaixCAM's NPU",
         "owner": "AndyYuen",
@@ -42627,19 +42588,6 @@
         "id": 951771658
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10919,
-        "forks": 5113,
-        "size": 896888,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-03-22T00:52:28+00:00",
-        "pushed": "2025-03-22T04:30:28+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "wmt_ai_study",
         "description": "My AI study",
         "owner": "weimingtom",
@@ -42679,32 +42627,6 @@
         "id": 952525407
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 13,
-        "forks": 4,
-        "size": 3193,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-03-21T20:34:33+00:00",
-        "pushed": "2025-03-21T20:34:30+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
-        "repo": "awesome-yolo-object-detection",
-        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.",
-        "owner": "coderonion",
-        "stars": 1419,
-        "forks": 200,
-        "size": 395,
-        "created": "2022-02-19T17:57:06+00:00",
-        "updated": "2025-03-22T00:09:00+00:00",
-        "pushed": "2025-03-21T13:01:51+00:00",
-        "url": "https://github.com/coderonion/awesome-yolo-object-detection",
-        "id": 461270746
-    },
-    {
         "repo": "NUEDC-TRAINING",
         "description": "This is a plan for Electronic Design Competition",
         "owner": "yyt123-123",
@@ -42718,15 +42640,93 @@
         "id": 947048912
     },
     {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 62,
+        "forks": 6,
+        "size": 51356,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-03-22T23:17:03+00:00",
+        "pushed": "2025-03-22T22:56:38+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10922,
+        "forks": 5114,
+        "size": 896869,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-03-23T04:38:37+00:00",
+        "pushed": "2025-03-23T05:26:20+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 13,
+        "forks": 4,
+        "size": 3230,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-03-22T22:28:41+00:00",
+        "pushed": "2025-03-22T22:28:38+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "awesome-yolo-object-detection",
+        "description": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.",
+        "owner": "coderonion",
+        "stars": 1420,
+        "forks": 200,
+        "size": 395,
+        "created": "2022-02-19T17:57:06+00:00",
+        "updated": "2025-03-23T04:30:30+00:00",
+        "pushed": "2025-03-22T07:29:19+00:00",
+        "url": "https://github.com/coderonion/awesome-yolo-object-detection",
+        "id": 461270746
+    },
+    {
+        "repo": "stocklist",
+        "description": null,
+        "owner": "fifteenhex",
+        "stars": 0,
+        "forks": 0,
+        "size": 190,
+        "created": "2020-03-22T03:59:35+00:00",
+        "updated": "2025-03-22T07:09:48+00:00",
+        "pushed": "2025-03-22T07:09:45+00:00",
+        "url": "https://github.com/fifteenhex/stocklist",
+        "id": 249109529
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 5168,
+        "forks": 490,
+        "size": 1720,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2025-03-23T05:04:31+00:00",
+        "pushed": "2025-03-22T10:28:58+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 132,
+        "stars": 133,
         "forks": 37,
-        "size": 931131,
+        "size": 931134,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-03-21T12:34:07+00:00",
-        "pushed": "2025-03-21T12:34:03+00:00",
+        "updated": "2025-03-23T03:44:15+00:00",
+        "pushed": "2025-03-22T12:30:24+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
