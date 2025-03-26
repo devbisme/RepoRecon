@@ -14430,19 +14430,6 @@
         "id": 137700800
     },
     {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 33,
-        "forks": 3,
-        "size": 24333,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2025-03-19T14:45:44+00:00",
-        "pushed": "2025-03-19T14:45:39+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
-    },
-    {
         "repo": "custom_ip_with_litex",
         "description": null,
         "owner": "pcotret",
@@ -14573,32 +14560,6 @@
         "id": 45734719
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1031,
-        "forks": 215,
-        "size": 836048,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-03-24T14:25:30+00:00",
-        "pushed": "2025-03-25T04:40:49+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 993,
-        "forks": 90,
-        "size": 1267,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-03-24T13:32:18+00:00",
-        "pushed": "2025-03-25T02:34:29+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -14610,32 +14571,6 @@
         "pushed": "2025-03-24T17:21:51+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1709,
-        "forks": 249,
-        "size": 234529,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-03-23T21:51:42+00:00",
-        "pushed": "2025-03-23T16:38:12+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 82,
-        "forks": 0,
-        "size": 2684,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-03-24T14:13:18+00:00",
-        "pushed": "2025-03-24T14:13:14+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "litex",
@@ -14729,6 +14664,84 @@
         "id": 932121353
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1033,
+        "forks": 216,
+        "size": 840647,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-03-25T14:30:30+00:00",
+        "pushed": "2025-03-26T05:49:06+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 996,
+        "forks": 90,
+        "size": 1267,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-03-26T03:06:04+00:00",
+        "pushed": "2025-03-26T02:39:08+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1713,
+        "forks": 249,
+        "size": 234471,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-03-26T04:33:45+00:00",
+        "pushed": "2025-03-25T21:33:38+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 83,
+        "forks": 0,
+        "size": 2781,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-03-26T06:07:46+00:00",
+        "pushed": "2025-03-26T06:07:42+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 33,
+        "forks": 3,
+        "size": 24335,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2025-03-25T12:02:37+00:00",
+        "pushed": "2025-03-25T12:02:32+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "Sipeed-Tang-Gowin-FPGA",
+        "description": "Some notes about Sipeed FPGA boards ",
+        "owner": "alberto-grl",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2025-03-25T12:05:08+00:00",
+        "updated": "2025-03-25T12:37:32+00:00",
+        "pushed": "2025-03-25T12:37:28+00:00",
+        "url": "https://github.com/alberto-grl/Sipeed-Tang-Gowin-FPGA",
+        "id": 954648502
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
@@ -14736,8 +14749,8 @@
         "forks": 0,
         "size": 1800,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-03-25T04:37:44+00:00",
-        "pushed": "2025-03-25T04:37:41+00:00",
+        "updated": "2025-03-26T04:36:45+00:00",
+        "pushed": "2025-03-26T04:36:42+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14747,10 +14760,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 93223,
+        "size": 93747,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-03-25T03:22:20+00:00",
-        "pushed": "2025-03-25T03:22:17+00:00",
+        "updated": "2025-03-26T03:20:55+00:00",
+        "pushed": "2025-03-26T03:20:52+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
