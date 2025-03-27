@@ -6708,19 +6708,6 @@
         "id": 493102035
     },
     {
-        "repo": "pythondata-cpu-cva5",
-        "description": "Python module containing system_verilog files for cva5 cpu (for use with LiteX).",
-        "owner": "litex-hub",
-        "stars": 1,
-        "forks": 0,
-        "size": 1324,
-        "created": "2022-05-18T00:37:47Z",
-        "updated": "2022-05-26T16:52:24Z",
-        "pushed": "2023-05-08T09:03:12Z",
-        "url": "https://github.com/litex-hub/pythondata-cpu-cva5",
-        "id": 493456793
-    },
-    {
         "repo": "decay-litexl",
         "description": null,
         "owner": "Infinitybeond1",
@@ -14092,19 +14079,6 @@
         "id": 191191221
     },
     {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 616,
-        "forks": 180,
-        "size": 9780,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2025-03-10T13:32:19+00:00",
-        "pushed": "2025-03-10T11:48:31+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
-    },
-    {
         "repo": "litepcie",
         "description": "Small footprint and configurable PCIe core",
         "owner": "enjoy-digital",
@@ -14207,19 +14181,6 @@
         "pushed": "2025-03-10T11:53:31+00:00",
         "url": "https://github.com/litex-hub/pythondata-cpu-vexiiriscv",
         "id": 774781647
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 43982,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-03-11T00:59:32+00:00",
-        "pushed": "2025-03-11T00:59:28+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "Litext",
@@ -14547,19 +14508,6 @@
         "id": 211116919
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3220,
-        "forks": 605,
-        "size": 17483,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-03-25T02:47:30+00:00",
-        "pushed": "2025-03-24T07:48:32+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -14584,19 +14532,6 @@
         "pushed": "2025-03-24T18:15:21+00:00",
         "url": "https://github.com/dalerodgers/litex",
         "id": 951466227
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 61,
-        "forks": 7,
-        "size": 216480,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-03-24T18:48:45+00:00",
-        "pushed": "2025-03-24T18:48:41+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "klinge",
@@ -14651,45 +14586,6 @@
         "id": 897628460
     },
     {
-        "repo": "Neorv32_core",
-        "description": "Neorv32 RISC-V core",
-        "owner": "Rialias",
-        "stars": 0,
-        "forks": 0,
-        "size": 226273,
-        "created": "2025-02-13T11:59:47+00:00",
-        "updated": "2025-03-24T09:57:49+00:00",
-        "pushed": "2025-03-24T09:57:44+00:00",
-        "url": "https://github.com/Rialias/Neorv32_core",
-        "id": 932121353
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1033,
-        "forks": 216,
-        "size": 840647,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-03-25T14:30:30+00:00",
-        "pushed": "2025-03-26T05:49:06+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 996,
-        "forks": 90,
-        "size": 1267,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-03-26T03:06:04+00:00",
-        "pushed": "2025-03-26T02:39:08+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -14701,19 +14597,6 @@
         "pushed": "2025-03-25T21:33:38+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 83,
-        "forks": 0,
-        "size": 2781,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-03-26T06:07:46+00:00",
-        "pushed": "2025-03-26T06:07:42+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "kakao",
@@ -14742,17 +14625,134 @@
         "id": 954648502
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3228,
+        "forks": 606,
+        "size": 17532,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-03-26T18:28:35+00:00",
+        "pushed": "2025-03-26T18:28:30+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 622,
+        "forks": 180,
+        "size": 9780,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2025-03-26T14:58:38+00:00",
+        "pushed": "2025-03-26T14:58:34+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 997,
+        "forks": 90,
+        "size": 1267,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-03-26T18:54:53+00:00",
+        "pushed": "2025-03-27T02:38:00+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1034,
+        "forks": 216,
+        "size": 850939,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-03-27T01:48:01+00:00",
+        "pushed": "2025-03-27T04:34:05+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 83,
+        "forks": 0,
+        "size": 2824,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-03-27T05:58:29+00:00",
+        "pushed": "2025-03-27T05:58:25+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 61,
+        "forks": 7,
+        "size": 217159,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-03-26T20:26:04+00:00",
+        "pushed": "2025-03-26T20:25:59+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "pythondata-cpu-cva5",
+        "description": "Python module containing system_verilog files for cva5 cpu (for use with LiteX).",
+        "owner": "litex-hub",
+        "stars": 1,
+        "forks": 1,
+        "size": 1521,
+        "created": "2022-05-18T00:37:47+00:00",
+        "updated": "2025-03-26T15:56:49+00:00",
+        "pushed": "2025-03-26T15:56:43+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-cva5",
+        "id": 493456793
+    },
+    {
+        "repo": "Neorv32_core",
+        "description": "Neorv32 RISC-V core",
+        "owner": "Rialias",
+        "stars": 0,
+        "forks": 0,
+        "size": 226275,
+        "created": "2025-02-13T11:59:47+00:00",
+        "updated": "2025-03-26T09:57:45+00:00",
+        "pushed": "2025-03-26T09:57:41+00:00",
+        "url": "https://github.com/Rialias/Neorv32_core",
+        "id": 932121353
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 1800,
+        "size": 1893,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-03-26T04:36:45+00:00",
-        "pushed": "2025-03-26T04:36:42+00:00",
+        "updated": "2025-03-27T04:36:32+00:00",
+        "pushed": "2025-03-27T04:36:29+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 28492,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-03-27T00:59:38+00:00",
+        "pushed": "2025-03-27T00:59:35+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14760,10 +14760,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 93747,
+        "size": 94270,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-03-26T03:20:55+00:00",
-        "pushed": "2025-03-26T03:20:52+00:00",
+        "updated": "2025-03-27T03:21:33+00:00",
+        "pushed": "2025-03-27T03:21:29+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

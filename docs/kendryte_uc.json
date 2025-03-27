@@ -42094,19 +42094,6 @@
         "id": 948918757
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 25,
-        "forks": 21,
-        "size": 69802,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-03-18T08:46:34+00:00",
-        "pushed": "2025-03-18T08:46:30+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "Security-RISC",
         "description": "Proof-of-concept implementation for the paper \"A Security RISC: Microarchitectural Attacks on Hardware RISC-V CPUs\" (IEEE S&P 2023)",
         "owner": "cispa",
@@ -42211,19 +42198,6 @@
         "id": 745771617
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 215,
-        "forks": 42,
-        "size": 196776,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-03-14T18:38:36+00:00",
-        "pushed": "2025-03-19T17:10:16+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -42235,45 +42209,6 @@
         "pushed": "2025-03-19T12:23:39+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "slides",
-        "description": "All public report slides, articles and meeting minutes related to RustSBI",
-        "owner": "rustsbi",
-        "stars": 29,
-        "forks": 14,
-        "size": 47938,
-        "created": "2021-12-18T08:01:27+00:00",
-        "updated": "2025-03-19T09:26:09+00:00",
-        "pushed": "2025-03-19T09:26:05+00:00",
-        "url": "https://github.com/rustsbi/slides",
-        "id": 439560352
-    },
-    {
-        "repo": "T-Display-K230_canmv_rt",
-        "description": null,
-        "owner": "Xinyuan-LilyGO",
-        "stars": 0,
-        "forks": 0,
-        "size": 654184,
-        "created": "2025-03-05T07:05:48+00:00",
-        "updated": "2025-03-19T10:08:32+00:00",
-        "pushed": "2025-03-19T10:08:28+00:00",
-        "url": "https://github.com/Xinyuan-LilyGO/T-Display-K230_canmv_rt",
-        "id": 943102161
-    },
-    {
-        "repo": "Arduino_k210",
-        "description": "Arduino IIC \u63a7\u5236 k210",
-        "owner": "cyc36880",
-        "stars": 0,
-        "forks": 0,
-        "size": 18,
-        "created": "2025-02-14T10:05:48+00:00",
-        "updated": "2025-03-20T02:30:18+00:00",
-        "pushed": "2025-03-20T02:30:38+00:00",
-        "url": "https://github.com/cyc36880/Arduino_k210",
-        "id": 932673868
     },
     {
         "repo": "EasyXMen-modified-for-CanMV-K230",
@@ -42445,19 +42380,6 @@
         "id": 188584527
     },
     {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 72,
-        "forks": 19,
-        "size": 126758,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-03-22T11:45:53+00:00",
-        "pushed": "2025-03-25T03:08:23+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
         "repo": "LicheeSG-Nano-Build",
         "description": "LicheeRV-Nano-Build with submodules",
         "owner": "scpcom",
@@ -42523,19 +42445,6 @@
         "id": 606922823
     },
     {
-        "repo": "MaixHolmes",
-        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
-        "owner": "MaixHolmes",
-        "stars": 0,
-        "forks": 0,
-        "size": 38,
-        "created": "2024-11-07T02:54:02+00:00",
-        "updated": "2025-03-23T18:12:07+00:00",
-        "pushed": "2025-03-23T18:12:04+00:00",
-        "url": "https://github.com/MaixHolmes/MaixHolmes",
-        "id": 884588946
-    },
-    {
         "repo": "canmv_k230_micropython",
         "description": "Testing Codes for Canmv k230",
         "owner": "Ifte-Kharul",
@@ -42588,19 +42497,6 @@
         "id": 885738802
     },
     {
-        "repo": "EleContest",
-        "description": "\u8fd9\u662f\u6211\u4eec\u7ec4\u7535\u8d5b\u5c0f\u7ec4\u7684GitHub\u4ed3\u5e93\uff0c\u5305\u542b\u5fc5\u8981\u7684MicroPython\u6587\u6863\u8bf4\u660e\u4ee5\u53ca\u6240\u6709\u5373\u5c06\u4e0a\u4f20\u7684STM32\u7684C\u8bed\u8a00\u6587\u4ef6\u3001K210\u7684Python\u6587\u4ef6\u7b49\uff0c\u5e0c\u671b\u6211\u4eec\u53ef\u4ee5\u8fdb\u5165\u56fd\u8d5b\u3002",
-        "owner": "Antonio11111111111",
-        "stars": 1,
-        "forks": 1,
-        "size": 796,
-        "created": "2025-03-14T10:48:20+00:00",
-        "updated": "2025-03-24T09:01:31+00:00",
-        "pushed": "2025-03-24T09:01:27+00:00",
-        "url": "https://github.com/Antonio11111111111/EleContest",
-        "id": 948442326
-    },
-    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
@@ -42612,19 +42508,6 @@
         "pushed": "2025-03-24T12:35:08+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 778,
-        "forks": 193,
-        "size": 63124,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-03-26T03:00:32+00:00",
-        "pushed": "2025-03-26T06:25:28+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "canmv_k230",
@@ -42757,16 +42640,159 @@
         "id": 685317589
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 778,
+        "forks": 193,
+        "size": 63202,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-03-26T03:00:32+00:00",
+        "pushed": "2025-03-27T06:07:57+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 25,
+        "forks": 22,
+        "size": 69803,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-03-26T08:50:04+00:00",
+        "pushed": "2025-03-27T02:28:29+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 217,
+        "forks": 42,
+        "size": 196999,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-03-21T19:13:44+00:00",
+        "pushed": "2025-03-26T18:03:04+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 72,
+        "forks": 19,
+        "size": 126762,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-03-22T11:45:53+00:00",
+        "pushed": "2025-03-26T07:22:37+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "xiaozhi-linux",
+        "description": "Embedded Linux AI Xiaozhi Intelligent voice dialogue.",
+        "owner": "100askTeam",
+        "stars": 44,
+        "forks": 18,
+        "size": 69468,
+        "created": "2025-03-14T03:06:44+00:00",
+        "updated": "2025-03-27T06:17:38+00:00",
+        "pushed": "2025-03-27T03:55:29+00:00",
+        "url": "https://github.com/100askTeam/xiaozhi-linux",
+        "id": 948269753
+    },
+    {
+        "repo": "slides",
+        "description": "All public report slides, articles and meeting minutes related to RustSBI",
+        "owner": "rustsbi",
+        "stars": 29,
+        "forks": 15,
+        "size": 54005,
+        "created": "2021-12-18T08:01:27+00:00",
+        "updated": "2025-03-26T14:20:15+00:00",
+        "pushed": "2025-03-26T14:20:11+00:00",
+        "url": "https://github.com/rustsbi/slides",
+        "id": 439560352
+    },
+    {
+        "repo": "T-Display-K230_canmv_rt",
+        "description": null,
+        "owner": "Xinyuan-LilyGO",
+        "stars": 3,
+        "forks": 0,
+        "size": 654219,
+        "created": "2025-03-05T07:05:48+00:00",
+        "updated": "2025-03-27T03:08:12+00:00",
+        "pushed": "2025-03-27T03:08:08+00:00",
+        "url": "https://github.com/Xinyuan-LilyGO/T-Display-K230_canmv_rt",
+        "id": 943102161
+    },
+    {
+        "repo": "Arduino_k210",
+        "description": "Arduino IIC \u63a7\u5236 k210",
+        "owner": "cyc36880",
+        "stars": 0,
+        "forks": 0,
+        "size": 20,
+        "created": "2025-02-14T10:05:48+00:00",
+        "updated": "2025-03-27T02:26:12+00:00",
+        "pushed": "2025-03-27T02:26:26+00:00",
+        "url": "https://github.com/cyc36880/Arduino_k210",
+        "id": 932673868
+    },
+    {
+        "repo": "MaixHolmes",
+        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
+        "owner": "MaixHolmes",
+        "stars": 0,
+        "forks": 0,
+        "size": 39,
+        "created": "2024-11-07T02:54:02+00:00",
+        "updated": "2025-03-27T05:02:10+00:00",
+        "pushed": "2025-03-27T05:02:07+00:00",
+        "url": "https://github.com/MaixHolmes/MaixHolmes",
+        "id": 884588946
+    },
+    {
+        "repo": "animals_ai_K210",
+        "description": "animals_ai_K210",
+        "owner": "Grzegorzwww",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-03-26T19:29:55+00:00",
+        "updated": "2025-03-26T19:36:55+00:00",
+        "pushed": "2025-03-26T19:36:51+00:00",
+        "url": "https://github.com/Grzegorzwww/animals_ai_K210",
+        "id": 955528893
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 9,
         "forks": 1,
-        "size": 3568,
+        "size": 3641,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-03-26T02:10:08+00:00",
-        "pushed": "2025-03-26T02:10:05+00:00",
+        "updated": "2025-03-27T02:10:06+00:00",
+        "pushed": "2025-03-27T02:10:02+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "EleContest",
+        "description": "\u8fd9\u662f\u6211\u4eec\u7ec4\u7535\u8d5b\u5c0f\u7ec4\u7684GitHub\u4ed3\u5e93\uff0c\u5305\u542b\u5fc5\u8981\u7684MicroPython\u6587\u6863\u8bf4\u660e\u4ee5\u53ca\u6240\u6709\u5373\u5c06\u4e0a\u4f20\u7684STM32\u7684C\u8bed\u8a00\u6587\u4ef6\u3001K210\u7684Python\u6587\u4ef6\u7b49\uff0c\u5e0c\u671b\u6211\u4eec\u53ef\u4ee5\u8fdb\u5165\u56fd\u8d5b\u3002",
+        "owner": "Antonio11111111111",
+        "stars": 1,
+        "forks": 1,
+        "size": 799,
+        "created": "2025-03-14T10:48:20+00:00",
+        "updated": "2025-03-24T09:01:31+00:00",
+        "pushed": "2025-03-26T16:19:10+00:00",
+        "url": "https://github.com/Antonio11111111111/EleContest",
+        "id": 948442326
     }
 ]
