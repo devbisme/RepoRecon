@@ -13624,19 +13624,6 @@
         "id": 926686311
     },
     {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 25545,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2025-02-09T06:48:49+00:00",
-        "pushed": "2025-02-09T06:48:45+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
-    },
-    {
         "repo": "neorv32",
         "description": null,
         "owner": "dseynhae",
@@ -14469,19 +14456,6 @@
         "id": 211116919
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 98,
-        "forks": 15,
-        "size": 6848,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-03-24T17:21:54+00:00",
-        "pushed": "2025-03-24T17:21:51+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "litex",
         "description": null,
         "owner": "dalerodgers",
@@ -14493,19 +14467,6 @@
         "pushed": "2025-03-24T18:15:21+00:00",
         "url": "https://github.com/dalerodgers/litex",
         "id": 951466227
-    },
-    {
-        "repo": "klinge",
-        "description": "Klinge Computer",
-        "owner": "machdyne",
-        "stars": 0,
-        "forks": 0,
-        "size": 982,
-        "created": "2025-03-24T12:51:26+00:00",
-        "updated": "2025-03-24T14:55:22+00:00",
-        "pushed": "2025-03-24T14:55:18+00:00",
-        "url": "https://github.com/machdyne/klinge",
-        "id": 954020807
     },
     {
         "repo": "LiTeX-eq-renderer",
@@ -14599,19 +14560,6 @@
         "id": 183392076
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1034,
-        "forks": 216,
-        "size": 850939,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-03-27T01:48:01+00:00",
-        "pushed": "2025-03-27T04:34:05+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -14664,19 +14612,6 @@
         "id": 330793471
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 998,
-        "forks": 90,
-        "size": 1267,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-03-28T03:24:48+00:00",
-        "pushed": "2025-03-28T02:31:32+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -14690,19 +14625,6 @@
         "id": 346151420
     },
     {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 83,
-        "forks": 0,
-        "size": 2917,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-03-28T03:37:09+00:00",
-        "pushed": "2025-03-28T03:37:05+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "lilydrum",
         "description": "Drums and Lilypond",
         "owner": "snowgoon88",
@@ -14714,19 +14636,6 @@
         "pushed": "2025-03-27T07:51:06+00:00",
         "url": "https://github.com/snowgoon88/lilydrum",
         "id": 169072211
-    },
-    {
-        "repo": "or1k-utils",
-        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
-        "owner": "stffrdhrn",
-        "stars": 4,
-        "forks": 0,
-        "size": 34826,
-        "created": "2017-04-12T14:08:53+00:00",
-        "updated": "2025-03-27T19:13:04+00:00",
-        "pushed": "2025-03-27T19:13:01+00:00",
-        "url": "https://github.com/stffrdhrn/or1k-utils",
-        "id": 88059100
     },
     {
         "repo": "Sipeed-Tang-Gowin-FPGA",
@@ -14755,15 +14664,106 @@
         "id": 579653260
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 999,
+        "forks": 90,
+        "size": 1267,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-03-29T01:29:11+00:00",
+        "pushed": "2025-03-29T02:38:01+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1034,
+        "forks": 216,
+        "size": 839105,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-03-27T01:48:01+00:00",
+        "pushed": "2025-03-29T05:45:57+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 98,
+        "forks": 15,
+        "size": 6849,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-03-28T13:14:23+00:00",
+        "pushed": "2025-03-28T13:14:20+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 83,
+        "forks": 0,
+        "size": 2945,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-03-29T03:53:12+00:00",
+        "pushed": "2025-03-29T03:53:09+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 4,
+        "forks": 0,
+        "size": 20891,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2025-03-28T16:01:36+00:00",
+        "pushed": "2025-03-28T16:01:31+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "or1k-utils",
+        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
+        "owner": "stffrdhrn",
+        "stars": 4,
+        "forks": 0,
+        "size": 34831,
+        "created": "2017-04-12T14:08:53+00:00",
+        "updated": "2025-03-28T15:38:51+00:00",
+        "pushed": "2025-03-28T15:38:48+00:00",
+        "url": "https://github.com/stffrdhrn/or1k-utils",
+        "id": 88059100
+    },
+    {
+        "repo": "klinge",
+        "description": "Klinge Computer",
+        "owner": "machdyne",
+        "stars": 1,
+        "forks": 0,
+        "size": 1870,
+        "created": "2025-03-24T12:51:26+00:00",
+        "updated": "2025-03-28T10:57:59+00:00",
+        "pushed": "2025-03-28T10:57:54+00:00",
+        "url": "https://github.com/machdyne/klinge",
+        "id": 954020807
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 1985,
+        "size": 2024,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-03-28T04:37:17+00:00",
-        "pushed": "2025-03-28T04:37:14+00:00",
+        "updated": "2025-03-29T04:37:12+00:00",
+        "pushed": "2025-03-29T04:37:09+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14773,10 +14773,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 94794,
+        "size": 95318,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-03-28T03:22:53+00:00",
-        "pushed": "2025-03-28T03:22:49+00:00",
+        "updated": "2025-03-29T03:19:44+00:00",
+        "pushed": "2025-03-29T03:19:40+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
