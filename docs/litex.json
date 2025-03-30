@@ -14443,19 +14443,6 @@
         "id": 922969376
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 21,
-        "forks": 0,
-        "size": 7274,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-03-23T02:17:48+00:00",
-        "pushed": "2025-03-23T02:17:45+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
-    },
-    {
         "repo": "litex",
         "description": null,
         "owner": "dalerodgers",
@@ -14506,32 +14493,6 @@
         "pushed": "2025-03-23T14:18:25+00:00",
         "url": "https://github.com/rcallaby/LiteXfer",
         "id": 897628460
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1713,
-        "forks": 249,
-        "size": 234471,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-03-26T04:33:45+00:00",
-        "pushed": "2025-03-25T21:33:38+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "kakao",
-        "description": "Kakao Linux",
-        "owner": "machdyne",
-        "stars": 33,
-        "forks": 3,
-        "size": 24335,
-        "created": "2023-01-20T10:06:02+00:00",
-        "updated": "2025-03-25T12:02:37+00:00",
-        "pushed": "2025-03-25T12:02:32+00:00",
-        "url": "https://github.com/machdyne/kakao",
-        "id": 591257216
     },
     {
         "repo": "litex",
@@ -14664,19 +14625,6 @@
         "id": 579653260
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 999,
-        "forks": 90,
-        "size": 1267,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-03-29T01:29:11+00:00",
-        "pushed": "2025-03-29T02:38:01+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -14701,19 +14649,6 @@
         "pushed": "2025-03-28T13:14:20+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 83,
-        "forks": 0,
-        "size": 2945,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-03-29T03:53:12+00:00",
-        "pushed": "2025-03-29T03:53:09+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "cram-soc",
@@ -14755,15 +14690,80 @@
         "id": 954020807
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1001,
+        "forks": 90,
+        "size": 1267,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-03-29T10:57:01+00:00",
+        "pushed": "2025-03-30T02:38:18+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1714,
+        "forks": 249,
+        "size": 234840,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-03-29T19:06:39+00:00",
+        "pushed": "2025-03-29T20:45:35+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 83,
+        "forks": 0,
+        "size": 2960,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-03-30T04:27:35+00:00",
+        "pushed": "2025-03-30T04:27:32+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "kakao",
+        "description": "Kakao Linux",
+        "owner": "machdyne",
+        "stars": 33,
+        "forks": 3,
+        "size": 24337,
+        "created": "2023-01-20T10:06:02+00:00",
+        "updated": "2025-03-29T09:47:01+00:00",
+        "pushed": "2025-03-29T09:46:58+00:00",
+        "url": "https://github.com/machdyne/kakao",
+        "id": 591257216
+    },
+    {
+        "repo": "LitExten",
+        "description": null,
+        "owner": "DeadKesar",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2025-03-29T19:45:27+00:00",
+        "updated": "2025-03-29T19:45:35+00:00",
+        "pushed": "2025-03-29T19:45:31+00:00",
+        "url": "https://github.com/DeadKesar/LitExten",
+        "id": 957201708
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2024,
+        "size": 2062,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-03-29T04:37:12+00:00",
-        "pushed": "2025-03-29T04:37:09+00:00",
+        "updated": "2025-03-30T04:36:45+00:00",
+        "pushed": "2025-03-30T04:36:42+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14773,11 +14773,24 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 95318,
+        "size": 95821,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-03-29T03:19:44+00:00",
-        "pushed": "2025-03-29T03:19:40+00:00",
+        "updated": "2025-03-30T03:25:23+00:00",
+        "pushed": "2025-03-30T03:25:20+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 21,
+        "forks": 0,
+        "size": 7540,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-03-30T02:19:37+00:00",
+        "pushed": "2025-03-30T02:19:34+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
     }
 ]
