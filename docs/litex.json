@@ -12805,19 +12805,6 @@
         "id": 857490388
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
-        "owner": "apfaudio",
-        "stars": 188,
-        "forks": 13,
-        "size": 21871,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2024-12-14T14:12:34+00:00",
-        "pushed": "2024-12-14T13:37:17+00:00",
-        "url": "https://github.com/apfaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "tang-primer-verilog",
         "description": null,
         "owner": "Gabbo28",
@@ -14222,19 +14209,6 @@
         "id": 885556787
     },
     {
-        "repo": "rust-litex-hal",
-        "description": "A Rust embedded HAL crate for LiteX cores",
-        "owner": "pepijndevos",
-        "stars": 29,
-        "forks": 8,
-        "size": 71,
-        "created": "2020-08-04T14:03:13+00:00",
-        "updated": "2025-03-17T05:47:23+00:00",
-        "pushed": "2025-03-17T05:47:25+00:00",
-        "url": "https://github.com/pepijndevos/rust-litex-hal",
-        "id": 284997809
-    },
-    {
         "repo": "litex-rkbmt",
         "description": "litex rocket chip baremetal template",
         "owner": "thuvasooriya",
@@ -14482,19 +14456,6 @@
         "id": 951540158
     },
     {
-        "repo": "LiteXfer",
-        "description": "This is a small HTTP server meant to transfer files",
-        "owner": "rcallaby",
-        "stars": 1,
-        "forks": 0,
-        "size": 23,
-        "created": "2024-12-03T00:39:03+00:00",
-        "updated": "2025-03-23T14:18:29+00:00",
-        "pushed": "2025-03-23T14:18:25+00:00",
-        "url": "https://github.com/rcallaby/LiteXfer",
-        "id": 897628460
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -14612,19 +14573,6 @@
         "id": 579653260
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 98,
-        "forks": 15,
-        "size": 6849,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-03-28T13:14:23+00:00",
-        "pushed": "2025-03-28T13:14:20+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -14690,19 +14638,6 @@
         "id": 211116919
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1003,
-        "forks": 90,
-        "size": 1267,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-03-31T02:11:45+00:00",
-        "pushed": "2025-03-31T02:29:30+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -14714,19 +14649,6 @@
         "pushed": "2025-03-30T22:27:01+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1715,
-        "forks": 249,
-        "size": 234846,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-03-31T01:57:21+00:00",
-        "pushed": "2025-03-30T07:24:07+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "golitex",
@@ -14768,15 +14690,93 @@
         "id": 957201708
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1004,
+        "forks": 90,
+        "size": 1267,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-03-31T17:03:14+00:00",
+        "pushed": "2025-04-01T02:56:34+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 99,
+        "forks": 15,
+        "size": 6875,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-03-31T18:01:52+00:00",
+        "pushed": "2025-03-31T18:01:49+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1719,
+        "forks": 249,
+        "size": 234932,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-03-31T21:22:11+00:00",
+        "pushed": "2025-03-31T14:22:39+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
+        "owner": "apfaudio",
+        "stars": 199,
+        "forks": 13,
+        "size": 24086,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2025-03-31T08:38:15+00:00",
+        "pushed": "2025-03-31T19:00:14+00:00",
+        "url": "https://github.com/apfaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "LiteXfer",
+        "description": "This is a small HTTP server meant to transfer files",
+        "owner": "rcallaby",
+        "stars": 1,
+        "forks": 0,
+        "size": 24,
+        "created": "2024-12-03T00:39:03+00:00",
+        "updated": "2025-03-31T14:13:55+00:00",
+        "pushed": "2025-03-31T14:15:02+00:00",
+        "url": "https://github.com/rcallaby/LiteXfer",
+        "id": 897628460
+    },
+    {
+        "repo": "rust-litex-hal",
+        "description": "A Rust embedded HAL crate for LiteX cores",
+        "owner": "pepijndevos",
+        "stars": 29,
+        "forks": 8,
+        "size": 72,
+        "created": "2020-08-04T14:03:13+00:00",
+        "updated": "2025-04-01T05:43:21+00:00",
+        "pushed": "2025-04-01T05:43:16+00:00",
+        "url": "https://github.com/pepijndevos/rust-litex-hal",
+        "id": 284997809
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2117,
+        "size": 2118,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-03-31T04:37:18+00:00",
-        "pushed": "2025-03-31T04:37:15+00:00",
+        "updated": "2025-04-01T04:37:40+00:00",
+        "pushed": "2025-04-01T04:37:37+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14786,10 +14786,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 96346,
+        "size": 96872,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-03-31T03:25:42+00:00",
-        "pushed": "2025-03-31T03:25:38+00:00",
+        "updated": "2025-04-01T03:29:53+00:00",
+        "pushed": "2025-04-01T03:29:49+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
