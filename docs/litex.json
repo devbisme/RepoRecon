@@ -12584,19 +12584,6 @@
         "id": 891717652
     },
     {
-        "repo": "pythondata-cpu-coreblocks",
-        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
-        "owner": "kuznia-rdzeni",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2023-04-22T12:19:25+00:00",
-        "updated": "2024-11-25T18:23:55+00:00",
-        "pushed": "2024-11-25T18:23:52+00:00",
-        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
-        "id": 631249176
-    },
-    {
         "repo": "Capstone_Project",
         "description": null,
         "owner": "cherguihakim",
@@ -13453,19 +13440,6 @@
         "pushed": "2025-01-23T06:56:41+00:00",
         "url": "https://github.com/AllLiteV/.github",
         "id": 921006519
-    },
-    {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 2,
-        "forks": 3,
-        "size": 6051,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-01-15T12:31:11+00:00",
-        "pushed": "2025-01-24T11:37:40+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
     },
     {
         "repo": "litex-apps",
@@ -14521,19 +14495,6 @@
         "id": 564480301
     },
     {
-        "repo": "or1k-utils",
-        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
-        "owner": "stffrdhrn",
-        "stars": 4,
-        "forks": 0,
-        "size": 34831,
-        "created": "2017-04-12T14:08:53+00:00",
-        "updated": "2025-03-28T15:38:51+00:00",
-        "pushed": "2025-03-28T15:38:48+00:00",
-        "url": "https://github.com/stffrdhrn/or1k-utils",
-        "id": 88059100
-    },
-    {
         "repo": "klinge",
         "description": "Klinge Computer",
         "owner": "machdyne",
@@ -14571,19 +14532,6 @@
         "pushed": "2025-03-30T02:19:34+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1037,
-        "forks": 216,
-        "size": 845120,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-03-30T04:48:09+00:00",
-        "pushed": "2025-03-30T22:27:01+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
     },
     {
         "repo": "Sipeed-Tang-Gowin-FPGA",
@@ -14638,19 +14586,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1005,
-        "forks": 90,
-        "size": 1267,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-01T21:45:57+00:00",
-        "pushed": "2025-04-02T02:40:27+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -14677,19 +14612,6 @@
         "id": 274442284
     },
     {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 84,
-        "forks": 0,
-        "size": 2412,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-04-02T05:54:22+00:00",
-        "pushed": "2025-04-02T05:54:18+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "litei2c",
         "description": "Small footprint and configurable I2C core",
         "owner": "litex-hub",
@@ -14714,19 +14636,6 @@
         "pushed": "2025-04-02T05:05:47+00:00",
         "url": "https://github.com/tweakoz/ork.build",
         "id": 483508371
-    },
-    {
-        "repo": "LitExten",
-        "description": null,
-        "owner": "DeadKesar",
-        "stars": 0,
-        "forks": 0,
-        "size": 22,
-        "created": "2025-03-29T19:45:27+00:00",
-        "updated": "2025-04-01T09:27:07+00:00",
-        "pushed": "2025-04-01T09:27:04+00:00",
-        "url": "https://github.com/DeadKesar/LitExten",
-        "id": 957201708
     },
     {
         "repo": "LiteXfer",
@@ -14781,15 +14690,106 @@
         "id": 532379641
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1006,
+        "forks": 90,
+        "size": 1269,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-03T04:22:47+00:00",
+        "pushed": "2025-04-03T04:54:14+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1039,
+        "forks": 216,
+        "size": 845191,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-04-03T03:50:03+00:00",
+        "pushed": "2025-04-01T23:29:02+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 84,
+        "forks": 0,
+        "size": 2470,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-04-03T03:03:53+00:00",
+        "pushed": "2025-04-03T03:03:50+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 47727,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-02T13:55:44+00:00",
+        "pushed": "2025-04-02T13:55:40+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "or1k-utils",
+        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
+        "owner": "stffrdhrn",
+        "stars": 4,
+        "forks": 0,
+        "size": 34836,
+        "created": "2017-04-12T14:08:53+00:00",
+        "updated": "2025-04-02T15:14:13+00:00",
+        "pushed": "2025-04-02T15:14:09+00:00",
+        "url": "https://github.com/stffrdhrn/or1k-utils",
+        "id": 88059100
+    },
+    {
+        "repo": "pythondata-cpu-coreblocks",
+        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
+        "owner": "kuznia-rdzeni",
+        "stars": 1,
+        "forks": 0,
+        "size": 6,
+        "created": "2023-04-22T12:19:25+00:00",
+        "updated": "2025-04-02T14:49:54+00:00",
+        "pushed": "2025-04-02T14:49:50+00:00",
+        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
+        "id": 631249176
+    },
+    {
+        "repo": "LitExten",
+        "description": null,
+        "owner": "DeadKesar",
+        "stars": 0,
+        "forks": 0,
+        "size": 27,
+        "created": "2025-03-29T19:45:27+00:00",
+        "updated": "2025-04-02T07:12:42+00:00",
+        "pushed": "2025-04-02T07:12:39+00:00",
+        "url": "https://github.com/DeadKesar/LitExten",
+        "id": 957201708
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2119,
+        "size": 2158,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-02T04:37:23+00:00",
-        "pushed": "2025-04-02T04:37:21+00:00",
+        "updated": "2025-04-03T04:37:18+00:00",
+        "pushed": "2025-04-03T04:37:15+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14799,10 +14799,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 97405,
+        "size": 97936,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-02T03:23:24+00:00",
-        "pushed": "2025-04-02T03:23:20+00:00",
+        "updated": "2025-04-03T03:23:07+00:00",
+        "pushed": "2025-04-03T03:23:04+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
