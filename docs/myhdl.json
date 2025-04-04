@@ -5694,19 +5694,6 @@
         "id": 922144388
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14398,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-03-16T20:55:59+00:00",
-        "pushed": "2025-03-16T20:55:56+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "transaction-pysim-example",
         "description": null,
         "owner": "lx071",
@@ -5759,15 +5746,28 @@
         "id": 839539533
     },
     {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 14440,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2025-04-03T14:03:39+00:00",
+        "pushed": "2025-04-03T14:03:34+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
         "repo": "Athena-GPU",
         "description": "A simple tile based fixed function GPU written in MyHDL",
         "owner": "GlaireDaggers",
         "stars": 0,
         "forks": 0,
-        "size": 119,
+        "size": 148,
         "created": "2025-03-26T22:47:13+00:00",
-        "updated": "2025-04-02T03:59:17+00:00",
-        "pushed": "2025-04-02T03:59:13+00:00",
+        "updated": "2025-04-03T18:16:18+00:00",
+        "pushed": "2025-04-03T18:16:14+00:00",
         "url": "https://github.com/GlaireDaggers/Athena-GPU",
         "id": 955604307
     }
