@@ -13949,19 +13949,6 @@
         "id": 191191221
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 521,
-        "forks": 124,
-        "size": 1671,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2025-03-10T12:40:48+00:00",
-        "pushed": "2025-03-10T12:40:44+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -14573,19 +14560,6 @@
         "id": 274442284
     },
     {
-        "repo": "litei2c",
-        "description": "Small footprint and configurable I2C core",
-        "owner": "litex-hub",
-        "stars": 3,
-        "forks": 3,
-        "size": 19,
-        "created": "2024-09-24T06:34:32+00:00",
-        "updated": "2025-04-01T17:55:51+00:00",
-        "pushed": "2025-04-01T17:55:46+00:00",
-        "url": "https://github.com/litex-hub/litei2c",
-        "id": 862164421
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -14677,19 +14651,6 @@
         "id": 560725242
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1006,
-        "forks": 90,
-        "size": 1269,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-03T04:22:47+00:00",
-        "pushed": "2025-04-04T02:39:15+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -14701,32 +14662,6 @@
         "pushed": "2025-04-04T00:52:11+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 84,
-        "forks": 0,
-        "size": 2518,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-04-04T06:09:02+00:00",
-        "pushed": "2025-04-04T06:08:59+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 3,
-        "forks": 3,
-        "size": 47727,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-04-03T11:42:51+00:00",
-        "pushed": "2025-04-03T11:53:00+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
     },
     {
         "repo": "or1k-utils",
@@ -14794,15 +14729,80 @@
         "id": 631249176
     },
     {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 533,
+        "forks": 126,
+        "size": 1677,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2025-04-04T10:31:06+00:00",
+        "pushed": "2025-04-04T10:31:01+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1007,
+        "forks": 90,
+        "size": 1269,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-05T04:18:33+00:00",
+        "pushed": "2025-04-05T02:37:58+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 84,
+        "forks": 0,
+        "size": 2591,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-04-05T06:01:16+00:00",
+        "pushed": "2025-04-05T06:01:10+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "litei2c",
+        "description": "Small footprint and configurable I2C core",
+        "owner": "litex-hub",
+        "stars": 3,
+        "forks": 3,
+        "size": 22,
+        "created": "2024-09-24T06:34:32+00:00",
+        "updated": "2025-04-04T09:17:26+00:00",
+        "pushed": "2025-04-04T09:17:23+00:00",
+        "url": "https://github.com/litex-hub/litei2c",
+        "id": 862164421
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 47733,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-04T11:39:29+00:00",
+        "pushed": "2025-04-04T11:39:26+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2212,
+        "size": 2214,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-04T04:37:11+00:00",
-        "pushed": "2025-04-04T04:37:08+00:00",
+        "updated": "2025-04-05T04:36:15+00:00",
+        "pushed": "2025-04-05T04:36:12+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     }
