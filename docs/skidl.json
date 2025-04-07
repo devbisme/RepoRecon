@@ -1677,19 +1677,6 @@
         "id": 940092791
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1110,
-        "forks": 125,
-        "size": 56128,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-03-10T02:23:56+00:00",
-        "pushed": "2025-03-09T18:06:59+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -1714,19 +1701,6 @@
         "pushed": "2025-03-15T00:15:35+00:00",
         "url": "https://github.com/aselle/cheapaudio",
         "id": 466820332
-    },
-    {
-        "repo": "keyboard-pcb-helper",
-        "description": "Generate kicad file from keyboard layout files",
-        "owner": "aweltsch",
-        "stars": 0,
-        "forks": 0,
-        "size": 54,
-        "created": "2020-01-05T16:29:55+00:00",
-        "updated": "2025-03-17T19:48:30+00:00",
-        "pushed": "2025-03-17T19:48:27+00:00",
-        "url": "https://github.com/aweltsch/keyboard-pcb-helper",
-        "id": 231945306
     },
     {
         "repo": "kicad-kbplacer",
@@ -1781,19 +1755,6 @@
         "id": 768320430
     },
     {
-        "repo": "ROBOTICS-astroshuttle",
-        "description": "ROBOTICS - but make it astroshuttle's stuff",
-        "owner": "astro-shuttle",
-        "stars": 1,
-        "forks": 0,
-        "size": 1639,
-        "created": "2025-03-26T22:11:44+00:00",
-        "updated": "2025-04-04T05:36:17+00:00",
-        "pushed": "2025-04-04T05:36:13+00:00",
-        "url": "https://github.com/astro-shuttle/ROBOTICS-astroshuttle",
-        "id": 955592606
-    },
-    {
         "repo": "Skidlamdog",
         "description": null,
         "owner": "trianMi2149V",
@@ -1818,5 +1779,44 @@
         "pushed": "2025-04-04T09:39:46+00:00",
         "url": "https://github.com/trianMi2149V/Skidladog",
         "id": 959197308
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1128,
+        "forks": 130,
+        "size": 56150,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2025-04-07T03:56:48+00:00",
+        "pushed": "2025-04-06T03:08:18+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "keyboard-pcb-helper",
+        "description": "Generate kicad file from keyboard layout files",
+        "owner": "aweltsch",
+        "stars": 0,
+        "forks": 0,
+        "size": 56,
+        "created": "2020-01-05T16:29:55+00:00",
+        "updated": "2025-04-06T11:53:47+00:00",
+        "pushed": "2025-04-06T11:53:44+00:00",
+        "url": "https://github.com/aweltsch/keyboard-pcb-helper",
+        "id": 231945306
+    },
+    {
+        "repo": "ROBOTICS-astroshuttle",
+        "description": "ROBOTICS - but make it astroshuttle's stuff",
+        "owner": "astro-shuttle",
+        "stars": 1,
+        "forks": 0,
+        "size": 1652,
+        "created": "2025-03-26T22:11:44+00:00",
+        "updated": "2025-04-06T22:49:34+00:00",
+        "pushed": "2025-04-06T22:49:30+00:00",
+        "url": "https://github.com/astro-shuttle/ROBOTICS-astroshuttle",
+        "id": 955592606
     }
 ]
