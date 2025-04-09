@@ -14339,19 +14339,6 @@
         "id": 932121353
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 28492,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-03-27T00:59:38+00:00",
-        "pushed": "2025-03-27T00:59:35+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "CFU-Playground",
         "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
         "owner": "google",
@@ -14508,19 +14495,6 @@
         "id": 483508371
     },
     {
-        "repo": "LiteXfer",
-        "description": "This is a small HTTP server meant to transfer files",
-        "owner": "rcallaby",
-        "stars": 1,
-        "forks": 0,
-        "size": 29,
-        "created": "2024-12-03T00:39:03+00:00",
-        "updated": "2025-04-01T15:16:20+00:00",
-        "pushed": "2025-04-01T15:20:21+00:00",
-        "url": "https://github.com/rcallaby/LiteXfer",
-        "id": 897628460
-    },
-    {
         "repo": "accel2d",
         "description": null,
         "owner": "openconcepts-ar",
@@ -14651,32 +14625,6 @@
         "id": 211116919
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1040,
-        "forks": 216,
-        "size": 845582,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-04-07T06:04:34+00:00",
-        "pushed": "2025-04-07T05:14:02+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 3,
-        "forks": 3,
-        "size": 47733,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-04-07T05:23:48+00:00",
-        "pushed": "2025-04-07T05:23:54+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "litex-rkbmt",
         "description": "litex rocket chip baremetal template",
         "owner": "thuvasooriya",
@@ -14690,19 +14638,6 @@
         "id": 949683447
     },
     {
-        "repo": "docker-linuxonlitex",
-        "description": "Dockerfile and required toolchain for run Linux on Sipeed primer 20k",
-        "owner": "gr8linux",
-        "stars": 0,
-        "forks": 0,
-        "size": 590902,
-        "created": "2023-10-28T16:49:44+00:00",
-        "updated": "2025-04-06T10:18:33+00:00",
-        "pushed": "2025-04-06T10:17:44+00:00",
-        "url": "https://github.com/gr8linux/docker-linuxonlitex",
-        "id": 711247595
-    },
-    {
         "repo": "fpga_example",
         "description": "DevContainers for f4pga-examples",
         "owner": "TheCBaH",
@@ -14714,32 +14649,6 @@
         "pushed": "2025-04-07T06:01:00+00:00",
         "url": "https://github.com/TheCBaH/fpga_example",
         "id": 624968379
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1013,
-        "forks": 90,
-        "size": 1269,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-08T00:03:55+00:00",
-        "pushed": "2025-04-08T02:40:02+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1728,
-        "forks": 249,
-        "size": 235179,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-04-07T19:31:45+00:00",
-        "pushed": "2025-04-07T20:43:49+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "golitex",
@@ -14807,17 +14716,108 @@
         "id": 873518178
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1013,
+        "forks": 90,
+        "size": 1269,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-08T00:03:55+00:00",
+        "pushed": "2025-04-09T02:42:14+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1042,
+        "forks": 216,
+        "size": 858008,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-04-07T16:05:52+00:00",
+        "pushed": "2025-04-08T21:24:32+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1728,
+        "forks": 250,
+        "size": 235224,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-04-08T18:23:48+00:00",
+        "pushed": "2025-04-08T18:26:11+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 51234,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-08T15:32:08+00:00",
+        "pushed": "2025-04-08T15:32:04+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "docker-linuxonlitex",
+        "description": "Dockerfile and required toolchain for run Linux on Sipeed primer 20k",
+        "owner": "gr8linux",
+        "stars": 0,
+        "forks": 0,
+        "size": 590903,
+        "created": "2023-10-28T16:49:44+00:00",
+        "updated": "2025-04-08T18:22:45+00:00",
+        "pushed": "2025-04-08T18:22:32+00:00",
+        "url": "https://github.com/gr8linux/docker-linuxonlitex",
+        "id": 711247595
+    },
+    {
+        "repo": "LiteXfer",
+        "description": "This is a small HTTP server meant to transfer files",
+        "owner": "rcallaby",
+        "stars": 1,
+        "forks": 0,
+        "size": 31,
+        "created": "2024-12-03T00:39:03+00:00",
+        "updated": "2025-04-08T14:17:26+00:00",
+        "pushed": "2025-04-08T14:17:22+00:00",
+        "url": "https://github.com/rcallaby/LiteXfer",
+        "id": 897628460
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2218,
+        "size": 2310,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-08T04:37:42+00:00",
-        "pushed": "2025-04-08T04:37:38+00:00",
+        "updated": "2025-04-09T04:37:22+00:00",
+        "pushed": "2025-04-09T04:37:19+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 30306,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-04-09T00:59:56+00:00",
+        "pushed": "2025-04-09T00:59:52+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -14825,10 +14825,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 91238,
+        "size": 91770,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-08T03:23:23+00:00",
-        "pushed": "2025-04-08T03:23:19+00:00",
+        "updated": "2025-04-09T03:24:05+00:00",
+        "pushed": "2025-04-09T03:24:01+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
