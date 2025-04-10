@@ -14352,19 +14352,6 @@
         "id": 346151420
     },
     {
-        "repo": "lilydrum",
-        "description": "Drums and Lilypond",
-        "owner": "snowgoon88",
-        "stars": 3,
-        "forks": 0,
-        "size": 1549,
-        "created": "2019-02-04T12:02:21+00:00",
-        "updated": "2025-03-27T07:51:11+00:00",
-        "pushed": "2025-03-27T07:51:06+00:00",
-        "url": "https://github.com/snowgoon88/lilydrum",
-        "id": 169072211
-    },
-    {
         "repo": "dev-hack95",
         "description": null,
         "owner": "dev-hack95",
@@ -14430,19 +14417,6 @@
         "id": 954648502
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
-        "owner": "apfaudio",
-        "stars": 199,
-        "forks": 13,
-        "size": 24086,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2025-03-31T08:38:15+00:00",
-        "pushed": "2025-03-31T19:00:14+00:00",
-        "url": "https://github.com/apfaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "rust-litex-hal",
         "description": "A Rust embedded HAL crate for LiteX cores",
         "owner": "pepijndevos",
@@ -14454,45 +14428,6 @@
         "pushed": "2025-04-01T05:43:16+00:00",
         "url": "https://github.com/pepijndevos/rust-litex-hal",
         "id": 284997809
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3240,
-        "forks": 607,
-        "size": 17499,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-04-01T14:41:02+00:00",
-        "pushed": "2025-04-01T11:30:00+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 99,
-        "forks": 16,
-        "size": 6905,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-04-01T11:31:25+00:00",
-        "pushed": "2025-04-01T11:31:22+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 2,
-        "size": 1456,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2025-04-02T05:05:50+00:00",
-        "pushed": "2025-04-02T05:05:47+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
     },
     {
         "repo": "accel2d",
@@ -14545,19 +14480,6 @@
         "pushed": "2025-04-04T03:20:33+00:00",
         "url": "https://github.com/chili-chips-ba/openCologne",
         "id": 798146281
-    },
-    {
-        "repo": "scr1-colorlight-i9-litex",
-        "description": "An attempt to run SCR1 on Colorlight i9 using LiteX",
-        "owner": "Mukovenkov-Roman-Sergeyevich",
-        "stars": 0,
-        "forks": 0,
-        "size": 1484,
-        "created": "2025-01-07T13:23:31+00:00",
-        "updated": "2025-04-03T20:16:34+00:00",
-        "pushed": "2025-04-03T20:16:30+00:00",
-        "url": "https://github.com/Mukovenkov-Roman-Sergeyevich/scr1-colorlight-i9-litex",
-        "id": 913327181
     },
     {
         "repo": "LiTeX-eq-renderer",
@@ -14651,19 +14573,6 @@
         "id": 624968379
     },
     {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 84,
-        "forks": 0,
-        "size": 2831,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-04-08T04:39:01+00:00",
-        "pushed": "2025-04-08T04:38:57+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "or1k-utils",
         "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
         "owner": "stffrdhrn",
@@ -14716,32 +14625,6 @@
         "id": 873518178
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1013,
-        "forks": 90,
-        "size": 1269,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-08T00:03:55+00:00",
-        "pushed": "2025-04-09T02:42:14+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1042,
-        "forks": 216,
-        "size": 858008,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-04-07T16:05:52+00:00",
-        "pushed": "2025-04-08T21:24:32+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -14753,19 +14636,6 @@
         "pushed": "2025-04-08T18:26:11+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 3,
-        "forks": 3,
-        "size": 51234,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-04-08T15:32:08+00:00",
-        "pushed": "2025-04-08T15:32:04+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
     },
     {
         "repo": "docker-linuxonlitex",
@@ -14794,19 +14664,6 @@
         "id": 897628460
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 7,
-        "forks": 0,
-        "size": 2310,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-09T04:37:22+00:00",
-        "pushed": "2025-04-09T04:37:19+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -14820,15 +14677,158 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3257,
+        "forks": 609,
+        "size": 17501,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-04-10T06:08:25+00:00",
+        "pushed": "2025-04-10T06:08:20+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1013,
+        "forks": 90,
+        "size": 1269,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-08T00:03:55+00:00",
+        "pushed": "2025-04-10T02:40:54+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1046,
+        "forks": 216,
+        "size": 856126,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-04-10T03:09:20+00:00",
+        "pushed": "2025-04-10T03:39:12+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 101,
+        "forks": 17,
+        "size": 6962,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-04-06T07:58:00+00:00",
+        "pushed": "2025-04-09T17:56:29+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 88,
+        "forks": 0,
+        "size": 2909,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-04-09T07:59:04+00:00",
+        "pushed": "2025-04-09T07:59:00+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 51894,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-09T13:00:24+00:00",
+        "pushed": "2025-04-09T13:00:21+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
+        "owner": "apfaudio",
+        "stars": 200,
+        "forks": 13,
+        "size": 27697,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2025-04-09T18:25:01+00:00",
+        "pushed": "2025-04-05T20:52:40+00:00",
+        "url": "https://github.com/apfaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
+        "repo": "lilydrum",
+        "description": "Drums and Lilypond",
+        "owner": "snowgoon88",
+        "stars": 3,
+        "forks": 0,
+        "size": 1551,
+        "created": "2019-02-04T12:02:21+00:00",
+        "updated": "2025-04-09T06:19:43+00:00",
+        "pushed": "2025-04-09T06:19:40+00:00",
+        "url": "https://github.com/snowgoon88/lilydrum",
+        "id": 169072211
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 2,
+        "size": 1468,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2025-04-09T23:14:50+00:00",
+        "pushed": "2025-04-09T23:14:47+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "scr1-colorlight-i9-litex",
+        "description": "An attempt to run SCR1 on Colorlight i9 using LiteX",
+        "owner": "Mukovenkov-Roman-Sergeyevich",
+        "stars": 0,
+        "forks": 0,
+        "size": 1485,
+        "created": "2025-01-07T13:23:31+00:00",
+        "updated": "2025-04-09T13:51:20+00:00",
+        "pushed": "2025-04-09T13:51:16+00:00",
+        "url": "https://github.com/Mukovenkov-Roman-Sergeyevich/scr1-colorlight-i9-litex",
+        "id": 913327181
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 7,
+        "forks": 0,
+        "size": 2349,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-04-10T04:37:22+00:00",
+        "pushed": "2025-04-10T04:37:18+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 91770,
+        "size": 92302,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-09T03:24:05+00:00",
-        "pushed": "2025-04-09T03:24:01+00:00",
+        "updated": "2025-04-10T03:24:11+00:00",
+        "pushed": "2025-04-10T03:24:08+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
