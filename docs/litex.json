@@ -12870,19 +12870,6 @@
         "id": 904210306
     },
     {
-        "repo": "zephyr-on-litex-coreblocks",
-        "description": "LiteX SoC builder for Zephyr litex_coreblocks configuration",
-        "owner": "kuznia-rdzeni",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2024-11-10T12:16:22+00:00",
-        "updated": "2024-12-19T22:54:48+00:00",
-        "pushed": "2024-12-19T22:54:44+00:00",
-        "url": "https://github.com/kuznia-rdzeni/zephyr-on-litex-coreblocks",
-        "id": 886179466
-    },
-    {
         "repo": "Clock_Glitching_PMP_VexRiscv_Terasic_SoCKit",
         "description": null,
         "owner": "Jiraax",
@@ -14144,19 +14131,6 @@
         "id": 155514739
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 44,
-        "forks": 18,
-        "size": 61114,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-03-18T09:17:18+00:00",
-        "pushed": "2025-03-18T09:32:14+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "description": "Start a Mining Pool, Software, Script to Install, Configure & Setup Yiimp/Miningcore/NOMP Crypto Mining Pool on Ubuntu 16.04, 18.04, 20.01, 20.04, 21.01, 21.04, 22.04 and 24.04 VPS or Dedicated Servers",
         "owner": "goodthebest",
@@ -14207,19 +14181,6 @@
         "pushed": "2025-03-20T06:56:16+00:00",
         "url": "https://github.com/Mark1626/Mark1626",
         "id": 285833276
-    },
-    {
-        "repo": "SPDM-Hardware-Implementation",
-        "description": null,
-        "owner": "GustavsC",
-        "stars": 1,
-        "forks": 0,
-        "size": 8763,
-        "created": "2023-11-27T21:15:01+00:00",
-        "updated": "2025-03-21T14:58:31+00:00",
-        "pushed": "2025-03-21T14:58:27+00:00",
-        "url": "https://github.com/GustavsC/SPDM-Hardware-Implementation",
-        "id": 724325307
     },
     {
         "repo": "CVA6-RT",
@@ -14495,19 +14456,6 @@
         "id": 631249176
     },
     {
-        "repo": "litepcie",
-        "description": "Small footprint and configurable PCIe core",
-        "owner": "enjoy-digital",
-        "stars": 533,
-        "forks": 126,
-        "size": 1677,
-        "created": "2015-09-07T08:45:27+00:00",
-        "updated": "2025-04-04T10:31:06+00:00",
-        "pushed": "2025-04-04T10:31:01+00:00",
-        "url": "https://github.com/enjoy-digital/litepcie",
-        "id": 42041717
-    },
-    {
         "repo": "litei2c",
         "description": "Small footprint and configurable I2C core",
         "owner": "litex-hub",
@@ -14664,19 +14612,6 @@
         "id": 45734719
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 3,
-        "forks": 3,
-        "size": 51894,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-04-09T13:00:24+00:00",
-        "pushed": "2025-04-09T13:00:21+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "eurorack-pmod",
         "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
         "owner": "apfaudio",
@@ -14729,19 +14664,6 @@
         "id": 913327181
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1013,
-        "forks": 90,
-        "size": 1269,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-10T12:36:03+00:00",
-        "pushed": "2025-04-11T02:41:37+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -14753,32 +14675,6 @@
         "pushed": "2025-04-11T04:13:41+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 102,
-        "forks": 17,
-        "size": 6964,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-04-10T19:55:35+00:00",
-        "pushed": "2025-04-10T19:55:31+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 88,
-        "forks": 0,
-        "size": 2999,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-04-10T09:15:06+00:00",
-        "pushed": "2025-04-10T09:15:01+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "or1k-utils",
@@ -14807,15 +14703,119 @@
         "id": 922355485
     },
     {
+        "repo": "litepcie",
+        "description": "Small footprint and configurable PCIe core",
+        "owner": "enjoy-digital",
+        "stars": 537,
+        "forks": 127,
+        "size": 1679,
+        "created": "2015-09-07T08:45:27+00:00",
+        "updated": "2025-04-11T10:31:31+00:00",
+        "pushed": "2025-04-11T10:31:27+00:00",
+        "url": "https://github.com/enjoy-digital/litepcie",
+        "id": 42041717
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1014,
+        "forks": 90,
+        "size": 1269,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-11T23:07:49+00:00",
+        "pushed": "2025-04-12T02:33:57+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 102,
+        "forks": 17,
+        "size": 6983,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-04-11T17:11:04+00:00",
+        "pushed": "2025-04-11T17:10:59+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 46,
+        "forks": 18,
+        "size": 61872,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-04-11T11:43:19+00:00",
+        "pushed": "2025-04-11T11:58:12+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 88,
+        "forks": 0,
+        "size": 3052,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-04-11T06:32:37+00:00",
+        "pushed": "2025-04-11T06:32:33+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 52124,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-11T09:09:10+00:00",
+        "pushed": "2025-04-11T09:09:06+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "SPDM-Hardware-Implementation",
+        "description": null,
+        "owner": "GustavsC",
+        "stars": 1,
+        "forks": 0,
+        "size": 9827,
+        "created": "2023-11-27T21:15:01+00:00",
+        "updated": "2025-04-11T13:35:08+00:00",
+        "pushed": "2025-04-11T13:35:02+00:00",
+        "url": "https://github.com/GustavsC/SPDM-Hardware-Implementation",
+        "id": 724325307
+    },
+    {
+        "repo": "zephyr-on-litex-coreblocks",
+        "description": "LiteX SoC builder for Zephyr litex_coreblocks configuration",
+        "owner": "kuznia-rdzeni",
+        "stars": 0,
+        "forks": 1,
+        "size": 6,
+        "created": "2024-11-10T12:16:22+00:00",
+        "updated": "2025-04-11T08:15:24+00:00",
+        "pushed": "2025-04-11T08:15:21+00:00",
+        "url": "https://github.com/kuznia-rdzeni/zephyr-on-litex-coreblocks",
+        "id": 886179466
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2350,
+        "size": 2442,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-11T04:37:31+00:00",
-        "pushed": "2025-04-11T04:37:28+00:00",
+        "updated": "2025-04-12T04:37:18+00:00",
+        "pushed": "2025-04-12T04:37:14+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14825,10 +14825,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 92836,
+        "size": 93369,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-11T03:24:15+00:00",
-        "pushed": "2025-04-11T03:24:11+00:00",
+        "updated": "2025-04-12T03:21:36+00:00",
+        "pushed": "2025-04-12T03:21:32+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

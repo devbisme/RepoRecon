@@ -5707,19 +5707,6 @@
         "id": 143520625
     },
     {
-        "repo": "AND-gate-cosim-madness",
-        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
-        "owner": "Kreijstal",
-        "stars": 0,
-        "forks": 0,
-        "size": 570,
-        "created": "2024-08-07T20:23:56+00:00",
-        "updated": "2025-03-31T21:46:59+00:00",
-        "pushed": "2025-03-31T21:46:56+00:00",
-        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
-        "id": 839539533
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5770,5 +5757,18 @@
         "pushed": "2025-04-10T18:55:22+00:00",
         "url": "https://github.com/myhdl/myhdl",
         "id": 30467971
+    },
+    {
+        "repo": "AND-gate-cosim-madness",
+        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
+        "owner": "Kreijstal",
+        "stars": 0,
+        "forks": 0,
+        "size": 573,
+        "created": "2024-08-07T20:23:56+00:00",
+        "updated": "2025-04-11T13:55:35+00:00",
+        "pushed": "2025-04-11T13:55:32+00:00",
+        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
+        "id": 839539533
     }
 ]
