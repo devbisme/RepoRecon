@@ -42809,19 +42809,6 @@
         "id": 962644727
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 6,
-        "forks": 2,
-        "size": 12346,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2025-04-09T02:14:54+00:00",
-        "pushed": "2025-04-09T02:14:51+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -42833,19 +42820,6 @@
         "pushed": "2025-04-10T04:00:33+00:00",
         "url": "https://github.com/sipeed/MaixPy",
         "id": 745771617
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1468,
-        "forks": 313,
-        "size": 61556,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-04-10T06:01:07+00:00",
-        "pushed": "2025-04-09T14:27:36+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
     },
     {
         "repo": "canmv",
@@ -42952,19 +42926,6 @@
         "id": 793843389
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 10991,
-        "forks": 5137,
-        "size": 896453,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-04-11T06:15:19+00:00",
-        "pushed": "2025-04-11T06:15:12+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rtsmart",
         "description": null,
         "owner": "canmv-k230",
@@ -43069,19 +43030,6 @@
         "id": 385102171
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 67,
-        "forks": 7,
-        "size": 51368,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-04-12T01:15:22+00:00",
-        "pushed": "2025-04-12T01:16:10+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "Baremetal-NN",
         "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
         "owner": "ucb-bar",
@@ -43147,6 +43095,58 @@
         "id": 956055814
     },
     {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1471,
+        "forks": 313,
+        "size": 61566,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-04-12T17:17:05+00:00",
+        "pushed": "2025-04-12T13:06:41+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 68,
+        "forks": 8,
+        "size": 51369,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-04-13T02:31:34+00:00",
+        "pushed": "2025-04-13T02:31:31+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 10992,
+        "forks": 5136,
+        "size": 896463,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-04-13T01:21:09+00:00",
+        "pushed": "2025-04-12T15:04:45+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "AI-fruit",
+        "description": "AI\u8bc6\u522b\u79f0\u91cd\u7cfb\u7edf/AI\u7535\u5b50\u79e4/stm32+k210",
+        "owner": "flipped-6",
+        "stars": 0,
+        "forks": 0,
+        "size": 48950,
+        "created": "2025-04-12T11:24:49+00:00",
+        "updated": "2025-04-13T03:38:04+00:00",
+        "pushed": "2025-04-13T02:32:48+00:00",
+        "url": "https://github.com/flipped-6/AI-fruit",
+        "id": 965083241
+    },
+    {
         "repo": "HPUhushicheng",
         "description": null,
         "owner": "HPUhushicheng",
@@ -43155,9 +43155,22 @@
         "size": 21,
         "created": "2023-03-31T11:23:32+00:00",
         "updated": "2025-04-07T08:06:35+00:00",
-        "pushed": "2025-04-12T00:48:03+00:00",
+        "pushed": "2025-04-13T02:14:46+00:00",
         "url": "https://github.com/HPUhushicheng/HPUhushicheng",
         "id": 621780685
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 6,
+        "forks": 2,
+        "size": 12851,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2025-04-13T03:37:12+00:00",
+        "pushed": "2025-04-13T03:37:09+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
     },
     {
         "repo": "awesome-stars",
@@ -43165,10 +43178,10 @@
         "owner": "silentEAG",
         "stars": 9,
         "forks": 1,
-        "size": 4516,
+        "size": 4711,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-04-12T02:09:57+00:00",
-        "pushed": "2025-04-12T02:09:54+00:00",
+        "updated": "2025-04-13T03:35:10+00:00",
+        "pushed": "2025-04-13T03:35:08+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -43178,10 +43191,10 @@
         "owner": "androidtrackers",
         "stars": 133,
         "forks": 38,
-        "size": 947092,
+        "size": 947095,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-04-11T12:35:31+00:00",
-        "pushed": "2025-04-11T12:35:27+00:00",
+        "updated": "2025-04-12T12:31:26+00:00",
+        "pushed": "2025-04-12T12:31:22+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
