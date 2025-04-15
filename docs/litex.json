@@ -14352,19 +14352,6 @@
         "id": 591257216
     },
     {
-        "repo": "Sipeed-Tang-Gowin-FPGA",
-        "description": "Some notes about Sipeed FPGA boards ",
-        "owner": "alberto-grl",
-        "stars": 0,
-        "forks": 0,
-        "size": 18,
-        "created": "2025-03-25T12:05:08+00:00",
-        "updated": "2025-03-30T21:04:37+00:00",
-        "pushed": "2025-03-30T21:04:34+00:00",
-        "url": "https://github.com/alberto-grl/Sipeed-Tang-Gowin-FPGA",
-        "id": 954648502
-    },
-    {
         "repo": "rust-litex-hal",
         "description": "A Rust embedded HAL crate for LiteX cores",
         "owner": "pepijndevos",
@@ -14638,19 +14625,6 @@
         "id": 468027705
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 3,
-        "forks": 3,
-        "size": 52124,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-04-11T09:09:10+00:00",
-        "pushed": "2025-04-11T09:09:06+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "SPDM-Hardware-Implementation",
         "description": null,
         "owner": "GustavsC",
@@ -14703,19 +14677,6 @@
         "id": 731331266
     },
     {
-        "repo": "or1k-utils",
-        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
-        "owner": "stffrdhrn",
-        "stars": 5,
-        "forks": 0,
-        "size": 34865,
-        "created": "2017-04-12T14:08:53+00:00",
-        "updated": "2025-04-12T09:02:58+00:00",
-        "pushed": "2025-04-12T09:02:55+00:00",
-        "url": "https://github.com/stffrdhrn/or1k-utils",
-        "id": 88059100
-    },
-    {
         "repo": "scr1-colorlight-i9-litex",
         "description": "An attempt to run SCR1 on Colorlight i9 using LiteX",
         "owner": "Mukovenkov-Roman-Sergeyevich",
@@ -14740,32 +14701,6 @@
         "pushed": "2025-04-13T03:36:39+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1016,
-        "forks": 90,
-        "size": 1269,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-12T12:48:05+00:00",
-        "pushed": "2025-04-14T02:29:56+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1047,
-        "forks": 217,
-        "size": 868625,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-04-10T09:27:26+00:00",
-        "pushed": "2025-04-13T22:14:20+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
     },
     {
         "repo": "golitex",
@@ -14807,15 +14742,80 @@
         "id": 922355485
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1018,
+        "forks": 90,
+        "size": 1269,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-14T09:48:17+00:00",
+        "pushed": "2025-04-15T02:44:29+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1048,
+        "forks": 217,
+        "size": 885569,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-04-14T07:56:58+00:00",
+        "pushed": "2025-04-15T04:59:35+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 54928,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-14T12:41:41+00:00",
+        "pushed": "2025-04-14T12:41:38+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "or1k-utils",
+        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
+        "owner": "stffrdhrn",
+        "stars": 5,
+        "forks": 0,
+        "size": 34867,
+        "created": "2017-04-12T14:08:53+00:00",
+        "updated": "2025-04-15T05:33:05+00:00",
+        "pushed": "2025-04-15T05:33:02+00:00",
+        "url": "https://github.com/stffrdhrn/or1k-utils",
+        "id": 88059100
+    },
+    {
+        "repo": "Sipeed-Tang-Gowin-FPGA",
+        "description": "Some notes about Sipeed FPGA boards ",
+        "owner": "alberto-grl",
+        "stars": 2,
+        "forks": 0,
+        "size": 28,
+        "created": "2025-03-25T12:05:08+00:00",
+        "updated": "2025-04-14T22:43:49+00:00",
+        "pushed": "2025-04-14T22:43:46+00:00",
+        "url": "https://github.com/alberto-grl/Sipeed-Tang-Gowin-FPGA",
+        "id": 954648502
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2482,
+        "size": 2574,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-14T04:36:46+00:00",
-        "pushed": "2025-04-14T04:36:42+00:00",
+        "updated": "2025-04-15T04:37:24+00:00",
+        "pushed": "2025-04-15T04:37:20+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14825,10 +14825,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 94433,
+        "size": 94970,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-14T03:26:39+00:00",
-        "pushed": "2025-04-14T03:26:36+00:00",
+        "updated": "2025-04-15T03:26:18+00:00",
+        "pushed": "2025-04-15T03:26:14+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
