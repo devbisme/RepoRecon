@@ -9815,19 +9815,6 @@
         "id": 226127006
     },
     {
-        "repo": "ComputerVision",
-        "description": "En repo f\u00f6r det vi g\u00f6r inom Computer Vision",
-        "owner": "abbjoafli",
-        "stars": 1,
-        "forks": 4,
-        "size": 12216,
-        "created": "2019-12-06T12:56:27Z",
-        "updated": "2021-10-27T10:52:51Z",
-        "pushed": "2021-10-27T10:52:48Z",
-        "url": "https://github.com/abbjoafli/ComputerVision",
-        "id": 226330260
-    },
-    {
         "repo": "deepqmc",
         "description": "Deep learning quantum Monte Carlo for electrons in real space",
         "owner": "deepqmc",
@@ -41938,19 +41925,6 @@
         "id": 945330381
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 13,
-        "forks": 4,
-        "size": 4115,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-03-24T14:15:21+00:00",
-        "pushed": "2025-03-24T14:15:17+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "rv",
         "description": null,
         "owner": "HuXiabing",
@@ -41988,19 +41962,6 @@
         "pushed": "2025-03-26T05:34:15+00:00",
         "url": "https://github.com/heyuanjie87/bsp-k230",
         "id": 863927307
-    },
-    {
-        "repo": "portfolio",
-        "description": null,
-        "owner": "tech-k510",
-        "stars": 0,
-        "forks": 0,
-        "size": 1086,
-        "created": "2025-03-24T00:51:12+00:00",
-        "updated": "2025-03-26T06:06:56+00:00",
-        "pushed": "2025-03-26T06:06:52+00:00",
-        "url": "https://github.com/tech-k510/portfolio",
-        "id": 953719015
     },
     {
         "repo": "slides",
@@ -42718,19 +42679,6 @@
         "id": 962644727
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 271,
-        "forks": 55,
-        "size": 66744,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-04-06T11:22:04+00:00",
-        "pushed": "2025-04-10T04:00:33+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "Arduino_k210",
         "description": "Arduino IIC \u63a7\u5236 k210",
         "owner": "cyc36880",
@@ -42835,19 +42783,6 @@
         "id": 934649616
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 219,
-        "forks": 43,
-        "size": 197031,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-04-11T08:26:08+00:00",
-        "pushed": "2025-04-11T13:56:07+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "Baremetal-NN",
         "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
         "owner": "ucb-bar",
@@ -42939,45 +42874,6 @@
         "id": 833017762
     },
     {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 0,
-        "forks": 2,
-        "size": 537651,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2025-04-14T02:47:50+00:00",
-        "pushed": "2025-04-14T02:47:48+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 9,
-        "forks": 1,
-        "size": 4907,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-04-14T02:17:18+00:00",
-        "pushed": "2025-04-14T02:17:15+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 784,
-        "forks": 193,
-        "size": 63433,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-04-11T06:28:01+00:00",
-        "pushed": "2025-04-15T06:12:35+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -43002,32 +42898,6 @@
         "pushed": "2025-04-15T04:05:40+00:00",
         "url": "https://github.com/cherry-embedded/CherryUSB",
         "id": 384673180
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 74,
-        "forks": 20,
-        "size": 127465,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-04-14T13:25:15+00:00",
-        "pushed": "2025-04-14T08:46:38+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
-        "owner": "RT-Thread",
-        "stars": 11007,
-        "forks": 5136,
-        "size": 896637,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-04-15T02:24:27+00:00",
-        "pushed": "2025-04-14T11:14:55+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "rtsmart",
@@ -43056,19 +42926,6 @@
         "id": 461270746
     },
     {
-        "repo": "maix.github.io",
-        "description": "Pagina Web de MAIX",
-        "owner": "canvar-art",
-        "stars": 0,
-        "forks": 0,
-        "size": 2085,
-        "created": "2025-04-14T21:01:58+00:00",
-        "updated": "2025-04-14T23:02:05+00:00",
-        "pushed": "2025-04-14T23:02:02+00:00",
-        "url": "https://github.com/canvar-art/maix.github.io",
-        "id": 966387162
-    },
-    {
         "repo": "aseprite",
         "description": null,
         "owner": "maix-flake",
@@ -43080,19 +42937,6 @@
         "pushed": "2025-04-14T10:55:38+00:00",
         "url": "https://github.com/maix-flake/aseprite",
         "id": 580041108
-    },
-    {
-        "repo": "XINGKUNBEIC",
-        "description": null,
-        "owner": "Crosonon",
-        "stars": 0,
-        "forks": 0,
-        "size": 15199,
-        "created": "2025-04-01T15:57:25+00:00",
-        "updated": "2025-04-14T16:39:28+00:00",
-        "pushed": "2025-04-14T16:39:25+00:00",
-        "url": "https://github.com/Crosonon/XINGKUNBEIC",
-        "id": 958693291
     },
     {
         "repo": "rofi",
@@ -43134,19 +42978,6 @@
         "id": 963670953
     },
     {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 1,
-        "size": 21,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-04-07T08:06:35+00:00",
-        "pushed": "2025-04-15T00:50:55+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
-    },
-    {
         "repo": "cargo-semver-checks",
         "description": "A nix flake for Cargo semver Checks",
         "owner": "maix-flake",
@@ -43173,19 +43004,6 @@
         "id": 720210545
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 6,
-        "forks": 2,
-        "size": 13355,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2025-04-15T02:18:30+00:00",
-        "pushed": "2025-04-15T02:18:27+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -43199,15 +43017,210 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 785,
+        "forks": 193,
+        "size": 63457,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-04-15T08:17:16+00:00",
+        "pushed": "2025-04-16T06:15:16+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 280,
+        "forks": 56,
+        "size": 66753,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-04-14T13:25:46+00:00",
+        "pushed": "2025-04-16T02:33:53+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 221,
+        "forks": 43,
+        "size": 197716,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-04-15T18:07:41+00:00",
+        "pushed": "2025-04-15T16:56:00+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 74,
+        "forks": 20,
+        "size": 127650,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-04-14T13:25:15+00:00",
+        "pushed": "2025-04-16T04:05:56+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).",
+        "owner": "RT-Thread",
+        "stars": 11012,
+        "forks": 5141,
+        "size": 896636,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-04-16T03:26:34+00:00",
+        "pushed": "2025-04-15T14:22:14+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "ComputerVision",
+        "description": "En repo f\u00f6r det vi g\u00f6r inom Computer Vision",
+        "owner": "hitachigjoafli",
+        "stars": 1,
+        "forks": 4,
+        "size": 12147,
+        "created": "2019-12-06T12:56:27+00:00",
+        "updated": "2025-04-15T08:50:17+00:00",
+        "pushed": "2025-04-15T08:50:14+00:00",
+        "url": "https://github.com/hitachigjoafli/ComputerVision",
+        "id": 226330260
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 13,
+        "forks": 4,
+        "size": 4163,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-04-16T02:22:25+00:00",
+        "pushed": "2025-04-16T02:22:21+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "maix.github.io",
+        "description": "Pagina Web de MAIX",
+        "owner": "canvar-art",
+        "stars": 0,
+        "forks": 0,
+        "size": 9802,
+        "created": "2025-04-14T21:01:58+00:00",
+        "updated": "2025-04-16T02:36:33+00:00",
+        "pushed": "2025-04-16T02:36:45+00:00",
+        "url": "https://github.com/canvar-art/maix.github.io",
+        "id": 966387162
+    },
+    {
+        "repo": "Blockzie-firmwares",
+        "description": "This firmware enables communication between Blockzie and supported microcontroller boards, allowing users to upload and run programs directly from the Blockzie interface.",
+        "owner": "devstembotix9892",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-04-15T06:59:53+00:00",
+        "updated": "2025-04-15T07:00:49+00:00",
+        "pushed": "2025-04-15T07:02:04+00:00",
+        "url": "https://github.com/devstembotix9892/Blockzie-firmwares",
+        "id": 966596863
+    },
+    {
+        "repo": "portfolio",
+        "description": null,
+        "owner": "tech-k510",
+        "stars": 0,
+        "forks": 0,
+        "size": 1094,
+        "created": "2025-03-24T00:51:12+00:00",
+        "updated": "2025-04-15T11:56:22+00:00",
+        "pushed": "2025-04-15T11:56:19+00:00",
+        "url": "https://github.com/tech-k510/portfolio",
+        "id": 953719015
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 0,
+        "forks": 2,
+        "size": 547242,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2025-04-16T03:19:17+00:00",
+        "pushed": "2025-04-16T03:19:14+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
+        "repo": "XINGKUNBEIC",
+        "description": null,
+        "owner": "Crosonon",
+        "stars": 0,
+        "forks": 0,
+        "size": 15203,
+        "created": "2025-04-01T15:57:25+00:00",
+        "updated": "2025-04-16T01:45:24+00:00",
+        "pushed": "2025-04-16T01:45:21+00:00",
+        "url": "https://github.com/Crosonon/XINGKUNBEIC",
+        "id": 958693291
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 1,
+        "forks": 1,
+        "size": 31,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-04-15T09:37:38+00:00",
+        "pushed": "2025-04-16T00:50:48+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 6,
+        "forks": 2,
+        "size": 1923,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2025-04-16T02:17:42+00:00",
+        "pushed": "2025-04-16T02:17:39+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 9,
+        "forks": 1,
+        "size": 5103,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-04-16T02:15:34+00:00",
+        "pushed": "2025-04-16T02:15:30+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 135,
         "forks": 38,
-        "size": 950173,
+        "size": 950176,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-04-14T12:35:39+00:00",
-        "pushed": "2025-04-14T12:35:35+00:00",
+        "updated": "2025-04-15T12:35:41+00:00",
+        "pushed": "2025-04-15T12:35:36+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
