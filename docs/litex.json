@@ -14625,19 +14625,6 @@
         "id": 886179466
     },
     {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1732,
-        "forks": 250,
-        "size": 235232,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-04-12T21:02:46+00:00",
-        "pushed": "2025-04-13T06:06:42+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "SucreLA",
         "description": "Open source Logic Analyzer based on LiteX SoC",
         "owner": "fallen",
@@ -14690,19 +14677,6 @@
         "id": 798146281
     },
     {
-        "repo": "LiTeX-eq-renderer",
-        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
-        "owner": "ComplexSymbol",
-        "stars": 0,
-        "forks": 0,
-        "size": 326,
-        "created": "2025-01-26T01:06:33+00:00",
-        "updated": "2025-04-14T03:56:38+00:00",
-        "pushed": "2025-04-14T04:13:12+00:00",
-        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
-        "id": 922355485
-    },
-    {
         "repo": "Sipeed-Tang-Gowin-FPGA",
         "description": "Some notes about Sipeed FPGA boards ",
         "owner": "alberto-grl",
@@ -14714,32 +14688,6 @@
         "pushed": "2025-04-14T22:43:46+00:00",
         "url": "https://github.com/alberto-grl/Sipeed-Tang-Gowin-FPGA",
         "id": 954648502
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 90,
-        "forks": 0,
-        "size": 3366,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-04-15T11:41:06+00:00",
-        "pushed": "2025-04-15T11:41:02+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 3,
-        "forks": 3,
-        "size": 57714,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-04-15T13:56:20+00:00",
-        "pushed": "2025-04-15T13:56:16+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
     },
     {
         "repo": "dev-hack95",
@@ -14768,19 +14716,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1022,
-        "forks": 90,
-        "size": 1279,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-17T02:44:02+00:00",
-        "pushed": "2025-04-17T02:42:33+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "or1k-utils",
         "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
         "owner": "stffrdhrn",
@@ -14807,15 +14742,80 @@
         "id": 285833276
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1023,
+        "forks": 90,
+        "size": 1279,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-17T19:01:14+00:00",
+        "pushed": "2025-04-18T02:34:53+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1733,
+        "forks": 252,
+        "size": 235308,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-04-18T05:27:34+00:00",
+        "pushed": "2025-04-17T17:02:34+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 90,
+        "forks": 0,
+        "size": 3409,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-04-18T00:49:46+00:00",
+        "pushed": "2025-04-18T00:49:42+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 57722,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-15T13:56:20+00:00",
+        "pushed": "2025-04-17T06:47:52+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "LiTeX-eq-renderer",
+        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
+        "owner": "ComplexSymbol",
+        "stars": 1,
+        "forks": 0,
+        "size": 342,
+        "created": "2025-01-26T01:06:33+00:00",
+        "updated": "2025-04-18T04:57:32+00:00",
+        "pushed": "2025-04-18T04:57:28+00:00",
+        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
+        "id": 922355485
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2614,
+        "size": 2615,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-17T04:37:23+00:00",
-        "pushed": "2025-04-17T04:37:19+00:00",
+        "updated": "2025-04-18T04:37:21+00:00",
+        "pushed": "2025-04-18T04:37:18+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14825,10 +14825,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 96020,
+        "size": 96556,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-17T03:25:21+00:00",
-        "pushed": "2025-04-17T03:25:17+00:00",
+        "updated": "2025-04-18T03:23:42+00:00",
+        "pushed": "2025-04-18T03:23:39+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

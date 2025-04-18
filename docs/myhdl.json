@@ -5278,19 +5278,6 @@
         "id": 35898469
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 7,
-        "forks": 3,
-        "size": 880,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2024-12-11T20:06:10+00:00",
-        "pushed": "2024-12-11T20:06:06+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "Computer-Architecture",
         "description": "This folder contains projects and coursework completed for my Computer Architecture class.",
         "owner": "EricAsante3",
@@ -5770,5 +5757,18 @@
         "pushed": "2025-04-16T14:29:42+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 14,
+        "forks": 5,
+        "size": 891,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2025-04-17T21:40:59+00:00",
+        "pushed": "2025-04-17T21:40:55+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
