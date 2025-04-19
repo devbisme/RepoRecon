@@ -13663,19 +13663,6 @@
         "id": 934638743
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 14,
-        "forks": 6,
-        "size": 6145,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2025-02-18T15:50:11+00:00",
-        "pushed": "2025-02-18T15:50:05+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "pythondata-cpu-minerva",
         "description": "Python module containing sources files for minerva cpu (for use with LiteX).",
         "owner": "litex-hub",
@@ -13882,19 +13869,6 @@
         "pushed": "2025-03-02T12:24:27+00:00",
         "url": "https://github.com/youenchene/tang-20k-wiki",
         "id": 937495638
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 394,
-        "forks": 306,
-        "size": 4406,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-03-09T11:18:10+00:00",
-        "pushed": "2025-03-05T15:40:33+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "liteeth",
@@ -14430,19 +14404,6 @@
         "id": 624968379
     },
     {
-        "repo": "LiteX",
-        "description": null,
-        "owner": "yerx623",
-        "stars": 0,
-        "forks": 0,
-        "size": 8,
-        "created": "2025-04-07T15:04:29+00:00",
-        "updated": "2025-04-07T15:05:33+00:00",
-        "pushed": "2025-04-07T15:05:29+00:00",
-        "url": "https://github.com/yerx623/LiteX",
-        "id": 962044813
-    },
-    {
         "repo": "LiteX-",
         "description": null,
         "owner": "yerx623",
@@ -14716,19 +14677,6 @@
         "id": 190029235
     },
     {
-        "repo": "or1k-utils",
-        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
-        "owner": "stffrdhrn",
-        "stars": 5,
-        "forks": 0,
-        "size": 34870,
-        "created": "2017-04-12T14:08:53+00:00",
-        "updated": "2025-04-17T06:04:37+00:00",
-        "pushed": "2025-04-17T06:04:33+00:00",
-        "url": "https://github.com/stffrdhrn/or1k-utils",
-        "id": 88059100
-    },
-    {
         "repo": "Mark1626",
         "description": null,
         "owner": "Mark1626",
@@ -14740,32 +14688,6 @@
         "pushed": "2025-04-17T05:34:16+00:00",
         "url": "https://github.com/Mark1626/Mark1626",
         "id": 285833276
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1023,
-        "forks": 90,
-        "size": 1279,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-17T19:01:14+00:00",
-        "pushed": "2025-04-18T02:34:53+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1733,
-        "forks": 252,
-        "size": 235308,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-04-18T05:27:34+00:00",
-        "pushed": "2025-04-17T17:02:34+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "golitex",
@@ -14781,19 +14703,6 @@
         "id": 888329277
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 3,
-        "forks": 3,
-        "size": 57722,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-04-15T13:56:20+00:00",
-        "pushed": "2025-04-17T06:47:52+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "LiTeX-eq-renderer",
         "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
         "owner": "ComplexSymbol",
@@ -14807,15 +14716,132 @@
         "id": 922355485
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 402,
+        "forks": 311,
+        "size": 4406,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-04-19T05:26:00+00:00",
+        "pushed": "2025-04-19T05:25:54+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1023,
+        "forks": 90,
+        "size": 1279,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-17T19:01:14+00:00",
+        "pushed": "2025-04-19T02:28:58+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1734,
+        "forks": 252,
+        "size": 235257,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-04-18T20:41:55+00:00",
+        "pushed": "2025-04-18T20:41:51+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 19,
+        "forks": 7,
+        "size": 6083,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2025-04-18T18:02:08+00:00",
+        "pushed": "2025-04-18T20:16:13+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 3,
+        "forks": 3,
+        "size": 60592,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-04-15T13:56:20+00:00",
+        "pushed": "2025-04-18T08:53:53+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "or1k-utils",
+        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
+        "owner": "stffrdhrn",
+        "stars": 5,
+        "forks": 0,
+        "size": 34880,
+        "created": "2017-04-12T14:08:53+00:00",
+        "updated": "2025-04-18T06:13:47+00:00",
+        "pushed": "2025-04-18T06:13:44+00:00",
+        "url": "https://github.com/stffrdhrn/or1k-utils",
+        "id": 88059100
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 54,
+        "forks": 0,
+        "size": 595975,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-04-18T11:45:14+00:00",
+        "pushed": "2025-04-18T11:45:10+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
+        "repo": "LiteX",
+        "description": null,
+        "owner": "yerx623",
+        "stars": 0,
+        "forks": 0,
+        "size": 8,
+        "created": "2025-04-07T15:04:29+00:00",
+        "updated": "2025-04-18T16:56:02+00:00",
+        "pushed": "2025-04-18T16:55:58+00:00",
+        "url": "https://github.com/yerx623/LiteX",
+        "id": 962044813
+    },
+    {
+        "repo": "m4_circuitpython",
+        "description": "circuitpython build for debugging the m4 grand central express",
+        "owner": "charlesmoreno32",
+        "stars": 0,
+        "forks": 0,
+        "size": 334643,
+        "created": "2025-04-18T13:45:17+00:00",
+        "updated": "2025-04-18T14:48:30+00:00",
+        "pushed": "2025-04-18T14:48:04+00:00",
+        "url": "https://github.com/charlesmoreno32/m4_circuitpython",
+        "id": 968659942
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2615,
+        "size": 2669,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-18T04:37:21+00:00",
-        "pushed": "2025-04-18T04:37:18+00:00",
+        "updated": "2025-04-19T04:36:35+00:00",
+        "pushed": "2025-04-19T04:36:32+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14825,10 +14851,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 96556,
+        "size": 97093,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-18T03:23:42+00:00",
-        "pushed": "2025-04-18T03:23:39+00:00",
+        "updated": "2025-04-19T03:20:15+00:00",
+        "pushed": "2025-04-19T03:20:11+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
