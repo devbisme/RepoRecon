@@ -5746,19 +5746,6 @@
         "id": 922144388
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 14,
-        "forks": 5,
-        "size": 898,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2025-04-18T13:39:27+00:00",
-        "pushed": "2025-04-18T13:39:24+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5783,5 +5770,18 @@
         "pushed": "2025-04-20T23:24:10+00:00",
         "url": "https://github.com/reecewayt/cnn-accelerator",
         "id": 969762791
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 14,
+        "forks": 5,
+        "size": 898,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2025-04-21T14:36:47+00:00",
+        "pushed": "2025-04-21T14:36:43+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
     }
 ]
