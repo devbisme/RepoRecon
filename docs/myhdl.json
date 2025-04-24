@@ -5746,19 +5746,6 @@
         "id": 922144388
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41579,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-04-20T14:04:30+00:00",
-        "pushed": "2025-04-20T14:04:27+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -5772,15 +5759,28 @@
         "id": 314673708
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 42,
+        "forks": 30,
+        "size": 41582,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-04-23T12:08:19+00:00",
+        "pushed": "2025-04-23T12:08:16+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "cnn-accelerator",
         "description": "A CNN accelerator developed with MyHDL (Python)",
         "owner": "reecewayt",
         "stars": 0,
         "forks": 0,
-        "size": 11,
+        "size": 13,
         "created": "2025-04-20T21:51:35+00:00",
-        "updated": "2025-04-22T18:51:26+00:00",
-        "pushed": "2025-04-22T18:51:20+00:00",
+        "updated": "2025-04-24T04:23:36+00:00",
+        "pushed": "2025-04-24T04:23:32+00:00",
         "url": "https://github.com/reecewayt/cnn-accelerator",
         "id": 969762791
     },
@@ -5792,8 +5792,8 @@
         "forks": 0,
         "size": 181,
         "created": "2025-04-23T03:23:53+00:00",
-        "updated": "2025-04-23T03:42:15+00:00",
-        "pushed": "2025-04-23T03:42:12+00:00",
+        "updated": "2025-04-24T05:11:56+00:00",
+        "pushed": "2025-04-24T05:11:53+00:00",
         "url": "https://github.com/bhd506/SimpleCPU-Python-HDLSim",
         "id": 971114408
     }
