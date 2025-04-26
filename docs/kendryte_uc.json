@@ -42133,19 +42133,6 @@
         "id": 878131601
     },
     {
-        "repo": "rCore-Tutorial-v3",
-        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
-        "owner": "rcore-os",
-        "stars": 1786,
-        "forks": 504,
-        "size": 50283,
-        "created": "2020-10-29T07:21:08+00:00",
-        "updated": "2025-04-04T08:05:27+00:00",
-        "pushed": "2025-04-04T18:00:12+00:00",
-        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
-        "id": 308248461
-    },
-    {
         "repo": "board_info",
         "description": null,
         "owner": "zeyi2",
@@ -42627,19 +42614,6 @@
         "id": 226330260
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 13,
-        "forks": 4,
-        "size": 4163,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-04-16T02:22:25+00:00",
-        "pushed": "2025-04-16T02:22:21+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "portfolio",
         "description": null,
         "owner": "tech-k510",
@@ -42833,19 +42807,6 @@
         "pushed": "2025-04-18T12:29:54+00:00",
         "url": "https://github.com/Grzegorzwww/animals_ai_K210",
         "id": 955528893
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 222,
-        "forks": 43,
-        "size": 199634,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-04-19T11:24:49+00:00",
-        "pushed": "2025-04-19T11:29:40+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "FDA_Report_generator",
@@ -43225,19 +43186,6 @@
         "id": 684056600
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 71,
-        "forks": 7,
-        "size": 51395,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-04-24T02:05:22+00:00",
-        "pushed": "2025-04-24T02:06:11+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
         "repo": "eLinuxAI-TrainingDocs",
         "description": "K230 K510 AI Linux Development!",
         "owner": "100askTeam",
@@ -43379,19 +43327,6 @@
         "pushed": "2025-04-25T03:18:48+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1494,
-        "forks": 320,
-        "size": 61550,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-04-25T01:14:24+00:00",
-        "pushed": "2025-04-24T11:33:55+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
     },
     {
         "repo": "CVprojects",
@@ -43563,19 +43498,6 @@
         "id": 859664219
     },
     {
-        "repo": "XINGKUNBEIC",
-        "description": null,
-        "owner": "Crosonon",
-        "stars": 0,
-        "forks": 0,
-        "size": 20874,
-        "created": "2025-04-01T15:57:25+00:00",
-        "updated": "2025-04-24T15:22:39+00:00",
-        "pushed": "2025-04-24T15:22:35+00:00",
-        "url": "https://github.com/Crosonon/XINGKUNBEIC",
-        "id": 958693291
-    },
-    {
         "repo": "Balance_Car_3.15",
         "description": "A Balance Car based on stm32f407vgt6 and k230 for following line",
         "owner": "Mr-Pian",
@@ -43602,6 +43524,123 @@
         "id": 885738802
     },
     {
+        "repo": "rCore-Tutorial-v3",
+        "description": "Let's write an OS which can run on RISC-V in Rust from scratch!",
+        "owner": "rcore-os",
+        "stars": 1806,
+        "forks": 508,
+        "size": 50268,
+        "created": "2020-10-29T07:21:08+00:00",
+        "updated": "2025-04-26T02:15:30+00:00",
+        "pushed": "2025-04-25T13:29:58+00:00",
+        "url": "https://github.com/rcore-os/rCore-Tutorial-v3",
+        "id": 308248461
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1496,
+        "forks": 321,
+        "size": 61610,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-04-25T15:44:28+00:00",
+        "pushed": "2025-04-25T13:11:07+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 222,
+        "forks": 43,
+        "size": 199651,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-04-19T11:24:49+00:00",
+        "pushed": "2025-04-25T19:44:08+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 71,
+        "forks": 7,
+        "size": 51407,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-04-25T21:01:53+00:00",
+        "pushed": "2025-04-25T21:02:38+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "K210",
+        "description": "\u8ba9K210\u53d8\u6210\u597d\u73a9\u7684\u4e1c\u897f",
+        "owner": "aerospaceboy",
+        "stars": 0,
+        "forks": 0,
+        "size": 157197,
+        "created": "2025-04-25T10:10:55+00:00",
+        "updated": "2025-04-25T11:31:33+00:00",
+        "pushed": "2025-04-25T11:30:05+00:00",
+        "url": "https://github.com/aerospaceboy/K210",
+        "id": 972583864
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 13,
+        "forks": 4,
+        "size": 4217,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-04-25T20:08:15+00:00",
+        "pushed": "2025-04-25T20:08:11+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "K210shijueshibiemokuaixuexibiji2moxingxunlianyushiyong-shibiezimu",
+        "description": null,
+        "owner": "zhouhaiyou19",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2025-04-25T09:30:42+00:00",
+        "updated": "2025-04-25T09:32:12+00:00",
+        "pushed": "2025-04-25T09:32:08+00:00",
+        "url": "https://github.com/zhouhaiyou19/K210shijueshibiemokuaixuexibiji2moxingxunlianyushiyong-shibiezimu",
+        "id": 972563806
+    },
+    {
+        "repo": "maixcdk-dl-pkgs",
+        "description": "MAIXCDK dl/pkgs cache",
+        "owner": "scpcom",
+        "stars": 0,
+        "forks": 0,
+        "size": 101047,
+        "created": "2025-04-25T19:03:22+00:00",
+        "updated": "2025-04-25T19:53:10+00:00",
+        "pushed": "2025-04-25T19:53:05+00:00",
+        "url": "https://github.com/scpcom/maixcdk-dl-pkgs",
+        "id": 972845788
+    },
+    {
+        "repo": "XINGKUNBEIC",
+        "description": null,
+        "owner": "Crosonon",
+        "stars": 0,
+        "forks": 0,
+        "size": 20550,
+        "created": "2025-04-01T15:57:25+00:00",
+        "updated": "2025-04-26T05:42:05+00:00",
+        "pushed": "2025-04-26T05:42:02+00:00",
+        "url": "https://github.com/Crosonon/XINGKUNBEIC",
+        "id": 958693291
+    },
+    {
         "repo": "HPUhushicheng",
         "description": null,
         "owner": "HPUhushicheng",
@@ -43610,7 +43649,7 @@
         "size": 31,
         "created": "2023-03-31T11:23:32+00:00",
         "updated": "2025-04-15T09:37:38+00:00",
-        "pushed": "2025-04-25T00:50:52+00:00",
+        "pushed": "2025-04-26T00:48:45+00:00",
         "url": "https://github.com/HPUhushicheng/HPUhushicheng",
         "id": 621780685
     },
@@ -43622,8 +43661,8 @@
         "forks": 1,
         "size": 1725,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-04-25T02:16:32+00:00",
-        "pushed": "2025-04-25T02:16:28+00:00",
+        "updated": "2025-04-26T02:10:56+00:00",
+        "pushed": "2025-04-26T02:10:53+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -43633,10 +43672,10 @@
         "owner": "androidtrackers",
         "stars": 135,
         "forks": 38,
-        "size": 962740,
+        "size": 962743,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-04-24T12:37:40+00:00",
-        "pushed": "2025-04-24T12:37:35+00:00",
+        "updated": "2025-04-25T12:35:58+00:00",
+        "pushed": "2025-04-25T12:35:54+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
