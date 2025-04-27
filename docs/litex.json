@@ -14248,19 +14248,6 @@
         "id": 711247595
     },
     {
-        "repo": "eurorack-pmod",
-        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
-        "owner": "apfaudio",
-        "stars": 200,
-        "forks": 13,
-        "size": 27697,
-        "created": "2022-06-18T17:17:54+00:00",
-        "updated": "2025-04-09T18:25:01+00:00",
-        "pushed": "2025-04-05T20:52:40+00:00",
-        "url": "https://github.com/apfaudio/eurorack-pmod",
-        "id": 504905833
-    },
-    {
         "repo": "lilydrum",
         "description": "Drums and Lilypond",
         "owner": "snowgoon88",
@@ -14391,19 +14378,6 @@
         "id": 285833276
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 19,
-        "forks": 7,
-        "size": 6083,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2025-04-18T18:02:08+00:00",
-        "pushed": "2025-04-18T20:16:13+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "LiteX",
         "description": null,
         "owner": "yerx623",
@@ -14467,19 +14441,6 @@
         "pushed": "2025-04-19T09:54:26+00:00",
         "url": "https://github.com/Lucretia/lucretia-overlay",
         "id": 921400512
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 21,
-        "forks": 0,
-        "size": 8333,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-04-20T02:21:53+00:00",
-        "pushed": "2025-04-20T02:21:50+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
     },
     {
         "repo": "litex-boards",
@@ -14729,19 +14690,6 @@
         "id": 787406556
     },
     {
-        "repo": "LiTeX-eq-renderer",
-        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
-        "owner": "ComplexSymbol",
-        "stars": 1,
-        "forks": 0,
-        "size": 289,
-        "created": "2025-01-26T01:06:33+00:00",
-        "updated": "2025-04-24T05:14:10+00:00",
-        "pushed": "2025-04-24T05:14:07+00:00",
-        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
-        "id": 922355485
-    },
-    {
         "repo": "LiteXfer",
         "description": "This is a small HTTP server meant to transfer files",
         "owner": "rcallaby",
@@ -14820,19 +14768,6 @@
         "id": 42041717
     },
     {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 92,
-        "forks": 0,
-        "size": 3027,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-04-25T06:03:52+00:00",
-        "pushed": "2025-04-25T06:03:48+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "ULX4M-PCIe-IO",
         "description": null,
         "owner": "intergalaktik",
@@ -14885,19 +14820,6 @@
         "id": 972060460
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1031,
-        "forks": 90,
-        "size": 1280,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-04-25T06:38:44+00:00",
-        "pushed": "2025-04-26T02:39:59+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -14911,17 +14833,82 @@
         "id": 274442284
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1031,
+        "forks": 90,
+        "size": 1280,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-04-25T06:38:44+00:00",
+        "pushed": "2025-04-27T02:45:14+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 20,
+        "forks": 7,
+        "size": 6089,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2025-04-24T10:11:38+00:00",
+        "pushed": "2025-04-26T13:50:49+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 93,
+        "forks": 0,
+        "size": 3265,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-04-27T01:39:53+00:00",
+        "pushed": "2025-04-27T01:39:49+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "eurorack-pmod",
+        "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
+        "owner": "apfaudio",
+        "stars": 203,
+        "forks": 13,
+        "size": 29012,
+        "created": "2022-06-18T17:17:54+00:00",
+        "updated": "2025-04-25T15:46:32+00:00",
+        "pushed": "2025-04-26T10:20:49+00:00",
+        "url": "https://github.com/apfaudio/eurorack-pmod",
+        "id": 504905833
+    },
+    {
         "repo": "boxlambda",
         "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
         "owner": "epsilon537",
         "stars": 55,
         "forks": 0,
-        "size": 597238,
+        "size": 597538,
         "created": "2022-03-24T10:49:49+00:00",
         "updated": "2025-04-22T22:29:06+00:00",
-        "pushed": "2025-04-25T14:06:42+00:00",
+        "pushed": "2025-04-26T14:19:30+00:00",
         "url": "https://github.com/epsilon537/boxlambda",
         "id": 473564418
+    },
+    {
+        "repo": "LiTeX-eq-renderer",
+        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
+        "owner": "ComplexSymbol",
+        "stars": 1,
+        "forks": 0,
+        "size": 316,
+        "created": "2025-01-26T01:06:33+00:00",
+        "updated": "2025-04-27T04:51:03+00:00",
+        "pushed": "2025-04-27T04:50:59+00:00",
+        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
+        "id": 922355485
     },
     {
         "repo": "starred",
@@ -14929,10 +14916,10 @@
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 1621,
+        "size": 1622,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-04-26T04:37:18+00:00",
-        "pushed": "2025-04-26T04:37:14+00:00",
+        "updated": "2025-04-27T04:36:07+00:00",
+        "pushed": "2025-04-27T04:36:04+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -14942,11 +14929,24 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 100808,
+        "size": 101335,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-04-26T03:22:47+00:00",
-        "pushed": "2025-04-26T03:22:44+00:00",
+        "updated": "2025-04-27T03:26:17+00:00",
+        "pushed": "2025-04-27T03:26:13+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 21,
+        "forks": 0,
+        "size": 8598,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-04-27T02:22:15+00:00",
+        "pushed": "2025-04-27T02:22:12+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
     }
 ]
