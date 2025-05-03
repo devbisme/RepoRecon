@@ -16770,19 +16770,6 @@
         "id": 331772295
     },
     {
-        "repo": "openblock-firmwares",
-        "description": "The firmware for boards.",
-        "owner": "openblockcc",
-        "stars": 5,
-        "forks": 6,
-        "size": 82,
-        "created": "2021-01-22T11:59:00Z",
-        "updated": "2023-07-22T11:22:17Z",
-        "pushed": "2023-07-22T11:22:31Z",
-        "url": "https://github.com/openblockcc/openblock-firmwares",
-        "id": 331932900
-    },
-    {
         "repo": "tornado-os",
         "description": "\u5f02\u6b65\u5185\u6838\u5c31\u50cf\u98ce\u4e00\u6837\u5feb\uff01",
         "owner": "HUST-OS",
@@ -42848,19 +42835,6 @@
         "id": 969899332
     },
     {
-        "repo": "CameraUSBHid",
-        "description": null,
-        "owner": "Liyulingyue",
-        "stars": 1,
-        "forks": 0,
-        "size": 10577,
-        "created": "2025-03-20T13:00:22+00:00",
-        "updated": "2025-04-20T12:29:19+00:00",
-        "pushed": "2025-04-20T12:29:16+00:00",
-        "url": "https://github.com/Liyulingyue/CameraUSBHid",
-        "id": 951920726
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -43784,15 +43758,67 @@
         "id": 331917919
     },
     {
+        "repo": "openblock-firmwares",
+        "description": "The firmware for boards.",
+        "owner": "openblockcc",
+        "stars": 5,
+        "forks": 9,
+        "size": 83,
+        "created": "2021-01-22T11:59:00+00:00",
+        "updated": "2025-05-02T06:57:04+00:00",
+        "pushed": "2025-05-02T06:57:30+00:00",
+        "url": "https://github.com/openblockcc/openblock-firmwares",
+        "id": 331932900
+    },
+    {
+        "repo": "CameraUSBHid",
+        "description": null,
+        "owner": "Liyulingyue",
+        "stars": 2,
+        "forks": 0,
+        "size": 10577,
+        "created": "2025-03-20T13:00:22+00:00",
+        "updated": "2025-05-02T14:50:22+00:00",
+        "pushed": "2025-05-02T14:50:19+00:00",
+        "url": "https://github.com/Liyulingyue/CameraUSBHid",
+        "id": 951920726
+    },
+    {
+        "repo": "Canmv-k210-swimming",
+        "description": "\u5229\u7528Canmvk210\u5bf9\u6e38\u6cf3\u8005\u4f4d\u7f6e\u8fdb\u884c\u8bc6\u522b\uff0c\u63a7\u5236\u6c34\u5faa\u73af\u6cf3\u6c60\u7684\u7684\u6c34\u6cf5\u901f\u5ea6\uff0c\u672c\u9879\u76ee\u4f7f\u7528\u4e86\u900f\u89c6\u53d8\u6362\u6765\u5f97\u5230\u5b9e\u9645\u5750\u6807\uff0c\u52a0\u5165\u5361\u5c14\u66fc\u6ee4\u6ce2\u63d0\u5347\u9c81\u68d2\u6027",
+        "owner": "futureyaoyao",
+        "stars": 0,
+        "forks": 0,
+        "size": 10,
+        "created": "2025-05-02T14:45:30+00:00",
+        "updated": "2025-05-02T15:35:02+00:00",
+        "pushed": "2025-05-02T15:34:59+00:00",
+        "url": "https://github.com/futureyaoyao/Canmv-k210-swimming",
+        "id": 976678740
+    },
+    {
+        "repo": "maixer",
+        "description": null,
+        "owner": "PedroDSS",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-05-02T07:49:38+00:00",
+        "updated": "2025-05-02T07:49:42+00:00",
+        "pushed": "2025-05-02T07:50:18+00:00",
+        "url": "https://github.com/PedroDSS/maixer",
+        "id": 976492764
+    },
+    {
         "repo": "user_basic",
         "description": null,
         "owner": "ZhiyuanSue",
         "stars": 0,
         "forks": 0,
-        "size": 75,
+        "size": 100,
         "created": "2025-05-02T01:57:15+00:00",
-        "updated": "2025-05-02T02:03:06+00:00",
-        "pushed": "2025-05-02T02:03:02+00:00",
+        "updated": "2025-05-03T02:29:13+00:00",
+        "pushed": "2025-05-03T02:29:09+00:00",
         "url": "https://github.com/ZhiyuanSue/user_basic",
         "id": 976372099
     },
@@ -43802,10 +43828,10 @@
         "owner": "androidtrackers",
         "stars": 135,
         "forks": 38,
-        "size": 976965,
+        "size": 976967,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-05-01T12:34:36+00:00",
-        "pushed": "2025-05-01T12:34:32+00:00",
+        "updated": "2025-05-02T12:35:03+00:00",
+        "pushed": "2025-05-02T12:34:59+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
