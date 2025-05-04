@@ -5655,19 +5655,6 @@
         "id": 673849444
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 3,
-        "forks": 0,
-        "size": 212,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-03-16T11:26:37+00:00",
-        "pushed": "2025-03-16T11:26:33+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
@@ -5796,5 +5783,18 @@
         "pushed": "2025-05-01T23:59:58+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "fpga-useful-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 3,
+        "forks": 0,
+        "size": 220,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-05-03T12:26:16+00:00",
+        "pushed": "2025-05-03T12:26:13+00:00",
+        "url": "https://github.com/RDSik/fpga-useful-list",
+        "id": 777943094
     }
 ]
