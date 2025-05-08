@@ -5772,19 +5772,6 @@
         "id": 143520625
     },
     {
-        "repo": "cnn-accelerator",
-        "description": "A CNN accelerator developed with MyHDL (Python)",
-        "owner": "reecewayt",
-        "stars": 0,
-        "forks": 0,
-        "size": 58,
-        "created": "2025-04-20T21:51:35+00:00",
-        "updated": "2025-05-05T03:09:47+00:00",
-        "pushed": "2025-05-05T03:09:43+00:00",
-        "url": "https://github.com/reecewayt/cnn-accelerator",
-        "id": 969762791
-    },
-    {
         "repo": "AND-gate-cosim-madness",
         "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
         "owner": "Kreijstal",
@@ -5796,5 +5783,18 @@
         "pushed": "2025-05-06T18:23:35+00:00",
         "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
         "id": 839539533
+    },
+    {
+        "repo": "cnn-accelerator",
+        "description": "A CNN accelerator developed with MyHDL (Python)",
+        "owner": "reecewayt",
+        "stars": 0,
+        "forks": 0,
+        "size": 80,
+        "created": "2025-04-20T21:51:35+00:00",
+        "updated": "2025-05-08T01:28:43+00:00",
+        "pushed": "2025-05-08T01:28:39+00:00",
+        "url": "https://github.com/reecewayt/cnn-accelerator",
+        "id": 969762791
     }
 ]
