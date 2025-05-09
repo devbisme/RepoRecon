@@ -5733,19 +5733,6 @@
         "id": 314673708
     },
     {
-        "repo": "SimpleCPU-Python-HDLSim",
-        "description": "Python-based RTL models and simulators for SimpleCPUv1a and SimpleCPUv1d using Amaranth, MyHDL, PyMTL3, and PyRTL for undergraduate teaching and benchmarking.",
-        "owner": "bhd506",
-        "stars": 0,
-        "forks": 0,
-        "size": 192,
-        "created": "2025-04-23T03:23:53+00:00",
-        "updated": "2025-05-02T03:02:23+00:00",
-        "pushed": "2025-05-02T03:02:20+00:00",
-        "url": "https://github.com/bhd506/SimpleCPU-Python-HDLSim",
-        "id": 971114408
-    },
-    {
         "repo": "fpga-useful-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -5796,5 +5783,18 @@
         "pushed": "2025-05-08T01:28:39+00:00",
         "url": "https://github.com/reecewayt/cnn-accelerator",
         "id": 969762791
+    },
+    {
+        "repo": "SimpleCPU-Python-HDLSim",
+        "description": "Python-based RTL models and simulators for SimpleCPUv1a and SimpleCPUv1d using Amaranth, MyHDL, PyMTL3, and PyRTL for undergraduate teaching and benchmarking.",
+        "owner": "bhd506",
+        "stars": 0,
+        "forks": 0,
+        "size": 194,
+        "created": "2025-04-23T03:23:53+00:00",
+        "updated": "2025-05-08T16:28:00+00:00",
+        "pushed": "2025-05-08T16:27:57+00:00",
+        "url": "https://github.com/bhd506/SimpleCPU-Python-HDLSim",
+        "id": 971114408
     }
 ]
