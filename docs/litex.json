@@ -12883,19 +12883,6 @@
         "id": 340332883
     },
     {
-        "repo": "hub75_colorlight75_stuff",
-        "description": "Old project, works, needs some more work, might not correctly build",
-        "owner": "david-sawatzke",
-        "stars": 0,
-        "forks": 0,
-        "size": 297,
-        "created": "2024-12-26T22:35:01+00:00",
-        "updated": "2024-12-26T22:49:35+00:00",
-        "pushed": "2024-12-26T22:36:15+00:00",
-        "url": "https://github.com/david-sawatzke/hub75_colorlight75_stuff",
-        "id": 908760051
-    },
-    {
         "repo": "TangNano-20K-example",
         "description": null,
         "owner": "sryoon",
@@ -14118,19 +14105,6 @@
         "id": 957201708
     },
     {
-        "repo": "pythondata-cpu-coreblocks",
-        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
-        "owner": "kuznia-rdzeni",
-        "stars": 1,
-        "forks": 0,
-        "size": 9,
-        "created": "2023-04-22T12:19:25+00:00",
-        "updated": "2025-04-03T15:10:57+00:00",
-        "pushed": "2025-04-03T15:10:53+00:00",
-        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
-        "id": 631249176
-    },
-    {
         "repo": "litei2c",
         "description": "Small footprint and configurable I2C core",
         "owner": "litex-hub",
@@ -14181,19 +14155,6 @@
         "pushed": "2025-04-08T18:22:32+00:00",
         "url": "https://github.com/gr8linux/docker-linuxonlitex",
         "id": 711247595
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 46,
-        "forks": 18,
-        "size": 61872,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-04-11T11:43:19+00:00",
-        "pushed": "2025-04-11T11:58:12+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "SPDM-Hardware-Implementation",
@@ -14298,19 +14259,6 @@
         "pushed": "2025-04-18T14:48:04+00:00",
         "url": "https://github.com/charlesmoreno32/m4_circuitpython",
         "id": 968659942
-    },
-    {
-        "repo": "or1k-utils",
-        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
-        "owner": "stffrdhrn",
-        "stars": 5,
-        "forks": 0,
-        "size": 34884,
-        "created": "2017-04-12T14:08:53+00:00",
-        "updated": "2025-04-19T17:12:38+00:00",
-        "pushed": "2025-04-19T17:12:35+00:00",
-        "url": "https://github.com/stffrdhrn/or1k-utils",
-        "id": 88059100
     },
     {
         "repo": "Dise-o-de-Sistema-Digitales",
@@ -14781,19 +14729,6 @@
         "id": 977809563
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3291,
-        "forks": 615,
-        "size": 17568,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-05-06T05:59:50+00:00",
-        "pushed": "2025-05-06T05:59:46+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -14805,19 +14740,6 @@
         "pushed": "2025-05-05T10:05:34+00:00",
         "url": "https://github.com/enjoy-digital/litedram",
         "id": 31147284
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1753,
-        "forks": 259,
-        "size": 236069,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-05-05T19:09:18+00:00",
-        "pushed": "2025-05-05T19:10:56+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "openCologne",
@@ -14911,19 +14833,6 @@
         "id": 800027977
     },
     {
-        "repo": "litex_wr_nic",
-        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
-        "owner": "enjoy-digital",
-        "stars": 5,
-        "forks": 3,
-        "size": 10030,
-        "created": "2024-03-27T08:02:37+00:00",
-        "updated": "2025-05-07T08:44:55+00:00",
-        "pushed": "2025-05-07T15:15:00+00:00",
-        "url": "https://github.com/enjoy-digital/litex_wr_nic",
-        "id": 778169492
-    },
-    {
         "repo": "girlvoice-gateware",
         "description": "The gateware and firmware for girlvoice, the real-time FPGA vocoder",
         "owner": "girlvoice",
@@ -14976,19 +14885,6 @@
         "id": 330793471
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1043,
-        "forks": 90,
-        "size": 1306,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-05-08T12:01:50+00:00",
-        "pushed": "2025-05-09T02:47:52+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -15000,19 +14896,6 @@
         "pushed": "2025-05-08T21:03:02+00:00",
         "url": "https://github.com/olofk/serv",
         "id": 155514739
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 102,
-        "forks": 0,
-        "size": 3520,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-05-09T03:24:36+00:00",
-        "pushed": "2025-05-09T03:24:32+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "Sipeed-Tang-Gowin-FPGA",
@@ -15039,19 +14922,6 @@
         "pushed": "2025-05-08T17:16:29+00:00",
         "url": "https://github.com/tweakoz/ork.build",
         "id": 483508371
-    },
-    {
-        "repo": "LiTeX-eq-renderer",
-        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
-        "owner": "ComplexSymbol",
-        "stars": 1,
-        "forks": 0,
-        "size": 387,
-        "created": "2025-01-26T01:06:33+00:00",
-        "updated": "2025-05-08T17:16:03+00:00",
-        "pushed": "2025-05-08T17:15:59+00:00",
-        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
-        "id": 922355485
     },
     {
         "repo": "caravel_on_FPGA",
@@ -15106,15 +14976,158 @@
         "id": 979971784
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3294,
+        "forks": 617,
+        "size": 17580,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-05-09T16:41:23+00:00",
+        "pushed": "2025-05-09T16:41:19+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1043,
+        "forks": 90,
+        "size": 1306,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-05-08T12:01:50+00:00",
+        "pushed": "2025-05-10T02:43:10+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1754,
+        "forks": 259,
+        "size": 236237,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-05-09T08:59:03+00:00",
+        "pushed": "2025-05-09T09:00:30+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 50,
+        "forks": 18,
+        "size": 62288,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-05-09T10:50:31+00:00",
+        "pushed": "2025-05-09T11:05:57+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: The Minimalist Proof Assistant",
+        "owner": "litexlang",
+        "stars": 102,
+        "forks": 0,
+        "size": 3650,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-05-10T04:06:34+00:00",
+        "pushed": "2025-05-10T04:06:31+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "litex_wr_nic",
+        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
+        "owner": "enjoy-digital",
+        "stars": 5,
+        "forks": 3,
+        "size": 10031,
+        "created": "2024-03-27T08:02:37+00:00",
+        "updated": "2025-05-09T07:43:24+00:00",
+        "pushed": "2025-05-09T07:43:20+00:00",
+        "url": "https://github.com/enjoy-digital/litex_wr_nic",
+        "id": 778169492
+    },
+    {
+        "repo": "or1k-utils",
+        "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
+        "owner": "stffrdhrn",
+        "stars": 5,
+        "forks": 0,
+        "size": 34884,
+        "created": "2017-04-12T14:08:53+00:00",
+        "updated": "2025-05-10T05:23:20+00:00",
+        "pushed": "2025-05-10T05:23:17+00:00",
+        "url": "https://github.com/stffrdhrn/or1k-utils",
+        "id": 88059100
+    },
+    {
+        "repo": "hub75_colorlight75_stuff",
+        "description": "Old project, works, needs some more work, might not correctly build",
+        "owner": "david-sawatzke",
+        "stars": 0,
+        "forks": 0,
+        "size": 297,
+        "created": "2024-12-26T22:35:01+00:00",
+        "updated": "2025-05-09T18:22:05+00:00",
+        "pushed": "2025-05-09T18:22:02+00:00",
+        "url": "https://github.com/david-sawatzke/hub75_colorlight75_stuff",
+        "id": 908760051
+    },
+    {
+        "repo": "LiTeX-eq-renderer",
+        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
+        "owner": "ComplexSymbol",
+        "stars": 1,
+        "forks": 0,
+        "size": 405,
+        "created": "2025-01-26T01:06:33+00:00",
+        "updated": "2025-05-10T02:00:35+00:00",
+        "pushed": "2025-05-10T02:00:32+00:00",
+        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
+        "id": 922355485
+    },
+    {
+        "repo": "pythondata-cpu-coreblocks",
+        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
+        "owner": "kuznia-rdzeni",
+        "stars": 1,
+        "forks": 0,
+        "size": 10,
+        "created": "2023-04-22T12:19:25+00:00",
+        "updated": "2025-05-09T11:19:12+00:00",
+        "pushed": "2025-05-09T11:19:09+00:00",
+        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
+        "id": 631249176
+    },
+    {
+        "repo": "GowinTRX",
+        "description": "A digital mode ham transceiver in a Litex SOC. Running on Sipeed Tang Primer 20K",
+        "owner": "alberto-grl",
+        "stars": 0,
+        "forks": 0,
+        "size": 614,
+        "created": "2025-05-09T22:32:36+00:00",
+        "updated": "2025-05-09T22:44:18+00:00",
+        "pushed": "2025-05-09T22:35:09+00:00",
+        "url": "https://github.com/alberto-grl/GowinTRX",
+        "id": 980888973
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2063,
+        "size": 2065,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-05-09T04:38:24+00:00",
-        "pushed": "2025-05-09T04:38:21+00:00",
+        "updated": "2025-05-10T04:37:45+00:00",
+        "pushed": "2025-05-10T04:37:41+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15124,10 +15137,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 98631,
+        "size": 99173,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-05-09T03:28:26+00:00",
-        "pushed": "2025-05-09T03:28:22+00:00",
+        "updated": "2025-05-10T03:25:58+00:00",
+        "pushed": "2025-05-10T03:25:55+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
