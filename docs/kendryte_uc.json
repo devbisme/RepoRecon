@@ -43368,19 +43368,6 @@
         "id": 753959088
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 226,
-        "forks": 183,
-        "size": 282,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-05-06T05:43:39+00:00",
-        "pushed": "2025-05-06T05:43:36+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "MPU9250-Mahony-filter-k210",
         "description": "MPU9250 Orientation with MaixPy (Mahony Filter)",
         "owner": "rmingon",
@@ -43641,19 +43628,6 @@
         "id": 52733472
     },
     {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1512,
-        "forks": 327,
-        "size": 72980,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-05-09T05:35:47+00:00",
-        "pushed": "2025-05-09T05:36:07+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -43745,19 +43719,6 @@
         "id": 973555027
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": null,
-        "owner": "yinxiaoxi-dev",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2025-05-08T13:47:06+00:00",
-        "updated": "2025-05-08T13:47:06+00:00",
-        "pushed": "2025-05-08T13:47:06+00:00",
-        "url": "https://github.com/yinxiaoxi-dev/k230_linux_sdk",
-        "id": 980056307
-    },
-    {
         "repo": "AICamera-k230d-documentation",
         "description": "4.0\u6444\u50cf\u5934 k230d",
         "owner": "labplus-cn",
@@ -43836,32 +43797,6 @@
         "id": 558742270
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 75,
-        "forks": 7,
-        "size": 51447,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-05-09T21:19:47+00:00",
-        "pushed": "2025-05-09T21:19:44+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11097,
-        "forks": 5165,
-        "size": 900367,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-05-09T21:05:44+00:00",
-        "pushed": "2025-05-09T21:05:34+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "canmv_docs",
         "description": "canmv docs",
         "owner": "kendryte",
@@ -43914,19 +43849,6 @@
         "id": 974156400
     },
     {
-        "repo": "Laser-Control",
-        "description": null,
-        "owner": "Crosonon",
-        "stars": 1,
-        "forks": 0,
-        "size": 25437,
-        "created": "2025-04-01T15:57:25+00:00",
-        "updated": "2025-05-10T01:24:53+00:00",
-        "pushed": "2025-05-09T23:48:41+00:00",
-        "url": "https://github.com/Crosonon/Laser-Control",
-        "id": 958693291
-    },
-    {
         "repo": "xv6-ikr",
         "description": null,
         "owner": "consansri",
@@ -43953,15 +43875,119 @@
         "id": 731012323
     },
     {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1514,
+        "forks": 327,
+        "size": 73044,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-05-11T01:09:11+00:00",
+        "pushed": "2025-05-11T01:09:07+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 75,
+        "forks": 7,
+        "size": 51451,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-05-11T01:12:59+00:00",
+        "pushed": "2025-05-11T01:12:56+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 227,
+        "forks": 183,
+        "size": 292,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-05-11T04:38:39+00:00",
+        "pushed": "2025-05-11T04:38:36+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11098,
+        "forks": 5166,
+        "size": 900373,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-05-10T22:08:19+00:00",
+        "pushed": "2025-05-10T10:02:52+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "k230_rtos",
+        "description": null,
+        "owner": "yinxiaoxi-dev",
+        "stars": 0,
+        "forks": 0,
+        "size": 35346,
+        "created": "2025-05-11T01:02:14+00:00",
+        "updated": "2025-05-11T01:05:35+00:00",
+        "pushed": "2025-05-11T01:05:25+00:00",
+        "url": "https://github.com/yinxiaoxi-dev/k230_rtos",
+        "id": 981378196
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": null,
+        "owner": "yinxiaoxi-dev",
+        "stars": 0,
+        "forks": 0,
+        "size": 42692,
+        "created": "2025-05-08T13:47:06+00:00",
+        "updated": "2025-05-11T01:42:14+00:00",
+        "pushed": "2025-05-11T01:42:09+00:00",
+        "url": "https://github.com/yinxiaoxi-dev/k230_linux_sdk",
+        "id": 980056307
+    },
+    {
+        "repo": "Laser-Control",
+        "description": null,
+        "owner": "Crosonon",
+        "stars": 1,
+        "forks": 0,
+        "size": 25448,
+        "created": "2025-04-01T15:57:25+00:00",
+        "updated": "2025-05-11T04:35:54+00:00",
+        "pushed": "2025-05-11T04:35:50+00:00",
+        "url": "https://github.com/Crosonon/Laser-Control",
+        "id": 958693291
+    },
+    {
+        "repo": "wifiSV",
+        "description": null,
+        "owner": "Ozif",
+        "stars": 1,
+        "forks": 0,
+        "size": 12,
+        "created": "2025-05-10T11:11:11+00:00",
+        "updated": "2025-05-10T11:23:25+00:00",
+        "pushed": "2025-05-10T11:23:22+00:00",
+        "url": "https://github.com/Ozif/wifiSV",
+        "id": 981109891
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 135,
         "forks": 38,
-        "size": 981532,
+        "size": 981533,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-05-09T12:35:19+00:00",
-        "pushed": "2025-05-09T12:35:16+00:00",
+        "updated": "2025-05-10T12:32:12+00:00",
+        "pushed": "2025-05-10T12:32:08+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

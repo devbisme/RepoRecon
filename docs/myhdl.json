@@ -5746,19 +5746,6 @@
         "id": 777943094
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41495,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-05-04T11:27:24+00:00",
-        "pushed": "2025-05-04T11:27:21+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "AND-gate-cosim-madness",
         "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
         "owner": "Kreijstal",
@@ -5772,19 +5759,6 @@
         "id": 839539533
     },
     {
-        "repo": "SimpleCPU-Python-HDLSim",
-        "description": "Python-based RTL models and simulators for SimpleCPUv1a and SimpleCPUv1d using Amaranth, MyHDL, PyMTL3, and PyRTL for undergraduate teaching and benchmarking.",
-        "owner": "bhd506",
-        "stars": 0,
-        "forks": 0,
-        "size": 238,
-        "created": "2025-04-23T03:23:53+00:00",
-        "updated": "2025-05-09T22:57:56+00:00",
-        "pushed": "2025-05-09T22:57:52+00:00",
-        "url": "https://github.com/bhd506/SimpleCPU-Python-HDLSim",
-        "id": 971114408
-    },
-    {
         "repo": "cnn-accelerator",
         "description": "A CNN accelerator developed with MyHDL (Python)",
         "owner": "reecewayt",
@@ -5796,5 +5770,31 @@
         "pushed": "2025-05-09T22:58:09+00:00",
         "url": "https://github.com/reecewayt/cnn-accelerator",
         "id": 969762791
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 42,
+        "forks": 30,
+        "size": 41498,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-05-10T11:41:21+00:00",
+        "pushed": "2025-05-10T11:41:18+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "SimpleCPU-Python-HDLSim",
+        "description": "Python-based RTL models and simulators for SimpleCPUv1a and SimpleCPUv1d using Amaranth, MyHDL, PyMTL3, and PyRTL for undergraduate teaching and benchmarking.",
+        "owner": "bhd506",
+        "stars": 0,
+        "forks": 0,
+        "size": 296,
+        "created": "2025-04-23T03:23:53+00:00",
+        "updated": "2025-05-10T20:42:44+00:00",
+        "pushed": "2025-05-10T20:42:40+00:00",
+        "url": "https://github.com/bhd506/SimpleCPU-Python-HDLSim",
+        "id": 971114408
     }
 ]
