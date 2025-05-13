@@ -13546,19 +13546,6 @@
         "id": 242436296
     },
     {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 8,
-        "forks": 5,
-        "size": 383,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-02-23T04:03:44+00:00",
-        "pushed": "2025-02-23T04:14:20+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
-    },
-    {
         "repo": "list-o-pad",
         "description": null,
         "owner": "dev-pts",
@@ -13947,19 +13934,6 @@
         "pushed": "2025-03-24T21:54:08+00:00",
         "url": "https://github.com/IE-EL3310/proy1-1S2025",
         "id": 951540158
-    },
-    {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 622,
-        "forks": 180,
-        "size": 9780,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2025-03-26T14:58:38+00:00",
-        "pushed": "2025-03-26T14:58:34+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
     },
     {
         "repo": "pythondata-cpu-cva5",
@@ -14586,19 +14560,6 @@
         "id": 973583663
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1059,
-        "forks": 219,
-        "size": 876316,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-04-29T02:59:02+00:00",
-        "pushed": "2025-04-29T02:58:57+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "LiText",
         "description": null,
         "owner": "medin-misha",
@@ -14740,19 +14701,6 @@
         "pushed": "2025-05-05T19:11:17+00:00",
         "url": "https://github.com/jhoel09xx/litexamen",
         "id": 978257292
-    },
-    {
-        "repo": "offnariscv",
-        "description": null,
-        "owner": "offnaria",
-        "stars": 0,
-        "forks": 0,
-        "size": 38,
-        "created": "2025-04-27T12:46:40+00:00",
-        "updated": "2025-05-05T12:46:52+00:00",
-        "pushed": "2025-05-05T12:46:48+00:00",
-        "url": "https://github.com/offnaria/offnariscv",
-        "id": 973646184
     },
     {
         "repo": "boxlambda",
@@ -14911,19 +14859,6 @@
         "id": 979971784
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3294,
-        "forks": 617,
-        "size": 17580,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-05-09T16:41:23+00:00",
-        "pushed": "2025-05-09T16:41:19+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -14935,19 +14870,6 @@
         "pushed": "2025-05-09T11:05:57+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "litex_wr_nic",
-        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
-        "owner": "enjoy-digital",
-        "stars": 5,
-        "forks": 3,
-        "size": 10031,
-        "created": "2024-03-27T08:02:37+00:00",
-        "updated": "2025-05-09T07:43:24+00:00",
-        "pushed": "2025-05-09T07:43:20+00:00",
-        "url": "https://github.com/enjoy-digital/litex_wr_nic",
-        "id": 778169492
     },
     {
         "repo": "or1k-utils",
@@ -14976,19 +14898,6 @@
         "id": 908760051
     },
     {
-        "repo": "LiTeX-eq-renderer",
-        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
-        "owner": "ComplexSymbol",
-        "stars": 1,
-        "forks": 0,
-        "size": 405,
-        "created": "2025-01-26T01:06:33+00:00",
-        "updated": "2025-05-10T02:00:35+00:00",
-        "pushed": "2025-05-10T02:00:32+00:00",
-        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
-        "id": 922355485
-    },
-    {
         "repo": "pythondata-cpu-coreblocks",
         "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
         "owner": "kuznia-rdzeni",
@@ -15013,32 +14922,6 @@
         "pushed": "2025-05-09T22:35:09+00:00",
         "url": "https://github.com/alberto-grl/GowinTRX",
         "id": 980888973
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: The Minimalist Proof Assistant",
-        "owner": "litexlang",
-        "stars": 102,
-        "forks": 0,
-        "size": 3817,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-05-11T01:35:40+00:00",
-        "pushed": "2025-05-11T01:35:37+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 61,
-        "forks": 6,
-        "size": 217754,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-05-10T19:58:47+00:00",
-        "pushed": "2025-05-10T19:58:43+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
     },
     {
         "repo": "zyp-amaranth-libs",
@@ -15067,32 +14950,6 @@
         "id": 211116919
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1043,
-        "forks": 90,
-        "size": 1306,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-05-08T12:01:50+00:00",
-        "pushed": "2025-05-12T02:35:10+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1757,
-        "forks": 260,
-        "size": 236464,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-05-11T20:36:59+00:00",
-        "pushed": "2025-05-11T14:53:23+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -15119,45 +14976,6 @@
         "id": 800344642
     },
     {
-        "repo": "tang-nano-20k--riscv--cache-sdram",
-        "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
-        "owner": "calint",
-        "stars": 10,
-        "forks": 0,
-        "size": 10202,
-        "created": "2024-12-26T02:45:51+00:00",
-        "updated": "2025-05-12T05:09:06+00:00",
-        "pushed": "2025-05-12T05:09:03+00:00",
-        "url": "https://github.com/calint/tang-nano-20k--riscv--cache-sdram",
-        "id": 908413312
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 7,
-        "forks": 0,
-        "size": 2159,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-05-12T04:38:37+00:00",
-        "pushed": "2025-05-12T04:38:34+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 12,
-        "forks": 4,
-        "size": 100257,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-05-12T03:30:21+00:00",
-        "pushed": "2025-05-12T03:30:18+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
@@ -15169,5 +14987,200 @@
         "pushed": "2025-05-12T00:56:54+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
+    },
+    {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3299,
+        "forks": 620,
+        "size": 17584,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-05-12T10:51:22+00:00",
+        "pushed": "2025-05-12T10:51:17+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 635,
+        "forks": 184,
+        "size": 9781,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2025-05-12T16:23:53+00:00",
+        "pushed": "2025-05-12T12:02:06+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1069,
+        "forks": 221,
+        "size": 876318,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-05-12T22:49:21+00:00",
+        "pushed": "2025-05-12T22:49:17+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1044,
+        "forks": 90,
+        "size": 1306,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-05-12T16:45:16+00:00",
+        "pushed": "2025-05-13T02:50:10+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1758,
+        "forks": 260,
+        "size": 235667,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-05-13T04:16:12+00:00",
+        "pushed": "2025-05-13T04:16:09+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Simple Proof Assistant and Formal Language",
+        "owner": "litexlang",
+        "stars": 102,
+        "forks": 0,
+        "size": 4209,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-05-13T03:57:30+00:00",
+        "pushed": "2025-05-13T03:57:27+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "litex_wr_nic",
+        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
+        "owner": "enjoy-digital",
+        "stars": 5,
+        "forks": 3,
+        "size": 10037,
+        "created": "2024-03-27T08:02:37+00:00",
+        "updated": "2025-05-09T07:43:24+00:00",
+        "pushed": "2025-05-12T12:32:00+00:00",
+        "url": "https://github.com/enjoy-digital/litex_wr_nic",
+        "id": 778169492
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 9,
+        "forks": 5,
+        "size": 407,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-05-12T09:14:55+00:00",
+        "pushed": "2025-05-04T04:24:05+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 61,
+        "forks": 6,
+        "size": 217769,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-05-13T00:27:20+00:00",
+        "pushed": "2025-05-13T00:27:16+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "FPGA-SPDM",
+        "description": null,
+        "owner": "GustavsC",
+        "stars": 0,
+        "forks": 0,
+        "size": 6577,
+        "created": "2025-05-07T14:29:07+00:00",
+        "updated": "2025-05-13T01:17:57+00:00",
+        "pushed": "2025-05-13T01:17:53+00:00",
+        "url": "https://github.com/GustavsC/FPGA-SPDM",
+        "id": 979451781
+    },
+    {
+        "repo": "LiTeX-eq-renderer",
+        "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
+        "owner": "ComplexSymbol",
+        "stars": 1,
+        "forks": 0,
+        "size": 237,
+        "created": "2025-01-26T01:06:33+00:00",
+        "updated": "2025-05-12T23:33:15+00:00",
+        "pushed": "2025-05-12T23:33:11+00:00",
+        "url": "https://github.com/ComplexSymbol/LiTeX-eq-renderer",
+        "id": 922355485
+    },
+    {
+        "repo": "tang-nano-20k--riscv--cache-sdram",
+        "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
+        "owner": "calint",
+        "stars": 11,
+        "forks": 0,
+        "size": 10210,
+        "created": "2024-12-26T02:45:51+00:00",
+        "updated": "2025-05-13T03:25:19+00:00",
+        "pushed": "2025-05-13T03:25:21+00:00",
+        "url": "https://github.com/calint/tang-nano-20k--riscv--cache-sdram",
+        "id": 908413312
+    },
+    {
+        "repo": "offnariscv",
+        "description": null,
+        "owner": "offnaria",
+        "stars": 0,
+        "forks": 0,
+        "size": 46,
+        "created": "2025-04-27T12:46:40+00:00",
+        "updated": "2025-05-12T14:57:16+00:00",
+        "pushed": "2025-05-12T14:57:12+00:00",
+        "url": "https://github.com/offnaria/offnariscv",
+        "id": 973646184
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 7,
+        "forks": 0,
+        "size": 2253,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-05-13T04:38:24+00:00",
+        "pushed": "2025-05-13T04:38:20+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 12,
+        "forks": 4,
+        "size": 100802,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-05-13T03:29:14+00:00",
+        "pushed": "2025-05-13T03:29:10+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]

@@ -5382,19 +5382,6 @@
         "id": 918379441
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 9,
-        "forks": 3,
-        "size": 749,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2025-01-20T16:55:12+00:00",
-        "pushed": "2025-01-20T16:55:09+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "MemoryModule",
         "description": "A synchronous RAM module designed in myhdl",
         "owner": "rainerrodrigues",
@@ -5759,19 +5746,6 @@
         "id": 839539533
     },
     {
-        "repo": "cnn-accelerator",
-        "description": "A CNN accelerator developed with MyHDL (Python)",
-        "owner": "reecewayt",
-        "stars": 0,
-        "forks": 0,
-        "size": 81,
-        "created": "2025-04-20T21:51:35+00:00",
-        "updated": "2025-05-09T22:58:13+00:00",
-        "pushed": "2025-05-09T22:58:09+00:00",
-        "url": "https://github.com/reecewayt/cnn-accelerator",
-        "id": 969762791
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5796,5 +5770,31 @@
         "pushed": "2025-05-12T03:32:43+00:00",
         "url": "https://github.com/bhd506/SimpleCPU-Python-HDLSim",
         "id": 971114408
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 9,
+        "forks": 3,
+        "size": 756,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2025-05-12T15:09:48+00:00",
+        "pushed": "2025-05-12T15:09:44+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
+        "repo": "cnn-accelerator",
+        "description": "A CNN accelerator developed with MyHDL (Python)",
+        "owner": "reecewayt",
+        "stars": 0,
+        "forks": 0,
+        "size": 90,
+        "created": "2025-04-20T21:51:35+00:00",
+        "updated": "2025-05-12T19:05:48+00:00",
+        "pushed": "2025-05-12T19:05:44+00:00",
+        "url": "https://github.com/reecewayt/cnn-accelerator",
+        "id": 969762791
     }
 ]
