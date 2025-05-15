@@ -14495,19 +14495,6 @@
         "id": 972060460
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 20,
-        "forks": 7,
-        "size": 6089,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2025-04-24T10:11:38+00:00",
-        "pushed": "2025-04-26T13:50:49+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "eurorack-pmod",
         "description": "A eurorack-friendly audio frontend compatible with many FPGA boards, based on the AK4619VN audio CODEC.",
         "owner": "apfaudio",
@@ -14560,19 +14547,6 @@
         "id": 816189694
     },
     {
-        "repo": "lucretia-overlay",
-        "description": "Remake of my Gentoo overlay for common packages I install",
-        "owner": "Lucretia",
-        "stars": 0,
-        "forks": 0,
-        "size": 203,
-        "created": "2025-01-23T21:59:46+00:00",
-        "updated": "2025-04-29T21:39:31+00:00",
-        "pushed": "2025-04-29T21:39:28+00:00",
-        "url": "https://github.com/Lucretia/lucretia-overlay",
-        "id": 921400512
-    },
-    {
         "repo": "LimeSDR_GW",
         "description": "LiteX-based gateware for LimeSDR boards.",
         "owner": "myriadrf",
@@ -14597,19 +14571,6 @@
         "pushed": "2025-04-30T10:35:53+00:00",
         "url": "https://github.com/medin-misha/LiText_text_saver",
         "id": 975451337
-    },
-    {
-        "repo": "openPCIE",
-        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
-        "owner": "chili-chips-ba",
-        "stars": 11,
-        "forks": 0,
-        "size": 63670,
-        "created": "2025-01-28T04:49:53+00:00",
-        "updated": "2025-05-04T05:51:47+00:00",
-        "pushed": "2025-05-04T05:51:44+00:00",
-        "url": "https://github.com/chili-chips-ba/openPCIE",
-        "id": 923355946
     },
     {
         "repo": "fpga-useful-list",
@@ -14924,19 +14885,6 @@
         "id": 211116919
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1576,
-        "forks": 219,
-        "size": 12927,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2025-05-11T17:34:32+00:00",
-        "pushed": "2025-05-11T21:26:05+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "girlvoice-gateware",
         "description": "The gateware and firmware for girlvoice, the real-time FPGA vocoder",
         "owner": "girlvoice",
@@ -15002,19 +14950,6 @@
         "id": 778169492
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 61,
-        "forks": 6,
-        "size": 217769,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-05-13T00:27:20+00:00",
-        "pushed": "2025-05-13T00:27:16+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "FPGA-SPDM",
         "description": null,
         "owner": "GustavsC",
@@ -15065,32 +15000,6 @@
         "pushed": "2025-05-13T07:08:20+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1069,
-        "forks": 221,
-        "size": 886899,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-05-13T21:57:18+00:00",
-        "pushed": "2025-05-13T21:57:15+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1046,
-        "forks": 90,
-        "size": 1306,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-05-13T19:33:02+00:00",
-        "pushed": "2025-05-14T02:42:47+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litesdcard",
@@ -15171,15 +15080,119 @@
         "id": 983101357
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1069,
+        "forks": 221,
+        "size": 924379,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-05-15T03:28:57+00:00",
+        "pushed": "2025-05-15T05:40:05+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1046,
+        "forks": 90,
+        "size": 1306,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-05-13T19:33:02+00:00",
+        "pushed": "2025-05-15T02:46:47+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 21,
+        "forks": 7,
+        "size": 6100,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2025-05-14T13:31:36+00:00",
+        "pushed": "2025-05-03T03:56:57+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1578,
+        "forks": 219,
+        "size": 13055,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2025-05-14T21:06:37+00:00",
+        "pushed": "2025-05-15T05:44:31+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 61,
+        "forks": 6,
+        "size": 216815,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-05-14T06:54:14+00:00",
+        "pushed": "2025-05-14T06:54:11+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "openPCIE",
+        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
+        "owner": "chili-chips-ba",
+        "stars": 11,
+        "forks": 0,
+        "size": 63838,
+        "created": "2025-01-28T04:49:53+00:00",
+        "updated": "2025-05-14T06:59:15+00:00",
+        "pushed": "2025-05-14T06:59:11+00:00",
+        "url": "https://github.com/chili-chips-ba/openPCIE",
+        "id": 923355946
+    },
+    {
+        "repo": "lucretia-overlay",
+        "description": "Remake of my Gentoo overlay for common packages I install",
+        "owner": "Lucretia",
+        "stars": 0,
+        "forks": 0,
+        "size": 208,
+        "created": "2025-01-23T21:59:46+00:00",
+        "updated": "2025-05-14T22:19:44+00:00",
+        "pushed": "2025-05-14T22:19:40+00:00",
+        "url": "https://github.com/Lucretia/lucretia-overlay",
+        "id": 921400512
+    },
+    {
+        "repo": "pythondata-cpu-coreblocks",
+        "description": "Python module containing system_verilog files for coreblocks cpu (for use with LiteX). ",
+        "owner": "litex-hub",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-05-14T16:23:57+00:00",
+        "updated": "2025-05-14T16:23:57+00:00",
+        "pushed": "2025-05-14T16:23:57+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-coreblocks",
+        "id": 983605868
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2347,
+        "size": 2441,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-05-14T04:38:14+00:00",
-        "pushed": "2025-05-14T04:38:10+00:00",
+        "updated": "2025-05-15T04:38:13+00:00",
+        "pushed": "2025-05-15T04:38:09+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15189,10 +15202,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 101346,
+        "size": 101891,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-05-14T03:28:50+00:00",
-        "pushed": "2025-05-14T03:28:47+00:00",
+        "updated": "2025-05-15T03:29:08+00:00",
+        "pushed": "2025-05-15T03:29:05+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
