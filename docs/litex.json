@@ -10998,19 +10998,6 @@
         "id": 196820841
     },
     {
-        "repo": "a2o",
-        "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue.  It is now being updated for compliancy and integration into open projects.",
-        "owner": "OpenPOWERFoundation",
-        "stars": 35,
-        "forks": 6,
-        "size": 25303,
-        "created": "2022-03-25T16:56:18+00:00",
-        "updated": "2024-05-09T17:50:27+00:00",
-        "pushed": "2024-05-09T17:50:22+00:00",
-        "url": "https://github.com/OpenPOWERFoundation/a2o",
-        "id": 474094379
-    },
-    {
         "repo": "litexlplugins",
         "description": null,
         "owner": "RohanVashisht1234",
@@ -14768,19 +14755,6 @@
         "id": 979971784
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 50,
-        "forks": 18,
-        "size": 62288,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-05-09T10:50:31+00:00",
-        "pushed": "2025-05-09T11:05:57+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "or1k-utils",
         "description": "linux initramfs, testing, openocd, and other random utils for openrisc",
         "owner": "stffrdhrn",
@@ -14989,19 +14963,6 @@
         "id": 786797602
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1578,
-        "forks": 219,
-        "size": 13055,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2025-05-14T21:06:37+00:00",
-        "pushed": "2025-05-15T05:44:31+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -15041,19 +15002,6 @@
         "id": 921400512
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3310,
-        "forks": 621,
-        "size": 17658,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-05-16T03:26:44+00:00",
-        "pushed": "2025-05-15T10:26:37+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -15065,19 +15013,6 @@
         "pushed": "2025-05-16T02:08:07+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1048,
-        "forks": 90,
-        "size": 1306,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-05-15T17:50:38+00:00",
-        "pushed": "2025-05-16T02:49:38+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litespi",
@@ -15104,19 +15039,6 @@
         "pushed": "2025-05-16T06:12:28+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Simple Proof Assistant and Formal Language",
-        "owner": "litexlang",
-        "stars": 103,
-        "forks": 0,
-        "size": 4891,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-05-16T04:55:25+00:00",
-        "pushed": "2025-05-16T04:55:21+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "LiTeX-eq-renderer",
@@ -15158,19 +15080,6 @@
         "id": 968350761
     },
     {
-        "repo": "tang-nano-20k--riscv--cache-sdram",
-        "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
-        "owner": "calint",
-        "stars": 13,
-        "forks": 0,
-        "size": 10697,
-        "created": "2024-12-26T02:45:51+00:00",
-        "updated": "2025-05-16T04:50:25+00:00",
-        "pushed": "2025-05-16T04:50:22+00:00",
-        "url": "https://github.com/calint/tang-nano-20k--riscv--cache-sdram",
-        "id": 908413312
-    },
-    {
         "repo": "m4_circuitpython",
         "description": "circuitpython build for debugging the m4 grand central express",
         "owner": "charlesmoreno32",
@@ -15197,32 +15106,6 @@
         "id": 984241484
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 7,
-        "forks": 0,
-        "size": 2535,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-05-16T04:38:32+00:00",
-        "pushed": "2025-05-16T04:38:29+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 12,
-        "forks": 4,
-        "size": 102416,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-05-16T03:29:58+00:00",
-        "pushed": "2025-05-16T03:29:54+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
@@ -15234,5 +15117,135 @@
         "pushed": "2025-05-16T00:56:51+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
+    },
+    {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3310,
+        "forks": 621,
+        "size": 17658,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-05-16T20:04:27+00:00",
+        "pushed": "2025-05-16T12:00:57+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1048,
+        "forks": 90,
+        "size": 1306,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-05-15T17:50:38+00:00",
+        "pushed": "2025-05-17T02:46:28+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1581,
+        "forks": 219,
+        "size": 13055,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2025-05-17T01:58:49+00:00",
+        "pushed": "2025-05-16T18:31:19+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "a2o",
+        "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue.  It is now being updated for compliancy and integration into open projects.",
+        "owner": "OpenPOWERFoundation",
+        "stars": 46,
+        "forks": 7,
+        "size": 25304,
+        "created": "2022-03-25T16:56:18+00:00",
+        "updated": "2025-05-16T11:12:10+00:00",
+        "pushed": "2025-05-16T11:12:06+00:00",
+        "url": "https://github.com/OpenPOWERFoundation/a2o",
+        "id": 474094379
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 51,
+        "forks": 18,
+        "size": 64356,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-05-16T16:02:51+00:00",
+        "pushed": "2025-05-16T16:25:15+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Simple Proof Assistant and Formal Language",
+        "owner": "litexlang",
+        "stars": 103,
+        "forks": 0,
+        "size": 5048,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-05-17T02:22:03+00:00",
+        "pushed": "2025-05-17T02:22:00+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "tang-nano-20k--riscv--cache-sdram",
+        "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
+        "owner": "calint",
+        "stars": 13,
+        "forks": 0,
+        "size": 10700,
+        "created": "2024-12-26T02:45:51+00:00",
+        "updated": "2025-05-17T04:31:43+00:00",
+        "pushed": "2025-05-17T04:31:41+00:00",
+        "url": "https://github.com/calint/tang-nano-20k--riscv--cache-sdram",
+        "id": 908413312
+    },
+    {
+        "repo": "chip-copilot",
+        "description": "Build a 100% Python-based SoC Design environment!",
+        "owner": "zewei",
+        "stars": 0,
+        "forks": 0,
+        "size": 5435,
+        "created": "2025-05-16T09:52:52+00:00",
+        "updated": "2025-05-16T12:07:44+00:00",
+        "pushed": "2025-05-16T12:07:40+00:00",
+        "url": "https://github.com/zewei/chip-copilot",
+        "id": 984665023
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 7,
+        "forks": 0,
+        "size": 2535,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-05-17T04:36:55+00:00",
+        "pushed": "2025-05-17T04:36:51+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 12,
+        "forks": 4,
+        "size": 102938,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-05-17T03:27:15+00:00",
+        "pushed": "2025-05-17T03:27:12+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
