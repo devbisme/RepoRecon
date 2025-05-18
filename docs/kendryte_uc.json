@@ -41951,19 +41951,6 @@
         "id": 850642161
     },
     {
-        "repo": "xux-core",
-        "description": null,
-        "owner": "xiaomo-xty",
-        "stars": 0,
-        "forks": 0,
-        "size": 179,
-        "created": "2024-11-20T06:43:42+00:00",
-        "updated": "2025-04-09T05:15:22+00:00",
-        "pushed": "2025-04-09T05:16:09+00:00",
-        "url": "https://github.com/xiaomo-xty/xux-core",
-        "id": 891339225
-    },
-    {
         "repo": "canmv_k230_micropython",
         "description": "Testing Codes for Canmv k230",
         "owner": "Ifte-Kharul",
@@ -42027,19 +42014,6 @@
         "pushed": "2025-04-10T09:43:06+00:00",
         "url": "https://github.com/MaixCode/MaixCode",
         "id": 840250973
-    },
-    {
-        "repo": "microbit_micropython_k210",
-        "description": null,
-        "owner": "cyc36880",
-        "stars": 0,
-        "forks": 0,
-        "size": 5585,
-        "created": "2025-02-16T01:23:32+00:00",
-        "updated": "2025-04-11T02:23:40+00:00",
-        "pushed": "2025-04-11T02:23:37+00:00",
-        "url": "https://github.com/cyc36880/microbit_micropython_k210",
-        "id": 933450446
     },
     {
         "repo": "Awesome-LRM-Safety",
@@ -43550,32 +43524,6 @@
         "id": 195626687
     },
     {
-        "repo": "STM32F0_with_k210",
-        "description": "stm32f030c8t6 kendryte-K210, LED and a passive speaker",
-        "owner": "Gulfy034",
-        "stars": 0,
-        "forks": 1,
-        "size": 1584,
-        "created": "2025-05-11T09:02:50+00:00",
-        "updated": "2025-05-12T09:33:20+00:00",
-        "pushed": "2025-05-12T09:33:17+00:00",
-        "url": "https://github.com/Gulfy034/STM32F0_with_k210",
-        "id": 981503464
-    },
-    {
-        "repo": "STM32F4_with_MLX90640",
-        "description": "stm32f401rct6 with motor and MLX90640 the thermal camera",
-        "owner": "Gulfy034",
-        "stars": 0,
-        "forks": 0,
-        "size": 2425,
-        "created": "2025-05-11T09:14:46+00:00",
-        "updated": "2025-05-12T07:25:12+00:00",
-        "pushed": "2025-05-12T07:25:08+00:00",
-        "url": "https://github.com/Gulfy034/STM32F4_with_MLX90640",
-        "id": 981507662
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -43587,19 +43535,6 @@
         "pushed": "2025-05-13T11:07:55+00:00",
         "url": "https://github.com/selfcustody/krux",
         "id": 385102171
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 77,
-        "forks": 7,
-        "size": 51462,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-05-13T18:34:16+00:00",
-        "pushed": "2025-05-13T18:40:47+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "mpp",
@@ -43888,19 +43823,6 @@
         "id": 685317589
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 27,
-        "forks": 21,
-        "size": 75008,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-05-15T07:54:56+00:00",
-        "pushed": "2025-05-15T07:54:52+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
         "owner": "RT-Thread",
@@ -44003,19 +43925,6 @@
         "pushed": "2025-05-15T11:40:42+00:00",
         "url": "https://github.com/windowsair/openocd-elaphurelink",
         "id": 976921001
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 789,
-        "forks": 194,
-        "size": 64389,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-05-13T09:08:42+00:00",
-        "pushed": "2025-05-17T04:08:18+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "MaixPy",
@@ -44174,6 +44083,97 @@
         "id": 731012323
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 789,
+        "forks": 194,
+        "size": 64762,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-05-13T09:08:42+00:00",
+        "pushed": "2025-05-18T03:07:46+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 27,
+        "forks": 21,
+        "size": 75008,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-05-17T14:09:57+00:00",
+        "pushed": "2025-05-17T14:09:53+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 78,
+        "forks": 9,
+        "size": 51473,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-05-18T01:45:56+00:00",
+        "pushed": "2025-05-18T01:50:37+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "STM32F0_with_k210",
+        "description": "stm32f030c8t6 with kendryte-K210, LED and a GY614V3 temperature sensor",
+        "owner": "Gulfy034",
+        "stars": 0,
+        "forks": 1,
+        "size": 1612,
+        "created": "2025-05-11T09:02:50+00:00",
+        "updated": "2025-05-18T06:23:04+00:00",
+        "pushed": "2025-05-18T06:19:18+00:00",
+        "url": "https://github.com/Gulfy034/STM32F0_with_k210",
+        "id": 981503464
+    },
+    {
+        "repo": "xux-core",
+        "description": null,
+        "owner": "xiaomo-xty",
+        "stars": 0,
+        "forks": 0,
+        "size": 311,
+        "created": "2024-11-20T06:43:42+00:00",
+        "updated": "2025-05-17T13:43:47+00:00",
+        "pushed": "2025-05-17T13:43:43+00:00",
+        "url": "https://github.com/xiaomo-xty/xux-core",
+        "id": 891339225
+    },
+    {
+        "repo": "microbit_micropython_k210",
+        "description": null,
+        "owner": "cyc36880",
+        "stars": 0,
+        "forks": 0,
+        "size": 5586,
+        "created": "2025-02-16T01:23:32+00:00",
+        "updated": "2025-05-17T06:45:56+00:00",
+        "pushed": "2025-05-17T06:45:52+00:00",
+        "url": "https://github.com/cyc36880/microbit_micropython_k210",
+        "id": 933450446
+    },
+    {
+        "repo": "STM32F4_with_MLX90640",
+        "description": "stm32f401rct6 with motor and MLX90640 the thermal camera",
+        "owner": "Gulfy034",
+        "stars": 0,
+        "forks": 0,
+        "size": 2460,
+        "created": "2025-05-11T09:14:46+00:00",
+        "updated": "2025-05-18T06:19:03+00:00",
+        "pushed": "2025-05-18T06:18:54+00:00",
+        "url": "https://github.com/Gulfy034/STM32F4_with_MLX90640",
+        "id": 981507662
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
@@ -44181,8 +44181,8 @@
         "forks": 38,
         "size": 985132,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-05-16T12:37:53+00:00",
-        "pushed": "2025-05-16T12:37:48+00:00",
+        "updated": "2025-05-17T12:32:47+00:00",
+        "pushed": "2025-05-17T12:32:44+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
