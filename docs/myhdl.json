@@ -5785,19 +5785,6 @@
         "id": 162131770
     },
     {
-        "repo": "cnn-accelerator",
-        "description": "A CNN accelerator developed with MyHDL (Python)",
-        "owner": "reecewayt",
-        "stars": 0,
-        "forks": 0,
-        "size": 114,
-        "created": "2025-04-20T21:51:35+00:00",
-        "updated": "2025-05-13T17:26:33+00:00",
-        "pushed": "2025-05-13T17:26:29+00:00",
-        "url": "https://github.com/reecewayt/cnn-accelerator",
-        "id": 969762791
-    },
-    {
         "repo": "mips-processor-myhdl",
         "description": "single-cycle MIPS processor simulator in Python/MyHDL with core instructions and memory operations",
         "owner": "Sirye8",
@@ -5861,5 +5848,18 @@
         "pushed": "2025-05-19T03:23:17+00:00",
         "url": "https://github.com/zewei/chip-copilot",
         "id": 984665023
+    },
+    {
+        "repo": "cnn-accelerator",
+        "description": "A CNN accelerator developed with MyHDL (Python)",
+        "owner": "reecewayt",
+        "stars": 0,
+        "forks": 0,
+        "size": 124,
+        "created": "2025-04-20T21:51:35+00:00",
+        "updated": "2025-05-20T01:19:28+00:00",
+        "pushed": "2025-05-20T01:19:25+00:00",
+        "url": "https://github.com/reecewayt/cnn-accelerator",
+        "id": 969762791
     }
 ]
