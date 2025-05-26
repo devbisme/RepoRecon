@@ -5733,19 +5733,6 @@
         "id": 983750181
     },
     {
-        "repo": "Awesome-Python-Simulator",
-        "description": "Awesome Python Simulator & Electronic Design Tools(work in progress)",
-        "owner": "panhaiqi",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2025-05-18T13:04:52+00:00",
-        "updated": "2025-05-18T17:58:24+00:00",
-        "pushed": "2025-05-18T17:54:10+00:00",
-        "url": "https://github.com/panhaiqi/Awesome-Python-Simulator",
-        "id": 985752198
-    },
-    {
         "repo": "cnn-accelerator",
         "description": "A CNN accelerator developed with MyHDL (Python)",
         "owner": "reecewayt",
@@ -5798,19 +5785,6 @@
         "id": 984241484
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 37,
-        "forks": 7,
-        "size": 7658,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-05-24T19:43:51+00:00",
-        "pushed": "2025-05-24T19:43:48+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5861,5 +5835,31 @@
         "pushed": "2025-05-25T03:16:15+00:00",
         "url": "https://github.com/tnl3pdx/ece510-HwAIML",
         "id": 959479867
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 37,
+        "forks": 7,
+        "size": 6656,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-05-25T09:27:23+00:00",
+        "pushed": "2025-05-25T09:27:20+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "Awesome-Python-Simulator",
+        "description": "Awesome Python Simulator & Electronic Design Tools(work in progress)",
+        "owner": "panhaiqi",
+        "stars": 1,
+        "forks": 0,
+        "size": 13,
+        "created": "2025-05-18T13:04:52+00:00",
+        "updated": "2025-05-25T16:19:33+00:00",
+        "pushed": "2025-05-25T16:19:30+00:00",
+        "url": "https://github.com/panhaiqi/Awesome-Python-Simulator",
+        "id": 985752198
     }
 ]
