@@ -5772,19 +5772,6 @@
         "id": 984241484
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41509,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-05-25T01:07:03+00:00",
-        "pushed": "2025-05-25T01:07:00+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5850,15 +5837,28 @@
         "id": 985752198
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 42,
+        "forks": 30,
+        "size": 41525,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-05-28T14:55:34+00:00",
+        "pushed": "2025-05-28T14:55:24+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "cnn-accelerator",
         "description": "A CNN accelerator developed with MyHDL (Python)",
         "owner": "reecewayt",
         "stars": 0,
         "forks": 0,
-        "size": 145,
+        "size": 174,
         "created": "2025-04-20T21:51:35+00:00",
-        "updated": "2025-05-28T01:30:11+00:00",
-        "pushed": "2025-05-28T01:30:07+00:00",
+        "updated": "2025-05-29T01:29:48+00:00",
+        "pushed": "2025-05-29T01:29:44+00:00",
         "url": "https://github.com/reecewayt/cnn-accelerator",
         "id": 969762791
     }

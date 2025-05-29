@@ -13949,19 +13949,6 @@
         "id": 958657459
     },
     {
-        "repo": "digital-design-dataset",
-        "description": null,
-        "owner": "stefanpie",
-        "stars": 0,
-        "forks": 0,
-        "size": 4116,
-        "created": "2022-09-03T21:39:38+00:00",
-        "updated": "2025-04-02T04:06:56+00:00",
-        "pushed": "2025-04-02T04:06:53+00:00",
-        "url": "https://github.com/stefanpie/digital-design-dataset",
-        "id": 532379641
-    },
-    {
         "repo": "LitExten",
         "description": null,
         "owner": "DeadKesar",
@@ -14911,19 +14898,6 @@
         "id": 330793471
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "IndieMinimalist",
-        "stars": 0,
-        "forks": 0,
-        "size": 4833,
-        "created": "2025-05-11T20:10:48+00:00",
-        "updated": "2025-05-24T00:56:56+00:00",
-        "pushed": "2025-05-24T00:56:52+00:00",
-        "url": "https://github.com/IndieMinimalist/awesome-stars",
-        "id": 981754715
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -15039,19 +15013,6 @@
         "pushed": "2025-05-26T08:31:43+00:00",
         "url": "https://github.com/enjoy-digital/litedram",
         "id": 31147284
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1059,
-        "forks": 91,
-        "size": 1272,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-05-28T05:55:46+00:00",
-        "pushed": "2025-05-28T02:55:41+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "liteeth",
@@ -15171,19 +15132,6 @@
         "id": 787406556
     },
     {
-        "repo": "golitex",
-        "description": "Litex is a simple proof assistant and formal language.",
-        "owner": "litexlang",
-        "stars": 113,
-        "forks": 0,
-        "size": 16694,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-05-28T03:30:34+00:00",
-        "pushed": "2025-05-28T00:59:48+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -15195,19 +15143,6 @@
         "pushed": "2025-05-26T14:39:27+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 11,
-        "forks": 5,
-        "size": 480,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-05-17T22:54:37+00:00",
-        "pushed": "2025-05-27T01:57:39+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
     },
     {
         "repo": "litei2c",
@@ -15249,19 +15184,6 @@
         "id": 991562962
     },
     {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 0,
-        "forks": 0,
-        "size": 2911,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-05-27T05:53:51+00:00",
-        "pushed": "2025-05-27T05:53:48+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
-    },
-    {
         "repo": "LiTeX-eq-renderer",
         "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
         "owner": "ComplexSymbol",
@@ -15286,19 +15208,6 @@
         "pushed": "2025-05-26T08:20:59+00:00",
         "url": "https://github.com/litex-hub/pythondata-cpu-coreblocks",
         "id": 983605868
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 979,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-05-28T05:25:45+00:00",
-        "pushed": "2025-05-28T05:25:41+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "phd-tmr-fault-analysis",
@@ -15379,6 +15288,97 @@
         "id": 973646184
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1059,
+        "forks": 91,
+        "size": 1272,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-05-28T05:55:46+00:00",
+        "pushed": "2025-05-29T02:42:01+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex is a simple proof assistant and formal language.",
+        "owner": "litexlang",
+        "stars": 114,
+        "forks": 0,
+        "size": 16730,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-05-29T02:25:22+00:00",
+        "pushed": "2025-05-29T02:25:18+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 11,
+        "forks": 5,
+        "size": 480,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-05-17T22:54:37+00:00",
+        "pushed": "2025-05-29T05:40:59+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "LiTEx",
+        "description": "Dataset and Implementation of the paper \"LiTEx: A Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference\"",
+        "owner": "mainlp",
+        "stars": 0,
+        "forks": 0,
+        "size": 5,
+        "created": "2025-05-28T16:24:07+00:00",
+        "updated": "2025-05-28T16:24:11+00:00",
+        "pushed": "2025-05-28T16:24:07+00:00",
+        "url": "https://github.com/mainlp/LiTEx",
+        "id": 992109515
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 1,
+        "forks": 0,
+        "size": 7313,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-05-29T02:59:42+00:00",
+        "pushed": "2025-05-28T16:33:42+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 987,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-05-29T05:26:22+00:00",
+        "pushed": "2025-05-29T05:26:19+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "digital-design-dataset",
+        "description": null,
+        "owner": "stefanpie",
+        "stars": 0,
+        "forks": 0,
+        "size": 4117,
+        "created": "2022-09-03T21:39:38+00:00",
+        "updated": "2025-05-29T05:57:52+00:00",
+        "pushed": "2025-05-29T05:57:49+00:00",
+        "url": "https://github.com/stefanpie/digital-design-dataset",
+        "id": 532379641
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
@@ -15386,8 +15386,8 @@
         "forks": 0,
         "size": 1676,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-05-28T04:38:27+00:00",
-        "pushed": "2025-05-28T04:38:24+00:00",
+        "updated": "2025-05-29T04:39:12+00:00",
+        "pushed": "2025-05-29T04:39:09+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15397,11 +15397,24 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 98621,
+        "size": 99151,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-05-28T03:30:23+00:00",
-        "pushed": "2025-05-28T03:30:19+00:00",
+        "updated": "2025-05-29T03:31:02+00:00",
+        "pushed": "2025-05-29T03:30:58+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "IndieMinimalist",
+        "stars": 0,
+        "forks": 0,
+        "size": 5640,
+        "created": "2025-05-11T20:10:48+00:00",
+        "updated": "2025-05-29T00:55:58+00:00",
+        "pushed": "2025-05-29T00:55:56+00:00",
+        "url": "https://github.com/IndieMinimalist/awesome-stars",
+        "id": 981754715
     }
 ]
