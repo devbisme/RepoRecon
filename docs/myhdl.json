@@ -5798,19 +5798,6 @@
         "id": 151136062
     },
     {
-        "repo": "ece510-HwAIML",
-        "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
-        "owner": "tnl3pdx",
-        "stars": 0,
-        "forks": 0,
-        "size": 246955,
-        "created": "2025-04-02T21:13:35+00:00",
-        "updated": "2025-05-25T03:16:18+00:00",
-        "pushed": "2025-05-25T03:16:15+00:00",
-        "url": "https://github.com/tnl3pdx/ece510-HwAIML",
-        "id": 959479867
-    },
-    {
         "repo": "hwtLib",
         "description": "hardware library for hwt (= ipcore repo)",
         "owner": "Nic30",
@@ -5837,19 +5824,6 @@
         "id": 985752198
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41525,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-05-28T14:55:34+00:00",
-        "pushed": "2025-05-28T14:55:24+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "cnn-accelerator",
         "description": "A CNN accelerator developed with MyHDL (Python)",
         "owner": "reecewayt",
@@ -5861,5 +5835,31 @@
         "pushed": "2025-05-29T01:29:44+00:00",
         "url": "https://github.com/reecewayt/cnn-accelerator",
         "id": 969762791
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 42,
+        "forks": 30,
+        "size": 41536,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-05-29T13:59:46+00:00",
+        "pushed": "2025-05-29T13:59:43+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "ece510-HwAIML",
+        "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
+        "owner": "tnl3pdx",
+        "stars": 0,
+        "forks": 0,
+        "size": 246962,
+        "created": "2025-04-02T21:13:35+00:00",
+        "updated": "2025-05-29T08:35:01+00:00",
+        "pushed": "2025-05-29T08:34:58+00:00",
+        "url": "https://github.com/tnl3pdx/ece510-HwAIML",
+        "id": 959479867
     }
 ]
