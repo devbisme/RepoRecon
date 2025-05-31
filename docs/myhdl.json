@@ -5746,19 +5746,6 @@
         "id": 984665023
     },
     {
-        "repo": "AND-gate-cosim-madness",
-        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
-        "owner": "Kreijstal",
-        "stars": 0,
-        "forks": 0,
-        "size": 586,
-        "created": "2024-08-07T20:23:56+00:00",
-        "updated": "2025-05-06T18:23:38+00:00",
-        "pushed": "2025-05-23T05:56:07+00:00",
-        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
-        "id": 839539533
-    },
-    {
         "repo": "opensource-hardware",
         "description": "Awesome open-source hardware: tools, generators, and reusable design projects",
         "owner": "XePHYNetwork",
@@ -5811,19 +5798,6 @@
         "id": 63018738
     },
     {
-        "repo": "Awesome-Python-Simulator",
-        "description": "Awesome Python Simulator & Electronic Design Tools(work in progress)",
-        "owner": "panhaiqi",
-        "stars": 1,
-        "forks": 0,
-        "size": 13,
-        "created": "2025-05-18T13:04:52+00:00",
-        "updated": "2025-05-25T16:19:33+00:00",
-        "pushed": "2025-05-25T16:19:30+00:00",
-        "url": "https://github.com/panhaiqi/Awesome-Python-Simulator",
-        "id": 985752198
-    },
-    {
         "repo": "cnn-accelerator",
         "description": "A CNN accelerator developed with MyHDL (Python)",
         "owner": "reecewayt",
@@ -5842,10 +5816,10 @@
         "owner": "kevinwlu",
         "stars": 42,
         "forks": 30,
-        "size": 41536,
+        "size": 41543,
         "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-05-29T13:59:46+00:00",
-        "pushed": "2025-05-29T13:59:43+00:00",
+        "updated": "2025-05-30T11:26:26+00:00",
+        "pushed": "2025-05-30T11:26:23+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
     },
@@ -5857,9 +5831,35 @@
         "forks": 0,
         "size": 246962,
         "created": "2025-04-02T21:13:35+00:00",
-        "updated": "2025-05-29T08:35:01+00:00",
-        "pushed": "2025-05-29T08:34:58+00:00",
+        "updated": "2025-05-31T06:10:27+00:00",
+        "pushed": "2025-05-31T06:10:24+00:00",
         "url": "https://github.com/tnl3pdx/ece510-HwAIML",
         "id": 959479867
+    },
+    {
+        "repo": "AND-gate-cosim-madness",
+        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
+        "owner": "Kreijstal",
+        "stars": 0,
+        "forks": 0,
+        "size": 590,
+        "created": "2024-08-07T20:23:56+00:00",
+        "updated": "2025-05-23T06:19:09+00:00",
+        "pushed": "2025-05-31T06:09:28+00:00",
+        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
+        "id": 839539533
+    },
+    {
+        "repo": "Awesome-Python-Simulator",
+        "description": "Awesome Python Simulator & Electronic Design Tools(work in progress)",
+        "owner": "panhaiqi",
+        "stars": 1,
+        "forks": 0,
+        "size": 15,
+        "created": "2025-05-18T13:04:52+00:00",
+        "updated": "2025-05-30T16:16:59+00:00",
+        "pushed": "2025-05-30T16:16:56+00:00",
+        "url": "https://github.com/panhaiqi/Awesome-Python-Simulator",
+        "id": 985752198
     }
 ]
