@@ -14885,19 +14885,6 @@
         "id": 867204149
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 21,
-        "forks": 0,
-        "size": 9659,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-05-25T02:30:58+00:00",
-        "pushed": "2025-05-25T02:30:55+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -15184,19 +15171,6 @@
         "id": 981754715
     },
     {
-        "repo": "golitex",
-        "description": "Litex is a simple proof assistant and formal language.",
-        "owner": "litexlang",
-        "stars": 115,
-        "forks": 0,
-        "size": 16738,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-05-30T05:38:42+00:00",
-        "pushed": "2025-05-30T05:38:38+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -15301,32 +15275,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1061,
-        "forks": 91,
-        "size": 1283,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-05-31T01:48:13+00:00",
-        "pushed": "2025-05-31T02:46:33+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1774,
-        "forks": 263,
-        "size": 237219,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-05-31T04:01:23+00:00",
-        "pushed": "2025-05-31T04:01:19+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -15366,19 +15314,6 @@
         "id": 972708089
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 996,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-05-31T05:24:33+00:00",
-        "pushed": "2025-05-31T05:24:30+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "tang-nano-20k--riscv--cache-sdram",
         "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
         "owner": "calint",
@@ -15392,15 +15327,80 @@
         "id": 908413312
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1062,
+        "forks": 91,
+        "size": 1283,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-05-31T19:23:46+00:00",
+        "pushed": "2025-06-01T03:01:52+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "AIA_litex",
+        "description": "Advanced Interrupt Architecture Support in Litex",
+        "owner": "disdi",
+        "stars": 0,
+        "forks": 0,
+        "size": 658,
+        "created": "2025-05-31T20:03:07+00:00",
+        "updated": "2025-05-31T21:39:56+00:00",
+        "pushed": "2025-05-31T21:40:15+00:00",
+        "url": "https://github.com/disdi/AIA_litex",
+        "id": 993919423
+    },
+    {
+        "repo": "neorv32",
+        "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1774,
+        "forks": 263,
+        "size": 237660,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-06-01T05:24:23+00:00",
+        "pushed": "2025-06-01T05:26:00+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex is a simple proof assistant and formal language.",
+        "owner": "litexlang",
+        "stars": 115,
+        "forks": 0,
+        "size": 16793,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-01T00:10:39+00:00",
+        "pushed": "2025-06-01T00:10:36+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1003,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-06-01T05:25:22+00:00",
+        "pushed": "2025-06-01T05:25:19+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 1717,
+        "size": 1757,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-05-31T04:37:39+00:00",
-        "pushed": "2025-05-31T04:37:35+00:00",
+        "updated": "2025-06-01T04:42:38+00:00",
+        "pushed": "2025-06-01T04:42:35+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15410,10 +15410,10 @@
         "owner": "Tavish9",
         "stars": 15,
         "forks": 0,
-        "size": 18021,
+        "size": 18022,
         "created": "2025-03-26T13:26:14+00:00",
-        "updated": "2025-05-31T03:13:42+00:00",
-        "pushed": "2025-05-31T03:13:39+00:00",
+        "updated": "2025-06-01T03:42:25+00:00",
+        "pushed": "2025-06-01T03:42:22+00:00",
         "url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
         "id": 955329949
     },
@@ -15423,11 +15423,24 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 100225,
+        "size": 100749,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-05-31T03:28:35+00:00",
-        "pushed": "2025-05-31T03:28:32+00:00",
+        "updated": "2025-06-01T03:40:54+00:00",
+        "pushed": "2025-06-01T03:40:51+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 21,
+        "forks": 0,
+        "size": 9926,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-06-01T02:42:53+00:00",
+        "pushed": "2025-06-01T02:42:50+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
     }
 ]

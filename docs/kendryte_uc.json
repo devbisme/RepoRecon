@@ -44018,19 +44018,6 @@
         "id": 984949912
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 9,
-        "forks": 2,
-        "size": 3655,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-05-28T02:21:22+00:00",
-        "pushed": "2025-05-28T02:21:19+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
         "repo": "Adafruit_NeoPixel",
         "description": "Arduino library for controlling single-wire LED pixels (NeoPixel, WS2812, etc.)",
         "owner": "adafruit",
@@ -44042,32 +44029,6 @@
         "pushed": "2025-05-28T14:52:57+00:00",
         "url": "https://github.com/adafruit/Adafruit_NeoPixel",
         "id": 7136149
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 81,
-        "forks": 10,
-        "size": 51438,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-05-28T21:35:27+00:00",
-        "pushed": "2025-05-28T21:38:04+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 233,
-        "forks": 190,
-        "size": 249,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-05-28T09:16:57+00:00",
-        "pushed": "2025-05-28T09:16:53+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
     },
     {
         "repo": "PQRV",
@@ -44174,19 +44135,6 @@
         "id": 188584527
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 791,
-        "forks": 194,
-        "size": 64427,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-05-29T12:34:01+00:00",
-        "pushed": "2025-05-30T06:27:56+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -44250,19 +44198,6 @@
         "pushed": "2025-05-29T09:21:18+00:00",
         "url": "https://github.com/opencv/opencv_zoo",
         "id": 390637491
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11152,
-        "forks": 5178,
-        "size": 909709,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-05-30T05:34:20+00:00",
-        "pushed": "2025-05-30T06:07:57+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "muriscv-nn",
@@ -44369,19 +44304,6 @@
         "id": 992443291
     },
     {
-        "repo": "user_basic",
-        "description": null,
-        "owner": "ZhiyuanSue",
-        "stars": 0,
-        "forks": 0,
-        "size": 126,
-        "created": "2025-05-02T01:57:15+00:00",
-        "updated": "2025-05-29T09:34:00+00:00",
-        "pushed": "2025-05-29T09:33:57+00:00",
-        "url": "https://github.com/ZhiyuanSue/user_basic",
-        "id": 976372099
-    },
-    {
         "repo": "CherryUSB",
         "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
         "owner": "cherry-embedded",
@@ -44473,17 +44395,82 @@
         "id": 993576026
     },
     {
-        "repo": "SAFE-AI-License",
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 791,
+        "forks": 194,
+        "size": 64301,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-05-29T12:34:01+00:00",
+        "pushed": "2025-06-01T05:11:48+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 81,
+        "forks": 10,
+        "size": 51454,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-05-31T21:12:19+00:00",
+        "pushed": "2025-05-31T21:12:15+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 235,
+        "forks": 191,
+        "size": 249,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-05-31T13:07:10+00:00",
+        "pushed": "2025-05-31T13:07:07+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11155,
+        "forks": 5180,
+        "size": 910133,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-05-31T17:02:35+00:00",
+        "pushed": "2025-05-31T11:50:07+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "maixtl",
         "description": null,
-        "owner": "Mathv60",
+        "owner": "maixtl",
         "stars": 0,
         "forks": 0,
-        "size": 17,
-        "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-05-31T05:45:22+00:00",
-        "pushed": "2025-05-31T05:45:19+00:00",
-        "url": "https://github.com/Mathv60/SAFE-AI-License",
-        "id": 988484709
+        "size": 26,
+        "created": "2025-05-31T14:57:30+00:00",
+        "updated": "2025-05-31T14:58:11+00:00",
+        "pushed": "2025-05-31T14:58:08+00:00",
+        "url": "https://github.com/maixtl/maixtl",
+        "id": 993802201
+    },
+    {
+        "repo": "user_basic",
+        "description": null,
+        "owner": "ZhiyuanSue",
+        "stars": 0,
+        "forks": 0,
+        "size": 146,
+        "created": "2025-05-02T01:57:15+00:00",
+        "updated": "2025-05-31T08:54:17+00:00",
+        "pushed": "2025-05-31T08:54:13+00:00",
+        "url": "https://github.com/ZhiyuanSue/user_basic",
+        "id": 976372099
     },
     {
         "repo": "certified-android-devices",
@@ -44491,11 +44478,50 @@
         "owner": "androidtrackers",
         "stars": 135,
         "forks": 38,
-        "size": 992908,
+        "size": 992909,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-05-30T12:38:03+00:00",
-        "pushed": "2025-05-30T12:37:59+00:00",
+        "updated": "2025-05-31T12:33:51+00:00",
+        "pushed": "2025-05-31T12:33:47+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "SAFE-AI-License",
+        "description": null,
+        "owner": "Mathv60",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2025-05-22T16:01:59+00:00",
+        "updated": "2025-06-01T05:27:01+00:00",
+        "pushed": "2025-06-01T05:26:57+00:00",
+        "url": "https://github.com/Mathv60/SAFE-AI-License",
+        "id": 988484709
+    },
+    {
+        "repo": "OneStepForMaixCam",
+        "description": null,
+        "owner": "lintheyoung",
+        "stars": 0,
+        "forks": 0,
+        "size": 31,
+        "created": "2025-06-01T03:55:48+00:00",
+        "updated": "2025-06-01T04:05:31+00:00",
+        "pushed": "2025-06-01T04:03:39+00:00",
+        "url": "https://github.com/lintheyoung/OneStepForMaixCam",
+        "id": 994035555
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 9,
+        "forks": 2,
+        "size": 3857,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-06-01T02:41:34+00:00",
+        "pushed": "2025-06-01T02:41:31+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
     }
 ]
