@@ -44083,19 +44083,6 @@
         "id": 188584527
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 316,
-        "forks": 58,
-        "size": 66944,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-05-28T09:23:36+00:00",
-        "pushed": "2025-05-30T06:11:53+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -44356,32 +44343,6 @@
         "id": 731012323
     },
     {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 81,
-        "forks": 10,
-        "size": 51455,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-06-01T16:28:00+00:00",
-        "pushed": "2025-06-01T16:27:57+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 14,
-        "forks": 4,
-        "size": 5496,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-06-01T16:09:37+00:00",
-        "pushed": "2025-06-01T16:09:34+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "k230_linux_camera",
         "description": "\u5e90\u5c71\u6d3e\u76f8\u673a",
         "owner": "QiuQQ151",
@@ -44447,19 +44408,6 @@
         "id": 994373950
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 792,
-        "forks": 194,
-        "size": 64357,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-06-02T09:06:32+00:00",
-        "pushed": "2025-06-03T05:19:30+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -44471,19 +44419,6 @@
         "pushed": "2025-06-03T04:31:50+00:00",
         "url": "https://github.com/kendryte/k230_linux_sdk",
         "id": 793843389
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1542,
-        "forks": 331,
-        "size": 81902,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-06-02T23:07:06+00:00",
-        "pushed": "2025-06-02T12:41:26+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
     },
     {
         "repo": "flippy-openwrt-actions",
@@ -44512,19 +44447,6 @@
         "id": 912103472
     },
     {
-        "repo": "alpha-hunter",
-        "description": null,
-        "owner": "uneeb123",
-        "stars": 0,
-        "forks": 0,
-        "size": 118488,
-        "created": "2025-02-22T23:04:06+00:00",
-        "updated": "2025-06-02T23:31:03+00:00",
-        "pushed": "2025-06-02T23:31:02+00:00",
-        "url": "https://github.com/uneeb123/alpha-hunter",
-        "id": 937383199
-    },
-    {
         "repo": "SMC_F429",
         "description": null,
         "owner": "ktkuri132",
@@ -44551,6 +44473,97 @@
         "id": 975506477
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 791,
+        "forks": 194,
+        "size": 64343,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-06-03T09:38:53+00:00",
+        "pushed": "2025-06-04T06:10:05+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 319,
+        "forks": 60,
+        "size": 68277,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-06-04T03:25:23+00:00",
+        "pushed": "2025-06-04T03:25:20+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1542,
+        "forks": 331,
+        "size": 82728,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-06-04T05:09:13+00:00",
+        "pushed": "2025-06-04T05:09:10+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 83,
+        "forks": 10,
+        "size": 51461,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-06-04T05:17:22+00:00",
+        "pushed": "2025-06-04T01:00:22+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 14,
+        "forks": 4,
+        "size": 5580,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-06-04T03:06:59+00:00",
+        "pushed": "2025-06-04T03:06:58+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "alpha-hunter",
+        "description": null,
+        "owner": "uneeb123",
+        "stars": 0,
+        "forks": 0,
+        "size": 118522,
+        "created": "2025-02-22T23:04:06+00:00",
+        "updated": "2025-06-04T01:10:41+00:00",
+        "pushed": "2025-06-04T01:10:39+00:00",
+        "url": "https://github.com/uneeb123/alpha-hunter",
+        "id": 937383199
+    },
+    {
+        "repo": "examples",
+        "description": "k230 examples",
+        "owner": "alexhao007",
+        "stars": 0,
+        "forks": 0,
+        "size": 27069,
+        "created": "2025-06-03T14:23:51+00:00",
+        "updated": "2025-06-03T14:31:02+00:00",
+        "pushed": "2025-06-03T14:30:46+00:00",
+        "url": "https://github.com/alexhao007/examples",
+        "id": 995468444
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -44558,8 +44571,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-06-03T05:06:06+00:00",
-        "pushed": "2025-06-03T05:06:05+00:00",
+        "updated": "2025-06-04T06:16:29+00:00",
+        "pushed": "2025-06-04T06:16:27+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -44569,10 +44582,10 @@
         "owner": "androidtrackers",
         "stars": 135,
         "forks": 38,
-        "size": 993403,
+        "size": 996016,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-06-02T12:37:50+00:00",
-        "pushed": "2025-06-02T12:37:47+00:00",
+        "updated": "2025-06-03T12:38:54+00:00",
+        "pushed": "2025-06-03T12:38:52+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
