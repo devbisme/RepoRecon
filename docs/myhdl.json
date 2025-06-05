@@ -5681,19 +5681,6 @@
         "id": 314673708
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 3,
-        "forks": 0,
-        "size": 220,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-05-03T12:26:16+00:00",
-        "pushed": "2025-05-03T12:26:13+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "SimpleCPU-Python-HDLSim",
         "description": "Python-based RTL models and simulators for SimpleCPUv1a and SimpleCPUv1d using Amaranth, MyHDL, PyMTL3, and PyRTL for undergraduate teaching and benchmarking.",
         "owner": "bhd506",
@@ -5824,19 +5811,6 @@
         "id": 143520625
     },
     {
-        "repo": "ece510-HwAIML",
-        "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
-        "owner": "tnl3pdx",
-        "stars": 0,
-        "forks": 0,
-        "size": 246962,
-        "created": "2025-04-02T21:13:35+00:00",
-        "updated": "2025-05-31T06:10:27+00:00",
-        "pushed": "2025-05-31T06:10:24+00:00",
-        "url": "https://github.com/tnl3pdx/ece510-HwAIML",
-        "id": 959479867
-    },
-    {
         "repo": "AND-gate-cosim-madness",
         "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
         "owner": "Kreijstal",
@@ -5861,5 +5835,31 @@
         "pushed": "2025-05-30T16:16:56+00:00",
         "url": "https://github.com/panhaiqi/Awesome-Python-Simulator",
         "id": 985752198
+    },
+    {
+        "repo": "ece510-HwAIML",
+        "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
+        "owner": "tnl3pdx",
+        "stars": 0,
+        "forks": 0,
+        "size": 246981,
+        "created": "2025-04-02T21:13:35+00:00",
+        "updated": "2025-06-04T20:24:42+00:00",
+        "pushed": "2025-06-04T20:24:40+00:00",
+        "url": "https://github.com/tnl3pdx/ece510-HwAIML",
+        "id": 959479867
+    },
+    {
+        "repo": "FPGA-Awesome-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 3,
+        "forks": 0,
+        "size": 223,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-06-04T21:13:13+00:00",
+        "pushed": "2025-06-04T21:13:11+00:00",
+        "url": "https://github.com/RDSik/FPGA-Awesome-list",
+        "id": 777943094
     }
 ]

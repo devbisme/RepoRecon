@@ -14235,19 +14235,6 @@
         "id": 975451337
     },
     {
-        "repo": "fpga-useful-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 3,
-        "forks": 0,
-        "size": 220,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-05-03T12:26:16+00:00",
-        "pushed": "2025-05-03T12:26:13+00:00",
-        "url": "https://github.com/RDSik/fpga-useful-list",
-        "id": 777943094
-    },
-    {
         "repo": "CRC32-in-Litex-2",
         "description": null,
         "owner": "jahs-96",
@@ -14441,32 +14428,6 @@
         "pushed": "2025-05-12T05:41:59+00:00",
         "url": "https://github.com/girlvoice/girlvoice-gateware",
         "id": 800344642
-    },
-    {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 635,
-        "forks": 184,
-        "size": 9781,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2025-05-12T16:23:53+00:00",
-        "pushed": "2025-05-12T12:02:06+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
-    },
-    {
-        "repo": "litex_wr_nic",
-        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
-        "owner": "enjoy-digital",
-        "stars": 5,
-        "forks": 3,
-        "size": 10037,
-        "created": "2024-03-27T08:02:37+00:00",
-        "updated": "2025-05-09T07:43:24+00:00",
-        "pushed": "2025-05-12T12:32:00+00:00",
-        "url": "https://github.com/enjoy-digital/litex_wr_nic",
-        "id": 778169492
     },
     {
         "repo": "neorv32_bench",
@@ -14924,19 +14885,6 @@
         "id": 787406556
     },
     {
-        "repo": "litei2c",
-        "description": "Small footprint and configurable I2C core",
-        "owner": "litex-hub",
-        "stars": 3,
-        "forks": 3,
-        "size": 24,
-        "created": "2024-09-24T06:34:32+00:00",
-        "updated": "2025-05-26T08:32:25+00:00",
-        "pushed": "2025-05-26T08:32:40+00:00",
-        "url": "https://github.com/litex-hub/litei2c",
-        "id": 862164421
-    },
-    {
         "repo": "awesome-gatemate",
         "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
         "owner": "PythonLinks",
@@ -15106,19 +15054,6 @@
         "id": 84366787
     },
     {
-        "repo": "offnariscv",
-        "description": null,
-        "owner": "offnaria",
-        "stars": 0,
-        "forks": 0,
-        "size": 59,
-        "created": "2025-04-27T12:46:40+00:00",
-        "updated": "2025-05-29T13:50:22+00:00",
-        "pushed": "2025-05-29T13:50:19+00:00",
-        "url": "https://github.com/offnaria/offnariscv",
-        "id": 973646184
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -15156,19 +15091,6 @@
         "pushed": "2025-05-30T10:21:09+00:00",
         "url": "https://github.com/machdyne/kakao",
         "id": 591257216
-    },
-    {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 1,
-        "forks": 0,
-        "size": 7893,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-05-30T08:38:35+00:00",
-        "pushed": "2025-05-30T08:38:31+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
     },
     {
         "repo": "tang-nano-20k--riscv--cache-sdram",
@@ -15236,19 +15158,6 @@
         "id": 923355946
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "IndieMinimalist",
-        "stars": 0,
-        "forks": 0,
-        "size": 6825,
-        "created": "2025-05-11T20:10:48+00:00",
-        "updated": "2025-06-02T00:56:58+00:00",
-        "pushed": "2025-06-02T00:56:55+00:00",
-        "url": "https://github.com/IndieMinimalist/awesome-stars",
-        "id": 981754715
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -15260,19 +15169,6 @@
         "pushed": "2025-06-02T16:04:59+00:00",
         "url": "https://github.com/enjoy-digital/litex",
         "id": 45734719
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 408,
-        "forks": 321,
-        "size": 4378,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-06-02T16:42:42+00:00",
-        "pushed": "2025-06-02T16:42:38+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "litespi",
@@ -15312,32 +15208,6 @@
         "pushed": "2025-06-03T01:00:40+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1065,
-        "forks": 91,
-        "size": 1283,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-03T16:40:32+00:00",
-        "pushed": "2025-06-04T02:44:48+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex is a simple formal language.",
-        "owner": "litexlang",
-        "stars": 118,
-        "forks": 0,
-        "size": 16871,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-04T01:30:19+00:00",
-        "pushed": "2025-06-04T01:30:18+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "neorv32",
@@ -15418,32 +15288,6 @@
         "id": 993985787
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1015,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-04T05:26:19+00:00",
-        "pushed": "2025-06-04T05:26:17+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 7,
-        "forks": 0,
-        "size": 1908,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-04T04:40:15+00:00",
-        "pushed": "2025-06-04T04:40:13+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-daily-AI-arxiv",
         "description": "\ud83d\ude80 Daily AI Research Digest: Tracking breakthroughs in AI/NLP/CV/Robotics with dynamic updates and paper navigation.",
         "owner": "Tavish9",
@@ -15457,16 +15301,172 @@
         "id": 955329949
     },
     {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 409,
+        "forks": 321,
+        "size": 4395,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-06-04T12:13:43+00:00",
+        "pushed": "2025-06-04T06:53:36+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 637,
+        "forks": 185,
+        "size": 9796,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2025-06-04T06:52:34+00:00",
+        "pushed": "2025-06-04T06:52:32+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1067,
+        "forks": 91,
+        "size": 1283,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-04T21:22:45+00:00",
+        "pushed": "2025-06-05T02:51:36+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex is a simple formal language.",
+        "owner": "litexlang",
+        "stars": 119,
+        "forks": 0,
+        "size": 16971,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-05T05:09:59+00:00",
+        "pushed": "2025-06-05T05:09:56+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "litex_wr_nic",
+        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
+        "owner": "enjoy-digital",
+        "stars": 6,
+        "forks": 4,
+        "size": 10042,
+        "created": "2024-03-27T08:02:37+00:00",
+        "updated": "2025-06-04T10:02:58+00:00",
+        "pushed": "2025-06-04T10:02:55+00:00",
+        "url": "https://github.com/enjoy-digital/litex_wr_nic",
+        "id": 778169492
+    },
+    {
+        "repo": "litei2c",
+        "description": "Small footprint and configurable I2C core",
+        "owner": "litex-hub",
+        "stars": 3,
+        "forks": 3,
+        "size": 26,
+        "created": "2024-09-24T06:34:32+00:00",
+        "updated": "2025-06-04T07:06:19+00:00",
+        "pushed": "2025-06-04T07:06:22+00:00",
+        "url": "https://github.com/litex-hub/litei2c",
+        "id": 862164421
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 1,
+        "forks": 0,
+        "size": 7950,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-06-04T13:14:36+00:00",
+        "pushed": "2025-06-04T13:14:34+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1022,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-06-05T05:26:59+00:00",
+        "pushed": "2025-06-05T05:26:58+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "offnariscv",
+        "description": null,
+        "owner": "offnaria",
+        "stars": 0,
+        "forks": 0,
+        "size": 76,
+        "created": "2025-04-27T12:46:40+00:00",
+        "updated": "2025-06-04T15:58:04+00:00",
+        "pushed": "2025-06-04T15:58:02+00:00",
+        "url": "https://github.com/offnaria/offnariscv",
+        "id": 973646184
+    },
+    {
+        "repo": "FPGA-Awesome-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 3,
+        "forks": 0,
+        "size": 223,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-06-04T21:13:13+00:00",
+        "pushed": "2025-06-04T21:13:11+00:00",
+        "url": "https://github.com/RDSik/FPGA-Awesome-list",
+        "id": 777943094
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 7,
+        "forks": 0,
+        "size": 1909,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-06-05T04:40:35+00:00",
+        "pushed": "2025-06-05T04:40:33+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 102361,
+        "size": 102911,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-04T03:32:44+00:00",
-        "pushed": "2025-06-04T03:32:43+00:00",
+        "updated": "2025-06-05T03:32:55+00:00",
+        "pushed": "2025-06-05T03:32:53+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "IndieMinimalist",
+        "stars": 0,
+        "forks": 0,
+        "size": 8010,
+        "created": "2025-05-11T20:10:48+00:00",
+        "updated": "2025-06-05T00:57:00+00:00",
+        "pushed": "2025-06-05T00:56:58+00:00",
+        "url": "https://github.com/IndieMinimalist/awesome-stars",
+        "id": 981754715
     }
 ]
