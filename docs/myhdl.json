@@ -5798,19 +5798,6 @@
         "id": 969762791
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41543,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-05-30T11:26:26+00:00",
-        "pushed": "2025-05-30T11:26:23+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "AND-gate-cosim-madness",
         "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
         "owner": "Kreijstal",
@@ -5837,15 +5824,41 @@
         "id": 985752198
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 42,
+        "forks": 30,
+        "size": 41546,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-06-05T12:22:07+00:00",
+        "pushed": "2025-06-05T12:22:05+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl_prj_template",
+        "description": null,
+        "owner": "mokweri",
+        "stars": 0,
+        "forks": 0,
+        "size": 680,
+        "created": "2025-06-05T15:16:43+00:00",
+        "updated": "2025-06-05T15:21:01+00:00",
+        "pushed": "2025-06-05T15:20:58+00:00",
+        "url": "https://github.com/mokweri/myhdl_prj_template",
+        "id": 996860922
+    },
+    {
         "repo": "ece510-HwAIML",
         "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
         "owner": "tnl3pdx",
         "stars": 0,
         "forks": 0,
-        "size": 246981,
+        "size": 246985,
         "created": "2025-04-02T21:13:35+00:00",
-        "updated": "2025-06-04T20:24:42+00:00",
-        "pushed": "2025-06-04T20:24:40+00:00",
+        "updated": "2025-06-06T02:47:20+00:00",
+        "pushed": "2025-06-06T02:47:18+00:00",
         "url": "https://github.com/tnl3pdx/ece510-HwAIML",
         "id": 959479867
     },
@@ -5855,10 +5868,10 @@
         "owner": "RDSik",
         "stars": 3,
         "forks": 0,
-        "size": 223,
+        "size": 231,
         "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-06-04T21:13:13+00:00",
-        "pushed": "2025-06-04T21:13:11+00:00",
+        "updated": "2025-06-05T20:37:07+00:00",
+        "pushed": "2025-06-05T20:37:05+00:00",
         "url": "https://github.com/RDSik/FPGA-Awesome-list",
         "id": 777943094
     }

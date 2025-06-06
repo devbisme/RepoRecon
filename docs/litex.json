@@ -12857,19 +12857,6 @@
         "id": 485301689
     },
     {
-        "repo": "LiteXDR",
-        "description": "Event detection/response system for Windows designed to keep server costs low.",
-        "owner": "jkatz01",
-        "stars": 0,
-        "forks": 0,
-        "size": 19543,
-        "created": "2023-06-28T02:46:37+00:00",
-        "updated": "2024-12-30T21:58:01+00:00",
-        "pushed": "2024-12-30T21:57:58+00:00",
-        "url": "https://github.com/jkatz01/LiteXDR",
-        "id": 659521415
-    },
-    {
         "repo": "ABACUS-CPU-Profiler",
         "description": "CPU Profiler written in SystemVerilog with Linux Driver and Baremetal support",
         "owner": "Rajnesh28",
@@ -14495,19 +14482,6 @@
         "id": 968659942
     },
     {
-        "repo": "serv",
-        "description": "SERV - The SErial RISC-V CPU",
-        "owner": "olofk",
-        "stars": 1581,
-        "forks": 219,
-        "size": 13055,
-        "created": "2018-10-31T07:15:00+00:00",
-        "updated": "2025-05-17T01:58:49+00:00",
-        "pushed": "2025-05-16T18:31:19+00:00",
-        "url": "https://github.com/olofk/serv",
-        "id": 155514739
-    },
-    {
         "repo": "a2o",
         "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue.  It is now being updated for compliancy and integration into open projects.",
         "owner": "OpenPOWERFoundation",
@@ -15197,19 +15171,6 @@
         "id": 954020807
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 40026,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-06-03T01:00:44+00:00",
-        "pushed": "2025-06-03T01:00:40+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "neorv32",
         "description": ":desktop_computer: A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -15327,32 +15288,6 @@
         "id": 183392076
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1067,
-        "forks": 91,
-        "size": 1283,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-04T21:22:45+00:00",
-        "pushed": "2025-06-05T02:51:36+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex is a simple formal language.",
-        "owner": "litexlang",
-        "stars": 119,
-        "forks": 0,
-        "size": 16971,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-05T05:09:59+00:00",
-        "pushed": "2025-06-05T05:09:56+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "litex_wr_nic",
         "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
         "owner": "enjoy-digital",
@@ -15392,19 +15327,6 @@
         "id": 972708089
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1022,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-05T05:26:59+00:00",
-        "pushed": "2025-06-05T05:26:58+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "offnariscv",
         "description": null,
         "owner": "offnaria",
@@ -15418,15 +15340,80 @@
         "id": 973646184
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1067,
+        "forks": 91,
+        "size": 1284,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-05T18:12:04+00:00",
+        "pushed": "2025-06-06T02:38:28+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "owner": "olofk",
+        "stars": 1593,
+        "forks": 218,
+        "size": 13055,
+        "created": "2018-10-31T07:15:00+00:00",
+        "updated": "2025-06-05T06:57:08+00:00",
+        "pushed": "2025-06-05T06:57:13+00:00",
+        "url": "https://github.com/olofk/serv",
+        "id": 155514739
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex is a simple formal language.",
+        "owner": "litexlang",
+        "stars": 119,
+        "forks": 0,
+        "size": 17034,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-06T02:32:37+00:00",
+        "pushed": "2025-06-06T02:32:35+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1026,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-06-06T05:26:07+00:00",
+        "pushed": "2025-06-06T05:26:04+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "LiteXDR",
+        "description": "Event detection/response system for Windows designed to keep server costs low.",
+        "owner": "jkatz01",
+        "stars": 0,
+        "forks": 0,
+        "size": 19550,
+        "created": "2023-06-28T02:46:37+00:00",
+        "updated": "2025-06-05T22:26:38+00:00",
+        "pushed": "2025-06-05T22:26:36+00:00",
+        "url": "https://github.com/jkatz01/LiteXDR",
+        "id": 659521415
+    },
+    {
         "repo": "FPGA-Awesome-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
         "stars": 3,
         "forks": 0,
-        "size": 223,
+        "size": 231,
         "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-06-04T21:13:13+00:00",
-        "pushed": "2025-06-04T21:13:11+00:00",
+        "updated": "2025-06-05T20:37:07+00:00",
+        "pushed": "2025-06-05T20:37:05+00:00",
         "url": "https://github.com/RDSik/FPGA-Awesome-list",
         "id": 777943094
     },
@@ -15436,12 +15423,25 @@
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 1909,
+        "size": 2004,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-05T04:40:35+00:00",
-        "pushed": "2025-06-05T04:40:33+00:00",
+        "updated": "2025-06-06T04:40:29+00:00",
+        "pushed": "2025-06-06T04:40:27+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 41351,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-06-06T01:00:35+00:00",
+        "pushed": "2025-06-06T01:00:33+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -15449,10 +15449,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 102911,
+        "size": 103461,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-05T03:32:55+00:00",
-        "pushed": "2025-06-05T03:32:53+00:00",
+        "updated": "2025-06-06T03:32:26+00:00",
+        "pushed": "2025-06-06T03:32:23+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -15462,10 +15462,10 @@
         "owner": "IndieMinimalist",
         "stars": 0,
         "forks": 0,
-        "size": 8010,
+        "size": 9196,
         "created": "2025-05-11T20:10:48+00:00",
-        "updated": "2025-06-05T00:57:00+00:00",
-        "pushed": "2025-06-05T00:56:58+00:00",
+        "updated": "2025-06-06T00:57:22+00:00",
+        "pushed": "2025-06-06T00:57:21+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
     }

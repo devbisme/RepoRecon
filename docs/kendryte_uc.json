@@ -43875,19 +43875,6 @@
         "id": 976678740
     },
     {
-        "repo": "AICamera-k230d-documentation",
-        "description": "4.0\u6444\u50cf\u5934 k230d",
-        "owner": "labplus-cn",
-        "stars": 0,
-        "forks": 0,
-        "size": 41884,
-        "created": "2025-04-24T06:22:05+00:00",
-        "updated": "2025-05-27T02:29:42+00:00",
-        "pushed": "2025-05-27T02:29:39+00:00",
-        "url": "https://github.com/labplus-cn/AICamera-k230d-documentation",
-        "id": 971841073
-    },
-    {
         "repo": "emakefun-docsify",
         "description": null,
         "owner": "emakefun",
@@ -44330,19 +44317,6 @@
         "id": 793843389
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 236,
-        "forks": 191,
-        "size": 249,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-06-02T13:30:09+00:00",
-        "pushed": "2025-06-02T09:31:30+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "ai-ml-embedded-boards",
         "description": "Just a list of embedded boards with AI/ML accelerators",
         "owner": "Vge0rge",
@@ -44382,19 +44356,6 @@
         "id": 975506477
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 319,
-        "forks": 60,
-        "size": 68277,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-06-04T03:25:23+00:00",
-        "pushed": "2025-06-04T03:25:20+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "LicheeSG-Nano-Build",
         "description": "LicheeRV-Nano-Build with submodules",
         "owner": "scpcom",
@@ -44421,19 +44382,6 @@
         "id": 606922823
     },
     {
-        "repo": "alpha-hunter",
-        "description": null,
-        "owner": "uneeb123",
-        "stars": 0,
-        "forks": 0,
-        "size": 118522,
-        "created": "2025-02-22T23:04:06+00:00",
-        "updated": "2025-06-04T01:10:41+00:00",
-        "pushed": "2025-06-04T01:10:39+00:00",
-        "url": "https://github.com/uneeb123/alpha-hunter",
-        "id": 937383199
-    },
-    {
         "repo": "examples",
         "description": "k230 examples",
         "owner": "alexhao007",
@@ -44445,19 +44393,6 @@
         "pushed": "2025-06-03T14:30:46+00:00",
         "url": "https://github.com/alexhao007/examples",
         "id": 995468444
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 791,
-        "forks": 194,
-        "size": 64393,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-06-03T09:38:53+00:00",
-        "pushed": "2025-06-05T04:20:17+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "kendryte-hal",
@@ -44564,19 +44499,6 @@
         "id": 996185978
     },
     {
-        "repo": "PH_Detector_with_K230D",
-        "description": null,
-        "owner": "CycleYerik",
-        "stars": 1,
-        "forks": 0,
-        "size": 3487,
-        "created": "2025-04-28T08:53:29+00:00",
-        "updated": "2025-06-04T08:07:32+00:00",
-        "pushed": "2025-06-04T08:07:30+00:00",
-        "url": "https://github.com/CycleYerik/PH_Detector_with_K230D",
-        "id": 974097956
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -44590,6 +44512,97 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 791,
+        "forks": 194,
+        "size": 64559,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-06-03T09:38:53+00:00",
+        "pushed": "2025-06-06T06:02:37+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 320,
+        "forks": 60,
+        "size": 68374,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-06-05T14:32:23+00:00",
+        "pushed": "2025-06-06T03:43:45+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 237,
+        "forks": 191,
+        "size": 253,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-06-06T02:45:00+00:00",
+        "pushed": "2025-06-06T02:44:57+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "alpha-hunter",
+        "description": null,
+        "owner": "uneeb123",
+        "stars": 0,
+        "forks": 0,
+        "size": 118537,
+        "created": "2025-02-22T23:04:06+00:00",
+        "updated": "2025-06-05T18:36:26+00:00",
+        "pushed": "2025-06-05T18:36:24+00:00",
+        "url": "https://github.com/uneeb123/alpha-hunter",
+        "id": 937383199
+    },
+    {
+        "repo": "k230_camera",
+        "description": null,
+        "owner": "QiuQQ151",
+        "stars": 0,
+        "forks": 0,
+        "size": 3961,
+        "created": "2025-06-05T09:41:27+00:00",
+        "updated": "2025-06-05T17:44:36+00:00",
+        "pushed": "2025-06-05T17:44:35+00:00",
+        "url": "https://github.com/QiuQQ151/k230_camera",
+        "id": 996674454
+    },
+    {
+        "repo": "AICamera-k230d-documentation",
+        "description": "4.0\u6444\u50cf\u5934 k230d",
+        "owner": "labplus-cn",
+        "stars": 0,
+        "forks": 0,
+        "size": 43584,
+        "created": "2025-04-24T06:22:05+00:00",
+        "updated": "2025-06-06T03:00:02+00:00",
+        "pushed": "2025-06-06T03:00:01+00:00",
+        "url": "https://github.com/labplus-cn/AICamera-k230d-documentation",
+        "id": 971841073
+    },
+    {
+        "repo": "PH_Detector_with_K230D",
+        "description": null,
+        "owner": "CycleYerik",
+        "stars": 1,
+        "forks": 0,
+        "size": 3491,
+        "created": "2025-04-28T08:53:29+00:00",
+        "updated": "2025-06-05T14:19:47+00:00",
+        "pushed": "2025-06-05T14:19:45+00:00",
+        "url": "https://github.com/CycleYerik/PH_Detector_with_K230D",
+        "id": 974097956
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -44597,8 +44610,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-06-05T04:29:25+00:00",
-        "pushed": "2025-06-05T04:29:23+00:00",
+        "updated": "2025-06-06T05:28:28+00:00",
+        "pushed": "2025-06-06T05:28:26+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -44608,10 +44621,10 @@
         "owner": "androidtrackers",
         "stars": 136,
         "forks": 38,
-        "size": 996017,
+        "size": 996513,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-06-04T12:38:16+00:00",
-        "pushed": "2025-06-04T12:38:14+00:00",
+        "updated": "2025-06-05T12:38:50+00:00",
+        "pushed": "2025-06-05T12:38:48+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
