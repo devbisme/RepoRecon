@@ -5811,32 +5811,6 @@
         "id": 777943094
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 38,
-        "forks": 7,
-        "size": 6680,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-06-10T21:28:58+00:00",
-        "pushed": "2025-06-10T21:28:55+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41555,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-06-10T18:47:55+00:00",
-        "pushed": "2025-06-10T18:47:52+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5863,6 +5837,32 @@
         "id": 151136062
     },
     {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 38,
+        "forks": 7,
+        "size": 6695,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-06-11T10:43:14+00:00",
+        "pushed": "2025-06-11T10:43:11+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 42,
+        "forks": 30,
+        "size": 41562,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-06-11T12:46:33+00:00",
+        "pushed": "2025-06-11T12:46:29+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "ece510-HwAIML",
         "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
         "owner": "tnl3pdx",
@@ -5870,8 +5870,8 @@
         "forks": 0,
         "size": 247007,
         "created": "2025-04-02T21:13:35+00:00",
-        "updated": "2025-06-10T23:33:48+00:00",
-        "pushed": "2025-06-10T23:33:44+00:00",
+        "updated": "2025-06-12T05:32:25+00:00",
+        "pushed": "2025-06-12T05:32:21+00:00",
         "url": "https://github.com/tnl3pdx/ece510-HwAIML",
         "id": 959479867
     }

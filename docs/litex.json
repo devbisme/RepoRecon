@@ -14222,19 +14222,6 @@
         "id": 978257292
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 106,
-        "forks": 19,
-        "size": 7023,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-05-07T09:04:15+00:00",
-        "pushed": "2025-05-07T09:04:11+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "lilydrum",
         "description": "Drums and Lilypond",
         "owner": "snowgoon88",
@@ -14950,19 +14937,6 @@
         "id": 591257216
     },
     {
-        "repo": "tang-nano-20k--riscv--cache-sdram",
-        "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
-        "owner": "calint",
-        "stars": 15,
-        "forks": 0,
-        "size": 11261,
-        "created": "2024-12-26T02:45:51+00:00",
-        "updated": "2025-05-30T07:34:19+00:00",
-        "pushed": "2025-05-30T07:34:15+00:00",
-        "url": "https://github.com/calint/tang-nano-20k--riscv--cache-sdram",
-        "id": 908413312
-    },
-    {
         "repo": "AIA_litex",
         "description": "Advanced Interrupt Architecture Support in Litex",
         "owner": "disdi",
@@ -15340,19 +15314,6 @@
         "id": 330793471
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1073,
-        "forks": 91,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-10T14:16:50+00:00",
-        "pushed": "2025-06-11T02:53:11+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "Colorlight-FPGA-Projects",
         "description": "current focus on Colorlight i5 and i9 & i9plus module",
         "owner": "wuxx",
@@ -15392,19 +15353,6 @@
         "id": 888329277
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 57,
-        "forks": 18,
-        "size": 65318,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-06-08T19:04:25+00:00",
-        "pushed": "2025-06-10T08:09:33+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -15431,19 +15379,6 @@
         "id": 473564418
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1055,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-11T05:26:12+00:00",
-        "pushed": "2025-06-11T05:26:09+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "litex-webpage",
         "description": null,
         "owner": "litexlang",
@@ -15457,6 +15392,84 @@
         "id": 889523857
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1073,
+        "forks": 91,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-10T14:16:50+00:00",
+        "pushed": "2025-06-12T02:52:12+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 110,
+        "forks": 19,
+        "size": 6908,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-06-11T19:35:26+00:00",
+        "pushed": "2025-06-11T19:35:22+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 57,
+        "forks": 18,
+        "size": 65745,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-06-11T15:04:45+00:00",
+        "pushed": "2025-06-11T15:27:16+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1062,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-06-12T05:25:54+00:00",
+        "pushed": "2025-06-12T05:25:52+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "tang-nano-20k--riscv--cache-sdram",
+        "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
+        "owner": "calint",
+        "stars": 15,
+        "forks": 0,
+        "size": 11264,
+        "created": "2024-12-26T02:45:51+00:00",
+        "updated": "2025-06-12T02:28:31+00:00",
+        "pushed": "2025-06-12T02:28:28+00:00",
+        "url": "https://github.com/calint/tang-nano-20k--riscv--cache-sdram",
+        "id": 908413312
+    },
+    {
+        "repo": "psoc-neorv32",
+        "description": "NEORV32 Fork for the KIT PSoC Lab",
+        "owner": "kit-kch",
+        "stars": 0,
+        "forks": 0,
+        "size": 234818,
+        "created": "2025-06-11T14:59:22+00:00",
+        "updated": "2025-06-11T15:09:10+00:00",
+        "pushed": "2025-06-11T15:09:38+00:00",
+        "url": "https://github.com/kit-kch/psoc-neorv32",
+        "id": 1000296529
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -15465,7 +15478,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-06-07T11:24:02+00:00",
-        "pushed": "2025-06-11T00:17:49+00:00",
+        "pushed": "2025-06-12T00:17:15+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -15477,8 +15490,8 @@
         "forks": 0,
         "size": 2012,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-11T04:41:03+00:00",
-        "pushed": "2025-06-11T04:40:59+00:00",
+        "updated": "2025-06-12T04:39:51+00:00",
+        "pushed": "2025-06-12T04:39:48+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15488,10 +15501,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 106189,
+        "size": 106740,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-11T03:33:17+00:00",
-        "pushed": "2025-06-11T03:33:13+00:00",
+        "updated": "2025-06-12T03:32:09+00:00",
+        "pushed": "2025-06-12T03:32:06+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
