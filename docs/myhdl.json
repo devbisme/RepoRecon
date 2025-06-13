@@ -5811,19 +5811,6 @@
         "id": 777943094
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 212,
-        "forks": 28,
-        "size": 20250,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-06-10T21:35:54+00:00",
-        "pushed": "2025-06-10T21:35:51+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "ipCorePackager",
         "description": "Scriptable IP-Core generator",
         "owner": "Nic30",
@@ -5835,19 +5822,6 @@
         "pushed": "2025-06-10T21:29:13+00:00",
         "url": "https://github.com/Nic30/ipCorePackager",
         "id": 151136062
-    },
-    {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 38,
-        "forks": 7,
-        "size": 6695,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-06-11T10:43:14+00:00",
-        "pushed": "2025-06-11T10:43:11+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
     },
     {
         "repo": "dsd",
@@ -5863,16 +5837,55 @@
         "id": 143520625
     },
     {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 38,
+        "forks": 7,
+        "size": 6704,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-06-12T22:23:31+00:00",
+        "pushed": "2025-06-12T22:23:28+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 212,
+        "forks": 28,
+        "size": 20283,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-06-12T22:23:25+00:00",
+        "pushed": "2025-06-12T22:23:22+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
         "repo": "ece510-HwAIML",
         "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
         "owner": "tnl3pdx",
         "stars": 0,
         "forks": 0,
-        "size": 247007,
+        "size": 247028,
         "created": "2025-04-02T21:13:35+00:00",
-        "updated": "2025-06-12T05:32:25+00:00",
-        "pushed": "2025-06-12T05:32:21+00:00",
+        "updated": "2025-06-13T04:41:07+00:00",
+        "pushed": "2025-06-13T04:41:04+00:00",
         "url": "https://github.com/tnl3pdx/ece510-HwAIML",
         "id": 959479867
+    },
+    {
+        "repo": "SOLVED-Cse3666-homework-4",
+        "description": null,
+        "owner": "LouiseWilliam",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2025-06-12T19:37:40+00:00",
+        "updated": "2025-06-12T19:37:46+00:00",
+        "pushed": "2025-06-12T19:37:43+00:00",
+        "url": "https://github.com/LouiseWilliam/SOLVED-Cse3666-homework-4",
+        "id": 1001080055
     }
 ]
