@@ -14950,19 +14950,6 @@
         "id": 993919423
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 3,
-        "size": 1299,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2025-06-01T21:40:29+00:00",
-        "pushed": "2025-06-01T21:40:26+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "openPCIE",
         "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
         "owner": "chili-chips-ba",
@@ -15158,19 +15145,6 @@
         "id": 981754715
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1780,
-        "forks": 265,
-        "size": 237401,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-06-08T04:24:42+00:00",
-        "pushed": "2025-06-08T04:26:18+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "girlvoice-gateware",
         "description": "The gateware and firmware for girlvoice, the real-time FPGA vocoder",
         "owner": "girlvoice",
@@ -15327,19 +15301,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1074,
-        "forks": 91,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-13T02:03:04+00:00",
-        "pushed": "2025-06-13T02:53:26+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -15364,32 +15325,6 @@
         "pushed": "2025-06-12T15:50:47+00:00",
         "url": "https://github.com/enjoy-digital/litex_wr_nic",
         "id": 778169492
-    },
-    {
-        "repo": "golitex",
-        "description": "The Simple Formal Language Even Kids Can Master",
-        "owner": "litexlang",
-        "stars": 132,
-        "forks": 1,
-        "size": 17536,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-13T02:29:04+00:00",
-        "pushed": "2025-06-12T09:28:52+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 57,
-        "forks": 18,
-        "size": 66512,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-06-12T11:44:03+00:00",
-        "pushed": "2025-06-12T12:06:21+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
     },
     {
         "repo": "hwt",
@@ -15418,32 +15353,6 @@
         "id": 473564418
     },
     {
-        "repo": "litex-boards",
-        "description": null,
-        "owner": "yhzhang0128",
-        "stars": 0,
-        "forks": 0,
-        "size": 3927,
-        "created": "2025-06-04T05:12:12+00:00",
-        "updated": "2025-06-04T05:13:22+00:00",
-        "pushed": "2025-06-13T00:56:57+00:00",
-        "url": "https://github.com/yhzhang0128/litex-boards",
-        "id": 995846850
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1068,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-13T05:25:58+00:00",
-        "pushed": "2025-06-13T05:25:55+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "offnariscv",
         "description": null,
         "owner": "offnaria",
@@ -15470,6 +15379,97 @@
         "id": 1000296529
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1074,
+        "forks": 91,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-13T02:03:04+00:00",
+        "pushed": "2025-06-14T02:48:17+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "The Simple Formal Language Even Kids Can Master",
+        "owner": "litexlang",
+        "stars": 131,
+        "forks": 1,
+        "size": 19581,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-13T13:00:28+00:00",
+        "pushed": "2025-06-13T13:00:24+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 57,
+        "forks": 18,
+        "size": 66959,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-06-13T13:27:53+00:00",
+        "pushed": "2025-06-13T13:50:58+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1785,
+        "forks": 266,
+        "size": 237160,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-06-13T18:50:46+00:00",
+        "pushed": "2025-06-13T18:52:25+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 3,
+        "size": 1309,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2025-06-13T18:51:58+00:00",
+        "pushed": "2025-06-13T18:51:55+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "litex-boards",
+        "description": null,
+        "owner": "yhzhang0128",
+        "stars": 0,
+        "forks": 0,
+        "size": 3927,
+        "created": "2025-06-04T05:12:12+00:00",
+        "updated": "2025-06-14T05:00:34+00:00",
+        "pushed": "2025-06-14T05:01:03+00:00",
+        "url": "https://github.com/yhzhang0128/litex-boards",
+        "id": 995846850
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1076,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-06-14T05:25:46+00:00",
+        "pushed": "2025-06-14T05:25:43+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -15478,7 +15478,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-06-07T11:24:02+00:00",
-        "pushed": "2025-06-13T00:17:40+00:00",
+        "pushed": "2025-06-14T00:17:02+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -15488,12 +15488,25 @@
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2014,
+        "size": 2015,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-13T04:40:47+00:00",
-        "pushed": "2025-06-13T04:40:44+00:00",
+        "updated": "2025-06-14T04:38:34+00:00",
+        "pushed": "2025-06-14T04:38:31+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 78,
+        "forks": 8,
+        "size": 5505,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-06-13T10:07:52+00:00",
+        "pushed": "2025-06-13T10:07:49+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
     },
     {
         "repo": "starList",
@@ -15501,10 +15514,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 107292,
+        "size": 107843,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-13T03:33:23+00:00",
-        "pushed": "2025-06-13T03:33:19+00:00",
+        "updated": "2025-06-14T03:29:44+00:00",
+        "pushed": "2025-06-14T03:29:40+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
