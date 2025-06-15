@@ -15171,19 +15171,6 @@
         "id": 998108478
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 21,
-        "forks": 0,
-        "size": 10192,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-06-08T02:34:23+00:00",
-        "pushed": "2025-06-08T02:34:20+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
-    },
-    {
         "repo": "VexRiscv",
         "description": "A FPGA friendly 32 bit RISC-V CPU implementation",
         "owner": "SpinalHDL",
@@ -15221,19 +15208,6 @@
         "pushed": "2025-06-09T15:02:06+00:00",
         "url": "https://github.com/Poziomas/Skrypty-wycen-Litex",
         "id": 998972331
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 42676,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-06-10T01:01:09+00:00",
-        "pushed": "2025-06-10T01:01:05+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "Colorlight-FPGA-Projects",
@@ -15340,19 +15314,6 @@
         "id": 35898469
     },
     {
-        "repo": "boxlambda",
-        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
-        "owner": "epsilon537",
-        "stars": 58,
-        "forks": 0,
-        "size": 597552,
-        "created": "2022-03-24T10:49:49+00:00",
-        "updated": "2025-06-06T09:27:11+00:00",
-        "pushed": "2025-06-12T14:35:22+00:00",
-        "url": "https://github.com/epsilon537/boxlambda",
-        "id": 473564418
-    },
-    {
         "repo": "offnariscv",
         "description": null,
         "owner": "offnaria",
@@ -15377,32 +15338,6 @@
         "pushed": "2025-06-12T12:46:46+00:00",
         "url": "https://github.com/kit-kch/psoc-neorv32",
         "id": 1000296529
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1074,
-        "forks": 91,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-13T02:03:04+00:00",
-        "pushed": "2025-06-14T02:48:17+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "golitex",
-        "description": "The Simple Formal Language Even Kids Can Master",
-        "owner": "litexlang",
-        "stars": 131,
-        "forks": 1,
-        "size": 19581,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-13T13:00:28+00:00",
-        "pushed": "2025-06-13T13:00:24+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "coreblocks",
@@ -15457,17 +15392,69 @@
         "id": 995846850
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1075,
+        "forks": 91,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-15T01:53:49+00:00",
+        "pushed": "2025-06-15T02:41:34+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: What if a formal language as intuitive as natural language?",
+        "owner": "litexlang",
+        "stars": 134,
+        "forks": 1,
+        "size": 18906,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-15T06:09:59+00:00",
+        "pushed": "2025-06-14T13:25:20+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 58,
+        "forks": 0,
+        "size": 597557,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-06-06T09:27:11+00:00",
+        "pushed": "2025-06-14T09:24:29+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
         "repo": "SantaCRC",
         "description": "Config files for my GitHub profile.",
         "owner": "SantaCRC",
         "stars": 0,
         "forks": 0,
-        "size": 1076,
+        "size": 1084,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-14T05:25:46+00:00",
-        "pushed": "2025-06-14T05:25:43+00:00",
+        "updated": "2025-06-15T05:24:33+00:00",
+        "pushed": "2025-06-15T05:24:30+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
+    },
+    {
+        "repo": "artybio-loader",
+        "description": "Loader script for Arty-based BIO eval system",
+        "owner": "bunnie",
+        "stars": 1,
+        "forks": 0,
+        "size": 6,
+        "created": "2025-06-14T17:14:45+00:00",
+        "updated": "2025-06-14T18:00:10+00:00",
+        "pushed": "2025-06-14T17:58:37+00:00",
+        "url": "https://github.com/bunnie/artybio-loader",
+        "id": 1002082242
     },
     {
         "repo": "nuttx-star64",
@@ -15478,7 +15465,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-06-07T11:24:02+00:00",
-        "pushed": "2025-06-14T00:17:02+00:00",
+        "pushed": "2025-06-15T00:19:40+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -15488,10 +15475,10 @@
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2015,
+        "size": 2110,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-14T04:38:34+00:00",
-        "pushed": "2025-06-14T04:38:31+00:00",
+        "updated": "2025-06-15T04:40:55+00:00",
+        "pushed": "2025-06-15T04:40:52+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15501,12 +15488,25 @@
         "owner": "jaalonso",
         "stars": 78,
         "forks": 8,
-        "size": 5505,
+        "size": 5507,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-06-13T10:07:52+00:00",
-        "pushed": "2025-06-13T10:07:49+00:00",
+        "updated": "2025-06-15T05:54:16+00:00",
+        "pushed": "2025-06-15T05:54:12+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 43184,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-06-15T00:55:00+00:00",
+        "pushed": "2025-06-15T00:54:57+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -15514,11 +15514,24 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 107843,
+        "size": 108394,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-14T03:29:44+00:00",
-        "pushed": "2025-06-14T03:29:40+00:00",
+        "updated": "2025-06-15T03:37:04+00:00",
+        "pushed": "2025-06-15T03:37:01+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 21,
+        "forks": 0,
+        "size": 10461,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-06-15T02:35:48+00:00",
+        "pushed": "2025-06-15T02:35:45+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
     }
 ]
