@@ -43160,19 +43160,6 @@
         "id": 948850687
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 3,
-        "size": 9389,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2025-05-15T18:16:38+00:00",
-        "pushed": "2025-05-15T18:16:35+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "k2306651",
         "description": null,
         "owner": "k2306651",
@@ -44486,19 +44473,6 @@
         "id": 606922823
     },
     {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 50,
-        "forks": 10,
-        "size": 31645,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2025-06-16T04:29:34+00:00",
-        "pushed": "2025-06-16T04:29:29+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
-    },
-    {
         "repo": "canmv",
         "description": "After V1.3 Release, we transfer this repo to https://github.com/kendryte/canmv_k230/canmv_k230",
         "owner": "canmv-k230",
@@ -44694,19 +44668,6 @@
         "id": 188584527
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 793,
-        "forks": 196,
-        "size": 64604,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-06-13T06:44:09+00:00",
-        "pushed": "2025-06-18T06:08:54+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "CherryUSB",
         "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
         "owner": "cherry-embedded",
@@ -44746,19 +44707,6 @@
         "id": 7408108
     },
     {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 3,
-        "forks": 3,
-        "size": 62516,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2025-06-17T10:56:39+00:00",
-        "pushed": "2025-06-17T10:56:35+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "STM32F0_with_k210",
         "description": "stm32f030c8t6 with kendryte-K210, LED and a GY614V3 temperature sensor",
         "owner": "Gulfy034",
@@ -44770,19 +44718,6 @@
         "pushed": "2025-06-17T09:42:56+00:00",
         "url": "https://github.com/Gulfy034/STM32F0_with_k210",
         "id": 981503464
-    },
-    {
-        "repo": "PeachCore",
-        "description": null,
-        "owner": "peach-core",
-        "stars": 2,
-        "forks": 0,
-        "size": 31929,
-        "created": "2025-04-27T08:37:51+00:00",
-        "updated": "2025-06-08T00:41:39+00:00",
-        "pushed": "2025-06-18T04:29:13+00:00",
-        "url": "https://github.com/peach-core/PeachCore",
-        "id": 973555027
     },
     {
         "repo": "u-boot",
@@ -44837,6 +44772,84 @@
         "id": 731012323
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 793,
+        "forks": 196,
+        "size": 63349,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-06-13T06:44:09+00:00",
+        "pushed": "2025-06-19T04:10:06+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 50,
+        "forks": 10,
+        "size": 31651,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2025-06-19T05:40:58+00:00",
+        "pushed": "2025-06-19T05:40:54+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 3,
+        "forks": 3,
+        "size": 62527,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-06-18T11:18:50+00:00",
+        "pushed": "2025-06-18T11:18:46+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 3,
+        "size": 9772,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2025-06-18T18:53:47+00:00",
+        "pushed": "2025-06-18T18:53:44+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "k230_sdk_ext",
+        "description": null,
+        "owner": "haveameal",
+        "stars": 0,
+        "forks": 0,
+        "size": 1314902,
+        "created": "2025-06-18T12:05:47+00:00",
+        "updated": "2025-06-18T13:57:29+00:00",
+        "pushed": "2025-06-18T13:52:24+00:00",
+        "url": "https://github.com/haveameal/k230_sdk_ext",
+        "id": 1004293844
+    },
+    {
+        "repo": "PeachCore",
+        "description": null,
+        "owner": "peach-core",
+        "stars": 2,
+        "forks": 0,
+        "size": 31965,
+        "created": "2025-04-27T08:37:51+00:00",
+        "updated": "2025-06-08T00:41:39+00:00",
+        "pushed": "2025-06-19T04:26:15+00:00",
+        "url": "https://github.com/peach-core/PeachCore",
+        "id": 973555027
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -44844,8 +44857,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-06-18T05:41:34+00:00",
-        "pushed": "2025-06-18T05:41:31+00:00",
+        "updated": "2025-06-19T04:39:34+00:00",
+        "pushed": "2025-06-19T04:39:31+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -44855,10 +44868,10 @@
         "owner": "androidtrackers",
         "stars": 137,
         "forks": 38,
-        "size": 1009301,
+        "size": 1009306,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-06-17T12:40:41+00:00",
-        "pushed": "2025-06-17T12:40:37+00:00",
+        "updated": "2025-06-18T12:43:46+00:00",
+        "pushed": "2025-06-18T12:43:42+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

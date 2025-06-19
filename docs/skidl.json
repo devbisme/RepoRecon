@@ -1820,19 +1820,6 @@
         "id": 208153462
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 418,
-        "forks": 28,
-        "size": 14170,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2025-05-10T18:16:07+00:00",
-        "pushed": "2025-05-09T16:47:55+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "skidl-tools",
         "description": "A set of tool to interact with SKiDL and KiCad",
         "owner": "sylefeb",
@@ -1870,19 +1857,6 @@
         "pushed": "2025-05-30T16:16:56+00:00",
         "url": "https://github.com/panhaiqi/Awesome-Python-Simulator",
         "id": 985752198
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "stahlnow",
-        "stars": 0,
-        "forks": 0,
-        "size": 982,
-        "created": "2024-03-06T21:46:55+00:00",
-        "updated": "2025-06-05T00:48:56+00:00",
-        "pushed": "2025-06-05T00:48:55+00:00",
-        "url": "https://github.com/stahlnow/awesome-stars",
-        "id": 768320430
     },
     {
         "repo": "awesome-kicad",
@@ -1961,5 +1935,31 @@
         "pushed": "2025-06-13T19:20:06+00:00",
         "url": "https://github.com/MasterRayyan26/HARP",
         "id": 998571941
+    },
+    {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 430,
+        "forks": 28,
+        "size": 14255,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2025-06-19T03:22:31+00:00",
+        "pushed": "2025-06-18T19:14:15+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "stahlnow",
+        "stars": 0,
+        "forks": 0,
+        "size": 1040,
+        "created": "2024-03-06T21:46:55+00:00",
+        "updated": "2025-06-19T00:48:13+00:00",
+        "pushed": "2025-06-19T00:48:10+00:00",
+        "url": "https://github.com/stahlnow/awesome-stars",
+        "id": 768320430
     }
 ]
