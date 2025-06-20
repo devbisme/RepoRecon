@@ -5837,19 +5837,6 @@
         "id": 1001080055
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 15,
-        "forks": 5,
-        "size": 901,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2025-06-14T22:38:19+00:00",
-        "pushed": "2025-06-14T22:38:16+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "ece510-HwAIML",
         "description": "Repository of Challenge Attempts for ECE510: Hardware in AI and ML at Portland State University",
         "owner": "tnl3pdx",
@@ -5887,5 +5874,31 @@
         "pushed": "2025-06-18T21:38:35+00:00",
         "url": "https://github.com/RDSik/FPGA-Awesome-list",
         "id": 777943094
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 15,
+        "forks": 5,
+        "size": 902,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2025-06-14T22:38:19+00:00",
+        "pushed": "2025-06-19T19:56:46+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
+    },
+    {
+        "repo": "veri-quickbench",
+        "description": "Quick Python Based Testbench Generator for Verilog Files with AXI and AXI-Stream Interfaces",
+        "owner": "chiplukes",
+        "stars": 0,
+        "forks": 0,
+        "size": 69,
+        "created": "2025-06-20T02:34:24+00:00",
+        "updated": "2025-06-20T03:32:19+00:00",
+        "pushed": "2025-06-20T03:32:16+00:00",
+        "url": "https://github.com/chiplukes/veri-quickbench",
+        "id": 1005299968
     }
 ]

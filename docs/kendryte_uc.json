@@ -43927,19 +43927,6 @@
         "id": 889400265
     },
     {
-        "repo": "CapstoneDesignLongsor",
-        "description": "CD / TA Simulator Longsor 2025",
-        "owner": "calliarca",
-        "stars": 1,
-        "forks": 0,
-        "size": 20226,
-        "created": "2025-04-30T12:30:46+00:00",
-        "updated": "2025-06-02T10:15:27+00:00",
-        "pushed": "2025-06-02T10:15:24+00:00",
-        "url": "https://github.com/calliarca/CapstoneDesignLongsor",
-        "id": 975506477
-    },
-    {
         "repo": "examples",
         "description": "k230 examples",
         "owner": "alexhao007",
@@ -44421,19 +44408,6 @@
         "id": 859664219
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 27,
-        "forks": 21,
-        "size": 75173,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-06-13T07:28:49+00:00",
-        "pushed": "2025-06-13T07:28:31+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "k230_burning_tool",
         "description": null,
         "owner": "kendryte",
@@ -44564,19 +44538,6 @@
         "id": 976372099
     },
     {
-        "repo": "REXBOT2.0",
-        "description": "Un carro rob\u00f3tico aut\u00f3nomo que detecta objetos usando sensores y c\u00e1mara el cual los esquiva mediante un algoritmo simple. Desarrollado con Arduino, incluye control de motores, l\u00f3gica de evasi\u00f3n y es ideal para aprender sobre rob\u00f3tica b\u00e1sica y electr\u00f3nica.",
-        "owner": "ROBOTEAMCRV",
-        "stars": 0,
-        "forks": 0,
-        "size": 15041,
-        "created": "2025-06-15T21:05:15+00:00",
-        "updated": "2025-06-15T22:42:04+00:00",
-        "pushed": "2025-06-15T22:42:01+00:00",
-        "url": "https://github.com/ROBOTEAMCRV/REXBOT2.0",
-        "id": 1002618500
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
@@ -44666,19 +44627,6 @@
         "pushed": "2025-06-17T06:16:38+00:00",
         "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
         "id": 188584527
-    },
-    {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1569,
-        "forks": 336,
-        "size": 83634,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-06-17T18:47:34+00:00",
-        "pushed": "2025-06-18T05:49:06+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
     },
     {
         "repo": "MaixCDK",
@@ -44772,19 +44720,6 @@
         "id": 731012323
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 793,
-        "forks": 196,
-        "size": 63349,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-06-13T06:44:09+00:00",
-        "pushed": "2025-06-19T04:10:06+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -44796,19 +44731,6 @@
         "pushed": "2025-06-19T05:40:54+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 3,
-        "forks": 3,
-        "size": 62527,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2025-06-18T11:18:50+00:00",
-        "pushed": "2025-06-18T11:18:46+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
     },
     {
         "repo": "vihal",
@@ -44850,6 +44772,110 @@
         "id": 973555027
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 793,
+        "forks": 196,
+        "size": 63506,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-06-13T06:44:09+00:00",
+        "pushed": "2025-06-20T06:21:40+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 29,
+        "forks": 21,
+        "size": 75183,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-06-20T06:28:23+00:00",
+        "pushed": "2025-06-20T03:40:24+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1570,
+        "forks": 336,
+        "size": 83634,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-06-20T02:28:14+00:00",
+        "pushed": "2025-06-19T12:02:27+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 3,
+        "forks": 4,
+        "size": 62578,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-06-20T02:11:43+00:00",
+        "pushed": "2025-06-20T02:11:40+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "-",
+        "description": "\u57fa\u4e8eSTM32\u5f00\u53d1\u7684\u53cc\u8f6e\u81ea\u5e73\u8861\u5c0f\u8f66",
+        "owner": "githubwhzgithub",
+        "stars": 4,
+        "forks": 0,
+        "size": 20972,
+        "created": "2025-05-27T14:02:11+00:00",
+        "updated": "2025-06-19T11:29:05+00:00",
+        "pushed": "2025-06-19T08:23:19+00:00",
+        "url": "https://github.com/githubwhzgithub/-",
+        "id": 991359667
+    },
+    {
+        "repo": "K210_-",
+        "description": null,
+        "owner": "yufu6261",
+        "stars": 0,
+        "forks": 0,
+        "size": 2369,
+        "created": "2025-06-19T07:34:20+00:00",
+        "updated": "2025-06-19T07:54:03+00:00",
+        "pushed": "2025-06-19T07:54:00+00:00",
+        "url": "https://github.com/yufu6261/K210_-",
+        "id": 1004795218
+    },
+    {
+        "repo": "REXBOT2.0",
+        "description": "Un carro rob\u00f3tico aut\u00f3nomo que detecta objetos usando sensores y c\u00e1mara el cual los esquiva mediante un algoritmo simple. Desarrollado con Arduino, incluye control de motores, l\u00f3gica de evasi\u00f3n y es ideal para aprender sobre rob\u00f3tica b\u00e1sica y electr\u00f3nica.",
+        "owner": "ROBOTEAMCRV",
+        "stars": 0,
+        "forks": 0,
+        "size": 15073,
+        "created": "2025-06-15T21:05:15+00:00",
+        "updated": "2025-06-19T16:51:44+00:00",
+        "pushed": "2025-06-19T16:51:40+00:00",
+        "url": "https://github.com/ROBOTEAMCRV/REXBOT2.0",
+        "id": 1002618500
+    },
+    {
+        "repo": "CapstoneDesignLongsor",
+        "description": "CD / TA Simulator Longsor 2025",
+        "owner": "calliarca",
+        "stars": 1,
+        "forks": 0,
+        "size": 20532,
+        "created": "2025-04-30T12:30:46+00:00",
+        "updated": "2025-06-19T13:03:02+00:00",
+        "pushed": "2025-06-19T13:02:59+00:00",
+        "url": "https://github.com/calliarca/CapstoneDesignLongsor",
+        "id": 975506477
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -44857,8 +44883,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-06-19T04:39:34+00:00",
-        "pushed": "2025-06-19T04:39:31+00:00",
+        "updated": "2025-06-20T04:37:36+00:00",
+        "pushed": "2025-06-20T04:37:33+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -44866,12 +44892,12 @@
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
-        "stars": 137,
+        "stars": 136,
         "forks": 38,
-        "size": 1009306,
+        "size": 1009309,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-06-18T12:43:46+00:00",
-        "pushed": "2025-06-18T12:43:42+00:00",
+        "updated": "2025-06-20T02:27:37+00:00",
+        "pushed": "2025-06-19T12:38:36+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
