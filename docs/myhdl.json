@@ -5213,19 +5213,6 @@
         "id": 881538216
     },
     {
-        "repo": "awesome-hwd-tools",
-        "description": "A curated list of awesome open source hardware design tools",
-        "owner": "TM90",
-        "stars": 70,
-        "forks": 8,
-        "size": 60,
-        "created": "2018-11-24T11:13:39+00:00",
-        "updated": "2024-11-12T13:09:22+00:00",
-        "pushed": "2024-11-12T13:09:19+00:00",
-        "url": "https://github.com/TM90/awesome-hwd-tools",
-        "id": 158928501
-    },
-    {
         "repo": "mips_cpu",
         "description": "Implementation of pipelined mips_cpu in both python and verilog HDL. Popular 5-stage method is used.",
         "owner": "elsiery",
@@ -5900,5 +5887,18 @@
         "pushed": "2025-06-20T03:32:16+00:00",
         "url": "https://github.com/chiplukes/veri-quickbench",
         "id": 1005299968
+    },
+    {
+        "repo": "awesome-hwd-tools",
+        "description": "A curated list of awesome open source hardware design tools",
+        "owner": "TM90",
+        "stars": 80,
+        "forks": 8,
+        "size": 66,
+        "created": "2018-11-24T11:13:39+00:00",
+        "updated": "2025-06-20T13:22:20+00:00",
+        "pushed": "2025-06-20T13:22:17+00:00",
+        "url": "https://github.com/TM90/awesome-hwd-tools",
+        "id": 158928501
     }
 ]

@@ -14768,19 +14768,6 @@
         "id": 983605868
     },
     {
-        "repo": "phd-tmr-fault-analysis",
-        "description": "PhD Disseration Appendix for fault anlaysis of TMR soft RISC-V LiteX SoCs",
-        "owner": "AEW2015",
-        "stars": 0,
-        "forks": 0,
-        "size": 3,
-        "created": "2025-05-27T13:42:35+00:00",
-        "updated": "2025-05-27T13:45:38+00:00",
-        "pushed": "2025-05-27T13:45:32+00:00",
-        "url": "https://github.com/AEW2015/phd-tmr-fault-analysis",
-        "id": 991347282
-    },
-    {
         "repo": "Caravel_NPU_FPGA_2025",
         "description": null,
         "owner": "rhit-neuro",
@@ -15172,19 +15159,6 @@
     },
     {
         "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 43184,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-06-15T00:55:00+00:00",
-        "pushed": "2025-06-15T00:54:57+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "liuzhenqi77",
         "stars": 21,
@@ -15405,19 +15379,6 @@
         "id": 45734719
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 110,
-        "forks": 19,
-        "size": 6910,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-06-18T15:42:44+00:00",
-        "pushed": "2025-06-18T15:42:40+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "litex-template",
         "description": "Template project for LiteX-based SoCs",
         "owner": "sergachev",
@@ -15429,19 +15390,6 @@
         "pushed": "2025-06-18T23:06:03+00:00",
         "url": "https://github.com/sergachev/litex-template",
         "id": 214885817
-    },
-    {
-        "repo": "golitex",
-        "description": "The Future of Math and AI: What If A Formal Language Is As Intuitive As Natural Language?",
-        "owner": "litexlang",
-        "stars": 140,
-        "forks": 1,
-        "size": 19329,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-19T03:19:01+00:00",
-        "pushed": "2025-06-19T03:18:57+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "LimeSDR_GW",
@@ -15496,19 +15444,6 @@
         "id": 77744499
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1081,
-        "forks": 91,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-19T21:27:19+00:00",
-        "pushed": "2025-06-20T02:53:01+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "coreblocks",
         "description": "RISC-V out-of-order core for education and research purposes",
         "owner": "kuznia-rdzeni",
@@ -15520,19 +15455,6 @@
         "pushed": "2025-06-19T15:01:20+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1788,
-        "forks": 267,
-        "size": 237460,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-06-19T19:18:50+00:00",
-        "pushed": "2025-06-19T19:20:24+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "boxlambda",
@@ -15548,17 +15470,82 @@
         "id": 473564418
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1081,
+        "forks": 91,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-19T21:27:19+00:00",
+        "pushed": "2025-06-21T02:49:59+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 110,
+        "forks": 19,
+        "size": 6917,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-06-20T16:33:14+00:00",
+        "pushed": "2025-06-20T16:33:11+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "golitex",
+        "description": "The Language of Math",
+        "owner": "litexlang",
+        "stars": 143,
+        "forks": 1,
+        "size": 19497,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-21T03:36:25+00:00",
+        "pushed": "2025-06-21T03:36:21+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1789,
+        "forks": 267,
+        "size": 237629,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-06-21T05:53:42+00:00",
+        "pushed": "2025-06-21T06:02:55+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
         "repo": "wr_acorn",
         "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
         "owner": "oscimp",
         "stars": 4,
         "forks": 0,
-        "size": 13788,
+        "size": 14042,
         "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-06-19T17:42:47+00:00",
-        "pushed": "2025-06-19T17:42:41+00:00",
+        "updated": "2025-06-20T16:34:02+00:00",
+        "pushed": "2025-06-20T16:33:59+00:00",
         "url": "https://github.com/oscimp/wr_acorn",
         "id": 972708089
+    },
+    {
+        "repo": "phd-tmr-fault-analysis",
+        "description": "PhD Disseration Appendix for fault anlaysis of TMR soft RISC-V LiteX SoCs",
+        "owner": "AEW2015",
+        "stars": 2,
+        "forks": 0,
+        "size": 2747,
+        "created": "2025-05-27T13:42:35+00:00",
+        "updated": "2025-06-21T04:28:58+00:00",
+        "pushed": "2025-06-20T23:51:29+00:00",
+        "url": "https://github.com/AEW2015/phd-tmr-fault-analysis",
+        "id": 991347282
     },
     {
         "repo": "SantaCRC",
@@ -15566,12 +15553,25 @@
         "owner": "SantaCRC",
         "stars": 0,
         "forks": 0,
-        "size": 1109,
+        "size": 1116,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-20T05:26:30+00:00",
-        "pushed": "2025-06-20T05:26:27+00:00",
+        "updated": "2025-06-21T05:24:48+00:00",
+        "pushed": "2025-06-21T05:24:46+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
+    },
+    {
+        "repo": "Mukovenkov-Roman-Sergeyevich",
+        "description": null,
+        "owner": "Mukovenkov-Roman-Sergeyevich",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2025-06-20T23:25:46+00:00",
+        "updated": "2025-06-21T04:46:12+00:00",
+        "pushed": "2025-06-21T04:46:08+00:00",
+        "url": "https://github.com/Mukovenkov-Roman-Sergeyevich/Mukovenkov-Roman-Sergeyevich",
+        "id": 1005840715
     },
     {
         "repo": "nuttx-star64",
@@ -15582,7 +15582,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-06-07T11:24:02+00:00",
-        "pushed": "2025-06-20T00:16:57+00:00",
+        "pushed": "2025-06-21T00:17:01+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -15592,12 +15592,25 @@
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2192,
+        "size": 2287,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-20T04:40:17+00:00",
-        "pushed": "2025-06-20T04:40:13+00:00",
+        "updated": "2025-06-21T04:38:47+00:00",
+        "pushed": "2025-06-21T04:38:44+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 43692,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-06-21T00:54:42+00:00",
+        "pushed": "2025-06-21T00:54:38+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
     },
     {
         "repo": "starList",
@@ -15605,10 +15618,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 111102,
+        "size": 102291,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-20T03:32:26+00:00",
-        "pushed": "2025-06-20T03:32:23+00:00",
+        "updated": "2025-06-21T03:30:20+00:00",
+        "pushed": "2025-06-21T03:30:16+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
