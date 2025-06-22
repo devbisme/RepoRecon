@@ -1885,19 +1885,6 @@
         "id": 993521564
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1169,
-        "forks": 139,
-        "size": 57449,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-06-07T16:35:09+00:00",
-        "pushed": "2025-06-08T22:59:54+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "cheapskateaudio",
         "description": "Hardware (Amp, DSP, interfacing) and software/firmware cprimarily designed for hobby speaker / home theater design",
         "owner": "aselle",
@@ -1963,15 +1950,41 @@
         "id": 1004764759
     },
     {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1178,
+        "forks": 140,
+        "size": 57451,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2025-06-21T11:58:01+00:00",
+        "pushed": "2025-06-22T00:35:28+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "circuitron",
+        "description": "Circuitron: Agentic PCB Design Accelerator \u2014 Generate, plan, and layout circuits from natural language prompts.",
+        "owner": "Shaurya-Sethi",
+        "stars": 0,
+        "forks": 0,
+        "size": 132,
+        "created": "2025-06-12T09:33:10+00:00",
+        "updated": "2025-06-21T21:11:02+00:00",
+        "pushed": "2025-06-21T21:11:04+00:00",
+        "url": "https://github.com/Shaurya-Sethi/circuitron",
+        "id": 1000763953
+    },
+    {
         "repo": "HARP",
         "description": null,
         "owner": "MasterRayyan26",
         "stars": 0,
         "forks": 0,
-        "size": 11,
+        "size": 13,
         "created": "2025-06-08T22:24:44+00:00",
-        "updated": "2025-06-19T19:44:11+00:00",
-        "pushed": "2025-06-19T19:44:07+00:00",
+        "updated": "2025-06-21T18:46:20+00:00",
+        "pushed": "2025-06-21T18:46:16+00:00",
         "url": "https://github.com/MasterRayyan26/HARP",
         "id": 998571941
     }
