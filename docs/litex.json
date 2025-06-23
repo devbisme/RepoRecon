@@ -13286,19 +13286,6 @@
         "id": 896571183
     },
     {
-        "repo": "awesome-latticeFPGAs",
-        "description": ":book: List of FPGA Lattice boards using open tools",
-        "owner": "kelu124",
-        "stars": 317,
-        "forks": 20,
-        "size": 120,
-        "created": "2020-01-04T18:51:08+00:00",
-        "updated": "2025-02-15T12:13:41+00:00",
-        "pushed": "2025-02-15T12:12:50+00:00",
-        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
-        "id": 231812493
-    },
-    {
         "repo": "stm32-midi-keyboard",
         "description": "MIDI keyboard project designed for a course on embedded systems (ELEC3300) and implemented using STM32 and C++17.",
         "owner": "TrebledJ",
@@ -13804,19 +13791,6 @@
         "pushed": "2025-03-26T22:28:41+00:00",
         "url": "https://github.com/google/CFU-Playground",
         "id": 346151420
-    },
-    {
-        "repo": "cram-soc",
-        "description": "Cramium Test SoC",
-        "owner": "buncram",
-        "stars": 4,
-        "forks": 0,
-        "size": 20891,
-        "created": "2022-11-10T20:10:53+00:00",
-        "updated": "2025-03-28T16:01:36+00:00",
-        "pushed": "2025-03-28T16:01:31+00:00",
-        "url": "https://github.com/buncram/cram-soc",
-        "id": 564480301
     },
     {
         "repo": "accel2d",
@@ -15093,19 +15067,6 @@
         "id": 293705373
     },
     {
-        "repo": "litex-webpage",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 1,
-        "forks": 0,
-        "size": 1196,
-        "created": "2024-11-16T14:49:23+00:00",
-        "updated": "2025-06-10T09:50:01+00:00",
-        "pushed": "2025-06-10T09:49:58+00:00",
-        "url": "https://github.com/litexlang/litex-webpage",
-        "id": 889523857
-    },
-    {
         "repo": "tang-nano-20k--riscv--cache-sdram",
         "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
         "owner": "calint",
@@ -15260,19 +15221,6 @@
         "pushed": "2025-06-16T23:37:46+00:00",
         "url": "https://github.com/efajardolun/archlinux-litex",
         "id": 1003218241
-    },
-    {
-        "repo": "clic-in-litex",
-        "description": null,
-        "owner": "disdi",
-        "stars": 0,
-        "forks": 0,
-        "size": 2288,
-        "created": "2025-06-16T08:06:15+00:00",
-        "updated": "2025-06-16T16:11:32+00:00",
-        "pushed": "2025-06-16T08:32:51+00:00",
-        "url": "https://github.com/disdi/clic-in-litex",
-        "id": 1002834025
     },
     {
         "repo": "ChipGen",
@@ -15444,19 +15392,6 @@
         "id": 468027705
     },
     {
-        "repo": "boxlambda",
-        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
-        "owner": "epsilon537",
-        "stars": 58,
-        "forks": 0,
-        "size": 597656,
-        "created": "2022-03-24T10:49:49+00:00",
-        "updated": "2025-06-06T09:27:11+00:00",
-        "pushed": "2025-06-19T11:16:54+00:00",
-        "url": "https://github.com/epsilon537/boxlambda",
-        "id": 473564418
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -15509,45 +15444,6 @@
         "id": 330793471
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 12,
-        "forks": 4,
-        "size": 102291,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-21T03:30:20+00:00",
-        "pushed": "2025-06-21T03:30:16+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1081,
-        "forks": 91,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-19T21:27:19+00:00",
-        "pushed": "2025-06-22T02:54:38+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "golitex",
-        "description": "The Simplest and Most Intuitive Formal Language, Engineered for Scaling Reasoning in the AI Age.",
-        "owner": "litexlang",
-        "stars": 144,
-        "forks": 1,
-        "size": 19703,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-22T04:55:00+00:00",
-        "pushed": "2025-06-22T04:54:56+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -15574,17 +15470,108 @@
         "id": 972708089
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1082,
+        "forks": 91,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-22T15:55:34+00:00",
+        "pushed": "2025-06-23T02:46:01+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "The Simplest and Most Intuitive Formal Language, Engineered for Scaling Reasoning in the AI Age.",
+        "owner": "litexlang",
+        "stars": 145,
+        "forks": 1,
+        "size": 19777,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-23T05:25:44+00:00",
+        "pushed": "2025-06-23T05:25:40+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "cram-soc",
+        "description": "Cramium Test SoC",
+        "owner": "buncram",
+        "stars": 7,
+        "forks": 0,
+        "size": 20947,
+        "created": "2022-11-10T20:10:53+00:00",
+        "updated": "2025-06-22T18:22:51+00:00",
+        "pushed": "2025-06-16T07:21:18+00:00",
+        "url": "https://github.com/buncram/cram-soc",
+        "id": 564480301
+    },
+    {
+        "repo": "awesome-latticeFPGAs",
+        "description": ":book: List of FPGA Lattice boards using open tools",
+        "owner": "kelu124",
+        "stars": 326,
+        "forks": 21,
+        "size": 130,
+        "created": "2020-01-04T18:51:08+00:00",
+        "updated": "2025-06-22T19:26:42+00:00",
+        "pushed": "2025-06-22T18:40:35+00:00",
+        "url": "https://github.com/kelu124/awesome-latticeFPGAs",
+        "id": 231812493
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 58,
+        "forks": 0,
+        "size": 597817,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-06-06T09:27:11+00:00",
+        "pushed": "2025-06-22T08:57:45+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
         "repo": "SantaCRC",
         "description": "Config files for my GitHub profile.",
         "owner": "SantaCRC",
         "stars": 0,
         "forks": 0,
-        "size": 1124,
+        "size": 1123,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-22T05:25:08+00:00",
-        "pushed": "2025-06-22T05:25:05+00:00",
+        "updated": "2025-06-23T05:28:11+00:00",
+        "pushed": "2025-06-23T05:28:09+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
+    },
+    {
+        "repo": "litex-webpage",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 1,
+        "forks": 0,
+        "size": 769,
+        "created": "2024-11-16T14:49:23+00:00",
+        "updated": "2025-06-22T09:26:43+00:00",
+        "pushed": "2025-06-22T09:26:39+00:00",
+        "url": "https://github.com/litexlang/litex-webpage",
+        "id": 889523857
+    },
+    {
+        "repo": "clic-in-litex",
+        "description": null,
+        "owner": "disdi",
+        "stars": 0,
+        "forks": 0,
+        "size": 1752,
+        "created": "2025-06-16T08:06:15+00:00",
+        "updated": "2025-06-22T22:35:34+00:00",
+        "pushed": "2025-06-22T22:35:48+00:00",
+        "url": "https://github.com/disdi/clic-in-litex",
+        "id": 1002834025
     },
     {
         "repo": "nuttx-star64",
@@ -15595,7 +15582,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-06-07T11:24:02+00:00",
-        "pushed": "2025-06-22T00:18:30+00:00",
+        "pushed": "2025-06-23T00:17:59+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -15607,8 +15594,8 @@
         "forks": 0,
         "size": 2288,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-22T04:40:53+00:00",
-        "pushed": "2025-06-22T04:40:50+00:00",
+        "updated": "2025-06-23T04:42:37+00:00",
+        "pushed": "2025-06-23T04:42:33+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15618,11 +15605,24 @@
         "owner": "jaalonso",
         "stars": 78,
         "forks": 8,
-        "size": 6980,
+        "size": 6983,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-06-21T06:51:58+00:00",
-        "pushed": "2025-06-21T06:51:55+00:00",
+        "updated": "2025-06-23T06:13:22+00:00",
+        "pushed": "2025-06-23T06:13:18+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 12,
+        "forks": 4,
+        "size": 103347,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-06-23T03:38:42+00:00",
+        "pushed": "2025-06-23T03:38:39+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
