@@ -5785,32 +5785,6 @@
         "id": 151136062
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 38,
-        "forks": 7,
-        "size": 6704,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-06-12T22:23:31+00:00",
-        "pushed": "2025-06-12T22:23:28+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 212,
-        "forks": 28,
-        "size": 20283,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-06-12T22:23:25+00:00",
-        "pushed": "2025-06-12T22:23:22+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "SOLVED-Cse3666-homework-4",
         "description": null,
         "owner": "LouiseWilliam",
@@ -5835,19 +5809,6 @@
         "pushed": "2025-06-16T06:04:55+00:00",
         "url": "https://github.com/tnl3pdx/ece510-HwAIML",
         "id": 959479867
-    },
-    {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41572,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-06-17T13:24:07+00:00",
-        "pushed": "2025-06-17T13:24:03+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
     },
     {
         "repo": "FPGA-Awesome-list",
@@ -5900,5 +5861,44 @@
         "pushed": "2025-06-20T13:22:17+00:00",
         "url": "https://github.com/TM90/awesome-hwd-tools",
         "id": 158928501
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 40,
+        "forks": 7,
+        "size": 6709,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-06-24T10:30:09+00:00",
+        "pushed": "2025-06-24T10:30:05+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 42,
+        "forks": 30,
+        "size": 41575,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-06-24T19:42:04+00:00",
+        "pushed": "2025-06-24T19:42:00+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 213,
+        "forks": 28,
+        "size": 20298,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-06-24T10:30:04+00:00",
+        "pushed": "2025-06-24T10:30:00+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
     }
 ]

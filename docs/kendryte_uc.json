@@ -43927,19 +43927,6 @@
         "id": 997316452
     },
     {
-        "repo": "k230_rtos_docs",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 0,
-        "forks": 0,
-        "size": 612,
-        "created": "2025-03-12T01:54:26+00:00",
-        "updated": "2025-06-06T06:25:56+00:00",
-        "pushed": "2025-06-06T06:25:54+00:00",
-        "url": "https://github.com/kendryte/k230_rtos_docs",
-        "id": 946995259
-    },
-    {
         "repo": "k230_camera",
         "description": null,
         "owner": "QiuQQ151",
@@ -44330,19 +44317,6 @@
         "id": 943102161
     },
     {
-        "repo": "k230_rtos_sdk",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 0,
-        "forks": 0,
-        "size": 818,
-        "created": "2025-06-09T06:55:16+00:00",
-        "updated": "2025-06-16T05:17:10+00:00",
-        "pushed": "2025-06-16T04:36:51+00:00",
-        "url": "https://github.com/kendryte/k230_rtos_sdk",
-        "id": 998733774
-    },
-    {
         "repo": "manifest",
         "description": null,
         "owner": "canmv-k230",
@@ -44577,19 +44551,6 @@
         "id": 1002618500
     },
     {
-        "repo": "k230_canmv_docs",
-        "description": "k230_canmv_docs",
-        "owner": "kendryte",
-        "stars": 13,
-        "forks": 3,
-        "size": 21516,
-        "created": "2023-10-17T07:31:49+00:00",
-        "updated": "2025-06-10T06:25:58+00:00",
-        "pushed": "2025-06-20T08:08:19+00:00",
-        "url": "https://github.com/kendryte/k230_canmv_docs",
-        "id": 706039729
-    },
-    {
         "repo": "krux-installer",
         "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
         "owner": "selfcustody",
@@ -44785,19 +44746,6 @@
         "id": 195626687
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 794,
-        "forks": 196,
-        "size": 63331,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-06-21T19:23:35+00:00",
-        "pushed": "2025-06-24T01:37:28+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "k230_linux_sdk",
         "description": "K230 Linux SDK",
         "owner": "kendryte",
@@ -44809,19 +44757,6 @@
         "pushed": "2025-06-24T02:09:51+00:00",
         "url": "https://github.com/kendryte/k230_linux_sdk",
         "id": 793843389
-    },
-    {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 51,
-        "forks": 11,
-        "size": 31672,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2025-06-24T05:40:51+00:00",
-        "pushed": "2025-06-24T05:40:47+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
     },
     {
         "repo": "krux",
@@ -44837,45 +44772,6 @@
         "id": 385102171
     },
     {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1581,
-        "forks": 337,
-        "size": 83647,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-06-23T19:52:27+00:00",
-        "pushed": "2025-06-23T14:20:51+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 83,
-        "forks": 24,
-        "size": 127897,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-06-21T02:03:49+00:00",
-        "pushed": "2025-06-24T02:54:33+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11224,
-        "forks": 5196,
-        "size": 912118,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-06-24T04:00:29+00:00",
-        "pushed": "2025-06-24T04:00:24+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rtsmart",
         "description": null,
         "owner": "canmv-k230",
@@ -44887,19 +44783,6 @@
         "pushed": "2025-06-24T05:39:58+00:00",
         "url": "https://github.com/canmv-k230/rtsmart",
         "id": 824521722
-    },
-    {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 3,
-        "size": 9774,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2025-06-23T09:00:07+00:00",
-        "pushed": "2025-06-23T09:00:03+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
     },
     {
         "repo": "k230_rtsmart_lib",
@@ -44915,32 +44798,6 @@
         "id": 840274595
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 14,
-        "forks": 4,
-        "size": 5714,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-06-23T14:15:58+00:00",
-        "pushed": "2025-06-23T14:15:54+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
-        "repo": "stm32_k210_test",
-        "description": null,
-        "owner": "cyc36880",
-        "stars": 0,
-        "forks": 0,
-        "size": 3796,
-        "created": "2025-06-20T15:43:53+00:00",
-        "updated": "2025-06-23T16:15:07+00:00",
-        "pushed": "2025-06-23T16:15:03+00:00",
-        "url": "https://github.com/cyc36880/stm32_k210_test",
-        "id": 1005665097
-    },
-    {
         "repo": "CapstoneDesignLongsor",
         "description": "CD / TA Simulator Longsor 2025",
         "owner": "calliarca",
@@ -44954,6 +44811,175 @@
         "id": 975506477
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 794,
+        "forks": 196,
+        "size": 63368,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-06-21T19:23:35+00:00",
+        "pushed": "2025-06-25T05:19:57+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 51,
+        "forks": 11,
+        "size": 31678,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2025-06-25T02:22:14+00:00",
+        "pushed": "2025-06-25T02:22:11+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1584,
+        "forks": 339,
+        "size": 84293,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-06-25T06:12:35+00:00",
+        "pushed": "2025-06-25T06:12:30+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 83,
+        "forks": 24,
+        "size": 127897,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-06-21T02:03:49+00:00",
+        "pushed": "2025-06-25T05:39:48+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "k230_canmv_docs",
+        "description": "k230_canmv_docs",
+        "owner": "kendryte",
+        "stars": 13,
+        "forks": 3,
+        "size": 21570,
+        "created": "2023-10-17T07:31:49+00:00",
+        "updated": "2025-06-25T02:50:50+00:00",
+        "pushed": "2025-06-25T02:50:47+00:00",
+        "url": "https://github.com/kendryte/k230_canmv_docs",
+        "id": 706039729
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11229,
+        "forks": 5198,
+        "size": 912187,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-06-25T06:02:33+00:00",
+        "pushed": "2025-06-25T06:02:28+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 3,
+        "size": 9775,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2025-06-24T11:13:42+00:00",
+        "pushed": "2025-06-24T11:13:39+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "k230_rtos_sdk",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 0,
+        "size": 818,
+        "created": "2025-06-09T06:55:16+00:00",
+        "updated": "2025-06-25T02:21:59+00:00",
+        "pushed": "2025-06-25T02:21:56+00:00",
+        "url": "https://github.com/kendryte/k230_rtos_sdk",
+        "id": 998733774
+    },
+    {
+        "repo": "k230_rtos_docs",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 0,
+        "size": 626,
+        "created": "2025-03-12T01:54:26+00:00",
+        "updated": "2025-06-25T03:21:19+00:00",
+        "pushed": "2025-06-25T03:21:17+00:00",
+        "url": "https://github.com/kendryte/k230_rtos_docs",
+        "id": 946995259
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 14,
+        "forks": 4,
+        "size": 5711,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-06-24T19:48:58+00:00",
+        "pushed": "2025-06-24T19:48:54+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "K210-microbit",
+        "description": "\u4f7f\u7528microbit\u63a7\u5236k210",
+        "owner": "September535",
+        "stars": 0,
+        "forks": 0,
+        "size": 214,
+        "created": "2025-06-24T08:01:50+00:00",
+        "updated": "2025-06-24T08:02:19+00:00",
+        "pushed": "2025-06-24T08:02:13+00:00",
+        "url": "https://github.com/September535/K210-microbit",
+        "id": 1007579798
+    },
+    {
+        "repo": "stm32_k210_test",
+        "description": null,
+        "owner": "cyc36880",
+        "stars": 0,
+        "forks": 0,
+        "size": 5390,
+        "created": "2025-06-20T15:43:53+00:00",
+        "updated": "2025-06-24T16:02:45+00:00",
+        "pushed": "2025-06-24T16:02:41+00:00",
+        "url": "https://github.com/cyc36880/stm32_k210_test",
+        "id": 1005665097
+    },
+    {
+        "repo": "Proyecto-Carro-",
+        "description": null,
+        "owner": "Josechg07",
+        "stars": 1,
+        "forks": 1,
+        "size": 115947,
+        "created": "2024-05-23T01:29:24+00:00",
+        "updated": "2025-06-24T16:15:03+00:00",
+        "pushed": "2025-06-24T16:15:00+00:00",
+        "url": "https://github.com/Josechg07/Proyecto-Carro-",
+        "id": 804641123
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -44961,8 +44987,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-06-24T03:56:03+00:00",
-        "pushed": "2025-06-24T03:56:00+00:00",
+        "updated": "2025-06-25T03:30:58+00:00",
+        "pushed": "2025-06-25T03:30:54+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -44972,10 +44998,10 @@
         "owner": "androidtrackers",
         "stars": 137,
         "forks": 38,
-        "size": 1012429,
+        "size": 1012432,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-06-23T19:51:49+00:00",
-        "pushed": "2025-06-23T12:39:39+00:00",
+        "updated": "2025-06-24T12:39:13+00:00",
+        "pushed": "2025-06-24T12:39:09+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
