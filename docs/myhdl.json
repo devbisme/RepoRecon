@@ -4433,19 +4433,6 @@
         "id": 154458175
     },
     {
-        "repo": "vcd-samples",
-        "description": "sample VCD files",
-        "owner": "wavedrom",
-        "stars": 35,
-        "forks": 1,
-        "size": 1973,
-        "created": "2021-08-08T07:23:17+00:00",
-        "updated": "2023-12-12T01:34:20+00:00",
-        "pushed": "2024-02-14T23:11:21+00:00",
-        "url": "https://github.com/wavedrom/vcd-samples",
-        "id": 393889750
-    },
-    {
         "repo": "internet",
         "description": null,
         "owner": "Xu-git-hahaha",
@@ -5824,32 +5811,6 @@
         "id": 777943094
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 15,
-        "forks": 5,
-        "size": 902,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2025-06-14T22:38:19+00:00",
-        "pushed": "2025-06-19T19:56:46+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
-        "repo": "veri-quickbench",
-        "description": "Quick Python Based Testbench Generator for Verilog Files with AXI and AXI-Stream Interfaces",
-        "owner": "chiplukes",
-        "stars": 0,
-        "forks": 0,
-        "size": 69,
-        "created": "2025-06-20T02:34:24+00:00",
-        "updated": "2025-06-20T03:32:19+00:00",
-        "pushed": "2025-06-20T03:32:16+00:00",
-        "url": "https://github.com/chiplukes/veri-quickbench",
-        "id": 1005299968
-    },
-    {
         "repo": "awesome-hwd-tools",
         "description": "A curated list of awesome open source hardware design tools",
         "owner": "TM90",
@@ -5900,5 +5861,44 @@
         "pushed": "2025-06-26T05:51:50+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
+    },
+    {
+        "repo": "vcd-samples",
+        "description": "sample VCD files",
+        "owner": "wavedrom",
+        "stars": 37,
+        "forks": 2,
+        "size": 1975,
+        "created": "2021-08-08T07:23:17+00:00",
+        "updated": "2025-06-26T20:56:45+00:00",
+        "pushed": "2025-06-26T20:56:42+00:00",
+        "url": "https://github.com/wavedrom/vcd-samples",
+        "id": 393889750
+    },
+    {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 15,
+        "forks": 5,
+        "size": 905,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2025-06-14T22:38:19+00:00",
+        "pushed": "2025-06-26T18:43:12+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
+    },
+    {
+        "repo": "veri-quickbench",
+        "description": "Quick Python Based Testbench Generator for Verilog Files with AXI and AXI-Stream Interfaces",
+        "owner": "chiplukes",
+        "stars": 0,
+        "forks": 0,
+        "size": 71,
+        "created": "2025-06-20T02:34:24+00:00",
+        "updated": "2025-06-27T00:17:16+00:00",
+        "pushed": "2025-06-27T00:17:13+00:00",
+        "url": "https://github.com/chiplukes/veri-quickbench",
+        "id": 1005299968
     }
 ]
