@@ -10348,19 +10348,6 @@
         "id": 745548753
     },
     {
-        "repo": "wishbone-utils",
-        "description": "Utilities for working with a Wishbone bus in an embedded device",
-        "owner": "litex-hub",
-        "stars": 37,
-        "forks": 11,
-        "size": 1086,
-        "created": "2020-01-06T03:24:05+00:00",
-        "updated": "2024-01-31T06:04:26+00:00",
-        "pushed": "2024-01-31T01:38:01+00:00",
-        "url": "https://github.com/litex-hub/wishbone-utils",
-        "id": 232016273
-    },
-    {
         "repo": "litex-alchitry-cu-examples",
         "description": "Examples of using Litex on an Alchitry Cu board",
         "owner": "Mark1626",
@@ -15015,19 +15002,6 @@
         "id": 995846850
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 21,
-        "forks": 0,
-        "size": 10461,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-06-15T02:35:48+00:00",
-        "pushed": "2025-06-15T02:35:45+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
-    },
-    {
         "repo": "rust-litex-hal",
         "description": "A Rust embedded HAL crate for LiteX cores",
         "owner": "pepijndevos",
@@ -15314,19 +15288,6 @@
         "id": 35898469
     },
     {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 4,
-        "forks": 0,
-        "size": 14420,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-06-24T09:37:58+00:00",
-        "pushed": "2025-06-24T09:37:54+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
-    },
-    {
         "repo": "clic-in-litex",
         "description": null,
         "owner": "disdi",
@@ -15377,19 +15338,6 @@
         "pushed": "2025-06-26T01:56:22+00:00",
         "url": "https://github.com/Cleidiana/Litex-TangNano9k",
         "id": 993985787
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "IndieMinimalist",
-        "stars": 0,
-        "forks": 0,
-        "size": 13592,
-        "created": "2025-05-11T20:10:48+00:00",
-        "updated": "2025-06-26T00:54:10+00:00",
-        "pushed": "2025-06-26T00:54:07+00:00",
-        "url": "https://github.com/IndieMinimalist/awesome-stars",
-        "id": 981754715
     },
     {
         "repo": "LiTEx",
@@ -15444,19 +15392,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1084,
-        "forks": 90,
-        "size": 1284,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-26T08:18:14+00:00",
-        "pushed": "2025-06-28T02:42:30+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litespi",
         "description": "Small footprint and configurable SPI core",
         "owner": "litex-hub",
@@ -15481,19 +15416,6 @@
         "pushed": "2025-06-27T10:15:21+00:00",
         "url": "https://github.com/enjoy-digital/litex_wr_nic",
         "id": 778169492
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: rethink formal reasoning, intuitively and scalably",
-        "owner": "litexlang",
-        "stars": 155,
-        "forks": 1,
-        "size": 20295,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-28T05:21:48+00:00",
-        "pushed": "2025-06-27T09:46:01+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "neorv32",
@@ -15535,32 +15457,6 @@
         "id": 559997034
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1155,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-06-28T04:32:15+00:00",
-        "pushed": "2025-06-28T04:32:13+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
-        "repo": "graphrag-litex",
-        "description": "\ud83d\ude80 GraphRAG-LiteX \u2013 A simplified, local-first graph-based retrieval-augmented generation (RAG) system. Extracts knowledge graphs from documents, generates answers using subgraph reasoning, and includes built-in evaluation vs. VectorRAG. Optimized for DeepSeek models via LM Studio.",
-        "owner": "Puranjanaaa",
-        "stars": 0,
-        "forks": 0,
-        "size": 1385,
-        "created": "2025-05-23T08:38:03+00:00",
-        "updated": "2025-06-24T11:27:36+00:00",
-        "pushed": "2025-06-27T21:47:07+00:00",
-        "url": "https://github.com/Puranjanaaa/graphrag-litex",
-        "id": 988896242
-    },
-    {
         "repo": "Zynq-litex-template",
         "description": null,
         "owner": "ololoshka2871",
@@ -15572,32 +15468,6 @@
         "pushed": "2025-06-27T10:10:43+00:00",
         "url": "https://github.com/ololoshka2871/Zynq-litex-template",
         "id": 1009551276
-    },
-    {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 27,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-06-07T11:24:02+00:00",
-        "pushed": "2025-06-28T00:16:45+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 7,
-        "forks": 0,
-        "size": 2559,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-06-28T04:39:33+00:00",
-        "pushed": "2025-06-28T04:39:30+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
     },
     {
         "repo": "Lecturas_GLC",
@@ -15626,16 +15496,146 @@
         "id": 330793471
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1085,
+        "forks": 91,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-06-29T03:08:58+00:00",
+        "pushed": "2025-06-29T02:57:28+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "wishbone-utils",
+        "description": "Utilities for working with a Wishbone bus in an embedded device",
+        "owner": "litex-hub",
+        "stars": 44,
+        "forks": 14,
+        "size": 1088,
+        "created": "2020-01-06T03:24:05+00:00",
+        "updated": "2025-06-28T11:12:57+00:00",
+        "pushed": "2025-06-28T11:12:52+00:00",
+        "url": "https://github.com/litex-hub/wishbone-utils",
+        "id": 232016273
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: rethink formal reasoning, intuitively and scalably",
+        "owner": "litexlang",
+        "stars": 156,
+        "forks": 1,
+        "size": 20382,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-06-28T11:21:51+00:00",
+        "pushed": "2025-06-28T11:21:47+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 4,
+        "forks": 0,
+        "size": 14698,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-06-28T13:50:05+00:00",
+        "pushed": "2025-06-28T13:50:02+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1163,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-06-29T05:27:43+00:00",
+        "pushed": "2025-06-29T05:27:40+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "graphrag-litex",
+        "description": "\ud83d\ude80 GraphRAG-LiteX \u2013 A simplified, local-first graph-based retrieval-augmented generation (RAG) system. Extracts knowledge graphs from documents, generates answers using subgraph reasoning, and includes built-in evaluation vs. VectorRAG. Optimized for DeepSeek models via LM Studio.",
+        "owner": "Puranjanaaa",
+        "stars": 0,
+        "forks": 0,
+        "size": 1474,
+        "created": "2025-05-23T08:38:03+00:00",
+        "updated": "2025-06-29T00:22:09+00:00",
+        "pushed": "2025-06-29T00:22:05+00:00",
+        "url": "https://github.com/Puranjanaaa/graphrag-litex",
+        "id": 988896242
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 27,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-06-07T11:24:02+00:00",
+        "pushed": "2025-06-29T00:19:03+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 7,
+        "forks": 0,
+        "size": 2560,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-06-29T04:43:04+00:00",
+        "pushed": "2025-06-29T04:43:01+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 106071,
+        "size": 106597,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-06-28T03:30:42+00:00",
-        "pushed": "2025-06-28T03:30:39+00:00",
+        "updated": "2025-06-29T03:39:10+00:00",
+        "pushed": "2025-06-29T03:39:07+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 22,
+        "forks": 0,
+        "size": 10997,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-06-29T02:38:19+00:00",
+        "pushed": "2025-06-29T02:38:16+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "IndieMinimalist",
+        "stars": 0,
+        "forks": 0,
+        "size": 13972,
+        "created": "2025-05-11T20:10:48+00:00",
+        "updated": "2025-06-29T00:53:10+00:00",
+        "pushed": "2025-06-29T00:53:07+00:00",
+        "url": "https://github.com/IndieMinimalist/awesome-stars",
+        "id": 981754715
     }
 ]
