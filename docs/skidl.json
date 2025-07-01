@@ -1911,32 +1911,6 @@
         "id": 1004764759
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1178,
-        "forks": 140,
-        "size": 57451,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-06-21T11:58:01+00:00",
-        "pushed": "2025-06-22T00:35:28+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
-        "repo": "HARP",
-        "description": null,
-        "owner": "MasterRayyan26",
-        "stars": 0,
-        "forks": 0,
-        "size": 13,
-        "created": "2025-06-08T22:24:44+00:00",
-        "updated": "2025-06-21T18:46:20+00:00",
-        "pushed": "2025-06-21T18:46:16+00:00",
-        "url": "https://github.com/MasterRayyan26/HARP",
-        "id": 998571941
-    },
-    {
         "repo": "kicad-kbplacer",
         "description": "KiCad plugin for automatic keyboard's key placement and routing",
         "owner": "adamws",
@@ -1987,5 +1961,44 @@
         "pushed": "2025-06-29T21:38:12+00:00",
         "url": "https://github.com/joamatab/awesome_photonics",
         "id": 208153462
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1182,
+        "forks": 139,
+        "size": 57576,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2025-06-28T03:29:10+00:00",
+        "pushed": "2025-06-30T16:38:14+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "SkidLister",
+        "description": "Blacklist script for soulshatters, mainly will be used to list usernames and grab the list of manually blacklisted people",
+        "owner": "tEMMIE6823",
+        "stars": 0,
+        "forks": 0,
+        "size": 28,
+        "created": "2025-06-30T14:13:41+00:00",
+        "updated": "2025-06-30T19:28:10+00:00",
+        "pushed": "2025-06-30T19:28:07+00:00",
+        "url": "https://github.com/tEMMIE6823/SkidLister",
+        "id": 1011242994
+    },
+    {
+        "repo": "HARP",
+        "description": null,
+        "owner": "MasterRayyan26",
+        "stars": 0,
+        "forks": 0,
+        "size": 16,
+        "created": "2025-06-08T22:24:44+00:00",
+        "updated": "2025-06-30T16:34:22+00:00",
+        "pushed": "2025-06-30T16:34:18+00:00",
+        "url": "https://github.com/MasterRayyan26/HARP",
+        "id": 998571941
     }
 ]
