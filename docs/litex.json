@@ -14599,19 +14599,6 @@
         "id": 62586607
     },
     {
-        "repo": "awesome-gatemate",
-        "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
-        "owner": "PythonLinks",
-        "stars": 5,
-        "forks": 0,
-        "size": 13,
-        "created": "2025-01-04T16:56:47+00:00",
-        "updated": "2025-05-26T06:42:53+00:00",
-        "pushed": "2025-05-26T06:42:49+00:00",
-        "url": "https://github.com/PythonLinks/awesome-gatemate",
-        "id": 912120725
-    },
-    {
         "repo": "embassy-litex",
         "description": "embassy-rs hardware abstraction layer for LiteX / VexRiscv SoC",
         "owner": "3dmedium",
@@ -15184,19 +15171,6 @@
         "id": 231812493
     },
     {
-        "repo": "litex-webpage",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 1,
-        "forks": 0,
-        "size": 769,
-        "created": "2024-11-16T14:49:23+00:00",
-        "updated": "2025-06-22T09:26:43+00:00",
-        "pushed": "2025-06-22T09:26:39+00:00",
-        "url": "https://github.com/litexlang/litex-webpage",
-        "id": 889523857
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -15286,19 +15260,6 @@
         "pushed": "2025-06-26T18:11:04+00:00",
         "url": "https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "id": 137700800
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3378,
-        "forks": 629,
-        "size": 17693,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-06-27T10:26:10+00:00",
-        "pushed": "2025-06-27T10:26:05+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "litespi",
@@ -15405,19 +15366,6 @@
         "id": 786797602
     },
     {
-        "repo": "openPCIE",
-        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
-        "owner": "chili-chips-ba",
-        "stars": 13,
-        "forks": 0,
-        "size": 68302,
-        "created": "2025-01-28T04:49:53+00:00",
-        "updated": "2025-06-29T22:23:20+00:00",
-        "pushed": "2025-06-29T22:23:16+00:00",
-        "url": "https://github.com/chili-chips-ba/openPCIE",
-        "id": 923355946
-    },
-    {
         "repo": "patch_litex_linux_for_alinx7020",
         "description": null,
         "owner": "itisme",
@@ -15457,19 +15405,6 @@
         "id": 1010667788
     },
     {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 78,
-        "forks": 8,
-        "size": 8465,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-06-30T06:08:19+00:00",
-        "pushed": "2025-06-30T06:08:15+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
         "repo": "oss-cad-suite-build",
         "description": "Multi-platform nightly builds of open source digital design and verification tools",
         "owner": "YosysHQ",
@@ -15496,19 +15431,6 @@
         "id": 778169492
     },
     {
-        "repo": "golitex",
-        "description": "Litex: rethink formal reasoning, intuitively and scalably",
-        "owner": "litexlang",
-        "stars": 158,
-        "forks": 1,
-        "size": 20533,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-06-30T13:32:21+00:00",
-        "pushed": "2025-06-30T13:32:17+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "cram-soc",
         "description": "Cramium Test SoC",
         "owner": "buncram",
@@ -15533,19 +15455,6 @@
         "pushed": "2025-06-30T09:25:54+00:00",
         "url": "https://github.com/oscimp/wr_acorn",
         "id": 972708089
-    },
-    {
-        "repo": "boxlambda",
-        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
-        "owner": "epsilon537",
-        "stars": 62,
-        "forks": 0,
-        "size": 598022,
-        "created": "2022-03-24T10:49:49+00:00",
-        "updated": "2025-06-30T04:48:14+00:00",
-        "pushed": "2025-06-30T14:46:42+00:00",
-        "url": "https://github.com/epsilon537/boxlambda",
-        "id": 473564418
     },
     {
         "repo": "graphrag-litex",
@@ -15652,17 +15561,108 @@
         "id": 1010979501
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3386,
+        "forks": 630,
+        "size": 17703,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-07-01T20:43:46+00:00",
+        "pushed": "2025-07-01T11:21:25+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: rethink formal reasoning, intuitively and scalably",
+        "owner": "litexlang",
+        "stars": 158,
+        "forks": 1,
+        "size": 20601,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-07-01T12:59:23+00:00",
+        "pushed": "2025-07-01T12:59:20+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 62,
+        "forks": 0,
+        "size": 598243,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-07-01T13:40:14+00:00",
+        "pushed": "2025-07-01T13:54:43+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
+        "repo": "awesome-gatemate",
+        "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
+        "owner": "PythonLinks",
+        "stars": 5,
+        "forks": 0,
+        "size": 13,
+        "created": "2025-01-04T16:56:47+00:00",
+        "updated": "2025-07-01T13:55:12+00:00",
+        "pushed": "2025-07-01T13:55:08+00:00",
+        "url": "https://github.com/PythonLinks/awesome-gatemate",
+        "id": 912120725
+    },
+    {
+        "repo": "openPCIE",
+        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
+        "owner": "chili-chips-ba",
+        "stars": 13,
+        "forks": 0,
+        "size": 77334,
+        "created": "2025-01-28T04:49:53+00:00",
+        "updated": "2025-07-01T16:09:05+00:00",
+        "pushed": "2025-07-01T16:09:01+00:00",
+        "url": "https://github.com/chili-chips-ba/openPCIE",
+        "id": 923355946
+    },
+    {
         "repo": "SantaCRC",
         "description": "Config files for my GitHub profile.",
         "owner": "SantaCRC",
         "stars": 0,
         "forks": 0,
-        "size": 1172,
+        "size": 1180,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-07-01T05:29:37+00:00",
-        "pushed": "2025-07-01T05:29:34+00:00",
+        "updated": "2025-07-02T05:28:56+00:00",
+        "pushed": "2025-07-02T05:28:53+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
+    },
+    {
+        "repo": "litex-webpage",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 1,
+        "forks": 0,
+        "size": 782,
+        "created": "2024-11-16T14:49:23+00:00",
+        "updated": "2025-07-01T14:05:13+00:00",
+        "pushed": "2025-07-01T14:05:10+00:00",
+        "url": "https://github.com/litexlang/litex-webpage",
+        "id": 889523857
+    },
+    {
+        "repo": "SoC-LiteX",
+        "description": null,
+        "owner": "anoushamalik",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-07-02T00:28:22+00:00",
+        "updated": "2025-07-02T00:30:14+00:00",
+        "pushed": "2025-07-02T00:30:11+00:00",
+        "url": "https://github.com/anoushamalik/SoC-LiteX",
+        "id": 1012183066
     },
     {
         "repo": "starred",
@@ -15670,12 +15670,25 @@
         "owner": "pbsds",
         "stars": 7,
         "forks": 0,
-        "size": 2562,
+        "size": 2563,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-07-01T04:43:33+00:00",
-        "pushed": "2025-07-01T04:43:30+00:00",
+        "updated": "2025-07-02T04:41:00+00:00",
+        "pushed": "2025-07-02T04:40:57+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 78,
+        "forks": 8,
+        "size": 8960,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-07-01T06:23:08+00:00",
+        "pushed": "2025-07-01T06:23:05+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
     },
     {
         "repo": "awesome-stars",
@@ -15683,10 +15696,10 @@
         "owner": "markemer",
         "stars": 4,
         "forks": 1,
-        "size": 45531,
+        "size": 46862,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-07-01T00:55:57+00:00",
-        "pushed": "2025-07-01T00:55:53+00:00",
+        "updated": "2025-07-02T01:00:16+00:00",
+        "pushed": "2025-07-02T01:00:12+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -15696,10 +15709,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 107690,
+        "size": 108225,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-07-01T03:41:12+00:00",
-        "pushed": "2025-07-01T03:41:08+00:00",
+        "updated": "2025-07-02T03:35:47+00:00",
+        "pushed": "2025-07-02T03:35:44+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
