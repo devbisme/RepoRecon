@@ -14508,19 +14508,6 @@
         "id": 867204149
     },
     {
-        "repo": "litedram",
-        "description": "Small footprint and configurable DRAM core",
-        "owner": "enjoy-digital",
-        "stars": 414,
-        "forks": 124,
-        "size": 3440,
-        "created": "2015-02-22T00:43:35+00:00",
-        "updated": "2025-05-26T08:30:04+00:00",
-        "pushed": "2025-05-26T08:31:43+00:00",
-        "url": "https://github.com/enjoy-digital/litedram",
-        "id": 31147284
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -14571,19 +14558,6 @@
         "pushed": "2025-05-26T08:40:34+00:00",
         "url": "https://github.com/enjoy-digital/litesata",
         "id": 42045393
-    },
-    {
-        "repo": "liteiclink",
-        "description": "Small footprint and configurable Inter-Chip communication cores",
-        "owner": "enjoy-digital",
-        "stars": 57,
-        "forks": 28,
-        "size": 708,
-        "created": "2017-11-07T13:19:40+00:00",
-        "updated": "2025-05-26T08:33:15+00:00",
-        "pushed": "2025-05-26T08:33:12+00:00",
-        "url": "https://github.com/enjoy-digital/liteiclink",
-        "id": 109838222
     },
     {
         "repo": "litejesd204b",
@@ -14766,19 +14740,6 @@
         "pushed": "2025-06-04T03:19:19+00:00",
         "url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
         "id": 955329949
-    },
-    {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 637,
-        "forks": 185,
-        "size": 9796,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2025-06-04T06:52:34+00:00",
-        "pushed": "2025-06-04T06:52:32+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
     },
     {
         "repo": "litei2c",
@@ -15119,19 +15080,6 @@
         "id": 777943094
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 58,
-        "forks": 18,
-        "size": 68673,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-06-19T14:38:44+00:00",
-        "pushed": "2025-06-19T15:01:20+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -15169,19 +15117,6 @@
         "pushed": "2025-06-22T18:40:35+00:00",
         "url": "https://github.com/kelu124/awesome-latticeFPGAs",
         "id": 231812493
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 414,
-        "forks": 323,
-        "size": 4400,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-06-24T13:30:57+00:00",
-        "pushed": "2025-06-24T13:30:50+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "hwt",
@@ -15405,19 +15340,6 @@
         "id": 1010667788
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1085,
-        "forks": 92,
-        "size": 1281,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-06-29T03:08:58+00:00",
-        "pushed": "2025-07-01T03:14:25+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litex_wr_nic",
         "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
         "owner": "enjoy-digital",
@@ -15561,32 +15483,6 @@
         "id": 1010979501
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3386,
-        "forks": 630,
-        "size": 17703,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-07-01T20:43:46+00:00",
-        "pushed": "2025-07-01T11:21:25+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: rethink formal reasoning, intuitively and scalably",
-        "owner": "litexlang",
-        "stars": 158,
-        "forks": 1,
-        "size": 20601,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-07-01T12:59:23+00:00",
-        "pushed": "2025-07-01T12:59:20+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "boxlambda",
         "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
         "owner": "epsilon537",
@@ -15626,19 +15522,6 @@
         "id": 923355946
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1180,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-07-02T05:28:56+00:00",
-        "pushed": "2025-07-02T05:28:53+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "litex-webpage",
         "description": null,
         "owner": "litexlang",
@@ -15665,32 +15548,6 @@
         "id": 1012183066
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 7,
-        "forks": 0,
-        "size": 2563,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-07-02T04:41:00+00:00",
-        "pushed": "2025-07-02T04:40:57+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 78,
-        "forks": 8,
-        "size": 8960,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-07-01T06:23:08+00:00",
-        "pushed": "2025-07-01T06:23:05+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -15704,15 +15561,171 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3388,
+        "forks": 630,
+        "size": 17706,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-07-03T04:23:38+00:00",
+        "pushed": "2025-07-02T16:24:06+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 416,
+        "forks": 323,
+        "size": 4404,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-07-02T15:08:01+00:00",
+        "pushed": "2025-07-02T15:07:56+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 644,
+        "forks": 193,
+        "size": 9809,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2025-07-02T19:26:14+00:00",
+        "pushed": "2025-07-02T19:26:09+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "litedram",
+        "description": "Small footprint and configurable DRAM core",
+        "owner": "enjoy-digital",
+        "stars": 422,
+        "forks": 125,
+        "size": 3449,
+        "created": "2015-02-22T00:43:35+00:00",
+        "updated": "2025-07-02T14:19:51+00:00",
+        "pushed": "2025-07-02T14:19:47+00:00",
+        "url": "https://github.com/enjoy-digital/litedram",
+        "id": 31147284
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1086,
+        "forks": 92,
+        "size": 1281,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-07-02T18:27:50+00:00",
+        "pushed": "2025-07-03T02:47:22+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "liteiclink",
+        "description": "Small footprint and configurable Inter-Chip communication cores",
+        "owner": "enjoy-digital",
+        "stars": 59,
+        "forks": 28,
+        "size": 708,
+        "created": "2017-11-07T13:19:40+00:00",
+        "updated": "2025-07-02T16:31:47+00:00",
+        "pushed": "2025-07-02T16:31:42+00:00",
+        "url": "https://github.com/enjoy-digital/liteiclink",
+        "id": 109838222
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: rethink formal reasoning, intuitively and scalably",
+        "owner": "litexlang",
+        "stars": 162,
+        "forks": 1,
+        "size": 20696,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-07-02T13:59:12+00:00",
+        "pushed": "2025-07-02T13:59:07+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 59,
+        "forks": 18,
+        "size": 68997,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-07-02T11:15:50+00:00",
+        "pushed": "2025-07-02T11:37:39+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "LiteInjector",
+        "description": "LiteInjector : A LiteX based tool for emulating logical faults on Systems on Chips",
+        "owner": "labsticc-arcad",
+        "stars": 4,
+        "forks": 0,
+        "size": 6894,
+        "created": "2024-10-14T09:05:06+00:00",
+        "updated": "2025-07-02T15:02:35+00:00",
+        "pushed": "2025-07-02T15:02:32+00:00",
+        "url": "https://github.com/labsticc-arcad/LiteInjector",
+        "id": 872336420
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1188,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-07-03T05:29:17+00:00",
+        "pushed": "2025-07-03T05:29:14+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 7,
+        "forks": 0,
+        "size": 2564,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-07-03T04:42:17+00:00",
+        "pushed": "2025-07-03T04:42:13+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 78,
+        "forks": 8,
+        "size": 9452,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-07-02T06:32:26+00:00",
+        "pushed": "2025-07-02T06:32:23+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 108225,
+        "size": 108760,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-07-02T03:35:47+00:00",
-        "pushed": "2025-07-02T03:35:44+00:00",
+        "updated": "2025-07-03T03:35:48+00:00",
+        "pushed": "2025-07-03T03:35:44+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
