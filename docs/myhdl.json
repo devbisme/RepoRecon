@@ -5577,19 +5577,6 @@
         "id": 673849444
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 14440,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-04-03T14:03:39+00:00",
-        "pushed": "2025-04-03T14:03:34+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "Athena-GPU",
         "description": "A simple tile based fixed function GPU written in MyHDL",
         "owner": "GlaireDaggers",
@@ -5876,19 +5863,6 @@
         "id": 314673708
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 42,
-        "forks": 30,
-        "size": 41599,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-06-30T01:49:15+00:00",
-        "pushed": "2025-06-30T01:49:12+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "veri-quickbench",
         "description": "Quick Python Based Testbench Generator for Verilog Files with AXI and AXI-Stream Interfaces",
         "owner": "chiplukes",
@@ -5900,5 +5874,44 @@
         "pushed": "2025-07-01T17:48:32+00:00",
         "url": "https://github.com/chiplukes/veri-quickbench",
         "id": 1005299968
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 43,
+        "forks": 30,
+        "size": 41625,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-07-04T03:31:45+00:00",
+        "pushed": "2025-07-04T03:31:42+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13481,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2025-07-03T18:55:44+00:00",
+        "pushed": "2025-07-03T18:55:41+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "siliconbrains",
+        "description": "Open Source TPUs for the masses",
+        "owner": "DaertML",
+        "stars": 1,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-07-04T05:56:10+00:00",
+        "updated": "2025-07-04T06:05:29+00:00",
+        "pushed": "2025-07-04T06:05:26+00:00",
+        "url": "https://github.com/DaertML/siliconbrains",
+        "id": 1013571919
     }
 ]
