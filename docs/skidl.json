@@ -2039,5 +2039,31 @@
         "pushed": "2025-07-05T03:07:53+00:00",
         "url": "https://github.com/devbisme/skidl",
         "id": 65847289
+    },
+    {
+        "repo": "RF-Amplifier-HF",
+        "description": "This document describes the design, simulation, PCB layout, and testing procedures for a two-stage wideband RF gain block amplifier covering 0.1 to 50 MHz. The amplifier delivers 24 dB gain, a noise figure below 3 dB, and unconditional stability while operating from a single 5 V supply. All component values, footprints, and layout guidelines are...",
+        "owner": "bocaletto-luca",
+        "stars": 3,
+        "forks": 0,
+        "size": 53,
+        "created": "2025-07-05T17:36:05+00:00",
+        "updated": "2025-07-05T22:48:26+00:00",
+        "pushed": "2025-07-05T18:18:50+00:00",
+        "url": "https://github.com/bocaletto-luca/RF-Amplifier-HF",
+        "id": 1014422230
+    },
+    {
+        "repo": "RF-Amplifier-WiFi",
+        "description": "Professional RF Gain Block Amplifier for Wi-Fi Networks A turnkey design for a 2.4 GHz/5 GHz gain block amplifier, ideal for boosting Wi-Fi signals. Covers system specifications, device selection, biasing, impedance matching, layout guidelines, simulation and test procedures. @bocaletto-luca",
+        "owner": "bocaletto-luca",
+        "stars": 2,
+        "forks": 0,
+        "size": 46,
+        "created": "2025-07-05T17:08:38+00:00",
+        "updated": "2025-07-05T22:48:23+00:00",
+        "pushed": "2025-07-05T18:19:24+00:00",
+        "url": "https://github.com/bocaletto-luca/RF-Amplifier-WiFi",
+        "id": 1014410993
     }
 ]
