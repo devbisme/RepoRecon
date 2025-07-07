@@ -13468,19 +13468,6 @@
         "id": 937495638
     },
     {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 275,
-        "forks": 41,
-        "size": 3591,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2025-03-10T10:39:49+00:00",
-        "pushed": "2025-03-10T10:39:44+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -15249,19 +15236,6 @@
         "id": 943633247
     },
     {
-        "repo": "litex_env",
-        "description": null,
-        "owner": "jerrita",
-        "stars": 0,
-        "forks": 0,
-        "size": 2544,
-        "created": "2025-06-29T11:23:34+00:00",
-        "updated": "2025-06-29T12:47:04+00:00",
-        "pushed": "2025-06-29T12:47:01+00:00",
-        "url": "https://github.com/jerrita/litex_env",
-        "id": 1010577262
-    },
-    {
         "repo": "uart2uart",
         "description": "Litex UART-UART bridge with custom data exchange protocol",
         "owner": "nizzydumb",
@@ -15418,19 +15392,6 @@
         "id": 1010979501
     },
     {
-        "repo": "boxlambda",
-        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
-        "owner": "epsilon537",
-        "stars": 62,
-        "forks": 0,
-        "size": 598243,
-        "created": "2022-03-24T10:49:49+00:00",
-        "updated": "2025-07-01T13:40:14+00:00",
-        "pushed": "2025-07-01T13:54:43+00:00",
-        "url": "https://github.com/epsilon537/boxlambda",
-        "id": 473564418
-    },
-    {
         "repo": "awesome-gatemate",
         "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
         "owner": "PythonLinks",
@@ -15574,19 +15535,6 @@
         "id": 872336420
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1796,
-        "forks": 270,
-        "size": 237720,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-07-04T02:43:42+00:00",
-        "pushed": "2025-07-04T02:43:39+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "LiteX",
         "description": null,
         "owner": "Banowany",
@@ -15598,19 +15546,6 @@
         "pushed": "2025-07-03T15:28:10+00:00",
         "url": "https://github.com/Banowany/LiteX",
         "id": 1013247311
-    },
-    {
-        "repo": "zephyr-vexriscv",
-        "description": null,
-        "owner": "DitsoLabs",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2025-07-04T04:35:01+00:00",
-        "updated": "2025-07-04T04:45:48+00:00",
-        "pushed": "2025-07-04T04:45:45+00:00",
-        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
-        "id": 1013540439
     },
     {
         "repo": "litex-bootstrap-app",
@@ -15717,19 +15652,6 @@
         "id": 1013616459
     },
     {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 78,
-        "forks": 8,
-        "size": 9455,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-07-04T08:24:37+00:00",
-        "pushed": "2025-07-04T08:24:34+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
         "repo": "elements-vexriscv",
         "description": "VexRiscv fork",
         "owner": "aesc-silicon",
@@ -15743,17 +15665,43 @@
         "id": 310692215
     },
     {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 22,
+        "forks": 0,
+        "size": 11266,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-07-06T02:36:40+00:00",
+        "pushed": "2025-07-06T02:36:37+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
+    },
+    {
         "repo": "oss-cad-suite-build",
         "description": "Multi-platform nightly builds of open source digital design and verification tools",
         "owner": "YosysHQ",
-        "stars": 1087,
+        "stars": 1090,
         "forks": 94,
         "size": 1281,
         "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-07-05T07:31:58+00:00",
-        "pushed": "2025-07-06T02:55:36+00:00",
+        "updated": "2025-07-06T18:56:17+00:00",
+        "pushed": "2025-07-07T02:39:36+00:00",
         "url": "https://github.com/YosysHQ/oss-cad-suite-build",
         "id": 334882062
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 290,
+        "forks": 44,
+        "size": 3592,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2025-07-07T03:37:02+00:00",
+        "pushed": "2025-07-06T11:11:16+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
     },
     {
         "repo": "golitex",
@@ -15761,12 +15709,64 @@
         "owner": "litexlang",
         "stars": 164,
         "forks": 1,
-        "size": 20890,
+        "size": 21045,
         "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-07-05T09:21:33+00:00",
-        "pushed": "2025-07-05T09:21:29+00:00",
+        "updated": "2025-07-07T02:49:25+00:00",
+        "pushed": "2025-07-07T02:49:19+00:00",
         "url": "https://github.com/litexlang/golitex",
         "id": 888329277
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1799,
+        "forks": 271,
+        "size": 238077,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-07-07T05:45:44+00:00",
+        "pushed": "2025-07-07T05:47:39+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 62,
+        "forks": 0,
+        "size": 598416,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-07-01T13:40:14+00:00",
+        "pushed": "2025-07-06T14:25:01+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
+        "repo": "litex_env",
+        "description": null,
+        "owner": "jerrita",
+        "stars": 0,
+        "forks": 0,
+        "size": 2549,
+        "created": "2025-06-29T11:23:34+00:00",
+        "updated": "2025-07-06T13:38:27+00:00",
+        "pushed": "2025-07-06T13:38:24+00:00",
+        "url": "https://github.com/jerrita/litex_env",
+        "id": 1010577262
+    },
+    {
+        "repo": "zephyr-vexriscv",
+        "description": "\u2699\ufe0f RISC-V softcore SoC with UART, timer, GPIO and SDCard support \u2014 ready for real-time apps on low-cost FPGAs.",
+        "owner": "DitsoLabs",
+        "stars": 1,
+        "forks": 0,
+        "size": 95,
+        "created": "2025-07-04T04:35:01+00:00",
+        "updated": "2025-07-07T03:05:28+00:00",
+        "pushed": "2025-07-07T03:05:25+00:00",
+        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
+        "id": 1013540439
     },
     {
         "repo": "SantaCRC",
@@ -15774,10 +15774,10 @@
         "owner": "SantaCRC",
         "stars": 0,
         "forks": 0,
-        "size": 1204,
+        "size": 1209,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-07-06T05:26:05+00:00",
-        "pushed": "2025-07-06T05:26:02+00:00",
+        "updated": "2025-07-07T05:29:42+00:00",
+        "pushed": "2025-07-07T05:29:39+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
     },
@@ -15790,7 +15790,7 @@
         "size": 195,
         "created": "2025-07-04T05:22:52+00:00",
         "updated": "2025-07-05T16:19:31+00:00",
-        "pushed": "2025-07-05T16:19:28+00:00",
+        "pushed": "2025-07-07T06:01:51+00:00",
         "url": "https://github.com/Workflow-Manager-admin/litexplorer-105405-5f69c0c6",
         "id": 1013558593
     },
@@ -15798,14 +15798,27 @@
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
-        "stars": 7,
+        "stars": 8,
         "forks": 0,
-        "size": 1778,
+        "size": 1779,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-07-06T04:42:00+00:00",
-        "pushed": "2025-07-06T04:41:56+00:00",
+        "updated": "2025-07-07T04:42:51+00:00",
+        "pushed": "2025-07-07T04:42:48+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 78,
+        "forks": 8,
+        "size": 9948,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-07-06T06:18:02+00:00",
+        "pushed": "2025-07-06T06:17:59+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
     },
     {
         "repo": "starList",
@@ -15813,24 +15826,11 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 110398,
+        "size": 110952,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-07-06T03:38:46+00:00",
-        "pushed": "2025-07-06T03:38:43+00:00",
+        "updated": "2025-07-07T03:38:29+00:00",
+        "pushed": "2025-07-07T03:38:25+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 22,
-        "forks": 0,
-        "size": 11266,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-07-06T02:36:40+00:00",
-        "pushed": "2025-07-06T02:36:37+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
     }
 ]
