@@ -14859,19 +14859,6 @@
         "id": 1002082242
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1090,
-        "forks": 222,
-        "size": 924694,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-06-16T16:31:16+00:00",
-        "pushed": "2025-06-16T16:31:04+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "ThUndersope",
         "description": null,
         "owner": "taowang1995",
@@ -15249,19 +15236,6 @@
         "id": 1010979501
     },
     {
-        "repo": "awesome-gatemate",
-        "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
-        "owner": "PythonLinks",
-        "stars": 5,
-        "forks": 0,
-        "size": 13,
-        "created": "2025-01-04T16:56:47+00:00",
-        "updated": "2025-07-01T13:55:12+00:00",
-        "pushed": "2025-07-01T13:55:08+00:00",
-        "url": "https://github.com/PythonLinks/awesome-gatemate",
-        "id": 912120725
-    },
-    {
         "repo": "SoC-LiteX",
         "description": null,
         "owner": "anoushamalik",
@@ -15613,19 +15587,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1098,
-        "forks": 94,
-        "size": 1281,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-07-11T04:33:47+00:00",
-        "pushed": "2025-07-11T03:00:52+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litesdcard",
         "description": "Small footprint and configurable SDCard core",
         "owner": "enjoy-digital",
@@ -15639,19 +15600,6 @@
         "id": 100942867
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 112,
-        "forks": 20,
-        "size": 7035,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-07-10T16:53:56+00:00",
-        "pushed": "2025-07-10T16:53:52+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "zephyr-on-litex-vexriscv",
         "description": null,
         "owner": "litex-hub",
@@ -15663,32 +15611,6 @@
         "pushed": "2025-07-10T08:17:52+00:00",
         "url": "https://github.com/litex-hub/zephyr-on-litex-vexriscv",
         "id": 277833446
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: an intuitive and scalable formal language",
-        "owner": "litexlang",
-        "stars": 171,
-        "forks": 1,
-        "size": 19665,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-07-10T12:54:08+00:00",
-        "pushed": "2025-07-10T08:15:44+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1802,
-        "forks": 270,
-        "size": 237664,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-07-10T14:56:06+00:00",
-        "pushed": "2025-07-10T15:10:12+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
     },
     {
         "repo": "boxlambda",
@@ -15717,19 +15639,6 @@
         "id": 992109515
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 66,
-        "forks": 7,
-        "size": 225461,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-07-10T21:19:22+00:00",
-        "pushed": "2025-07-10T21:19:18+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "vivado_acorn",
         "description": "An example repo showing how to get started with the Lite/NiteFury and Sqrl Acorn 101/215(+) FPGAs",
         "owner": "sifferman",
@@ -15741,19 +15650,6 @@
         "pushed": "2025-07-10T20:48:35+00:00",
         "url": "https://github.com/sifferman/vivado_acorn",
         "id": 1002666441
-    },
-    {
-        "repo": "openPCIE",
-        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
-        "owner": "chili-chips-ba",
-        "stars": 13,
-        "forks": 0,
-        "size": 80228,
-        "created": "2025-01-28T04:49:53+00:00",
-        "updated": "2025-07-10T21:37:01+00:00",
-        "pushed": "2025-07-10T21:36:57+00:00",
-        "url": "https://github.com/chili-chips-ba/openPCIE",
-        "id": 923355946
     },
     {
         "repo": "FPGA-SPDM",
@@ -15780,32 +15676,6 @@
         "pushed": "2025-07-08T15:24:30+00:00",
         "url": "https://github.com/jerrita/litex_env",
         "id": 1010577262
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1235,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-07-11T05:29:17+00:00",
-        "pushed": "2025-07-11T05:29:14+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
-        "repo": "MoonGrt",
-        "description": null,
-        "owner": "MoonGrt",
-        "stars": 2,
-        "forks": 0,
-        "size": 5099,
-        "created": "2025-01-02T01:54:39+00:00",
-        "updated": "2025-07-11T02:21:38+00:00",
-        "pushed": "2025-07-11T02:21:34+00:00",
-        "url": "https://github.com/MoonGrt/MoonGrt",
-        "id": 910990710
     },
     {
         "repo": "litex-gowin.sif",
@@ -15860,19 +15730,6 @@
         "id": 973646184
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 1821,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-07-11T04:43:22+00:00",
-        "pushed": "2025-07-11T04:43:18+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Lecturas_GLC",
         "description": "Readings on computational logic, interactive theorem proving and functional programming.",
         "owner": "jaalonso",
@@ -15899,15 +15756,158 @@
         "id": 330793471
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1101,
+        "forks": 225,
+        "size": 940505,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-07-11T06:47:26+00:00",
+        "pushed": "2025-07-12T04:14:33+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1100,
+        "forks": 94,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-07-11T16:07:30+00:00",
+        "pushed": "2025-07-12T02:45:12+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 112,
+        "forks": 20,
+        "size": 7038,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-07-11T14:25:56+00:00",
+        "pushed": "2025-07-11T14:25:53+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: an intuitive and scalable formal language",
+        "owner": "litexlang",
+        "stars": 172,
+        "forks": 1,
+        "size": 19665,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-07-12T05:49:46+00:00",
+        "pushed": "2025-07-12T05:49:42+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1802,
+        "forks": 270,
+        "size": 238171,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-07-11T09:29:18+00:00",
+        "pushed": "2025-07-12T05:00:46+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "awesome-gatemate",
+        "description": "A Curated Directory of Awesome Cologne Chips' GateMate FPGA Links.",
+        "owner": "PythonLinks",
+        "stars": 5,
+        "forks": 0,
+        "size": 14,
+        "created": "2025-01-04T16:56:47+00:00",
+        "updated": "2025-07-11T13:17:49+00:00",
+        "pushed": "2025-07-11T13:17:46+00:00",
+        "url": "https://github.com/PythonLinks/awesome-gatemate",
+        "id": 912120725
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 66,
+        "forks": 7,
+        "size": 225479,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-07-11T15:47:05+00:00",
+        "pushed": "2025-07-11T15:47:02+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "MoonGrt",
+        "description": null,
+        "owner": "MoonGrt",
+        "stars": 2,
+        "forks": 0,
+        "size": 5220,
+        "created": "2025-01-02T01:54:39+00:00",
+        "updated": "2025-07-12T02:22:00+00:00",
+        "pushed": "2025-07-12T02:21:57+00:00",
+        "url": "https://github.com/MoonGrt/MoonGrt",
+        "id": 910990710
+    },
+    {
+        "repo": "openPCIE",
+        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
+        "owner": "chili-chips-ba",
+        "stars": 13,
+        "forks": 0,
+        "size": 85124,
+        "created": "2025-01-28T04:49:53+00:00",
+        "updated": "2025-07-11T18:41:16+00:00",
+        "pushed": "2025-07-11T18:41:12+00:00",
+        "url": "https://github.com/chili-chips-ba/openPCIE",
+        "id": 923355946
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1237,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-07-12T05:26:34+00:00",
+        "pushed": "2025-07-12T05:26:31+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 1861,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-07-12T04:41:06+00:00",
+        "pushed": "2025-07-12T04:41:03+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 113149,
+        "size": 113703,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-07-11T03:40:05+00:00",
-        "pushed": "2025-07-11T03:40:02+00:00",
+        "updated": "2025-07-12T03:37:58+00:00",
+        "pushed": "2025-07-12T03:37:55+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
