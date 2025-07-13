@@ -44655,19 +44655,6 @@
         "id": 720210545
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 5304,
-        "forks": 496,
-        "size": 1693,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2025-07-03T02:24:38+00:00",
-        "pushed": "2025-07-03T02:24:34+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "flippy-openwrt-actions",
         "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
         "owner": "ophub",
@@ -44876,19 +44863,6 @@
         "id": 439560352
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 14,
-        "forks": 4,
-        "size": 3485,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-07-06T16:30:10+00:00",
-        "pushed": "2025-07-06T16:30:06+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "emakefun-docsify",
         "description": null,
         "owner": "emakefun",
@@ -44913,19 +44887,6 @@
         "pushed": "2025-07-08T03:21:47+00:00",
         "url": "https://github.com/100askTeam/xiaozhi-linux",
         "id": 948269753
-    },
-    {
-        "repo": "k230_rtos_sdk",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 0,
-        "forks": 1,
-        "size": 5880,
-        "created": "2025-06-09T06:55:16+00:00",
-        "updated": "2025-07-07T11:33:03+00:00",
-        "pushed": "2025-07-07T11:33:00+00:00",
-        "url": "https://github.com/kendryte/k230_rtos_sdk",
-        "id": 998733774
     },
     {
         "repo": "21-TI-F-",
@@ -45305,19 +45266,6 @@
         "id": 1017139135
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 9,
-        "forks": 2,
-        "size": 1271,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-07-11T02:31:29+00:00",
-        "pushed": "2025-07-11T02:31:26+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
         "repo": "rcore_c",
         "description": "Rust\u534f\u7a0b\u8c03\u5ea6",
         "owner": "Vac011",
@@ -45435,19 +45383,6 @@
         "id": 824521722
     },
     {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 3,
-        "size": 9780,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2025-07-11T12:30:58+00:00",
-        "pushed": "2025-07-11T12:30:54+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
-    },
-    {
         "repo": "PQRV",
         "description": null,
         "owner": "Ji-Peng",
@@ -45472,19 +45407,6 @@
         "pushed": "2025-07-12T05:08:24+00:00",
         "url": "https://github.com/canmv-k230/k230_rtsmart_lib",
         "id": 840274595
-    },
-    {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 2,
-        "size": 44,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-07-11T13:39:14+00:00",
-        "pushed": "2025-07-12T00:57:18+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
     },
     {
         "repo": "STM32F103C8T6_maixcampro_Color-block-tracking",
@@ -45539,6 +45461,84 @@
         "id": 685317589
     },
     {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 3,
+        "size": 9782,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2025-07-12T08:39:46+00:00",
+        "pushed": "2025-07-12T08:39:43+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "k230_rtos_sdk",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 1,
+        "size": 5881,
+        "created": "2025-06-09T06:55:16+00:00",
+        "updated": "2025-07-12T07:06:10+00:00",
+        "pushed": "2025-07-12T07:06:07+00:00",
+        "url": "https://github.com/kendryte/k230_rtos_sdk",
+        "id": 998733774
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 15,
+        "forks": 4,
+        "size": 3560,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-07-12T21:03:15+00:00",
+        "pushed": "2025-07-12T21:03:12+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 1,
+        "forks": 2,
+        "size": 44,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-07-11T13:39:14+00:00",
+        "pushed": "2025-07-13T01:01:26+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 9,
+        "forks": 2,
+        "size": 1478,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-07-13T02:40:43+00:00",
+        "pushed": "2025-07-13T02:40:39+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 5316,
+        "forks": 496,
+        "size": 1693,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2025-07-13T05:33:59+00:00",
+        "pushed": "2025-07-13T05:33:55+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -45546,8 +45546,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-07-12T06:07:51+00:00",
-        "pushed": "2025-07-12T06:07:48+00:00",
+        "updated": "2025-07-13T06:16:38+00:00",
+        "pushed": "2025-07-13T06:16:34+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -45559,8 +45559,8 @@
         "forks": 0,
         "size": 30,
         "created": "2025-07-10T22:11:06+00:00",
-        "updated": "2025-07-12T04:28:48+00:00",
-        "pushed": "2025-07-12T04:28:45+00:00",
+        "updated": "2025-07-13T04:35:58+00:00",
+        "pushed": "2025-07-13T04:35:55+00:00",
         "url": "https://github.com/JirayYin/product-development",
         "id": 1017654920
     },
@@ -45570,10 +45570,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 38,
-        "size": 1028946,
+        "size": 1028947,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-07-11T12:39:22+00:00",
-        "pushed": "2025-07-11T12:39:18+00:00",
+        "updated": "2025-07-12T12:35:33+00:00",
+        "pushed": "2025-07-12T12:35:29+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }

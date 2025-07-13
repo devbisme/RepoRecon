@@ -1911,19 +1911,6 @@
         "id": 1004764759
     },
     {
-        "repo": "kicad-kbplacer",
-        "description": "KiCad plugin for automatic keyboard's key placement and routing",
-        "owner": "adamws",
-        "stars": 430,
-        "forks": 28,
-        "size": 14127,
-        "created": "2020-04-10T22:24:09+00:00",
-        "updated": "2025-06-19T17:00:10+00:00",
-        "pushed": "2025-06-24T18:30:17+00:00",
-        "url": "https://github.com/adamws/kicad-kbplacer",
-        "id": 254747856
-    },
-    {
         "repo": "awesome_photonics",
         "description": "\ud83d\ude0e curated list of open source photonics projects",
         "owner": "joamatab",
@@ -2067,16 +2054,81 @@
         "id": 768320430
     },
     {
+        "repo": "kicad-kbplacer",
+        "description": "KiCad plugin for automatic keyboard's key placement and routing",
+        "owner": "adamws",
+        "stars": 436,
+        "forks": 28,
+        "size": 14131,
+        "created": "2020-04-10T22:24:09+00:00",
+        "updated": "2025-07-13T01:28:59+00:00",
+        "pushed": "2025-07-10T15:55:00+00:00",
+        "url": "https://github.com/adamws/kicad-kbplacer",
+        "id": 254747856
+    },
+    {
         "repo": "circuitron",
         "description": "Circuitron: Agentic PCB Design Accelerator \u2014 Generate, plan, and layout circuits from natural language prompts.",
         "owner": "Shaurya-Sethi",
-        "stars": 0,
-        "forks": 0,
-        "size": 892,
+        "stars": 2,
+        "forks": 2,
+        "size": 1120,
         "created": "2025-06-12T09:33:10+00:00",
-        "updated": "2025-07-12T01:22:14+00:00",
-        "pushed": "2025-07-12T01:22:10+00:00",
+        "updated": "2025-07-12T21:45:50+00:00",
+        "pushed": "2025-07-13T00:02:22+00:00",
         "url": "https://github.com/Shaurya-Sethi/circuitron",
         "id": 1000763953
+    },
+    {
+        "repo": "alloy-hardware",
+        "description": null,
+        "owner": "djhoggatt",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-06-29T15:52:37+00:00",
+        "updated": "2025-07-12T14:10:33+00:00",
+        "pushed": "2025-07-12T14:10:30+00:00",
+        "url": "https://github.com/djhoggatt/alloy-hardware",
+        "id": 1010689382
+    },
+    {
+        "repo": "SKIDLabToolsUnity",
+        "description": null,
+        "owner": "LuticaCANARD",
+        "stars": 0,
+        "forks": 0,
+        "size": 402,
+        "created": "2025-06-17T00:00:22+00:00",
+        "updated": "2025-07-12T06:42:11+00:00",
+        "pushed": "2025-07-12T08:23:11+00:00",
+        "url": "https://github.com/LuticaCANARD/SKIDLabToolsUnity",
+        "id": 1003298596
+    },
+    {
+        "repo": "elsbrock",
+        "description": "\ud83c\udfe0 my Github profile repository, automatically updated using `readme-scribe`",
+        "owner": "elsbrock",
+        "stars": 0,
+        "forks": 0,
+        "size": 1202,
+        "created": "2021-12-16T09:04:35+00:00",
+        "updated": "2025-07-13T00:29:51+00:00",
+        "pushed": "2025-07-13T00:29:48+00:00",
+        "url": "https://github.com/elsbrock/elsbrock",
+        "id": 438925115
+    },
+    {
+        "repo": "Skidlord",
+        "description": null,
+        "owner": "Ironnega02",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2025-07-12T19:18:10+00:00",
+        "updated": "2025-07-12T19:20:27+00:00",
+        "pushed": "2025-07-12T19:20:24+00:00",
+        "url": "https://github.com/Ironnega02/Skidlord",
+        "id": 1018672283
     }
 ]
