@@ -14963,19 +14963,6 @@
         "id": 231812493
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 213,
-        "forks": 28,
-        "size": 20298,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-06-24T10:30:04+00:00",
-        "pushed": "2025-06-24T10:30:00+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "Mukovenkov-Roman-Sergeyevich",
         "description": null,
         "owner": "Mukovenkov-Roman-Sergeyevich",
@@ -15522,32 +15509,6 @@
         "id": 981754715
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3401,
-        "forks": 633,
-        "size": 17718,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-07-10T17:33:48+00:00",
-        "pushed": "2025-07-10T16:38:56+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "litesdcard",
-        "description": "Small footprint and configurable SDCard core",
-        "owner": "enjoy-digital",
-        "stars": 122,
-        "forks": 36,
-        "size": 7552,
-        "created": "2017-08-21T10:50:59+00:00",
-        "updated": "2025-07-10T15:23:39+00:00",
-        "pushed": "2025-07-08T07:59:12+00:00",
-        "url": "https://github.com/enjoy-digital/litesdcard",
-        "id": 100942867
-    },
-    {
         "repo": "zephyr-on-litex-vexriscv",
         "description": null,
         "owner": "litex-hub",
@@ -15821,32 +15782,6 @@
         "id": 1018929924
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1103,
-        "forks": 94,
-        "size": 1294,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-07-13T21:08:56+00:00",
-        "pushed": "2025-07-15T02:48:17+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: an intuitive and scalable formal language",
-        "owner": "litexlang",
-        "stars": 175,
-        "forks": 1,
-        "size": 19782,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-07-15T01:56:13+00:00",
-        "pushed": "2025-07-14T13:43:12+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -15873,19 +15808,6 @@
         "id": 827054090
     },
     {
-        "repo": "MoonGrt",
-        "description": null,
-        "owner": "MoonGrt",
-        "stars": 2,
-        "forks": 0,
-        "size": 5623,
-        "created": "2025-01-02T01:54:39+00:00",
-        "updated": "2025-07-15T02:25:26+00:00",
-        "pushed": "2025-07-15T02:25:22+00:00",
-        "url": "https://github.com/MoonGrt/MoonGrt",
-        "id": 910990710
-    },
-    {
         "repo": "FemtoRVSoC",
         "description": null,
         "owner": "Skandakm29",
@@ -15897,19 +15819,6 @@
         "pushed": "2025-07-14T17:04:22+00:00",
         "url": "https://github.com/Skandakm29/FemtoRVSoC",
         "id": 1011010401
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1255,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-07-15T05:31:06+00:00",
-        "pushed": "2025-07-15T05:31:03+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "offnariscv",
@@ -15925,6 +15834,110 @@
         "id": 973646184
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3408,
+        "forks": 633,
+        "size": 17728,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-07-16T02:54:40+00:00",
+        "pushed": "2025-07-15T17:04:59+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1106,
+        "forks": 94,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-07-16T00:11:17+00:00",
+        "pushed": "2025-07-16T03:01:23+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litesdcard",
+        "description": "Small footprint and configurable SDCard core",
+        "owner": "enjoy-digital",
+        "stars": 122,
+        "forks": 36,
+        "size": 7570,
+        "created": "2017-08-21T10:50:59+00:00",
+        "updated": "2025-07-15T14:51:55+00:00",
+        "pushed": "2025-07-15T14:51:51+00:00",
+        "url": "https://github.com/enjoy-digital/litesdcard",
+        "id": 100942867
+    },
+    {
+        "repo": "tutorials",
+        "description": "OpenRISC Tutorials",
+        "owner": "openrisc",
+        "stars": 42,
+        "forks": 21,
+        "size": 1130,
+        "created": "2016-03-13T19:19:08+00:00",
+        "updated": "2025-07-15T16:27:05+00:00",
+        "pushed": "2025-07-15T16:27:02+00:00",
+        "url": "https://github.com/openrisc/tutorials",
+        "id": 53802956
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: an intuitive and scalable formal language",
+        "owner": "litexlang",
+        "stars": 175,
+        "forks": 1,
+        "size": 19836,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-07-16T06:12:48+00:00",
+        "pushed": "2025-07-16T06:12:45+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 213,
+        "forks": 29,
+        "size": 20316,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-07-15T09:56:34+00:00",
+        "pushed": "2025-07-15T09:56:30+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "MoonGrt",
+        "description": null,
+        "owner": "MoonGrt",
+        "stars": 2,
+        "forks": 0,
+        "size": 5768,
+        "created": "2025-01-02T01:54:39+00:00",
+        "updated": "2025-07-16T02:22:21+00:00",
+        "pushed": "2025-07-16T02:22:17+00:00",
+        "url": "https://github.com/MoonGrt/MoonGrt",
+        "id": 910990710
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1262,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-07-16T05:32:19+00:00",
+        "pushed": "2025-07-16T05:32:16+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -15933,7 +15946,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-07-14T22:50:44+00:00",
-        "pushed": "2025-07-15T00:19:35+00:00",
+        "pushed": "2025-07-16T00:19:41+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -15943,10 +15956,10 @@
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 2014,
+        "size": 2016,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-07-15T04:44:45+00:00",
-        "pushed": "2025-07-15T04:44:42+00:00",
+        "updated": "2025-07-16T04:44:24+00:00",
+        "pushed": "2025-07-16T04:44:21+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -15956,10 +15969,10 @@
         "owner": "jaalonso",
         "stars": 78,
         "forks": 8,
-        "size": 11441,
+        "size": 11446,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-07-14T06:30:00+00:00",
-        "pushed": "2025-07-14T06:29:57+00:00",
+        "updated": "2025-07-15T06:52:51+00:00",
+        "pushed": "2025-07-15T06:52:48+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
     },
@@ -15969,10 +15982,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 114960,
+        "size": 115504,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-07-15T03:40:21+00:00",
-        "pushed": "2025-07-15T03:40:17+00:00",
+        "updated": "2025-07-16T03:39:20+00:00",
+        "pushed": "2025-07-16T03:39:16+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

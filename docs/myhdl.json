@@ -5798,32 +5798,6 @@
         "id": 158928501
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 40,
-        "forks": 7,
-        "size": 6709,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-06-24T10:30:09+00:00",
-        "pushed": "2025-06-24T10:30:05+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 213,
-        "forks": 28,
-        "size": 20298,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-06-24T10:30:04+00:00",
-        "pushed": "2025-06-24T10:30:00+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "py-v",
         "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
         "owner": "kyaso",
@@ -5861,19 +5835,6 @@
         "pushed": "2025-07-05T11:29:52+00:00",
         "url": "https://github.com/kevinwlu/dsd",
         "id": 143520625
-    },
-    {
-        "repo": "vcd-samples",
-        "description": "sample VCD files",
-        "owner": "wavedrom",
-        "stars": 37,
-        "forks": 2,
-        "size": 1977,
-        "created": "2021-08-08T07:23:17+00:00",
-        "updated": "2025-07-06T03:39:56+00:00",
-        "pushed": "2025-07-06T03:39:53+00:00",
-        "url": "https://github.com/wavedrom/vcd-samples",
-        "id": 393889750
     },
     {
         "repo": "siliconbrains",
@@ -5926,5 +5887,44 @@
         "pushed": "2025-07-14T19:05:44+00:00",
         "url": "https://github.com/drom/awesome-hdl",
         "id": 88018788
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 40,
+        "forks": 7,
+        "size": 6735,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-07-15T09:56:40+00:00",
+        "pushed": "2025-07-15T09:56:36+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "vcd-samples",
+        "description": "sample VCD files",
+        "owner": "wavedrom",
+        "stars": 37,
+        "forks": 2,
+        "size": 1977,
+        "created": "2021-08-08T07:23:17+00:00",
+        "updated": "2025-07-16T06:06:54+00:00",
+        "pushed": "2025-07-16T06:06:50+00:00",
+        "url": "https://github.com/wavedrom/vcd-samples",
+        "id": 393889750
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 213,
+        "forks": 29,
+        "size": 20316,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-07-15T09:56:34+00:00",
+        "pushed": "2025-07-15T09:56:30+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
     }
 ]
