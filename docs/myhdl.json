@@ -5863,19 +5863,6 @@
         "id": 1015759292
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13482,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-07-11T04:09:24+00:00",
-        "pushed": "2025-07-11T04:09:20+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "awesome-hdl",
         "description": "Hardware Description Languages",
         "owner": "drom",
@@ -5902,19 +5889,6 @@
         "id": 63018738
     },
     {
-        "repo": "vcd-samples",
-        "description": "sample VCD files",
-        "owner": "wavedrom",
-        "stars": 37,
-        "forks": 2,
-        "size": 1977,
-        "created": "2021-08-08T07:23:17+00:00",
-        "updated": "2025-07-16T06:06:54+00:00",
-        "pushed": "2025-07-16T06:06:50+00:00",
-        "url": "https://github.com/wavedrom/vcd-samples",
-        "id": 393889750
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -5926,5 +5900,31 @@
         "pushed": "2025-07-15T09:56:30+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
+    },
+    {
+        "repo": "vcd-samples",
+        "description": "sample VCD files",
+        "owner": "wavedrom",
+        "stars": 37,
+        "forks": 2,
+        "size": 2673,
+        "created": "2021-08-08T07:23:17+00:00",
+        "updated": "2025-07-17T02:36:51+00:00",
+        "pushed": "2025-07-17T02:36:48+00:00",
+        "url": "https://github.com/wavedrom/vcd-samples",
+        "id": 393889750
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13489,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2025-07-16T16:24:22+00:00",
+        "pushed": "2025-07-16T16:24:18+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]
