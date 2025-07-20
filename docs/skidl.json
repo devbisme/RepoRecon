@@ -1989,19 +1989,6 @@
         "id": 1013414099
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
-        "owner": "devbisme",
-        "stars": 1185,
-        "forks": 139,
-        "size": 58276,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-07-04T16:01:07+00:00",
-        "pushed": "2025-07-05T03:07:53+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "RF-Amplifier-HF",
         "description": "This document describes the design, simulation, PCB layout, and testing procedures for a two-stage wideband RF gain block amplifier covering 0.1 to 50 MHz. The amplifier delivers 24 dB gain, a noise figure below 3 dB, and unconditional stability while operating from a single 5 V supply. All component values, footprints, and layout guidelines are...",
         "owner": "bocaletto-luca",
@@ -2130,5 +2117,18 @@
         "pushed": "2025-07-17T17:28:09+00:00",
         "url": "https://github.com/Shaurya-Sethi/circuitron",
         "id": 1000763953
+    },
+    {
+        "repo": "skidl",
+        "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
+        "owner": "devbisme",
+        "stars": 1197,
+        "forks": 138,
+        "size": 58399,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2025-07-19T00:20:34+00:00",
+        "pushed": "2025-07-19T16:37:26+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
     }
 ]

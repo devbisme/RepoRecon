@@ -41704,19 +41704,6 @@
         "id": 962644727
     },
     {
-        "repo": "MaixCode",
-        "description": "MaixVision on VSCode!",
-        "owner": "MaixCode",
-        "stars": 1,
-        "forks": 0,
-        "size": 122,
-        "created": "2024-08-09T09:40:08+00:00",
-        "updated": "2025-04-10T09:43:09+00:00",
-        "pushed": "2025-04-10T09:43:06+00:00",
-        "url": "https://github.com/MaixCode/MaixCode",
-        "id": 840250973
-    },
-    {
         "repo": "Awesome-LRM-Safety",
         "description": "Awesome Large Reasoning Model(LRM) Safety.This repository is used to collect security-related research on large reasoning models such as DeepSeek-R1 and OpenAI o1, which are currently very popular.",
         "owner": "wonderNefelibata",
@@ -45474,19 +45461,6 @@
         "id": 859664219
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 799,
-        "forks": 198,
-        "size": 63185,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-07-16T05:25:36+00:00",
-        "pushed": "2025-07-18T02:10:28+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -45563,19 +45537,6 @@
         "pushed": "2025-07-18T06:25:27+00:00",
         "url": "https://github.com/canmv-k230/k230_rtsmart_lib",
         "id": 840274595
-    },
-    {
-        "repo": "maix",
-        "description": null,
-        "owner": "ansari-project",
-        "stars": 0,
-        "forks": 0,
-        "size": 441,
-        "created": "2025-07-16T18:48:04+00:00",
-        "updated": "2025-07-18T04:54:15+00:00",
-        "pushed": "2025-07-18T04:54:12+00:00",
-        "url": "https://github.com/ansari-project/maix",
-        "id": 1021020520
     },
     {
         "repo": "crane-2.0pro",
@@ -45669,19 +45630,6 @@
         "id": 7408108
     },
     {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 2,
-        "size": 44,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-07-11T13:39:14+00:00",
-        "pushed": "2025-07-19T00:55:17+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
-    },
-    {
         "repo": "MaixCAM-3D-Pose-Estimation-and-Classification",
         "description": null,
         "owner": "yudhisthereal",
@@ -45708,15 +45656,80 @@
         "id": 1000350020
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 800,
+        "forks": 199,
+        "size": 63186,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-07-19T03:49:28+00:00",
+        "pushed": "2025-07-20T02:07:16+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "maix",
+        "description": null,
+        "owner": "ansari-project",
+        "stars": 0,
+        "forks": 0,
+        "size": 2295,
+        "created": "2025-07-16T18:48:04+00:00",
+        "updated": "2025-07-19T22:09:32+00:00",
+        "pushed": "2025-07-19T22:09:29+00:00",
+        "url": "https://github.com/ansari-project/maix",
+        "id": 1021020520
+    },
+    {
+        "repo": "MaixPy-UI-Lib",
+        "description": "\u4e00\u6b3e\u4e3a MaixPy \u5f00\u53d1\u7684\u8f7b\u91cf\u7ea7 UI \u7ec4\u4ef6\u5e93 | A lightweight UI component library for MaixPy",
+        "owner": "aristorechina",
+        "stars": 6,
+        "forks": 1,
+        "size": 413,
+        "created": "2025-07-19T17:59:43+00:00",
+        "updated": "2025-07-20T04:42:58+00:00",
+        "pushed": "2025-07-20T04:42:54+00:00",
+        "url": "https://github.com/aristorechina/MaixPy-UI-Lib",
+        "id": 1022736017
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 1,
+        "forks": 2,
+        "size": 44,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-07-11T13:39:14+00:00",
+        "pushed": "2025-07-20T01:02:44+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "MaixCode",
+        "description": "MaixVision on VSCode!",
+        "owner": "MaixCode",
+        "stars": 1,
+        "forks": 0,
+        "size": 130,
+        "created": "2024-08-09T09:40:08+00:00",
+        "updated": "2025-07-20T05:50:00+00:00",
+        "pushed": "2025-07-20T05:49:57+00:00",
+        "url": "https://github.com/MaixCode/MaixCode",
+        "id": 840250973
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 9,
         "forks": 2,
-        "size": 1766,
+        "size": 1767,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-07-19T02:28:22+00:00",
-        "pushed": "2025-07-19T02:28:19+00:00",
+        "updated": "2025-07-20T02:42:41+00:00",
+        "pushed": "2025-07-20T02:42:38+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -45726,10 +45739,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 38,
-        "size": 1039390,
+        "size": 1039392,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-07-18T12:40:20+00:00",
-        "pushed": "2025-07-18T12:40:16+00:00",
+        "updated": "2025-07-19T12:36:38+00:00",
+        "pushed": "2025-07-19T12:36:34+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     }
