@@ -14144,19 +14144,6 @@
         "id": 908760051
     },
     {
-        "repo": "pythondata-cpu-coreblocks",
-        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
-        "owner": "kuznia-rdzeni",
-        "stars": 1,
-        "forks": 0,
-        "size": 10,
-        "created": "2023-04-22T12:19:25+00:00",
-        "updated": "2025-05-09T11:19:12+00:00",
-        "pushed": "2025-05-09T11:19:09+00:00",
-        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
-        "id": 631249176
-    },
-    {
         "repo": "GowinTRX",
         "description": "A digital mode ham transceiver in a Litex SOC. Running on Sipeed Tang Primer 20K",
         "owner": "alberto-grl",
@@ -15314,19 +15301,6 @@
         "id": 1013558593
     },
     {
-        "repo": "litex_wr_nic",
-        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
-        "owner": "enjoy-digital",
-        "stars": 11,
-        "forks": 6,
-        "size": 10214,
-        "created": "2024-03-27T08:02:37+00:00",
-        "updated": "2025-07-08T05:33:51+00:00",
-        "pushed": "2025-07-08T05:33:47+00:00",
-        "url": "https://github.com/enjoy-digital/litex_wr_nic",
-        "id": 778169492
-    },
-    {
         "repo": "AAML-2025",
         "description": "AAML-2025 Labs and CFU-Playground Learn",
         "owner": "Victor-zyy",
@@ -15442,19 +15416,6 @@
         "pushed": "2025-07-09T04:10:27+00:00",
         "url": "https://github.com/crelleeee/6core-heterogeneous-system",
         "id": 1015483281
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 112,
-        "forks": 20,
-        "size": 7038,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-07-11T14:25:56+00:00",
-        "pushed": "2025-07-11T14:25:53+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "awesome-gatemate",
@@ -15769,32 +15730,6 @@
         "id": 330793471
     },
     {
-        "repo": "tutorials",
-        "description": "OpenRISC Tutorials",
-        "owner": "openrisc",
-        "stars": 42,
-        "forks": 21,
-        "size": 1154,
-        "created": "2016-03-13T19:19:08+00:00",
-        "updated": "2025-07-19T07:22:07+00:00",
-        "pushed": "2025-07-19T07:22:03+00:00",
-        "url": "https://github.com/openrisc/tutorials",
-        "id": 53802956
-    },
-    {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 4,
-        "forks": 0,
-        "size": 14739,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-07-19T12:51:48+00:00",
-        "pushed": "2025-07-19T12:51:44+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
-    },
-    {
         "repo": "vivado_acorn",
         "description": "An example repo showing how to get started with the Lite/NiteFury and Sqrl Acorn 101/215(+) FPGAs",
         "owner": "sifferman",
@@ -15832,32 +15767,6 @@
         "pushed": "2025-07-20T02:53:57+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
-    },
-    {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1111,
-        "forks": 226,
-        "size": 945571,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-07-18T03:18:20+00:00",
-        "pushed": "2025-07-21T03:46:13+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1108,
-        "forks": 94,
-        "size": 1294,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-07-18T13:13:16+00:00",
-        "pushed": "2025-07-21T03:05:20+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "golitex",
@@ -15912,19 +15821,6 @@
         "id": 483508371
     },
     {
-        "repo": "openCologne",
-        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
-        "owner": "chili-chips-ba",
-        "stars": 66,
-        "forks": 7,
-        "size": 306445,
-        "created": "2024-05-09T07:23:51+00:00",
-        "updated": "2025-07-20T20:27:40+00:00",
-        "pushed": "2025-07-20T20:27:35+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne",
-        "id": 798146281
-    },
-    {
         "repo": "VintageBusFPGA_Common",
         "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
         "owner": "MelkhiorVintageComputing",
@@ -15936,19 +15832,6 @@
         "pushed": "2025-07-20T08:53:04+00:00",
         "url": "https://github.com/MelkhiorVintageComputing/VintageBusFPGA_Common",
         "id": 559997034
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1280,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-07-21T05:34:06+00:00",
-        "pushed": "2025-07-21T05:34:02+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "LitExplorer",
@@ -15977,32 +15860,6 @@
         "id": 889523857
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 28,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-07-14T22:50:44+00:00",
-        "pushed": "2025-07-21T00:20:31+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2172,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-07-21T04:45:20+00:00",
-        "pushed": "2025-07-21T04:45:16+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "Lecturas_GLC",
         "description": "Readings on computational logic, interactive theorem proving and functional programming.",
         "owner": "jaalonso",
@@ -16029,15 +15886,171 @@
         "id": 171871908
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1112,
+        "forks": 226,
+        "size": 945800,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-07-21T22:41:35+00:00",
+        "pushed": "2025-07-22T00:57:45+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1109,
+        "forks": 94,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-07-21T18:18:07+00:00",
+        "pushed": "2025-07-22T03:26:56+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 113,
+        "forks": 21,
+        "size": 7040,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-07-21T10:24:18+00:00",
+        "pushed": "2025-07-21T10:24:13+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "tutorials",
+        "description": "OpenRISC Tutorials",
+        "owner": "openrisc",
+        "stars": 42,
+        "forks": 21,
+        "size": 1167,
+        "created": "2016-03-13T19:19:08+00:00",
+        "updated": "2025-07-21T09:48:58+00:00",
+        "pushed": "2025-07-21T09:48:54+00:00",
+        "url": "https://github.com/openrisc/tutorials",
+        "id": 53802956
+    },
+    {
+        "repo": "litex_wr_nic",
+        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
+        "owner": "enjoy-digital",
+        "stars": 12,
+        "forks": 6,
+        "size": 10225,
+        "created": "2024-03-27T08:02:37+00:00",
+        "updated": "2025-07-21T10:44:05+00:00",
+        "pushed": "2025-07-21T10:44:01+00:00",
+        "url": "https://github.com/enjoy-digital/litex_wr_nic",
+        "id": 778169492
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 4,
+        "forks": 0,
+        "size": 14757,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-07-22T06:04:16+00:00",
+        "pushed": "2025-07-22T06:04:12+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "openCologne",
+        "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
+        "owner": "chili-chips-ba",
+        "stars": 66,
+        "forks": 7,
+        "size": 306929,
+        "created": "2024-05-09T07:23:51+00:00",
+        "updated": "2025-07-21T22:58:04+00:00",
+        "pushed": "2025-07-21T22:58:00+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne",
+        "id": 798146281
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1287,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-07-22T05:31:20+00:00",
+        "pushed": "2025-07-22T05:31:17+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "pythondata-cpu-coreblocks",
+        "description": "Python module containing sources files for Coreblocks cpu (for use with LiteX). ",
+        "owner": "kuznia-rdzeni",
+        "stars": 1,
+        "forks": 0,
+        "size": 10,
+        "created": "2023-04-22T12:19:25+00:00",
+        "updated": "2025-07-21T17:09:39+00:00",
+        "pushed": "2025-07-21T17:09:07+00:00",
+        "url": "https://github.com/kuznia-rdzeni/pythondata-cpu-coreblocks",
+        "id": 631249176
+    },
+    {
+        "repo": "litex-gowin.sif",
+        "description": "Sif container for litex/gowin eda tools",
+        "owner": "pachiras",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2025-07-21T13:58:29+00:00",
+        "updated": "2025-07-21T13:59:11+00:00",
+        "pushed": "2025-07-21T14:07:07+00:00",
+        "url": "https://github.com/pachiras/litex-gowin.sif",
+        "id": 1023664560
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 29,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-07-21T08:06:56+00:00",
+        "pushed": "2025-07-22T00:18:36+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2172,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-07-22T04:44:18+00:00",
+        "pushed": "2025-07-22T04:44:15+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 108795,
+        "size": 109342,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-07-21T03:42:05+00:00",
-        "pushed": "2025-07-21T03:42:01+00:00",
+        "updated": "2025-07-22T03:40:12+00:00",
+        "pushed": "2025-07-22T03:40:08+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
