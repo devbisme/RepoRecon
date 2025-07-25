@@ -13988,19 +13988,6 @@
         "id": 975070471
     },
     {
-        "repo": "lakritz",
-        "description": "Lakritz Computer",
-        "owner": "machdyne",
-        "stars": 0,
-        "forks": 0,
-        "size": 3442,
-        "created": "2024-06-17T08:13:42+00:00",
-        "updated": "2025-04-30T06:07:46+00:00",
-        "pushed": "2025-04-30T06:07:41+00:00",
-        "url": "https://github.com/machdyne/lakritz",
-        "id": 816189694
-    },
-    {
         "repo": "LiText_text_saver",
         "description": null,
         "owner": "medin-misha",
@@ -15561,19 +15548,6 @@
         "id": 293705373
     },
     {
-        "repo": "LimeSDR_GW",
-        "description": "LiteX-based gateware for LimeSDR boards.",
-        "owner": "myriadrf",
-        "stars": 14,
-        "forks": 7,
-        "size": 61135,
-        "created": "2024-04-16T13:14:16+00:00",
-        "updated": "2025-07-17T07:14:56+00:00",
-        "pushed": "2025-07-17T07:14:53+00:00",
-        "url": "https://github.com/myriadrf/LimeSDR_GW",
-        "id": 787406556
-    },
-    {
         "repo": "MoonGrt",
         "description": null,
         "owner": "MoonGrt",
@@ -15743,19 +15717,6 @@
         "id": 473564418
     },
     {
-        "repo": "ork.build",
-        "description": null,
-        "owner": "tweakoz",
-        "stars": 4,
-        "forks": 3,
-        "size": 1358,
-        "created": "2022-04-20T04:38:48+00:00",
-        "updated": "2025-07-21T00:25:25+00:00",
-        "pushed": "2025-07-21T00:25:22+00:00",
-        "url": "https://github.com/tweakoz/ork.build",
-        "id": 483508371
-    },
-    {
         "repo": "VintageBusFPGA_Common",
         "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
         "owner": "MelkhiorVintageComputing",
@@ -15886,19 +15847,6 @@
         "id": 77744499
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3421,
-        "forks": 636,
-        "size": 17774,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-07-23T23:06:53+00:00",
-        "pushed": "2025-07-23T14:52:41+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -15910,19 +15858,6 @@
         "pushed": "2025-07-23T15:09:32+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1114,
-        "forks": 94,
-        "size": 1294,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-07-23T18:00:13+00:00",
-        "pushed": "2025-07-24T02:55:11+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litex_m2sdr",
@@ -15964,45 +15899,6 @@
         "id": 827054090
     },
     {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 4,
-        "forks": 0,
-        "size": 14779,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-07-23T14:50:25+00:00",
-        "pushed": "2025-07-23T14:50:21+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
-    },
-    {
-        "repo": "openPCIE",
-        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
-        "owner": "chili-chips-ba",
-        "stars": 13,
-        "forks": 1,
-        "size": 100357,
-        "created": "2025-01-28T04:49:53+00:00",
-        "updated": "2025-07-23T07:28:49+00:00",
-        "pushed": "2025-07-23T07:28:45+00:00",
-        "url": "https://github.com/chili-chips-ba/openPCIE",
-        "id": 923355946
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1298,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-07-24T05:32:16+00:00",
-        "pushed": "2025-07-24T05:32:12+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "offnariscv",
         "description": null,
         "owner": "offnaria",
@@ -16016,6 +15912,110 @@
         "id": 973646184
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3423,
+        "forks": 636,
+        "size": 17805,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-07-24T14:20:23+00:00",
+        "pushed": "2025-07-24T08:05:58+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1116,
+        "forks": 94,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-07-24T14:20:47+00:00",
+        "pushed": "2025-07-25T02:58:58+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LimeSDR_GW",
+        "description": "LiteX-based gateware for LimeSDR boards.",
+        "owner": "myriadrf",
+        "stars": 15,
+        "forks": 7,
+        "size": 61647,
+        "created": "2024-04-16T13:14:16+00:00",
+        "updated": "2025-07-24T10:57:51+00:00",
+        "pushed": "2025-07-24T10:57:47+00:00",
+        "url": "https://github.com/myriadrf/LimeSDR_GW",
+        "id": 787406556
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 4,
+        "forks": 0,
+        "size": 14785,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-07-24T12:09:22+00:00",
+        "pushed": "2025-07-24T12:09:18+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "ork.build",
+        "description": null,
+        "owner": "tweakoz",
+        "stars": 4,
+        "forks": 3,
+        "size": 1361,
+        "created": "2022-04-20T04:38:48+00:00",
+        "updated": "2025-07-24T22:31:32+00:00",
+        "pushed": "2025-07-24T22:31:39+00:00",
+        "url": "https://github.com/tweakoz/ork.build",
+        "id": 483508371
+    },
+    {
+        "repo": "openPCIE",
+        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
+        "owner": "chili-chips-ba",
+        "stars": 13,
+        "forks": 1,
+        "size": 102726,
+        "created": "2025-01-28T04:49:53+00:00",
+        "updated": "2025-07-24T10:43:14+00:00",
+        "pushed": "2025-07-24T10:43:09+00:00",
+        "url": "https://github.com/chili-chips-ba/openPCIE",
+        "id": 923355946
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1305,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-07-25T05:33:28+00:00",
+        "pushed": "2025-07-25T05:33:24+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "lakritz",
+        "description": "Lakritz Computer",
+        "owner": "machdyne",
+        "stars": 0,
+        "forks": 0,
+        "size": 3905,
+        "created": "2024-06-17T08:13:42+00:00",
+        "updated": "2025-07-24T07:35:09+00:00",
+        "pushed": "2025-07-24T07:35:05+00:00",
+        "url": "https://github.com/machdyne/lakritz",
+        "id": 816189694
+    },
+    {
         "repo": "nuttx-star64",
         "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
         "owner": "lupyuen",
@@ -16024,7 +16024,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-07-21T08:06:56+00:00",
-        "pushed": "2025-07-24T00:19:25+00:00",
+        "pushed": "2025-07-25T00:18:54+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -16034,10 +16034,10 @@
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 2270,
+        "size": 2272,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-07-24T04:45:07+00:00",
-        "pushed": "2025-07-24T04:45:04+00:00",
+        "updated": "2025-07-25T04:45:04+00:00",
+        "pushed": "2025-07-25T04:45:00+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16047,10 +16047,10 @@
         "owner": "RaahulLSR",
         "stars": 0,
         "forks": 0,
-        "size": 20,
+        "size": 328,
         "created": "2025-07-23T18:30:49+00:00",
-        "updated": "2025-07-23T20:56:54+00:00",
-        "pushed": "2025-07-23T20:56:51+00:00",
+        "updated": "2025-07-24T11:48:43+00:00",
+        "pushed": "2025-07-24T11:48:40+00:00",
         "url": "https://github.com/RaahulLSR/Implementation-of-VexiiRiscv",
         "id": 1025109922
     },
@@ -16060,10 +16060,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 110431,
+        "size": 110989,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-07-24T03:40:16+00:00",
-        "pushed": "2025-07-24T03:40:12+00:00",
+        "updated": "2025-07-25T03:40:27+00:00",
+        "pushed": "2025-07-25T03:40:23+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
