@@ -45526,19 +45526,6 @@
         "id": 1027602084
     },
     {
-        "repo": "maix",
-        "description": null,
-        "owner": "ansari-project",
-        "stars": 0,
-        "forks": 0,
-        "size": 2556,
-        "created": "2025-07-16T18:48:04+00:00",
-        "updated": "2025-07-29T06:17:16+00:00",
-        "pushed": "2025-07-29T06:17:13+00:00",
-        "url": "https://github.com/ansari-project/maix",
-        "id": 1021020520
-    },
-    {
         "repo": "k230-YOLOv12",
         "description": "\u4f7f\u7528yolov12\u8bad\u7ec3\u6a21\u578b\u5e76\u90e8\u7f72\u5230\u5e90\u5c71\u6d3e",
         "owner": "wenxing-Lin",
@@ -45721,19 +45708,6 @@
         "id": 793843389
     },
     {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 255,
-        "forks": 48,
-        "size": 204505,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-07-28T14:29:49+00:00",
-        "pushed": "2025-07-30T15:17:44+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
         "repo": "K230-Vision-Module",
         "description": "Yahboom K230 vision module",
         "owner": "YahboomTechnology",
@@ -45810,19 +45784,6 @@
         "pushed": "2025-07-30T08:22:26+00:00",
         "url": "https://github.com/FabPrez/maixsense_a010_ros2",
         "id": 1000350020
-    },
-    {
-        "repo": "roboquest",
-        "description": "Tech Dome Penang's development team for the 2025 Roboquest competion.",
-        "owner": "chong-yao",
-        "stars": 0,
-        "forks": 1,
-        "size": 236753,
-        "created": "2025-06-13T09:17:22+00:00",
-        "updated": "2025-07-30T06:44:06+00:00",
-        "pushed": "2025-07-30T06:44:03+00:00",
-        "url": "https://github.com/chong-yao/roboquest",
-        "id": 1001375389
     },
     {
         "repo": "nncase",
@@ -46085,32 +46046,6 @@
         "id": 886806345
     },
     {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1636,
-        "forks": 354,
-        "size": 86403,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-08-01T13:38:48+00:00",
-        "pushed": "2025-08-01T13:38:43+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 250,
-        "forks": 203,
-        "size": 249,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-08-02T05:43:50+00:00",
-        "pushed": "2025-08-02T05:49:48+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "opencv_zoo",
         "description": "Model Zoo For OpenCV DNN and Benchmarks.",
         "owner": "opencv",
@@ -46122,19 +46057,6 @@
         "pushed": "2025-08-01T07:19:16+00:00",
         "url": "https://github.com/opencv/opencv_zoo",
         "id": 390637491
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11323,
-        "forks": 5230,
-        "size": 914289,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-08-01T12:59:19+00:00",
-        "pushed": "2025-08-01T12:59:09+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "mpp",
@@ -46228,15 +46150,119 @@
         "id": 1027295685
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 254,
+        "forks": 48,
+        "size": 204077,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-08-02T17:35:02+00:00",
+        "pushed": "2025-08-01T20:03:43+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1638,
+        "forks": 354,
+        "size": 86457,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-08-03T00:28:10+00:00",
+        "pushed": "2025-08-02T13:09:43+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 250,
+        "forks": 204,
+        "size": 271,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-08-02T23:53:51+00:00",
+        "pushed": "2025-08-03T00:40:51+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11324,
+        "forks": 5228,
+        "size": 914295,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-08-03T03:23:15+00:00",
+        "pushed": "2025-08-03T02:53:26+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "maix",
+        "description": null,
+        "owner": "ansari-project",
+        "stars": 0,
+        "forks": 0,
+        "size": 3513,
+        "created": "2025-07-16T18:48:04+00:00",
+        "updated": "2025-08-03T06:17:55+00:00",
+        "pushed": "2025-08-03T06:17:52+00:00",
+        "url": "https://github.com/ansari-project/maix",
+        "id": 1021020520
+    },
+    {
+        "repo": "TI_Car_Demo",
+        "description": null,
+        "owner": "gugugu531",
+        "stars": 0,
+        "forks": 0,
+        "size": 1349,
+        "created": "2025-07-30T23:48:47+00:00",
+        "updated": "2025-08-02T08:09:59+00:00",
+        "pushed": "2025-08-01T04:01:54+00:00",
+        "url": "https://github.com/gugugu531/TI_Car_Demo",
+        "id": 1029360956
+    },
+    {
+        "repo": "roboquest",
+        "description": "Tech Dome Penang's development team for the 2025 Roboquest competion.",
+        "owner": "chong-yao",
+        "stars": 0,
+        "forks": 1,
+        "size": 237957,
+        "created": "2025-06-13T09:17:22+00:00",
+        "updated": "2025-08-03T02:54:30+00:00",
+        "pushed": "2025-08-03T02:54:27+00:00",
+        "url": "https://github.com/chong-yao/roboquest",
+        "id": 1001375389
+    },
+    {
+        "repo": "25diansaiE",
+        "description": "25\u7535\u8d5bE\u9898\u76eeK230\u89c6\u89c9\u65b9\u6848\u5f00\u6e90",
+        "owner": "hccc1203",
+        "stars": 1,
+        "forks": 0,
+        "size": 15216,
+        "created": "2025-08-02T20:42:39+00:00",
+        "updated": "2025-08-02T23:13:45+00:00",
+        "pushed": "2025-08-02T23:13:41+00:00",
+        "url": "https://github.com/hccc1203/25diansaiE",
+        "id": 1031020457
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 38,
-        "size": 1045690,
+        "size": 1059085,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-08-01T12:42:00+00:00",
-        "pushed": "2025-08-01T12:41:56+00:00",
+        "updated": "2025-08-02T12:37:25+00:00",
+        "pushed": "2025-08-02T12:37:22+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -46246,10 +46272,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 115367,
+        "size": 115911,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-02T03:38:54+00:00",
-        "pushed": "2025-08-02T03:38:51+00:00",
+        "updated": "2025-08-03T03:44:56+00:00",
+        "pushed": "2025-08-03T03:44:53+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
