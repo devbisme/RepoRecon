@@ -45357,19 +45357,6 @@
         "id": 1027498083
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 15,
-        "forks": 4,
-        "size": 5201,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-07-27T13:53:26+00:00",
-        "pushed": "2025-07-27T13:53:22+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "maixp089",
         "description": null,
         "owner": "maixp089",
@@ -45929,19 +45916,6 @@
         "id": 745771617
     },
     {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 59,
-        "forks": 11,
-        "size": 32018,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2025-08-01T03:07:31+00:00",
-        "pushed": "2025-08-01T03:07:27+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
-    },
-    {
         "repo": "k230_canmv_docs",
         "description": "k230_canmv_docs",
         "owner": "kendryte",
@@ -45981,19 +45955,6 @@
         "id": 998733774
     },
     {
-        "repo": "u-boot",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 4,
-        "size": 30943,
-        "created": "2024-07-05T10:26:38+00:00",
-        "updated": "2025-08-01T02:30:11+00:00",
-        "pushed": "2025-08-01T02:30:07+00:00",
-        "url": "https://github.com/canmv-k230/u-boot",
-        "id": 824530800
-    },
-    {
         "repo": "maixcam",
         "description": "maixcam\u7684\u4ee3\u7801\u4f18\u5316\u65b9\u6848",
         "owner": "superiwan",
@@ -46018,32 +45979,6 @@
         "pushed": "2025-08-01T01:42:04+00:00",
         "url": "https://github.com/TDYSN/-",
         "id": 1030033407
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 9,
-        "forks": 2,
-        "size": 2475,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-08-01T02:58:54+00:00",
-        "pushed": "2025-08-01T02:58:51+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
-        "repo": "kendryte-hal",
-        "description": "Rust Hardware Abstract Layer (HAL) for Kendryte SoCs",
-        "owner": "rustsbi",
-        "stars": 3,
-        "forks": 3,
-        "size": 415,
-        "created": "2024-11-11T16:31:19+00:00",
-        "updated": "2025-08-01T15:42:34+00:00",
-        "pushed": "2025-08-01T15:42:30+00:00",
-        "url": "https://github.com/rustsbi/kendryte-hal",
-        "id": 886806345
     },
     {
         "repo": "opencv_zoo",
@@ -46189,32 +46124,6 @@
         "id": 360045993
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11324,
-        "forks": 5228,
-        "size": 914295,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-08-03T03:23:15+00:00",
-        "pushed": "2025-08-03T02:53:26+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "maix",
-        "description": null,
-        "owner": "ansari-project",
-        "stars": 0,
-        "forks": 0,
-        "size": 3513,
-        "created": "2025-07-16T18:48:04+00:00",
-        "updated": "2025-08-03T06:17:55+00:00",
-        "pushed": "2025-08-03T06:17:52+00:00",
-        "url": "https://github.com/ansari-project/maix",
-        "id": 1021020520
-    },
-    {
         "repo": "TI_Car_Demo",
         "description": null,
         "owner": "gugugu531",
@@ -46241,17 +46150,121 @@
         "id": 1001375389
     },
     {
+        "repo": "kendryte-hal",
+        "description": "Rust Hardware Abstract Layer (HAL) for Kendryte SoCs",
+        "owner": "rustsbi",
+        "stars": 3,
+        "forks": 3,
+        "size": 432,
+        "created": "2024-11-11T16:31:19+00:00",
+        "updated": "2025-08-03T13:14:02+00:00",
+        "pushed": "2025-08-03T13:13:58+00:00",
+        "url": "https://github.com/rustsbi/kendryte-hal",
+        "id": 886806345
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 60,
+        "forks": 11,
+        "size": 32043,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2025-08-04T02:11:21+00:00",
+        "pushed": "2025-08-04T02:11:18+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11327,
+        "forks": 5230,
+        "size": 914342,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-08-04T01:55:06+00:00",
+        "pushed": "2025-08-04T01:55:01+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "u-boot",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 4,
+        "size": 30943,
+        "created": "2024-07-05T10:26:38+00:00",
+        "updated": "2025-08-01T02:30:11+00:00",
+        "pushed": "2025-08-04T06:13:46+00:00",
+        "url": "https://github.com/canmv-k230/u-boot",
+        "id": 824530800
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 15,
+        "forks": 4,
+        "size": 5207,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-08-03T21:03:15+00:00",
+        "pushed": "2025-08-03T21:03:13+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "maix",
+        "description": null,
+        "owner": "ansari-project",
+        "stars": 0,
+        "forks": 0,
+        "size": 6079,
+        "created": "2025-07-16T18:48:04+00:00",
+        "updated": "2025-08-04T06:00:14+00:00",
+        "pushed": "2025-08-04T06:00:11+00:00",
+        "url": "https://github.com/ansari-project/maix",
+        "id": 1021020520
+    },
+    {
+        "repo": "MyK230",
+        "description": "01\u79d1\u6280K230\u7684\u4e00\u4e9b\u4ee3\u7801",
+        "owner": "TungYL-v2",
+        "stars": 0,
+        "forks": 0,
+        "size": 279940,
+        "created": "2025-07-31T05:54:46+00:00",
+        "updated": "2025-08-04T04:29:33+00:00",
+        "pushed": "2025-08-04T04:08:44+00:00",
+        "url": "https://github.com/TungYL-v2/MyK230",
+        "id": 1029485078
+    },
+    {
         "repo": "25diansaiE",
         "description": "25\u7535\u8d5bE\u9898\u76eeK230\u89c6\u89c9\u65b9\u6848\u5f00\u6e90",
         "owner": "hccc1203",
         "stars": 1,
         "forks": 0,
-        "size": 15216,
+        "size": 15223,
         "created": "2025-08-02T20:42:39+00:00",
-        "updated": "2025-08-02T23:13:45+00:00",
-        "pushed": "2025-08-02T23:13:41+00:00",
+        "updated": "2025-08-04T04:33:45+00:00",
+        "pushed": "2025-08-04T04:33:42+00:00",
         "url": "https://github.com/hccc1203/25diansaiE",
         "id": 1031020457
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 9,
+        "forks": 2,
+        "size": 2684,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-08-04T02:58:15+00:00",
+        "pushed": "2025-08-04T02:58:11+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
     },
     {
         "repo": "certified-android-devices",
@@ -46259,10 +46272,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 38,
-        "size": 1059085,
+        "size": 1059086,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-08-02T12:37:25+00:00",
-        "pushed": "2025-08-02T12:37:22+00:00",
+        "updated": "2025-08-03T12:39:00+00:00",
+        "pushed": "2025-08-03T12:38:57+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -46272,10 +46285,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 115911,
+        "size": 116470,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-03T03:44:56+00:00",
-        "pushed": "2025-08-03T03:44:53+00:00",
+        "updated": "2025-08-04T03:48:32+00:00",
+        "pushed": "2025-08-04T03:48:28+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
