@@ -15873,19 +15873,6 @@
         "id": 1000296529
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 29,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-07-21T08:06:56+00:00",
-        "pushed": "2025-08-01T00:21:08+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
@@ -15897,19 +15884,6 @@
         "pushed": "2025-08-01T01:00:05+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3430,
-        "forks": 637,
-        "size": 17841,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-08-02T04:06:07+00:00",
-        "pushed": "2025-08-01T17:01:25+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "litex_wr_nic",
@@ -15938,19 +15912,6 @@
         "id": 468027705
     },
     {
-        "repo": "appkit",
-        "description": "Android app boilerplate + image loader",
-        "owner": "grishka",
-        "stars": 58,
-        "forks": 18,
-        "size": 264,
-        "created": "2019-12-03T14:40:58+00:00",
-        "updated": "2025-08-01T16:27:02+00:00",
-        "pushed": "2025-08-01T16:26:58+00:00",
-        "url": "https://github.com/grishka/appkit",
-        "id": 225642630
-    },
-    {
         "repo": "ork.build",
         "description": null,
         "owner": "tweakoz",
@@ -15962,19 +15923,6 @@
         "pushed": "2025-08-01T20:54:58+00:00",
         "url": "https://github.com/tweakoz/ork.build",
         "id": 483508371
-    },
-    {
-        "repo": "homebrew-tap",
-        "description": "Litex homebrew tap config",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 5,
-        "created": "2025-07-29T07:26:15+00:00",
-        "updated": "2025-08-01T06:59:26+00:00",
-        "pushed": "2025-08-01T06:59:22+00:00",
-        "url": "https://github.com/litexlang/homebrew-tap",
-        "id": 1028207026
     },
     {
         "repo": "awesome-stars",
@@ -16003,19 +15951,6 @@
         "id": 1018929924
     },
     {
-        "repo": "ai-hardware-codesign-playground",
-        "description": "Interactive environment for co-optimizing neural networks and hardware accelerators. Design custom AI chips alongside the models that run on them, using open-source synthesis tools and performance simulators.",
-        "owner": "danieleschmidt",
-        "stars": 1,
-        "forks": 0,
-        "size": 381,
-        "created": "2025-07-27T17:46:57+00:00",
-        "updated": "2025-08-02T23:09:21+00:00",
-        "pushed": "2025-08-02T23:09:17+00:00",
-        "url": "https://github.com/danieleschmidt/ai-hardware-codesign-playground",
-        "id": 1027285181
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "liuzhenqi77",
@@ -16040,19 +15975,6 @@
         "pushed": "2025-08-04T02:16:19+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1121,
-        "forks": 93,
-        "size": 1295,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-08-02T12:26:02+00:00",
-        "pushed": "2025-08-04T03:19:15+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "golitex",
@@ -16081,15 +16003,54 @@
         "id": 274442284
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3434,
+        "forks": 637,
+        "size": 17842,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-08-05T00:47:40+00:00",
+        "pushed": "2025-08-04T11:54:02+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1122,
+        "forks": 94,
+        "size": 1282,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-08-04T21:24:28+00:00",
+        "pushed": "2025-08-05T03:10:33+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "appkit",
+        "description": "Android app boilerplate + image loader",
+        "owner": "grishka",
+        "stars": 58,
+        "forks": 18,
+        "size": 273,
+        "created": "2019-12-03T14:40:58+00:00",
+        "updated": "2025-08-04T13:42:39+00:00",
+        "pushed": "2025-08-04T13:42:36+00:00",
+        "url": "https://github.com/grishka/appkit",
+        "id": 225642630
+    },
+    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
         "stars": 66,
         "forks": 7,
-        "size": 310009,
+        "size": 310010,
         "created": "2024-05-09T07:23:51+00:00",
         "updated": "2025-08-03T14:17:08+00:00",
-        "pushed": "2025-08-03T14:17:04+00:00",
+        "pushed": "2025-08-04T07:20:35+00:00",
         "url": "https://github.com/chili-chips-ba/openCologne",
         "id": 798146281
     },
@@ -16101,10 +16062,23 @@
         "forks": 0,
         "size": 1355,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-08-04T05:41:06+00:00",
-        "pushed": "2025-08-04T05:41:03+00:00",
+        "updated": "2025-08-05T05:36:04+00:00",
+        "pushed": "2025-08-05T05:36:01+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
+    },
+    {
+        "repo": "homebrew-tap",
+        "description": "Litex homebrew tap config",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 6,
+        "created": "2025-07-29T07:26:15+00:00",
+        "updated": "2025-08-04T06:19:33+00:00",
+        "pushed": "2025-08-04T06:19:30+00:00",
+        "url": "https://github.com/litexlang/homebrew-tap",
+        "id": 1028207026
     },
     {
         "repo": "litex-tutorial",
@@ -16112,12 +16086,38 @@
         "owner": "litexlang",
         "stars": 1,
         "forks": 0,
-        "size": 33,
+        "size": 62,
         "created": "2025-07-31T07:05:40+00:00",
-        "updated": "2025-08-04T05:46:43+00:00",
-        "pushed": "2025-08-04T05:46:40+00:00",
+        "updated": "2025-08-05T06:06:11+00:00",
+        "pushed": "2025-08-05T06:06:08+00:00",
         "url": "https://github.com/litexlang/litex-tutorial",
         "id": 1029520299
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 31,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-08-04T22:50:58+00:00",
+        "pushed": "2025-08-05T00:18:34+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "ai-hardware-codesign-playground",
+        "description": "Interactive environment for co-optimizing neural networks and hardware accelerators. Design custom AI chips alongside the models that run on them, using open-source synthesis tools and performance simulators.",
+        "owner": "danieleschmidt",
+        "stars": 1,
+        "forks": 0,
+        "size": 528,
+        "created": "2025-07-27T17:46:57+00:00",
+        "updated": "2025-08-04T21:37:51+00:00",
+        "pushed": "2025-08-04T21:37:41+00:00",
+        "url": "https://github.com/danieleschmidt/ai-hardware-codesign-playground",
+        "id": 1027285181
     },
     {
         "repo": "starred",
@@ -16125,10 +16125,10 @@
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 2529,
+        "size": 2530,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-08-04T04:47:57+00:00",
-        "pushed": "2025-08-04T04:47:54+00:00",
+        "updated": "2025-08-05T04:46:34+00:00",
+        "pushed": "2025-08-05T04:46:31+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16138,10 +16138,10 @@
         "owner": "jaalonso",
         "stars": 80,
         "forks": 8,
-        "size": 15462,
+        "size": 15958,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-08-03T07:13:05+00:00",
-        "pushed": "2025-08-03T07:13:01+00:00",
+        "updated": "2025-08-04T07:09:06+00:00",
+        "pushed": "2025-08-04T07:09:02+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
     },
@@ -16151,10 +16151,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 116470,
+        "size": 116682,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-04T03:48:32+00:00",
-        "pushed": "2025-08-04T03:48:28+00:00",
+        "updated": "2025-08-05T03:43:10+00:00",
+        "pushed": "2025-08-05T03:43:06+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
