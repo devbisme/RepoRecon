@@ -15483,19 +15483,6 @@
         "id": 1002834025
     },
     {
-        "repo": "vivado_acorn",
-        "description": "An example repo showing how to get started with the Lite/NiteFury and Sqrl Acorn 101/215(+) FPGAs",
-        "owner": "sifferman",
-        "stars": 5,
-        "forks": 0,
-        "size": 30,
-        "created": "2025-06-16T00:09:48+00:00",
-        "updated": "2025-07-19T17:39:49+00:00",
-        "pushed": "2025-07-19T17:39:46+00:00",
-        "url": "https://github.com/sifferman/vivado_acorn",
-        "id": 1002666441
-    },
-    {
         "repo": "litexlpplug",
         "description": "my Lite-xl Personal Plugin",
         "owner": "tucob97",
@@ -15860,19 +15847,6 @@
         "id": 923355946
     },
     {
-        "repo": "psoc-neorv32",
-        "description": "NEORV32 fork for the KIT PSoC lab",
-        "owner": "kit-kch",
-        "stars": 0,
-        "forks": 0,
-        "size": 234823,
-        "created": "2025-06-11T14:59:22+00:00",
-        "updated": "2025-07-31T10:53:41+00:00",
-        "pushed": "2025-07-31T10:53:37+00:00",
-        "url": "https://github.com/kit-kch/psoc-neorv32",
-        "id": 1000296529
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
@@ -16016,19 +15990,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1122,
-        "forks": 94,
-        "size": 1282,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-08-04T21:24:28+00:00",
-        "pushed": "2025-08-05T03:10:33+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "appkit",
         "description": "Android app boilerplate + image loader",
         "owner": "grishka",
@@ -16055,19 +16016,6 @@
         "id": 798146281
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1355,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-08-05T05:36:04+00:00",
-        "pushed": "2025-08-05T05:36:01+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "homebrew-tap",
         "description": "Litex homebrew tap config",
         "owner": "litexlang",
@@ -16081,17 +16029,69 @@
         "id": 1028207026
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1123,
+        "forks": 94,
+        "size": 1282,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-08-05T08:11:43+00:00",
+        "pushed": "2025-08-06T03:09:08+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "vivado_acorn",
+        "description": "An example repo showing how to get started with the Lite/NiteFury and Sqrl Acorn 101/215(+) FPGAs",
+        "owner": "sifferman",
+        "stars": 6,
+        "forks": 0,
+        "size": 33,
+        "created": "2025-06-16T00:09:48+00:00",
+        "updated": "2025-08-06T00:09:41+00:00",
+        "pushed": "2025-08-06T00:09:39+00:00",
+        "url": "https://github.com/sifferman/vivado_acorn",
+        "id": 1002666441
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1361,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-08-06T05:36:58+00:00",
+        "pushed": "2025-08-06T05:36:55+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
         "repo": "litex-tutorial",
         "description": null,
         "owner": "litexlang",
         "stars": 1,
         "forks": 0,
-        "size": 62,
+        "size": 74,
         "created": "2025-07-31T07:05:40+00:00",
-        "updated": "2025-08-05T06:06:11+00:00",
-        "pushed": "2025-08-05T06:06:08+00:00",
+        "updated": "2025-08-06T05:48:12+00:00",
+        "pushed": "2025-08-06T05:48:10+00:00",
         "url": "https://github.com/litexlang/litex-tutorial",
         "id": 1029520299
+    },
+    {
+        "repo": "psoc-neorv32",
+        "description": "NEORV32 fork for the KIT PSoC lab",
+        "owner": "kit-kch",
+        "stars": 0,
+        "forks": 0,
+        "size": 234824,
+        "created": "2025-06-11T14:59:22+00:00",
+        "updated": "2025-08-05T14:12:29+00:00",
+        "pushed": "2025-08-05T14:12:24+00:00",
+        "url": "https://github.com/kit-kch/psoc-neorv32",
+        "id": 1000296529
     },
     {
         "repo": "nuttx-star64",
@@ -16102,7 +16102,7 @@
         "size": 2495,
         "created": "2023-06-26T07:33:05+00:00",
         "updated": "2025-08-04T22:50:58+00:00",
-        "pushed": "2025-08-05T00:18:34+00:00",
+        "pushed": "2025-08-06T00:19:13+00:00",
         "url": "https://github.com/lupyuen/nuttx-star64",
         "id": 658631896
     },
@@ -16112,10 +16112,10 @@
         "owner": "danieleschmidt",
         "stars": 1,
         "forks": 0,
-        "size": 528,
+        "size": 516,
         "created": "2025-07-27T17:46:57+00:00",
-        "updated": "2025-08-04T21:37:51+00:00",
-        "pushed": "2025-08-04T21:37:41+00:00",
+        "updated": "2025-08-05T17:15:38+00:00",
+        "pushed": "2025-08-05T17:15:35+00:00",
         "url": "https://github.com/danieleschmidt/ai-hardware-codesign-playground",
         "id": 1027285181
     },
@@ -16125,10 +16125,10 @@
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 2530,
+        "size": 2531,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-08-05T04:46:34+00:00",
-        "pushed": "2025-08-05T04:46:31+00:00",
+        "updated": "2025-08-06T04:45:42+00:00",
+        "pushed": "2025-08-06T04:45:39+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16138,10 +16138,10 @@
         "owner": "jaalonso",
         "stars": 80,
         "forks": 8,
-        "size": 15958,
+        "size": 3582,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-08-04T07:09:06+00:00",
-        "pushed": "2025-08-04T07:09:02+00:00",
+        "updated": "2025-08-05T06:35:20+00:00",
+        "pushed": "2025-08-05T06:35:16+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
     },
@@ -16151,10 +16151,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 116682,
+        "size": 117241,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-05T03:43:10+00:00",
-        "pushed": "2025-08-05T03:43:06+00:00",
+        "updated": "2025-08-06T03:42:01+00:00",
+        "pushed": "2025-08-06T03:41:57+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
