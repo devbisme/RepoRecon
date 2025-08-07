@@ -15145,19 +15145,6 @@
         "id": 413357087
     },
     {
-        "repo": "zephyr-vexriscv",
-        "description": "\u2699\ufe0f RISC-V softcore SoC with UART, timer, GPIO and SDCard support \u2014 ready for real-time apps on low-cost FPGAs.",
-        "owner": "DitsoLabs",
-        "stars": 1,
-        "forks": 0,
-        "size": 95,
-        "created": "2025-07-04T04:35:01+00:00",
-        "updated": "2025-07-07T03:05:28+00:00",
-        "pushed": "2025-07-07T03:05:25+00:00",
-        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
-        "id": 1013540439
-    },
-    {
         "repo": "litexplorer-105405-5f69c0c6",
         "description": null,
         "owner": "Workflow-Manager-admin",
@@ -15444,19 +15431,6 @@
         "id": 807856638
     },
     {
-        "repo": "LiteXpansion-Syadd",
-        "description": null,
-        "owner": "Syaaddd",
-        "stars": 0,
-        "forks": 0,
-        "size": 645,
-        "created": "2025-07-19T01:49:52+00:00",
-        "updated": "2025-07-19T02:14:13+00:00",
-        "pushed": "2025-07-19T02:14:09+00:00",
-        "url": "https://github.com/Syaaddd/LiteXpansion-Syadd",
-        "id": 1022395519
-    },
-    {
         "repo": "LitExplorerAPI",
         "description": "REST API app for LitExplorer platform",
         "owner": "DenisVerDev",
@@ -15678,19 +15652,6 @@
         "id": 169072211
     },
     {
-        "repo": "pythondata-cpu-rocket",
-        "description": null,
-        "owner": "MiyuruThathsara",
-        "stars": 0,
-        "forks": 0,
-        "size": 135020,
-        "created": "2025-07-28T03:41:33+00:00",
-        "updated": "2025-07-28T03:52:05+00:00",
-        "pushed": "2025-07-28T03:49:10+00:00",
-        "url": "https://github.com/MiyuruThathsara/pythondata-cpu-rocket",
-        "id": 1027459420
-    },
-    {
         "repo": "tang-nano-20k--riscv--cache-sdram",
         "description": "RISC-V implementation of RV32I for FPGA board Tang Nano 20K utilizing on-board burst SDRAM, flash and SD card",
         "owner": "calint",
@@ -15702,19 +15663,6 @@
         "pushed": "2025-07-27T16:03:44+00:00",
         "url": "https://github.com/calint/tang-nano-20k--riscv--cache-sdram",
         "id": 908413312
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "utensil",
-        "stars": 21,
-        "forks": 8,
-        "size": 39634,
-        "created": "2019-02-21T12:56:56+00:00",
-        "updated": "2025-07-28T01:00:04+00:00",
-        "pushed": "2025-07-28T01:00:00+00:00",
-        "url": "https://github.com/utensil/awesome-stars",
-        "id": 171871908
     },
     {
         "repo": "wr_acorn",
@@ -15951,19 +15899,6 @@
         "id": 190029235
     },
     {
-        "repo": "golitex",
-        "description": "Litex: an intuitive and scalable formal language",
-        "owner": "litexlang",
-        "stars": 200,
-        "forks": 1,
-        "size": 25447,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-08-04T06:03:27+00:00",
-        "pushed": "2025-08-04T06:03:22+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -15975,19 +15910,6 @@
         "pushed": "2025-08-03T11:18:20+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3434,
-        "forks": 637,
-        "size": 17842,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-08-05T00:47:40+00:00",
-        "pushed": "2025-08-04T11:54:02+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "appkit",
@@ -16016,32 +15938,6 @@
         "id": 798146281
     },
     {
-        "repo": "homebrew-tap",
-        "description": "Litex homebrew tap config",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2025-07-29T07:26:15+00:00",
-        "updated": "2025-08-04T06:19:33+00:00",
-        "pushed": "2025-08-04T06:19:30+00:00",
-        "url": "https://github.com/litexlang/homebrew-tap",
-        "id": 1028207026
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1123,
-        "forks": 94,
-        "size": 1282,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-08-05T08:11:43+00:00",
-        "pushed": "2025-08-06T03:09:08+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "vivado_acorn",
         "description": "An example repo showing how to get started with the Lite/NiteFury and Sqrl Acorn 101/215(+) FPGAs",
         "owner": "sifferman",
@@ -16053,32 +15949,6 @@
         "pushed": "2025-08-06T00:09:39+00:00",
         "url": "https://github.com/sifferman/vivado_acorn",
         "id": 1002666441
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1361,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-08-06T05:36:58+00:00",
-        "pushed": "2025-08-06T05:36:55+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
-        "repo": "litex-tutorial",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 1,
-        "forks": 0,
-        "size": 74,
-        "created": "2025-07-31T07:05:40+00:00",
-        "updated": "2025-08-06T05:48:12+00:00",
-        "pushed": "2025-08-06T05:48:10+00:00",
-        "url": "https://github.com/litexlang/litex-tutorial",
-        "id": 1029520299
     },
     {
         "repo": "psoc-neorv32",
@@ -16094,19 +15964,6 @@
         "id": 1000296529
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 31,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-08-04T22:50:58+00:00",
-        "pushed": "2025-08-06T00:19:13+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "ai-hardware-codesign-playground",
         "description": "Interactive environment for co-optimizing neural networks and hardware accelerators. Design custom AI chips alongside the models that run on them, using open-source synthesis tools and performance simulators.",
         "owner": "danieleschmidt",
@@ -16120,15 +15977,158 @@
         "id": 1027285181
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3437,
+        "forks": 638,
+        "size": 17846,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-08-06T15:54:21+00:00",
+        "pushed": "2025-08-06T15:54:16+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1125,
+        "forks": 95,
+        "size": 1282,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-08-06T15:07:34+00:00",
+        "pushed": "2025-08-07T03:08:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: an intuitive and scalable formal language",
+        "owner": "litexlang",
+        "stars": 205,
+        "forks": 1,
+        "size": 28009,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-08-07T03:50:43+00:00",
+        "pushed": "2025-08-06T09:14:32+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "ulx5m-gs",
+        "description": "ULX5M with GateMate with SDRAM",
+        "owner": "intergalaktik",
+        "stars": 6,
+        "forks": 1,
+        "size": 38938,
+        "created": "2025-03-25T10:28:10+00:00",
+        "updated": "2025-08-06T13:28:36+00:00",
+        "pushed": "2025-08-06T13:28:33+00:00",
+        "url": "https://github.com/intergalaktik/ulx5m-gs",
+        "id": 954599093
+    },
+    {
+        "repo": "zephyr-vexriscv",
+        "description": "\u2699\ufe0f RISC-V softcore SoC with UART, timer, GPIO and SDCard support \u2014 ready for real-time apps on low-cost FPGAs.",
+        "owner": "DitsoLabs",
+        "stars": 1,
+        "forks": 0,
+        "size": 118,
+        "created": "2025-07-04T04:35:01+00:00",
+        "updated": "2025-08-06T16:43:20+00:00",
+        "pushed": "2025-08-06T16:43:16+00:00",
+        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
+        "id": 1013540439
+    },
+    {
+        "repo": "pythondata-cpu-rocket",
+        "description": null,
+        "owner": "MiyuruThathsara",
+        "stars": 0,
+        "forks": 0,
+        "size": 140679,
+        "created": "2025-07-28T03:41:33+00:00",
+        "updated": "2025-08-06T06:52:50+00:00",
+        "pushed": "2025-08-06T06:52:43+00:00",
+        "url": "https://github.com/MiyuruThathsara/pythondata-cpu-rocket",
+        "id": 1027459420
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1368,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-08-07T05:35:05+00:00",
+        "pushed": "2025-08-07T05:35:02+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "homebrew-tap",
+        "description": "Litex homebrew tap config",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2025-07-29T07:26:15+00:00",
+        "updated": "2025-08-06T09:16:18+00:00",
+        "pushed": "2025-08-06T09:16:15+00:00",
+        "url": "https://github.com/litexlang/homebrew-tap",
+        "id": 1028207026
+    },
+    {
+        "repo": "litex-tutorial",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 1,
+        "forks": 0,
+        "size": 96,
+        "created": "2025-07-31T07:05:40+00:00",
+        "updated": "2025-08-07T02:13:52+00:00",
+        "pushed": "2025-08-07T02:13:49+00:00",
+        "url": "https://github.com/litexlang/litex-tutorial",
+        "id": 1029520299
+    },
+    {
+        "repo": "LiteXpansion-Syadd",
+        "description": null,
+        "owner": "Syaaddd",
+        "stars": 0,
+        "forks": 0,
+        "size": 646,
+        "created": "2025-07-19T01:49:52+00:00",
+        "updated": "2025-08-07T05:09:27+00:00",
+        "pushed": "2025-08-07T05:09:23+00:00",
+        "url": "https://github.com/Syaaddd/LiteXpansion-Syadd",
+        "id": 1022395519
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 31,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-08-04T22:50:58+00:00",
+        "pushed": "2025-08-07T00:19:43+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 2531,
+        "size": 1778,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-08-06T04:45:42+00:00",
-        "pushed": "2025-08-06T04:45:39+00:00",
+        "updated": "2025-08-07T04:46:09+00:00",
+        "pushed": "2025-08-07T04:46:06+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16138,12 +16138,25 @@
         "owner": "jaalonso",
         "stars": 80,
         "forks": 8,
-        "size": 3582,
+        "size": 3583,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-08-05T06:35:20+00:00",
-        "pushed": "2025-08-05T06:35:16+00:00",
+        "updated": "2025-08-06T06:54:18+00:00",
+        "pushed": "2025-08-06T06:54:14+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "utensil",
+        "stars": 21,
+        "forks": 8,
+        "size": 40243,
+        "created": "2019-02-21T12:56:56+00:00",
+        "updated": "2025-08-07T00:55:02+00:00",
+        "pushed": "2025-08-07T00:54:58+00:00",
+        "url": "https://github.com/utensil/awesome-stars",
+        "id": 171871908
     },
     {
         "repo": "starList",
@@ -16151,10 +16164,10 @@
         "owner": "hiifong",
         "stars": 12,
         "forks": 4,
-        "size": 117241,
+        "size": 117777,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-06T03:42:01+00:00",
-        "pushed": "2025-08-06T03:41:57+00:00",
+        "updated": "2025-08-07T03:42:18+00:00",
+        "pushed": "2025-08-07T03:42:14+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
