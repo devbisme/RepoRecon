@@ -2119,19 +2119,6 @@
         "id": 1030627228
     },
     {
-        "repo": "circuitron",
-        "description": "Circuitron: Agentic PCB Design Accelerator \u2014 Generate, plan, and layout circuits from natural language prompts.",
-        "owner": "Shaurya-Sethi",
-        "stars": 23,
-        "forks": 4,
-        "size": 14726,
-        "created": "2025-06-12T09:33:10+00:00",
-        "updated": "2025-08-02T19:44:01+00:00",
-        "pushed": "2025-08-02T19:44:03+00:00",
-        "url": "https://github.com/Shaurya-Sethi/circuitron",
-        "id": 1000763953
-    },
-    {
         "repo": "keyboard-tools",
         "description": "Tools for mechanical keyboard design",
         "owner": "adamws",
@@ -2174,13 +2161,39 @@
         "repo": "skidl",
         "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
         "owner": "devbisme",
-        "stars": 1202,
+        "stars": 1203,
         "forks": 138,
-        "size": 58563,
+        "size": 58573,
         "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-08-08T02:34:55+00:00",
-        "pushed": "2025-08-07T22:43:24+00:00",
+        "updated": "2025-08-08T22:57:35+00:00",
+        "pushed": "2025-08-09T00:51:58+00:00",
         "url": "https://github.com/devbisme/skidl",
         "id": 65847289
+    },
+    {
+        "repo": "circuitron",
+        "description": "Circuitron: Agentic PCB Design Accelerator \u2014 Generate, plan, and layout circuits from natural language prompts.",
+        "owner": "Shaurya-Sethi",
+        "stars": 23,
+        "forks": 4,
+        "size": 14654,
+        "created": "2025-06-12T09:33:10+00:00",
+        "updated": "2025-08-08T17:26:30+00:00",
+        "pushed": "2025-08-08T18:42:17+00:00",
+        "url": "https://github.com/Shaurya-Sethi/circuitron",
+        "id": 1000763953
+    },
+    {
+        "repo": "pcb-designer-ai-agent",
+        "description": null,
+        "owner": "assalas",
+        "stars": 0,
+        "forks": 0,
+        "size": 19,
+        "created": "2025-08-08T17:23:09+00:00",
+        "updated": "2025-08-08T17:27:59+00:00",
+        "pushed": "2025-08-08T17:27:56+00:00",
+        "url": "https://github.com/assalas/pcb-designer-ai-agent",
+        "id": 1034615749
     }
 ]
