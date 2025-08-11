@@ -5902,19 +5902,6 @@
         "id": 393889750
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13489,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-07-16T16:24:22+00:00",
-        "pushed": "2025-07-16T16:24:18+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5939,5 +5926,31 @@
         "pushed": "2025-08-03T05:24:05+00:00",
         "url": "https://github.com/Anmol501/MyHDL-CNN-Implementation",
         "id": 1031137388
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13488,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2025-08-10T10:59:52+00:00",
+        "pushed": "2025-08-10T10:59:49+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
+    },
+    {
+        "repo": "HwLang",
+        "description": null,
+        "owner": "KarelPeeters",
+        "stars": 1,
+        "forks": 0,
+        "size": 2740,
+        "created": "2024-02-05T00:57:17+00:00",
+        "updated": "2025-08-10T21:06:59+00:00",
+        "pushed": "2025-08-10T21:06:56+00:00",
+        "url": "https://github.com/KarelPeeters/HwLang",
+        "id": 752856131
     }
 ]
