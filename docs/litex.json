@@ -15639,19 +15639,6 @@
         "id": 42048653
     },
     {
-        "repo": "tutorials",
-        "description": "OpenRISC Tutorials",
-        "owner": "openrisc",
-        "stars": 44,
-        "forks": 21,
-        "size": 1167,
-        "created": "2016-03-13T19:19:08+00:00",
-        "updated": "2025-07-25T19:30:50+00:00",
-        "pushed": "2025-07-30T10:51:10+00:00",
-        "url": "https://github.com/openrisc/tutorials",
-        "id": 53802956
-    },
-    {
         "repo": "SPDM-Hardware-Implementation",
         "description": null,
         "owner": "GustavsC",
@@ -15689,19 +15676,6 @@
         "pushed": "2025-07-31T07:23:54+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "boxlambda",
-        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
-        "owner": "epsilon537",
-        "stars": 63,
-        "forks": 0,
-        "size": 599341,
-        "created": "2022-03-24T10:49:49+00:00",
-        "updated": "2025-07-26T13:49:31+00:00",
-        "pushed": "2025-07-31T09:52:54+00:00",
-        "url": "https://github.com/epsilon537/boxlambda",
-        "id": 473564418
     },
     {
         "repo": "litex_wr_nic",
@@ -15847,19 +15821,6 @@
         "id": 1018929924
     },
     {
-        "repo": "openPCIE",
-        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
-        "owner": "chili-chips-ba",
-        "stars": 13,
-        "forks": 2,
-        "size": 137763,
-        "created": "2025-01-28T04:49:53+00:00",
-        "updated": "2025-08-09T07:40:43+00:00",
-        "pushed": "2025-08-09T07:40:40+00:00",
-        "url": "https://github.com/chili-chips-ba/openPCIE",
-        "id": 923355946
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -15990,19 +15951,6 @@
         "id": 1035827713
     },
     {
-        "repo": "urbandecahomes",
-        "description": "Enables users to search for properties, view details, and contact agents. It features a user-friendly interface and a responsive design for seamless browsing on any device.",
-        "owner": "alliahvibal",
-        "stars": 0,
-        "forks": 0,
-        "size": 17625,
-        "created": "2025-08-11T14:43:27+00:00",
-        "updated": "2025-08-11T16:52:59+00:00",
-        "pushed": "2025-08-11T16:52:55+00:00",
-        "url": "https://github.com/alliahvibal/urbandecahomes",
-        "id": 1036091006
-    },
-    {
         "repo": "LitExtract",
         "description": null,
         "owner": "vaishvd",
@@ -16016,19 +15964,6 @@
         "id": 1035858493
     },
     {
-        "repo": "ai-hardware-codesign-playground",
-        "description": "Interactive environment for co-optimizing neural networks and hardware accelerators. Design custom AI chips alongside the models that run on them, using open-source synthesis tools and performance simulators.",
-        "owner": "danieleschmidt",
-        "stars": 1,
-        "forks": 0,
-        "size": 588,
-        "created": "2025-07-27T17:46:57+00:00",
-        "updated": "2025-08-12T00:38:16+00:00",
-        "pushed": "2025-08-12T00:38:12+00:00",
-        "url": "https://github.com/danieleschmidt/ai-hardware-codesign-playground",
-        "id": 1027285181
-    },
-    {
         "repo": "Lecturas_GLC",
         "description": "Readings on computational logic, interactive theorem proving and functional programming.",
         "owner": "jaalonso",
@@ -16040,19 +15975,6 @@
         "pushed": "2025-08-11T12:17:38+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1132,
-        "forks": 97,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-08-11T20:31:08+00:00",
-        "pushed": "2025-08-13T02:55:54+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litex_m2sdr",
@@ -16133,71 +16055,6 @@
         "id": 1036685479
     },
     {
-        "repo": "zephyr-vexriscv",
-        "description": "\u2699\ufe0f RISC-V softcore SoC with UART, timer, GPIO and SDCard support \u2014 ready for real-time apps on low-cost FPGAs.",
-        "owner": "DitsoLabs",
-        "stars": 1,
-        "forks": 0,
-        "size": 1039,
-        "created": "2025-07-04T04:35:01+00:00",
-        "updated": "2025-08-12T22:42:16+00:00",
-        "pushed": "2025-08-12T22:42:13+00:00",
-        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
-        "id": 1013540439
-    },
-    {
-        "repo": "litex-tutorial",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 1,
-        "forks": 0,
-        "size": 79,
-        "created": "2025-07-31T07:05:40+00:00",
-        "updated": "2025-08-13T02:44:41+00:00",
-        "pushed": "2025-08-13T02:44:37+00:00",
-        "url": "https://github.com/litexlang/litex-tutorial",
-        "id": 1029520299
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1394,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-08-13T04:35:57+00:00",
-        "pushed": "2025-08-13T04:35:54+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 31,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-08-04T22:50:58+00:00",
-        "pushed": "2025-08-13T00:17:30+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 1974,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-08-13T04:41:16+00:00",
-        "pushed": "2025-08-13T04:41:13+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "utensil",
@@ -16211,19 +16068,6 @@
         "id": 171871908
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 13,
-        "forks": 4,
-        "size": 111175,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-13T03:36:09+00:00",
-        "pushed": "2025-08-13T03:36:05+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
@@ -16235,5 +16079,187 @@
         "pushed": "2025-08-13T00:58:59+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1134,
+        "forks": 97,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-08-14T00:43:37+00:00",
+        "pushed": "2025-08-14T02:57:18+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "tutorials",
+        "description": "OpenRISC Tutorials",
+        "owner": "openrisc",
+        "stars": 46,
+        "forks": 21,
+        "size": 1171,
+        "created": "2016-03-13T19:19:08+00:00",
+        "updated": "2025-08-14T05:20:48+00:00",
+        "pushed": "2025-08-12T18:53:38+00:00",
+        "url": "https://github.com/openrisc/tutorials",
+        "id": 53802956
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 65,
+        "forks": 0,
+        "size": 599354,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-08-13T18:27:41+00:00",
+        "pushed": "2025-08-08T14:57:22+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
+        "repo": "zephyr-vexriscv",
+        "description": "\u2699\ufe0f RISC-V softcore SoC with UART, timer, GPIO and SDCard support \u2014 ready for real-time apps on low-cost FPGAs.",
+        "owner": "DitsoLabs",
+        "stars": 1,
+        "forks": 0,
+        "size": 1044,
+        "created": "2025-07-04T04:35:01+00:00",
+        "updated": "2025-08-13T16:13:17+00:00",
+        "pushed": "2025-08-13T16:13:13+00:00",
+        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
+        "id": 1013540439
+    },
+    {
+        "repo": "litex-tutorial",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 1,
+        "forks": 1,
+        "size": 94,
+        "created": "2025-07-31T07:05:40+00:00",
+        "updated": "2025-08-14T03:20:22+00:00",
+        "pushed": "2025-08-14T03:20:19+00:00",
+        "url": "https://github.com/litexlang/litex-tutorial",
+        "id": 1029520299
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1400,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-08-14T05:31:49+00:00",
+        "pushed": "2025-08-14T05:31:46+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "openPCIE",
+        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
+        "owner": "chili-chips-ba",
+        "stars": 13,
+        "forks": 2,
+        "size": 144236,
+        "created": "2025-01-28T04:49:53+00:00",
+        "updated": "2025-08-13T23:16:52+00:00",
+        "pushed": "2025-08-13T23:16:48+00:00",
+        "url": "https://github.com/chili-chips-ba/openPCIE",
+        "id": 923355946
+    },
+    {
+        "repo": "urbandecahomes",
+        "description": "Enables users to search for properties, view details, and contact agents. It features a user-friendly interface and a responsive design for seamless browsing on any device.",
+        "owner": "alliahvibal",
+        "stars": 0,
+        "forks": 0,
+        "size": 17628,
+        "created": "2025-08-11T14:43:27+00:00",
+        "updated": "2025-08-13T10:41:11+00:00",
+        "pushed": "2025-08-13T10:41:07+00:00",
+        "url": "https://github.com/alliahvibal/urbandecahomes",
+        "id": 1036091006
+    },
+    {
+        "repo": "Description-of-Obtaining-Results",
+        "description": null,
+        "owner": "Vadimsdsys",
+        "stars": 0,
+        "forks": 0,
+        "size": 2,
+        "created": "2025-08-13T08:43:21+00:00",
+        "updated": "2025-08-13T08:49:56+00:00",
+        "pushed": "2025-08-13T08:49:53+00:00",
+        "url": "https://github.com/Vadimsdsys/Description-of-Obtaining-Results",
+        "id": 1037220387
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 31,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-08-04T22:50:58+00:00",
+        "pushed": "2025-08-14T00:17:00+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "ai-hardware-codesign-playground",
+        "description": "Interactive environment for co-optimizing neural networks and hardware accelerators. Design custom AI chips alongside the models that run on them, using open-source synthesis tools and performance simulators.",
+        "owner": "danieleschmidt",
+        "stars": 1,
+        "forks": 0,
+        "size": 609,
+        "created": "2025-07-27T17:46:57+00:00",
+        "updated": "2025-08-13T14:34:19+00:00",
+        "pushed": "2025-08-13T14:34:15+00:00",
+        "url": "https://github.com/danieleschmidt/ai-hardware-codesign-playground",
+        "id": 1027285181
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 1975,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-08-14T04:40:32+00:00",
+        "pushed": "2025-08-14T04:40:28+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "gentookernel",
+        "description": "ideapad 530S kernel",
+        "owner": "ycderman",
+        "stars": 0,
+        "forks": 0,
+        "size": 71,
+        "created": "2025-08-13T17:16:47+00:00",
+        "updated": "2025-08-13T17:23:16+00:00",
+        "pushed": "2025-08-13T17:23:13+00:00",
+        "url": "https://github.com/ycderman/gentookernel",
+        "id": 1037507418
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 13,
+        "forks": 4,
+        "size": 111736,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-08-14T03:36:32+00:00",
+        "pushed": "2025-08-14T03:36:29+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
