@@ -12792,19 +12792,6 @@
         "id": 689836782
     },
     {
-        "repo": "litex-feedstock",
-        "description": "A conda-smithy repository for litex.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 2,
-        "size": 36,
-        "created": "2023-03-24T15:52:53+00:00",
-        "updated": "2025-01-07T23:19:32+00:00",
-        "pushed": "2025-01-07T23:19:28+00:00",
-        "url": "https://github.com/conda-forge/litex-feedstock",
-        "id": 618501910
-    },
-    {
         "repo": "custom-litex-boards",
         "description": "Custom board implementations using litex",
         "owner": "uglyoldbob",
@@ -15782,45 +15769,6 @@
         "id": 1022395519
     },
     {
-        "repo": "ulx5m-gs",
-        "description": "ULX5M with GateMate with SDRAM",
-        "owner": "intergalaktik",
-        "stars": 6,
-        "forks": 1,
-        "size": 36296,
-        "created": "2025-03-25T10:28:10+00:00",
-        "updated": "2025-08-08T12:11:23+00:00",
-        "pushed": "2025-08-08T12:11:19+00:00",
-        "url": "https://github.com/intergalaktik/ulx5m-gs",
-        "id": 954599093
-    },
-    {
-        "repo": "fusion_rtl",
-        "description": null,
-        "owner": "jeandet",
-        "stars": 0,
-        "forks": 0,
-        "size": 35,
-        "created": "2025-07-13T11:17:12+00:00",
-        "updated": "2025-08-08T17:31:18+00:00",
-        "pushed": "2025-08-08T17:31:13+00:00",
-        "url": "https://github.com/jeandet/fusion_rtl",
-        "id": 1018929924
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 54379,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-08-10T01:00:39+00:00",
-        "pushed": "2025-08-10T01:00:36+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "liuzhenqi77",
@@ -15965,19 +15913,6 @@
     },
     {
         "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "utensil",
-        "stars": 21,
-        "forks": 8,
-        "size": 42470,
-        "created": "2019-02-21T12:56:56+00:00",
-        "updated": "2025-08-13T01:02:51+00:00",
-        "pushed": "2025-08-13T01:02:47+00:00",
-        "url": "https://github.com/utensil/awesome-stars",
-        "id": 171871908
-    },
-    {
-        "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
         "stars": 0,
@@ -16055,19 +15990,6 @@
         "id": 1037507418
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1134,
-        "forks": 97,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-08-14T00:43:37+00:00",
-        "pushed": "2025-08-15T02:54:13+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "golitex",
         "description": "Litex: an intuitive and scalable formal language for coding your reasoning",
         "owner": "litexlang",
@@ -16079,19 +16001,6 @@
         "pushed": "2025-08-14T07:30:39+00:00",
         "url": "https://github.com/litexlang/golitex",
         "id": 888329277
-    },
-    {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 12,
-        "forks": 5,
-        "size": 384,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-08-14T15:17:22+00:00",
-        "pushed": "2025-08-01T03:09:54+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
     },
     {
         "repo": "neorv32",
@@ -16120,19 +16029,6 @@
         "id": 800344642
     },
     {
-        "repo": "zephyr-vexriscv",
-        "description": "\u2699\ufe0f RISC-V softcore SoC with UART, timer, GPIO and SDCard support \u2014 ready for real-time apps on low-cost FPGAs.",
-        "owner": "DitsoLabs",
-        "stars": 2,
-        "forks": 0,
-        "size": 1056,
-        "created": "2025-07-04T04:35:01+00:00",
-        "updated": "2025-08-15T04:37:21+00:00",
-        "pushed": "2025-08-14T22:14:18+00:00",
-        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
-        "id": 1013540439
-    },
-    {
         "repo": "pylitex",
         "description": "pylitex is a Python package that allows users to call Litex in Python.",
         "owner": "litexlang",
@@ -16157,19 +16053,6 @@
         "pushed": "2025-08-15T02:51:24+00:00",
         "url": "https://github.com/litexlang/litex-tutorial",
         "id": 1029520299
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1405,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-08-15T05:27:25+00:00",
-        "pushed": "2025-08-15T05:27:22+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "urban-deca-homes",
@@ -16211,19 +16094,6 @@
         "id": 1028207026
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 31,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-08-04T22:50:58+00:00",
-        "pushed": "2025-08-15T00:18:09+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "ai-hardware-codesign-playground",
         "description": "Interactive environment for co-optimizing neural networks and hardware accelerators. Design custom AI chips alongside the models that run on them, using open-source synthesis tools and performance simulators.",
         "owner": "danieleschmidt",
@@ -16235,19 +16105,6 @@
         "pushed": "2025-08-15T00:56:13+00:00",
         "url": "https://github.com/danieleschmidt/ai-hardware-codesign-playground",
         "id": 1027285181
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2071,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-08-15T04:41:33+00:00",
-        "pushed": "2025-08-15T04:41:31+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
     },
     {
         "repo": "Lecturas_GLC",
@@ -16263,15 +16120,158 @@
         "id": 77744499
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1135,
+        "forks": 97,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-08-16T03:33:52+00:00",
+        "pushed": "2025-08-16T02:50:45+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 12,
+        "forks": 5,
+        "size": 385,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-08-14T15:17:22+00:00",
+        "pushed": "2025-08-15T06:25:15+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "litex-feedstock",
+        "description": "A conda-smithy repository for litex.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 2,
+        "size": 41,
+        "created": "2023-03-24T15:52:53+00:00",
+        "updated": "2025-08-15T12:38:50+00:00",
+        "pushed": "2025-08-15T12:38:47+00:00",
+        "url": "https://github.com/conda-forge/litex-feedstock",
+        "id": 618501910
+    },
+    {
+        "repo": "zephyr-vexriscv",
+        "description": "\u2699\ufe0f RISC-V softcore SoC with UART, timer, GPIO and SDCard support \u2014 ready for real-time apps on low-cost FPGAs.",
+        "owner": "DitsoLabs",
+        "stars": 4,
+        "forks": 0,
+        "size": 1061,
+        "created": "2025-07-04T04:35:01+00:00",
+        "updated": "2025-08-15T20:48:39+00:00",
+        "pushed": "2025-08-15T13:03:46+00:00",
+        "url": "https://github.com/DitsoLabs/zephyr-vexriscv",
+        "id": 1013540439
+    },
+    {
+        "repo": "ulx5m-gs",
+        "description": "ULX5M with GateMate with SDRAM",
+        "owner": "intergalaktik",
+        "stars": 6,
+        "forks": 1,
+        "size": 37403,
+        "created": "2025-03-25T10:28:10+00:00",
+        "updated": "2025-08-15T14:31:31+00:00",
+        "pushed": "2025-08-15T14:31:27+00:00",
+        "url": "https://github.com/intergalaktik/ulx5m-gs",
+        "id": 954599093
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1413,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-08-16T05:25:36+00:00",
+        "pushed": "2025-08-16T05:25:33+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "fusion_rtl",
+        "description": null,
+        "owner": "jeandet",
+        "stars": 0,
+        "forks": 0,
+        "size": 50,
+        "created": "2025-07-13T11:17:12+00:00",
+        "updated": "2025-08-15T23:54:55+00:00",
+        "pushed": "2025-08-15T23:54:51+00:00",
+        "url": "https://github.com/jeandet/fusion_rtl",
+        "id": 1018929924
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 31,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-08-04T22:50:58+00:00",
+        "pushed": "2025-08-16T00:17:05+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2072,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-08-16T04:39:03+00:00",
+        "pushed": "2025-08-16T04:38:59+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 54891,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-08-16T00:55:14+00:00",
+        "pushed": "2025-08-16T00:55:10+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "utensil",
+        "stars": 21,
+        "forks": 8,
+        "size": 43081,
+        "created": "2019-02-21T12:56:56+00:00",
+        "updated": "2025-08-16T00:55:32+00:00",
+        "pushed": "2025-08-16T00:55:29+00:00",
+        "url": "https://github.com/utensil/awesome-stars",
+        "id": 171871908
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 13,
         "forks": 4,
-        "size": 112282,
+        "size": 112824,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-15T03:37:10+00:00",
-        "pushed": "2025-08-15T03:37:06+00:00",
+        "updated": "2025-08-16T03:32:01+00:00",
+        "pushed": "2025-08-16T03:31:58+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

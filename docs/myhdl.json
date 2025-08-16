@@ -5694,19 +5694,6 @@
         "id": 969762791
     },
     {
-        "repo": "AND-gate-cosim-madness",
-        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
-        "owner": "Kreijstal",
-        "stars": 0,
-        "forks": 0,
-        "size": 590,
-        "created": "2024-08-07T20:23:56+00:00",
-        "updated": "2025-05-23T06:19:09+00:00",
-        "pushed": "2025-05-31T06:09:28+00:00",
-        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
-        "id": 839539533
-    },
-    {
         "repo": "Awesome-Python-Simulator",
         "description": "Awesome Python Simulator & Electronic Design Tools(work in progress)",
         "owner": "panhaiqi",
@@ -5809,19 +5796,6 @@
         "pushed": "2025-06-26T18:43:12+00:00",
         "url": "https://github.com/kyaso/py-v",
         "id": 314673708
-    },
-    {
-        "repo": "veri-quickbench",
-        "description": "Quick Python Based Testbench Generator for Verilog Files with AXI and AXI-Stream Interfaces",
-        "owner": "chiplukes",
-        "stars": 0,
-        "forks": 0,
-        "size": 74,
-        "created": "2025-06-20T02:34:24+00:00",
-        "updated": "2025-07-01T17:48:35+00:00",
-        "pushed": "2025-07-01T17:48:32+00:00",
-        "url": "https://github.com/chiplukes/veri-quickbench",
-        "id": 1005299968
     },
     {
         "repo": "siliconbrains",
@@ -5965,5 +5939,31 @@
         "pushed": "2025-08-15T05:49:48+00:00",
         "url": "https://github.com/jmgc/myhdl-numeric",
         "id": 38977954
+    },
+    {
+        "repo": "veri-quickbench",
+        "description": "Quick Python Based Testbench Generator for Verilog Files with AXI and AXI-Stream Interfaces",
+        "owner": "chiplukes",
+        "stars": 0,
+        "forks": 0,
+        "size": 77,
+        "created": "2025-06-20T02:34:24+00:00",
+        "updated": "2025-08-15T16:01:23+00:00",
+        "pushed": "2025-08-15T16:01:20+00:00",
+        "url": "https://github.com/chiplukes/veri-quickbench",
+        "id": 1005299968
+    },
+    {
+        "repo": "AND-gate-cosim-madness",
+        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
+        "owner": "Kreijstal",
+        "stars": 1,
+        "forks": 0,
+        "size": 599,
+        "created": "2024-08-07T20:23:56+00:00",
+        "updated": "2025-08-15T08:16:27+00:00",
+        "pushed": "2025-08-15T08:16:39+00:00",
+        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
+        "id": 839539533
     }
 ]

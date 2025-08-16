@@ -2132,19 +2132,6 @@
         "id": 1026420883
     },
     {
-        "repo": "pcb-designer-ai-agent",
-        "description": null,
-        "owner": "assalas",
-        "stars": 0,
-        "forks": 0,
-        "size": 19,
-        "created": "2025-08-08T17:23:09+00:00",
-        "updated": "2025-08-08T17:27:59+00:00",
-        "pushed": "2025-08-08T17:27:56+00:00",
-        "url": "https://github.com/assalas/pcb-designer-ai-agent",
-        "id": 1034615749
-    },
-    {
         "repo": "circuitron",
         "description": "Circuitron: Agentic PCB Design Accelerator \u2014 Generate, plan, and layout circuits from natural language prompts.",
         "owner": "Shaurya-Sethi",
@@ -2208,5 +2195,18 @@
         "pushed": "2025-08-14T00:49:14+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "pcb-designer-ai-agent",
+        "description": "\ud83e\udd16 Intelligent AI-powered PCB design automation tool using machine learning for component placement, routing optimization, and signal integrity analysis. Supports KiCad, Altium Designer, and Eagle CAD integration.",
+        "owner": "assalas",
+        "stars": 1,
+        "forks": 1,
+        "size": 163,
+        "created": "2025-08-08T17:23:09+00:00",
+        "updated": "2025-08-09T20:19:11+00:00",
+        "pushed": "2025-08-15T20:45:41+00:00",
+        "url": "https://github.com/assalas/pcb-designer-ai-agent",
+        "id": 1034615749
     }
 ]
