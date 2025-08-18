@@ -39676,19 +39676,6 @@
         "id": 856278969
     },
     {
-        "repo": "wmt_riscv_study",
-        "description": "My RISC-V study",
-        "owner": "weimingtom",
-        "stars": 0,
-        "forks": 0,
-        "size": 405,
-        "created": "2024-10-08T11:43:37+00:00",
-        "updated": "2024-12-26T13:20:27+00:00",
-        "pushed": "2024-12-26T13:20:23+00:00",
-        "url": "https://github.com/weimingtom/wmt_riscv_study",
-        "id": 869491318
-    },
-    {
         "repo": "VIT",
         "description": null,
         "owner": "lfy23",
@@ -46332,19 +46319,6 @@
         "id": 732329298
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 812,
-        "forks": 200,
-        "size": 63398,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-08-15T00:14:50+00:00",
-        "pushed": "2025-08-15T04:02:04+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -46527,19 +46501,6 @@
         "id": 734858218
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11348,
-        "forks": 5235,
-        "size": 916097,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-08-17T00:05:57+00:00",
-        "pushed": "2025-08-17T00:05:47+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "Xiaomi_Kernel_OpenSource",
         "description": "Xiaomi Mobile Phone Kernel OpenSource",
         "owner": "MiCode",
@@ -46670,6 +46631,45 @@
         "id": 1027295685
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 812,
+        "forks": 200,
+        "size": 63475,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-08-15T00:14:50+00:00",
+        "pushed": "2025-08-18T03:35:58+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11350,
+        "forks": 5236,
+        "size": 916098,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-08-18T06:11:50+00:00",
+        "pushed": "2025-08-18T06:11:44+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "K230_LineTracking",
+        "description": "K230_LineTracking",
+        "owner": "Molitcho",
+        "stars": 0,
+        "forks": 0,
+        "size": 4,
+        "created": "2025-08-17T07:38:46+00:00",
+        "updated": "2025-08-17T07:40:04+00:00",
+        "pushed": "2025-08-17T07:40:01+00:00",
+        "url": "https://github.com/Molitcho/K230_LineTracking",
+        "id": 1039425024
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -46677,8 +46677,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-08-17T06:06:12+00:00",
-        "pushed": "2025-08-17T06:06:08+00:00",
+        "updated": "2025-08-18T05:24:51+00:00",
+        "pushed": "2025-08-18T05:24:47+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -46688,12 +46688,25 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 38,
-        "size": 1065426,
+        "size": 1065929,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-08-16T12:35:27+00:00",
-        "pushed": "2025-08-16T12:35:24+00:00",
+        "updated": "2025-08-17T12:36:09+00:00",
+        "pushed": "2025-08-17T12:36:05+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
+    },
+    {
+        "repo": "wmt_riscv_study",
+        "description": "My RISC-V study",
+        "owner": "weimingtom",
+        "stars": 0,
+        "forks": 0,
+        "size": 423,
+        "created": "2024-10-08T11:43:37+00:00",
+        "updated": "2025-08-18T01:59:17+00:00",
+        "pushed": "2025-08-18T01:59:14+00:00",
+        "url": "https://github.com/weimingtom/wmt_riscv_study",
+        "id": 869491318
     },
     {
         "repo": "nuttx-ox64",
@@ -46704,7 +46717,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-08-10T04:02:27+00:00",
-        "pushed": "2025-08-17T00:19:43+00:00",
+        "pushed": "2025-08-18T00:20:23+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     },
@@ -46714,10 +46727,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 4,
-        "size": 113384,
+        "size": 113948,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-17T03:38:51+00:00",
-        "pushed": "2025-08-17T03:38:47+00:00",
+        "updated": "2025-08-18T03:40:48+00:00",
+        "pushed": "2025-08-18T03:40:44+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
