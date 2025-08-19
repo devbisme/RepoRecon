@@ -9750,19 +9750,6 @@
         "id": 719485110
     },
     {
-        "repo": "TangNano-20K-example",
-        "description": "TangNano-20K-example",
-        "owner": "sipeed",
-        "stars": 62,
-        "forks": 16,
-        "size": 3089,
-        "created": "2022-12-22T11:53:41+00:00",
-        "updated": "2023-11-19T06:28:00+00:00",
-        "pushed": "2023-11-15T10:41:36+00:00",
-        "url": "https://github.com/sipeed/TangNano-20K-example",
-        "id": 581146705
-    },
-    {
         "repo": "LitExtract",
         "description": "Python-based project facilitates text extraction from PDFs formatted in article style. It must be tuned to the your targets, so please refer to the README.md.",
         "owner": "PariaNaghavi",
@@ -14573,19 +14560,6 @@
         "id": 995846850
     },
     {
-        "repo": "rust-litex-hal",
-        "description": "A Rust embedded HAL crate for LiteX cores",
-        "owner": "pepijndevos",
-        "stars": 30,
-        "forks": 8,
-        "size": 80,
-        "created": "2020-08-04T14:03:13+00:00",
-        "updated": "2025-06-16T04:37:17+00:00",
-        "pushed": "2025-06-16T04:37:20+00:00",
-        "url": "https://github.com/pepijndevos/rust-litex-hal",
-        "id": 284997809
-    },
-    {
         "repo": "LiTeX-eq-renderer",
         "description": "A lightweight, pixel-perfect mathematical equation renderer for low-resolution displays and calculators.",
         "owner": "ComplexSymbol",
@@ -14948,19 +14922,6 @@
         "pushed": "2025-07-02T16:31:42+00:00",
         "url": "https://github.com/enjoy-digital/liteiclink",
         "id": 109838222
-    },
-    {
-        "repo": "LiteInjector",
-        "description": "LiteInjector : A LiteX based tool for emulating logical faults on Systems on Chips",
-        "owner": "labsticc-arcad",
-        "stars": 4,
-        "forks": 0,
-        "size": 6894,
-        "created": "2024-10-14T09:05:06+00:00",
-        "updated": "2025-07-02T15:02:35+00:00",
-        "pushed": "2025-07-02T15:02:32+00:00",
-        "url": "https://github.com/labsticc-arcad/LiteInjector",
-        "id": 872336420
     },
     {
         "repo": "LiteX",
@@ -15743,19 +15704,6 @@
         "id": 1022395519
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1125,
-        "forks": 228,
-        "size": 958176,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-08-11T22:51:00+00:00",
-        "pushed": "2025-08-11T22:50:55+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "NaxRiscv",
         "description": null,
         "owner": "SpinalHDL",
@@ -15819,19 +15767,6 @@
         "pushed": "2025-08-11T08:44:20+00:00",
         "url": "https://github.com/vaishvd/LitExtract",
         "id": 1035858493
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 117,
-        "forks": 21,
-        "size": 7088,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-08-12T18:33:26+00:00",
-        "pushed": "2025-08-12T18:33:23+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "FazyRV",
@@ -15949,19 +15884,6 @@
         "pushed": "2025-08-14T07:19:08+00:00",
         "url": "https://github.com/litexlang/litex-examples",
         "id": 1037823907
-    },
-    {
-        "repo": "libtslitex",
-        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
-        "owner": "EEVengers",
-        "stars": 12,
-        "forks": 5,
-        "size": 385,
-        "created": "2024-04-11T00:14:15+00:00",
-        "updated": "2025-08-14T15:17:22+00:00",
-        "pushed": "2025-08-15T06:25:15+00:00",
-        "url": "https://github.com/EEVengers/libtslitex",
-        "id": 784979558
     },
     {
         "repo": "litex-feedstock",
@@ -16094,19 +16016,6 @@
         "id": 1018929924
     },
     {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 80,
-        "forks": 8,
-        "size": 5102,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-08-16T07:07:11+00:00",
-        "pushed": "2025-08-16T07:07:07+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "liuzhenqi77",
@@ -16118,71 +16027,6 @@
         "pushed": "2025-08-17T02:34:25+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1136,
-        "forks": 97,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-08-17T21:30:52+00:00",
-        "pushed": "2025-08-18T03:04:26+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "boxlambda",
-        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
-        "owner": "epsilon537",
-        "stars": 65,
-        "forks": 0,
-        "size": 599434,
-        "created": "2022-03-24T10:49:49+00:00",
-        "updated": "2025-08-13T18:27:41+00:00",
-        "pushed": "2025-08-17T08:27:39+00:00",
-        "url": "https://github.com/epsilon537/boxlambda",
-        "id": 473564418
-    },
-    {
-        "repo": "litex-tutorial",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 1,
-        "forks": 1,
-        "size": 159,
-        "created": "2025-07-31T07:05:40+00:00",
-        "updated": "2025-08-18T04:11:41+00:00",
-        "pushed": "2025-08-18T04:11:37+00:00",
-        "url": "https://github.com/litexlang/litex-tutorial",
-        "id": 1029520299
-    },
-    {
-        "repo": "openPCIE",
-        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
-        "owner": "chili-chips-ba",
-        "stars": 14,
-        "forks": 2,
-        "size": 144633,
-        "created": "2025-01-28T04:49:53+00:00",
-        "updated": "2025-08-17T11:20:35+00:00",
-        "pushed": "2025-08-17T11:20:31+00:00",
-        "url": "https://github.com/chili-chips-ba/openPCIE",
-        "id": 923355946
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1422,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-08-18T05:30:15+00:00",
-        "pushed": "2025-08-18T05:30:12+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "wmt_riscv_study",
@@ -16211,19 +16055,6 @@
         "id": 1028207026
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 31,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-08-04T22:50:58+00:00",
-        "pushed": "2025-08-18T00:19:12+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "ai-hardware-codesign-playground",
         "description": "Interactive environment for co-optimizing neural networks and hardware accelerators. Design custom AI chips alongside the models that run on them, using open-source synthesis tools and performance simulators.",
         "owner": "danieleschmidt",
@@ -16235,19 +16066,6 @@
         "pushed": "2025-08-18T01:38:25+00:00",
         "url": "https://github.com/danieleschmidt/ai-hardware-codesign-playground",
         "id": 1027285181
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2130,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-08-18T04:44:58+00:00",
-        "pushed": "2025-08-18T04:44:55+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
     },
     {
         "repo": "awesome-stars",
@@ -16263,15 +16081,210 @@
         "id": 171871908
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1127,
+        "forks": 228,
+        "size": 987283,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-08-17T08:12:06+00:00",
+        "pushed": "2025-08-19T02:57:55+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1136,
+        "forks": 97,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-08-17T21:30:52+00:00",
+        "pushed": "2025-08-19T02:49:43+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "TangNano-20K-example",
+        "description": "TangNano-20K-example",
+        "owner": "sipeed",
+        "stars": 124,
+        "forks": 36,
+        "size": 4176,
+        "created": "2022-12-22T11:53:41+00:00",
+        "updated": "2025-08-18T11:03:36+00:00",
+        "pushed": "2025-08-18T11:03:32+00:00",
+        "url": "https://github.com/sipeed/TangNano-20K-example",
+        "id": 581146705
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 118,
+        "forks": 21,
+        "size": 7089,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-08-18T19:34:44+00:00",
+        "pushed": "2025-08-18T19:34:40+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "rust-litex-hal",
+        "description": "A Rust embedded HAL crate for LiteX cores",
+        "owner": "pepijndevos",
+        "stars": 31,
+        "forks": 8,
+        "size": 86,
+        "created": "2020-08-04T14:03:13+00:00",
+        "updated": "2025-08-18T07:10:30+00:00",
+        "pushed": "2025-08-18T07:10:34+00:00",
+        "url": "https://github.com/pepijndevos/rust-litex-hal",
+        "id": 284997809
+    },
+    {
+        "repo": "libtslitex",
+        "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
+        "owner": "EEVengers",
+        "stars": 12,
+        "forks": 5,
+        "size": 386,
+        "created": "2024-04-11T00:14:15+00:00",
+        "updated": "2025-08-14T15:17:22+00:00",
+        "pushed": "2025-08-19T04:26:18+00:00",
+        "url": "https://github.com/EEVengers/libtslitex",
+        "id": 784979558
+    },
+    {
+        "repo": "LiteInjector",
+        "description": "LiteInjector : A LiteX based tool for emulating logical faults on Systems on Chips",
+        "owner": "labsticc-arcad",
+        "stars": 5,
+        "forks": 0,
+        "size": 6912,
+        "created": "2024-10-14T09:05:06+00:00",
+        "updated": "2025-08-18T09:12:09+00:00",
+        "pushed": "2025-08-18T09:12:06+00:00",
+        "url": "https://github.com/labsticc-arcad/LiteInjector",
+        "id": 872336420
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 66,
+        "forks": 0,
+        "size": 599495,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-08-18T20:34:47+00:00",
+        "pushed": "2025-08-18T14:22:56+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
+        "repo": "litex-tutorial",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 1,
+        "forks": 1,
+        "size": 175,
+        "created": "2025-07-31T07:05:40+00:00",
+        "updated": "2025-08-19T05:22:39+00:00",
+        "pushed": "2025-08-19T05:22:36+00:00",
+        "url": "https://github.com/litexlang/litex-tutorial",
+        "id": 1029520299
+    },
+    {
+        "repo": "openPCIE",
+        "description": "Peripheral Component Interconnect has taken Express lane long ago, going for xGbps SerDes. Now (for the first time) in opensource on the Host side! Our project roots for Root Complex in 4 ways: 1) openRTL; 2) openBFM with unique sim setup, better performing than vendor TB; 3) openSoftware stack;  4) one-of-the kind openBackplane",
+        "owner": "chili-chips-ba",
+        "stars": 16,
+        "forks": 2,
+        "size": 144646,
+        "created": "2025-01-28T04:49:53+00:00",
+        "updated": "2025-08-18T07:59:38+00:00",
+        "pushed": "2025-08-18T07:11:10+00:00",
+        "url": "https://github.com/chili-chips-ba/openPCIE",
+        "id": 923355946
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1430,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-08-19T05:25:32+00:00",
+        "pushed": "2025-08-19T05:25:29+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "timing-scripts",
+        "description": null,
+        "owner": "chipfoundry",
+        "stars": 0,
+        "forks": 0,
+        "size": 2539,
+        "created": "2025-04-29T19:16:06+00:00",
+        "updated": "2025-08-18T09:26:43+00:00",
+        "pushed": "2025-08-18T09:26:39+00:00",
+        "url": "https://github.com/chipfoundry/timing-scripts",
+        "id": 975093643
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 31,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-08-04T22:50:58+00:00",
+        "pushed": "2025-08-19T00:18:27+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2132,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-08-19T04:38:17+00:00",
+        "pushed": "2025-08-19T04:38:14+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 80,
+        "forks": 8,
+        "size": 5104,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-08-18T08:18:14+00:00",
+        "pushed": "2025-08-18T08:18:10+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 13,
         "forks": 4,
-        "size": 113948,
+        "size": 114498,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-18T03:40:48+00:00",
-        "pushed": "2025-08-18T03:40:44+00:00",
+        "updated": "2025-08-19T03:29:47+00:00",
+        "pushed": "2025-08-19T03:29:43+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
