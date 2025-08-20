@@ -45435,19 +45435,6 @@
         "id": 390637491
     },
     {
-        "repo": "K230",
-        "description": "K230\u4ee3\u7801\u4f8b\u7a0b",
-        "owner": "HJZ0810",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2025-08-01T11:47:39+00:00",
-        "updated": "2025-08-01T11:48:44+00:00",
-        "pushed": "2025-08-01T11:48:40+00:00",
-        "url": "https://github.com/HJZ0810/K230",
-        "id": 1030290329
-    },
-    {
         "repo": "emakefun-docsify",
         "description": null,
         "owner": "emakefun",
@@ -45994,19 +45981,6 @@
         "id": 1021020520
     },
     {
-        "repo": "ti-contest-2025",
-        "description": "2025 \u5e74\u5168\u56fd\u5927\u5b66\u751f\u7535\u5b50\u8bbe\u8ba1\u7ade\u8d5b K\u9898 \u00b7 \u7a0b\u5e8f\u8bbe\u8ba1\u3001\u786c\u4ef6\u8bbe\u8ba1\u53ca\u8bbe\u8ba1\u62a5\u544a\uff08\u6ee1\u5206\u65b9\u6848\uff09",
-        "owner": "JamieK32",
-        "stars": 2,
-        "forks": 0,
-        "size": 39429,
-        "created": "2025-07-27T04:27:04+00:00",
-        "updated": "2025-08-12T06:06:21+00:00",
-        "pushed": "2025-08-12T06:06:17+00:00",
-        "url": "https://github.com/JamieK32/ti-contest-2025",
-        "id": 1026990152
-    },
-    {
         "repo": "K2300032950",
         "description": null,
         "owner": "K2300032950",
@@ -46267,19 +46241,6 @@
         "id": 832937482
     },
     {
-        "repo": "k230_rtos_docs",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 0,
-        "forks": 0,
-        "size": 711,
-        "created": "2025-03-12T01:54:26+00:00",
-        "updated": "2025-08-14T09:32:09+00:00",
-        "pushed": "2025-08-14T09:32:05+00:00",
-        "url": "https://github.com/kendryte/k230_rtos_docs",
-        "id": 946995259
-    },
-    {
         "repo": "k230_rtsmart_examples",
         "description": "k230 cpp examples",
         "owner": "canmv-k230",
@@ -46330,32 +46291,6 @@
         "pushed": "2025-08-14T14:10:34+00:00",
         "url": "https://github.com/fbundle/mini-rv32ima",
         "id": 1038034417
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 588,
-        "forks": 77,
-        "size": 73915,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-08-15T13:27:27+00:00",
-        "pushed": "2025-08-15T10:20:23+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 91,
-        "forks": 30,
-        "size": 128338,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-08-05T12:08:48+00:00",
-        "pushed": "2025-08-15T12:56:18+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "rtsmart",
@@ -46501,19 +46436,6 @@
         "id": 685317589
     },
     {
-        "repo": "awesome-stars",
-        "description": "My Awesome List",
-        "owner": "silentEAG",
-        "stars": 10,
-        "forks": 2,
-        "size": 3349,
-        "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-08-17T02:32:47+00:00",
-        "pushed": "2025-08-17T02:32:44+00:00",
-        "url": "https://github.com/silentEAG/awesome-stars",
-        "id": 731012323
-    },
-    {
         "repo": "K230_LineTracking",
         "description": "K230_LineTracking",
         "owner": "Molitcho",
@@ -46540,19 +46462,6 @@
         "id": 869491318
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 812,
-        "forks": 200,
-        "size": 63444,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-08-15T00:14:50+00:00",
-        "pushed": "2025-08-19T06:23:11+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -46564,32 +46473,6 @@
         "pushed": "2025-08-18T11:04:05+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 256,
-        "forks": 50,
-        "size": 204282,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-08-06T15:10:55+00:00",
-        "pushed": "2025-08-18T14:31:25+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11352,
-        "forks": 5235,
-        "size": 916121,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-08-19T03:59:48+00:00",
-        "pushed": "2025-08-19T01:41:30+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "muriscv-nn",
@@ -46709,19 +46592,6 @@
         "id": 1039208799
     },
     {
-        "repo": "tiny-llm-edge-profiler",
-        "description": "Comprehensive profiling toolkit for running 2-bit/4-bit quantized LLMs on microcontrollers and edge devices. Measure real-world performance on ARM Cortex-M, RISC-V, ESP32, and more.",
-        "owner": "danieleschmidt",
-        "stars": 1,
-        "forks": 0,
-        "size": 974,
-        "created": "2025-07-27T18:13:25+00:00",
-        "updated": "2025-08-18T17:00:53+00:00",
-        "pushed": "2025-08-18T17:00:49+00:00",
-        "url": "https://github.com/danieleschmidt/tiny-llm-edge-profiler",
-        "id": 1027295685
-    },
-    {
         "repo": "awesome-pretrained-chinese-nlp-models",
         "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
         "owner": "lonePatient",
@@ -46735,6 +46605,149 @@
         "id": 188584527
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 812,
+        "forks": 200,
+        "size": 63361,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-08-15T00:14:50+00:00",
+        "pushed": "2025-08-20T06:02:36+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 592,
+        "forks": 77,
+        "size": 73920,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-08-19T03:27:12+00:00",
+        "pushed": "2025-08-19T12:54:35+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 257,
+        "forks": 50,
+        "size": 204904,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-08-19T12:18:04+00:00",
+        "pushed": "2025-08-19T12:29:52+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 91,
+        "forks": 30,
+        "size": 128342,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-08-05T12:08:48+00:00",
+        "pushed": "2025-08-19T12:41:47+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                          https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11355,
+        "forks": 5235,
+        "size": 916144,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-08-20T03:12:41+00:00",
+        "pushed": "2025-08-20T01:29:09+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "K230",
+        "description": "K230\u4ee3\u7801\u4f8b\u7a0b",
+        "owner": "HJZ0810",
+        "stars": 0,
+        "forks": 0,
+        "size": 1,
+        "created": "2025-08-01T11:47:39+00:00",
+        "updated": "2025-08-19T08:58:48+00:00",
+        "pushed": "2025-08-19T08:58:44+00:00",
+        "url": "https://github.com/HJZ0810/K230",
+        "id": 1030290329
+    },
+    {
+        "repo": "k230_rtos_docs",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 0,
+        "forks": 0,
+        "size": 713,
+        "created": "2025-03-12T01:54:26+00:00",
+        "updated": "2025-08-19T08:50:31+00:00",
+        "pushed": "2025-08-19T08:50:27+00:00",
+        "url": "https://github.com/kendryte/k230_rtos_docs",
+        "id": 946995259
+    },
+    {
+        "repo": "2025-E-Basic",
+        "description": "2025\u5e74\u7535\u8d5bE\u9898\u57fa\u7840\u90e8\u5206",
+        "owner": "cswdxka",
+        "stars": 0,
+        "forks": 0,
+        "size": 12,
+        "created": "2025-08-19T13:28:50+00:00",
+        "updated": "2025-08-19T13:44:22+00:00",
+        "pushed": "2025-08-19T13:44:19+00:00",
+        "url": "https://github.com/cswdxka/2025-E-Basic",
+        "id": 1040766675
+    },
+    {
+        "repo": "ti-contest-2025",
+        "description": "2025 \u5e74\u5168\u56fd\u5927\u5b66\u751f\u7535\u5b50\u8bbe\u8ba1\u7ade\u8d5b K\u9898 \u00b7 \u7a0b\u5e8f\u8bbe\u8ba1\u3001\u786c\u4ef6\u8bbe\u8ba1\u53ca\u8bbe\u8ba1\u62a5\u544a\uff08\u6ee1\u5206\u65b9\u6848\uff09",
+        "owner": "JamieK32",
+        "stars": 2,
+        "forks": 0,
+        "size": 39516,
+        "created": "2025-07-27T04:27:04+00:00",
+        "updated": "2025-08-20T00:48:56+00:00",
+        "pushed": "2025-08-20T00:48:53+00:00",
+        "url": "https://github.com/JamieK32/ti-contest-2025",
+        "id": 1026990152
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "My Awesome List",
+        "owner": "silentEAG",
+        "stars": 10,
+        "forks": 2,
+        "size": 3561,
+        "created": "2023-12-13T06:58:33+00:00",
+        "updated": "2025-08-20T02:17:33+00:00",
+        "pushed": "2025-08-20T02:17:30+00:00",
+        "url": "https://github.com/silentEAG/awesome-stars",
+        "id": 731012323
+    },
+    {
+        "repo": "tiny-llm-edge-profiler",
+        "description": "Comprehensive profiling toolkit for running 2-bit/4-bit quantized LLMs on microcontrollers and edge devices. Measure real-world performance on ARM Cortex-M, RISC-V, ESP32, and more.",
+        "owner": "danieleschmidt",
+        "stars": 1,
+        "forks": 0,
+        "size": 981,
+        "created": "2025-07-27T18:13:25+00:00",
+        "updated": "2025-08-19T21:18:43+00:00",
+        "pushed": "2025-08-19T21:18:39+00:00",
+        "url": "https://github.com/danieleschmidt/tiny-llm-edge-profiler",
+        "id": 1027295685
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": null,
         "owner": "Mathv60",
@@ -46742,8 +46755,8 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-08-19T03:33:35+00:00",
-        "pushed": "2025-08-19T03:33:32+00:00",
+        "updated": "2025-08-20T05:04:50+00:00",
+        "pushed": "2025-08-20T05:04:47+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
     },
@@ -46753,10 +46766,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 38,
-        "size": 1068585,
+        "size": 1068589,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-08-18T12:40:48+00:00",
-        "pushed": "2025-08-18T12:40:44+00:00",
+        "updated": "2025-08-19T12:38:46+00:00",
+        "pushed": "2025-08-19T12:38:42+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -46769,7 +46782,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-08-10T04:02:27+00:00",
-        "pushed": "2025-08-19T00:18:07+00:00",
+        "pushed": "2025-08-20T00:16:50+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     },
@@ -46779,10 +46792,10 @@
         "owner": "hiifong",
         "stars": 13,
         "forks": 4,
-        "size": 114498,
+        "size": 115030,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-19T03:29:47+00:00",
-        "pushed": "2025-08-19T03:29:43+00:00",
+        "updated": "2025-08-20T03:28:37+00:00",
+        "pushed": "2025-08-20T03:28:33+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

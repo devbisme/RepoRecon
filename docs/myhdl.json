@@ -5928,19 +5928,6 @@
         "id": 839539533
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 44,
-        "forks": 30,
-        "size": 41748,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-08-17T11:08:50+00:00",
-        "pushed": "2025-08-17T11:08:47+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "Kea",
         "description": "Some HDL tools built on MyHDL, including a register subsystem.",
         "owner": "SmartAcoustics",
@@ -5954,15 +5941,28 @@
         "id": 162131770
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 44,
+        "forks": 30,
+        "size": 41756,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-08-19T17:56:00+00:00",
+        "pushed": "2025-08-19T17:55:57+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "myhdl-numeric",
         "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
         "owner": "jmgc",
         "stars": 4,
         "forks": 1,
-        "size": 13499,
+        "size": 13590,
         "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-08-18T21:05:10+00:00",
-        "pushed": "2025-08-18T21:05:06+00:00",
+        "updated": "2025-08-19T07:59:06+00:00",
+        "pushed": "2025-08-19T07:59:02+00:00",
         "url": "https://github.com/jmgc/myhdl-numeric",
         "id": 38977954
     }
