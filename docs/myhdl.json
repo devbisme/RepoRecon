@@ -5772,19 +5772,6 @@
         "id": 158928501
     },
     {
-        "repo": "py-v",
-        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
-        "owner": "kyaso",
-        "stars": 15,
-        "forks": 5,
-        "size": 905,
-        "created": "2020-11-20T21:27:59+00:00",
-        "updated": "2025-06-14T22:38:19+00:00",
-        "pushed": "2025-06-26T18:43:12+00:00",
-        "url": "https://github.com/kyaso/py-v",
-        "id": 314673708
-    },
-    {
         "repo": "siliconbrains",
         "description": "Open Source TPUs for the masses",
         "owner": "DaertML",
@@ -5967,15 +5954,28 @@
         "id": 143520625
     },
     {
+        "repo": "py-v",
+        "description": "A cycle-accurate RISC-V CPU simulator + RTL modeling library  in pure Python.",
+        "owner": "kyaso",
+        "stars": 16,
+        "forks": 6,
+        "size": 906,
+        "created": "2020-11-20T21:27:59+00:00",
+        "updated": "2025-08-27T19:39:20+00:00",
+        "pushed": "2025-08-27T19:39:44+00:00",
+        "url": "https://github.com/kyaso/py-v",
+        "id": 314673708
+    },
+    {
         "repo": "Y86-64",
         "description": "\u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b Y86-64 \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 MyHDL",
         "owner": "Andrey793",
         "stars": 0,
         "forks": 0,
-        "size": 8,
+        "size": 10,
         "created": "2025-08-23T12:19:44+00:00",
-        "updated": "2025-08-26T22:18:36+00:00",
-        "pushed": "2025-08-26T22:18:32+00:00",
+        "updated": "2025-08-27T13:08:07+00:00",
+        "pushed": "2025-08-27T13:08:02+00:00",
         "url": "https://github.com/Andrey793/Y86-64",
         "id": 1043233261
     }
