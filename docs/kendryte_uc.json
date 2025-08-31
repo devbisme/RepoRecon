@@ -45708,19 +45708,6 @@
         "id": 1001375389
     },
     {
-        "repo": "Baremetal-NN",
-        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
-        "owner": "ucb-bar",
-        "stars": 34,
-        "forks": 6,
-        "size": 82233,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2025-08-10T22:20:28+00:00",
-        "pushed": "2025-08-10T22:20:27+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
-    },
-    {
         "repo": "xv6-k210",
         "description": "\u5728K210\u4e0a\u8fd0\u884cXV6\uff01",
         "owner": "wanglinxiao123",
@@ -46644,19 +46631,6 @@
         "id": 1027295685
     },
     {
-        "repo": "CherryUSB",
-        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
-        "owner": "cherry-embedded",
-        "stars": 1663,
-        "forks": 359,
-        "size": 86478,
-        "created": "2021-07-10T10:40:14+00:00",
-        "updated": "2025-08-27T13:25:39+00:00",
-        "pushed": "2025-08-27T13:24:25+00:00",
-        "url": "https://github.com/cherry-embedded/CherryUSB",
-        "id": 384673180
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -46720,19 +46694,6 @@
         "pushed": "2025-08-28T02:15:24+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
-    },
-    {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 812,
-        "forks": 200,
-        "size": 63680,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-08-15T00:14:50+00:00",
-        "pushed": "2025-08-29T05:16:53+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
     },
     {
         "repo": "MaixPy",
@@ -46956,6 +46917,84 @@
         "id": 461410963
     },
     {
+        "repo": "resource-navigator",
+        "description": "\u4e2a\u4eba\u6536\u85cf\u8d44\u6e90\u5bfc\u822a",
+        "owner": "yaoqs",
+        "stars": 11,
+        "forks": 2,
+        "size": 679,
+        "created": "2019-07-07T08:16:25+00:00",
+        "updated": "2025-08-30T03:43:39+00:00",
+        "pushed": "2025-08-30T03:43:35+00:00",
+        "url": "https://github.com/yaoqs/resource-navigator",
+        "id": 195626687
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 812,
+        "forks": 200,
+        "size": 63714,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-08-15T00:14:50+00:00",
+        "pushed": "2025-08-30T11:50:43+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "CherryUSB",
+        "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
+        "owner": "cherry-embedded",
+        "stars": 1666,
+        "forks": 359,
+        "size": 86500,
+        "created": "2021-07-10T10:40:14+00:00",
+        "updated": "2025-08-30T15:57:05+00:00",
+        "pushed": "2025-08-30T11:24:27+00:00",
+        "url": "https://github.com/cherry-embedded/CherryUSB",
+        "id": 384673180
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
+        "owner": "ucb-bar",
+        "stars": 37,
+        "forks": 6,
+        "size": 82233,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2025-08-30T12:02:16+00:00",
+        "pushed": "2025-08-31T06:31:42+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "TIMSPM0-K230-Auto-aiming",
+        "description": "\u57fa\u4e8eTI MSPM0\u548cK230\u7684\u81ea\u52a8\u7784\u51c6\u88c5\u7f6e",
+        "owner": "KJK-TTT",
+        "stars": 0,
+        "forks": 0,
+        "size": 2679,
+        "created": "2025-08-31T03:30:10+00:00",
+        "updated": "2025-08-31T03:59:33+00:00",
+        "pushed": "2025-08-31T03:59:29+00:00",
+        "url": "https://github.com/KJK-TTT/TIMSPM0-K230-Auto-aiming",
+        "id": 1047709261
+    },
+    {
+        "repo": "maix_test",
+        "description": "a test project for maixpy",
+        "owner": "huguanghui",
+        "stars": 0,
+        "forks": 0,
+        "size": 60,
+        "created": "2025-08-30T15:00:24+00:00",
+        "updated": "2025-08-30T15:27:21+00:00",
+        "pushed": "2025-08-30T15:27:18+00:00",
+        "url": "https://github.com/huguanghui/maix_test",
+        "id": 1047498881
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
@@ -46963,8 +47002,8 @@
         "forks": 38,
         "size": 1079537,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-08-29T12:37:41+00:00",
-        "pushed": "2025-08-29T12:37:37+00:00",
+        "updated": "2025-08-30T12:32:27+00:00",
+        "pushed": "2025-08-30T12:32:24+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -46977,7 +47016,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-08-10T04:02:27+00:00",
-        "pushed": "2025-08-30T00:16:53+00:00",
+        "pushed": "2025-08-31T00:19:08+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     },
@@ -46987,24 +47026,11 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 120059,
+        "size": 120623,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-30T03:21:18+00:00",
-        "pushed": "2025-08-30T03:21:15+00:00",
+        "updated": "2025-08-31T03:27:19+00:00",
+        "pushed": "2025-08-31T03:27:15+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
-    },
-    {
-        "repo": "resource-navigator",
-        "description": "\u4e2a\u4eba\u6536\u85cf\u8d44\u6e90\u5bfc\u822a",
-        "owner": "yaoqs",
-        "stars": 11,
-        "forks": 2,
-        "size": 679,
-        "created": "2019-07-07T08:16:25+00:00",
-        "updated": "2025-08-30T03:43:39+00:00",
-        "pushed": "2025-08-30T03:43:35+00:00",
-        "url": "https://github.com/yaoqs/resource-navigator",
-        "id": 195626687
     }
 ]
