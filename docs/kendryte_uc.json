@@ -45721,19 +45721,6 @@
         "id": 997316452
     },
     {
-        "repo": "stocklist",
-        "description": null,
-        "owner": "fifteenhex",
-        "stars": 0,
-        "forks": 0,
-        "size": 264,
-        "created": "2020-03-22T03:59:35+00:00",
-        "updated": "2025-08-11T05:39:17+00:00",
-        "pushed": "2025-08-11T05:39:13+00:00",
-        "url": "https://github.com/fifteenhex/stocklist",
-        "id": 249109529
-    },
-    {
         "repo": "TheTuchka",
         "description": null,
         "owner": "people-bl",
@@ -46228,19 +46215,6 @@
         "id": 1026990152
     },
     {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 4,
-        "forks": 6,
-        "size": 566040,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2025-08-20T06:53:50+00:00",
-        "pushed": "2025-08-20T06:53:46+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
-    },
-    {
         "repo": "Arduino_k210",
         "description": "Arduino IIC \u63a7\u5236 k210",
         "owner": "cyc36880",
@@ -46330,19 +46304,6 @@
         "pushed": "2025-08-21T06:31:20+00:00",
         "url": "https://github.com/Viditsharma05/ICE40UP5K-with-MAIX-R6-1-Microphone",
         "id": 1041877883
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 255,
-        "forks": 205,
-        "size": 272,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-08-20T13:16:05+00:00",
-        "pushed": "2025-08-23T02:21:29+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
     },
     {
         "repo": "k230_rtsmart_lib",
@@ -46683,19 +46644,6 @@
         "id": 1025131903
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "DIPTE",
-        "stars": 12,
-        "forks": 2,
-        "size": 2585,
-        "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2025-08-28T02:15:27+00:00",
-        "pushed": "2025-08-28T02:15:24+00:00",
-        "url": "https://github.com/DIPTE/awesome-stars",
-        "id": 685317589
-    },
-    {
         "repo": "MaixPy",
         "description": "Easily create AI projects with Python on edge device",
         "owner": "sipeed",
@@ -46826,19 +46774,6 @@
         "id": 733722162
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11377,
-        "forks": 5252,
-        "size": 925860,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-08-30T05:10:19+00:00",
-        "pushed": "2025-08-30T05:10:14+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rtsmart",
         "description": null,
         "owner": "canmv-k230",
@@ -46930,19 +46865,6 @@
         "id": 195626687
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 812,
-        "forks": 200,
-        "size": 63714,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-08-15T00:14:50+00:00",
-        "pushed": "2025-08-30T11:50:43+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "CherryUSB",
         "description": "CherryUSB is a tiny and beautiful, high performace and portable USB host and device stack for embedded system with USB IP",
         "owner": "cherry-embedded",
@@ -46954,19 +46876,6 @@
         "pushed": "2025-08-30T11:24:27+00:00",
         "url": "https://github.com/cherry-embedded/CherryUSB",
         "id": 384673180
-    },
-    {
-        "repo": "Baremetal-NN",
-        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
-        "owner": "ucb-bar",
-        "stars": 37,
-        "forks": 6,
-        "size": 82233,
-        "created": "2023-09-17T01:40:39+00:00",
-        "updated": "2025-08-30T12:02:16+00:00",
-        "pushed": "2025-08-31T06:31:42+00:00",
-        "url": "https://github.com/ucb-bar/Baremetal-NN",
-        "id": 692600166
     },
     {
         "repo": "TIMSPM0-K230-Auto-aiming",
@@ -46995,15 +46904,54 @@
         "id": 1047498881
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 812,
+        "forks": 200,
+        "size": 63763,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-08-15T00:14:50+00:00",
+        "pushed": "2025-09-01T06:38:49+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "Baremetal-NN",
+        "description": "Tool for converting PyTorch models into raw C codes with minimal dependency and some performance optimizations.",
+        "owner": "ucb-bar",
+        "stars": 37,
+        "forks": 6,
+        "size": 82252,
+        "created": "2023-09-17T01:40:39+00:00",
+        "updated": "2025-08-30T12:02:16+00:00",
+        "pushed": "2025-09-01T05:02:48+00:00",
+        "url": "https://github.com/ucb-bar/Baremetal-NN",
+        "id": 692600166
+    },
+    {
+        "repo": "stocklist",
+        "description": null,
+        "owner": "fifteenhex",
+        "stars": 0,
+        "forks": 0,
+        "size": 276,
+        "created": "2020-03-22T03:59:35+00:00",
+        "updated": "2025-08-31T09:05:39+00:00",
+        "pushed": "2025-08-31T09:05:36+00:00",
+        "url": "https://github.com/fifteenhex/stocklist",
+        "id": 249109529
+    },
+    {
         "repo": "certified-android-devices",
         "description": "Google Play Certified Android devices list, auto updated daily!",
         "owner": "androidtrackers",
         "stars": 142,
         "forks": 38,
-        "size": 1079537,
+        "size": 1080042,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-08-30T12:32:27+00:00",
-        "pushed": "2025-08-30T12:32:24+00:00",
+        "updated": "2025-08-31T12:32:52+00:00",
+        "pushed": "2025-08-31T12:32:49+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -47016,9 +46964,61 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-08-10T04:02:27+00:00",
-        "pushed": "2025-08-31T00:19:08+00:00",
+        "pushed": "2025-09-01T00:20:17+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 256,
+        "forks": 208,
+        "size": 274,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-09-01T05:12:28+00:00",
+        "pushed": "2025-09-01T05:12:25+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11383,
+        "forks": 5256,
+        "size": 925956,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-09-01T04:46:50+00:00",
+        "pushed": "2025-09-01T04:46:44+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 4,
+        "forks": 6,
+        "size": 571149,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2025-09-01T04:06:04+00:00",
+        "pushed": "2025-09-01T04:06:00+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "DIPTE",
+        "stars": 12,
+        "forks": 2,
+        "size": 3098,
+        "created": "2023-08-31T01:07:36+00:00",
+        "updated": "2025-09-01T02:33:21+00:00",
+        "pushed": "2025-09-01T02:33:18+00:00",
+        "url": "https://github.com/DIPTE/awesome-stars",
+        "id": 685317589
     },
     {
         "repo": "starList",
@@ -47026,10 +47026,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 120623,
+        "size": 121188,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-08-31T03:27:19+00:00",
-        "pushed": "2025-08-31T03:27:15+00:00",
+        "updated": "2025-09-01T03:37:47+00:00",
+        "pushed": "2025-09-01T03:37:44+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

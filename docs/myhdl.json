@@ -5928,19 +5928,6 @@
         "id": 162131770
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13590,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-08-19T07:59:06+00:00",
-        "pushed": "2025-08-19T07:59:02+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -5978,5 +5965,18 @@
         "pushed": "2025-08-27T13:08:02+00:00",
         "url": "https://github.com/Andrey793/Y86-64",
         "id": 1043233261
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13648,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2025-09-01T01:47:29+00:00",
+        "pushed": "2025-09-01T01:47:25+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]

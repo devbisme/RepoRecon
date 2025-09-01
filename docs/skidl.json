@@ -1560,19 +1560,6 @@
         "id": 908330772
     },
     {
-        "repo": "skidl-feedstock",
-        "description": "A conda-smithy repository for skidl.",
-        "owner": "conda-forge",
-        "stars": 0,
-        "forks": 2,
-        "size": 32,
-        "created": "2020-01-05T20:43:36+00:00",
-        "updated": "2025-01-03T02:20:48+00:00",
-        "pushed": "2025-01-03T02:20:43+00:00",
-        "url": "https://github.com/conda-forge/skidl-feedstock",
-        "id": 231973467
-    },
-    {
         "repo": "Skidl",
         "description": "An attempt at eventually using AI and LLMs to Create PCBs",
         "owner": "MatthewGerges",
@@ -2213,13 +2200,26 @@
         "repo": "skidl",
         "description": "SKiDL is a module that extends Python with the ability to design electronic circuits.",
         "owner": "devbisme",
-        "stars": 1213,
+        "stars": 1215,
         "forks": 138,
-        "size": 58033,
+        "size": 59630,
         "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2025-08-30T22:55:51+00:00",
-        "pushed": "2025-08-30T23:03:20+00:00",
+        "updated": "2025-09-01T04:57:03+00:00",
+        "pushed": "2025-08-31T19:38:13+00:00",
         "url": "https://github.com/devbisme/skidl",
         "id": 65847289
+    },
+    {
+        "repo": "skidl-feedstock",
+        "description": "A conda-smithy repository for skidl.",
+        "owner": "conda-forge",
+        "stars": 0,
+        "forks": 2,
+        "size": 36,
+        "created": "2020-01-05T20:43:36+00:00",
+        "updated": "2025-08-31T19:53:07+00:00",
+        "pushed": "2025-08-31T19:53:03+00:00",
+        "url": "https://github.com/conda-forge/skidl-feedstock",
+        "id": 231973467
     }
 ]
