@@ -16003,19 +16003,6 @@
         "id": 778169492
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1839,
-        "forks": 278,
-        "size": 239490,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-08-29T04:21:59+00:00",
-        "pushed": "2025-08-29T04:40:33+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litex",
         "description": "A high-performance TypeScript web framework combining Ultimate Express, Svelte 5, and Inertia.js for building modern full-stack applications. Features server-side rendering, real-time capabilities, and seamless client-server state management.",
         "owner": "arghoritma",
@@ -16079,19 +16066,6 @@
         "pushed": "2025-08-28T15:36:21+00:00",
         "url": "https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "id": 137700800
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3469,
-        "forks": 642,
-        "size": 17841,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-08-29T19:17:31+00:00",
-        "pushed": "2025-08-29T19:17:27+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
     },
     {
         "repo": "litex-boards",
@@ -16276,19 +16250,6 @@
         "id": 1028207026
     },
     {
-        "repo": "One-Dark-Pro-LiteXL",
-        "description": "One Dark Pro Theme for LiteXL",
-        "owner": "ZachVFXX",
-        "stars": 0,
-        "forks": 0,
-        "size": 4,
-        "created": "2025-08-30T13:14:08+00:00",
-        "updated": "2025-08-30T18:41:11+00:00",
-        "pushed": "2025-08-30T18:41:08+00:00",
-        "url": "https://github.com/ZachVFXX/One-Dark-Pro-LiteXL",
-        "id": 1047456955
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -16313,19 +16274,6 @@
         "pushed": "2025-08-31T02:19:02+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1144,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-01T01:04:51+00:00",
-        "pushed": "2025-09-01T02:50:43+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "nuttx-star64",
@@ -16367,17 +16315,69 @@
         "id": 1046720121
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3470,
+        "forks": 642,
+        "size": 17843,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-09-01T12:14:21+00:00",
+        "pushed": "2025-09-01T08:10:25+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1146,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-01T13:30:36+00:00",
+        "pushed": "2025-09-02T02:44:20+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1843,
+        "forks": 278,
+        "size": 239517,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-09-01T22:46:07+00:00",
+        "pushed": "2025-09-01T22:58:00+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
         "repo": "SantaCRC",
         "description": "Config files for my GitHub profile.",
         "owner": "SantaCRC",
         "stars": 0,
         "forks": 0,
-        "size": 1498,
+        "size": 1505,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-01T05:26:10+00:00",
-        "pushed": "2025-09-01T05:26:07+00:00",
+        "updated": "2025-09-02T05:25:27+00:00",
+        "pushed": "2025-09-02T05:25:24+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
+    },
+    {
+        "repo": "One-Dark-Pro-LiteXL",
+        "description": "One Dark Pro Theme for LiteXL",
+        "owner": "ZachVFXX",
+        "stars": 1,
+        "forks": 0,
+        "size": 8,
+        "created": "2025-08-30T13:14:08+00:00",
+        "updated": "2025-09-01T09:26:05+00:00",
+        "pushed": "2025-09-01T09:26:02+00:00",
+        "url": "https://github.com/ZachVFXX/One-Dark-Pro-LiteXL",
+        "id": 1047456955
     },
     {
         "repo": "starred",
@@ -16387,8 +16387,8 @@
         "forks": 0,
         "size": 2781,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-01T04:39:35+00:00",
-        "pushed": "2025-09-01T04:39:32+00:00",
+        "updated": "2025-09-02T04:37:17+00:00",
+        "pushed": "2025-09-02T04:37:14+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16398,10 +16398,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 121188,
+        "size": 121732,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-01T03:37:47+00:00",
-        "pushed": "2025-09-01T03:37:44+00:00",
+        "updated": "2025-09-02T03:28:25+00:00",
+        "pushed": "2025-09-02T03:28:22+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
