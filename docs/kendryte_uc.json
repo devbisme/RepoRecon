@@ -45331,19 +45331,6 @@
         "id": 1029360956
     },
     {
-        "repo": "kendryte-hal",
-        "description": "Rust Hardware Abstract Layer (HAL) for Kendryte SoCs",
-        "owner": "rustsbi",
-        "stars": 3,
-        "forks": 3,
-        "size": 432,
-        "created": "2024-11-11T16:31:19+00:00",
-        "updated": "2025-08-03T13:14:02+00:00",
-        "pushed": "2025-08-03T13:13:58+00:00",
-        "url": "https://github.com/rustsbi/kendryte-hal",
-        "id": 886806345
-    },
-    {
         "repo": "MyK230",
         "description": "01\u79d1\u6280K230\u7684\u4e00\u4e9b\u4ee3\u7801",
         "owner": "TungYL-v2",
@@ -45758,19 +45745,6 @@
         "pushed": "2025-08-12T15:49:30+00:00",
         "url": "https://github.com/IllusionMZX/K230-VLM-Control",
         "id": 1036623261
-    },
-    {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 15,
-        "forks": 4,
-        "size": 6114,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-08-12T21:22:19+00:00",
-        "pushed": "2025-08-12T21:22:16+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
     },
     {
         "repo": "awesome_Maix4Hat",
@@ -46553,19 +46527,6 @@
         "id": 1045516486
     },
     {
-        "repo": "WRO-FUTURE-ENGINEERS-2025",
-        "description": null,
-        "owner": "alifilhan0",
-        "stars": 0,
-        "forks": 0,
-        "size": 39793,
-        "created": "2025-07-23T19:17:44+00:00",
-        "updated": "2025-08-28T00:06:58+00:00",
-        "pushed": "2025-08-28T00:06:54+00:00",
-        "url": "https://github.com/alifilhan0/WRO-FUTURE-ENGINEERS-2025",
-        "id": 1025131903
-    },
-    {
         "repo": "krux",
         "description": "Open-source signing device firmware for Bitcoin",
         "owner": "selfcustody",
@@ -46577,19 +46538,6 @@
         "pushed": "2025-08-28T17:27:57+00:00",
         "url": "https://github.com/selfcustody/krux",
         "id": 385102171
-    },
-    {
-        "repo": "vihal",
-        "description": "Embedded Hardware Access Library",
-        "owner": "nvitya",
-        "stars": 4,
-        "forks": 3,
-        "size": 9949,
-        "created": "2021-09-28T19:01:30+00:00",
-        "updated": "2025-08-28T08:26:26+00:00",
-        "pushed": "2025-08-28T08:26:22+00:00",
-        "url": "https://github.com/nvitya/vihal",
-        "id": 411406144
     },
     {
         "repo": "hao",
@@ -46826,19 +46774,6 @@
         "id": 943102161
     },
     {
-        "repo": "k230_flash_py",
-        "description": "A cross-platform Kendryte K230 chip firmware flashing tool written in pure Python",
-        "owner": "huangzhenming",
-        "stars": 0,
-        "forks": 0,
-        "size": 12235,
-        "created": "2025-08-26T16:21:47+00:00",
-        "updated": "2025-09-01T12:05:00+00:00",
-        "pushed": "2025-09-01T12:04:57+00:00",
-        "url": "https://github.com/huangzhenming/k230_flash_py",
-        "id": 1045084143
-    },
-    {
         "repo": "k230_rtsmart_lib",
         "description": null,
         "owner": "canmv-k230",
@@ -46891,19 +46826,6 @@
         "id": 1048780842
     },
     {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 595,
-        "forks": 79,
-        "size": 74028,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-09-02T14:31:37+00:00",
-        "pushed": "2025-09-02T10:44:54+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -46915,19 +46837,6 @@
         "pushed": "2025-09-03T05:45:08+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "learn",
-        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
-        "owner": "riscv",
-        "stars": 1010,
-        "forks": 112,
-        "size": 1736,
-        "created": "2023-11-22T21:20:35+00:00",
-        "updated": "2025-09-03T03:13:12+00:00",
-        "pushed": "2025-09-03T03:13:08+00:00",
-        "url": "https://github.com/riscv/learn",
-        "id": 722305838
     },
     {
         "repo": "flippy-openwrt-actions",
@@ -46967,19 +46876,6 @@
         "pushed": "2025-09-03T05:41:12+00:00",
         "url": "https://github.com/canmv-k230/rtsmart",
         "id": 824521722
-    },
-    {
-        "repo": "micropython-ulab",
-        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
-        "owner": "v923z",
-        "stars": 477,
-        "forks": 126,
-        "size": 3568,
-        "created": "2019-08-30T15:33:30+00:00",
-        "updated": "2025-09-03T06:17:13+00:00",
-        "pushed": "2025-09-02T20:15:53+00:00",
-        "url": "https://github.com/v923z/micropython-ulab",
-        "id": 205409848
     },
     {
         "repo": "slides",
@@ -47034,15 +46930,132 @@
         "id": 1000350020
     },
     {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 595,
+        "forks": 79,
+        "size": 74057,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-09-02T14:31:37+00:00",
+        "pushed": "2025-09-04T03:39:59+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "kendryte-hal",
+        "description": "Rust Hardware Abstract Layer (HAL) for Kendryte SoCs",
+        "owner": "rustsbi",
+        "stars": 3,
+        "forks": 3,
+        "size": 439,
+        "created": "2024-11-11T16:31:19+00:00",
+        "updated": "2025-09-03T08:07:02+00:00",
+        "pushed": "2025-09-03T08:06:58+00:00",
+        "url": "https://github.com/rustsbi/kendryte-hal",
+        "id": 886806345
+    },
+    {
+        "repo": "learn",
+        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
+        "owner": "riscv",
+        "stars": 1013,
+        "forks": 112,
+        "size": 1746,
+        "created": "2023-11-22T21:20:35+00:00",
+        "updated": "2025-09-04T03:13:31+00:00",
+        "pushed": "2025-09-04T03:13:27+00:00",
+        "url": "https://github.com/riscv/learn",
+        "id": 722305838
+    },
+    {
+        "repo": "micropython-ulab",
+        "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
+        "owner": "v923z",
+        "stars": 477,
+        "forks": 126,
+        "size": 3551,
+        "created": "2019-08-30T15:33:30+00:00",
+        "updated": "2025-09-03T18:27:31+00:00",
+        "pushed": "2025-09-03T18:27:30+00:00",
+        "url": "https://github.com/v923z/micropython-ulab",
+        "id": 205409848
+    },
+    {
+        "repo": "vihal",
+        "description": "Embedded Hardware Access Library",
+        "owner": "nvitya",
+        "stars": 4,
+        "forks": 3,
+        "size": 9949,
+        "created": "2021-09-28T19:01:30+00:00",
+        "updated": "2025-09-03T09:20:26+00:00",
+        "pushed": "2025-09-03T09:20:23+00:00",
+        "url": "https://github.com/nvitya/vihal",
+        "id": 411406144
+    },
+    {
+        "repo": "k230_flash_py",
+        "description": "A cross-platform Kendryte K230 chip firmware flashing tool written in pure Python",
+        "owner": "huangzhenming",
+        "stars": 0,
+        "forks": 0,
+        "size": 12254,
+        "created": "2025-08-26T16:21:47+00:00",
+        "updated": "2025-09-04T01:33:58+00:00",
+        "pushed": "2025-09-04T01:34:18+00:00",
+        "url": "https://github.com/huangzhenming/k230_flash_py",
+        "id": 1045084143
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 15,
+        "forks": 4,
+        "size": 5929,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-09-03T14:51:47+00:00",
+        "pushed": "2025-09-03T14:51:43+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "2025DianSaiK230",
+        "description": "2025\u7535\u8d5bK230\u56fe\u50cf\u8bc6\u522b\u52a0\u4e8c\u7ef4\u4e91\u53f0\u63a7\u5236",
+        "owner": "Prolxs",
+        "stars": 1,
+        "forks": 0,
+        "size": 10204,
+        "created": "2025-09-03T11:26:33+00:00",
+        "updated": "2025-09-03T11:57:00+00:00",
+        "pushed": "2025-09-03T11:56:57+00:00",
+        "url": "https://github.com/Prolxs/2025DianSaiK230",
+        "id": 1049704469
+    },
+    {
+        "repo": "WRO-FUTURE-ENGINEERS-2025",
+        "description": null,
+        "owner": "alifilhan0",
+        "stars": 0,
+        "forks": 0,
+        "size": 40418,
+        "created": "2025-07-23T19:17:44+00:00",
+        "updated": "2025-09-03T17:33:36+00:00",
+        "pushed": "2025-09-03T17:33:29+00:00",
+        "url": "https://github.com/alifilhan0/WRO-FUTURE-ENGINEERS-2025",
+        "id": 1025131903
+    },
+    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
         "stars": 10,
         "forks": 2,
-        "size": 4818,
+        "size": 5031,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-09-03T02:00:19+00:00",
-        "pushed": "2025-09-03T02:00:16+00:00",
+        "updated": "2025-09-04T02:02:29+00:00",
+        "pushed": "2025-09-04T02:02:26+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -47052,10 +47065,10 @@
         "owner": "androidtrackers",
         "stars": 142,
         "forks": 38,
-        "size": 1082710,
+        "size": 1082724,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-09-02T12:38:31+00:00",
-        "pushed": "2025-09-02T12:38:27+00:00",
+        "updated": "2025-09-03T12:41:58+00:00",
+        "pushed": "2025-09-03T12:41:54+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -47065,10 +47078,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 122297,
+        "size": 122863,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-03T03:19:21+00:00",
-        "pushed": "2025-09-03T03:19:18+00:00",
+        "updated": "2025-09-04T03:19:51+00:00",
+        "pushed": "2025-09-04T03:19:48+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
