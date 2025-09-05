@@ -14638,19 +14638,6 @@
         "id": 993985787
     },
     {
-        "repo": "litespi",
-        "description": "Small footprint and configurable SPI core",
-        "owner": "litex-hub",
-        "stars": 42,
-        "forks": 23,
-        "size": 253,
-        "created": "2020-03-29T10:14:20+00:00",
-        "updated": "2025-06-27T10:30:10+00:00",
-        "pushed": "2025-06-27T10:30:06+00:00",
-        "url": "https://github.com/litex-hub/litespi",
-        "id": 251003436
-    },
-    {
         "repo": "Zynq-litex-template",
         "description": null,
         "owner": "ololoshka2871",
@@ -15964,19 +15951,6 @@
         "id": 137700800
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 121,
-        "forks": 21,
-        "size": 8660,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-08-29T14:11:46+00:00",
-        "pushed": "2025-08-29T14:11:43+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "libtslitex",
         "description": "This is a C library to interface with the LiteX Firmware on Thunderscope over PCIe",
         "owner": "EEVengers",
@@ -15988,19 +15962,6 @@
         "pushed": "2025-08-30T03:02:58+00:00",
         "url": "https://github.com/EEVengers/libtslitex",
         "id": 784979558
-    },
-    {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 5,
-        "forks": 0,
-        "size": 31996,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-08-29T14:39:14+00:00",
-        "pushed": "2025-08-29T14:39:11+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
     },
     {
         "repo": "boxlambda",
@@ -16120,19 +16081,6 @@
         "id": 42041717
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1137,
-        "forks": 229,
-        "size": 1009773,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-09-03T05:41:45+00:00",
-        "pushed": "2025-09-02T21:56:04+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "liteeth",
         "description": "Small footprint and configurable Ethernet core",
         "owner": "enjoy-digital",
@@ -16211,19 +16159,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1148,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-04T03:01:27+00:00",
-        "pushed": "2025-09-04T02:37:01+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "tutorials",
         "description": "OpenRISC Tutorials",
         "owner": "openrisc",
@@ -16235,19 +16170,6 @@
         "pushed": "2025-09-03T11:05:59+00:00",
         "url": "https://github.com/openrisc/tutorials",
         "id": 53802956
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: an intuitive and scalable formal language for coding your reasoning",
-        "owner": "litexlang",
-        "stars": 276,
-        "forks": 2,
-        "size": 27696,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-09-04T05:56:00+00:00",
-        "pushed": "2025-09-04T01:28:17+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "neorv32",
@@ -16287,32 +16209,6 @@
         "pushed": "2025-09-03T19:30:57+00:00",
         "url": "https://github.com/litex-hub/litei2c",
         "id": 862164421
-    },
-    {
-        "repo": "litex-tutorial",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 2,
-        "forks": 0,
-        "size": 100,
-        "created": "2025-08-29T05:50:32+00:00",
-        "updated": "2025-09-04T01:44:52+00:00",
-        "pushed": "2025-09-04T01:44:48+00:00",
-        "url": "https://github.com/litexlang/litex-tutorial",
-        "id": 1046720121
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1513,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-04T05:22:47+00:00",
-        "pushed": "2025-09-04T05:22:44+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "homebrew-tap",
@@ -16367,15 +16263,119 @@
         "id": 615816156
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1140,
+        "forks": 230,
+        "size": 1028006,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-09-05T01:57:52+00:00",
+        "pushed": "2025-09-04T18:09:14+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1151,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-04T22:41:14+00:00",
+        "pushed": "2025-09-05T02:39:55+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 123,
+        "forks": 21,
+        "size": 8307,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-09-05T03:12:14+00:00",
+        "pushed": "2025-09-04T07:25:50+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "litespi",
+        "description": "Small footprint and configurable SPI core",
+        "owner": "litex-hub",
+        "stars": 42,
+        "forks": 23,
+        "size": 232,
+        "created": "2020-03-29T10:14:20+00:00",
+        "updated": "2025-09-04T13:57:59+00:00",
+        "pushed": "2025-09-04T13:57:55+00:00",
+        "url": "https://github.com/litex-hub/litespi",
+        "id": 251003436
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: an intuitive and scalable formal language for coding your reasoning",
+        "owner": "litexlang",
+        "stars": 279,
+        "forks": 2,
+        "size": 27724,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-09-05T01:54:57+00:00",
+        "pushed": "2025-09-05T01:54:54+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 5,
+        "forks": 0,
+        "size": 32010,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-09-04T14:12:05+00:00",
+        "pushed": "2025-09-04T14:12:01+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "litex-tutorial",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 2,
+        "forks": 0,
+        "size": 117,
+        "created": "2025-08-29T05:50:32+00:00",
+        "updated": "2025-09-05T00:57:01+00:00",
+        "pushed": "2025-09-05T00:56:57+00:00",
+        "url": "https://github.com/litexlang/litex-tutorial",
+        "id": 1046720121
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1518,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-05T05:23:18+00:00",
+        "pushed": "2025-09-05T05:23:15+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 2935,
+        "size": 3032,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-04T04:36:31+00:00",
-        "pushed": "2025-09-04T04:36:27+00:00",
+        "updated": "2025-09-05T04:37:25+00:00",
+        "pushed": "2025-09-05T04:37:22+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16385,10 +16385,10 @@
         "owner": "jaalonso",
         "stars": 80,
         "forks": 8,
-        "size": 8664,
+        "size": 9174,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-03T15:30:45+00:00",
-        "pushed": "2025-09-03T15:30:40+00:00",
+        "updated": "2025-09-04T07:06:54+00:00",
+        "pushed": "2025-09-04T07:06:50+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
     },
@@ -16398,10 +16398,10 @@
         "owner": "markemer",
         "stars": 4,
         "forks": 1,
-        "size": 32097,
+        "size": 32931,
         "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-09-04T01:01:29+00:00",
-        "pushed": "2025-09-04T01:01:25+00:00",
+        "updated": "2025-09-05T01:01:46+00:00",
+        "pushed": "2025-09-05T01:01:42+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
     },
@@ -16411,10 +16411,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 122863,
+        "size": 123429,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-04T03:19:51+00:00",
-        "pushed": "2025-09-04T03:19:48+00:00",
+        "updated": "2025-09-05T03:22:47+00:00",
+        "pushed": "2025-09-05T03:22:44+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
