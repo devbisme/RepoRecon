@@ -5941,19 +5941,6 @@
         "id": 314673708
     },
     {
-        "repo": "myhdl-numeric",
-        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
-        "owner": "jmgc",
-        "stars": 4,
-        "forks": 1,
-        "size": 13810,
-        "created": "2015-07-12T21:03:43+00:00",
-        "updated": "2025-09-04T04:27:22+00:00",
-        "pushed": "2025-09-04T04:27:19+00:00",
-        "url": "https://github.com/jmgc/myhdl-numeric",
-        "id": 38977954
-    },
-    {
         "repo": "Y86-64",
         "description": "\u0420\u0435\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b Y86-64 \u043f\u0440\u0438 \u043f\u043e\u043c\u043e\u0449\u0438 MyHDL",
         "owner": "Andrey793",
@@ -6004,5 +5991,18 @@
         "pushed": "2025-09-04T09:13:55+00:00",
         "url": "https://github.com/YaraHazem4/MIPS-Single-Cycle-Processor",
         "id": 1049889100
+    },
+    {
+        "repo": "myhdl-numeric",
+        "description": "Myhdl fork that includes support for multiple entities (MEP110) and fixed point functionality (MEP 111) on VHDL. See myhdl/numeric dir under the numeric branch, and the Cordic example (example/cordic/Cordic.ipynb).",
+        "owner": "jmgc",
+        "stars": 4,
+        "forks": 1,
+        "size": 13912,
+        "created": "2015-07-12T21:03:43+00:00",
+        "updated": "2025-09-06T14:04:41+00:00",
+        "pushed": "2025-09-06T14:04:38+00:00",
+        "url": "https://github.com/jmgc/myhdl-numeric",
+        "id": 38977954
     }
 ]
