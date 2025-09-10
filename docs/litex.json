@@ -14300,19 +14300,6 @@
         "id": 991562962
     },
     {
-        "repo": "pythondata-cpu-coreblocks",
-        "description": "Python module containing system_verilog files for coreblocks cpu (for use with LiteX). ",
-        "owner": "litex-hub",
-        "stars": 0,
-        "forks": 0,
-        "size": 9,
-        "created": "2025-05-14T16:23:57+00:00",
-        "updated": "2025-05-15T07:53:08+00:00",
-        "pushed": "2025-05-26T08:20:59+00:00",
-        "url": "https://github.com/litex-hub/pythondata-cpu-coreblocks",
-        "id": 983605868
-    },
-    {
         "repo": "Caravel_NPU_FPGA_2025",
         "description": null,
         "owner": "rhit-neuro",
@@ -14480,19 +14467,6 @@
         "pushed": "2025-06-09T15:02:06+00:00",
         "url": "https://github.com/Poziomas/Skrypty-wycen-Litex",
         "id": 998972331
-    },
-    {
-        "repo": "litex-boards",
-        "description": null,
-        "owner": "yhzhang0128",
-        "stars": 0,
-        "forks": 0,
-        "size": 3927,
-        "created": "2025-06-04T05:12:12+00:00",
-        "updated": "2025-06-14T05:00:34+00:00",
-        "pushed": "2025-06-14T05:01:03+00:00",
-        "url": "https://github.com/yhzhang0128/litex-boards",
-        "id": 995846850
     },
     {
         "repo": "LiTeX-eq-renderer",
@@ -15730,19 +15704,6 @@
         "id": 1043642789
     },
     {
-        "repo": "Description-of-Obtaining-Results",
-        "description": null,
-        "owner": "Vadimsdsys",
-        "stars": 0,
-        "forks": 0,
-        "size": 6,
-        "created": "2025-08-13T08:43:21+00:00",
-        "updated": "2025-08-25T11:16:08+00:00",
-        "pushed": "2025-08-25T11:16:05+00:00",
-        "url": "https://github.com/Vadimsdsys/Description-of-Obtaining-Results",
-        "id": 1037220387
-    },
-    {
         "repo": "tock-litex",
         "description": "Companion repository to Tock on LiteX SoCs, containing the hardware build scripts, documentation and bitstreams",
         "owner": "lschuermann",
@@ -15754,19 +15715,6 @@
         "pushed": "2025-08-26T20:40:29+00:00",
         "url": "https://github.com/lschuermann/tock-litex",
         "id": 323041945
-    },
-    {
-        "repo": "pylitex",
-        "description": "pylitex is a Python package that allows users to call Litex in Python.",
-        "owner": "litexlang",
-        "stars": 1,
-        "forks": 0,
-        "size": 29,
-        "created": "2025-08-11T06:40:14+00:00",
-        "updated": "2025-08-27T01:34:26+00:00",
-        "pushed": "2025-08-27T01:34:23+00:00",
-        "url": "https://github.com/litexlang/pylitex",
-        "id": 1035827713
     },
     {
         "repo": "litex-tutorial",
@@ -16042,19 +15990,6 @@
         "id": 862164421
     },
     {
-        "repo": "homebrew-tap",
-        "description": "Litex homebrew tap config",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 19,
-        "created": "2025-07-29T07:26:15+00:00",
-        "updated": "2025-09-04T01:37:49+00:00",
-        "pushed": "2025-09-04T01:37:46+00:00",
-        "url": "https://github.com/litexlang/homebrew-tap",
-        "id": 1028207026
-    },
-    {
         "repo": "litex-examples",
         "description": null,
         "owner": "litexlang",
@@ -16081,19 +16016,6 @@
         "id": 990637782
     },
     {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 6,
-        "forks": 0,
-        "size": 400,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2025-09-03T19:05:17+00:00",
-        "pushed": "2025-09-03T19:05:13+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
-    },
-    {
         "repo": "ThunderScope",
         "description": "ThunderScope GitHub Repo",
         "owner": "EEVengers",
@@ -16107,19 +16029,6 @@
         "id": 190029235
     },
     {
-        "repo": "litespi",
-        "description": "Small footprint and configurable SPI core",
-        "owner": "litex-hub",
-        "stars": 42,
-        "forks": 23,
-        "size": 232,
-        "created": "2020-03-29T10:14:20+00:00",
-        "updated": "2025-09-04T13:57:59+00:00",
-        "pushed": "2025-09-04T13:57:55+00:00",
-        "url": "https://github.com/litex-hub/litespi",
-        "id": 251003436
-    },
-    {
         "repo": "litex_m2sdr",
         "description": "LiteX based M2 SDR FPGA board.",
         "owner": "enjoy-digital",
@@ -16131,45 +16040,6 @@
         "pushed": "2025-09-05T10:08:58+00:00",
         "url": "https://github.com/enjoy-digital/litex_m2sdr",
         "id": 800027977
-    },
-    {
-        "repo": "golitex",
-        "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
-        "owner": "litexlang",
-        "stars": 289,
-        "forks": 2,
-        "size": 27732,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-09-06T04:49:08+00:00",
-        "pushed": "2025-09-06T01:30:29+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1844,
-        "forks": 279,
-        "size": 239525,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-09-06T04:49:24+00:00",
-        "pushed": "2025-09-06T04:51:16+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 34277,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-09-06T01:02:57+00:00",
-        "pushed": "2025-09-06T01:02:53+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "FazyRV",
@@ -16237,19 +16107,6 @@
         "id": 908413312
     },
     {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3481,
-        "forks": 642,
-        "size": 17887,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-09-08T22:12:34+00:00",
-        "pushed": "2025-09-08T13:50:37+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -16261,19 +16118,6 @@
         "pushed": "2025-09-08T11:23:44+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1154,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-08T09:21:34+00:00",
-        "pushed": "2025-09-09T02:41:55+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "tutorials",
@@ -16289,19 +16133,6 @@
         "id": 53802956
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 60,
-        "forks": 19,
-        "size": 68971,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-09-08T22:43:33+00:00",
-        "pushed": "2025-09-08T23:06:28+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "wr_acorn",
         "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
         "owner": "oscimp",
@@ -16313,19 +16144,6 @@
         "pushed": "2025-09-08T15:09:07+00:00",
         "url": "https://github.com/oscimp/wr_acorn",
         "id": 972708089
-    },
-    {
-        "repo": "litex-tutorial",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 2,
-        "forks": 0,
-        "size": 140,
-        "created": "2025-08-29T05:50:32+00:00",
-        "updated": "2025-09-09T01:07:10+00:00",
-        "pushed": "2025-09-09T01:07:06+00:00",
-        "url": "https://github.com/litexlang/litex-tutorial",
-        "id": 1046720121
     },
     {
         "repo": "LiTEx",
@@ -16341,19 +16159,6 @@
         "id": 992109515
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1542,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-09T05:23:53+00:00",
-        "pushed": "2025-09-09T05:23:49+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "description": "Starting a Mining Pool? We provide the software, scripts, and professional services to install, configure, and set up a Yiimp crypto mining pool on Ubuntu 20.04, 22.04, and 24.04 VPS or dedicated servers. ** SCROLL DOWN  TO LEARN MORE **",
         "owner": "goodthebest",
@@ -16365,32 +16170,6 @@
         "pushed": "2025-09-08T08:28:07+00:00",
         "url": "https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux",
         "id": 137700800
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 3212,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-09T04:37:12+00:00",
-        "pushed": "2025-09-09T04:37:09+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 80,
-        "forks": 8,
-        "size": 10196,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-08T09:28:28+00:00",
-        "pushed": "2025-09-08T09:28:24+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
     },
     {
         "repo": "awesome-stars",
@@ -16406,15 +16185,275 @@
         "id": 171871908
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3483,
+        "forks": 642,
+        "size": 17888,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-09-09T08:44:11+00:00",
+        "pushed": "2025-09-09T07:58:25+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1153,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-09T19:26:31+00:00",
+        "pushed": "2025-09-10T02:38:03+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litespi",
+        "description": "Small footprint and configurable SPI core",
+        "owner": "litex-hub",
+        "stars": 42,
+        "forks": 23,
+        "size": 235,
+        "created": "2020-03-29T10:14:20+00:00",
+        "updated": "2025-09-09T15:23:31+00:00",
+        "pushed": "2025-09-09T15:23:27+00:00",
+        "url": "https://github.com/litex-hub/litespi",
+        "id": 251003436
+    },
+    {
+        "repo": "golitex",
+        "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
+        "owner": "litexlang",
+        "stars": 293,
+        "forks": 2,
+        "size": 27743,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-09-09T12:07:42+00:00",
+        "pushed": "2025-09-09T12:07:37+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 60,
+        "forks": 19,
+        "size": 69732,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-09-09T14:13:17+00:00",
+        "pushed": "2025-09-09T14:35:41+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1848,
+        "forks": 279,
+        "size": 239626,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-09-10T04:41:55+00:00",
+        "pushed": "2025-09-10T04:33:38+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "pylitex",
+        "description": "pylitex is a Python package that allows users to call Litex in Python.",
+        "owner": "litexlang",
+        "stars": 3,
+        "forks": 0,
+        "size": 39,
+        "created": "2025-08-11T06:40:14+00:00",
+        "updated": "2025-09-10T03:25:09+00:00",
+        "pushed": "2025-09-10T03:22:52+00:00",
+        "url": "https://github.com/litexlang/pylitex",
+        "id": 1035827713
+    },
+    {
+        "repo": "litecompute_sdr_poc",
+        "description": "Creating FPGA based accelerators with LiteX.",
+        "owner": "enjoy-digital",
+        "stars": 4,
+        "forks": 0,
+        "size": 405,
+        "created": "2025-03-11T07:31:11+00:00",
+        "updated": "2025-09-09T15:41:48+00:00",
+        "pushed": "2025-09-09T15:41:45+00:00",
+        "url": "https://github.com/enjoy-digital/litecompute_sdr_poc",
+        "id": 946469834
+    },
+    {
+        "repo": "litex-tutorial",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 2,
+        "forks": 0,
+        "size": 150,
+        "created": "2025-08-29T05:50:32+00:00",
+        "updated": "2025-09-10T03:38:32+00:00",
+        "pushed": "2025-09-10T03:38:29+00:00",
+        "url": "https://github.com/litexlang/litex-tutorial",
+        "id": 1046720121
+    },
+    {
+        "repo": "shareboard",
+        "description": "A litex cooperating website.",
+        "owner": "Zecyel",
+        "stars": 3,
+        "forks": 0,
+        "size": 71,
+        "created": "2025-09-09T11:00:06+00:00",
+        "updated": "2025-09-10T03:03:53+00:00",
+        "pushed": "2025-09-10T03:03:50+00:00",
+        "url": "https://github.com/Zecyel/shareboard",
+        "id": 1053369322
+    },
+    {
+        "repo": "litex-boards",
+        "description": null,
+        "owner": "yhzhang0128",
+        "stars": 0,
+        "forks": 0,
+        "size": 3938,
+        "created": "2025-06-04T05:12:12+00:00",
+        "updated": "2025-09-10T04:26:21+00:00",
+        "pushed": "2025-09-10T04:26:18+00:00",
+        "url": "https://github.com/yhzhang0128/litex-boards",
+        "id": 995846850
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1541,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-10T05:23:21+00:00",
+        "pushed": "2025-09-10T05:23:18+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "pythondata-cpu-coreblocks",
+        "description": "Python module containing system_verilog files for coreblocks cpu (for use with LiteX). ",
+        "owner": "litex-hub",
+        "stars": 0,
+        "forks": 0,
+        "size": 10,
+        "created": "2025-05-14T16:23:57+00:00",
+        "updated": "2025-09-09T19:55:02+00:00",
+        "pushed": "2025-09-09T19:54:59+00:00",
+        "url": "https://github.com/litex-hub/pythondata-cpu-coreblocks",
+        "id": 983605868
+    },
+    {
+        "repo": "homebrew-tap",
+        "description": "Litex homebrew tap config",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 19,
+        "created": "2025-07-29T07:26:15+00:00",
+        "updated": "2025-09-09T12:10:18+00:00",
+        "pushed": "2025-09-09T12:10:14+00:00",
+        "url": "https://github.com/litexlang/homebrew-tap",
+        "id": 1028207026
+    },
+    {
+        "repo": "litex-stdlib-gen",
+        "description": "An AI pipeline for Litex Standard Library generation.",
+        "owner": "Zecyel",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-09-10T05:41:37+00:00",
+        "updated": "2025-09-10T05:41:41+00:00",
+        "pushed": "2025-09-10T05:41:38+00:00",
+        "url": "https://github.com/Zecyel/litex-stdlib-gen",
+        "id": 1053915280
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 6,
+        "forks": 0,
+        "size": 275,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2025-09-09T15:09:51+00:00",
+        "pushed": "2025-09-09T15:09:47+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
+        "repo": "Description-of-Obtaining-Results",
+        "description": null,
+        "owner": "Vadimsdsys",
+        "stars": 0,
+        "forks": 0,
+        "size": 33,
+        "created": "2025-08-13T08:43:21+00:00",
+        "updated": "2025-09-09T14:28:14+00:00",
+        "pushed": "2025-09-09T14:28:11+00:00",
+        "url": "https://github.com/Vadimsdsys/Description-of-Obtaining-Results",
+        "id": 1037220387
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 1878,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-09-10T04:36:07+00:00",
+        "pushed": "2025-09-10T04:36:03+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 80,
+        "forks": 8,
+        "size": 10198,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-09-09T06:47:51+00:00",
+        "pushed": "2025-09-09T06:47:48+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 35626,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-09-10T01:03:27+00:00",
+        "pushed": "2025-09-10T01:03:23+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 116029,
+        "size": 116595,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-09T03:25:02+00:00",
-        "pushed": "2025-09-09T03:24:58+00:00",
+        "updated": "2025-09-10T03:19:46+00:00",
+        "pushed": "2025-09-10T03:19:42+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
