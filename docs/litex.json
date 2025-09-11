@@ -14755,19 +14755,6 @@
         "id": 1012183066
     },
     {
-        "repo": "linux-on-litex-vexriscv",
-        "description": "Linux on LiteX-VexRiscv",
-        "owner": "litex-hub",
-        "stars": 644,
-        "forks": 193,
-        "size": 9809,
-        "created": "2019-04-25T08:36:15+00:00",
-        "updated": "2025-07-02T19:26:14+00:00",
-        "pushed": "2025-07-02T19:26:09+00:00",
-        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
-        "id": 183392076
-    },
-    {
         "repo": "litedram",
         "description": "Small footprint and configurable DRAM core",
         "owner": "enjoy-digital",
@@ -15782,19 +15769,6 @@
         "id": 232016273
     },
     {
-        "repo": "litex_wr_nic",
-        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
-        "owner": "enjoy-digital",
-        "stars": 12,
-        "forks": 6,
-        "size": 9958,
-        "created": "2024-03-27T08:02:37+00:00",
-        "updated": "2025-08-28T15:15:55+00:00",
-        "pushed": "2025-08-28T15:15:50+00:00",
-        "url": "https://github.com/enjoy-digital/litex_wr_nic",
-        "id": 778169492
-    },
-    {
         "repo": "litex",
         "description": "A high-performance TypeScript web framework combining Ultimate Express, Svelte 5, and Inertia.js for building modern full-stack applications. Features server-side rendering, real-time capabilities, and seamless client-server state management.",
         "owner": "arghoritma",
@@ -16198,19 +16172,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1153,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-09T19:26:31+00:00",
-        "pushed": "2025-09-10T02:38:03+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "litespi",
         "description": "Small footprint and configurable SPI core",
         "owner": "litex-hub",
@@ -16222,19 +16183,6 @@
         "pushed": "2025-09-09T15:23:27+00:00",
         "url": "https://github.com/litex-hub/litespi",
         "id": 251003436
-    },
-    {
-        "repo": "golitex",
-        "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
-        "owner": "litexlang",
-        "stars": 293,
-        "forks": 2,
-        "size": 27743,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-09-09T12:07:42+00:00",
-        "pushed": "2025-09-09T12:07:37+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "coreblocks",
@@ -16302,19 +16250,6 @@
         "id": 1046720121
     },
     {
-        "repo": "shareboard",
-        "description": "A litex cooperating website.",
-        "owner": "Zecyel",
-        "stars": 3,
-        "forks": 0,
-        "size": 71,
-        "created": "2025-09-09T11:00:06+00:00",
-        "updated": "2025-09-10T03:03:53+00:00",
-        "pushed": "2025-09-10T03:03:50+00:00",
-        "url": "https://github.com/Zecyel/shareboard",
-        "id": 1053369322
-    },
-    {
         "repo": "litex-boards",
         "description": null,
         "owner": "yhzhang0128",
@@ -16326,19 +16261,6 @@
         "pushed": "2025-09-10T04:26:18+00:00",
         "url": "https://github.com/yhzhang0128/litex-boards",
         "id": 995846850
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1541,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-10T05:23:21+00:00",
-        "pushed": "2025-09-10T05:23:18+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "pythondata-cpu-coreblocks",
@@ -16354,19 +16276,6 @@
         "id": 983605868
     },
     {
-        "repo": "homebrew-tap",
-        "description": "Litex homebrew tap config",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 19,
-        "created": "2025-07-29T07:26:15+00:00",
-        "updated": "2025-09-09T12:10:18+00:00",
-        "pushed": "2025-09-09T12:10:14+00:00",
-        "url": "https://github.com/litexlang/homebrew-tap",
-        "id": 1028207026
-    },
-    {
         "repo": "litex-stdlib-gen",
         "description": "An AI pipeline for Litex Standard Library generation.",
         "owner": "Zecyel",
@@ -16378,19 +16287,6 @@
         "pushed": "2025-09-10T05:41:38+00:00",
         "url": "https://github.com/Zecyel/litex-stdlib-gen",
         "id": 1053915280
-    },
-    {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 6,
-        "forks": 0,
-        "size": 275,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2025-09-09T15:09:51+00:00",
-        "pushed": "2025-09-09T15:09:47+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
     },
     {
         "repo": "Description-of-Obtaining-Results",
@@ -16406,32 +16302,6 @@
         "id": 1037220387
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 1878,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-10T04:36:07+00:00",
-        "pushed": "2025-09-10T04:36:03+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 80,
-        "forks": 8,
-        "size": 10198,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-09T06:47:51+00:00",
-        "pushed": "2025-09-09T06:47:48+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -16445,15 +16315,158 @@
         "id": 330793471
     },
     {
+        "repo": "linux-on-litex-vexriscv",
+        "description": "Linux on LiteX-VexRiscv",
+        "owner": "litex-hub",
+        "stars": 655,
+        "forks": 198,
+        "size": 9798,
+        "created": "2019-04-25T08:36:15+00:00",
+        "updated": "2025-09-10T17:40:20+00:00",
+        "pushed": "2025-09-10T11:35:59+00:00",
+        "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
+        "id": 183392076
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1154,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-11T00:21:29+00:00",
+        "pushed": "2025-09-11T02:30:43+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
+        "owner": "litexlang",
+        "stars": 294,
+        "forks": 2,
+        "size": 27778,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-09-11T01:06:40+00:00",
+        "pushed": "2025-09-10T06:48:52+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "litex_wr_nic",
+        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
+        "owner": "enjoy-digital",
+        "stars": 13,
+        "forks": 7,
+        "size": 9959,
+        "created": "2024-03-27T08:02:37+00:00",
+        "updated": "2025-09-10T17:38:25+00:00",
+        "pushed": "2025-09-10T17:38:21+00:00",
+        "url": "https://github.com/enjoy-digital/litex_wr_nic",
+        "id": 778169492
+    },
+    {
+        "repo": "shareboard",
+        "description": "A litex cooperating website.",
+        "owner": "Zecyel",
+        "stars": 3,
+        "forks": 0,
+        "size": 80,
+        "created": "2025-09-09T11:00:06+00:00",
+        "updated": "2025-09-11T02:35:45+00:00",
+        "pushed": "2025-09-11T02:35:42+00:00",
+        "url": "https://github.com/Zecyel/shareboard",
+        "id": 1053369322
+    },
+    {
+        "repo": "litex-simple-soc",
+        "description": "Belajar RISC-V simple SOC menggunakan migen & litex",
+        "owner": "vanbwodonk",
+        "stars": 0,
+        "forks": 0,
+        "size": 2257,
+        "created": "2025-09-10T08:18:37+00:00",
+        "updated": "2025-09-11T04:35:02+00:00",
+        "pushed": "2025-09-11T04:34:58+00:00",
+        "url": "https://github.com/vanbwodonk/litex-simple-soc",
+        "id": 1053999598
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1548,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-11T05:24:06+00:00",
+        "pushed": "2025-09-11T05:24:03+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "homebrew-tap",
+        "description": "Litex homebrew tap config",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 20,
+        "created": "2025-07-29T07:26:15+00:00",
+        "updated": "2025-09-10T06:50:39+00:00",
+        "pushed": "2025-09-10T06:50:36+00:00",
+        "url": "https://github.com/litexlang/homebrew-tap",
+        "id": 1028207026
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 6,
+        "forks": 0,
+        "size": 286,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2025-09-10T12:13:03+00:00",
+        "pushed": "2025-09-10T12:12:59+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 1879,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-09-11T04:36:30+00:00",
+        "pushed": "2025-09-11T04:36:27+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 80,
+        "forks": 8,
+        "size": 10708,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-09-10T06:54:58+00:00",
+        "pushed": "2025-09-10T06:54:54+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 116595,
+        "size": 117135,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-10T03:19:46+00:00",
-        "pushed": "2025-09-10T03:19:42+00:00",
+        "updated": "2025-09-11T03:24:20+00:00",
+        "pushed": "2025-09-11T03:24:16+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
