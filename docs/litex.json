@@ -14625,19 +14625,6 @@
         "id": 1009551276
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 22,
-        "forks": 8,
-        "size": 6118,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2025-06-30T04:41:24+00:00",
-        "pushed": "2025-06-29T22:23:16+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "patch_litex_linux_for_alinx7020",
         "description": null,
         "owner": "itisme",
@@ -15821,19 +15808,6 @@
         "id": 784979558
     },
     {
-        "repo": "boxlambda",
-        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
-        "owner": "epsilon537",
-        "stars": 66,
-        "forks": 0,
-        "size": 600986,
-        "created": "2022-03-24T10:49:49+00:00",
-        "updated": "2025-08-22T09:18:01+00:00",
-        "pushed": "2025-08-29T12:50:48+00:00",
-        "url": "https://github.com/epsilon537/boxlambda",
-        "id": 473564418
-    },
-    {
         "repo": "openCologne",
         "description": "Spicing up the first and (no longer) the only EU FPGA chip with a flashy new board, loaded with a suite of engaging demos and examples => https://www.chili-chips.xyz/open-cologne | Also see https://nanoxplore.com ",
         "owner": "chili-chips-ba",
@@ -16001,19 +15975,6 @@
         "pushed": "2025-09-04T18:09:14+00:00",
         "url": "https://github.com/EEVengers/ThunderScope",
         "id": 190029235
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 124,
-        "forks": 21,
-        "size": 8312,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-09-05T21:19:20+00:00",
-        "pushed": "2025-09-05T10:08:58+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
     },
     {
         "repo": "FazyRV",
@@ -16198,19 +16159,6 @@
         "id": 468027705
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1848,
-        "forks": 279,
-        "size": 239626,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-09-10T04:41:55+00:00",
-        "pushed": "2025-09-10T04:33:38+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "pylitex",
         "description": "pylitex is a Python package that allows users to call Litex in Python.",
         "owner": "litexlang",
@@ -16328,19 +16276,6 @@
         "id": 183392076
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1154,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-11T00:21:29+00:00",
-        "pushed": "2025-09-11T02:30:43+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "golitex",
         "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
         "owner": "litexlang",
@@ -16352,19 +16287,6 @@
         "pushed": "2025-09-10T06:48:52+00:00",
         "url": "https://github.com/litexlang/golitex",
         "id": 888329277
-    },
-    {
-        "repo": "litex_wr_nic",
-        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
-        "owner": "enjoy-digital",
-        "stars": 13,
-        "forks": 7,
-        "size": 9959,
-        "created": "2024-03-27T08:02:37+00:00",
-        "updated": "2025-09-10T17:38:25+00:00",
-        "pushed": "2025-09-10T17:38:21+00:00",
-        "url": "https://github.com/enjoy-digital/litex_wr_nic",
-        "id": 778169492
     },
     {
         "repo": "shareboard",
@@ -16393,19 +16315,6 @@
         "id": 1053999598
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1548,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-11T05:24:06+00:00",
-        "pushed": "2025-09-11T05:24:03+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "homebrew-tap",
         "description": "Litex homebrew tap config",
         "owner": "litexlang",
@@ -16432,15 +16341,106 @@
         "id": 615816156
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1156,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-12T01:57:13+00:00",
+        "pushed": "2025-09-12T02:37:20+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 124,
+        "forks": 22,
+        "size": 8329,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-09-11T09:51:13+00:00",
+        "pushed": "2025-09-11T09:51:10+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 24,
+        "forks": 9,
+        "size": 6121,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2025-09-12T04:32:21+00:00",
+        "pushed": "2025-09-12T04:32:17+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "litex_wr_nic",
+        "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
+        "owner": "enjoy-digital",
+        "stars": 13,
+        "forks": 7,
+        "size": 9967,
+        "created": "2024-03-27T08:02:37+00:00",
+        "updated": "2025-09-11T08:56:04+00:00",
+        "pushed": "2025-09-11T08:56:00+00:00",
+        "url": "https://github.com/enjoy-digital/litex_wr_nic",
+        "id": 778169492
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1849,
+        "forks": 279,
+        "size": 239452,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-09-11T23:20:06+00:00",
+        "pushed": "2025-09-11T19:13:21+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "boxlambda",
+        "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
+        "owner": "epsilon537",
+        "stars": 66,
+        "forks": 0,
+        "size": 602706,
+        "created": "2022-03-24T10:49:49+00:00",
+        "updated": "2025-09-11T14:58:34+00:00",
+        "pushed": "2025-09-11T14:58:31+00:00",
+        "url": "https://github.com/epsilon537/boxlambda",
+        "id": 473564418
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1554,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-12T05:23:21+00:00",
+        "pushed": "2025-09-12T05:23:18+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 1879,
+        "size": 1976,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-11T04:36:30+00:00",
-        "pushed": "2025-09-11T04:36:27+00:00",
+        "updated": "2025-09-12T04:35:56+00:00",
+        "pushed": "2025-09-12T04:35:52+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16450,10 +16450,10 @@
         "owner": "jaalonso",
         "stars": 80,
         "forks": 8,
-        "size": 10708,
+        "size": 10710,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-10T06:54:58+00:00",
-        "pushed": "2025-09-10T06:54:54+00:00",
+        "updated": "2025-09-11T07:22:46+00:00",
+        "pushed": "2025-09-11T07:22:42+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
     },
@@ -16463,10 +16463,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 117135,
+        "size": 117704,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-11T03:24:20+00:00",
-        "pushed": "2025-09-11T03:24:16+00:00",
+        "updated": "2025-09-12T03:19:28+00:00",
+        "pushed": "2025-09-12T03:19:24+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
