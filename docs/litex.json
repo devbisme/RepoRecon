@@ -16068,19 +16068,6 @@
         "id": 53802956
     },
     {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 5,
-        "forks": 0,
-        "size": 32024,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-09-08T15:09:11+00:00",
-        "pushed": "2025-09-08T15:09:07+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
-    },
-    {
         "repo": "LiTEx",
         "description": "Dataset and Implementation of the paper \"LiTEx: A Linguistic Taxonomy of Explanations for Understanding Within-Label Variation in Natural Language Inference\"",
         "owner": "mainlp",
@@ -16196,19 +16183,6 @@
         "pushed": "2025-09-10T03:38:29+00:00",
         "url": "https://github.com/litexlang/litex-tutorial",
         "id": 1046720121
-    },
-    {
-        "repo": "litex-boards",
-        "description": null,
-        "owner": "yhzhang0128",
-        "stars": 0,
-        "forks": 0,
-        "size": 3938,
-        "created": "2025-06-04T05:12:12+00:00",
-        "updated": "2025-09-10T04:26:21+00:00",
-        "pushed": "2025-09-10T04:26:18+00:00",
-        "url": "https://github.com/yhzhang0128/litex-boards",
-        "id": 995846850
     },
     {
         "repo": "pythondata-cpu-coreblocks",
@@ -16341,32 +16315,6 @@
         "id": 615816156
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1156,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-12T01:57:13+00:00",
-        "pushed": "2025-09-12T02:37:20+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 124,
-        "forks": 22,
-        "size": 8329,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2025-09-11T09:51:13+00:00",
-        "pushed": "2025-09-11T09:51:10+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "thunderscope_litex",
         "description": "LiteX based FPGA gateware for Thunderscope.",
         "owner": "EEVengers",
@@ -16393,19 +16341,6 @@
         "id": 778169492
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1849,
-        "forks": 279,
-        "size": 239452,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-09-11T23:20:06+00:00",
-        "pushed": "2025-09-11T19:13:21+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "boxlambda",
         "description": "FPGA based microcomputer sandbox for software and RTL experimentation",
         "owner": "epsilon537",
@@ -16419,15 +16354,80 @@
         "id": 473564418
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1157,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-13T03:20:01+00:00",
+        "pushed": "2025-09-13T02:27:09+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 124,
+        "forks": 22,
+        "size": 8356,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2025-09-12T17:51:10+00:00",
+        "pushed": "2025-09-12T17:51:07+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1852,
+        "forks": 279,
+        "size": 239452,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-09-13T03:10:58+00:00",
+        "pushed": "2025-09-13T05:32:30+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 5,
+        "forks": 0,
+        "size": 32032,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-09-12T15:30:41+00:00",
+        "pushed": "2025-09-12T15:30:37+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "litex-boards",
+        "description": null,
+        "owner": "yhzhang0128",
+        "stars": 0,
+        "forks": 0,
+        "size": 3945,
+        "created": "2025-06-04T05:12:12+00:00",
+        "updated": "2025-09-13T04:44:01+00:00",
+        "pushed": "2025-09-13T04:43:58+00:00",
+        "url": "https://github.com/yhzhang0128/litex-boards",
+        "id": 995846850
+    },
+    {
         "repo": "SantaCRC",
         "description": "Config files for my GitHub profile.",
         "owner": "SantaCRC",
         "stars": 0,
         "forks": 0,
-        "size": 1554,
+        "size": 1561,
         "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-12T05:23:21+00:00",
-        "pushed": "2025-09-12T05:23:18+00:00",
+        "updated": "2025-09-13T05:21:26+00:00",
+        "pushed": "2025-09-13T05:21:22+00:00",
         "url": "https://github.com/SantaCRC/SantaCRC",
         "id": 356780986
     },
@@ -16437,10 +16437,10 @@
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 1976,
+        "size": 2074,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-12T04:35:56+00:00",
-        "pushed": "2025-09-12T04:35:52+00:00",
+        "updated": "2025-09-13T04:35:41+00:00",
+        "pushed": "2025-09-13T04:35:38+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16450,10 +16450,10 @@
         "owner": "jaalonso",
         "stars": 80,
         "forks": 8,
-        "size": 10710,
+        "size": 11220,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-11T07:22:46+00:00",
-        "pushed": "2025-09-11T07:22:42+00:00",
+        "updated": "2025-09-12T06:46:46+00:00",
+        "pushed": "2025-09-12T06:46:42+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
     },
@@ -16463,10 +16463,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 117704,
+        "size": 118271,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-12T03:19:28+00:00",
-        "pushed": "2025-09-12T03:19:24+00:00",
+        "updated": "2025-09-13T03:15:01+00:00",
+        "pushed": "2025-09-13T03:14:57+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
