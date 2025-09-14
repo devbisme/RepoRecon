@@ -5811,32 +5811,6 @@
         "id": 88018788
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 40,
-        "forks": 7,
-        "size": 6735,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-07-15T09:56:40+00:00",
-        "pushed": "2025-07-15T09:56:36+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 213,
-        "forks": 29,
-        "size": 20316,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-07-15T09:56:34+00:00",
-        "pushed": "2025-07-15T09:56:30+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "vcd-samples",
         "description": "sample VCD files",
         "owner": "wavedrom",
@@ -6017,5 +5991,44 @@
         "pushed": "2025-09-11T09:00:32+00:00",
         "url": "https://github.com/tmm88/THOUGHTS-ON-DIGITAL-SIGNAL-PROCESSING",
         "id": 1054733496
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 43,
+        "forks": 7,
+        "size": 6835,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-09-13T12:57:15+00:00",
+        "pushed": "2025-09-13T12:57:10+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 216,
+        "forks": 29,
+        "size": 20355,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-09-13T12:57:09+00:00",
+        "pushed": "2025-09-13T12:57:05+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "Venkata_Mulleti_RTL",
+        "description": "UART_verilog",
+        "owner": "mvgprasanth",
+        "stars": 0,
+        "forks": 0,
+        "size": 66,
+        "created": "2025-09-12T09:44:59+00:00",
+        "updated": "2025-09-12T09:48:05+00:00",
+        "pushed": "2025-09-12T09:48:01+00:00",
+        "url": "https://github.com/mvgprasanth/Venkata_Mulleti_RTL",
+        "id": 1055457963
     }
 ]
