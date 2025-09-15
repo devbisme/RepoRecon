@@ -15652,19 +15652,6 @@
         "id": 559997034
     },
     {
-        "repo": "tang-nano-20k-litex-examples",
-        "description": "tang nano litex examples",
-        "owner": "Dravigon",
-        "stars": 0,
-        "forks": 0,
-        "size": 59,
-        "created": "2025-08-24T10:03:58+00:00",
-        "updated": "2025-08-24T10:10:12+00:00",
-        "pushed": "2025-08-24T10:10:09+00:00",
-        "url": "https://github.com/Dravigon/tang-nano-20k-litex-examples",
-        "id": 1043642789
-    },
-    {
         "repo": "tock-litex",
         "description": "Companion repository to Tock on LiteX SoCs, containing the hardware build scripts, documentation and bitstreams",
         "owner": "lschuermann",
@@ -15938,19 +15925,6 @@
         "id": 990637782
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1140,
-        "forks": 230,
-        "size": 1028006,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-09-05T01:57:52+00:00",
-        "pushed": "2025-09-04T18:09:14+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "FazyRV",
         "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
         "owner": "meiniKi",
@@ -16185,19 +16159,6 @@
         "id": 1053369322
     },
     {
-        "repo": "litex-simple-soc",
-        "description": "Belajar RISC-V simple SOC menggunakan migen & litex",
-        "owner": "vanbwodonk",
-        "stars": 0,
-        "forks": 0,
-        "size": 2257,
-        "created": "2025-09-10T08:18:37+00:00",
-        "updated": "2025-09-11T04:35:02+00:00",
-        "pushed": "2025-09-11T04:34:58+00:00",
-        "url": "https://github.com/vanbwodonk/litex-simple-soc",
-        "id": 1053999598
-    },
-    {
         "repo": "thunderscope_litex",
         "description": "LiteX based FPGA gateware for Thunderscope.",
         "owner": "EEVengers",
@@ -16237,19 +16198,6 @@
         "id": 800027977
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1852,
-        "forks": 279,
-        "size": 239452,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-09-13T03:10:58+00:00",
-        "pushed": "2025-09-13T05:32:30+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "litex-boards",
         "description": null,
         "owner": "yhzhang0128",
@@ -16274,32 +16222,6 @@
         "pushed": "2025-09-13T07:49:41+00:00",
         "url": "https://github.com/litex-hub/linux-on-litex-vexriscv",
         "id": 183392076
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1157,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-13T03:20:01+00:00",
-        "pushed": "2025-09-14T02:34:13+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "golitex",
-        "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
-        "owner": "litexlang",
-        "stars": 294,
-        "forks": 2,
-        "size": 27803,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-09-13T10:32:51+00:00",
-        "pushed": "2025-09-13T10:32:47+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
     },
     {
         "repo": "hwt",
@@ -16341,45 +16263,6 @@
         "id": 473564418
     },
     {
-        "repo": "litex-tutorial",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 2,
-        "forks": 0,
-        "size": 170,
-        "created": "2025-08-29T05:50:32+00:00",
-        "updated": "2025-09-14T01:21:12+00:00",
-        "pushed": "2025-09-14T01:21:09+00:00",
-        "url": "https://github.com/litexlang/litex-tutorial",
-        "id": 1046720121
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1569,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-14T05:21:56+00:00",
-        "pushed": "2025-09-14T05:21:52+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
-        "repo": "homebrew-tap",
-        "description": "Litex homebrew tap config",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 20,
-        "created": "2025-07-29T07:26:15+00:00",
-        "updated": "2025-09-13T10:34:37+00:00",
-        "pushed": "2025-09-13T10:34:33+00:00",
-        "url": "https://github.com/litexlang/homebrew-tap",
-        "id": 1028207026
-    },
-    {
         "repo": "streams",
         "description": "Streams library for Amaranth",
         "owner": "DaveBerkeley",
@@ -16406,32 +16289,6 @@
         "id": 1055881623
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2115,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-14T04:35:20+00:00",
-        "pushed": "2025-09-14T04:35:17+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 80,
-        "forks": 8,
-        "size": 11222,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-13T08:38:56+00:00",
-        "pushed": "2025-09-13T08:38:52+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -16443,19 +16300,6 @@
         "pushed": "2025-09-14T01:02:43+00:00",
         "url": "https://github.com/markemer/awesome-stars",
         "id": 330793471
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 14,
-        "forks": 4,
-        "size": 118814,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-14T03:24:55+00:00",
-        "pushed": "2025-09-14T03:24:52+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
     },
     {
         "repo": "awesome-stars",
@@ -16471,15 +16315,171 @@
         "id": 211116919
     },
     {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1146,
+        "forks": 231,
+        "size": 1019929,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-09-15T04:13:44+00:00",
+        "pushed": "2025-09-15T04:13:41+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1157,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-13T03:20:01+00:00",
+        "pushed": "2025-09-15T02:36:50+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
+        "owner": "litexlang",
+        "stars": 295,
+        "forks": 2,
+        "size": 27815,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-09-15T01:06:22+00:00",
+        "pushed": "2025-09-15T01:06:18+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1852,
+        "forks": 278,
+        "size": 239715,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-09-14T17:30:35+00:00",
+        "pushed": "2025-09-14T17:32:17+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex-tutorial",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 2,
+        "forks": 0,
+        "size": 177,
+        "created": "2025-08-29T05:50:32+00:00",
+        "updated": "2025-09-15T01:03:40+00:00",
+        "pushed": "2025-09-15T01:03:37+00:00",
+        "url": "https://github.com/litexlang/litex-tutorial",
+        "id": 1046720121
+    },
+    {
+        "repo": "litex-simple-soc",
+        "description": "Belajar RISC-V simple SOC menggunakan migen & litex",
+        "owner": "vanbwodonk",
+        "stars": 0,
+        "forks": 0,
+        "size": 2258,
+        "created": "2025-09-10T08:18:37+00:00",
+        "updated": "2025-09-15T04:15:59+00:00",
+        "pushed": "2025-09-15T04:15:56+00:00",
+        "url": "https://github.com/vanbwodonk/litex-simple-soc",
+        "id": 1053999598
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1571,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-15T05:25:06+00:00",
+        "pushed": "2025-09-15T05:25:03+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "tang-nano-20k-litex-examples",
+        "description": "tang nano litex examples",
+        "owner": "Dravigon",
+        "stars": 0,
+        "forks": 0,
+        "size": 77,
+        "created": "2025-08-24T10:03:58+00:00",
+        "updated": "2025-09-14T20:19:07+00:00",
+        "pushed": "2025-09-14T20:19:04+00:00",
+        "url": "https://github.com/Dravigon/tang-nano-20k-litex-examples",
+        "id": 1043642789
+    },
+    {
+        "repo": "homebrew-tap",
+        "description": "Litex homebrew tap config",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 20,
+        "created": "2025-07-29T07:26:15+00:00",
+        "updated": "2025-09-15T01:07:49+00:00",
+        "pushed": "2025-09-15T01:07:45+00:00",
+        "url": "https://github.com/litexlang/homebrew-tap",
+        "id": 1028207026
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2173,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-09-15T04:37:30+00:00",
+        "pushed": "2025-09-15T04:37:26+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 80,
+        "forks": 8,
+        "size": 11733,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-09-14T10:28:53+00:00",
+        "pushed": "2025-09-14T10:28:50+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 14,
+        "forks": 4,
+        "size": 119382,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-09-15T03:28:42+00:00",
+        "pushed": "2025-09-15T03:28:38+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
         "stars": 0,
         "forks": 0,
-        "size": 22715,
+        "size": 24000,
         "created": "2025-05-11T20:10:48+00:00",
-        "updated": "2025-09-14T00:59:46+00:00",
-        "pushed": "2025-09-14T00:59:43+00:00",
+        "updated": "2025-09-15T00:59:51+00:00",
+        "pushed": "2025-09-15T00:59:48+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
     }
