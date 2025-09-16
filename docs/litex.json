@@ -11232,19 +11232,6 @@
         "id": 798728790
     },
     {
-        "repo": "icesugar-pro",
-        "description": "iCESugar series FPGA dev board",
-        "owner": "wuxx",
-        "stars": 155,
-        "forks": 26,
-        "size": 24960,
-        "created": "2020-11-04T08:16:32+00:00",
-        "updated": "2024-06-27T08:54:04+00:00",
-        "pushed": "2024-06-27T08:54:00+00:00",
-        "url": "https://github.com/wuxx/icesugar-pro",
-        "id": 309937041
-    },
-    {
         "repo": "litexlthemes",
         "description": null,
         "owner": "RohanVashisht1234",
@@ -13076,19 +13063,6 @@
         "pushed": "2025-02-11T11:40:08+00:00",
         "url": "https://github.com/antmicro/renode-models-analyzer",
         "id": 659573875
-    },
-    {
-        "repo": "LiteX-CNC",
-        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
-        "owner": "Peter-van-Tol",
-        "stars": 60,
-        "forks": 22,
-        "size": 77858,
-        "created": "2022-02-28T21:58:22+00:00",
-        "updated": "2025-02-04T20:54:24+00:00",
-        "pushed": "2025-02-12T21:51:03+00:00",
-        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
-        "id": 464657430
     },
     {
         "repo": "Litex_gowin",
@@ -16081,19 +16055,6 @@
         "id": 468027705
     },
     {
-        "repo": "pylitex",
-        "description": "pylitex is a Python package that allows users to call Litex in Python.",
-        "owner": "litexlang",
-        "stars": 3,
-        "forks": 0,
-        "size": 39,
-        "created": "2025-08-11T06:40:14+00:00",
-        "updated": "2025-09-10T03:25:09+00:00",
-        "pushed": "2025-09-10T03:22:52+00:00",
-        "url": "https://github.com/litexlang/pylitex",
-        "id": 1035827713
-    },
-    {
         "repo": "litecompute_sdr_poc",
         "description": "Creating FPGA based accelerators with LiteX.",
         "owner": "enjoy-digital",
@@ -16198,19 +16159,6 @@
         "id": 800027977
     },
     {
-        "repo": "litex-boards",
-        "description": null,
-        "owner": "yhzhang0128",
-        "stars": 0,
-        "forks": 0,
-        "size": 3945,
-        "created": "2025-06-04T05:12:12+00:00",
-        "updated": "2025-09-13T04:44:01+00:00",
-        "pushed": "2025-09-13T04:43:58+00:00",
-        "url": "https://github.com/yhzhang0128/litex-boards",
-        "id": 995846850
-    },
-    {
         "repo": "linux-on-litex-vexriscv",
         "description": "Linux on LiteX-VexRiscv",
         "owner": "litex-hub",
@@ -16261,19 +16209,6 @@
         "pushed": "2025-09-13T08:25:54+00:00",
         "url": "https://github.com/epsilon537/boxlambda",
         "id": 473564418
-    },
-    {
-        "repo": "streams",
-        "description": "Streams library for Amaranth",
-        "owner": "DaveBerkeley",
-        "stars": 6,
-        "forks": 0,
-        "size": 292,
-        "created": "2023-03-18T18:59:29+00:00",
-        "updated": "2025-09-13T12:30:47+00:00",
-        "pushed": "2025-09-13T12:30:43+00:00",
-        "url": "https://github.com/DaveBerkeley/streams",
-        "id": 615816156
     },
     {
         "repo": "ecp5-hello",
@@ -16328,19 +16263,6 @@
         "id": 190029235
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1157,
-        "forks": 98,
-        "size": 1286,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-13T03:20:01+00:00",
-        "pushed": "2025-09-15T02:36:50+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "golitex",
         "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
         "owner": "litexlang",
@@ -16393,19 +16315,6 @@
         "id": 1053999598
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1571,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-15T05:25:06+00:00",
-        "pushed": "2025-09-15T05:25:03+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "tang-nano-20k-litex-examples",
         "description": "tang nano litex examples",
         "owner": "Dravigon",
@@ -16432,15 +16341,119 @@
         "id": 1028207026
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1158,
+        "forks": 98,
+        "size": 1286,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-16T06:10:34+00:00",
+        "pushed": "2025-09-16T02:35:38+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "LiteX-CNC",
+        "description": "Generic CNC firmware and driver for FPGA cards which are supported by LiteX",
+        "owner": "Peter-van-Tol",
+        "stars": 71,
+        "forks": 26,
+        "size": 77896,
+        "created": "2022-02-28T21:58:22+00:00",
+        "updated": "2025-09-15T18:51:56+00:00",
+        "pushed": "2025-09-15T18:51:52+00:00",
+        "url": "https://github.com/Peter-van-Tol/LiteX-CNC",
+        "id": 464657430
+    },
+    {
+        "repo": "icesugar-pro",
+        "description": "iCESugar series FPGA dev board",
+        "owner": "wuxx",
+        "stars": 185,
+        "forks": 28,
+        "size": 24960,
+        "created": "2020-11-04T08:16:32+00:00",
+        "updated": "2025-09-16T01:11:48+00:00",
+        "pushed": "2025-09-16T01:11:43+00:00",
+        "url": "https://github.com/wuxx/icesugar-pro",
+        "id": 309937041
+    },
+    {
+        "repo": "pylitex",
+        "description": "pylitex is a Python package that allows users to call Litex in Python.",
+        "owner": "litexlang",
+        "stars": 3,
+        "forks": 0,
+        "size": 44,
+        "created": "2025-08-11T06:40:14+00:00",
+        "updated": "2025-09-15T11:12:39+00:00",
+        "pushed": "2025-09-15T11:12:35+00:00",
+        "url": "https://github.com/litexlang/pylitex",
+        "id": 1035827713
+    },
+    {
+        "repo": "litex-boards",
+        "description": null,
+        "owner": "yhzhang0128",
+        "stars": 0,
+        "forks": 0,
+        "size": 3960,
+        "created": "2025-06-04T05:12:12+00:00",
+        "updated": "2025-09-16T01:48:21+00:00",
+        "pushed": "2025-09-16T01:48:17+00:00",
+        "url": "https://github.com/yhzhang0128/litex-boards",
+        "id": 995846850
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1578,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-16T05:23:34+00:00",
+        "pushed": "2025-09-16T05:23:30+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "litex-std",
+        "description": "A repository for constructing Litex std. ",
+        "owner": "unknown-xy0086",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2025-09-15T11:10:23+00:00",
+        "updated": "2025-09-15T11:58:05+00:00",
+        "pushed": "2025-09-15T11:58:02+00:00",
+        "url": "https://github.com/unknown-xy0086/litex-std",
+        "id": 1057165863
+    },
+    {
+        "repo": "streams",
+        "description": "Streams library for Amaranth",
+        "owner": "DaveBerkeley",
+        "stars": 6,
+        "forks": 0,
+        "size": 290,
+        "created": "2023-03-18T18:59:29+00:00",
+        "updated": "2025-09-15T17:37:26+00:00",
+        "pushed": "2025-09-15T17:37:22+00:00",
+        "url": "https://github.com/DaveBerkeley/streams",
+        "id": 615816156
+    },
+    {
         "repo": "starred",
         "description": "A autogenerated list of all the github projects i've starred",
         "owner": "pbsds",
         "stars": 8,
         "forks": 0,
-        "size": 2173,
+        "size": 2215,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-15T04:37:30+00:00",
-        "pushed": "2025-09-15T04:37:26+00:00",
+        "updated": "2025-09-16T04:36:21+00:00",
+        "pushed": "2025-09-16T04:36:18+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
     },
@@ -16450,10 +16463,10 @@
         "owner": "jaalonso",
         "stars": 80,
         "forks": 8,
-        "size": 11733,
+        "size": 11735,
         "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-14T10:28:53+00:00",
-        "pushed": "2025-09-14T10:28:50+00:00",
+        "updated": "2025-09-15T07:54:53+00:00",
+        "pushed": "2025-09-15T07:54:48+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
     },
@@ -16463,10 +16476,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 119382,
+        "size": 119951,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-15T03:28:42+00:00",
-        "pushed": "2025-09-15T03:28:38+00:00",
+        "updated": "2025-09-16T03:21:20+00:00",
+        "pushed": "2025-09-16T03:21:16+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -16476,10 +16489,10 @@
         "owner": "IndieMinimalist",
         "stars": 0,
         "forks": 0,
-        "size": 24000,
+        "size": 24880,
         "created": "2025-05-11T20:10:48+00:00",
-        "updated": "2025-09-15T00:59:51+00:00",
-        "pushed": "2025-09-15T00:59:48+00:00",
+        "updated": "2025-09-16T00:56:17+00:00",
+        "pushed": "2025-09-16T00:56:14+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
     }
