@@ -5798,19 +5798,6 @@
         "id": 88018788
     },
     {
-        "repo": "vcd-samples",
-        "description": "sample VCD files",
-        "owner": "wavedrom",
-        "stars": 37,
-        "forks": 2,
-        "size": 2673,
-        "created": "2021-08-08T07:23:17+00:00",
-        "updated": "2025-07-17T02:36:51+00:00",
-        "pushed": "2025-07-17T02:36:48+00:00",
-        "url": "https://github.com/wavedrom/vcd-samples",
-        "id": 393889750
-    },
-    {
         "repo": "MyHDL-CNN-Implementation",
         "description": "Implementation of a Convolutional Neural Network (CNN) using MyHDL",
         "owner": "Anmol501",
@@ -5954,19 +5941,6 @@
         "id": 38977954
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 44,
-        "forks": 30,
-        "size": 41621,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-09-07T13:08:22+00:00",
-        "pushed": "2025-09-07T13:08:19+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "THOUGHTS-ON-DIGITAL-SIGNAL-PROCESSING",
         "description": "TIAGO-MORAIS-MORGADO-THOUGHTS-ON-DIGITAL-SIGNAL-PROCESSING",
         "owner": "tmm88",
@@ -6032,15 +6006,41 @@
         "id": 200425308
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 44,
+        "forks": 30,
+        "size": 41632,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-09-19T10:49:41+00:00",
+        "pushed": "2025-09-19T10:49:38+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "vcd-samples",
+        "description": "sample VCD files",
+        "owner": "wavedrom",
+        "stars": 37,
+        "forks": 2,
+        "size": 2675,
+        "created": "2021-08-08T07:23:17+00:00",
+        "updated": "2025-09-19T18:54:43+00:00",
+        "pushed": "2025-09-19T18:54:40+00:00",
+        "url": "https://github.com/wavedrom/vcd-samples",
+        "id": 393889750
+    },
+    {
         "repo": "tmm88",
         "description": null,
         "owner": "tmm88",
         "stars": 2,
         "forks": 0,
-        "size": 86,
+        "size": 96,
         "created": "2025-09-10T12:51:01+00:00",
-        "updated": "2025-09-18T16:04:02+00:00",
-        "pushed": "2025-09-18T13:07:43+00:00",
+        "updated": "2025-09-19T13:51:43+00:00",
+        "pushed": "2025-09-19T13:51:40+00:00",
         "url": "https://github.com/tmm88/tmm88",
         "id": 1054156012
     }
