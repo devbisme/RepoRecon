@@ -46228,19 +46228,6 @@
         "id": 1048966543
     },
     {
-        "repo": "learn",
-        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
-        "owner": "riscv",
-        "stars": 1013,
-        "forks": 112,
-        "size": 1746,
-        "created": "2023-11-22T21:20:35+00:00",
-        "updated": "2025-09-04T03:13:31+00:00",
-        "pushed": "2025-09-04T03:13:27+00:00",
-        "url": "https://github.com/riscv/learn",
-        "id": 722305838
-    },
-    {
         "repo": "micropython-ulab",
         "description": "a numpy-like fast vector module for micropython, circuitpython, and their derivatives",
         "owner": "v923z",
@@ -46644,19 +46631,6 @@
         "id": 1055994871
     },
     {
-        "repo": "mpp",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 1,
-        "forks": 6,
-        "size": 59767,
-        "created": "2024-07-05T02:49:23+00:00",
-        "updated": "2025-09-15T03:36:44+00:00",
-        "pushed": "2025-09-15T03:36:40+00:00",
-        "url": "https://github.com/canmv-k230/mpp",
-        "id": 824383370
-    },
-    {
         "repo": "25-E-",
         "description": "\u57fa\u4e8eMSPM0G3507\u4e3b\u63a7\u3001K230\u89c6\u89c9\u6a21\u5757\u3001\u4e24\u8f6e\u5dee\u901f\u5c0f\u8f66\u3001X\u8f74\u6b65\u8fdb\u7535\u673aY\u8f74\u8235\u673a\u7684\u4e8c\u7ef4\u4e91\u53f0\u7ec4\u6210\u7684\u79fb\u52a8\u4e91\u53f0\u7784\u51c6\u88c5\u7f6e",
         "owner": "Dingzhenderui",
@@ -46995,19 +46969,6 @@
         "id": 1059301249
     },
     {
-        "repo": "k230_canmv_docs",
-        "description": "k230_canmv_docs",
-        "owner": "kendryte",
-        "stars": 14,
-        "forks": 4,
-        "size": 21786,
-        "created": "2023-10-17T07:31:49+00:00",
-        "updated": "2025-09-19T09:19:49+00:00",
-        "pushed": "2025-09-19T09:19:45+00:00",
-        "url": "https://github.com/kendryte/k230_canmv_docs",
-        "id": 706039729
-    },
-    {
         "repo": "wmt_ai_study",
         "description": "My AI study",
         "owner": "weimingtom",
@@ -47203,19 +47164,6 @@
         "id": 207506765
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 814,
-        "forks": 201,
-        "size": 64456,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-09-19T23:10:44+00:00",
-        "pushed": "2025-09-23T06:33:46+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -47227,19 +47175,6 @@
         "pushed": "2025-09-23T03:15:29+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 265,
-        "forks": 53,
-        "size": 216885,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-09-22T14:42:00+00:00",
-        "pushed": "2025-09-22T15:25:19+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
     },
     {
         "repo": "rt-thread",
@@ -47320,19 +47255,6 @@
         "id": 951920726
     },
     {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 2,
-        "size": 27,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-07-20T07:35:18+00:00",
-        "pushed": "2025-09-23T00:47:31+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
-    },
-    {
         "repo": "DREDGE_Lowlevel",
         "description": "2025\u6821\u5185\u8d5b\u5e95\u5c42\u4ee3\u7801\u4ed3\u5e93",
         "owner": "Ghostvulture",
@@ -47411,17 +47333,108 @@
         "id": 64712541
     },
     {
-        "repo": "SAFE-AI-License",
-        "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
-        "owner": "izumi0214",
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 814,
+        "forks": 201,
+        "size": 64498,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-09-19T23:10:44+00:00",
+        "pushed": "2025-09-24T06:26:01+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 265,
+        "forks": 53,
+        "size": 216904,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-09-22T14:42:00+00:00",
+        "pushed": "2025-09-23T12:42:20+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "k230_canmv_docs",
+        "description": "k230_canmv_docs",
+        "owner": "kendryte",
+        "stars": 14,
+        "forks": 4,
+        "size": 21795,
+        "created": "2023-10-17T07:31:49+00:00",
+        "updated": "2025-09-24T01:44:24+00:00",
+        "pushed": "2025-09-24T01:44:20+00:00",
+        "url": "https://github.com/kendryte/k230_canmv_docs",
+        "id": 706039729
+    },
+    {
+        "repo": "learn",
+        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
+        "owner": "riscv",
+        "stars": 1055,
+        "forks": 116,
+        "size": 1771,
+        "created": "2023-11-22T21:20:35+00:00",
+        "updated": "2025-09-24T06:18:24+00:00",
+        "pushed": "2025-09-23T10:03:18+00:00",
+        "url": "https://github.com/riscv/learn",
+        "id": 722305838
+    },
+    {
+        "repo": "mpp",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 1,
+        "forks": 6,
+        "size": 60426,
+        "created": "2024-07-05T02:49:23+00:00",
+        "updated": "2025-09-23T09:53:10+00:00",
+        "pushed": "2025-09-23T09:52:44+00:00",
+        "url": "https://github.com/canmv-k230/mpp",
+        "id": 824383370
+    },
+    {
+        "repo": "-TI-MSPM0-",
+        "description": "\u4e00\u4e2a\u96c6\u6210\u4e86\u673a\u5668\u89c6\u89c9\u3001\u5b9e\u65f6\u63a7\u5236\u4e0e\u591a\u4f20\u611f\u5668\u878d\u5408\u7684\u5d4c\u5165\u5f0f\u9879\u76ee\u3002\u5c0f\u8f66\u901a\u8fc7K230\u89c6\u89c9\u6a21\u5757\u8bc6\u522b\u76ee\u6807\uff0c\u5e76\u7531TI-MSPM0\u4e3b\u63a7\u9a71\u52a8\u4e8c\u7ef4\u4e91\u53f0\u8fdb\u884c\u7cbe\u51c6\u6fc0\u5149\u7784\u51c6\uff0c\u540c\u65f6\u5177\u5907\u81ea\u4e3b\u5faa\u8ff9\u4e0e\u59ff\u6001\u611f\u77e5\u80fd\u529b\u3002",
+        "owner": "warrior550",
         "stars": 0,
         "forks": 0,
-        "size": 1372,
-        "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-09-23T04:50:59+00:00",
-        "pushed": "2025-09-23T04:50:56+00:00",
-        "url": "https://github.com/izumi0214/SAFE-AI-License",
-        "id": 842189921
+        "size": 2234,
+        "created": "2025-09-24T05:33:54+00:00",
+        "updated": "2025-09-24T05:38:09+00:00",
+        "pushed": "2025-09-24T05:38:06+00:00",
+        "url": "https://github.com/warrior550/-TI-MSPM0-",
+        "id": 1063055489
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 1,
+        "forks": 2,
+        "size": 27,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-07-20T07:35:18+00:00",
+        "pushed": "2025-09-24T00:48:24+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "-K210-",
+        "description": "\u672c\u9879\u76ee\u662f\u4e00\u4e2a\u96c6\u6210\u4e86\u673a\u5668\u89c6\u89c9\u548c\u81ea\u52a8\u63a7\u5236\u6280\u672f\u7684\u667a\u80fd\u9001\u836f\u5c0f\u8f66\u539f\u578b\u3002\u5c0f\u8f66\u901a\u8fc7K210\u6a21\u5757\u8fdb\u884c\u56fe\u50cf\u667a\u80fd\u68c0\u6d4b\uff08\u5982\u8bc6\u522b\u623f\u95f4\u95e8\u724c\u3001\u4e8c\u7ef4\u7801\u6216\u7279\u5b9a\u6807\u8bc6\uff09\uff0c\u7ed3\u5408\u4e94\u8def\u7070\u5ea6\u4f20\u611f\u5668\u8fdb\u884c\u5faa\u8ff9\u5bfc\u822a\uff0c\u5e76\u5229\u7528MPU6050\u7ef4\u6301\u8f66\u8eab\u5e73\u8861\u3002\u6700\u7ec8\u5b9e\u73b0\u5c06\u836f\u54c1\u51c6\u786e\u9001\u8fbe\u6307\u5b9a\u4f4d\u7f6e\u7684\u529f\u80fd\u3002",
+        "owner": "warrior550",
+        "stars": 0,
+        "forks": 0,
+        "size": 13972,
+        "created": "2025-09-24T04:46:18+00:00",
+        "updated": "2025-09-24T04:52:42+00:00",
+        "pushed": "2025-09-24T04:52:39+00:00",
+        "url": "https://github.com/warrior550/-K210-",
+        "id": 1063036447
     },
     {
         "repo": "SAFE-AI-License",
@@ -47431,10 +47444,23 @@
         "forks": 0,
         "size": 17,
         "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-09-23T04:21:56+00:00",
-        "pushed": "2025-09-23T04:21:53+00:00",
+        "updated": "2025-09-24T04:34:24+00:00",
+        "pushed": "2025-09-24T04:34:21+00:00",
         "url": "https://github.com/Mathv60/SAFE-AI-License",
         "id": 988484709
+    },
+    {
+        "repo": "SAFE-AI-License",
+        "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
+        "owner": "izumi0214",
+        "stars": 0,
+        "forks": 0,
+        "size": 1372,
+        "created": "2024-08-13T21:22:58+00:00",
+        "updated": "2025-09-24T05:02:21+00:00",
+        "pushed": "2025-09-24T05:02:18+00:00",
+        "url": "https://github.com/izumi0214/SAFE-AI-License",
+        "id": 842189921
     },
     {
         "repo": "certified-android-devices",
@@ -47442,10 +47468,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 37,
-        "size": 1103654,
+        "size": 1103656,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-09-22T12:37:40+00:00",
-        "pushed": "2025-09-22T12:37:36+00:00",
+        "updated": "2025-09-23T12:36:05+00:00",
+        "pushed": "2025-09-23T12:36:01+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -47458,7 +47484,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-09-15T16:38:06+00:00",
-        "pushed": "2025-09-23T00:18:39+00:00",
+        "pushed": "2025-09-24T00:22:43+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     },
@@ -47468,10 +47494,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 123894,
+        "size": 124465,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-23T03:22:19+00:00",
-        "pushed": "2025-09-23T03:22:15+00:00",
+        "updated": "2025-09-24T03:23:56+00:00",
+        "pushed": "2025-09-24T03:23:53+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
