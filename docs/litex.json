@@ -15457,19 +15457,6 @@
         "id": 1027285181
     },
     {
-        "repo": "VintageBusFPGA_Common",
-        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
-        "owner": "MelkhiorVintageComputing",
-        "stars": 5,
-        "forks": 0,
-        "size": 727,
-        "created": "2022-10-31T14:30:10+00:00",
-        "updated": "2025-08-24T09:52:25+00:00",
-        "pushed": "2025-08-24T09:52:21+00:00",
-        "url": "https://github.com/MelkhiorVintageComputing/VintageBusFPGA_Common",
-        "id": 559997034
-    },
-    {
         "repo": "tock-litex",
         "description": "Companion repository to Tock on LiteX SoCs, containing the hardware build scripts, documentation and bitstreams",
         "owner": "lschuermann",
@@ -15754,19 +15741,6 @@
         "pushed": "2025-09-07T09:20:18+00:00",
         "url": "https://github.com/chili-chips-ba/openPCIE",
         "id": 923355946
-    },
-    {
-        "repo": "litex-boards",
-        "description": "LiteX boards files",
-        "owner": "litex-hub",
-        "stars": 427,
-        "forks": 332,
-        "size": 4449,
-        "created": "2019-06-10T15:09:10+00:00",
-        "updated": "2025-09-08T18:26:37+00:00",
-        "pushed": "2025-09-08T11:23:44+00:00",
-        "url": "https://github.com/litex-hub/litex-boards",
-        "id": 191191221
     },
     {
         "repo": "LiTEx",
@@ -16237,19 +16211,6 @@
         "id": 274442284
     },
     {
-        "repo": "litex-gsm8k-killer",
-        "description": "To solve the problem of GSM8K",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 32,
-        "created": "2025-09-20T01:43:59+00:00",
-        "updated": "2025-09-21T09:44:57+00:00",
-        "pushed": "2025-09-21T09:30:19+00:00",
-        "url": "https://github.com/litexlang/litex-gsm8k-killer",
-        "id": 1060475782
-    },
-    {
         "repo": "litex-task-verifier",
         "description": "To verify if Litex code is trying to solve current problem",
         "owner": "litexlang",
@@ -16274,19 +16235,6 @@
         "pushed": "2025-09-22T03:22:08+00:00",
         "url": "https://github.com/long-pham/litepcie_test",
         "id": 1010407074
-    },
-    {
-        "repo": "litex-llm-dev",
-        "description": null,
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2025-09-22T03:18:49+00:00",
-        "updated": "2025-09-22T03:20:43+00:00",
-        "pushed": "2025-09-22T03:20:40+00:00",
-        "url": "https://github.com/litexlang/litex-llm-dev",
-        "id": 1061522755
     },
     {
         "repo": "homebrew-tap",
@@ -16367,19 +16315,6 @@
         "id": 243190844
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 63,
-        "forks": 19,
-        "size": 71058,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-09-22T20:37:07+00:00",
-        "pushed": "2025-09-22T21:00:06+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "wr_acorn",
         "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
         "owner": "oscimp",
@@ -16404,19 +16339,6 @@
         "pushed": "2025-09-22T13:26:29+00:00",
         "url": "https://github.com/litexlang/std",
         "id": 1061130207
-    },
-    {
-        "repo": "litex-official-documents",
-        "description": "All documents on https://litexlang.com/ are open-sourced here.",
-        "owner": "litexlang",
-        "stars": 2,
-        "forks": 0,
-        "size": 308,
-        "created": "2025-08-29T05:50:32+00:00",
-        "updated": "2025-09-23T05:20:15+00:00",
-        "pushed": "2025-09-23T05:20:12+00:00",
-        "url": "https://github.com/litexlang/litex-official-documents",
-        "id": 1046720121
     },
     {
         "repo": "iot-ocre-renode",
@@ -16497,71 +16419,6 @@
         "id": 64712541
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "utensil",
-        "stars": 21,
-        "forks": 8,
-        "size": 18295,
-        "created": "2019-02-21T12:56:56+00:00",
-        "updated": "2025-09-23T01:05:15+00:00",
-        "pushed": "2025-09-23T01:05:11+00:00",
-        "url": "https://github.com/utensil/awesome-stars",
-        "id": 171871908
-    },
-    {
-        "repo": "litex",
-        "description": "Build your hardware, easily!",
-        "owner": "enjoy-digital",
-        "stars": 3505,
-        "forks": 644,
-        "size": 17948,
-        "created": "2015-11-07T12:02:12+00:00",
-        "updated": "2025-09-23T13:16:16+00:00",
-        "pushed": "2025-09-23T12:25:44+00:00",
-        "url": "https://github.com/enjoy-digital/litex",
-        "id": 45734719
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1161,
-        "forks": 99,
-        "size": 1290,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-23T19:57:06+00:00",
-        "pushed": "2025-09-24T02:40:37+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "NaxRiscv",
-        "description": null,
-        "owner": "SpinalHDL",
-        "stars": 296,
-        "forks": 47,
-        "size": 3595,
-        "created": "2021-10-04T09:31:06+00:00",
-        "updated": "2025-09-23T18:37:01+00:00",
-        "pushed": "2025-09-22T11:54:55+00:00",
-        "url": "https://github.com/SpinalHDL/NaxRiscv",
-        "id": 413357087
-    },
-    {
-        "repo": "golitex",
-        "description": "LItex: The First Formal Language Learnable in 1-2 Hours",
-        "owner": "litexlang",
-        "stars": 311,
-        "forks": 3,
-        "size": 28548,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-09-24T05:51:06+00:00",
-        "pushed": "2025-09-24T05:51:01+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "tutorials",
         "description": "OpenRISC Tutorials",
         "owner": "openrisc",
@@ -16627,19 +16484,6 @@
         "id": 1012183066
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1617,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-24T05:23:22+00:00",
-        "pushed": "2025-09-24T05:23:18+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "sap1-amaranth",
         "description": "Implementation of the SAP-1 computer in amaranth",
         "owner": "siliconchronicles",
@@ -16653,19 +16497,6 @@
         "id": 1059200652
     },
     {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 31,
-        "forks": 1,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-08-04T22:50:58+00:00",
-        "pushed": "2025-09-24T00:17:42+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
         "repo": "Description-of-Obtaining-Results",
         "description": null,
         "owner": "Vadimsdsys",
@@ -16677,32 +16508,6 @@
         "pushed": "2025-09-23T09:43:02+00:00",
         "url": "https://github.com/Vadimsdsys/Description-of-Obtaining-Results",
         "id": 1037220387
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2475,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-24T04:36:22+00:00",
-        "pushed": "2025-09-24T04:36:19+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 82,
-        "forks": 8,
-        "size": 13281,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-09-23T15:28:57+00:00",
-        "pushed": "2025-09-23T15:28:52+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
     },
     {
         "repo": "awesome-daily-AI-arxiv",
@@ -16731,15 +16536,210 @@
         "id": 330793471
     },
     {
+        "repo": "litex",
+        "description": "Build your hardware, easily!",
+        "owner": "enjoy-digital",
+        "stars": 3507,
+        "forks": 645,
+        "size": 17926,
+        "created": "2015-11-07T12:02:12+00:00",
+        "updated": "2025-09-24T11:58:20+00:00",
+        "pushed": "2025-09-24T11:58:15+00:00",
+        "url": "https://github.com/enjoy-digital/litex",
+        "id": 45734719
+    },
+    {
+        "repo": "litex-boards",
+        "description": "LiteX boards files",
+        "owner": "litex-hub",
+        "stars": 433,
+        "forks": 332,
+        "size": 4517,
+        "created": "2019-06-10T15:09:10+00:00",
+        "updated": "2025-09-24T11:51:45+00:00",
+        "pushed": "2025-09-24T09:31:13+00:00",
+        "url": "https://github.com/litex-hub/litex-boards",
+        "id": 191191221
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1166,
+        "forks": 99,
+        "size": 1290,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-25T02:40:13+00:00",
+        "pushed": "2025-09-25T02:42:10+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "NaxRiscv",
+        "description": null,
+        "owner": "SpinalHDL",
+        "stars": 296,
+        "forks": 47,
+        "size": 3607,
+        "created": "2021-10-04T09:31:06+00:00",
+        "updated": "2025-09-24T08:40:15+00:00",
+        "pushed": "2025-09-24T08:40:11+00:00",
+        "url": "https://github.com/SpinalHDL/NaxRiscv",
+        "id": 413357087
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: The First Formal Language Learnable in 1-2 Hours",
+        "owner": "litexlang",
+        "stars": 315,
+        "forks": 3,
+        "size": 31050,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-09-25T05:57:35+00:00",
+        "pushed": "2025-09-25T02:25:47+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 63,
+        "forks": 19,
+        "size": 72275,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-09-24T11:03:36+00:00",
+        "pushed": "2025-09-24T11:12:32+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "litex-official-documents",
+        "description": "All documents on https://litexlang.com/ are open-sourced here.",
+        "owner": "litexlang",
+        "stars": 2,
+        "forks": 0,
+        "size": 313,
+        "created": "2025-08-29T05:50:32+00:00",
+        "updated": "2025-09-24T11:39:51+00:00",
+        "pushed": "2025-09-24T11:39:48+00:00",
+        "url": "https://github.com/litexlang/litex-official-documents",
+        "id": 1046720121
+    },
+    {
+        "repo": "VintageBusFPGA_Common",
+        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
+        "owner": "MelkhiorVintageComputing",
+        "stars": 5,
+        "forks": 0,
+        "size": 764,
+        "created": "2022-10-31T14:30:10+00:00",
+        "updated": "2025-09-24T07:10:05+00:00",
+        "pushed": "2025-09-24T07:10:00+00:00",
+        "url": "https://github.com/MelkhiorVintageComputing/VintageBusFPGA_Common",
+        "id": 559997034
+    },
+    {
+        "repo": "litex-gsm8k-killer",
+        "description": "To solve the problem of GSM8K",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 9,
+        "created": "2025-09-20T01:43:59+00:00",
+        "updated": "2025-09-24T10:38:14+00:00",
+        "pushed": "2025-09-24T10:38:11+00:00",
+        "url": "https://github.com/litexlang/litex-gsm8k-killer",
+        "id": 1060475782
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1624,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-25T05:24:17+00:00",
+        "pushed": "2025-09-25T05:24:14+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "litex-llm-dev",
+        "description": null,
+        "owner": "litexlang",
+        "stars": 1,
+        "forks": 0,
+        "size": 5694,
+        "created": "2025-09-22T03:18:49+00:00",
+        "updated": "2025-09-24T06:22:19+00:00",
+        "pushed": "2025-09-24T06:22:15+00:00",
+        "url": "https://github.com/litexlang/litex-llm-dev",
+        "id": 1061522755
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 31,
+        "forks": 1,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-08-04T22:50:58+00:00",
+        "pushed": "2025-09-25T00:17:01+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2533,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-09-25T04:37:15+00:00",
+        "pushed": "2025-09-25T04:37:12+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 82,
+        "forks": 8,
+        "size": 13794,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-09-24T06:54:04+00:00",
+        "pushed": "2025-09-24T06:54:00+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "utensil",
+        "stars": 21,
+        "forks": 8,
+        "size": 19319,
+        "created": "2019-02-21T12:56:56+00:00",
+        "updated": "2025-09-25T00:58:57+00:00",
+        "pushed": "2025-09-25T00:58:53+00:00",
+        "url": "https://github.com/utensil/awesome-stars",
+        "id": 171871908
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 124465,
+        "size": 125013,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-24T03:23:56+00:00",
-        "pushed": "2025-09-24T03:23:53+00:00",
+        "updated": "2025-09-25T03:25:34+00:00",
+        "pushed": "2025-09-25T03:25:30+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
