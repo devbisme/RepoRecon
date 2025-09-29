@@ -46475,19 +46475,6 @@
         "id": 663357545
     },
     {
-        "repo": "k230_rtsmart_examples",
-        "description": "k230 cpp examples",
-        "owner": "canmv-k230",
-        "stars": 1,
-        "forks": 0,
-        "size": 30446,
-        "created": "2024-11-26T02:01:31+00:00",
-        "updated": "2025-09-11T08:23:01+00:00",
-        "pushed": "2025-09-11T08:22:58+00:00",
-        "url": "https://github.com/canmv-k230/k230_rtsmart_examples",
-        "id": 894236258
-    },
-    {
         "repo": "k230_docs",
         "description": "Kendryte K230 SDK Docs",
         "owner": "kendryte",
@@ -46735,19 +46722,6 @@
         "id": 1050526737
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 36,
-        "forks": 23,
-        "size": 89309,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-09-19T05:51:38+00:00",
-        "pushed": "2025-09-19T05:51:34+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "Omni-Drone-260",
         "description": "This is the UAV autonomy planning project that runs ego-planner in a fully ros2 environment with xrce-dds implementation communicating with px4 and k230.",
         "owner": "yupuyao",
@@ -46904,19 +46878,6 @@
         "id": 1025131903
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 15,
-        "forks": 4,
-        "size": 6582,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-09-20T16:39:15+00:00",
-        "pushed": "2025-09-20T16:39:11+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "k230-vendor-uboot",
         "description": null,
         "owner": "revyos",
@@ -46980,32 +46941,6 @@
         "pushed": "2025-09-19T07:41:42+00:00",
         "url": "https://github.com/MiCode/MTK_kernel_modules",
         "id": 207506765
-    },
-    {
-        "repo": "canmv_k230",
-        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
-        "owner": "kendryte",
-        "stars": 64,
-        "forks": 13,
-        "size": 32250,
-        "created": "2024-09-14T07:25:42+00:00",
-        "updated": "2025-09-23T03:15:32+00:00",
-        "pushed": "2025-09-23T03:15:29+00:00",
-        "url": "https://github.com/kendryte/canmv_k230",
-        "id": 857263549
-    },
-    {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 4,
-        "forks": 7,
-        "size": 63195,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2025-09-23T03:15:18+00:00",
-        "pushed": "2025-09-23T03:15:14+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
     },
     {
         "repo": "k510-pac",
@@ -47190,19 +47125,6 @@
         "id": 997566089
     },
     {
-        "repo": "k230_rtsmart_lib",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 3,
-        "size": 562711,
-        "created": "2024-08-09T10:43:46+00:00",
-        "updated": "2025-09-24T07:15:33+00:00",
-        "pushed": "2025-09-24T07:15:29+00:00",
-        "url": "https://github.com/canmv-k230/k230_rtsmart_lib",
-        "id": 840274595
-    },
-    {
         "repo": "u-boot",
         "description": null,
         "owner": "canmv-k230",
@@ -47214,19 +47136,6 @@
         "pushed": "2025-09-25T03:13:42+00:00",
         "url": "https://github.com/canmv-k230/u-boot",
         "id": 824530800
-    },
-    {
-        "repo": "DREDGE_Lowlevel",
-        "description": "2025\u6821\u5185\u8d5b\u5e95\u5c42\u4ee3\u7801\u4ed3\u5e93",
-        "owner": "Ghostvulture",
-        "stars": 2,
-        "forks": 4,
-        "size": 5691,
-        "created": "2025-09-05T02:59:22+00:00",
-        "updated": "2025-09-25T05:44:07+00:00",
-        "pushed": "2025-09-25T05:44:03+00:00",
-        "url": "https://github.com/Ghostvulture/DREDGE_Lowlevel",
-        "id": 1050839792
     },
     {
         "repo": "xv6-k210",
@@ -47292,19 +47201,6 @@
         "pushed": "2025-09-26T03:44:49+00:00",
         "url": "https://github.com/MaiXuanTung2k4/FER202_SU25_MaiXuanTung_DE180507",
         "id": 1059828243
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 609,
-        "forks": 81,
-        "size": 83759,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-09-26T12:28:25+00:00",
-        "pushed": "2025-09-26T08:44:09+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "eLinuxAI-TrainingDocs",
@@ -47424,32 +47320,6 @@
         "id": 733722162
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11435,
-        "forks": 5267,
-        "size": 934806,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-09-28T03:17:29+00:00",
-        "pushed": "2025-09-28T03:17:21+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 2,
-        "size": 27,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-07-20T07:35:18+00:00",
-        "pushed": "2025-09-28T00:54:16+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
-    },
-    {
         "repo": "awesome-stars",
         "description": "My Awesome List",
         "owner": "silentEAG",
@@ -47463,17 +47333,173 @@
         "id": 731012323
     },
     {
-        "repo": "SAFE-AI-License",
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 608,
+        "forks": 81,
+        "size": 83777,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-09-28T01:43:25+00:00",
+        "pushed": "2025-09-28T11:47:06+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 36,
+        "forks": 23,
+        "size": 91019,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-09-28T06:41:32+00:00",
+        "pushed": "2025-09-28T06:41:28+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "canmv_k230",
+        "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
+        "owner": "kendryte",
+        "stars": 64,
+        "forks": 13,
+        "size": 32334,
+        "created": "2024-09-14T07:25:42+00:00",
+        "updated": "2025-09-29T02:13:43+00:00",
+        "pushed": "2025-09-29T02:13:40+00:00",
+        "url": "https://github.com/kendryte/canmv_k230",
+        "id": 857263549
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11434,
+        "forks": 5267,
+        "size": 934866,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-09-29T06:22:47+00:00",
+        "pushed": "2025-09-29T06:22:40+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rtsmart",
         "description": null,
-        "owner": "Mathv60",
+        "owner": "canmv-k230",
+        "stars": 4,
+        "forks": 7,
+        "size": 63195,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-09-29T06:10:37+00:00",
+        "pushed": "2025-09-29T06:10:33+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "k230_rtsmart_lib",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 3,
+        "size": 562712,
+        "created": "2024-08-09T10:43:46+00:00",
+        "updated": "2025-09-28T10:09:17+00:00",
+        "pushed": "2025-09-28T10:09:13+00:00",
+        "url": "https://github.com/canmv-k230/k230_rtsmart_lib",
+        "id": 840274595
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 15,
+        "forks": 4,
+        "size": 6794,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-09-28T16:20:32+00:00",
+        "pushed": "2025-09-28T16:20:28+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
+        "repo": "DREDGE_Lowlevel",
+        "description": "2025\u6821\u5185\u8d5b\u5e95\u5c42\u4ee3\u7801\u4ed3\u5e93",
+        "owner": "Ghostvulture",
+        "stars": 3,
+        "forks": 4,
+        "size": 5796,
+        "created": "2025-09-05T02:59:22+00:00",
+        "updated": "2025-09-28T13:08:03+00:00",
+        "pushed": "2025-09-28T13:07:59+00:00",
+        "url": "https://github.com/Ghostvulture/DREDGE_Lowlevel",
+        "id": 1050839792
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 1,
+        "forks": 2,
+        "size": 27,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-07-20T07:35:18+00:00",
+        "pushed": "2025-09-29T00:50:39+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "k230_rtsmart_examples",
+        "description": "k230 cpp examples",
+        "owner": "canmv-k230",
+        "stars": 1,
+        "forks": 0,
+        "size": 30475,
+        "created": "2024-11-26T02:01:31+00:00",
+        "updated": "2025-09-29T02:37:26+00:00",
+        "pushed": "2025-09-29T02:37:15+00:00",
+        "url": "https://github.com/canmv-k230/k230_rtsmart_examples",
+        "id": 894236258
+    },
+    {
+        "repo": "onnx2kmodel",
+        "description": "convert onnx modle to kmodel for k230",
+        "owner": "DFRobot",
         "stars": 0,
         "forks": 0,
-        "size": 17,
-        "created": "2025-05-22T16:01:59+00:00",
-        "updated": "2025-09-28T05:41:38+00:00",
-        "pushed": "2025-09-28T05:41:35+00:00",
-        "url": "https://github.com/Mathv60/SAFE-AI-License",
-        "id": 988484709
+        "size": 8,
+        "created": "2025-09-28T09:40:21+00:00",
+        "updated": "2025-09-29T06:27:16+00:00",
+        "pushed": "2025-09-29T06:27:13+00:00",
+        "url": "https://github.com/DFRobot/onnx2kmodel",
+        "id": 1065717560
+    },
+    {
+        "repo": "findYourTwin",
+        "description": null,
+        "owner": "Emmanuel-K210",
+        "stars": 0,
+        "forks": 0,
+        "size": 1971,
+        "created": "2025-09-28T18:41:28+00:00",
+        "updated": "2025-09-28T19:09:45+00:00",
+        "pushed": "2025-09-28T19:09:41+00:00",
+        "url": "https://github.com/Emmanuel-K210/findYourTwin",
+        "id": 1065945690
+    },
+    {
+        "repo": "Yao_qiniu3",
+        "description": null,
+        "owner": "laterain18",
+        "stars": 0,
+        "forks": 0,
+        "size": 25177,
+        "created": "2025-09-22T07:34:13+00:00",
+        "updated": "2025-09-29T04:06:27+00:00",
+        "pushed": "2025-09-29T04:06:24+00:00",
+        "url": "https://github.com/laterain18/Yao_qiniu3",
+        "id": 1061640626
     },
     {
         "repo": "SAFE-AI-License",
@@ -47483,10 +47509,23 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-09-28T06:10:53+00:00",
-        "pushed": "2025-09-28T06:10:51+00:00",
+        "updated": "2025-09-29T04:13:47+00:00",
+        "pushed": "2025-09-29T04:13:44+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
+    },
+    {
+        "repo": "SAFE-AI-License",
+        "description": null,
+        "owner": "Mathv60",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2025-05-22T16:01:59+00:00",
+        "updated": "2025-09-29T06:20:15+00:00",
+        "pushed": "2025-09-29T06:20:11+00:00",
+        "url": "https://github.com/Mathv60/SAFE-AI-License",
+        "id": 988484709
     },
     {
         "repo": "certified-android-devices",
@@ -47494,10 +47533,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 37,
-        "size": 1111233,
+        "size": 1111235,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-09-27T12:33:42+00:00",
-        "pushed": "2025-09-27T12:33:37+00:00",
+        "updated": "2025-09-28T12:33:12+00:00",
+        "pushed": "2025-09-28T12:33:07+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -47510,7 +47549,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-09-15T16:38:06+00:00",
-        "pushed": "2025-09-28T00:19:30+00:00",
+        "pushed": "2025-09-29T00:18:54+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     },
@@ -47520,10 +47559,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 126703,
+        "size": 127256,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-28T03:28:34+00:00",
-        "pushed": "2025-09-28T03:28:31+00:00",
+        "updated": "2025-09-29T03:27:34+00:00",
+        "pushed": "2025-09-29T03:27:30+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

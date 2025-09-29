@@ -5980,19 +5980,6 @@
         "id": 1055457963
     },
     {
-        "repo": "bonfire-core",
-        "description": null,
-        "owner": "bonfireprocessor",
-        "stars": 0,
-        "forks": 1,
-        "size": 426,
-        "created": "2019-08-03T22:11:34+00:00",
-        "updated": "2025-09-18T19:07:37+00:00",
-        "pushed": "2025-09-18T19:07:32+00:00",
-        "url": "https://github.com/bonfireprocessor/bonfire-core",
-        "id": 200425308
-    },
-    {
         "repo": "vcd-samples",
         "description": "sample VCD files",
         "owner": "wavedrom",
@@ -6004,19 +5991,6 @@
         "pushed": "2025-09-19T18:54:40+00:00",
         "url": "https://github.com/wavedrom/vcd-samples",
         "id": 393889750
-    },
-    {
-        "repo": "HwLang",
-        "description": null,
-        "owner": "KarelPeeters",
-        "stars": 1,
-        "forks": 0,
-        "size": 3252,
-        "created": "2024-02-05T00:57:17+00:00",
-        "updated": "2025-08-10T21:06:59+00:00",
-        "pushed": "2025-09-23T00:18:24+00:00",
-        "url": "https://github.com/KarelPeeters/HwLang",
-        "id": 752856131
     },
     {
         "repo": "dsd",
@@ -6056,5 +6030,31 @@
         "pushed": "2025-09-27T21:11:35+00:00",
         "url": "https://github.com/tmm88/tmm88",
         "id": 1054156012
+    },
+    {
+        "repo": "bonfire-core",
+        "description": null,
+        "owner": "bonfireprocessor",
+        "stars": 0,
+        "forks": 1,
+        "size": 275,
+        "created": "2019-08-03T22:11:34+00:00",
+        "updated": "2025-09-28T16:57:21+00:00",
+        "pushed": "2025-09-28T16:57:18+00:00",
+        "url": "https://github.com/bonfireprocessor/bonfire-core",
+        "id": 200425308
+    },
+    {
+        "repo": "HwLang",
+        "description": null,
+        "owner": "KarelPeeters",
+        "stars": 2,
+        "forks": 0,
+        "size": 3471,
+        "created": "2024-02-05T00:57:17+00:00",
+        "updated": "2025-09-28T21:06:43+00:00",
+        "pushed": "2025-09-28T21:06:24+00:00",
+        "url": "https://github.com/KarelPeeters/HwLang",
+        "id": 752856131
     }
 ]

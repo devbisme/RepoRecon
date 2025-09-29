@@ -13156,19 +13156,6 @@
         "id": 647035284
     },
     {
-        "repo": "pzh-mcu-bi-weekly",
-        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
-        "owner": "JayHeng",
-        "stars": 495,
-        "forks": 44,
-        "size": 193092,
-        "created": "2020-02-03T10:36:21+00:00",
-        "updated": "2025-02-24T02:17:07+00:00",
-        "pushed": "2025-02-23T13:21:54+00:00",
-        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
-        "id": 237940918
-    },
-    {
         "repo": "litex-multibinary-combiner",
         "description": "A tool to combine multiple LiteX binaries into a single binary",
         "owner": "wipeseals",
@@ -16393,19 +16380,6 @@
         "id": 190029235
     },
     {
-        "repo": "golitex",
-        "description": "Litex: The First Formal Language Learnable in 1-2 Hours",
-        "owner": "litexlang",
-        "stars": 319,
-        "forks": 4,
-        "size": 31123,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-09-26T05:04:17+00:00",
-        "pushed": "2025-09-26T05:04:13+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -16456,32 +16430,6 @@
         "pushed": "2025-09-26T01:46:46+00:00",
         "url": "https://github.com/joonho3020/berkeley-emulation-engine",
         "id": 825008208
-    },
-    {
-        "repo": "litex-task-verifier",
-        "description": "To verify if Litex code is trying to solve current problem",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 139,
-        "created": "2025-09-19T01:04:22+00:00",
-        "updated": "2025-09-26T02:59:58+00:00",
-        "pushed": "2025-09-26T02:59:55+00:00",
-        "url": "https://github.com/litexlang/litex-task-verifier",
-        "id": 1059800340
-    },
-    {
-        "repo": "homebrew-tap",
-        "description": "Litex homebrew tap config",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 22,
-        "created": "2025-07-29T07:26:15+00:00",
-        "updated": "2025-09-26T05:13:39+00:00",
-        "pushed": "2025-09-26T05:13:35+00:00",
-        "url": "https://github.com/litexlang/homebrew-tap",
-        "id": 1028207026
     },
     {
         "repo": "streams",
@@ -16549,19 +16497,6 @@
         "id": 778169492
     },
     {
-        "repo": "litex-official-documents",
-        "description": "All documents on https://litexlang.com/ are open-sourced here.",
-        "owner": "litexlang",
-        "stars": 2,
-        "forks": 0,
-        "size": 168,
-        "created": "2025-08-29T05:50:32+00:00",
-        "updated": "2025-09-27T01:04:23+00:00",
-        "pushed": "2025-09-27T01:04:20+00:00",
-        "url": "https://github.com/litexlang/litex-official-documents",
-        "id": 1046720121
-    },
-    {
         "repo": "ts_litex_driver_win",
         "description": "Windows Driver for the LiteX-based Thunderscope",
         "owner": "EEVengers",
@@ -16601,32 +16536,6 @@
         "id": 990637782
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1170,
-        "forks": 101,
-        "size": 1290,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-09-26T22:33:57+00:00",
-        "pushed": "2025-09-28T02:32:17+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1864,
-        "forks": 279,
-        "size": 238035,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-09-27T16:46:25+00:00",
-        "pushed": "2025-09-27T16:48:00+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "pylitex",
         "description": "pylitex is a Python package that allows users to call Litex in Python.",
         "owner": "litexlang",
@@ -16653,19 +16562,6 @@
         "id": 1064433188
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1639,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-09-28T05:22:42+00:00",
-        "pushed": "2025-09-28T05:22:39+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "HackerNewsArchive",
         "description": "Auto RSS HackerNews and Archive",
         "owner": "Ian729",
@@ -16677,32 +16573,6 @@
         "pushed": "2025-09-27T11:12:46+00:00",
         "url": "https://github.com/Ian729/HackerNewsArchive",
         "id": 911498205
-    },
-    {
-        "repo": "nuttx-star64",
-        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
-        "owner": "lupyuen",
-        "stars": 31,
-        "forks": 2,
-        "size": 2495,
-        "created": "2023-06-26T07:33:05+00:00",
-        "updated": "2025-08-04T22:50:58+00:00",
-        "pushed": "2025-09-28T00:17:47+00:00",
-        "url": "https://github.com/lupyuen/nuttx-star64",
-        "id": 658631896
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2577,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-09-28T04:35:46+00:00",
-        "pushed": "2025-09-28T04:35:43+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
     },
     {
         "repo": "ecp5-hello",
@@ -16757,19 +16627,6 @@
         "id": 171871908
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 14,
-        "forks": 4,
-        "size": 126703,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-09-28T03:28:34+00:00",
-        "pushed": "2025-09-28T03:28:31+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "liuzhenqi77",
@@ -16781,5 +16638,161 @@
         "pushed": "2025-09-28T02:19:48+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1171,
+        "forks": 102,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-09-28T13:25:39+00:00",
+        "pushed": "2025-09-29T02:33:25+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: The First Formal Language Learnable in 1-2 Hours",
+        "owner": "litexlang",
+        "stars": 489,
+        "forks": 4,
+        "size": 31202,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-09-29T04:51:22+00:00",
+        "pushed": "2025-09-29T03:46:31+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1866,
+        "forks": 280,
+        "size": 238035,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-09-29T06:09:56+00:00",
+        "pushed": "2025-09-28T09:13:13+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "litex-official-documents",
+        "description": "All documents on https://litexlang.com/ are open-sourced here.",
+        "owner": "litexlang",
+        "stars": 3,
+        "forks": 0,
+        "size": 173,
+        "created": "2025-08-29T05:50:32+00:00",
+        "updated": "2025-09-28T13:26:16+00:00",
+        "pushed": "2025-09-28T13:26:12+00:00",
+        "url": "https://github.com/litexlang/litex-official-documents",
+        "id": 1046720121
+    },
+    {
+        "repo": "litex-task-verifier",
+        "description": "To verify if Litex code is trying to solve current problem",
+        "owner": "litexlang",
+        "stars": 1,
+        "forks": 0,
+        "size": 142,
+        "created": "2025-09-19T01:04:22+00:00",
+        "updated": "2025-09-28T09:11:16+00:00",
+        "pushed": "2025-09-28T08:12:20+00:00",
+        "url": "https://github.com/litexlang/litex-task-verifier",
+        "id": 1059800340
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1646,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-09-29T05:25:17+00:00",
+        "pushed": "2025-09-29T05:25:14+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "homebrew-tap",
+        "description": "Litex homebrew tap config",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 24,
+        "created": "2025-07-29T07:26:15+00:00",
+        "updated": "2025-09-29T03:47:56+00:00",
+        "pushed": "2025-09-29T03:47:52+00:00",
+        "url": "https://github.com/litexlang/homebrew-tap",
+        "id": 1028207026
+    },
+    {
+        "repo": "nuttx-star64",
+        "description": "Apache NuttX RTOS for Pine64 Star64 64-bit RISC-V SBC (StarFive JH7110)",
+        "owner": "lupyuen",
+        "stars": 31,
+        "forks": 2,
+        "size": 2495,
+        "created": "2023-06-26T07:33:05+00:00",
+        "updated": "2025-08-04T22:50:58+00:00",
+        "pushed": "2025-09-29T00:19:15+00:00",
+        "url": "https://github.com/lupyuen/nuttx-star64",
+        "id": 658631896
+    },
+    {
+        "repo": "pzh-mcu-bi-weekly",
+        "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
+        "owner": "JayHeng",
+        "stars": 582,
+        "forks": 53,
+        "size": 193932,
+        "created": "2020-02-03T10:36:21+00:00",
+        "updated": "2025-09-28T11:07:05+00:00",
+        "pushed": "2025-09-28T11:07:00+00:00",
+        "url": "https://github.com/JayHeng/pzh-mcu-bi-weekly",
+        "id": 237940918
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2675,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-09-29T04:38:00+00:00",
+        "pushed": "2025-09-29T04:37:57+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "kernel",
+        "description": "CitOmni Kernel is a tiny PHP 8.2+ core that boots CitOmni apps. It provides the minimal App container, deep read-only config wrapper, deterministic vendor->providers->app merging, explicit service maps ($app->id), optional compiled caches, and a fail-fast philosophy. No magic-HTTP/CLI own delivery and error handling.",
+        "owner": "citomni",
+        "stars": 0,
+        "forks": 0,
+        "size": 52,
+        "created": "2025-09-21T22:22:45+00:00",
+        "updated": "2025-09-29T00:30:22+00:00",
+        "pushed": "2025-09-29T00:30:19+00:00",
+        "url": "https://github.com/citomni/kernel",
+        "id": 1061433469
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 14,
+        "forks": 4,
+        "size": 127256,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-09-29T03:27:34+00:00",
+        "pushed": "2025-09-29T03:27:30+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
