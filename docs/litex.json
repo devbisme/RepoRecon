@@ -16068,19 +16068,6 @@
         "id": 1061522755
     },
     {
-        "repo": "ThunderScope",
-        "description": "ThunderScope GitHub Repo",
-        "owner": "EEVengers",
-        "stars": 1152,
-        "forks": 232,
-        "size": 1042825,
-        "created": "2019-06-03T15:09:39+00:00",
-        "updated": "2025-09-25T18:45:55+00:00",
-        "pushed": "2025-09-25T18:45:50+00:00",
-        "url": "https://github.com/EEVengers/ThunderScope",
-        "id": 190029235
-    },
-    {
         "repo": "serv",
         "description": "SERV - The SErial RISC-V CPU",
         "owner": "olofk",
@@ -16185,19 +16172,6 @@
         "id": 911498205
     },
     {
-        "repo": "ecp5-hello",
-        "description": "ECP5 FPGA: Fully Open-Source Toolchain for FPGA Synthesis, Place & Route, Simulation, and Programming/Flashing.",
-        "owner": "Alfredosavi",
-        "stars": 0,
-        "forks": 1,
-        "size": 51,
-        "created": "2025-09-13T01:04:36+00:00",
-        "updated": "2025-09-27T20:58:14+00:00",
-        "pushed": "2025-09-27T20:58:11+00:00",
-        "url": "https://github.com/Alfredosavi/ecp5-hello",
-        "id": 1055881623
-    },
-    {
         "repo": "pzh-mcu-bi-weekly",
         "description": "\u75de\u5b50\u8861\u5d4c\u5165\u5f0f\u534a\u6708\u520a\uff0c\u5206\u4eab\u5d4c\u5165\u5f0f\u9886\u57df\u6709\u7528\u6709\u8da3\u7684\u5de5\u5177\u6216\u9879\u76ee\u4ee5\u53ca\u4e00\u4e9b\u70ed\u70b9\u65b0\u95fb\u3002\u4ece2020\u5e742\u6708\u8d77\uff0c\u6bcf\u534a\u4e2a\u6708\u53d1\u5e03\u4e00\u671f",
         "owner": "JayHeng",
@@ -16222,19 +16196,6 @@
         "pushed": "2025-09-30T05:34:38+00:00",
         "url": "https://github.com/litexlang/pylitex",
         "id": 1035827713
-    },
-    {
-        "repo": "VintageBusFPGA_Common",
-        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
-        "owner": "MelkhiorVintageComputing",
-        "stars": 5,
-        "forks": 0,
-        "size": 784,
-        "created": "2022-10-31T14:30:10+00:00",
-        "updated": "2025-09-29T12:03:51+00:00",
-        "pushed": "2025-09-29T12:03:47+00:00",
-        "url": "https://github.com/MelkhiorVintageComputing/VintageBusFPGA_Common",
-        "id": 559997034
     },
     {
         "repo": "litex-task-verifier",
@@ -16393,19 +16354,6 @@
         "id": 1068215642
     },
     {
-        "repo": "LITEXDRAGONXVPS",
-        "description": null,
-        "owner": "iamdragonboy",
-        "stars": 0,
-        "forks": 0,
-        "size": 84,
-        "created": "2025-10-02T02:51:55+00:00",
-        "updated": "2025-10-02T02:54:53+00:00",
-        "pushed": "2025-10-02T02:54:49+00:00",
-        "url": "https://github.com/iamdragonboy/LITEXDRAGONXVPS",
-        "id": 1068210875
-    },
-    {
         "repo": "dataset-killer",
         "description": "Datasets Formalized in Litex using AI Agents (e.g. GSM8k, Math23k)",
         "owner": "litexlang",
@@ -16417,19 +16365,6 @@
         "pushed": "2025-10-01T08:07:48+00:00",
         "url": "https://github.com/litexlang/dataset-killer",
         "id": 1067668002
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 5,
-        "forks": 1,
-        "size": 45125,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-10-02T01:03:59+00:00",
-        "pushed": "2025-10-02T01:03:55+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "awesome-stars",
@@ -16627,19 +16562,6 @@
         "id": 778169492
     },
     {
-        "repo": "neorv32",
-        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
-        "owner": "stnolting",
-        "stars": 1870,
-        "forks": 281,
-        "size": 238356,
-        "created": "2020-06-23T15:29:41+00:00",
-        "updated": "2025-10-04T02:23:03+00:00",
-        "pushed": "2025-10-04T05:35:08+00:00",
-        "url": "https://github.com/stnolting/neorv32",
-        "id": 274442284
-    },
-    {
         "repo": "std",
         "description": "Standard Library of Litex",
         "owner": "litexlang",
@@ -16692,32 +16614,6 @@
         "id": 972708089
     },
     {
-        "repo": "openCologne-PCIE",
-        "description": "The first-ever soft RTL stack for PCIE EndPoint in opensource, w/o using vendor-locked HMs for Data Link, Transaction, Application layers, and with standard PIPE interface for vendor SerDes. Portable and augmented by the best-in-class PCIE VIP+DV, with \"Slot\" and M.2 cards for GateMate, the project opens the PCIE gate to ASIC, AI & acceleration.",
-        "owner": "chili-chips-ba",
-        "stars": 18,
-        "forks": 0,
-        "size": 46147,
-        "created": "2025-09-28T20:33:50+00:00",
-        "updated": "2025-10-04T05:27:12+00:00",
-        "pushed": "2025-10-04T00:47:37+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne-PCIE",
-        "id": 1065985855
-    },
-    {
-        "repo": "project-petalite",
-        "description": "Proof of concept for a hardware TPM implementing CRYSTALS-Dilithium",
-        "owner": "franos-cm",
-        "stars": 0,
-        "forks": 0,
-        "size": 15784,
-        "created": "2025-04-30T07:45:57+00:00",
-        "updated": "2025-10-02T04:55:48+00:00",
-        "pushed": "2025-10-03T15:26:29+00:00",
-        "url": "https://github.com/franos-cm/project-petalite",
-        "id": 975367391
-    },
-    {
         "repo": "CXU-playground",
         "description": "A template for a litex project",
         "owner": "pmozil",
@@ -16742,19 +16638,6 @@
         "pushed": "2025-10-03T08:40:32+00:00",
         "url": "https://github.com/litex-hub/pythondata-cpu-coreblocks",
         "id": 983605868
-    },
-    {
-        "repo": "LitExtract",
-        "description": null,
-        "owner": "vaishvd",
-        "stars": 0,
-        "forks": 0,
-        "size": 31,
-        "created": "2025-08-11T07:42:25+00:00",
-        "updated": "2025-10-03T17:18:57+00:00",
-        "pushed": "2025-10-03T17:18:54+00:00",
-        "url": "https://github.com/vaishvd/LitExtract",
-        "id": 1035858493
     },
     {
         "repo": "streams",
@@ -16783,19 +16666,6 @@
         "id": 191191221
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1181,
-        "forks": 102,
-        "size": 1294,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-10-04T23:31:04+00:00",
-        "pushed": "2025-10-05T02:38:46+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "golitex",
         "description": "Litex: The First Formal Language Learnable in 1-2 Hours",
         "owner": "litexlang",
@@ -16820,19 +16690,6 @@
         "pushed": "2025-10-05T00:35:46+00:00",
         "url": "https://github.com/litexlang/litex-official-documents",
         "id": 1046720121
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1672,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-10-05T05:22:13+00:00",
-        "pushed": "2025-10-05T05:22:11+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "minif2f-Litex",
@@ -16861,45 +16718,6 @@
         "id": 793735929
     },
     {
-        "repo": "Soc-LiteX-AcceleratorProductScalar",
-        "description": null,
-        "owner": "lucasxavier9",
-        "stars": 0,
-        "forks": 0,
-        "size": 0,
-        "created": "2025-10-04T13:27:16+00:00",
-        "updated": "2025-10-04T13:28:00+00:00",
-        "pushed": "2025-10-04T13:27:16+00:00",
-        "url": "https://github.com/lucasxavier9/Soc-LiteX-AcceleratorProductScalar",
-        "id": 1069712517
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2837,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-10-05T04:35:06+00:00",
-        "pushed": "2025-10-05T04:35:03+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "ecp5-hello",
-        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
-        "owner": "Kuykakuy",
-        "stars": 0,
-        "forks": 0,
-        "size": 52,
-        "created": "2025-10-03T21:57:09+00:00",
-        "updated": "2025-10-05T03:42:41+00:00",
-        "pushed": "2025-10-05T03:42:38+00:00",
-        "url": "https://github.com/Kuykakuy/ecp5-hello",
-        "id": 1069401140
-    },
-    {
         "repo": "Lecturas_GLC",
         "description": "Readings on computational logic, interactive theorem proving and functional programming.",
         "owner": "jaalonso",
@@ -16911,19 +16729,6 @@
         "pushed": "2025-10-04T09:03:07+00:00",
         "url": "https://github.com/jaalonso/Lecturas_GLC",
         "id": 77744499
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 14,
-        "forks": 4,
-        "size": 120856,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-10-05T03:26:48+00:00",
-        "pushed": "2025-10-05T03:26:45+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
     },
     {
         "repo": "awesome-stars",
@@ -16950,5 +16755,200 @@
         "pushed": "2025-10-05T01:00:14+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
+    },
+    {
+        "repo": "ThunderScope",
+        "description": "ThunderScope GitHub Repo",
+        "owner": "EEVengers",
+        "stars": 1160,
+        "forks": 233,
+        "size": 1042828,
+        "created": "2019-06-03T15:09:39+00:00",
+        "updated": "2025-10-05T21:32:53+00:00",
+        "pushed": "2025-10-05T21:32:50+00:00",
+        "url": "https://github.com/EEVengers/ThunderScope",
+        "id": 190029235
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1180,
+        "forks": 102,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-10-06T01:57:52+00:00",
+        "pushed": "2025-10-06T02:23:26+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "neorv32",
+        "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
+        "owner": "stnolting",
+        "stars": 1874,
+        "forks": 281,
+        "size": 238425,
+        "created": "2020-06-23T15:29:41+00:00",
+        "updated": "2025-10-06T04:56:55+00:00",
+        "pushed": "2025-10-05T18:56:41+00:00",
+        "url": "https://github.com/stnolting/neorv32",
+        "id": 274442284
+    },
+    {
+        "repo": "openCologne-PCIE",
+        "description": "The first-ever opensource RTL stack for PCIE EndPoint. Without vendor-locked HMs for Data Link, Transaction, Application layers; With standard PIPE interface for vendor SerDes. Portable, unencrypted, free SVerilog with best-in-class VIP, Slot and M.2 cards for GateMate, the project opens PCIE connectivity to FPGAs, ASICs, I/O, acceleration, AI, ...",
+        "owner": "chili-chips-ba",
+        "stars": 23,
+        "forks": 1,
+        "size": 47639,
+        "created": "2025-09-28T20:33:50+00:00",
+        "updated": "2025-10-06T05:27:32+00:00",
+        "pushed": "2025-10-06T01:15:13+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne-PCIE",
+        "id": 1065985855
+    },
+    {
+        "repo": "VintageBusFPGA_Common",
+        "description": "Common stuff for SBusFPGA, NuBusFPGA, ...",
+        "owner": "MelkhiorVintageComputing",
+        "stars": 5,
+        "forks": 0,
+        "size": 790,
+        "created": "2022-10-31T14:30:10+00:00",
+        "updated": "2025-10-05T14:29:04+00:00",
+        "pushed": "2025-10-05T14:29:00+00:00",
+        "url": "https://github.com/MelkhiorVintageComputing/VintageBusFPGA_Common",
+        "id": 559997034
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1679,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-10-06T05:24:02+00:00",
+        "pushed": "2025-10-06T05:23:59+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "project-petalite",
+        "description": "Proof of concept for a hardware TPM implementing CRYSTALS-Dilithium",
+        "owner": "franos-cm",
+        "stars": 0,
+        "forks": 0,
+        "size": 15784,
+        "created": "2025-04-30T07:45:57+00:00",
+        "updated": "2025-10-02T04:55:48+00:00",
+        "pushed": "2025-10-06T05:48:36+00:00",
+        "url": "https://github.com/franos-cm/project-petalite",
+        "id": 975367391
+    },
+    {
+        "repo": "Soc-LiteX-AcceleratorProductScalar",
+        "description": null,
+        "owner": "lucasxavier9",
+        "stars": 0,
+        "forks": 0,
+        "size": 336,
+        "created": "2025-10-04T13:27:16+00:00",
+        "updated": "2025-10-06T02:56:26+00:00",
+        "pushed": "2025-10-06T02:56:22+00:00",
+        "url": "https://github.com/lucasxavier9/Soc-LiteX-AcceleratorProductScalar",
+        "id": 1069712517
+    },
+    {
+        "repo": "LITEXDRAGONXVPS",
+        "description": null,
+        "owner": "iamdragonboy",
+        "stars": 0,
+        "forks": 0,
+        "size": 108,
+        "created": "2025-10-02T02:51:55+00:00",
+        "updated": "2025-10-05T09:46:23+00:00",
+        "pushed": "2025-10-05T09:46:20+00:00",
+        "url": "https://github.com/iamdragonboy/LITEXDRAGONXVPS",
+        "id": 1068210875
+    },
+    {
+        "repo": "LitExtract",
+        "description": null,
+        "owner": "vaishvd",
+        "stars": 0,
+        "forks": 0,
+        "size": 114,
+        "created": "2025-08-11T07:42:25+00:00",
+        "updated": "2025-10-05T19:39:50+00:00",
+        "pushed": "2025-10-05T19:39:47+00:00",
+        "url": "https://github.com/vaishvd/LitExtract",
+        "id": 1035858493
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2935,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-10-06T04:37:23+00:00",
+        "pushed": "2025-10-06T04:37:20+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "ecp5-hello",
+        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
+        "owner": "Kuykakuy",
+        "stars": 0,
+        "forks": 0,
+        "size": 1400,
+        "created": "2025-10-03T21:57:09+00:00",
+        "updated": "2025-10-06T05:56:49+00:00",
+        "pushed": "2025-10-06T05:56:45+00:00",
+        "url": "https://github.com/Kuykakuy/ecp5-hello",
+        "id": 1069401140
+    },
+    {
+        "repo": "ecp5-hello",
+        "description": "ECP5 FPGA: Fully Open-Source Toolchain for FPGA Synthesis, Place & Route, Simulation, and Programming/Flashing.",
+        "owner": "Alfredosavi",
+        "stars": 0,
+        "forks": 1,
+        "size": 52,
+        "created": "2025-09-13T01:04:36+00:00",
+        "updated": "2025-10-05T19:31:05+00:00",
+        "pushed": "2025-10-05T19:31:01+00:00",
+        "url": "https://github.com/Alfredosavi/ecp5-hello",
+        "id": 1055881623
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 46489,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-10-06T01:03:12+00:00",
+        "pushed": "2025-10-06T01:03:09+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 14,
+        "forks": 4,
+        "size": 121412,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-10-06T03:26:05+00:00",
+        "pushed": "2025-10-06T03:26:01+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
