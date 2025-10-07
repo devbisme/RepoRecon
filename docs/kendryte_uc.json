@@ -46592,19 +46592,6 @@
         "id": 1057713862
     },
     {
-        "repo": "krux-installer",
-        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
-        "owner": "selfcustody",
-        "stars": 19,
-        "forks": 8,
-        "size": 24679,
-        "created": "2022-07-22T00:29:35+00:00",
-        "updated": "2025-09-16T14:57:16+00:00",
-        "pushed": "2025-09-15T09:06:42+00:00",
-        "url": "https://github.com/selfcustody/krux-installer",
-        "id": 516560139
-    },
-    {
         "repo": "awesome-edge-ai",
         "description": "A curated list of resources for embedded AI",
         "owner": "XiaomingX",
@@ -47593,19 +47580,6 @@
         "id": 505364954
     },
     {
-        "repo": "rvos",
-        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
-        "owner": "davidly",
-        "stars": 15,
-        "forks": 4,
-        "size": 6610,
-        "created": "2023-02-26T23:41:46+00:00",
-        "updated": "2025-10-05T23:32:06+00:00",
-        "pushed": "2025-10-05T23:32:02+00:00",
-        "url": "https://github.com/davidly/rvos",
-        "id": 606922823
-    },
-    {
         "repo": "-Human-Tracking-Recognition-and-Launch-System",
         "description": "This is a project that combines a servo gimbal with K230 for human recognition, tracking and launching.",
         "owner": "zzz529",
@@ -47658,6 +47632,45 @@
         "id": 1069846952
     },
     {
+        "repo": "krux-installer",
+        "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
+        "owner": "selfcustody",
+        "stars": 19,
+        "forks": 10,
+        "size": 24520,
+        "created": "2022-07-22T00:29:35+00:00",
+        "updated": "2025-10-06T13:19:10+00:00",
+        "pushed": "2025-10-06T13:19:04+00:00",
+        "url": "https://github.com/selfcustody/krux-installer",
+        "id": 516560139
+    },
+    {
+        "repo": "krux",
+        "description": "Forked from https://github.com/selfcustody/krux.git",
+        "owner": "fobg906468567HeatherWalker",
+        "stars": 2,
+        "forks": 0,
+        "size": 212575,
+        "created": "2025-10-06T07:29:41+00:00",
+        "updated": "2025-10-06T19:42:28+00:00",
+        "pushed": "2025-10-06T07:30:28+00:00",
+        "url": "https://github.com/fobg906468567HeatherWalker/krux",
+        "id": 1070607280
+    },
+    {
+        "repo": "rvos",
+        "description": "Loads and runs Linux RISC-V .elf files on Linux, MacOS, and Windows.",
+        "owner": "davidly",
+        "stars": 15,
+        "forks": 4,
+        "size": 6891,
+        "created": "2023-02-26T23:41:46+00:00",
+        "updated": "2025-10-06T17:48:43+00:00",
+        "pushed": "2025-10-06T17:48:39+00:00",
+        "url": "https://github.com/davidly/rvos",
+        "id": 606922823
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
         "owner": "izumi0214",
@@ -47665,8 +47678,8 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-10-06T05:37:56+00:00",
-        "pushed": "2025-10-06T05:37:53+00:00",
+        "updated": "2025-10-07T06:07:14+00:00",
+        "pushed": "2025-10-07T06:07:11+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
     },
@@ -47676,10 +47689,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 37,
-        "size": 1115453,
+        "size": 1115454,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-10-05T12:32:15+00:00",
-        "pushed": "2025-10-05T12:32:12+00:00",
+        "updated": "2025-10-06T12:37:35+00:00",
+        "pushed": "2025-10-06T12:37:32+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -47689,10 +47702,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 121412,
+        "size": 121958,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-10-06T03:26:05+00:00",
-        "pushed": "2025-10-06T03:26:01+00:00",
+        "updated": "2025-10-07T03:22:42+00:00",
+        "pushed": "2025-10-07T03:22:38+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -47702,10 +47715,10 @@
         "owner": "zhuozhiyongde",
         "stars": 30,
         "forks": 1,
-        "size": 2690,
+        "size": 2762,
         "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2025-10-06T01:01:50+00:00",
-        "pushed": "2025-10-06T01:01:45+00:00",
+        "updated": "2025-10-07T01:00:36+00:00",
+        "pushed": "2025-10-07T01:00:32+00:00",
         "url": "https://github.com/zhuozhiyongde/Stargazer",
         "id": 917416797
     }
