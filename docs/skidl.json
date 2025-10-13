@@ -2210,19 +2210,6 @@
         "id": 1061231453
     },
     {
-        "repo": "DeMoD-EchoForge-DSP",
-        "description": "PCB |Texas Instruments TMS320C6657 DSP, supported by 8Gb DDR3L RAM for high-bandwidth data processing, the TI TAC5212 stereo audio codec for high-fidelity conversion, and a USB-C port for data transfer and power. It offers stereo audio input and output via 3.5mm TRS jacks, enabling real-time audio applications with low latency and high performance.",
-        "owner": "ALH477",
-        "stars": 1,
-        "forks": 0,
-        "size": 27,
-        "created": "2025-09-30T11:41:48+00:00",
-        "updated": "2025-10-01T04:10:12+00:00",
-        "pushed": "2025-10-01T03:50:28+00:00",
-        "url": "https://github.com/ALH477/DeMoD-EchoForge-DSP",
-        "id": 1067105897
-    },
-    {
         "repo": "skidlord3000GUI",
         "description": "@skidlord3000 on roblox theskittlerrr@gmail.com",
         "owner": "Froopyyy",
@@ -2286,5 +2273,31 @@
         "pushed": "2025-10-11T22:18:37+00:00",
         "url": "https://github.com/adamws/kicad-kbplacer",
         "id": 254747856
+    },
+    {
+        "repo": "DeMoD-EchoForge-DSP",
+        "description": "PCB |Texas Instruments TMS320C6657 DSP, supported by 8Gb DDR3L RAM for high-bandwidth data processing, the TI TAC5212 stereo audio codec for high-fidelity conversion, and a USB-C port for data transfer and power. It offers stereo audio input and output via 3.5mm TRS jacks, enabling real-time audio applications with low latency and high performance.",
+        "owner": "ALH477",
+        "stars": 1,
+        "forks": 0,
+        "size": 118,
+        "created": "2025-09-30T11:41:48+00:00",
+        "updated": "2025-10-12T15:14:23+00:00",
+        "pushed": "2025-10-12T15:14:19+00:00",
+        "url": "https://github.com/ALH477/DeMoD-EchoForge-DSP",
+        "id": 1067105897
+    },
+    {
+        "repo": "KICAD-autowire",
+        "description": "KiCAD schematic designer: analyzes connectivity \u2192 optimizes placement \u2192 wires with strategy (direct/labels/symbols). Uses schematic's existing variable names, see QUICKSTART, starts with component placement, auto-wires using your schematic's variable names. Flux alternative.",
+        "owner": "arashmparsa",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-10-13T05:21:57+00:00",
+        "updated": "2025-10-13T05:27:53+00:00",
+        "pushed": "2025-10-13T05:25:52+00:00",
+        "url": "https://github.com/arashmparsa/KICAD-autowire",
+        "id": 1075145012
     }
 ]
