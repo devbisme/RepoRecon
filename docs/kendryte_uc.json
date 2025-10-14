@@ -39338,19 +39338,6 @@
         "id": 901998311
     },
     {
-        "repo": "wmt_uclinux_study",
-        "description": "My uclinux study",
-        "owner": "weimingtom",
-        "stars": 1,
-        "forks": 0,
-        "size": 388,
-        "created": "2022-11-11T19:05:19+00:00",
-        "updated": "2024-12-12T05:52:13+00:00",
-        "pushed": "2024-12-12T05:52:10+00:00",
-        "url": "https://github.com/weimingtom/wmt_uclinux_study",
-        "id": 564897516
-    },
-    {
         "repo": "camvisiotech-edge-ai",
         "description": "This repository contains the full source code and setup for Camvisiotech, designed for Kendryte's KP10-based boards, specifically using the Maixduino by Sipeed. Developed for CircuitDigest's IoT and Edge AI Challenge 2024, this version includes WiFi functionality, making it accessible to users without GSM connectivity.",
         "owner": "mohittalwar23",
@@ -47060,19 +47047,6 @@
         "id": 722305838
     },
     {
-        "repo": "MaixHolmes",
-        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
-        "owner": "MaixHolmes",
-        "stars": 0,
-        "forks": 0,
-        "size": 49,
-        "created": "2024-11-07T02:54:02+00:00",
-        "updated": "2025-09-30T14:50:11+00:00",
-        "pushed": "2025-09-30T14:50:08+00:00",
-        "url": "https://github.com/MaixHolmes/MaixHolmes",
-        "id": 884588946
-    },
-    {
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
@@ -47619,32 +47593,6 @@
         "id": 188584527
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 817,
-        "forks": 202,
-        "size": 64306,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-10-10T22:34:10+00:00",
-        "pushed": "2025-10-13T06:16:58+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 608,
-        "forks": 81,
-        "size": 83783,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-10-12T08:49:06+00:00",
-        "pushed": "2025-10-11T06:42:35+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
-    },
-    {
         "repo": "LicheeSG-Nano-Build",
         "description": "LicheeRV-Nano-Build with submodules",
         "owner": "scpcom",
@@ -47656,19 +47604,6 @@
         "pushed": "2025-10-13T06:08:26+00:00",
         "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
         "id": 840056339
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11451,
-        "forks": 5282,
-        "size": 934783,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-10-13T03:45:27+00:00",
-        "pushed": "2025-10-13T03:45:22+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "rtsmart",
@@ -47721,19 +47656,6 @@
         "pushed": "2025-10-12T14:08:48+00:00",
         "url": "https://github.com/14N16O/k230_micropython",
         "id": 1074789864
-    },
-    {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 2,
-        "size": 43,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-10-09T08:41:34+00:00",
-        "pushed": "2025-10-13T00:53:08+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
     },
     {
         "repo": "Sipeed-MaixSense-A010-Capture",
@@ -47801,6 +47723,97 @@
         "id": 731012323
     },
     {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 817,
+        "forks": 202,
+        "size": 64331,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-10-10T22:34:10+00:00",
+        "pushed": "2025-10-14T06:09:49+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 608,
+        "forks": 81,
+        "size": 83827,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-10-13T09:29:40+00:00",
+        "pushed": "2025-10-13T10:13:46+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11450,
+        "forks": 5282,
+        "size": 934793,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-10-14T01:15:22+00:00",
+        "pushed": "2025-10-14T01:15:15+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 1,
+        "forks": 2,
+        "size": 43,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-10-09T08:41:34+00:00",
+        "pushed": "2025-10-14T00:48:51+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "MaixHolmes",
+        "description": "2024-11-07 10:54:02.112695326 +0800 CST m=+6422.604480584",
+        "owner": "MaixHolmes",
+        "stars": 0,
+        "forks": 0,
+        "size": 49,
+        "created": "2024-11-07T02:54:02+00:00",
+        "updated": "2025-10-13T13:40:11+00:00",
+        "pushed": "2025-10-13T13:40:08+00:00",
+        "url": "https://github.com/MaixHolmes/MaixHolmes",
+        "id": 884588946
+    },
+    {
+        "repo": "DeMoD-RISC-OS",
+        "description": null,
+        "owner": "ALH477",
+        "stars": 0,
+        "forks": 0,
+        "size": 12,
+        "created": "2025-10-13T12:50:17+00:00",
+        "updated": "2025-10-13T12:53:17+00:00",
+        "pushed": "2025-10-13T12:50:36+00:00",
+        "url": "https://github.com/ALH477/DeMoD-RISC-OS",
+        "id": 1075395131
+    },
+    {
+        "repo": "wmt_uclinux_study",
+        "description": "My uclinux study",
+        "owner": "weimingtom",
+        "stars": 1,
+        "forks": 0,
+        "size": 400,
+        "created": "2022-11-11T19:05:19+00:00",
+        "updated": "2025-10-13T17:27:14+00:00",
+        "pushed": "2025-10-13T17:27:11+00:00",
+        "url": "https://github.com/weimingtom/wmt_uclinux_study",
+        "id": 564897516
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
         "owner": "izumi0214",
@@ -47808,8 +47821,8 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-10-13T05:38:45+00:00",
-        "pushed": "2025-10-13T05:38:42+00:00",
+        "updated": "2025-10-14T03:51:10+00:00",
+        "pushed": "2025-10-14T03:51:07+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
     },
@@ -47819,10 +47832,10 @@
         "owner": "androidtrackers",
         "stars": 141,
         "forks": 37,
-        "size": 1118662,
+        "size": 1118664,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-10-12T12:32:25+00:00",
-        "pushed": "2025-10-12T12:32:21+00:00",
+        "updated": "2025-10-13T12:37:42+00:00",
+        "pushed": "2025-10-13T12:37:37+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -47832,10 +47845,10 @@
         "owner": "zhuozhiyongde",
         "stars": 31,
         "forks": 2,
-        "size": 2990,
+        "size": 2995,
         "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2025-10-13T01:05:31+00:00",
-        "pushed": "2025-10-13T01:05:27+00:00",
+        "updated": "2025-10-14T01:01:25+00:00",
+        "pushed": "2025-10-14T01:01:21+00:00",
         "url": "https://github.com/zhuozhiyongde/Stargazer",
         "id": 917416797
     },
@@ -47845,10 +47858,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 125320,
+        "size": 125895,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-10-13T03:30:25+00:00",
-        "pushed": "2025-10-13T03:30:21+00:00",
+        "updated": "2025-10-14T03:25:17+00:00",
+        "pushed": "2025-10-14T03:25:14+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
