@@ -2275,19 +2275,6 @@
         "id": 254747856
     },
     {
-        "repo": "DeMoD-EchoForge-DSP",
-        "description": "PCB |Texas Instruments TMS320C6657 DSP, supported by 8Gb DDR3L RAM for high-bandwidth data processing, the TI TAC5212 stereo audio codec for high-fidelity conversion, and a USB-C port for data transfer and power. It offers stereo audio input and output via 3.5mm TRS jacks, enabling real-time audio applications with low latency and high performance.",
-        "owner": "ALH477",
-        "stars": 1,
-        "forks": 0,
-        "size": 1827,
-        "created": "2025-09-30T11:41:48+00:00",
-        "updated": "2025-10-14T15:24:57+00:00",
-        "pushed": "2025-10-14T15:24:54+00:00",
-        "url": "https://github.com/ALH477/DeMoD-EchoForge-DSP",
-        "id": 1067105897
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "stahlnow",
@@ -2299,5 +2286,31 @@
         "pushed": "2025-10-16T00:49:17+00:00",
         "url": "https://github.com/stahlnow/awesome-stars",
         "id": 768320430
+    },
+    {
+        "repo": "Skidl",
+        "description": "Interactive clone to skribbl but we can play having host and users with mobile interactivity",
+        "owner": "atreyakamat",
+        "stars": 0,
+        "forks": 0,
+        "size": 36,
+        "created": "2025-10-17T07:28:15+00:00",
+        "updated": "2025-10-17T09:46:47+00:00",
+        "pushed": "2025-10-17T09:46:43+00:00",
+        "url": "https://github.com/atreyakamat/Skidl",
+        "id": 1078085744
+    },
+    {
+        "repo": "DeMoD-EchoForge-DSP",
+        "description": "a FOSH DSP schematic.",
+        "owner": "ALH477",
+        "stars": 1,
+        "forks": 0,
+        "size": 1848,
+        "created": "2025-09-30T11:41:48+00:00",
+        "updated": "2025-10-17T11:57:08+00:00",
+        "pushed": "2025-10-17T11:57:05+00:00",
+        "url": "https://github.com/ALH477/DeMoD-EchoForge-DSP",
+        "id": 1067105897
     }
 ]
