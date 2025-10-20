@@ -15418,19 +15418,6 @@
         "id": 183392076
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 216,
-        "forks": 29,
-        "size": 20355,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-09-13T12:57:09+00:00",
-        "pushed": "2025-09-13T12:57:05+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "litex-simple-soc",
         "description": "Belajar RISC-V simple SOC menggunakan migen & litex",
         "owner": "vanbwodonk",
@@ -16380,19 +16367,6 @@
         "id": 322349362
     },
     {
-        "repo": "thunderscope_litex",
-        "description": "LiteX based FPGA gateware for Thunderscope.",
-        "owner": "EEVengers",
-        "stars": 25,
-        "forks": 10,
-        "size": 6172,
-        "created": "2024-04-15T10:20:27+00:00",
-        "updated": "2025-10-11T04:52:51+00:00",
-        "pushed": "2025-10-11T04:52:47+00:00",
-        "url": "https://github.com/EEVengers/thunderscope_litex",
-        "id": 786797602
-    },
-    {
         "repo": "linux-on-litex-coreblocks",
         "description": "NoMMU Linux on Coreblocs Litex SoC",
         "owner": "kuznia-rdzeni",
@@ -17095,45 +17069,6 @@
         "id": 84366787
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 54163,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-10-18T01:04:04+00:00",
-        "pushed": "2025-10-18T01:04:01+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1201,
-        "forks": 103,
-        "size": 1294,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-10-19T02:39:40+00:00",
-        "pushed": "2025-10-19T02:55:16+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
-        "repo": "golitex",
-        "description": "Litex: A Simple & Elegant Formal Language Learnable in 2 Hours",
-        "owner": "litexlang",
-        "stars": 544,
-        "forks": 5,
-        "size": 30413,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-10-19T03:58:46+00:00",
-        "pushed": "2025-10-19T01:20:03+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -17145,32 +17080,6 @@
         "pushed": "2025-10-18T21:51:02+00:00",
         "url": "https://github.com/stnolting/neorv32",
         "id": 274442284
-    },
-    {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 5,
-        "forks": 0,
-        "size": 33857,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-10-18T16:38:40+00:00",
-        "pushed": "2025-10-18T16:38:37+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
-    },
-    {
-        "repo": "litex-official-documents",
-        "description": "All documents on https://litexlang.com/ are open-sourced here.",
-        "owner": "litexlang",
-        "stars": 4,
-        "forks": 0,
-        "size": 379,
-        "created": "2025-08-29T05:50:32+00:00",
-        "updated": "2025-10-19T05:59:18+00:00",
-        "pushed": "2025-10-19T05:59:15+00:00",
-        "url": "https://github.com/litexlang/litex-official-documents",
-        "id": 1046720121
     },
     {
         "repo": "openPCIE",
@@ -17199,19 +17108,6 @@
         "id": 1078820393
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1738,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-10-19T05:24:25+00:00",
-        "pushed": "2025-10-19T05:24:22+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "homebrew-tap",
         "description": "Litex homebrew tap config",
         "owner": "litexlang",
@@ -17223,32 +17119,6 @@
         "pushed": "2025-10-19T01:21:55+00:00",
         "url": "https://github.com/litexlang/homebrew-tap",
         "id": 1028207026
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 2143,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-10-19T04:37:03+00:00",
-        "pushed": "2025-10-19T04:37:00+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "ecp5-hello",
-        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
-        "owner": "Kuykakuy",
-        "stars": 0,
-        "forks": 0,
-        "size": 1400,
-        "created": "2025-10-03T21:57:09+00:00",
-        "updated": "2025-10-19T03:10:14+00:00",
-        "pushed": "2025-10-19T03:10:11+00:00",
-        "url": "https://github.com/Kuykakuy/ecp5-hello",
-        "id": 1069401140
     },
     {
         "repo": "kernel",
@@ -17264,19 +17134,6 @@
         "id": 1061433469
     },
     {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 81,
-        "forks": 8,
-        "size": 5193,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-10-18T09:57:54+00:00",
-        "pushed": "2025-10-18T09:57:50+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "utensil",
@@ -17290,19 +17147,6 @@
         "id": 171871908
     },
     {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 14,
-        "forks": 4,
-        "size": 128718,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-10-19T03:32:59+00:00",
-        "pushed": "2025-10-19T03:32:55+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars by stargazed",
         "owner": "liuzhenqi77",
@@ -17314,5 +17158,187 @@
         "pushed": "2025-10-19T02:25:13+00:00",
         "url": "https://github.com/liuzhenqi77/awesome-stars",
         "id": 211116919
+    },
+    {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1200,
+        "forks": 103,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-10-20T05:35:49+00:00",
+        "pushed": "2025-10-20T02:42:01+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex: A Simple & Elegant Formal Language Learnable in 2 Hours",
+        "owner": "litexlang",
+        "stars": 548,
+        "forks": 5,
+        "size": 30433,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-10-20T06:13:10+00:00",
+        "pushed": "2025-10-20T00:50:52+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "thunderscope_litex",
+        "description": "LiteX based FPGA gateware for Thunderscope.",
+        "owner": "EEVengers",
+        "stars": 25,
+        "forks": 11,
+        "size": 6182,
+        "created": "2024-04-15T10:20:27+00:00",
+        "updated": "2025-10-20T00:51:17+00:00",
+        "pushed": "2025-10-20T03:24:48+00:00",
+        "url": "https://github.com/EEVengers/thunderscope_litex",
+        "id": 786797602
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 218,
+        "forks": 29,
+        "size": 20414,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-10-19T17:58:33+00:00",
+        "pushed": "2025-10-19T17:58:28+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 6,
+        "forks": 0,
+        "size": 33861,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-10-20T04:06:38+00:00",
+        "pushed": "2025-10-19T14:17:04+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "litex-official-documents",
+        "description": "All documents on https://litexlang.com/ are open-sourced here.",
+        "owner": "litexlang",
+        "stars": 4,
+        "forks": 0,
+        "size": 426,
+        "created": "2025-08-29T05:50:32+00:00",
+        "updated": "2025-10-20T00:42:30+00:00",
+        "pushed": "2025-10-20T00:42:27+00:00",
+        "url": "https://github.com/litexlang/litex-official-documents",
+        "id": 1046720121
+    },
+    {
+        "repo": "tesis_lic_implementacion",
+        "description": null,
+        "owner": "ig-na-cio",
+        "stars": 0,
+        "forks": 0,
+        "size": 18742,
+        "created": "2025-09-28T18:48:15+00:00",
+        "updated": "2025-10-20T03:56:05+00:00",
+        "pushed": "2025-10-20T03:56:02+00:00",
+        "url": "https://github.com/ig-na-cio/tesis_lic_implementacion",
+        "id": 1065948191
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1744,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-10-20T05:26:01+00:00",
+        "pushed": "2025-10-20T05:25:58+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "Litex-LLM-",
+        "description": "\u53c2\u52a02025 CCF\u5927\u6570\u636e\u4e0e\u8ba1\u7b97\u667a\u80fd\u5927\u8d5b-\u5f62\u5f0f\u5316\u6570\u5b66\u7ade\u8d5b\u8d5b\u9898\u7684\u4ee3\u7801\u4ed3\u5e93",
+        "owner": "Keria04",
+        "stars": 0,
+        "forks": 0,
+        "size": 3,
+        "created": "2025-10-20T02:01:52+00:00",
+        "updated": "2025-10-20T02:01:56+00:00",
+        "pushed": "2025-10-20T02:01:53+00:00",
+        "url": "https://github.com/Keria04/Litex-LLM-",
+        "id": 1079544151
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 2242,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-10-20T04:39:01+00:00",
+        "pushed": "2025-10-20T04:38:57+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "ecp5-hello",
+        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
+        "owner": "Kuykakuy",
+        "stars": 0,
+        "forks": 0,
+        "size": 1400,
+        "created": "2025-10-03T21:57:09+00:00",
+        "updated": "2025-10-20T03:17:20+00:00",
+        "pushed": "2025-10-20T03:17:17+00:00",
+        "url": "https://github.com/Kuykakuy/ecp5-hello",
+        "id": 1069401140
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 81,
+        "forks": 8,
+        "size": 5715,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-10-19T07:21:38+00:00",
+        "pushed": "2025-10-19T07:21:34+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 55532,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-10-20T01:02:59+00:00",
+        "pushed": "2025-10-20T01:02:55+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 14,
+        "forks": 4,
+        "size": 129268,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-10-20T03:34:09+00:00",
+        "pushed": "2025-10-20T03:34:04+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]

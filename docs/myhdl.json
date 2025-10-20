@@ -5694,19 +5694,6 @@
         "id": 996860922
     },
     {
-        "repo": "ipCorePackager",
-        "description": "Scriptable IP-Core generator",
-        "owner": "Nic30",
-        "stars": 8,
-        "forks": 0,
-        "size": 96,
-        "created": "2018-10-01T18:16:02+00:00",
-        "updated": "2025-06-10T21:29:17+00:00",
-        "pushed": "2025-06-10T21:29:13+00:00",
-        "url": "https://github.com/Nic30/ipCorePackager",
-        "id": 151136062
-    },
-    {
         "repo": "SOLVED-Cse3666-homework-4",
         "description": null,
         "owner": "LouiseWilliam",
@@ -5941,32 +5928,6 @@
         "id": 1054733496
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 43,
-        "forks": 7,
-        "size": 6835,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-09-13T12:57:15+00:00",
-        "pushed": "2025-09-13T12:57:10+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 216,
-        "forks": 29,
-        "size": 20355,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-09-13T12:57:09+00:00",
-        "pushed": "2025-09-13T12:57:05+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "Venkata_Mulleti_RTL",
         "description": "UART_verilog",
         "owner": "mvgprasanth",
@@ -6082,5 +6043,44 @@
         "pushed": "2025-10-17T22:50:30+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 43,
+        "forks": 7,
+        "size": 6968,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-10-19T17:58:43+00:00",
+        "pushed": "2025-10-19T17:58:35+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 218,
+        "forks": 29,
+        "size": 20414,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-10-19T17:58:33+00:00",
+        "pushed": "2025-10-19T17:58:28+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "ipCorePackager",
+        "description": "Scriptable IP-Core generator",
+        "owner": "Nic30",
+        "stars": 8,
+        "forks": 0,
+        "size": 97,
+        "created": "2018-10-01T18:16:02+00:00",
+        "updated": "2025-10-19T17:58:48+00:00",
+        "pushed": "2025-10-19T17:58:44+00:00",
+        "url": "https://github.com/Nic30/ipCorePackager",
+        "id": 151136062
     }
 ]
