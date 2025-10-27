@@ -5993,19 +5993,6 @@
         "id": 200425308
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 45,
-        "forks": 30,
-        "size": 41710,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2025-10-13T01:30:42+00:00",
-        "pushed": "2025-10-13T01:30:39+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "MIPS-processor-",
         "description": null,
         "owner": "Abdelrahman-Elabyad",
@@ -6017,19 +6004,6 @@
         "pushed": "2025-10-17T15:31:54+00:00",
         "url": "https://github.com/Abdelrahman-Elabyad/MIPS-processor-",
         "id": 1078341335
-    },
-    {
-        "repo": "Tarfand-89-God",
-        "description": "For My Profile",
-        "owner": "Tarfand-89-God",
-        "stars": 1,
-        "forks": 0,
-        "size": 131,
-        "created": "2025-08-07T12:35:11+00:00",
-        "updated": "2025-10-17T15:48:05+00:00",
-        "pushed": "2025-10-17T15:48:02+00:00",
-        "url": "https://github.com/Tarfand-89-God/Tarfand-89-God",
-        "id": 1033842386
     },
     {
         "repo": "ipCorePackager",
@@ -6058,17 +6032,56 @@
         "id": 63018738
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 45,
+        "forks": 30,
+        "size": 41718,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2025-10-23T20:42:01+00:00",
+        "pushed": "2025-10-23T20:41:57+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
         "stars": 218,
         "forks": 29,
-        "size": 20417,
+        "size": 20427,
         "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-10-20T14:08:09+00:00",
-        "pushed": "2025-10-20T14:08:05+00:00",
+        "updated": "2025-10-23T20:25:16+00:00",
+        "pushed": "2025-10-23T20:25:12+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
+    },
+    {
+        "repo": "I2c-interface-for-FPGA",
+        "description": "This project provides a suite of Verilog modules to implement an I\u00b2C interface on FPGA or ASIC platforms. It supports both master and slave functionality, and offers flexible bus interfaces (AXI Stream, AXI Lite, Wishbone). A MyHDL-based testbench environment is included to enable co-simulation using Icarus Verilog and Python.",
+        "owner": "nikita-3008",
+        "stars": 0,
+        "forks": 0,
+        "size": 100,
+        "created": "2025-10-22T16:18:36+00:00",
+        "updated": "2025-10-22T16:41:25+00:00",
+        "pushed": "2025-10-22T16:41:21+00:00",
+        "url": "https://github.com/nikita-3008/I2c-interface-for-FPGA",
+        "id": 1081329353
+    },
+    {
+        "repo": "Tarfand-89-God",
+        "description": "For My Profile",
+        "owner": "Tarfand-89-God",
+        "stars": 1,
+        "forks": 0,
+        "size": 137,
+        "created": "2025-08-07T12:35:11+00:00",
+        "updated": "2025-10-24T12:59:14+00:00",
+        "pushed": "2025-10-24T12:59:10+00:00",
+        "url": "https://github.com/Tarfand-89-God/Tarfand-89-God",
+        "id": 1033842386
     },
     {
         "repo": "HwLang",
@@ -6076,10 +6089,10 @@
         "owner": "KarelPeeters",
         "stars": 2,
         "forks": 0,
-        "size": 3216,
+        "size": 3610,
         "created": "2024-02-05T00:57:17+00:00",
-        "updated": "2025-10-17T22:50:09+00:00",
-        "pushed": "2025-10-21T00:11:21+00:00",
+        "updated": "2025-10-26T15:41:41+00:00",
+        "pushed": "2025-10-26T23:51:28+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
     }

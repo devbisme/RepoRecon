@@ -2223,19 +2223,6 @@
         "id": 1069779655
     },
     {
-        "repo": "awesome-kicad",
-        "description": "A curated list of awesome KiCad plugins and resources",
-        "owner": "joanbono",
-        "stars": 451,
-        "forks": 24,
-        "size": 186,
-        "created": "2021-04-15T06:25:49+00:00",
-        "updated": "2025-10-09T15:28:57+00:00",
-        "pushed": "2025-10-09T14:43:20+00:00",
-        "url": "https://github.com/joanbono/awesome-kicad",
-        "id": 358150819
-    },
-    {
         "repo": "KICAD-autowire",
         "description": "KiCAD schematic designer: analyzes connectivity \u2192 optimizes placement \u2192 wires with strategy (direct/labels/symbols). Uses schematic's existing variable names, see QUICKSTART, starts with component placement, auto-wires using your schematic's variable names. Flux alternative.",
         "owner": "arashmparsa",
@@ -2275,19 +2262,6 @@
         "id": 254747856
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "stahlnow",
-        "stars": 0,
-        "forks": 0,
-        "size": 1982,
-        "created": "2024-03-06T21:46:55+00:00",
-        "updated": "2025-10-16T00:49:21+00:00",
-        "pushed": "2025-10-16T00:49:17+00:00",
-        "url": "https://github.com/stahlnow/awesome-stars",
-        "id": 768320430
-    },
-    {
         "repo": "Skidl",
         "description": "Interactive clone to skribbl but we can play having host and users with mobile interactivity",
         "owner": "atreyakamat",
@@ -2314,16 +2288,68 @@
         "id": 1067105897
     },
     {
+        "repo": "awesome-kicad",
+        "description": "A curated list of awesome KiCad plugins and resources",
+        "owner": "joanbono",
+        "stars": 463,
+        "forks": 24,
+        "size": 192,
+        "created": "2021-04-15T06:25:49+00:00",
+        "updated": "2025-10-26T12:22:17+00:00",
+        "pushed": "2025-10-26T12:22:14+00:00",
+        "url": "https://github.com/joanbono/awesome-kicad",
+        "id": 358150819
+    },
+    {
         "repo": "AutoCKT",
-        "description": "NL2EDA revolutionizes electronic design by transforming natural language into fully functional circuit schematics. Our platform fuses AI, domain-specific logic, and EDA automation to make hardware design as intuitive as writing text\u2014cutting development time, reducing errors, and redefining how engineers build the future.",
+        "description": "NL2EDA revolutionizes electronic design by transforming natural language into fully functional circuit schematics. Our platform fuses AI, domain-specific logic, and EDA automation to make hardware design as intuitive as writing text\u2014cutting development time, reducing errors, and redefining how engineers build the future. Built using Warp.dev",
         "owner": "LochanPS",
         "stars": 0,
         "forks": 0,
-        "size": 16,
+        "size": 57,
         "created": "2025-10-15T07:17:32+00:00",
-        "updated": "2025-10-18T19:15:06+00:00",
-        "pushed": "2025-10-15T07:19:29+00:00",
+        "updated": "2025-10-25T07:47:47+00:00",
+        "pushed": "2025-10-25T07:47:43+00:00",
         "url": "https://github.com/LochanPS/AutoCKT",
         "id": 1076664461
+    },
+    {
+        "repo": "kicad_sch_metrics",
+        "description": "An end-to-end kicad metrics calculation tool",
+        "owner": "manjunadhh",
+        "stars": 0,
+        "forks": 0,
+        "size": 11,
+        "created": "2025-10-24T12:37:26+00:00",
+        "updated": "2025-10-24T12:38:41+00:00",
+        "pushed": "2025-10-24T12:38:37+00:00",
+        "url": "https://github.com/manjunadhh/kicad_sch_metrics",
+        "id": 1082565577
+    },
+    {
+        "repo": "K1.hardware",
+        "description": null,
+        "owner": "synqing",
+        "stars": 0,
+        "forks": 0,
+        "size": 68225,
+        "created": "2025-10-23T12:31:52+00:00",
+        "updated": "2025-10-24T16:51:13+00:00",
+        "pushed": "2025-10-24T16:51:06+00:00",
+        "url": "https://github.com/synqing/K1.hardware",
+        "id": 1081883367
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "stahlnow",
+        "stars": 0,
+        "forks": 0,
+        "size": 1984,
+        "created": "2024-03-06T21:46:55+00:00",
+        "updated": "2025-10-23T00:49:29+00:00",
+        "pushed": "2025-10-23T00:49:26+00:00",
+        "url": "https://github.com/stahlnow/awesome-stars",
+        "id": 768320430
     }
 ]
