@@ -41041,19 +41041,6 @@
         "id": 952525407
     },
     {
-        "repo": "qemu-edu",
-        "description": "rt-thread edu with qemu",
-        "owner": "RT-Thread",
-        "stars": 3,
-        "forks": 2,
-        "size": 6643,
-        "created": "2025-03-09T06:48:10+00:00",
-        "updated": "2025-03-24T15:11:49+00:00",
-        "pushed": "2025-03-24T15:11:41+00:00",
-        "url": "https://github.com/RT-Thread/qemu-edu",
-        "id": 945330381
-    },
-    {
         "repo": "bsp-k230",
         "description": null,
         "owner": "heyuanjie87",
@@ -45565,19 +45552,6 @@
         "id": 1017255978
     },
     {
-        "repo": "portfolio",
-        "description": null,
-        "owner": "Emmanuel-K210",
-        "stars": 0,
-        "forks": 0,
-        "size": 4586,
-        "created": "2025-08-16T17:57:56+00:00",
-        "updated": "2025-08-18T14:34:19+00:00",
-        "pushed": "2025-08-18T14:34:15+00:00",
-        "url": "https://github.com/Emmanuel-K210/portfolio",
-        "id": 1039208799
-    },
-    {
         "repo": "K230",
         "description": "K230\u4ee3\u7801\u4f8b\u7a0b",
         "owner": "HJZ0810",
@@ -46748,19 +46722,6 @@
         "id": 1061640626
     },
     {
-        "repo": "learn",
-        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
-        "owner": "riscv",
-        "stars": 1083,
-        "forks": 119,
-        "size": 1783,
-        "created": "2023-11-22T21:20:35+00:00",
-        "updated": "2025-10-01T05:52:33+00:00",
-        "pushed": "2025-09-30T14:38:40+00:00",
-        "url": "https://github.com/riscv/learn",
-        "id": 722305838
-    },
-    {
         "repo": "nuttx-ox64",
         "description": "Apache NuttX RTOS for Pine64 Ox64 64-bit RISC-V SBC (BouffaloLab BL808)",
         "owner": "lupyuen",
@@ -47255,19 +47216,6 @@
         "id": 1077367914
     },
     {
-        "repo": "k230_linux_sdk",
-        "description": "K230 Linux SDK",
-        "owner": "kendryte",
-        "stars": 39,
-        "forks": 25,
-        "size": 91314,
-        "created": "2024-04-30T01:15:16+00:00",
-        "updated": "2025-10-18T04:49:45+00:00",
-        "pushed": "2025-10-17T08:54:17+00:00",
-        "url": "https://github.com/kendryte/k230_linux_sdk",
-        "id": 793843389
-    },
-    {
         "repo": "awesome-ai-tools",
         "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated September 2025",
         "owner": "eudk",
@@ -47370,19 +47318,6 @@
         "pushed": "2025-10-20T13:55:34+00:00",
         "url": "https://github.com/colourfate/MaixCDK",
         "id": 1079281779
-    },
-    {
-        "repo": "MaixPy",
-        "description": "Easily create AI projects with Python on edge device",
-        "owner": "sipeed",
-        "stars": 610,
-        "forks": 81,
-        "size": 86276,
-        "created": "2024-01-20T05:00:16+00:00",
-        "updated": "2025-10-17T10:18:36+00:00",
-        "pushed": "2025-10-22T06:15:55+00:00",
-        "url": "https://github.com/sipeed/MaixPy",
-        "id": 745771617
     },
     {
         "repo": "kendryte-hal",
@@ -47671,19 +47606,6 @@
         "id": 516560139
     },
     {
-        "repo": "k230_rtsmart_lib",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 0,
-        "forks": 3,
-        "size": 562716,
-        "created": "2024-08-09T10:43:46+00:00",
-        "updated": "2025-10-27T09:45:09+00:00",
-        "pushed": "2025-10-27T09:45:04+00:00",
-        "url": "https://github.com/canmv-k230/k230_rtsmart_lib",
-        "id": 840274595
-    },
-    {
         "repo": "u-boot",
         "description": null,
         "owner": "canmv-k230",
@@ -47749,19 +47671,6 @@
         "id": 1076123685
     },
     {
-        "repo": "nncase",
-        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
-        "owner": "kendryte",
-        "stars": 818,
-        "forks": 202,
-        "size": 64738,
-        "created": "2018-04-04T12:11:19+00:00",
-        "updated": "2025-10-16T07:56:48+00:00",
-        "pushed": "2025-10-29T05:52:08+00:00",
-        "url": "https://github.com/kendryte/nncase",
-        "id": 128056991
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -47773,32 +47682,6 @@
         "pushed": "2025-10-28T07:23:03+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 277,
-        "forks": 55,
-        "size": 218981,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-10-28T15:46:12+00:00",
-        "pushed": "2025-10-28T15:51:30+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "MaixCDK",
-        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
-        "owner": "sipeed",
-        "stars": 95,
-        "forks": 32,
-        "size": 128878,
-        "created": "2023-12-20T01:20:24+00:00",
-        "updated": "2025-10-27T13:39:52+00:00",
-        "pushed": "2025-10-29T04:27:40+00:00",
-        "url": "https://github.com/sipeed/MaixCDK",
-        "id": 733722162
     },
     {
         "repo": "LicheeSG-Nano-Build",
@@ -47840,19 +47723,6 @@
         "id": 998733774
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11494,
-        "forks": 5299,
-        "size": 937555,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-10-29T05:42:36+00:00",
-        "pushed": "2025-10-29T05:33:11+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "rtsmart",
         "description": null,
         "owner": "canmv-k230",
@@ -47866,19 +47736,6 @@
         "id": 824521722
     },
     {
-        "repo": "mpp",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 1,
-        "forks": 6,
-        "size": 56875,
-        "created": "2024-07-05T02:49:23+00:00",
-        "updated": "2025-10-28T09:26:47+00:00",
-        "pushed": "2025-10-28T09:26:43+00:00",
-        "url": "https://github.com/canmv-k230/mpp",
-        "id": 824383370
-    },
-    {
         "repo": "autocomp",
         "description": "Autocomp: LLM-Driven Code Optimization for Tensor Accelerators",
         "owner": "ucb-bar",
@@ -47890,19 +47747,6 @@
         "pushed": "2025-10-29T04:12:11+00:00",
         "url": "https://github.com/ucb-bar/autocomp",
         "id": 997566089
-    },
-    {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 2,
-        "size": 64,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-10-20T03:39:12+00:00",
-        "pushed": "2025-10-29T00:53:45+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
     },
     {
         "repo": "Intelligent-Weighing-System",
@@ -47929,32 +47773,6 @@
         "pushed": "2025-10-28T08:40:08+00:00",
         "url": "https://github.com/MaixHolmes/MaixHolmes",
         "id": 884588946
-    },
-    {
-        "repo": "YOLO-Arxiv-Daily",
-        "description": null,
-        "owner": "WangQvQ",
-        "stars": 8,
-        "forks": 2,
-        "size": 2273,
-        "created": "2024-04-07T11:54:58+00:00",
-        "updated": "2025-10-28T23:22:46+00:00",
-        "pushed": "2025-10-28T23:22:42+00:00",
-        "url": "https://github.com/WangQvQ/YOLO-Arxiv-Daily",
-        "id": 783261492
-    },
-    {
-        "repo": "onnx2kmodel",
-        "description": "convert onnx modle to kmodel for k230",
-        "owner": "DFRobot",
-        "stars": 1,
-        "forks": 0,
-        "size": 1337,
-        "created": "2025-09-28T09:40:21+00:00",
-        "updated": "2025-10-29T06:03:53+00:00",
-        "pushed": "2025-10-29T06:03:49+00:00",
-        "url": "https://github.com/DFRobot/onnx2kmodel",
-        "id": 1065717560
     },
     {
         "repo": "MaiXiming.github.io",
@@ -47996,58 +47814,6 @@
         "id": 1050526737
     },
     {
-        "repo": "SAFE-AI-License",
-        "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
-        "owner": "izumi0214",
-        "stars": 0,
-        "forks": 0,
-        "size": 1370,
-        "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-10-29T02:16:35+00:00",
-        "pushed": "2025-10-29T02:16:32+00:00",
-        "url": "https://github.com/izumi0214/SAFE-AI-License",
-        "id": 842189921
-    },
-    {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 141,
-        "forks": 37,
-        "size": 1129444,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-10-28T12:37:37+00:00",
-        "pushed": "2025-10-28T12:37:33+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
-        "repo": "Stargazer",
-        "description": "\u6211\u5728\u68a6\u6cb3\u8fb9\u6d63\u6d17\u661f\u661f\u3002",
-        "owner": "zhuozhiyongde",
-        "stars": 33,
-        "forks": 2,
-        "size": 1924,
-        "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2025-10-29T02:09:27+00:00",
-        "pushed": "2025-10-29T01:06:39+00:00",
-        "url": "https://github.com/zhuozhiyongde/Stargazer",
-        "id": 917416797
-    },
-    {
-        "repo": "starList",
-        "description": "Export your star's repository list",
-        "owner": "hiifong",
-        "stars": 14,
-        "forks": 4,
-        "size": 124729,
-        "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-10-29T03:34:14+00:00",
-        "pushed": "2025-10-29T03:34:10+00:00",
-        "url": "https://github.com/hiifong/starList",
-        "id": 560725242
-    },
-    {
         "repo": "cs_research_papers",
         "description": "Collection of Computer Science Research Papers",
         "owner": "srinidevar",
@@ -48059,5 +47825,265 @@
         "pushed": "2025-10-29T00:03:04+00:00",
         "url": "https://github.com/srinidevar/cs_research_papers",
         "id": 978881892
+    },
+    {
+        "repo": "nncase",
+        "description": "Open deep learning compiler stack for Kendryte AI accelerators \u2728",
+        "owner": "kendryte",
+        "stars": 818,
+        "forks": 202,
+        "size": 64780,
+        "created": "2018-04-04T12:11:19+00:00",
+        "updated": "2025-10-16T07:56:48+00:00",
+        "pushed": "2025-10-30T05:52:29+00:00",
+        "url": "https://github.com/kendryte/nncase",
+        "id": 128056991
+    },
+    {
+        "repo": "k230_linux_sdk",
+        "description": "K230 Linux SDK",
+        "owner": "kendryte",
+        "stars": 40,
+        "forks": 26,
+        "size": 91317,
+        "created": "2024-04-30T01:15:16+00:00",
+        "updated": "2025-10-30T03:20:12+00:00",
+        "pushed": "2025-10-30T03:20:08+00:00",
+        "url": "https://github.com/kendryte/k230_linux_sdk",
+        "id": 793843389
+    },
+    {
+        "repo": "MaixPy",
+        "description": "Easily create AI projects with Python on edge device",
+        "owner": "sipeed",
+        "stars": 611,
+        "forks": 81,
+        "size": 86284,
+        "created": "2024-01-20T05:00:16+00:00",
+        "updated": "2025-10-28T12:29:17+00:00",
+        "pushed": "2025-10-30T03:39:57+00:00",
+        "url": "https://github.com/sipeed/MaixPy",
+        "id": 745771617
+    },
+    {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 278,
+        "forks": 55,
+        "size": 218989,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-10-29T15:10:38+00:00",
+        "pushed": "2025-10-29T23:52:47+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "MaixCDK",
+        "description": "C/C++ development kit for Sipeed Maix ecosystem boards",
+        "owner": "sipeed",
+        "stars": 95,
+        "forks": 32,
+        "size": 129066,
+        "created": "2023-12-20T01:20:24+00:00",
+        "updated": "2025-10-27T13:39:52+00:00",
+        "pushed": "2025-10-30T03:40:38+00:00",
+        "url": "https://github.com/sipeed/MaixCDK",
+        "id": 733722162
+    },
+    {
+        "repo": "learn",
+        "description": "Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. ",
+        "owner": "riscv",
+        "stars": 1145,
+        "forks": 122,
+        "size": 1740,
+        "created": "2023-11-22T21:20:35+00:00",
+        "updated": "2025-10-30T04:09:06+00:00",
+        "pushed": "2025-10-29T18:25:22+00:00",
+        "url": "https://github.com/riscv/learn",
+        "id": 722305838
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11495,
+        "forks": 5300,
+        "size": 937438,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-10-30T01:19:41+00:00",
+        "pushed": "2025-10-30T01:19:36+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "mpp",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 1,
+        "forks": 6,
+        "size": 56875,
+        "created": "2024-07-05T02:49:23+00:00",
+        "updated": "2025-10-30T05:51:19+00:00",
+        "pushed": "2025-10-30T05:51:15+00:00",
+        "url": "https://github.com/canmv-k230/mpp",
+        "id": 824383370
+    },
+    {
+        "repo": "qemu-edu",
+        "description": "rt-thread edu with qemu",
+        "owner": "RT-Thread",
+        "stars": 7,
+        "forks": 9,
+        "size": 85988,
+        "created": "2025-03-09T06:48:10+00:00",
+        "updated": "2025-10-30T01:05:30+00:00",
+        "pushed": "2025-10-30T01:05:09+00:00",
+        "url": "https://github.com/RT-Thread/qemu-edu",
+        "id": 945330381
+    },
+    {
+        "repo": "k230_rtsmart_lib",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 0,
+        "forks": 3,
+        "size": 562716,
+        "created": "2024-08-09T10:43:46+00:00",
+        "updated": "2025-10-30T06:12:39+00:00",
+        "pushed": "2025-10-30T06:12:36+00:00",
+        "url": "https://github.com/canmv-k230/k230_rtsmart_lib",
+        "id": 840274595
+    },
+    {
+        "repo": "krux",
+        "description": null,
+        "owner": "evm-dragonmm3",
+        "stars": 0,
+        "forks": 0,
+        "size": 215188,
+        "created": "2025-10-29T17:40:05+00:00",
+        "updated": "2025-10-29T17:41:59+00:00",
+        "pushed": "2025-10-29T17:41:54+00:00",
+        "url": "https://github.com/evm-dragonmm3/krux",
+        "id": 1085924330
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 1,
+        "forks": 2,
+        "size": 64,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-10-20T03:39:12+00:00",
+        "pushed": "2025-10-30T00:53:28+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "YOLO-Arxiv-Daily",
+        "description": null,
+        "owner": "WangQvQ",
+        "stars": 8,
+        "forks": 2,
+        "size": 2275,
+        "created": "2024-04-07T11:54:58+00:00",
+        "updated": "2025-10-29T23:23:09+00:00",
+        "pushed": "2025-10-29T23:23:05+00:00",
+        "url": "https://github.com/WangQvQ/YOLO-Arxiv-Daily",
+        "id": 783261492
+    },
+    {
+        "repo": "onnx2kmodel",
+        "description": "convert onnx modle to kmodel for k230",
+        "owner": "DFRobot",
+        "stars": 1,
+        "forks": 0,
+        "size": 1347,
+        "created": "2025-09-28T09:40:21+00:00",
+        "updated": "2025-10-30T02:42:00+00:00",
+        "pushed": "2025-10-30T02:41:57+00:00",
+        "url": "https://github.com/DFRobot/onnx2kmodel",
+        "id": 1065717560
+    },
+    {
+        "repo": "maixduino_ai_sensors",
+        "description": "Sipeed Maixduino handling data from camera, microphone and external sensors such as CCS811,  SHT3x, BMP180 and TEMT6000.",
+        "owner": "mr007x",
+        "stars": 0,
+        "forks": 0,
+        "size": 17,
+        "created": "2025-10-29T18:01:26+00:00",
+        "updated": "2025-10-29T18:02:10+00:00",
+        "pushed": "2025-10-29T18:02:07+00:00",
+        "url": "https://github.com/mr007x/maixduino_ai_sensors",
+        "id": 1085936471
+    },
+    {
+        "repo": "portfolio",
+        "description": null,
+        "owner": "Emmanuel-K210",
+        "stars": 0,
+        "forks": 0,
+        "size": 4589,
+        "created": "2025-08-16T17:57:56+00:00",
+        "updated": "2025-10-29T13:02:17+00:00",
+        "pushed": "2025-10-29T13:02:12+00:00",
+        "url": "https://github.com/Emmanuel-K210/portfolio",
+        "id": 1039208799
+    },
+    {
+        "repo": "SAFE-AI-License",
+        "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
+        "owner": "izumi0214",
+        "stars": 0,
+        "forks": 0,
+        "size": 1370,
+        "created": "2024-08-13T21:22:58+00:00",
+        "updated": "2025-10-30T04:39:22+00:00",
+        "pushed": "2025-10-30T04:39:18+00:00",
+        "url": "https://github.com/izumi0214/SAFE-AI-License",
+        "id": 842189921
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 142,
+        "forks": 39,
+        "size": 1129954,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2025-10-30T03:46:35+00:00",
+        "pushed": "2025-10-29T12:39:21+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
+    },
+    {
+        "repo": "Stargazer",
+        "description": "\u6211\u5728\u68a6\u6cb3\u8fb9\u6d63\u6d17\u661f\u661f\u3002",
+        "owner": "zhuozhiyongde",
+        "stars": 34,
+        "forks": 2,
+        "size": 1997,
+        "created": "2025-01-16T00:04:43+00:00",
+        "updated": "2025-10-30T01:06:15+00:00",
+        "pushed": "2025-10-30T01:06:11+00:00",
+        "url": "https://github.com/zhuozhiyongde/Stargazer",
+        "id": 917416797
+    },
+    {
+        "repo": "starList",
+        "description": "Export your star's repository list",
+        "owner": "hiifong",
+        "stars": 14,
+        "forks": 4,
+        "size": 125276,
+        "created": "2022-11-02T05:52:24+00:00",
+        "updated": "2025-10-30T03:31:32+00:00",
+        "pushed": "2025-10-30T03:31:29+00:00",
+        "url": "https://github.com/hiifong/starList",
+        "id": 560725242
     }
 ]
