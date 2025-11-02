@@ -45682,19 +45682,6 @@
         "id": 1002618500
     },
     {
-        "repo": "actions",
-        "description": null,
-        "owner": "zzyss-marker",
-        "stars": 0,
-        "forks": 0,
-        "size": 737,
-        "created": "2025-03-21T13:11:31+00:00",
-        "updated": "2025-08-24T08:11:38+00:00",
-        "pushed": "2025-08-24T08:11:35+00:00",
-        "url": "https://github.com/zzyss-marker/actions",
-        "id": 952546272
-    },
-    {
         "repo": "yolo-for-k210-based-on-underwater-object",
         "description": "\u57fa\u4e8eyolov3\u7684\u6c34\u4e0b\u76ee\u6807\u68c0\u6d4b\uff0c\u6548\u679c\u6709\u4e00\u70b9\u70b9\u4e0d\u7a33\u5b9a\u3002\u4f46\u662f\u80fd\u68c0\u6d4b\u5230",
         "owner": "EWJGH",
@@ -47463,19 +47450,6 @@
         "id": 1083643309
     },
     {
-        "repo": "k230_sdk-big",
-        "description": null,
-        "owner": "wjjsn",
-        "stars": 0,
-        "forks": 0,
-        "size": 3840,
-        "created": "2025-10-25T12:21:12+00:00",
-        "updated": "2025-10-25T12:39:02+00:00",
-        "pushed": "2025-10-25T12:38:58+00:00",
-        "url": "https://github.com/wjjsn/k230_sdk-big",
-        "id": 1083136104
-    },
-    {
         "repo": "k230013_DB_A2",
         "description": null,
         "owner": "zoni2004",
@@ -47591,32 +47565,6 @@
         "pushed": "2025-10-27T12:41:14+00:00",
         "url": "https://github.com/p3t3r50n-cz/YenKeyControl",
         "id": 1076123685
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 111,
-        "forks": 13,
-        "size": 51464,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2025-10-29T01:14:49+00:00",
-        "pushed": "2025-10-29T01:18:17+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
-    },
-    {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 260,
-        "forks": 217,
-        "size": 291,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-10-29T03:07:33+00:00",
-        "pushed": "2025-10-29T03:07:29+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
     },
     {
         "repo": "k230_rtos_sdk",
@@ -47866,19 +47814,6 @@
         "id": 557131050
     },
     {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 4,
-        "forks": 8,
-        "size": 63168,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2025-10-31T05:39:24+00:00",
-        "pushed": "2025-10-31T05:39:21+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "YOLO-Arxiv-Daily",
         "description": null,
         "owner": "WangQvQ",
@@ -48022,19 +47957,6 @@
         "id": 1087165757
     },
     {
-        "repo": "certified-android-devices",
-        "description": "Google Play Certified Android devices list, auto updated daily!",
-        "owner": "androidtrackers",
-        "stars": 142,
-        "forks": 39,
-        "size": 1130464,
-        "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-10-31T12:38:11+00:00",
-        "pushed": "2025-10-31T12:38:08+00:00",
-        "url": "https://github.com/androidtrackers/certified-android-devices",
-        "id": 129950175
-    },
-    {
         "repo": "onnx2kmodel",
         "description": "convert onnx modle to kmodel for k230",
         "owner": "DFRobot",
@@ -48061,6 +47983,123 @@
         "id": 685317589
     },
     {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 111,
+        "forks": 13,
+        "size": 51466,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2025-11-01T16:57:31+00:00",
+        "pushed": "2025-11-01T17:04:13+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 260,
+        "forks": 217,
+        "size": 289,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-11-02T04:05:07+00:00",
+        "pushed": "2025-11-02T04:05:03+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 4,
+        "forks": 8,
+        "size": 63189,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-11-01T12:09:06+00:00",
+        "pushed": "2025-11-01T12:09:02+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "CanMV-K230D-Zero",
+        "description": null,
+        "owner": "hwthinker",
+        "stars": 0,
+        "forks": 0,
+        "size": 3068,
+        "created": "2025-11-01T22:13:10+00:00",
+        "updated": "2025-11-01T22:27:00+00:00",
+        "pushed": "2025-11-01T22:26:56+00:00",
+        "url": "https://github.com/hwthinker/CanMV-K230D-Zero",
+        "id": 1087906298
+    },
+    {
+        "repo": "01Studio-CANMV-K230",
+        "description": null,
+        "owner": "hwthinker",
+        "stars": 0,
+        "forks": 0,
+        "size": 1861,
+        "created": "2025-11-02T00:35:21+00:00",
+        "updated": "2025-11-02T00:44:44+00:00",
+        "pushed": "2025-11-02T00:44:40+00:00",
+        "url": "https://github.com/hwthinker/01Studio-CANMV-K230",
+        "id": 1087940385
+    },
+    {
+        "repo": "K210-M1N_USB-C",
+        "description": "USB\u2011C breakout board that hosts the Kendryte K210 M1n module, integrates a CH340C USB\u2011UART bridge with auto-boot wiring, and breaks out key IO along with power/status LEDs.",
+        "owner": "rmingon",
+        "stars": 0,
+        "forks": 0,
+        "size": 504,
+        "created": "2025-11-01T20:11:02+00:00",
+        "updated": "2025-11-01T21:00:24+00:00",
+        "pushed": "2025-11-01T20:59:41+00:00",
+        "url": "https://github.com/rmingon/K210-M1N_USB-C",
+        "id": 1087869338
+    },
+    {
+        "repo": "MaixPy",
+        "description": null,
+        "owner": "PandaDev888",
+        "stars": 2,
+        "forks": 0,
+        "size": 79159,
+        "created": "2025-11-01T09:40:36+00:00",
+        "updated": "2025-11-02T00:44:36+00:00",
+        "pushed": "2025-11-01T09:51:32+00:00",
+        "url": "https://github.com/PandaDev888/MaixPy",
+        "id": 1087620331
+    },
+    {
+        "repo": "k230_sdk-big",
+        "description": null,
+        "owner": "wjjsn",
+        "stars": 0,
+        "forks": 0,
+        "size": 3840,
+        "created": "2025-10-25T12:21:12+00:00",
+        "updated": "2025-11-02T07:09:12+00:00",
+        "pushed": "2025-11-02T07:09:09+00:00",
+        "url": "https://github.com/wjjsn/k230_sdk-big",
+        "id": 1083136104
+    },
+    {
+        "repo": "actions",
+        "description": null,
+        "owner": "zzyss-marker",
+        "stars": 0,
+        "forks": 0,
+        "size": 1074,
+        "created": "2025-03-21T13:11:31+00:00",
+        "updated": "2025-11-01T08:12:03+00:00",
+        "pushed": "2025-11-01T08:11:59+00:00",
+        "url": "https://github.com/zzyss-marker/actions",
+        "id": 952546272
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
         "owner": "izumi0214",
@@ -48068,10 +48107,23 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-11-01T06:25:00+00:00",
-        "pushed": "2025-11-01T06:24:57+00:00",
+        "updated": "2025-11-02T05:48:17+00:00",
+        "pushed": "2025-11-02T05:48:14+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
+    },
+    {
+        "repo": "certified-android-devices",
+        "description": "Google Play Certified Android devices list, auto updated daily!",
+        "owner": "androidtrackers",
+        "stars": 142,
+        "forks": 39,
+        "size": 1130465,
+        "created": "2018-04-17T18:44:22+00:00",
+        "updated": "2025-11-01T12:33:23+00:00",
+        "pushed": "2025-11-01T12:33:20+00:00",
+        "url": "https://github.com/androidtrackers/certified-android-devices",
+        "id": 129950175
     },
     {
         "repo": "Stargazer",
@@ -48079,10 +48131,10 @@
         "owner": "zhuozhiyongde",
         "stars": 34,
         "forks": 2,
-        "size": 2074,
+        "size": 2078,
         "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2025-11-01T01:07:44+00:00",
-        "pushed": "2025-11-01T01:07:39+00:00",
+        "updated": "2025-11-02T01:08:50+00:00",
+        "pushed": "2025-11-02T01:08:46+00:00",
         "url": "https://github.com/zhuozhiyongde/Stargazer",
         "id": 917416797
     },
@@ -48092,10 +48144,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 125956,
+        "size": 126522,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-11-01T03:31:29+00:00",
-        "pushed": "2025-11-01T03:31:25+00:00",
+        "updated": "2025-11-02T03:33:19+00:00",
+        "pushed": "2025-11-02T03:33:15+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
