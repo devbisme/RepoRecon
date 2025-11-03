@@ -47515,19 +47515,6 @@
         "id": 516560139
     },
     {
-        "repo": "u-boot",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 1,
-        "forks": 5,
-        "size": 31201,
-        "created": "2024-07-05T10:26:38+00:00",
-        "updated": "2025-10-27T08:04:38+00:00",
-        "pushed": "2025-10-27T08:04:34+00:00",
-        "url": "https://github.com/canmv-k230/u-boot",
-        "id": 824530800
-    },
-    {
         "repo": "Private-Surveillence-MaixCAM",
         "description": null,
         "owner": "yudhisthereal",
@@ -47567,19 +47554,6 @@
         "id": 1076123685
     },
     {
-        "repo": "k230_rtos_sdk",
-        "description": null,
-        "owner": "kendryte",
-        "stars": 3,
-        "forks": 3,
-        "size": 13491,
-        "created": "2025-06-09T06:55:16+00:00",
-        "updated": "2025-10-28T08:04:11+00:00",
-        "pushed": "2025-10-28T08:04:07+00:00",
-        "url": "https://github.com/kendryte/k230_rtos_sdk",
-        "id": 998733774
-    },
-    {
         "repo": "Intelligent-Weighing-System",
         "description": "K210 (MaixPy) YOLOv2 Real-Time Fruit Detection",
         "owner": "jjdzbb",
@@ -47604,19 +47578,6 @@
         "pushed": "2025-10-28T08:40:08+00:00",
         "url": "https://github.com/MaixHolmes/MaixHolmes",
         "id": 884588946
-    },
-    {
-        "repo": "MaiXiming.github.io",
-        "description": null,
-        "owner": "MaiXiming",
-        "stars": 0,
-        "forks": 0,
-        "size": 47300,
-        "created": "2025-09-15T06:32:30+00:00",
-        "updated": "2025-10-29T00:06:19+00:00",
-        "pushed": "2025-10-29T00:06:16+00:00",
-        "url": "https://github.com/MaiXiming/MaiXiming.github.io",
-        "id": 1057001446
     },
     {
         "repo": "2025Electronics-Design-Contest--E-ques",
@@ -47866,19 +47827,6 @@
         "id": 733722162
     },
     {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11502,
-        "forks": 5303,
-        "size": 937433,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-11-01T05:21:26+00:00",
-        "pushed": "2025-10-31T09:04:43+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
-    },
-    {
         "repo": "krux_binaries",
         "description": "compiled krux",
         "owner": "odudex",
@@ -47903,19 +47851,6 @@
         "pushed": "2025-10-31T23:12:18+00:00",
         "url": "https://github.com/ucb-bar/autocomp",
         "id": 997566089
-    },
-    {
-        "repo": "emakefun-docsify",
-        "description": null,
-        "owner": "emakefun",
-        "stars": 4,
-        "forks": 6,
-        "size": 582116,
-        "created": "2024-09-19T04:16:17+00:00",
-        "updated": "2025-10-23T02:05:32+00:00",
-        "pushed": "2025-10-31T07:44:46+00:00",
-        "url": "https://github.com/emakefun/emakefun-docsify",
-        "id": 859664219
     },
     {
         "repo": "HPUhushicheng",
@@ -47996,32 +47931,6 @@
         "id": 840056339
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 260,
-        "forks": 217,
-        "size": 289,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-11-02T04:05:07+00:00",
-        "pushed": "2025-11-02T04:05:03+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 4,
-        "forks": 8,
-        "size": 63189,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2025-11-01T12:09:06+00:00",
-        "pushed": "2025-11-01T12:09:02+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "CanMV-K230D-Zero",
         "description": null,
         "owner": "hwthinker",
@@ -48100,6 +48009,123 @@
         "id": 952546272
     },
     {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 259,
+        "forks": 217,
+        "size": 291,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-11-03T02:28:47+00:00",
+        "pushed": "2025-11-03T02:28:43+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "k230_rtos_sdk",
+        "description": null,
+        "owner": "kendryte",
+        "stars": 3,
+        "forks": 3,
+        "size": 15673,
+        "created": "2025-06-09T06:55:16+00:00",
+        "updated": "2025-11-03T02:24:44+00:00",
+        "pushed": "2025-11-03T02:24:40+00:00",
+        "url": "https://github.com/kendryte/k230_rtos_sdk",
+        "id": 998733774
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11511,
+        "forks": 5302,
+        "size": 937493,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-11-03T07:19:19+00:00",
+        "pushed": "2025-11-03T06:41:24+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 4,
+        "forks": 8,
+        "size": 63195,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-11-03T02:09:35+00:00",
+        "pushed": "2025-11-03T02:09:31+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "u-boot",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 1,
+        "forks": 5,
+        "size": 31217,
+        "created": "2024-07-05T10:26:38+00:00",
+        "updated": "2025-11-03T02:12:29+00:00",
+        "pushed": "2025-11-03T02:12:25+00:00",
+        "url": "https://github.com/canmv-k230/u-boot",
+        "id": 824530800
+    },
+    {
+        "repo": "emakefun-docsify",
+        "description": null,
+        "owner": "emakefun",
+        "stars": 4,
+        "forks": 6,
+        "size": 582127,
+        "created": "2024-09-19T04:16:17+00:00",
+        "updated": "2025-11-03T06:53:30+00:00",
+        "pushed": "2025-11-03T06:53:26+00:00",
+        "url": "https://github.com/emakefun/emakefun-docsify",
+        "id": 859664219
+    },
+    {
+        "repo": "EBP3901-K230",
+        "description": "\u672c\u9879\u76ee\u4e3a\u7b2c\u5341\u516d\u5c4a\u84dd\u6865\u676f\u6570\u5b57\u79d1\u6280\u521b\u65b0\u8d5b\uff08RISC-V\uff09\u4ea7\u7269\u3002\u672c\u9879\u76ee\u5b9e\u73b0\u4e86UART5\u83b7\u53d6K230\u8f93\u5165\u5e76\u901a\u8fc7UART2\u6253\u5370\u83b7\u53d6\u5230\u7684\u4fe1\u606f\u529f\u80fd\uff0c\u540c\u65f6\u878d\u5408\u4e86MPU6050\uff0cHCSR04\uff0cSG90.",
+        "owner": "zerolin01",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-11-03T06:34:00+00:00",
+        "updated": "2025-11-03T06:37:20+00:00",
+        "pushed": "2025-11-03T06:35:47+00:00",
+        "url": "https://github.com/zerolin01/EBP3901-K230",
+        "id": 1088568134
+    },
+    {
+        "repo": "k230_linux_bsp",
+        "description": "bsp",
+        "owner": "embired",
+        "stars": 0,
+        "forks": 0,
+        "size": 618741,
+        "created": "2025-11-03T00:36:59+00:00",
+        "updated": "2025-11-03T00:51:34+00:00",
+        "pushed": "2025-11-03T00:46:48+00:00",
+        "url": "https://github.com/embired/k230_linux_bsp",
+        "id": 1088440369
+    },
+    {
+        "repo": "MaiXiming.github.io",
+        "description": null,
+        "owner": "MaiXiming",
+        "stars": 0,
+        "forks": 0,
+        "size": 47305,
+        "created": "2025-09-15T06:32:30+00:00",
+        "updated": "2025-11-02T15:31:23+00:00",
+        "pushed": "2025-11-02T15:31:20+00:00",
+        "url": "https://github.com/MaiXiming/MaiXiming.github.io",
+        "id": 1057001446
+    },
+    {
         "repo": "SAFE-AI-License",
         "description": "\ud83e\udd16 Foster responsible AI development with the SAFE-AI License, ensuring safety and fairness in ethical AI infrastructure and project accountability.",
         "owner": "izumi0214",
@@ -48107,8 +48133,8 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-11-02T05:48:17+00:00",
-        "pushed": "2025-11-02T05:48:14+00:00",
+        "updated": "2025-11-03T05:43:21+00:00",
+        "pushed": "2025-11-03T05:43:17+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
     },
@@ -48118,10 +48144,10 @@
         "owner": "androidtrackers",
         "stars": 142,
         "forks": 39,
-        "size": 1130465,
+        "size": 1130975,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-11-01T12:33:23+00:00",
-        "pushed": "2025-11-01T12:33:20+00:00",
+        "updated": "2025-11-02T12:32:57+00:00",
+        "pushed": "2025-11-02T12:32:53+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -48131,10 +48157,10 @@
         "owner": "zhuozhiyongde",
         "stars": 34,
         "forks": 2,
-        "size": 2078,
+        "size": 2151,
         "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2025-11-02T01:08:50+00:00",
-        "pushed": "2025-11-02T01:08:46+00:00",
+        "updated": "2025-11-03T01:07:41+00:00",
+        "pushed": "2025-11-03T01:07:37+00:00",
         "url": "https://github.com/zhuozhiyongde/Stargazer",
         "id": 917416797
     },
@@ -48144,10 +48170,10 @@
         "owner": "hiifong",
         "stars": 14,
         "forks": 4,
-        "size": 126522,
+        "size": 127085,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-11-02T03:33:19+00:00",
-        "pushed": "2025-11-02T03:33:15+00:00",
+        "updated": "2025-11-03T03:36:11+00:00",
+        "pushed": "2025-11-03T03:36:07+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
