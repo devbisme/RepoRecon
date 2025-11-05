@@ -6045,19 +6045,6 @@
         "id": 143520625
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 218,
-        "forks": 29,
-        "size": 20427,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-10-23T20:25:16+00:00",
-        "pushed": "2025-10-23T20:25:12+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "I2c-interface-for-FPGA",
         "description": "This project provides a suite of Verilog modules to implement an I\u00b2C interface on FPGA or ASIC platforms. It supports both master and slave functionality, and offers flexible bus interfaces (AXI Stream, AXI Lite, Wishbone). A MyHDL-based testbench environment is included to enable co-simulation using Icarus Verilog and Python.",
         "owner": "nikita-3008",
@@ -6095,5 +6082,18 @@
         "pushed": "2025-11-03T00:06:48+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 218,
+        "forks": 29,
+        "size": 20108,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-11-04T20:46:06+00:00",
+        "pushed": "2025-11-04T20:46:01+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
     }
 ]
