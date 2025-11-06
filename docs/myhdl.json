@@ -6006,32 +6006,6 @@
         "id": 1078341335
     },
     {
-        "repo": "ipCorePackager",
-        "description": "Scriptable IP-Core generator",
-        "owner": "Nic30",
-        "stars": 8,
-        "forks": 0,
-        "size": 97,
-        "created": "2018-10-01T18:16:02+00:00",
-        "updated": "2025-10-19T17:58:48+00:00",
-        "pushed": "2025-10-19T17:58:44+00:00",
-        "url": "https://github.com/Nic30/ipCorePackager",
-        "id": 151136062
-    },
-    {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 43,
-        "forks": 7,
-        "size": 6993,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-10-20T10:32:46+00:00",
-        "pushed": "2025-10-20T10:32:41+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -6084,16 +6058,42 @@
         "id": 752856131
     },
     {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 43,
+        "forks": 7,
+        "size": 7001,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-11-05T23:21:04+00:00",
+        "pushed": "2025-11-05T23:21:00+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
+    },
+    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
         "stars": 218,
         "forks": 29,
-        "size": 20108,
+        "size": 20117,
         "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-11-04T20:46:06+00:00",
-        "pushed": "2025-11-04T20:46:01+00:00",
+        "updated": "2025-11-05T23:20:38+00:00",
+        "pushed": "2025-11-05T23:20:34+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
+    },
+    {
+        "repo": "ipCorePackager",
+        "description": "Scriptable IP-Core generator",
+        "owner": "Nic30",
+        "stars": 8,
+        "forks": 0,
+        "size": 100,
+        "created": "2018-10-01T18:16:02+00:00",
+        "updated": "2025-11-05T23:21:15+00:00",
+        "pushed": "2025-11-05T23:21:12+00:00",
+        "url": "https://github.com/Nic30/ipCorePackager",
+        "id": 151136062
     }
 ]
