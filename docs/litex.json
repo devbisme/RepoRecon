@@ -16822,19 +16822,6 @@
         "id": 191191221
     },
     {
-        "repo": "coreblocks",
-        "description": "RISC-V out-of-order core for education and research purposes",
-        "owner": "kuznia-rdzeni",
-        "stars": 65,
-        "forks": 19,
-        "size": 73955,
-        "created": "2022-03-09T17:28:30+00:00",
-        "updated": "2025-10-27T09:15:03+00:00",
-        "pushed": "2025-10-27T09:33:57+00:00",
-        "url": "https://github.com/kuznia-rdzeni/coreblocks",
-        "id": 468027705
-    },
-    {
         "repo": "openCologne-PCIE",
         "description": "The first-ever opensource RTL core for PCIE EndPoint. Without vendor-locked HMs for Data Link, Transaction, Application layers; With standard PIPE interface for vendor SerDes. Portable, unencrypted, free SVerilog with best-in-class VIP, Slot and M.2 cards for GateMate, the project opens PCIE connectivity to FPGAs, ASICs, I/O, acceleration, AI, ...",
         "owner": "chili-chips-ba",
@@ -16950,19 +16937,6 @@
         "pushed": "2025-10-31T01:08:19+00:00",
         "url": "https://github.com/JuliaBinaryWrappers/SoapyLiteXM2SDR_jll.jl",
         "id": 1086831076
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 60165,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2025-10-31T01:03:29+00:00",
-        "pushed": "2025-10-31T01:03:26+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
     },
     {
         "repo": "Cores-I2c-UART-e-SPI-no-litex-",
@@ -17199,19 +17173,6 @@
         "id": 473564418
     },
     {
-        "repo": "litex",
-        "description": "A high-performance TypeScript web framework combining Ultimate Express, Svelte 5, and Inertia.js for building modern full-stack applications. Features server-side rendering, real-time capabilities, and seamless client-server state management.",
-        "owner": "arghoritma",
-        "stars": 0,
-        "forks": 0,
-        "size": 961,
-        "created": "2025-08-26T23:43:01+00:00",
-        "updated": "2025-11-03T19:48:02+00:00",
-        "pushed": "2025-11-03T19:47:58+00:00",
-        "url": "https://github.com/arghoritma/litex",
-        "id": 1045284063
-    },
-    {
         "repo": "linux_RT",
         "description": null,
         "owner": "disdi",
@@ -17329,19 +17290,6 @@
         "id": 800027977
     },
     {
-        "repo": "golitex",
-        "description": "Litex is a simple formal language Learnable in 2 hours, not 1 year.  It scales formal reasoning in AI era.",
-        "owner": "litexlang",
-        "stars": 573,
-        "forks": 7,
-        "size": 30378,
-        "created": "2024-11-14T08:01:35+00:00",
-        "updated": "2025-11-06T05:46:41+00:00",
-        "pushed": "2025-11-06T05:46:34+00:00",
-        "url": "https://github.com/litexlang/golitex",
-        "id": 888329277
-    },
-    {
         "repo": "appkit",
         "description": "Android app boilerplate + image loader",
         "owner": "grishka",
@@ -17353,19 +17301,6 @@
         "pushed": "2025-11-06T05:44:57+00:00",
         "url": "https://github.com/grishka/appkit",
         "id": 225642630
-    },
-    {
-        "repo": "litex-official-documents",
-        "description": "All documents on https://litexlang.com/ are open-sourced here.",
-        "owner": "litexlang",
-        "stars": 4,
-        "forks": 0,
-        "size": 544,
-        "created": "2025-08-29T05:50:32+00:00",
-        "updated": "2025-11-06T06:22:13+00:00",
-        "pushed": "2025-11-06T06:22:09+00:00",
-        "url": "https://github.com/litexlang/litex-official-documents",
-        "id": 1046720121
     },
     {
         "repo": "microwatt_design_challenge",
@@ -17394,45 +17329,6 @@
         "id": 825008208
     },
     {
-        "repo": "homebrew-tap",
-        "description": "Litex homebrew tap config",
-        "owner": "litexlang",
-        "stars": 0,
-        "forks": 0,
-        "size": 32,
-        "created": "2025-07-29T07:26:15+00:00",
-        "updated": "2025-11-06T05:50:28+00:00",
-        "pushed": "2025-11-06T05:50:24+00:00",
-        "url": "https://github.com/litexlang/homebrew-tap",
-        "id": 1028207026
-    },
-    {
-        "repo": "LiteXpansion-Syadd",
-        "description": null,
-        "owner": "Syaaddd",
-        "stars": 1,
-        "forks": 0,
-        "size": 701,
-        "created": "2025-07-19T01:49:52+00:00",
-        "updated": "2025-11-05T16:42:57+00:00",
-        "pushed": "2025-11-05T16:42:53+00:00",
-        "url": "https://github.com/Syaaddd/LiteXpansion-Syadd",
-        "id": 1022395519
-    },
-    {
-        "repo": "Microwatt-Based-Hardware-Debugger-SoC",
-        "description": "This project implements a flexible hardware debugger platform powered by the open-source Microwatt POWER CPU core. Designed for FPGA or tapeout-ready ASIC environments, this SoC repurposes Microwatt as a debug controller, enabling advanced inspection, control, and patching of external modules, soft CPUs, and custom IP blocks.",
-        "owner": "blue67chillout",
-        "stars": 1,
-        "forks": 1,
-        "size": 244960,
-        "created": "2025-09-22T19:05:16+00:00",
-        "updated": "2025-11-05T19:30:31+00:00",
-        "pushed": "2025-11-05T19:30:27+00:00",
-        "url": "https://github.com/blue67chillout/Microwatt-Based-Hardware-Debugger-SoC",
-        "id": 1062069183
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "IndieMinimalist",
@@ -17459,19 +17355,6 @@
         "id": 45734719
     },
     {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1222,
-        "forks": 105,
-        "size": 1294,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-11-06T16:03:45+00:00",
-        "pushed": "2025-11-07T02:50:19+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
-    },
-    {
         "repo": "neorv32",
         "description": "\ud83d\udda5\ufe0f A small, customizable and extensible MCU-class 32-bit RISC-V soft-core CPU and microcontroller-like SoC written in platform-independent VHDL.",
         "owner": "stnolting",
@@ -17496,19 +17379,6 @@
         "pushed": "2025-11-06T15:54:27+00:00",
         "url": "https://github.com/Nic30/hwt",
         "id": 35898469
-    },
-    {
-        "repo": "wr_acorn",
-        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
-        "owner": "oscimp",
-        "stars": 7,
-        "forks": 0,
-        "size": 34225,
-        "created": "2025-04-25T14:22:28+00:00",
-        "updated": "2025-11-06T08:21:16+00:00",
-        "pushed": "2025-11-06T08:21:12+00:00",
-        "url": "https://github.com/oscimp/wr_acorn",
-        "id": 972708089
     },
     {
         "repo": "openPCIE",
@@ -17550,19 +17420,6 @@
         "id": 1065948191
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1817,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-11-07T06:38:25+00:00",
-        "pushed": "2025-11-07T06:38:21+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "Litex-LLM-",
         "description": "\u53c2\u52a02025 CCF\u5927\u6570\u636e\u4e0e\u8ba1\u7b97\u667a\u80fd\u5927\u8d5b-\u5f62\u5f0f\u5316\u6570\u5b66\u7ade\u8d5b\u8d5b\u9898\u7684\u4ee3\u7801\u4ed3\u5e93",
         "owner": "Keria04",
@@ -17589,32 +17446,6 @@
         "id": 1070385330
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 3113,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-11-07T04:38:01+00:00",
-        "pushed": "2025-11-07T04:37:58+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "ecp5-hello",
-        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
-        "owner": "Kuykakuy",
-        "stars": 0,
-        "forks": 1,
-        "size": 1400,
-        "created": "2025-10-03T21:57:09+00:00",
-        "updated": "2025-11-07T02:59:38+00:00",
-        "pushed": "2025-11-07T02:59:35+00:00",
-        "url": "https://github.com/Kuykakuy/ecp5-hello",
-        "id": 1069401140
-    },
-    {
         "repo": "Lecturas_GLC",
         "description": "Readings on computational logic, interactive theorem proving and functional programming.",
         "owner": "jaalonso",
@@ -17628,15 +17459,210 @@
         "id": 77744499
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1223,
+        "forks": 106,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-11-07T09:22:00+00:00",
+        "pushed": "2025-11-08T02:42:23+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "golitex",
+        "description": "Litex is a simple formal language Learnable in 2 hours.",
+        "owner": "litexlang",
+        "stars": 575,
+        "forks": 7,
+        "size": 30378,
+        "created": "2024-11-14T08:01:35+00:00",
+        "updated": "2025-11-08T07:06:45+00:00",
+        "pushed": "2025-11-08T07:06:41+00:00",
+        "url": "https://github.com/litexlang/golitex",
+        "id": 888329277
+    },
+    {
+        "repo": "coreblocks",
+        "description": "RISC-V out-of-order core for education and research purposes",
+        "owner": "kuznia-rdzeni",
+        "stars": 67,
+        "forks": 19,
+        "size": 74396,
+        "created": "2022-03-09T17:28:30+00:00",
+        "updated": "2025-11-07T10:35:49+00:00",
+        "pushed": "2025-11-07T10:54:44+00:00",
+        "url": "https://github.com/kuznia-rdzeni/coreblocks",
+        "id": 468027705
+    },
+    {
+        "repo": "wr_acorn",
+        "description": "White Rabbit time and frequency transfer on the Artix7 of the Acorn CLE125",
+        "owner": "oscimp",
+        "stars": 7,
+        "forks": 0,
+        "size": 34727,
+        "created": "2025-04-25T14:22:28+00:00",
+        "updated": "2025-11-07T08:05:13+00:00",
+        "pushed": "2025-11-07T08:05:09+00:00",
+        "url": "https://github.com/oscimp/wr_acorn",
+        "id": 972708089
+    },
+    {
+        "repo": "litex-official-documents",
+        "description": "All documents on https://litexlang.com/ are open-sourced here.",
+        "owner": "litexlang",
+        "stars": 4,
+        "forks": 1,
+        "size": 544,
+        "created": "2025-08-29T05:50:32+00:00",
+        "updated": "2025-11-08T06:58:46+00:00",
+        "pushed": "2025-11-08T06:58:42+00:00",
+        "url": "https://github.com/litexlang/litex-official-documents",
+        "id": 1046720121
+    },
+    {
+        "repo": "litex",
+        "description": "A high-performance TypeScript web framework combining Ultimate Express, Svelte 5, and Inertia.js for building modern full-stack applications. Features server-side rendering, real-time capabilities, and seamless client-server state management.",
+        "owner": "arghoritma",
+        "stars": 0,
+        "forks": 0,
+        "size": 967,
+        "created": "2025-08-26T23:43:01+00:00",
+        "updated": "2025-11-07T15:31:56+00:00",
+        "pushed": "2025-11-07T15:31:53+00:00",
+        "url": "https://github.com/arghoritma/litex",
+        "id": 1045284063
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1823,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-11-08T06:34:39+00:00",
+        "pushed": "2025-11-08T06:34:35+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "flutter_notebook_chapter_48",
+        "description": null,
+        "owner": "JAICHANGPARK",
+        "stars": 0,
+        "forks": 0,
+        "size": 591,
+        "created": "2025-10-18T00:42:37+00:00",
+        "updated": "2025-11-08T03:39:25+00:00",
+        "pushed": "2025-11-08T03:39:22+00:00",
+        "url": "https://github.com/JAICHANGPARK/flutter_notebook_chapter_48",
+        "id": 1078568491
+    },
+    {
+        "repo": "protocols-cheatsheet",
+        "description": "Brrrrrrr you re welcome",
+        "owner": "YoussefMouaddib",
+        "stars": 0,
+        "forks": 0,
+        "size": 61,
+        "created": "2025-11-08T05:20:01+00:00",
+        "updated": "2025-11-08T06:18:03+00:00",
+        "pushed": "2025-11-08T06:18:00+00:00",
+        "url": "https://github.com/YoussefMouaddib/protocols-cheatsheet",
+        "id": 1092160116
+    },
+    {
+        "repo": "homebrew-tap",
+        "description": "Litex homebrew tap config",
+        "owner": "litexlang",
+        "stars": 0,
+        "forks": 0,
+        "size": 32,
+        "created": "2025-07-29T07:26:15+00:00",
+        "updated": "2025-11-08T07:08:20+00:00",
+        "pushed": "2025-11-08T07:08:17+00:00",
+        "url": "https://github.com/litexlang/homebrew-tap",
+        "id": 1028207026
+    },
+    {
+        "repo": "LiteXpansion-Syadd",
+        "description": null,
+        "owner": "Syaaddd",
+        "stars": 1,
+        "forks": 0,
+        "size": 702,
+        "created": "2025-07-19T01:49:52+00:00",
+        "updated": "2025-11-07T11:35:02+00:00",
+        "pushed": "2025-11-07T11:34:58+00:00",
+        "url": "https://github.com/Syaaddd/LiteXpansion-Syadd",
+        "id": 1022395519
+    },
+    {
+        "repo": "Microwatt-Based-Hardware-Debugger-SoC",
+        "description": "This project implements a flexible hardware debugger platform powered by the open-source Microwatt POWER CPU core. Designed for FPGA or tapeout-ready ASIC environments, this SoC repurposes Microwatt as a debug controller, enabling advanced inspection, control, and patching of external modules, soft CPUs, and custom IP blocks.",
+        "owner": "blue67chillout",
+        "stars": 1,
+        "forks": 1,
+        "size": 432570,
+        "created": "2025-09-22T19:05:16+00:00",
+        "updated": "2025-11-07T15:22:25+00:00",
+        "pushed": "2025-11-07T15:22:22+00:00",
+        "url": "https://github.com/blue67chillout/Microwatt-Based-Hardware-Debugger-SoC",
+        "id": 1062069183
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 3155,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-11-08T04:36:23+00:00",
+        "pushed": "2025-11-08T04:36:19+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "ecp5-hello",
+        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
+        "owner": "Kuykakuy",
+        "stars": 0,
+        "forks": 1,
+        "size": 1400,
+        "created": "2025-10-03T21:57:09+00:00",
+        "updated": "2025-11-08T05:53:23+00:00",
+        "pushed": "2025-11-08T05:53:20+00:00",
+        "url": "https://github.com/Kuykakuy/ecp5-hello",
+        "id": 1069401140
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 61539,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2025-11-08T01:03:48+00:00",
+        "pushed": "2025-11-08T01:03:44+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 15,
         "forks": 4,
-        "size": 129293,
+        "size": 129872,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-11-07T03:31:07+00:00",
-        "pushed": "2025-11-07T03:31:03+00:00",
+        "updated": "2025-11-08T03:26:43+00:00",
+        "pushed": "2025-11-08T03:26:40+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
