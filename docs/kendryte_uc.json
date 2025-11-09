@@ -47372,19 +47372,6 @@
         "id": 1073666443
     },
     {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 5430,
-        "forks": 508,
-        "size": 1018,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2025-10-26T11:06:15+00:00",
-        "pushed": "2025-10-25T06:42:48+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
-    },
-    {
         "repo": "krux-installer",
         "description": "A GUI based application to flash Krux firmware on K210 based devices (WIP)",
         "owner": "selfcustody",
@@ -47630,19 +47617,6 @@
         "pushed": "2025-10-31T15:17:26+00:00",
         "url": "https://github.com/odudex/krux_binaries",
         "id": 476865621
-    },
-    {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 1,
-        "forks": 2,
-        "size": 64,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-10-20T03:39:12+00:00",
-        "pushed": "2025-11-01T00:54:37+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
     },
     {
         "repo": "govin-firmwares",
@@ -48035,19 +48009,6 @@
         "id": 1091428000
     },
     {
-        "repo": "rtsmart",
-        "description": null,
-        "owner": "canmv-k230",
-        "stars": 4,
-        "forks": 8,
-        "size": 63202,
-        "created": "2024-07-05T10:03:19+00:00",
-        "updated": "2025-11-07T01:58:51+00:00",
-        "pushed": "2025-11-07T01:58:46+00:00",
-        "url": "https://github.com/canmv-k230/rtsmart",
-        "id": 824521722
-    },
-    {
         "repo": "K210-M1N_USB-C",
         "description": "USB\u2011C breakout board that hosts the Kendryte K210 M1n module, integrates a CH340C USB\u2011UART bridge with auto-boot wiring, and breaks out key IO along with power/status LEDs.",
         "owner": "rmingon",
@@ -48165,19 +48126,6 @@
         "id": 998733774
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 259,
-        "forks": 217,
-        "size": 300,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2025-11-07T14:14:25+00:00",
-        "pushed": "2025-11-07T14:54:38+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "rt-thread",
         "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
         "owner": "RT-Thread",
@@ -48243,6 +48191,45 @@
         "id": 859664219
     },
     {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 259,
+        "forks": 217,
+        "size": 304,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2025-11-09T06:38:44+00:00",
+        "pushed": "2025-11-09T06:38:40+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "rtsmart",
+        "description": null,
+        "owner": "canmv-k230",
+        "stars": 4,
+        "forks": 8,
+        "size": 63213,
+        "created": "2024-07-05T10:03:19+00:00",
+        "updated": "2025-11-08T12:55:09+00:00",
+        "pushed": "2025-11-08T12:55:05+00:00",
+        "url": "https://github.com/canmv-k230/rtsmart",
+        "id": 824521722
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 2,
+        "forks": 2,
+        "size": 48,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-11-09T03:08:25+00:00",
+        "pushed": "2025-11-09T03:08:21+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
         "repo": "MaiXiming.github.io",
         "description": null,
         "owner": "MaiXiming",
@@ -48250,10 +48237,23 @@
         "forks": 0,
         "size": 47307,
         "created": "2025-09-15T06:32:30+00:00",
-        "updated": "2025-11-08T03:42:19+00:00",
-        "pushed": "2025-11-08T03:42:15+00:00",
+        "updated": "2025-11-09T07:23:48+00:00",
+        "pushed": "2025-11-09T07:23:45+00:00",
         "url": "https://github.com/MaiXiming/MaiXiming.github.io",
         "id": 1057001446
+    },
+    {
+        "repo": "Electric-Race-Control",
+        "description": "\u57fa\u4e8eTI MSPM0G3507\u5fae\u63a7\u5236\u5668\u7684\u7535\u8d5b\u63a7\u5236\u9898\u5907\u8d5b\u4ee3\u7801\uff0c\u91c7\u7528\u6a21\u5757\u5316\u8bbe\u8ba1\u548c\u9762\u5411\u5bf9\u8c61\u7684C\u8bed\u8a00\u7f16\u7a0b\u601d\u60f3\uff0c\u6784\u5efa\u4e86\u4e00\u5957\u53ef\u7075\u6d3b\u914d\u7f6e\u3001\u6613\u4e8e\u6269\u5c55\u7684\u5d4c\u5165\u5f0f\u63a7\u5236\u7cfb\u7edf\u3002",
+        "owner": "Kuriharamio",
+        "stars": 3,
+        "forks": 0,
+        "size": 13570,
+        "created": "2025-04-08T10:42:45+00:00",
+        "updated": "2025-11-09T04:55:23+00:00",
+        "pushed": "2025-11-09T04:54:33+00:00",
+        "url": "https://github.com/Kuriharamio/Electric-Race-Control",
+        "id": 962562905
     },
     {
         "repo": "awesome-stars",
@@ -48261,12 +48261,25 @@
         "owner": "silentEAG",
         "stars": 11,
         "forks": 2,
-        "size": 5225,
+        "size": 5444,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-11-08T02:10:36+00:00",
-        "pushed": "2025-11-08T02:10:32+00:00",
+        "updated": "2025-11-09T02:22:33+00:00",
+        "pushed": "2025-11-09T02:22:30+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 5450,
+        "forks": 510,
+        "size": 1105,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2025-11-09T06:55:49+00:00",
+        "pushed": "2025-11-09T01:30:41+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
     },
     {
         "repo": "SAFE-AI-License",
@@ -48276,8 +48289,8 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-11-08T05:28:07+00:00",
-        "pushed": "2025-11-08T05:28:04+00:00",
+        "updated": "2025-11-09T02:36:39+00:00",
+        "pushed": "2025-11-09T02:36:36+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
     },
@@ -48287,10 +48300,10 @@
         "owner": "androidtrackers",
         "stars": 142,
         "forks": 39,
-        "size": 1131997,
+        "size": 1132506,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-11-07T12:37:18+00:00",
-        "pushed": "2025-11-07T12:37:14+00:00",
+        "updated": "2025-11-08T12:33:41+00:00",
+        "pushed": "2025-11-08T12:33:36+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -48300,10 +48313,10 @@
         "owner": "zhuozhiyongde",
         "stars": 35,
         "forks": 2,
-        "size": 2309,
+        "size": 2382,
         "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2025-11-08T01:02:02+00:00",
-        "pushed": "2025-11-08T01:01:57+00:00",
+        "updated": "2025-11-09T01:08:29+00:00",
+        "pushed": "2025-11-09T01:08:25+00:00",
         "url": "https://github.com/zhuozhiyongde/Stargazer",
         "id": 917416797
     },
@@ -48313,10 +48326,10 @@
         "owner": "hiifong",
         "stars": 15,
         "forks": 4,
-        "size": 129872,
+        "size": 130451,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-11-08T03:26:43+00:00",
-        "pushed": "2025-11-08T03:26:40+00:00",
+        "updated": "2025-11-09T03:32:11+00:00",
+        "pushed": "2025-11-09T03:32:08+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }

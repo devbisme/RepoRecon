@@ -16705,19 +16705,6 @@
         "id": 922969376
     },
     {
-        "repo": "Soc-LiteX-ProdutoEscalar",
-        "description": null,
-        "owner": "lucasxavier9",
-        "stars": 0,
-        "forks": 0,
-        "size": 977,
-        "created": "2025-10-07T21:05:00+00:00",
-        "updated": "2025-10-11T13:23:32+00:00",
-        "pushed": "2025-10-24T13:01:03+00:00",
-        "url": "https://github.com/lucasxavier9/Soc-LiteX-ProdutoEscalar",
-        "id": 1071812891
-    },
-    {
         "repo": "litex-boards",
         "description": null,
         "owner": "yhzhang0128",
@@ -16820,19 +16807,6 @@
         "pushed": "2025-10-27T13:50:28+00:00",
         "url": "https://github.com/litex-hub/litex-boards",
         "id": 191191221
-    },
-    {
-        "repo": "openCologne-PCIE",
-        "description": "The first-ever opensource RTL core for PCIE EndPoint. Without vendor-locked HMs for Data Link, Transaction, Application layers; With standard PIPE interface for vendor SerDes. Portable, unencrypted, free SVerilog with best-in-class VIP, Slot and M.2 cards for GateMate, the project opens PCIE connectivity to FPGAs, ASICs, I/O, acceleration, AI, ...",
-        "owner": "chili-chips-ba",
-        "stars": 37,
-        "forks": 1,
-        "size": 67320,
-        "created": "2025-09-28T20:33:50+00:00",
-        "updated": "2025-10-28T04:43:34+00:00",
-        "pushed": "2025-10-28T04:43:31+00:00",
-        "url": "https://github.com/chili-chips-ba/openCologne-PCIE",
-        "id": 1065985855
     },
     {
         "repo": "SoapyLiteXM2SDR.jl",
@@ -17056,19 +17030,6 @@
         "id": 1061433469
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 22,
-        "forks": 0,
-        "size": 15875,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2025-11-02T02:24:31+00:00",
-        "pushed": "2025-11-02T02:24:27+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
-    },
-    {
         "repo": "Tarefa05-fpga-lora-aht10",
         "description": null,
         "owner": "anaclaramedeirosds",
@@ -17134,19 +17095,6 @@
         "id": 1087443390
     },
     {
-        "repo": "CCFBDCI-maths",
-        "description": "a res 4 CCFBDCI contest    litex",
-        "owner": "PigBruhs",
-        "stars": 0,
-        "forks": 0,
-        "size": 62,
-        "created": "2025-10-28T05:50:42+00:00",
-        "updated": "2025-11-03T05:51:39+00:00",
-        "pushed": "2025-11-03T05:51:35+00:00",
-        "url": "https://github.com/PigBruhs/CCFBDCI-maths",
-        "id": 1084759715
-    },
-    {
         "repo": "streams",
         "description": "Streams library for Amaranth",
         "owner": "DaveBerkeley",
@@ -17184,19 +17132,6 @@
         "pushed": "2025-11-03T21:52:34+00:00",
         "url": "https://github.com/disdi/linux_RT",
         "id": 807856638
-    },
-    {
-        "repo": "Ocre_runtime_renode_IoT",
-        "description": "Questo progetto \u00e8 una simulazione IoT in cui utilizzo Renode per emulare una board RISC-V (litex_vexriscv) ed eseguire il runtime OCRE su Zephyr",
-        "owner": "TindaroCatalfamo",
-        "stars": 1,
-        "forks": 0,
-        "size": 23,
-        "created": "2025-09-20T14:14:15+00:00",
-        "updated": "2025-11-03T10:45:20+00:00",
-        "pushed": "2025-11-03T10:45:17+00:00",
-        "url": "https://github.com/TindaroCatalfamo/Ocre_runtime_renode_IoT",
-        "id": 1060750265
     },
     {
         "repo": "SoC-Colorlight_i9",
@@ -17303,19 +17238,6 @@
         "id": 225642630
     },
     {
-        "repo": "microwatt_design_challenge",
-        "description": null,
-        "owner": "Lefteris-B",
-        "stars": 2,
-        "forks": 0,
-        "size": 877536,
-        "created": "2025-09-19T08:49:56+00:00",
-        "updated": "2025-11-05T22:17:31+00:00",
-        "pushed": "2025-11-05T22:17:27+00:00",
-        "url": "https://github.com/Lefteris-B/microwatt_design_challenge",
-        "id": 1060004179
-    },
-    {
         "repo": "berkeley-emulation-engine",
         "description": null,
         "owner": "joonho3020",
@@ -17381,19 +17303,6 @@
         "id": 35898469
     },
     {
-        "repo": "openPCIE",
-        "description": "Peripheral Component Interconnect (PCI) has taken the Express lane long ago, moving to xGbps SerDes... now for the first time in opensource on the Host side too! Our project roots for Root Port in 4 ways: 1) openRTL; 2) openBFM with unique SIM setup, way faster than vendor's; 3) openSW stack;  4) one-of-a-kind openBackplane.",
-        "owner": "chili-chips-ba",
-        "stars": 38,
-        "forks": 3,
-        "size": 195383,
-        "created": "2025-01-28T04:49:53+00:00",
-        "updated": "2025-11-07T00:48:26+00:00",
-        "pushed": "2025-11-07T00:48:23+00:00",
-        "url": "https://github.com/chili-chips-ba/openPCIE",
-        "id": 923355946
-    },
-    {
         "repo": "meta-de0nano-litex",
         "description": null,
         "owner": "ig-na-cio",
@@ -17420,19 +17329,6 @@
         "id": 1065948191
     },
     {
-        "repo": "Litex-LLM-",
-        "description": "\u53c2\u52a02025 CCF\u5927\u6570\u636e\u4e0e\u8ba1\u7b97\u667a\u80fd\u5927\u8d5b-\u5f62\u5f0f\u5316\u6570\u5b66\u7ade\u8d5b\u8d5b\u9898\u7684\u4ee3\u7801\u4ed3\u5e93",
-        "owner": "Keria04",
-        "stars": 0,
-        "forks": 0,
-        "size": 16920,
-        "created": "2025-10-20T02:01:52+00:00",
-        "updated": "2025-11-07T07:00:00+00:00",
-        "pushed": "2025-11-07T06:59:57+00:00",
-        "url": "https://github.com/Keria04/Litex-LLM-",
-        "id": 1079544151
-    },
-    {
         "repo": ".emacs.d",
         "description": "Literate Emacs config",
         "owner": "ananashawaw",
@@ -17444,32 +17340,6 @@
         "pushed": "2025-11-07T03:32:32+00:00",
         "url": "https://github.com/ananashawaw/.emacs.d",
         "id": 1070385330
-    },
-    {
-        "repo": "Lecturas_GLC",
-        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
-        "owner": "jaalonso",
-        "stars": 82,
-        "forks": 8,
-        "size": 9959,
-        "created": "2016-12-31T14:59:04+00:00",
-        "updated": "2025-11-06T07:57:53+00:00",
-        "pushed": "2025-11-06T07:57:49+00:00",
-        "url": "https://github.com/jaalonso/Lecturas_GLC",
-        "id": 77744499
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1223,
-        "forks": 106,
-        "size": 1294,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2025-11-07T09:22:00+00:00",
-        "pushed": "2025-11-08T02:42:23+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "golitex",
@@ -17537,19 +17407,6 @@
         "id": 1045284063
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 1823,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2025-11-08T06:34:39+00:00",
-        "pushed": "2025-11-08T06:34:35+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "flutter_notebook_chapter_48",
         "description": null,
         "owner": "JAICHANGPARK",
@@ -17615,32 +17472,6 @@
         "id": 1062069183
     },
     {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 8,
-        "forks": 0,
-        "size": 3155,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2025-11-08T04:36:23+00:00",
-        "pushed": "2025-11-08T04:36:19+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
-        "repo": "ecp5-hello",
-        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
-        "owner": "Kuykakuy",
-        "stars": 0,
-        "forks": 1,
-        "size": 1400,
-        "created": "2025-10-03T21:57:09+00:00",
-        "updated": "2025-11-08T05:53:23+00:00",
-        "pushed": "2025-11-08T05:53:20+00:00",
-        "url": "https://github.com/Kuykakuy/ecp5-hello",
-        "id": 1069401140
-    },
-    {
         "repo": "awesome-stars",
         "description": "A curated list of my GitHub stars!",
         "owner": "markemer",
@@ -17654,16 +17485,185 @@
         "id": 330793471
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1223,
+        "forks": 106,
+        "size": 1294,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2025-11-07T09:22:00+00:00",
+        "pushed": "2025-11-09T02:35:12+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "openCologne-PCIE",
+        "description": "The first-ever opensource RTL core for PCIE EndPoint. Without vendor-locked HMs for Data Link, Transaction, Application layers; With standard PIPE interface for vendor SerDes. Portable, unencrypted, free SVerilog with best-in-class VIP, Slot and M.2 cards for GateMate, the project opens PCIE connectivity to FPGAs, ASICs, I/O, acceleration, AI, ...",
+        "owner": "chili-chips-ba",
+        "stars": 39,
+        "forks": 1,
+        "size": 67424,
+        "created": "2025-09-28T20:33:50+00:00",
+        "updated": "2025-11-08T23:22:49+00:00",
+        "pushed": "2025-11-08T23:22:45+00:00",
+        "url": "https://github.com/chili-chips-ba/openCologne-PCIE",
+        "id": 1065985855
+    },
+    {
+        "repo": "microwatt_design_challenge",
+        "description": null,
+        "owner": "Lefteris-B",
+        "stars": 2,
+        "forks": 0,
+        "size": 877553,
+        "created": "2025-09-19T08:49:56+00:00",
+        "updated": "2025-11-08T15:03:32+00:00",
+        "pushed": "2025-11-08T15:03:28+00:00",
+        "url": "https://github.com/Lefteris-B/microwatt_design_challenge",
+        "id": 1060004179
+    },
+    {
+        "repo": "openPCIE",
+        "description": "Peripheral Component Interconnect (PCI) has taken the Express lane long ago, moving to xGbps SerDes... now for the first time in opensource on the Host side too! Our project roots for Root Port in 4 ways: 1) openRTL; 2) openBFM with unique SIM setup, way faster than vendor's; 3) openSW stack;  4) one-of-a-kind openBackplane.",
+        "owner": "chili-chips-ba",
+        "stars": 38,
+        "forks": 3,
+        "size": 195813,
+        "created": "2025-01-28T04:49:53+00:00",
+        "updated": "2025-11-08T17:26:57+00:00",
+        "pushed": "2025-11-08T17:26:53+00:00",
+        "url": "https://github.com/chili-chips-ba/openPCIE",
+        "id": 923355946
+    },
+    {
+        "repo": "Ocre_runtime_renode_IoT",
+        "description": "Questo progetto \u00e8 una simulazione IoT in cui utilizzo Renode per emulare una board RISC-V (litex_vexriscv) ed eseguire il runtime OCRE su Zephyr",
+        "owner": "TindaroCatalfamo",
+        "stars": 2,
+        "forks": 0,
+        "size": 341,
+        "created": "2025-09-20T14:14:15+00:00",
+        "updated": "2025-11-08T14:40:06+00:00",
+        "pushed": "2025-11-08T14:40:03+00:00",
+        "url": "https://github.com/TindaroCatalfamo/Ocre_runtime_renode_IoT",
+        "id": 1060750265
+    },
+    {
+        "repo": "Soc-LiteX-ProdutoEscalar",
+        "description": null,
+        "owner": "lucasxavier9",
+        "stars": 1,
+        "forks": 0,
+        "size": 1525,
+        "created": "2025-10-07T21:05:00+00:00",
+        "updated": "2025-11-08T20:52:08+00:00",
+        "pushed": "2025-11-08T18:19:26+00:00",
+        "url": "https://github.com/lucasxavier9/Soc-LiteX-ProdutoEscalar",
+        "id": 1071812891
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 1828,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2025-11-09T06:35:04+00:00",
+        "pushed": "2025-11-09T06:35:01+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "CCFBDCI-maths",
+        "description": "a res 4 CCFBDCI contest    litex",
+        "owner": "PigBruhs",
+        "stars": 0,
+        "forks": 0,
+        "size": 261,
+        "created": "2025-10-28T05:50:42+00:00",
+        "updated": "2025-11-09T07:08:35+00:00",
+        "pushed": "2025-11-09T07:08:31+00:00",
+        "url": "https://github.com/PigBruhs/CCFBDCI-maths",
+        "id": 1084759715
+    },
+    {
+        "repo": "Litex-LLM-",
+        "description": "\u53c2\u52a02025 CCF\u5927\u6570\u636e\u4e0e\u8ba1\u7b97\u667a\u80fd\u5927\u8d5b-\u5f62\u5f0f\u5316\u6570\u5b66\u7ade\u8d5b\u8d5b\u9898\u7684\u4ee3\u7801\u4ed3\u5e93",
+        "owner": "Keria04",
+        "stars": 0,
+        "forks": 0,
+        "size": 16947,
+        "created": "2025-10-20T02:01:52+00:00",
+        "updated": "2025-11-09T01:11:36+00:00",
+        "pushed": "2025-11-09T01:11:33+00:00",
+        "url": "https://github.com/Keria04/Litex-LLM-",
+        "id": 1079544151
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 8,
+        "forks": 0,
+        "size": 3214,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2025-11-09T04:37:16+00:00",
+        "pushed": "2025-11-09T04:37:13+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "ecp5-hello",
+        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
+        "owner": "Kuykakuy",
+        "stars": 0,
+        "forks": 1,
+        "size": 1400,
+        "created": "2025-10-03T21:57:09+00:00",
+        "updated": "2025-11-09T02:57:09+00:00",
+        "pushed": "2025-11-09T02:57:06+00:00",
+        "url": "https://github.com/Kuykakuy/ecp5-hello",
+        "id": 1069401140
+    },
+    {
+        "repo": "Lecturas_GLC",
+        "description": "Readings on computational logic, interactive theorem proving and functional programming.",
+        "owner": "jaalonso",
+        "stars": 82,
+        "forks": 8,
+        "size": 9967,
+        "created": "2016-12-31T14:59:04+00:00",
+        "updated": "2025-11-08T10:54:14+00:00",
+        "pushed": "2025-11-08T10:54:10+00:00",
+        "url": "https://github.com/jaalonso/Lecturas_GLC",
+        "id": 77744499
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 15,
         "forks": 4,
-        "size": 129872,
+        "size": 130451,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-11-08T03:26:43+00:00",
-        "pushed": "2025-11-08T03:26:40+00:00",
+        "updated": "2025-11-09T03:32:11+00:00",
+        "pushed": "2025-11-09T03:32:08+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 22,
+        "forks": 0,
+        "size": 16148,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2025-11-09T02:23:19+00:00",
+        "pushed": "2025-11-09T02:23:15+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
     }
 ]
