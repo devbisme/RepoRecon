@@ -6045,19 +6045,6 @@
         "id": 752856131
     },
     {
-        "repo": "hwtLib",
-        "description": "hardware library for hwt (= ipcore repo)",
-        "owner": "Nic30",
-        "stars": 43,
-        "forks": 7,
-        "size": 7001,
-        "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-11-05T23:21:04+00:00",
-        "pushed": "2025-11-05T23:21:00+00:00",
-        "url": "https://github.com/Nic30/hwtLib",
-        "id": 63018738
-    },
-    {
         "repo": "ipCorePackager",
         "description": "Scriptable IP-Core generator",
         "owner": "Nic30",
@@ -6095,5 +6082,18 @@
         "pushed": "2025-11-08T04:26:21+00:00",
         "url": "https://github.com/changcs/notes",
         "id": 79589690
+    },
+    {
+        "repo": "hwtLib",
+        "description": "hardware library for hwt (= ipcore repo)",
+        "owner": "Nic30",
+        "stars": 43,
+        "forks": 7,
+        "size": 7012,
+        "created": "2016-07-10T21:13:00+00:00",
+        "updated": "2025-11-11T00:04:10+00:00",
+        "pushed": "2025-11-11T00:04:06+00:00",
+        "url": "https://github.com/Nic30/hwtLib",
+        "id": 63018738
     }
 ]
