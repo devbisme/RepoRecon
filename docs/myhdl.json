@@ -6058,19 +6058,6 @@
         "id": 151136062
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 218,
-        "forks": 29,
-        "size": 20128,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-11-06T15:54:31+00:00",
-        "pushed": "2025-11-06T15:54:27+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
         "repo": "notes",
         "description": null,
         "owner": "changcs",
@@ -6089,11 +6076,24 @@
         "owner": "Nic30",
         "stars": 43,
         "forks": 7,
-        "size": 7012,
+        "size": 7061,
         "created": "2016-07-10T21:13:00+00:00",
-        "updated": "2025-11-11T00:04:10+00:00",
-        "pushed": "2025-11-11T00:04:06+00:00",
+        "updated": "2025-11-12T18:58:11+00:00",
+        "pushed": "2025-11-12T18:58:06+00:00",
         "url": "https://github.com/Nic30/hwtLib",
         "id": 63018738
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 218,
+        "forks": 29,
+        "size": 20137,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-11-12T18:58:15+00:00",
+        "pushed": "2025-11-12T18:58:11+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
     }
 ]
