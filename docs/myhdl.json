@@ -5707,19 +5707,6 @@
         "id": 959479867
     },
     {
-        "repo": "FPGA-Awesome-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 4,
-        "forks": 0,
-        "size": 295,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-06-18T21:38:38+00:00",
-        "pushed": "2025-06-18T21:38:35+00:00",
-        "url": "https://github.com/RDSik/FPGA-Awesome-list",
-        "id": 777943094
-    },
-    {
         "repo": "awesome-hwd-tools",
         "description": "A curated list of awesome open source hardware design tools",
         "owner": "TM90",
@@ -6032,19 +6019,6 @@
         "id": 1033842386
     },
     {
-        "repo": "HwLang",
-        "description": null,
-        "owner": "KarelPeeters",
-        "stars": 3,
-        "forks": 0,
-        "size": 3741,
-        "created": "2024-02-05T00:57:17+00:00",
-        "updated": "2025-11-03T00:02:25+00:00",
-        "pushed": "2025-11-03T00:06:48+00:00",
-        "url": "https://github.com/KarelPeeters/HwLang",
-        "id": 752856131
-    },
-    {
         "repo": "ipCorePackager",
         "description": "Scriptable IP-Core generator",
         "owner": "Nic30",
@@ -6108,5 +6082,31 @@
         "pushed": "2025-11-15T00:41:10+00:00",
         "url": "https://github.com/chiplukes/.dotfiles",
         "id": 210193768
+    },
+    {
+        "repo": "FPGA-Awesome-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 7,
+        "forks": 0,
+        "size": 312,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2025-11-16T14:21:04+00:00",
+        "pushed": "2025-11-16T14:21:01+00:00",
+        "url": "https://github.com/RDSik/FPGA-Awesome-list",
+        "id": 777943094
+    },
+    {
+        "repo": "HwLang",
+        "description": null,
+        "owner": "KarelPeeters",
+        "stars": 3,
+        "forks": 0,
+        "size": 3797,
+        "created": "2024-02-05T00:57:17+00:00",
+        "updated": "2025-11-03T21:34:00+00:00",
+        "pushed": "2025-11-16T23:44:40+00:00",
+        "url": "https://github.com/KarelPeeters/HwLang",
+        "id": 752856131
     }
 ]
