@@ -6019,19 +6019,6 @@
         "id": 1033842386
     },
     {
-        "repo": "ipCorePackager",
-        "description": "Scriptable IP-Core generator",
-        "owner": "Nic30",
-        "stars": 8,
-        "forks": 0,
-        "size": 100,
-        "created": "2018-10-01T18:16:02+00:00",
-        "updated": "2025-11-05T23:21:15+00:00",
-        "pushed": "2025-11-05T23:21:12+00:00",
-        "url": "https://github.com/Nic30/ipCorePackager",
-        "id": 151136062
-    },
-    {
         "repo": "notes",
         "description": null,
         "owner": "changcs",
@@ -6058,32 +6045,6 @@
         "id": 63018738
     },
     {
-        "repo": "hwt",
-        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
-        "owner": "Nic30",
-        "stars": 218,
-        "forks": 29,
-        "size": 20137,
-        "created": "2015-05-19T17:45:47+00:00",
-        "updated": "2025-11-12T18:58:15+00:00",
-        "pushed": "2025-11-12T18:58:11+00:00",
-        "url": "https://github.com/Nic30/hwt",
-        "id": 35898469
-    },
-    {
-        "repo": ".dotfiles",
-        "description": null,
-        "owner": "chiplukes",
-        "stars": 0,
-        "forks": 0,
-        "size": 313,
-        "created": "2019-09-22T18:19:08+00:00",
-        "updated": "2025-11-15T00:41:13+00:00",
-        "pushed": "2025-11-15T00:41:10+00:00",
-        "url": "https://github.com/chiplukes/.dotfiles",
-        "id": 210193768
-    },
-    {
         "repo": "FPGA-Awesome-list",
         "description": "List of useful materials on FPGA topic",
         "owner": "RDSik",
@@ -6108,5 +6069,44 @@
         "pushed": "2025-11-16T23:44:40+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "hwt",
+        "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
+        "owner": "Nic30",
+        "stars": 218,
+        "forks": 29,
+        "size": 20145,
+        "created": "2015-05-19T17:45:47+00:00",
+        "updated": "2025-11-17T16:13:40+00:00",
+        "pushed": "2025-11-17T16:13:36+00:00",
+        "url": "https://github.com/Nic30/hwt",
+        "id": 35898469
+    },
+    {
+        "repo": "ipCorePackager",
+        "description": "Scriptable IP-Core generator",
+        "owner": "Nic30",
+        "stars": 8,
+        "forks": 0,
+        "size": 101,
+        "created": "2018-10-01T18:16:02+00:00",
+        "updated": "2025-11-17T16:14:31+00:00",
+        "pushed": "2025-11-17T16:14:27+00:00",
+        "url": "https://github.com/Nic30/ipCorePackager",
+        "id": 151136062
+    },
+    {
+        "repo": ".dotfiles",
+        "description": null,
+        "owner": "chiplukes",
+        "stars": 0,
+        "forks": 0,
+        "size": 319,
+        "created": "2019-09-22T18:19:08+00:00",
+        "updated": "2025-11-18T01:44:47+00:00",
+        "pushed": "2025-11-18T01:44:43+00:00",
+        "url": "https://github.com/chiplukes/.dotfiles",
+        "id": 210193768
     }
 ]
