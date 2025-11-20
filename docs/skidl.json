@@ -1456,19 +1456,6 @@
         "id": 872044586
     },
     {
-        "repo": "kicad-3rd-party-tools",
-        "description": "Software tools/utilities made by others to augment the KiCad PCB EDA suite.",
-        "owner": "devbisme",
-        "stars": 750,
-        "forks": 88,
-        "size": 413,
-        "created": "2016-12-02T14:33:43+00:00",
-        "updated": "2024-10-19T12:26:16+00:00",
-        "pushed": "2024-10-19T12:26:12+00:00",
-        "url": "https://github.com/devbisme/kicad-3rd-party-tools",
-        "id": 75402926
-    },
-    {
         "repo": "skidl",
         "description": null,
         "owner": "mklck",
@@ -2314,19 +2301,6 @@
         "id": 1090032479
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "stahlnow",
-        "stars": 0,
-        "forks": 0,
-        "size": 2186,
-        "created": "2024-03-06T21:46:55+00:00",
-        "updated": "2025-11-06T00:48:42+00:00",
-        "pushed": "2025-11-06T00:48:39+00:00",
-        "url": "https://github.com/stahlnow/awesome-stars",
-        "id": 768320430
-    },
-    {
         "repo": "kicad-kbplacer",
         "description": "KiCad plugin for automatic keyboard's key placement and routing",
         "owner": "adamws",
@@ -2390,5 +2364,44 @@
         "pushed": "2025-11-14T22:02:58+00:00",
         "url": "https://github.com/cforge42/circuitron",
         "id": 1096739380
+    },
+    {
+        "repo": "kicad-3rd-party-tools",
+        "description": "Software tools/utilities made by others to augment the KiCad PCB EDA suite.",
+        "owner": "devbisme",
+        "stars": 794,
+        "forks": 93,
+        "size": 499,
+        "created": "2016-12-02T14:33:43+00:00",
+        "updated": "2025-11-20T00:54:05+00:00",
+        "pushed": "2025-11-20T00:54:01+00:00",
+        "url": "https://github.com/devbisme/kicad-3rd-party-tools",
+        "id": 75402926
+    },
+    {
+        "repo": "AI-PCB",
+        "description": null,
+        "owner": "Aero123421",
+        "stars": 0,
+        "forks": 0,
+        "size": 171,
+        "created": "2025-11-19T11:30:13+00:00",
+        "updated": "2025-11-19T14:31:57+00:00",
+        "pushed": "2025-11-19T14:31:53+00:00",
+        "url": "https://github.com/Aero123421/AI-PCB",
+        "id": 1099736819
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "stahlnow",
+        "stars": 0,
+        "forks": 0,
+        "size": 2330,
+        "created": "2024-03-06T21:46:55+00:00",
+        "updated": "2025-11-20T00:50:03+00:00",
+        "pushed": "2025-11-20T00:50:00+00:00",
+        "url": "https://github.com/stahlnow/awesome-stars",
+        "id": 768320430
     }
 ]
