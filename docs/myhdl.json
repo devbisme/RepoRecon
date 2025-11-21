@@ -5798,19 +5798,6 @@
         "id": 1005299968
     },
     {
-        "repo": "AND-gate-cosim-madness",
-        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
-        "owner": "Kreijstal",
-        "stars": 1,
-        "forks": 0,
-        "size": 599,
-        "created": "2024-08-07T20:23:56+00:00",
-        "updated": "2025-08-15T08:16:27+00:00",
-        "pushed": "2025-08-15T08:16:39+00:00",
-        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
-        "id": 839539533
-    },
-    {
         "repo": "Kea",
         "description": "Some HDL tools built on MyHDL, including a register subsystem.",
         "owner": "SmartAcoustics",
@@ -6097,19 +6084,6 @@
         "id": 151136062
     },
     {
-        "repo": ".dotfiles",
-        "description": null,
-        "owner": "chiplukes",
-        "stars": 0,
-        "forks": 0,
-        "size": 319,
-        "created": "2019-09-22T18:19:08+00:00",
-        "updated": "2025-11-18T01:44:47+00:00",
-        "pushed": "2025-11-18T01:44:43+00:00",
-        "url": "https://github.com/chiplukes/.dotfiles",
-        "id": 210193768
-    },
-    {
         "repo": "HDL_Blinker",
         "description": null,
         "owner": "PanagiotisMentis",
@@ -6121,5 +6095,31 @@
         "pushed": "2025-11-19T20:12:40+00:00",
         "url": "https://github.com/PanagiotisMentis/HDL_Blinker",
         "id": 1100065236
+    },
+    {
+        "repo": "AND-gate-cosim-madness",
+        "description": "AND Gate Cosimulation Examples: Open-source hardware simulation playground using Verilog, VHDL, C/C++, Python. Explore Verilator, GHDL, Icarus Verilog, MyHDL, and more. Learn digital design and HW/SW co-simulation through practical, comparative examples. Ideal for students and curious engineers.",
+        "owner": "Kreijstal",
+        "stars": 1,
+        "forks": 0,
+        "size": 600,
+        "created": "2024-08-07T20:23:56+00:00",
+        "updated": "2025-11-20T21:52:36+00:00",
+        "pushed": "2025-11-20T21:52:52+00:00",
+        "url": "https://github.com/Kreijstal/AND-gate-cosim-madness",
+        "id": 839539533
+    },
+    {
+        "repo": ".dotfiles",
+        "description": null,
+        "owner": "chiplukes",
+        "stars": 0,
+        "forks": 0,
+        "size": 328,
+        "created": "2019-09-22T18:19:08+00:00",
+        "updated": "2025-11-21T03:25:21+00:00",
+        "pushed": "2025-11-21T03:25:18+00:00",
+        "url": "https://github.com/chiplukes/.dotfiles",
+        "id": 210193768
     }
 ]
