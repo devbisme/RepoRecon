@@ -43121,19 +43121,6 @@
         "id": 1000506289
     },
     {
-        "repo": "openocd-elaphurelink",
-        "description": "OpenOCD for elaphureLink, provide  out of box experience.",
-        "owner": "windowsair",
-        "stars": 3,
-        "forks": 0,
-        "size": 287,
-        "created": "2025-05-03T02:42:49+00:00",
-        "updated": "2025-06-11T12:22:25+00:00",
-        "pushed": "2025-06-11T12:33:47+00:00",
-        "url": "https://github.com/windowsair/openocd-elaphurelink",
-        "id": 976921001
-    },
-    {
         "repo": "xiaozhi_assistant",
         "description": null,
         "owner": "kendryte",
@@ -47281,19 +47268,6 @@
         "id": 783261492
     },
     {
-        "repo": "krux_binaries",
-        "description": "compiled krux",
-        "owner": "odudex",
-        "stars": 23,
-        "forks": 3,
-        "size": 738402,
-        "created": "2022-04-01T20:52:53+00:00",
-        "updated": "2025-10-31T15:17:33+00:00",
-        "pushed": "2025-10-31T15:17:26+00:00",
-        "url": "https://github.com/odudex/krux_binaries",
-        "id": 476865621
-    },
-    {
         "repo": "govin-firmwares",
         "description": "govin-firmware",
         "owner": "GOVINIDE",
@@ -47539,19 +47513,6 @@
         "pushed": "2025-11-07T04:40:11+00:00",
         "url": "https://github.com/LUNGMEN-GOV/MaixFace",
         "id": 1091428000
-    },
-    {
-        "repo": "K210-M1N_USB-C",
-        "description": "USB\u2011C breakout board that hosts the Kendryte K210 M1n module, integrates a CH340C USB\u2011UART bridge with auto-boot wiring, and breaks out key IO along with power/status LEDs.",
-        "owner": "rmingon",
-        "stars": 0,
-        "forks": 0,
-        "size": 716,
-        "created": "2025-11-01T20:11:02+00:00",
-        "updated": "2025-11-06T20:49:24+00:00",
-        "pushed": "2025-11-06T20:49:20+00:00",
-        "url": "https://github.com/rmingon/K210-M1N_USB-C",
-        "id": 1087869338
     },
     {
         "repo": "onnx2kmodel",
@@ -48399,19 +48360,6 @@
         "id": 574484171
     },
     {
-        "repo": "fangxiang_vault",
-        "description": null,
-        "owner": "IAmRob0t",
-        "stars": 1,
-        "forks": 0,
-        "size": 214323,
-        "created": "2025-11-16T04:26:05+00:00",
-        "updated": "2025-11-21T02:25:29+00:00",
-        "pushed": "2025-11-21T02:25:25+00:00",
-        "url": "https://github.com/IAmRob0t/fangxiang_vault",
-        "id": 1097386712
-    },
-    {
         "repo": "canmv_k230",
         "description": "canmv k230 micropython openmv rtsmart mpp opensbi uboot",
         "owner": "kendryte",
@@ -48423,32 +48371,6 @@
         "pushed": "2025-11-21T09:31:23+00:00",
         "url": "https://github.com/kendryte/canmv_k230",
         "id": 857263549
-    },
-    {
-        "repo": "krux",
-        "description": "Open-source signing device firmware for Bitcoin",
-        "owner": "selfcustody",
-        "stars": 284,
-        "forks": 56,
-        "size": 219390,
-        "created": "2021-07-12T02:24:17+00:00",
-        "updated": "2025-11-21T09:13:18+00:00",
-        "pushed": "2025-11-21T15:43:44+00:00",
-        "url": "https://github.com/selfcustody/krux",
-        "id": 385102171
-    },
-    {
-        "repo": "rt-thread",
-        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
-        "owner": "RT-Thread",
-        "stars": 11557,
-        "forks": 5315,
-        "size": 939386,
-        "created": "2013-01-02T14:49:21+00:00",
-        "updated": "2025-11-22T05:49:20+00:00",
-        "pushed": "2025-11-22T02:11:38+00:00",
-        "url": "https://github.com/RT-Thread/rt-thread",
-        "id": 7408108
     },
     {
         "repo": "autocomp",
@@ -48503,19 +48425,6 @@
         "id": 1092901371
     },
     {
-        "repo": "HPUhushicheng",
-        "description": null,
-        "owner": "HPUhushicheng",
-        "stars": 2,
-        "forks": 2,
-        "size": 53,
-        "created": "2023-03-31T11:23:32+00:00",
-        "updated": "2025-11-10T13:25:50+00:00",
-        "pushed": "2025-11-22T00:50:31+00:00",
-        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
-        "id": 621780685
-    },
-    {
         "repo": "-k210",
         "description": null,
         "owner": "Shion1231-afk",
@@ -48529,17 +48438,121 @@
         "id": 1101256070
     },
     {
+        "repo": "krux",
+        "description": "Open-source signing device firmware for Bitcoin",
+        "owner": "selfcustody",
+        "stars": 285,
+        "forks": 56,
+        "size": 219429,
+        "created": "2021-07-12T02:24:17+00:00",
+        "updated": "2025-11-22T16:45:23+00:00",
+        "pushed": "2025-11-22T17:54:01+00:00",
+        "url": "https://github.com/selfcustody/krux",
+        "id": 385102171
+    },
+    {
+        "repo": "rt-thread",
+        "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+        "owner": "RT-Thread",
+        "stars": 11559,
+        "forks": 5315,
+        "size": 939386,
+        "created": "2013-01-02T14:49:21+00:00",
+        "updated": "2025-11-23T07:14:18+00:00",
+        "pushed": "2025-11-23T07:14:14+00:00",
+        "url": "https://github.com/RT-Thread/rt-thread",
+        "id": 7408108
+    },
+    {
+        "repo": "krux_binaries",
+        "description": "compiled krux",
+        "owner": "odudex",
+        "stars": 23,
+        "forks": 3,
+        "size": 747059,
+        "created": "2022-04-01T20:52:53+00:00",
+        "updated": "2025-11-22T17:59:24+00:00",
+        "pushed": "2025-11-22T17:59:20+00:00",
+        "url": "https://github.com/odudex/krux_binaries",
+        "id": 476865621
+    },
+    {
+        "repo": "K210-M1N_USB-C",
+        "description": "USB\u2011C breakout board that hosts the Kendryte K210 M1n module, integrates a CH340C USB\u2011UART bridge with auto-boot wiring, and breaks out key IO along with power/status LEDs.",
+        "owner": "rmingon",
+        "stars": 0,
+        "forks": 0,
+        "size": 758,
+        "created": "2025-11-01T20:11:02+00:00",
+        "updated": "2025-11-22T21:41:31+00:00",
+        "pushed": "2025-11-22T21:41:26+00:00",
+        "url": "https://github.com/rmingon/K210-M1N_USB-C",
+        "id": 1087869338
+    },
+    {
+        "repo": "K230",
+        "description": "Using C++ in K230",
+        "owner": "ethan123-zhang",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2025-11-22T09:41:53+00:00",
+        "updated": "2025-11-22T09:43:41+00:00",
+        "pushed": "2025-11-22T09:43:37+00:00",
+        "url": "https://github.com/ethan123-zhang/K230",
+        "id": 1101815560
+    },
+    {
+        "repo": "HPUhushicheng",
+        "description": null,
+        "owner": "HPUhushicheng",
+        "stars": 2,
+        "forks": 2,
+        "size": 52,
+        "created": "2023-03-31T11:23:32+00:00",
+        "updated": "2025-11-10T13:25:50+00:00",
+        "pushed": "2025-11-23T00:59:58+00:00",
+        "url": "https://github.com/HPUhushicheng/HPUhushicheng",
+        "id": 621780685
+    },
+    {
+        "repo": "openocd-elaphurelink",
+        "description": "OpenOCD for elaphureLink, provide  out of box experience.",
+        "owner": "windowsair",
+        "stars": 5,
+        "forks": 0,
+        "size": 280,
+        "created": "2025-05-03T02:42:49+00:00",
+        "updated": "2025-11-22T11:56:40+00:00",
+        "pushed": "2025-11-22T11:56:37+00:00",
+        "url": "https://github.com/windowsair/openocd-elaphurelink",
+        "id": 976921001
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 16,
         "forks": 2,
-        "size": 4936,
+        "size": 5455,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2025-11-22T02:18:41+00:00",
-        "pushed": "2025-11-22T02:18:38+00:00",
+        "updated": "2025-11-23T02:39:15+00:00",
+        "pushed": "2025-11-23T02:39:11+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
+    },
+    {
+        "repo": "fangxiang_vault",
+        "description": null,
+        "owner": "IAmRob0t",
+        "stars": 1,
+        "forks": 0,
+        "size": 214347,
+        "created": "2025-11-16T04:26:05+00:00",
+        "updated": "2025-11-22T16:44:24+00:00",
+        "pushed": "2025-11-22T16:44:20+00:00",
+        "url": "https://github.com/IAmRob0t/fangxiang_vault",
+        "id": 1097386712
     },
     {
         "repo": "awesome-stars",
@@ -48547,10 +48560,10 @@
         "owner": "silentEAG",
         "stars": 11,
         "forks": 2,
-        "size": 2733,
+        "size": 2953,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2025-11-22T02:14:33+00:00",
-        "pushed": "2025-11-22T02:14:30+00:00",
+        "updated": "2025-11-23T02:35:30+00:00",
+        "pushed": "2025-11-23T02:35:27+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
     },
@@ -48562,8 +48575,8 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2025-11-22T03:38:05+00:00",
-        "pushed": "2025-11-22T03:38:02+00:00",
+        "updated": "2025-11-23T07:28:24+00:00",
+        "pushed": "2025-11-23T07:28:21+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
     },
@@ -48573,10 +48586,10 @@
         "owner": "androidtrackers",
         "stars": 144,
         "forks": 39,
-        "size": 1132117,
+        "size": 1132118,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2025-11-21T12:39:57+00:00",
-        "pushed": "2025-11-21T12:39:52+00:00",
+        "updated": "2025-11-22T12:33:23+00:00",
+        "pushed": "2025-11-22T12:33:19+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -48589,7 +48602,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2025-11-10T07:00:55+00:00",
-        "pushed": "2025-11-22T00:16:23+00:00",
+        "pushed": "2025-11-23T00:19:20+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     },
@@ -48599,10 +48612,10 @@
         "owner": "zhuozhiyongde",
         "stars": 35,
         "forks": 2,
-        "size": 2853,
+        "size": 2927,
         "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2025-11-22T01:02:43+00:00",
-        "pushed": "2025-11-22T01:02:39+00:00",
+        "updated": "2025-11-23T01:14:38+00:00",
+        "pushed": "2025-11-23T01:14:35+00:00",
         "url": "https://github.com/zhuozhiyongde/Stargazer",
         "id": 917416797
     },
@@ -48612,10 +48625,10 @@
         "owner": "hiifong",
         "stars": 15,
         "forks": 4,
-        "size": 137903,
+        "size": 138487,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2025-11-22T03:28:00+00:00",
-        "pushed": "2025-11-22T03:27:56+00:00",
+        "updated": "2025-11-23T03:40:39+00:00",
+        "pushed": "2025-11-23T03:40:35+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     }
