@@ -10,6 +10,7 @@ from github import Github
 
 
 # Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
+# g = Github()
 g = Github(os.getenv("REPORECON_GITHUB_TOKEN"))
 
 
