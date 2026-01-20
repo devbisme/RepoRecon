@@ -6175,19 +6175,6 @@
         "id": 162131770
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 46,
-        "forks": 31,
-        "size": 41588,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2026-01-16T03:27:56+00:00",
-        "pushed": "2026-01-16T03:27:53+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "elision",
         "description": "A modern, Python-based Hardware Description Language (HDL) that compiles to SystemVerilog via CIRCT.",
         "owner": "yassinz",
@@ -6199,19 +6186,6 @@
         "pushed": "2026-01-16T01:38:32+00:00",
         "url": "https://github.com/yassinz/elision",
         "id": 1128173082
-    },
-    {
-        "repo": "Python",
-        "description": null,
-        "owner": "abhishekgaud7",
-        "stars": 0,
-        "forks": 0,
-        "size": 83,
-        "created": "2025-12-20T06:28:45+00:00",
-        "updated": "2026-01-16T06:47:52+00:00",
-        "pushed": "2026-01-16T06:47:49+00:00",
-        "url": "https://github.com/abhishekgaud7/Python",
-        "id": 1119940007
     },
     {
         "repo": "MRCM",
@@ -6227,16 +6201,42 @@
         "id": 1131750041
     },
     {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 46,
+        "forks": 31,
+        "size": 41596,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2026-01-19T14:18:30+00:00",
+        "pushed": "2026-01-19T14:18:26+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
         "repo": "HwLang",
         "description": null,
         "owner": "KarelPeeters",
         "stars": 3,
         "forks": 0,
-        "size": 4367,
+        "size": 4407,
         "created": "2024-02-05T00:57:17+00:00",
-        "updated": "2026-01-18T23:49:37+00:00",
-        "pushed": "2026-01-18T23:49:33+00:00",
+        "updated": "2026-01-19T22:55:25+00:00",
+        "pushed": "2026-01-19T22:55:22+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "Python",
+        "description": null,
+        "owner": "abhishekgaud7",
+        "stars": 0,
+        "forks": 0,
+        "size": 74,
+        "created": "2025-12-20T06:28:45+00:00",
+        "updated": "2026-01-19T14:53:56+00:00",
+        "pushed": "2026-01-19T14:53:53+00:00",
+        "url": "https://github.com/abhishekgaud7/Python",
+        "id": 1119940007
     }
 ]
