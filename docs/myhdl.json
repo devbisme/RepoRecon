@@ -6162,19 +6162,6 @@
         "id": 1127892331
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 9,
-        "forks": 3,
-        "size": 834,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2026-01-13T15:20:22+00:00",
-        "pushed": "2026-01-13T15:20:11+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "elision",
         "description": "A modern, Python-based Hardware Description Language (HDL) that compiles to SystemVerilog via CIRCT.",
         "owner": "yassinz",
@@ -6214,19 +6201,6 @@
         "id": 1119940007
     },
     {
-        "repo": "dsd",
-        "description": "Digital System Design",
-        "owner": "kevinwlu",
-        "stars": 46,
-        "forks": 31,
-        "size": 41620,
-        "created": "2018-08-04T10:46:25+00:00",
-        "updated": "2026-01-20T21:07:26+00:00",
-        "pushed": "2026-01-20T21:06:46+00:00",
-        "url": "https://github.com/kevinwlu/dsd",
-        "id": 143520625
-    },
-    {
         "repo": "HwLang",
         "description": null,
         "owner": "KarelPeeters",
@@ -6238,5 +6212,31 @@
         "pushed": "2026-01-21T00:56:20+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "dsd",
+        "description": "Digital System Design",
+        "owner": "kevinwlu",
+        "stars": 46,
+        "forks": 31,
+        "size": 41654,
+        "created": "2018-08-04T10:46:25+00:00",
+        "updated": "2026-01-21T21:33:17+00:00",
+        "pushed": "2026-01-21T21:33:14+00:00",
+        "url": "https://github.com/kevinwlu/dsd",
+        "id": 143520625
+    },
+    {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 9,
+        "forks": 3,
+        "size": 836,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2026-01-21T10:46:49+00:00",
+        "pushed": "2026-01-21T10:46:43+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
     }
 ]
