@@ -6,6 +6,7 @@ import subprocess
 import sys
 from datetime import datetime
 from datetime import datetime as dt
+# pip install PyGithub
 from github import Github
 
 
