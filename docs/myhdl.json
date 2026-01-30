@@ -5551,19 +5551,6 @@
         "id": 955604307
     },
     {
-        "repo": "Hdl21",
-        "description": "Hardware Description Library",
-        "owner": "dan-fritchman",
-        "stars": 78,
-        "forks": 17,
-        "size": 1611,
-        "created": "2021-04-23T03:21:13+00:00",
-        "updated": "2025-04-10T03:56:11+00:00",
-        "pushed": "2025-04-10T03:56:06+00:00",
-        "url": "https://github.com/dan-fritchman/Hdl21",
-        "id": 360750527
-    },
-    {
         "repo": "myhdl",
         "description": "The MyHDL development repository",
         "owner": "myhdl",
@@ -6149,19 +6136,6 @@
         "id": 839539533
     },
     {
-        "repo": "me",
-        "description": null,
-        "owner": "openformatproj",
-        "stars": 0,
-        "forks": 0,
-        "size": 783,
-        "created": "2026-01-04T19:47:50+00:00",
-        "updated": "2026-01-08T11:09:17+00:00",
-        "pushed": "2026-01-08T11:09:13+00:00",
-        "url": "https://github.com/openformatproj/me",
-        "id": 1127892331
-    },
-    {
         "repo": "elision",
         "description": "A modern, Python-based Hardware Description Language (HDL) that compiles to SystemVerilog via CIRCT.",
         "owner": "yassinz",
@@ -6264,5 +6238,31 @@
         "pushed": "2026-01-29T06:25:48+00:00",
         "url": "https://github.com/abhishekgaud7/Python",
         "id": 1119940007
+    },
+    {
+        "repo": "Hdl21",
+        "description": "Hardware Description Library",
+        "owner": "dan-fritchman",
+        "stars": 88,
+        "forks": 20,
+        "size": 1501,
+        "created": "2021-04-23T03:21:13+00:00",
+        "updated": "2026-01-29T13:10:08+00:00",
+        "pushed": "2026-01-29T12:59:50+00:00",
+        "url": "https://github.com/dan-fritchman/Hdl21",
+        "id": 360750527
+    },
+    {
+        "repo": "me",
+        "description": null,
+        "owner": "openformatproj",
+        "stars": 0,
+        "forks": 0,
+        "size": 827,
+        "created": "2026-01-04T19:47:50+00:00",
+        "updated": "2026-01-29T13:27:34+00:00",
+        "pushed": "2026-01-29T13:27:28+00:00",
+        "url": "https://github.com/openformatproj/me",
+        "id": 1127892331
     }
 ]
