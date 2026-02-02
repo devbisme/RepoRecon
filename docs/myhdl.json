@@ -6136,19 +6136,6 @@
         "id": 839539533
     },
     {
-        "repo": "elision",
-        "description": "A modern, Python-based Hardware Description Language (HDL) that compiles to SystemVerilog via CIRCT.",
-        "owner": "yassinz",
-        "stars": 1,
-        "forks": 0,
-        "size": 282,
-        "created": "2026-01-05T08:47:19+00:00",
-        "updated": "2026-01-16T01:38:35+00:00",
-        "pushed": "2026-01-16T01:38:32+00:00",
-        "url": "https://github.com/yassinz/elision",
-        "id": 1128173082
-    },
-    {
         "repo": "MRCM",
         "description": "A 64-bit RISC-V like(kinda) CPU in MyHDL in Python",
         "owner": "afifafifafifafifali",
@@ -6240,19 +6227,6 @@
         "id": 1127892331
     },
     {
-        "repo": "HwLang",
-        "description": null,
-        "owner": "KarelPeeters",
-        "stars": 3,
-        "forks": 0,
-        "size": 3848,
-        "created": "2024-02-05T00:57:17+00:00",
-        "updated": "2026-01-30T22:48:40+00:00",
-        "pushed": "2026-01-30T22:48:36+00:00",
-        "url": "https://github.com/KarelPeeters/HwLang",
-        "id": 752856131
-    },
-    {
         "repo": "Python",
         "description": null,
         "owner": "abhishekgaud7",
@@ -6264,5 +6238,31 @@
         "pushed": "2026-02-01T03:00:12+00:00",
         "url": "https://github.com/abhishekgaud7/Python",
         "id": 1119940007
+    },
+    {
+        "repo": "elision",
+        "description": "A modern, Python-based Hardware Description Language (HDL) that compiles to SystemVerilog via CIRCT.",
+        "owner": "yassinz",
+        "stars": 1,
+        "forks": 0,
+        "size": 316,
+        "created": "2026-01-05T08:47:19+00:00",
+        "updated": "2026-02-02T04:09:48+00:00",
+        "pushed": "2026-02-02T04:09:44+00:00",
+        "url": "https://github.com/yassinz/elision",
+        "id": 1128173082
+    },
+    {
+        "repo": "HwLang",
+        "description": null,
+        "owner": "KarelPeeters",
+        "stars": 3,
+        "forks": 0,
+        "size": 3940,
+        "created": "2024-02-05T00:57:17+00:00",
+        "updated": "2026-02-02T00:01:28+00:00",
+        "pushed": "2026-02-02T00:01:24+00:00",
+        "url": "https://github.com/KarelPeeters/HwLang",
+        "id": 752856131
     }
 ]
