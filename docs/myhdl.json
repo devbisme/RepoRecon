@@ -5954,19 +5954,6 @@
         "id": 79589690
     },
     {
-        "repo": "FPGA-Awesome-list",
-        "description": "List of useful materials on FPGA topic",
-        "owner": "RDSik",
-        "stars": 7,
-        "forks": 0,
-        "size": 312,
-        "created": "2024-03-26T19:41:35+00:00",
-        "updated": "2025-11-16T14:21:04+00:00",
-        "pushed": "2025-11-16T14:21:01+00:00",
-        "url": "https://github.com/RDSik/FPGA-Awesome-list",
-        "id": 777943094
-    },
-    {
         "repo": "ipCorePackager",
         "description": "Scriptable IP-Core generator",
         "owner": "Nic30",
@@ -6227,19 +6214,6 @@
         "id": 1127892331
     },
     {
-        "repo": "Python",
-        "description": null,
-        "owner": "abhishekgaud7",
-        "stars": 0,
-        "forks": 0,
-        "size": 91,
-        "created": "2025-12-20T06:28:45+00:00",
-        "updated": "2026-02-01T03:00:15+00:00",
-        "pushed": "2026-02-01T03:00:12+00:00",
-        "url": "https://github.com/abhishekgaud7/Python",
-        "id": 1119940007
-    },
-    {
         "repo": "elision",
         "description": "A modern, Python-based Hardware Description Language (HDL) that compiles to SystemVerilog via CIRCT.",
         "owner": "yassinz",
@@ -6264,5 +6238,31 @@
         "pushed": "2026-02-02T00:01:24+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "FPGA-Awesome-list",
+        "description": "List of useful materials on FPGA topic",
+        "owner": "RDSik",
+        "stars": 9,
+        "forks": 0,
+        "size": 321,
+        "created": "2024-03-26T19:41:35+00:00",
+        "updated": "2026-02-02T19:46:45+00:00",
+        "pushed": "2026-02-02T19:46:42+00:00",
+        "url": "https://github.com/RDSik/FPGA-Awesome-list",
+        "id": 777943094
+    },
+    {
+        "repo": "Python",
+        "description": null,
+        "owner": "abhishekgaud7",
+        "stars": 0,
+        "forks": 0,
+        "size": 93,
+        "created": "2025-12-20T06:28:45+00:00",
+        "updated": "2026-02-02T17:59:29+00:00",
+        "pushed": "2026-02-02T17:59:26+00:00",
+        "url": "https://github.com/abhishekgaud7/Python",
+        "id": 1119940007
     }
 ]
