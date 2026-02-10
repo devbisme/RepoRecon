@@ -6006,19 +6006,6 @@
         "id": 63018738
     },
     {
-        "repo": "vcd-samples",
-        "description": "sample VCD files",
-        "owner": "wavedrom",
-        "stars": 40,
-        "forks": 2,
-        "size": 2676,
-        "created": "2021-08-08T07:23:17+00:00",
-        "updated": "2025-12-25T12:07:05+00:00",
-        "pushed": "2025-12-20T18:45:08+00:00",
-        "url": "https://github.com/wavedrom/vcd-samples",
-        "id": 393889750
-    },
-    {
         "repo": "hwt",
         "description": "VHDL/Verilog/SystemC code generator, simulator API written in python/c++",
         "owner": "Nic30",
@@ -6253,15 +6240,28 @@
         "id": 143520625
     },
     {
+        "repo": "vcd-samples",
+        "description": "sample VCD files",
+        "owner": "wavedrom",
+        "stars": 42,
+        "forks": 2,
+        "size": 4384,
+        "created": "2021-08-08T07:23:17+00:00",
+        "updated": "2026-02-10T07:02:04+00:00",
+        "pushed": "2026-02-10T07:02:00+00:00",
+        "url": "https://github.com/wavedrom/vcd-samples",
+        "id": 393889750
+    },
+    {
         "repo": "Python",
         "description": null,
         "owner": "abhishekgaud7",
         "stars": 0,
         "forks": 0,
-        "size": 108,
+        "size": 109,
         "created": "2025-12-20T06:28:45+00:00",
-        "updated": "2026-02-09T05:11:33+00:00",
-        "pushed": "2026-02-09T05:11:30+00:00",
+        "updated": "2026-02-10T05:50:18+00:00",
+        "pushed": "2026-02-10T05:50:15+00:00",
         "url": "https://github.com/abhishekgaud7/Python",
         "id": 1119940007
     }

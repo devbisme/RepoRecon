@@ -2366,19 +2366,6 @@
         "id": 1111577545
     },
     {
-        "repo": "skidl",
-        "description": "SKiDL is a library that lets you design electronic circuits using Python.",
-        "owner": "devbisme",
-        "stars": 1305,
-        "forks": 152,
-        "size": 70414,
-        "created": "2016-08-16T19:21:55+00:00",
-        "updated": "2026-01-12T01:19:15+00:00",
-        "pushed": "2025-12-26T16:25:03+00:00",
-        "url": "https://github.com/devbisme/skidl",
-        "id": 65847289
-    },
-    {
         "repo": "skidl-feedstock",
         "description": "A conda-smithy repository for skidl.",
         "owner": "conda-forge",
@@ -2626,19 +2613,6 @@
         "id": 768320430
     },
     {
-        "repo": "hardforge",
-        "description": "Ai powered hardware design assistant ",
-        "owner": "joshlevylabs",
-        "stars": 0,
-        "forks": 0,
-        "size": 182,
-        "created": "2026-02-06T22:41:56+00:00",
-        "updated": "2026-02-06T23:38:47+00:00",
-        "pushed": "2026-02-06T23:38:42+00:00",
-        "url": "https://github.com/joshlevylabs/hardforge",
-        "id": 1151789491
-    },
-    {
         "repo": "PCBSchemaGen",
         "description": null,
         "owner": "HZou9",
@@ -2665,15 +2639,41 @@
         "id": 1150683649
     },
     {
+        "repo": "skidl",
+        "description": "SKiDL is a library that lets you design electronic circuits using Python.",
+        "owner": "devbisme",
+        "stars": 1342,
+        "forks": 156,
+        "size": 70416,
+        "created": "2016-08-16T19:21:55+00:00",
+        "updated": "2026-02-09T19:38:35+00:00",
+        "pushed": "2026-02-08T18:36:17+00:00",
+        "url": "https://github.com/devbisme/skidl",
+        "id": 65847289
+    },
+    {
+        "repo": "hardforge",
+        "description": "Ai powered hardware design assistant ",
+        "owner": "joshlevylabs",
+        "stars": 0,
+        "forks": 0,
+        "size": 260,
+        "created": "2026-02-06T22:41:56+00:00",
+        "updated": "2026-02-09T23:36:26+00:00",
+        "pushed": "2026-02-09T23:36:22+00:00",
+        "url": "https://github.com/joshlevylabs/hardforge",
+        "id": 1151789491
+    },
+    {
         "repo": "autopilot",
         "description": "An ML Autopilot designed and written almost entirely by Google AntiGravity.",
         "owner": "ieb",
         "stars": 0,
         "forks": 0,
-        "size": 1440,
+        "size": 1673,
         "created": "2026-01-19T13:21:03+00:00",
-        "updated": "2026-02-08T08:42:29+00:00",
-        "pushed": "2026-02-08T08:42:26+00:00",
+        "updated": "2026-02-09T15:32:08+00:00",
+        "pushed": "2026-02-09T15:32:04+00:00",
         "url": "https://github.com/ieb/autopilot",
         "id": 1137514732
     }
