@@ -48113,19 +48113,6 @@
         "id": 439560352
     },
     {
-        "repo": "riscfetch",
-        "description": null,
-        "owner": "kako-jun",
-        "stars": 0,
-        "forks": 0,
-        "size": 363,
-        "created": "2025-11-16T16:15:16+00:00",
-        "updated": "2025-12-20T07:17:47+00:00",
-        "pushed": "2025-12-20T07:17:44+00:00",
-        "url": "https://github.com/kako-jun/riscfetch",
-        "id": 1097672660
-    },
-    {
         "repo": "Avalon1126pro",
         "description": null,
         "owner": "quaxistech",
@@ -48761,19 +48748,6 @@
         "pushed": "2025-12-28T09:45:00+00:00",
         "url": "https://github.com/wjoss/25-nuedc-c",
         "id": 1124064863
-    },
-    {
-        "repo": "awesome-pretrained-chinese-nlp-models",
-        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
-        "owner": "lonePatient",
-        "stars": 5501,
-        "forks": 511,
-        "size": 1193,
-        "created": "2019-05-25T15:46:00+00:00",
-        "updated": "2026-01-12T07:10:48+00:00",
-        "pushed": "2025-12-14T02:18:41+00:00",
-        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
-        "id": 188584527
     },
     {
         "repo": "-yolo-",
@@ -50726,19 +50700,6 @@
         "id": 1136161092
     },
     {
-        "repo": "flippy-openwrt-actions",
-        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
-        "owner": "ophub",
-        "stars": 272,
-        "forks": 230,
-        "size": 308,
-        "created": "2021-04-21T05:45:00+00:00",
-        "updated": "2026-02-10T11:02:50+00:00",
-        "pushed": "2026-02-13T13:52:51+00:00",
-        "url": "https://github.com/ophub/flippy-openwrt-actions",
-        "id": 360045993
-    },
-    {
         "repo": "IOT-cookbook",
         "description": "IOT Arduino and MicroPython script cookbook",
         "owner": "tommykho",
@@ -50750,19 +50711,6 @@
         "pushed": "2026-02-14T00:06:17+00:00",
         "url": "https://github.com/tommykho/IOT-cookbook",
         "id": 236406820
-    },
-    {
-        "repo": "cdc-badge",
-        "description": "Electronic conference badge with TROPIC01 and ESP32-S3",
-        "owner": "riatlabs",
-        "stars": 23,
-        "forks": 3,
-        "size": 21940,
-        "created": "2025-09-03T12:26:37+00:00",
-        "updated": "2026-02-13T10:38:52+00:00",
-        "pushed": "2026-02-13T10:38:49+00:00",
-        "url": "https://github.com/riatlabs/cdc-badge",
-        "id": 1049736713
     },
     {
         "repo": "ESP32_Teensy_RC_MaixCam",
@@ -50802,19 +50750,6 @@
         "pushed": "2026-02-13T13:48:02+00:00",
         "url": "https://github.com/gubowen20071022/script",
         "id": 1156984349
-    },
-    {
-        "repo": "LicheeSG-Nano-Build",
-        "description": "LicheeRV-Nano-Build with submodules",
-        "owner": "scpcom",
-        "stars": 148,
-        "forks": 21,
-        "size": 51544,
-        "created": "2024-08-08T22:08:38+00:00",
-        "updated": "2026-02-15T03:30:20+00:00",
-        "pushed": "2026-02-15T03:40:18+00:00",
-        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
-        "id": 840056339
     },
     {
         "repo": "micropython-ulab",
@@ -50869,19 +50804,6 @@
         "id": 1157869502
     },
     {
-        "repo": "MaixFace",
-        "description": "\ud83e\udde0 Build an AI-based face recognition access control system with MaixFace, offering modular design and IoT automation for enhanced security solutions.",
-        "owner": "omkar014",
-        "stars": 0,
-        "forks": 0,
-        "size": 3448,
-        "created": "2025-11-30T17:15:59+00:00",
-        "updated": "2026-02-15T06:58:43+00:00",
-        "pushed": "2026-02-15T06:58:40+00:00",
-        "url": "https://github.com/omkar014/MaixFace",
-        "id": 1107151500
-    },
-    {
         "repo": "awesome-ai-tools",
         "description": "\ud83d\udd34 VERY LARGE AI TOOL LIST! \ud83d\udd34  Curated list of AI Tools  - Updated 2026",
         "owner": "eudk",
@@ -50908,17 +50830,95 @@
         "id": 1157757262
     },
     {
+        "repo": "LicheeSG-Nano-Build",
+        "description": "LicheeRV-Nano-Build with submodules",
+        "owner": "scpcom",
+        "stars": 148,
+        "forks": 21,
+        "size": 51512,
+        "created": "2024-08-08T22:08:38+00:00",
+        "updated": "2026-02-16T02:25:14+00:00",
+        "pushed": "2026-02-16T02:26:37+00:00",
+        "url": "https://github.com/scpcom/LicheeSG-Nano-Build",
+        "id": 840056339
+    },
+    {
+        "repo": "flippy-openwrt-actions",
+        "description": "OpenWrt packaging Actions. Support Amlogic, Rockchip and Allwinner boxes.",
+        "owner": "ophub",
+        "stars": 273,
+        "forks": 232,
+        "size": 308,
+        "created": "2021-04-21T05:45:00+00:00",
+        "updated": "2026-02-15T16:19:47+00:00",
+        "pushed": "2026-02-15T09:05:24+00:00",
+        "url": "https://github.com/ophub/flippy-openwrt-actions",
+        "id": 360045993
+    },
+    {
+        "repo": "cdc-badge",
+        "description": "Electronic conference badge with TROPIC01 and ESP32-S3",
+        "owner": "riatlabs",
+        "stars": 24,
+        "forks": 3,
+        "size": 16405,
+        "created": "2025-09-03T12:26:37+00:00",
+        "updated": "2026-02-15T12:36:42+00:00",
+        "pushed": "2026-02-15T12:36:38+00:00",
+        "url": "https://github.com/riatlabs/cdc-badge",
+        "id": 1049736713
+    },
+    {
+        "repo": "riscfetch",
+        "description": "System information tool for RISC-V. 144 ISA extensions, 13 vendor logos, JSON output.",
+        "owner": "kako-jun",
+        "stars": 0,
+        "forks": 0,
+        "size": 348,
+        "created": "2025-11-16T16:15:16+00:00",
+        "updated": "2026-02-16T05:15:54+00:00",
+        "pushed": "2026-02-16T05:15:50+00:00",
+        "url": "https://github.com/kako-jun/riscfetch",
+        "id": 1097672660
+    },
+    {
+        "repo": "MaixFace",
+        "description": "\ud83e\udde0 Build an AI-based face recognition access control system with MaixFace, offering modular design and IoT automation for enhanced security solutions.",
+        "owner": "omkar014",
+        "stars": 0,
+        "forks": 0,
+        "size": 3448,
+        "created": "2025-11-30T17:15:59+00:00",
+        "updated": "2026-02-16T07:16:04+00:00",
+        "pushed": "2026-02-16T07:16:01+00:00",
+        "url": "https://github.com/omkar014/MaixFace",
+        "id": 1107151500
+    },
+    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "DIPTE",
         "stars": 23,
         "forks": 3,
-        "size": 7561,
+        "size": 8086,
         "created": "2023-08-31T01:07:36+00:00",
-        "updated": "2026-02-15T03:31:18+00:00",
-        "pushed": "2026-02-15T03:31:16+00:00",
+        "updated": "2026-02-16T03:29:40+00:00",
+        "pushed": "2026-02-16T03:29:36+00:00",
         "url": "https://github.com/DIPTE/awesome-stars",
         "id": 685317589
+    },
+    {
+        "repo": "santos-e-beatos",
+        "description": null,
+        "owner": "juninmd",
+        "stars": 1,
+        "forks": 0,
+        "size": 43097,
+        "created": "2023-10-13T19:51:59+00:00",
+        "updated": "2026-02-15T09:33:42+00:00",
+        "pushed": "2026-02-15T09:37:44+00:00",
+        "url": "https://github.com/juninmd/santos-e-beatos",
+        "id": 704677057
     },
     {
         "repo": "Nexus",
@@ -50928,23 +50928,10 @@
         "forks": 0,
         "size": 288,
         "created": "2026-02-14T18:28:33+00:00",
-        "updated": "2026-02-15T03:14:57+00:00",
-        "pushed": "2026-02-14T18:28:36+00:00",
+        "updated": "2026-02-16T07:02:29+00:00",
+        "pushed": "2026-02-16T07:02:25+00:00",
         "url": "https://github.com/wangqioo/Nexus",
         "id": 1158061960
-    },
-    {
-        "repo": "santos-e-beatos",
-        "description": null,
-        "owner": "juninmd",
-        "stars": 1,
-        "forks": 0,
-        "size": 43088,
-        "created": "2023-10-13T19:51:59+00:00",
-        "updated": "2026-02-14T09:32:50+00:00",
-        "pushed": "2026-02-14T09:32:46+00:00",
-        "url": "https://github.com/juninmd/santos-e-beatos",
-        "id": 704677057
     },
     {
         "repo": "awesome-stars",
@@ -50952,12 +50939,38 @@
         "owner": "silentEAG",
         "stars": 11,
         "forks": 2,
-        "size": 3346,
+        "size": 3348,
         "created": "2023-12-13T06:58:33+00:00",
-        "updated": "2026-02-15T03:28:02+00:00",
-        "pushed": "2026-02-15T03:27:59+00:00",
+        "updated": "2026-02-16T03:26:04+00:00",
+        "pushed": "2026-02-16T03:26:01+00:00",
         "url": "https://github.com/silentEAG/awesome-stars",
         "id": 731012323
+    },
+    {
+        "repo": "openclaw",
+        "description": null,
+        "owner": "xfanth",
+        "stars": 1,
+        "forks": 0,
+        "size": 349,
+        "created": "2026-02-12T21:53:40+00:00",
+        "updated": "2026-02-15T23:09:21+00:00",
+        "pushed": "2026-02-16T00:22:49+00:00",
+        "url": "https://github.com/xfanth/openclaw",
+        "id": 1156635770
+    },
+    {
+        "repo": "awesome-pretrained-chinese-nlp-models",
+        "description": "Awesome Pretrained Chinese NLP Models\uff0c\u9ad8\u8d28\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b&\u5927\u6a21\u578b&\u591a\u6a21\u6001\u6a21\u578b&\u5927\u8bed\u8a00\u6a21\u578b\u96c6\u5408",
+        "owner": "lonePatient",
+        "stars": 5516,
+        "forks": 511,
+        "size": 1193,
+        "created": "2019-05-25T15:46:00+00:00",
+        "updated": "2026-02-16T06:24:40+00:00",
+        "pushed": "2026-02-16T06:24:37+00:00",
+        "url": "https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models",
+        "id": 188584527
     },
     {
         "repo": "SAFE-AI-License",
@@ -50967,8 +50980,8 @@
         "forks": 0,
         "size": 1370,
         "created": "2024-08-13T21:22:58+00:00",
-        "updated": "2026-02-15T06:22:35+00:00",
-        "pushed": "2026-02-15T06:22:32+00:00",
+        "updated": "2026-02-16T06:39:58+00:00",
+        "pushed": "2026-02-16T06:39:55+00:00",
         "url": "https://github.com/izumi0214/SAFE-AI-License",
         "id": 842189921
     },
@@ -50980,8 +50993,8 @@
         "forks": 0,
         "size": 1458,
         "created": "2025-12-07T07:36:28+00:00",
-        "updated": "2026-02-15T07:00:20+00:00",
-        "pushed": "2026-02-15T07:00:16+00:00",
+        "updated": "2026-02-16T07:17:39+00:00",
+        "pushed": "2026-02-16T07:17:35+00:00",
         "url": "https://github.com/hassanIqbal1994/kernel-os",
         "id": 1111564689
     },
@@ -50991,10 +51004,10 @@
         "owner": "androidtrackers",
         "stars": 151,
         "forks": 39,
-        "size": 1215828,
+        "size": 1216360,
         "created": "2018-04-17T18:44:22+00:00",
-        "updated": "2026-02-14T12:46:28+00:00",
-        "pushed": "2026-02-14T12:46:24+00:00",
+        "updated": "2026-02-15T12:49:14+00:00",
+        "pushed": "2026-02-15T12:49:11+00:00",
         "url": "https://github.com/androidtrackers/certified-android-devices",
         "id": 129950175
     },
@@ -51004,10 +51017,10 @@
         "owner": "hiifong",
         "stars": 17,
         "forks": 5,
-        "size": 147462,
+        "size": 148030,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2026-02-15T04:00:04+00:00",
-        "pushed": "2026-02-15T04:00:00+00:00",
+        "updated": "2026-02-16T04:01:12+00:00",
+        "pushed": "2026-02-16T04:01:08+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -51020,7 +51033,7 @@
         "size": 259,
         "created": "2023-10-28T08:34:51+00:00",
         "updated": "2026-02-13T12:08:22+00:00",
-        "pushed": "2026-02-15T00:23:41+00:00",
+        "pushed": "2026-02-16T00:22:55+00:00",
         "url": "https://github.com/lupyuen/nuttx-ox64",
         "id": 711107946
     },
@@ -51030,10 +51043,10 @@
         "owner": "zhuozhiyongde",
         "stars": 36,
         "forks": 2,
-        "size": 2927,
+        "size": 2931,
         "created": "2025-01-16T00:04:43+00:00",
-        "updated": "2026-02-15T01:44:00+00:00",
-        "pushed": "2026-02-15T01:43:56+00:00",
+        "updated": "2026-02-16T01:27:28+00:00",
+        "pushed": "2026-02-16T01:27:25+00:00",
         "url": "https://github.com/zhuozhiyongde/Stargazer",
         "id": 917416797
     }
