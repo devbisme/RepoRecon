@@ -3367,19 +3367,6 @@
         "id": 323667170
     },
     {
-        "repo": "CIC",
-        "description": "HDL code for a complex multiplier with AXI stream interface",
-        "owner": "catkira",
-        "stars": 10,
-        "forks": 4,
-        "size": 2059,
-        "created": "2021-01-10T19:53:42Z",
-        "updated": "2023-06-03T19:40:04Z",
-        "pushed": "2023-02-07T20:31:37Z",
-        "url": "https://github.com/catkira/CIC",
-        "id": 328466845
-    },
-    {
         "repo": "myHdl_Projects",
         "description": "EE361 myHDL Projects",
         "owner": "aibtw",
@@ -6290,5 +6277,18 @@
         "pushed": "2026-02-22T11:57:17+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "CIC",
+        "description": "HDL code for a complex multiplier with AXI stream interface",
+        "owner": "catkira",
+        "stars": 16,
+        "forks": 9,
+        "size": 2068,
+        "created": "2021-01-10T19:53:42+00:00",
+        "updated": "2026-02-23T21:28:26+00:00",
+        "pushed": "2026-02-23T21:28:15+00:00",
+        "url": "https://github.com/catkira/CIC",
+        "id": 328466845
     }
 ]
