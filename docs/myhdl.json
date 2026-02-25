@@ -6240,19 +6240,6 @@
         "id": 1161748607
     },
     {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 8,
-        "forks": 0,
-        "size": 7173,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2026-02-21T10:18:08+00:00",
-        "pushed": "2026-02-21T10:18:05+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
-    },
-    {
         "repo": "dsd",
         "description": "Digital System Design",
         "owner": "kevinwlu",
@@ -6290,5 +6277,18 @@
         "pushed": "2026-02-23T21:28:15+00:00",
         "url": "https://github.com/catkira/CIC",
         "id": 328466845
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 8,
+        "forks": 0,
+        "size": 7173,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2026-02-25T07:00:37+00:00",
+        "pushed": "2026-02-25T07:00:34+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
     }
 ]
