@@ -6084,19 +6084,6 @@
         "id": 1131750041
     },
     {
-        "repo": "Kea",
-        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
-        "owner": "SmartAcoustics",
-        "stars": 9,
-        "forks": 3,
-        "size": 836,
-        "created": "2018-12-17T13:05:20+00:00",
-        "updated": "2026-01-21T10:46:49+00:00",
-        "pushed": "2026-01-21T10:46:43+00:00",
-        "url": "https://github.com/SmartAcoustics/Kea",
-        "id": 162131770
-    },
-    {
         "repo": "Python-Tutorial",
         "description": "\"Simplicity is prerequisite for reliability.\" \u2015 Edsger W. Dijkstra",
         "owner": "SVVenugopalRao",
@@ -6240,19 +6227,6 @@
         "id": 1161748607
     },
     {
-        "repo": "HwLang",
-        "description": null,
-        "owner": "KarelPeeters",
-        "stars": 7,
-        "forks": 0,
-        "size": 4174,
-        "created": "2024-02-05T00:57:17+00:00",
-        "updated": "2026-02-22T11:57:22+00:00",
-        "pushed": "2026-02-22T11:57:17+00:00",
-        "url": "https://github.com/KarelPeeters/HwLang",
-        "id": 752856131
-    },
-    {
         "repo": "CIC",
         "description": "HDL code for a complex multiplier with AXI stream interface",
         "owner": "catkira",
@@ -6279,16 +6253,55 @@
         "id": 143520625
     },
     {
+        "repo": "Kea",
+        "description": "Some HDL tools built on MyHDL, including a register subsystem.",
+        "owner": "SmartAcoustics",
+        "stars": 9,
+        "forks": 3,
+        "size": 850,
+        "created": "2018-12-17T13:05:20+00:00",
+        "updated": "2026-02-27T12:25:09+00:00",
+        "pushed": "2026-02-27T12:25:04+00:00",
+        "url": "https://github.com/SmartAcoustics/Kea",
+        "id": 162131770
+    },
+    {
         "repo": "cl-py-generator",
         "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
         "owner": "plops",
         "stars": 8,
         "forks": 0,
-        "size": 7215,
+        "size": 7281,
         "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2026-02-26T20:39:10+00:00",
-        "pushed": "2026-02-26T20:39:07+00:00",
+        "updated": "2026-02-28T05:57:40+00:00",
+        "pushed": "2026-02-28T05:57:35+00:00",
         "url": "https://github.com/plops/cl-py-generator",
         "id": 154458175
+    },
+    {
+        "repo": "26a-bits-lab-myhdl-luciano-soares",
+        "description": "26a-bits-26a-bits-lab-myhdl-lab-myhdl-comb created by GitHub Classroom",
+        "owner": "insper-classroom",
+        "stars": 0,
+        "forks": 0,
+        "size": 7,
+        "created": "2026-02-25T21:06:07+00:00",
+        "updated": "2026-02-27T17:47:39+00:00",
+        "pushed": "2026-02-25T21:26:27+00:00",
+        "url": "https://github.com/insper-classroom/26a-bits-lab-myhdl-luciano-soares",
+        "id": 1167006709
+    },
+    {
+        "repo": "HwLang",
+        "description": null,
+        "owner": "KarelPeeters",
+        "stars": 7,
+        "forks": 0,
+        "size": 4207,
+        "created": "2024-02-05T00:57:17+00:00",
+        "updated": "2026-02-27T23:18:43+00:00",
+        "pushed": "2026-02-27T23:18:39+00:00",
+        "url": "https://github.com/KarelPeeters/HwLang",
+        "id": 752856131
     }
 ]
