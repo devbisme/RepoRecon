@@ -1547,19 +1547,6 @@
         "id": 940092791
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 2007,
-        "forks": 186,
-        "size": 218,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2025-03-10T09:10:58+00:00",
-        "pushed": "2025-03-10T02:53:30+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "cheapaudio",
         "description": "CheapSkate Audio for Analog DSP's and TI Digital Amps",
         "owner": "aselle",
@@ -2780,5 +2767,44 @@
         "pushed": "2026-02-28T16:42:07+00:00",
         "url": "https://github.com/atreyakamat/Skidl",
         "id": 1078085744
+    },
+    {
+        "repo": "SYNTHETICA_Lab",
+        "description": null,
+        "owner": "michaelsedbon",
+        "stars": 0,
+        "forks": 0,
+        "size": 16735,
+        "created": "2026-02-19T15:10:42+00:00",
+        "updated": "2026-03-02T21:57:39+00:00",
+        "pushed": "2026-03-02T21:57:35+00:00",
+        "url": "https://github.com/michaelsedbon/SYNTHETICA_Lab",
+        "id": 1161830753
+    },
+    {
+        "repo": "mixtee",
+        "description": "Open source digital audio mixer",
+        "owner": "openmusictools",
+        "stars": 0,
+        "forks": 0,
+        "size": 2729,
+        "created": "2026-02-28T09:43:03+00:00",
+        "updated": "2026-03-02T10:12:16+00:00",
+        "pushed": "2026-03-02T10:12:11+00:00",
+        "url": "https://github.com/openmusictools/mixtee",
+        "id": 1169179034
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 2269,
+        "forks": 218,
+        "size": 128,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2026-03-02T21:09:09+00:00",
+        "pushed": "2026-03-02T13:40:07+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
     }
 ]

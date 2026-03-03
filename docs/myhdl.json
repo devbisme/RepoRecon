@@ -5473,19 +5473,6 @@
         "id": 936836371
     },
     {
-        "repo": "awesome-opensource-hardware",
-        "description": "List of awesome open source hardware tools, generators, and reusable designs",
-        "owner": "aolofsson",
-        "stars": 2007,
-        "forks": 186,
-        "size": 218,
-        "created": "2022-04-07T19:18:24+00:00",
-        "updated": "2025-03-10T09:10:58+00:00",
-        "pushed": "2025-03-10T02:53:30+00:00",
-        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
-        "id": 479118982
-    },
-    {
         "repo": "tt10-py-checkers",
         "description": null,
         "owner": "htfab",
@@ -6253,19 +6240,6 @@
         "id": 162131770
     },
     {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 8,
-        "forks": 0,
-        "size": 7281,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2026-02-28T05:57:40+00:00",
-        "pushed": "2026-02-28T05:57:35+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
-    },
-    {
         "repo": "26a-bits-lab-myhdl-luciano-soares",
         "description": "26a-bits-26a-bits-lab-myhdl-lab-myhdl-comb created by GitHub Classroom",
         "owner": "insper-classroom",
@@ -6303,5 +6277,31 @@
         "pushed": "2026-03-01T00:04:03+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "awesome-opensource-hardware",
+        "description": "List of awesome open source hardware tools, generators, and reusable designs",
+        "owner": "aolofsson",
+        "stars": 2269,
+        "forks": 218,
+        "size": 128,
+        "created": "2022-04-07T19:18:24+00:00",
+        "updated": "2026-03-02T21:09:09+00:00",
+        "pushed": "2026-03-02T13:40:07+00:00",
+        "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+        "id": 479118982
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 8,
+        "forks": 0,
+        "size": 7304,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2026-03-03T06:52:46+00:00",
+        "pushed": "2026-03-03T06:52:43+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
     }
 ]
