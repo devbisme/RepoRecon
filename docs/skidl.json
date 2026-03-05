@@ -2626,19 +2626,6 @@
         "id": 1155423577
     },
     {
-        "repo": "autopilot",
-        "description": "An ML Autopilot designed and written almost entirely by Google AntiGravity.",
-        "owner": "ieb",
-        "stars": 0,
-        "forks": 0,
-        "size": 1953,
-        "created": "2026-01-19T13:21:03+00:00",
-        "updated": "2026-02-13T11:53:18+00:00",
-        "pushed": "2026-02-13T11:53:53+00:00",
-        "url": "https://github.com/ieb/autopilot",
-        "id": 1137514732
-    },
-    {
         "repo": "liquidee",
         "description": null,
         "owner": "chiralitie",
@@ -2665,19 +2652,6 @@
         "id": 1164646687
     },
     {
-        "repo": "SKidle",
-        "description": null,
-        "owner": "tom1835566",
-        "stars": 0,
-        "forks": 0,
-        "size": 48,
-        "created": "2026-02-21T19:25:11+00:00",
-        "updated": "2026-02-24T17:43:03+00:00",
-        "pushed": "2026-02-24T17:43:00+00:00",
-        "url": "https://github.com/tom1835566/SKidle",
-        "id": 1163535453
-    },
-    {
         "repo": "Smartears",
         "description": "An open-source, invisible wireless audio system using Bluetooth and magnetic inductive coupling.",
         "owner": "Deddoom",
@@ -2689,19 +2663,6 @@
         "pushed": "2026-02-25T15:12:44+00:00",
         "url": "https://github.com/Deddoom/Smartears",
         "id": 1166750977
-    },
-    {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "stahlnow",
-        "stars": 0,
-        "forks": 0,
-        "size": 998,
-        "created": "2024-03-06T21:46:55+00:00",
-        "updated": "2026-02-26T00:53:56+00:00",
-        "pushed": "2026-02-26T00:53:52+00:00",
-        "url": "https://github.com/stahlnow/awesome-stars",
-        "id": 768320430
     },
     {
         "repo": "skidl",
@@ -2769,19 +2730,6 @@
         "id": 1078085744
     },
     {
-        "repo": "mixtee",
-        "description": "Open source digital audio mixer",
-        "owner": "openmusictools",
-        "stars": 0,
-        "forks": 0,
-        "size": 2729,
-        "created": "2026-02-28T09:43:03+00:00",
-        "updated": "2026-03-02T10:12:16+00:00",
-        "pushed": "2026-03-02T10:12:11+00:00",
-        "url": "https://github.com/openmusictools/mixtee",
-        "id": 1169179034
-    },
-    {
         "repo": "awesome-opensource-hardware",
         "description": "List of awesome open source hardware tools, generators, and reusable designs",
         "owner": "aolofsson",
@@ -2795,16 +2743,81 @@
         "id": 479118982
     },
     {
+        "repo": "aieda-greenhouse",
+        "description": "AI generate schematic and code for greenhouse controlling.",
+        "owner": "yplam",
+        "stars": 0,
+        "forks": 0,
+        "size": 0,
+        "created": "2026-03-05T06:45:58+00:00",
+        "updated": "2026-03-05T06:46:26+00:00",
+        "pushed": "2026-03-05T06:46:23+00:00",
+        "url": "https://github.com/yplam/aieda-greenhouse",
+        "id": 1173245894
+    },
+    {
+        "repo": "SKidle",
+        "description": null,
+        "owner": "tom1835566",
+        "stars": 0,
+        "forks": 0,
+        "size": 59,
+        "created": "2026-02-21T19:25:11+00:00",
+        "updated": "2026-03-04T17:13:08+00:00",
+        "pushed": "2026-03-04T17:09:03+00:00",
+        "url": "https://github.com/tom1835566/SKidle",
+        "id": 1163535453
+    },
+    {
         "repo": "SYNTHETICA_Lab",
         "description": null,
         "owner": "michaelsedbon",
         "stars": 0,
         "forks": 0,
-        "size": 344792,
+        "size": 344889,
         "created": "2026-02-19T15:10:42+00:00",
-        "updated": "2026-03-03T20:17:17+00:00",
-        "pushed": "2026-03-03T20:17:14+00:00",
+        "updated": "2026-03-04T21:28:19+00:00",
+        "pushed": "2026-03-04T21:28:15+00:00",
         "url": "https://github.com/michaelsedbon/SYNTHETICA_Lab",
         "id": 1161830753
+    },
+    {
+        "repo": "mixtee",
+        "description": "Open source digital audio mixer",
+        "owner": "openmusictools",
+        "stars": 0,
+        "forks": 0,
+        "size": 2729,
+        "created": "2026-02-28T09:43:03+00:00",
+        "updated": "2026-03-05T06:16:21+00:00",
+        "pushed": "2026-03-05T06:16:17+00:00",
+        "url": "https://github.com/openmusictools/mixtee",
+        "id": 1169179034
+    },
+    {
+        "repo": "autopilot",
+        "description": "An ML Autopilot designed and written almost entirely by Google AntiGravity.",
+        "owner": "ieb",
+        "stars": 0,
+        "forks": 0,
+        "size": 2116,
+        "created": "2026-01-19T13:21:03+00:00",
+        "updated": "2026-03-04T18:12:56+00:00",
+        "pushed": "2026-03-04T18:12:51+00:00",
+        "url": "https://github.com/ieb/autopilot",
+        "id": 1137514732
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "stahlnow",
+        "stars": 0,
+        "forks": 0,
+        "size": 1147,
+        "created": "2024-03-06T21:46:55+00:00",
+        "updated": "2026-03-05T00:56:27+00:00",
+        "pushed": "2026-03-05T00:56:24+00:00",
+        "url": "https://github.com/stahlnow/awesome-stars",
+        "id": 768320430
     }
 ]

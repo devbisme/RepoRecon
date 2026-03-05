@@ -19123,19 +19123,6 @@
         "id": 1107979643
     },
     {
-        "repo": "CXU-playground",
-        "description": "A template for a litex project",
-        "owner": "pmozil",
-        "stars": 0,
-        "forks": 0,
-        "size": 2253,
-        "created": "2025-02-09T08:56:38+00:00",
-        "updated": "2026-02-17T12:04:13+00:00",
-        "pushed": "2026-02-17T12:04:09+00:00",
-        "url": "https://github.com/pmozil/CXU-playground",
-        "id": 929730749
-    },
-    {
         "repo": "CFU-Playground-Fork",
         "description": "My own fork of CFU-Playground to work with it.",
         "owner": "youju26",
@@ -19524,19 +19511,6 @@
         "pushed": "2026-02-24T08:46:25+00:00",
         "url": "https://github.com/guruela/litex-aes-hardware-accelerator",
         "id": 1165510950
-    },
-    {
-        "repo": "VexRiscV-AI_Accelerator",
-        "description": null,
-        "owner": "Boostedx",
-        "stars": 0,
-        "forks": 0,
-        "size": 240800,
-        "created": "2026-02-24T16:27:36+00:00",
-        "updated": "2026-02-24T17:26:54+00:00",
-        "pushed": "2026-02-24T17:26:49+00:00",
-        "url": "https://github.com/Boostedx/VexRiscV-AI_Accelerator",
-        "id": 1165871270
     },
     {
         "repo": "UART_module",
@@ -20033,32 +20007,6 @@
         "id": 77744499
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "markemer",
-        "stars": 4,
-        "forks": 1,
-        "size": 47581,
-        "created": "2021-01-18T21:41:11+00:00",
-        "updated": "2026-03-03T01:05:15+00:00",
-        "pushed": "2026-03-03T01:05:12+00:00",
-        "url": "https://github.com/markemer/awesome-stars",
-        "id": 330793471
-    },
-    {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "utensil",
-        "stars": 28,
-        "forks": 9,
-        "size": 33643,
-        "created": "2019-02-21T12:56:56+00:00",
-        "updated": "2026-03-03T01:06:39+00:00",
-        "pushed": "2026-03-03T01:06:35+00:00",
-        "url": "https://github.com/utensil/awesome-stars",
-        "id": 171871908
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -20098,19 +20046,6 @@
         "id": 334882062
     },
     {
-        "repo": "litex_m2sdr",
-        "description": "LiteX based M2 SDR/RF FPGA board.",
-        "owner": "enjoy-digital",
-        "stars": 186,
-        "forks": 30,
-        "size": 9114,
-        "created": "2024-05-13T15:04:46+00:00",
-        "updated": "2026-03-03T18:19:52+00:00",
-        "pushed": "2026-03-03T19:10:04+00:00",
-        "url": "https://github.com/enjoy-digital/litex_m2sdr",
-        "id": 800027977
-    },
-    {
         "repo": "litex_wr_nic",
         "description": "LiteX based White Rabbit PCIe NIC developped for Warsaw University of Technology.",
         "owner": "enjoy-digital",
@@ -20135,19 +20070,6 @@
         "pushed": "2026-03-03T11:31:54+00:00",
         "url": "https://github.com/kuznia-rdzeni/coreblocks",
         "id": 468027705
-    },
-    {
-        "repo": "SweetAda",
-        "description": "Ada-language framework",
-        "owner": "gabriele-galeotti",
-        "stars": 50,
-        "forks": 5,
-        "size": 33361,
-        "created": "2021-07-30T22:55:39+00:00",
-        "updated": "2026-03-03T21:05:45+00:00",
-        "pushed": "2026-03-03T21:05:41+00:00",
-        "url": "https://github.com/gabriele-galeotti/SweetAda",
-        "id": 391203838
     },
     {
         "repo": "RF-Swift",
@@ -20176,19 +20098,6 @@
         "id": 1170587364
     },
     {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 2372,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2026-03-04T06:59:50+00:00",
-        "pushed": "2026-03-04T06:59:46+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
-    },
-    {
         "repo": "Multicore-RISC-V-Processors-Layout",
         "description": null,
         "owner": "vominhquan525",
@@ -20215,6 +20124,71 @@
         "id": 1166674946
     },
     {
+        "repo": "litex_m2sdr",
+        "description": "LiteX based M2 SDR/RF FPGA board.",
+        "owner": "enjoy-digital",
+        "stars": 188,
+        "forks": 30,
+        "size": 9239,
+        "created": "2024-05-13T15:04:46+00:00",
+        "updated": "2026-03-05T02:17:32+00:00",
+        "pushed": "2026-03-04T16:09:50+00:00",
+        "url": "https://github.com/enjoy-digital/litex_m2sdr",
+        "id": 800027977
+    },
+    {
+        "repo": "SweetAda",
+        "description": "Ada-language framework",
+        "owner": "gabriele-galeotti",
+        "stars": 50,
+        "forks": 5,
+        "size": 33370,
+        "created": "2021-07-30T22:55:39+00:00",
+        "updated": "2026-03-04T21:16:14+00:00",
+        "pushed": "2026-03-04T21:16:10+00:00",
+        "url": "https://github.com/gabriele-galeotti/SweetAda",
+        "id": 391203838
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 2378,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2026-03-05T07:02:53+00:00",
+        "pushed": "2026-03-05T07:02:49+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "CXU-playground",
+        "description": "A template for a litex project",
+        "owner": "pmozil",
+        "stars": 0,
+        "forks": 0,
+        "size": 2448,
+        "created": "2025-02-09T08:56:38+00:00",
+        "updated": "2026-03-05T06:22:25+00:00",
+        "pushed": "2026-03-05T06:22:22+00:00",
+        "url": "https://github.com/pmozil/CXU-playground",
+        "id": 929730749
+    },
+    {
+        "repo": "VexRiscV-AI_Accelerator",
+        "description": null,
+        "owner": "Boostedx",
+        "stars": 1,
+        "forks": 0,
+        "size": 240878,
+        "created": "2026-02-24T16:27:36+00:00",
+        "updated": "2026-03-04T16:18:56+00:00",
+        "pushed": "2026-03-04T16:16:54+00:00",
+        "url": "https://github.com/Boostedx/VexRiscV-AI_Accelerator",
+        "id": 1165871270
+    },
+    {
         "repo": "ecp5-hello",
         "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
         "owner": "Kuykakuy",
@@ -20222,8 +20196,8 @@
         "forks": 1,
         "size": 1973,
         "created": "2025-10-03T21:57:09+00:00",
-        "updated": "2026-03-04T04:52:37+00:00",
-        "pushed": "2026-03-04T04:52:33+00:00",
+        "updated": "2026-03-05T05:27:30+00:00",
+        "pushed": "2026-03-05T05:27:27+00:00",
         "url": "https://github.com/Kuykakuy/ecp5-hello",
         "id": 1069401140
     },
@@ -20233,12 +20207,38 @@
         "owner": "pbsds",
         "stars": 9,
         "forks": 0,
-        "size": 2524,
+        "size": 2526,
         "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2026-03-04T04:58:35+00:00",
-        "pushed": "2026-03-04T04:58:32+00:00",
+        "updated": "2026-03-05T05:01:30+00:00",
+        "pushed": "2026-03-05T05:01:27+00:00",
         "url": "https://github.com/pbsds/starred",
         "id": 545656186
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "markemer",
+        "stars": 4,
+        "forks": 1,
+        "size": 48989,
+        "created": "2021-01-18T21:41:11+00:00",
+        "updated": "2026-03-05T01:14:17+00:00",
+        "pushed": "2026-03-05T01:14:14+00:00",
+        "url": "https://github.com/markemer/awesome-stars",
+        "id": 330793471
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "utensil",
+        "stars": 29,
+        "forks": 9,
+        "size": 35358,
+        "created": "2019-02-21T12:56:56+00:00",
+        "updated": "2026-03-05T01:16:36+00:00",
+        "pushed": "2026-03-05T01:16:33+00:00",
+        "url": "https://github.com/utensil/awesome-stars",
+        "id": 171871908
     },
     {
         "repo": "starList",
@@ -20246,10 +20246,10 @@
         "owner": "hiifong",
         "stars": 17,
         "forks": 5,
-        "size": 147393,
+        "size": 147968,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2026-03-04T03:55:04+00:00",
-        "pushed": "2026-03-04T03:55:00+00:00",
+        "updated": "2026-03-05T03:55:49+00:00",
+        "pushed": "2026-03-05T03:55:45+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
     },
@@ -20259,10 +20259,10 @@
         "owner": "creatorrr",
         "stars": 0,
         "forks": 0,
-        "size": 20370,
+        "size": 21727,
         "created": "2025-12-09T06:37:22+00:00",
-        "updated": "2026-03-04T01:00:09+00:00",
-        "pushed": "2026-03-04T01:00:05+00:00",
+        "updated": "2026-03-05T01:10:12+00:00",
+        "pushed": "2026-03-05T01:10:09+00:00",
         "url": "https://github.com/creatorrr/awesome-stars",
         "id": 1112825356
     }
