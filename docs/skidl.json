@@ -2353,19 +2353,6 @@
         "id": 231973467
     },
     {
-        "repo": "engineering-design-plugin",
-        "description": null,
-        "owner": "koizumikento",
-        "stars": 0,
-        "forks": 0,
-        "size": 86,
-        "created": "2025-12-29T01:03:08+00:00",
-        "updated": "2025-12-29T02:24:59+00:00",
-        "pushed": "2025-12-29T02:24:55+00:00",
-        "url": "https://github.com/koizumikento/engineering-design-plugin",
-        "id": 1124406034
-    },
-    {
         "repo": "Swarm_UAV_ZVSystem_SCiDL_Emb_AI",
         "description": "HW: SKiDL/KiCad7 | AI: OpenCV/YOLO/Swarm-Algorithms |  Comms: LoRa/ESP-NOW/Mesh| Embedded: STM32/ESP32 -  SKiDL/KiCad 7 | Python 3.11+ | Poetry | Cython | ROS 2 Humble | OpenCV | TensorFlow Lite",
         "owner": "AlbinAlfadorson",
@@ -2769,32 +2756,6 @@
         "id": 1163535453
     },
     {
-        "repo": "mixtee",
-        "description": "Open source digital audio mixer",
-        "owner": "openmusictools",
-        "stars": 0,
-        "forks": 0,
-        "size": 2729,
-        "created": "2026-02-28T09:43:03+00:00",
-        "updated": "2026-03-05T06:16:21+00:00",
-        "pushed": "2026-03-05T06:16:17+00:00",
-        "url": "https://github.com/openmusictools/mixtee",
-        "id": 1169179034
-    },
-    {
-        "repo": "autopilot",
-        "description": "An ML Autopilot designed and written almost entirely by Google AntiGravity.",
-        "owner": "ieb",
-        "stars": 0,
-        "forks": 0,
-        "size": 2116,
-        "created": "2026-01-19T13:21:03+00:00",
-        "updated": "2026-03-04T18:12:56+00:00",
-        "pushed": "2026-03-04T18:12:51+00:00",
-        "url": "https://github.com/ieb/autopilot",
-        "id": 1137514732
-    },
-    {
         "repo": "awesome-stars",
         "description": null,
         "owner": "stahlnow",
@@ -2821,16 +2782,55 @@
         "id": 1172872715
     },
     {
+        "repo": "engineering-design-plugin",
+        "description": null,
+        "owner": "koizumikento",
+        "stars": 0,
+        "forks": 0,
+        "size": 346,
+        "created": "2025-12-29T01:03:08+00:00",
+        "updated": "2026-03-07T06:38:05+00:00",
+        "pushed": "2026-03-07T06:38:01+00:00",
+        "url": "https://github.com/koizumikento/engineering-design-plugin",
+        "id": 1124406034
+    },
+    {
         "repo": "SYNTHETICA_Lab",
         "description": null,
         "owner": "michaelsedbon",
         "stars": 0,
         "forks": 0,
-        "size": 344931,
+        "size": 345691,
         "created": "2026-02-19T15:10:42+00:00",
-        "updated": "2026-03-05T16:48:53+00:00",
-        "pushed": "2026-03-05T16:48:49+00:00",
+        "updated": "2026-03-07T01:01:27+00:00",
+        "pushed": "2026-03-07T01:01:24+00:00",
         "url": "https://github.com/michaelsedbon/SYNTHETICA_Lab",
         "id": 1161830753
+    },
+    {
+        "repo": "mixtee",
+        "description": "Open source digital audio mixer",
+        "owner": "openmusictools",
+        "stars": 0,
+        "forks": 0,
+        "size": 2938,
+        "created": "2026-02-28T09:43:03+00:00",
+        "updated": "2026-03-06T09:09:28+00:00",
+        "pushed": "2026-03-06T09:09:25+00:00",
+        "url": "https://github.com/openmusictools/mixtee",
+        "id": 1169179034
+    },
+    {
+        "repo": "autopilot",
+        "description": "An ML Autopilot designed and written almost entirely by Google AntiGravity.",
+        "owner": "ieb",
+        "stars": 0,
+        "forks": 0,
+        "size": 2181,
+        "created": "2026-01-19T13:21:03+00:00",
+        "updated": "2026-03-06T16:07:31+00:00",
+        "pushed": "2026-03-06T16:07:26+00:00",
+        "url": "https://github.com/ieb/autopilot",
+        "id": 1137514732
     }
 ]
