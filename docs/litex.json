@@ -13026,19 +13026,6 @@
         "id": 937495638
     },
     {
-        "repo": "OS",
-        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
-        "owner": "beryllium-org",
-        "stars": 281,
-        "forks": 17,
-        "size": 13630,
-        "created": "2021-12-02T19:07:40+00:00",
-        "updated": "2025-03-10T04:59:54+00:00",
-        "pushed": "2025-03-09T14:33:13+00:00",
-        "url": "https://github.com/beryllium-org/OS",
-        "id": 434342707
-    },
-    {
         "repo": "projet_long_g2",
         "description": "Repot for the INSA long project, C and vhdl implementations of toom-x for a LiteX compatible FPGA board.",
         "owner": "blavignac",
@@ -16040,19 +16027,6 @@
         "pushed": "2025-11-01T22:39:23+00:00",
         "url": "https://github.com/TallysCesarGB/fpgaWithLoRa",
         "id": 1087911975
-    },
-    {
-        "repo": "kernel",
-        "description": "CitOmni Kernel is a tiny PHP 8.2+ core that boots CitOmni apps. It provides the minimal App container, deep read-only config wrapper, deterministic vendor->providers->app merging, explicit service maps ($app->id), optional compiled caches, and a fail-fast philosophy. No magic-HTTP/CLI own delivery and error handling.",
-        "owner": "citomni",
-        "stars": 0,
-        "forks": 0,
-        "size": 201,
-        "created": "2025-09-21T22:22:45+00:00",
-        "updated": "2025-11-01T21:38:08+00:00",
-        "pushed": "2025-11-01T21:38:04+00:00",
-        "url": "https://github.com/citomni/kernel",
-        "id": 1061433469
     },
     {
         "repo": "Tarefa05-fpga-lora-aht10",
@@ -19656,19 +19630,6 @@
         "id": 1136252073
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars by stargazed",
-        "owner": "liuzhenqi77",
-        "stars": 24,
-        "forks": 2,
-        "size": 20302,
-        "created": "2019-09-26T15:03:52+00:00",
-        "updated": "2026-03-01T03:28:29+00:00",
-        "pushed": "2026-03-01T03:28:25+00:00",
-        "url": "https://github.com/liuzhenqi77/awesome-stars",
-        "id": 211116919
-    },
-    {
         "repo": "RiscVCores",
         "description": "Verilog code of open-source RISC-V cores (generated or otherwise)",
         "owner": "fafa1971",
@@ -19877,19 +19838,6 @@
         "id": 1165871270
     },
     {
-        "repo": "awesome-stars",
-        "description": null,
-        "owner": "creatorrr",
-        "stars": 0,
-        "forks": 0,
-        "size": 21727,
-        "created": "2025-12-09T06:37:22+00:00",
-        "updated": "2026-03-05T01:10:12+00:00",
-        "pushed": "2026-03-05T01:10:09+00:00",
-        "url": "https://github.com/creatorrr/awesome-stars",
-        "id": 1112825356
-    },
-    {
         "repo": "litex-boards",
         "description": "LiteX boards files",
         "owner": "litex-hub",
@@ -19914,19 +19862,6 @@
         "pushed": "2026-03-05T18:33:51+00:00",
         "url": "https://github.com/openrisc/tutorials",
         "id": 53802956
-    },
-    {
-        "repo": "RF-Swift",
-        "description": "\ud83d\ude80 A powerful multi-platform RF toolbox that deploys specialized radio, hardware, and other security tools in seconds on Linux, Windows, and macOS\u2014supporting x86_64, ARM64 (Raspberry Pi, Apple Silicon), and RISC-V architectures without disrupting your primary OS. \ud83d\udce1\u2728",
-        "owner": "PentHertz",
-        "stars": 288,
-        "forks": 15,
-        "size": 37497,
-        "created": "2024-05-18T13:38:03+00:00",
-        "updated": "2026-03-06T03:20:56+00:00",
-        "pushed": "2026-03-05T15:08:13+00:00",
-        "url": "https://github.com/PentHertz/RF-Swift",
-        "id": 802505489
     },
     {
         "repo": "litexl",
@@ -19968,19 +19903,6 @@
         "id": 330793471
     },
     {
-        "repo": "awesome-stars",
-        "description": "A curated list of my GitHub stars!",
-        "owner": "utensil",
-        "stars": 29,
-        "forks": 9,
-        "size": 37074,
-        "created": "2019-02-21T12:56:56+00:00",
-        "updated": "2026-03-06T01:18:59+00:00",
-        "pushed": "2026-03-06T01:18:55+00:00",
-        "url": "https://github.com/utensil/awesome-stars",
-        "id": 171871908
-    },
-    {
         "repo": "litex",
         "description": "Build your hardware, easily!",
         "owner": "enjoy-digital",
@@ -20018,19 +19940,6 @@
         "pushed": "2026-03-06T10:43:12+00:00",
         "url": "https://github.com/enjoy-digital/litepcie",
         "id": 42041717
-    },
-    {
-        "repo": "oss-cad-suite-build",
-        "description": "Multi-platform nightly builds of open source digital design and verification tools",
-        "owner": "YosysHQ",
-        "stars": 1375,
-        "forks": 111,
-        "size": 1267,
-        "created": "2021-02-01T08:34:29+00:00",
-        "updated": "2026-03-07T07:07:35+00:00",
-        "pushed": "2026-03-07T03:29:51+00:00",
-        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
-        "id": 334882062
     },
     {
         "repo": "litex_m2sdr",
@@ -20098,19 +20007,6 @@
         "id": 225642630
     },
     {
-        "repo": "SweetAda",
-        "description": "Ada-language framework",
-        "owner": "gabriele-galeotti",
-        "stars": 50,
-        "forks": 5,
-        "size": 33398,
-        "created": "2021-07-30T22:55:39+00:00",
-        "updated": "2026-03-06T23:27:50+00:00",
-        "pushed": "2026-03-06T23:27:46+00:00",
-        "url": "https://github.com/gabriele-galeotti/SweetAda",
-        "id": 391203838
-    },
-    {
         "repo": "Signaloid-C0-microSD-litex-I2C-demo",
         "description": "Litex demo for Signaloid C0-microSD using I2C peripherals",
         "owner": "signaloid",
@@ -20148,19 +20044,6 @@
         "pushed": "2026-03-06T12:55:41+00:00",
         "url": "https://github.com/signaloid/Signaloid-C0-microSD-litex-integration",
         "id": 872647183
-    },
-    {
-        "repo": "SantaCRC",
-        "description": "Config files for my GitHub profile.",
-        "owner": "SantaCRC",
-        "stars": 0,
-        "forks": 0,
-        "size": 2385,
-        "created": "2021-04-11T06:03:30+00:00",
-        "updated": "2026-03-07T06:53:23+00:00",
-        "pushed": "2026-03-07T06:53:20+00:00",
-        "url": "https://github.com/SantaCRC/SantaCRC",
-        "id": 356780986
     },
     {
         "repo": "gatemateA1LiteXMigenSnipplets",
@@ -20202,32 +20085,6 @@
         "id": 1175024243
     },
     {
-        "repo": "ecp5-hello",
-        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
-        "owner": "Kuykakuy",
-        "stars": 0,
-        "forks": 1,
-        "size": 1973,
-        "created": "2025-10-03T21:57:09+00:00",
-        "updated": "2026-03-07T07:01:48+00:00",
-        "pushed": "2026-03-07T07:01:45+00:00",
-        "url": "https://github.com/Kuykakuy/ecp5-hello",
-        "id": 1069401140
-    },
-    {
-        "repo": "starred",
-        "description": "A autogenerated list of all the github projects i've starred",
-        "owner": "pbsds",
-        "stars": 9,
-        "forks": 0,
-        "size": 2633,
-        "created": "2022-10-04T18:56:03+00:00",
-        "updated": "2026-03-07T04:51:47+00:00",
-        "pushed": "2026-03-07T04:51:44+00:00",
-        "url": "https://github.com/pbsds/starred",
-        "id": 545656186
-    },
-    {
         "repo": "gitweekly",
         "description": "\u6536\u96c6\u5404\u79cd\u6709\u8da3\u7684github\u9879\u76ee",
         "owner": "killvxk",
@@ -20254,17 +20111,186 @@
         "id": 310692215
     },
     {
+        "repo": "oss-cad-suite-build",
+        "description": "Multi-platform nightly builds of open source digital design and verification tools",
+        "owner": "YosysHQ",
+        "stars": 1375,
+        "forks": 111,
+        "size": 1267,
+        "created": "2021-02-01T08:34:29+00:00",
+        "updated": "2026-03-07T07:07:35+00:00",
+        "pushed": "2026-03-08T03:34:31+00:00",
+        "url": "https://github.com/YosysHQ/oss-cad-suite-build",
+        "id": 334882062
+    },
+    {
+        "repo": "OS",
+        "description": "Beryllium OS, a unix-like operating system for CircuitPython powered microcontrollers. (Formerly known as ljinux)",
+        "owner": "beryllium-org",
+        "stars": 315,
+        "forks": 17,
+        "size": 13633,
+        "created": "2021-12-02T19:07:40+00:00",
+        "updated": "2026-03-07T14:05:42+00:00",
+        "pushed": "2026-03-07T14:05:40+00:00",
+        "url": "https://github.com/beryllium-org/OS",
+        "id": 434342707
+    },
+    {
+        "repo": "SweetAda",
+        "description": "Ada-language framework",
+        "owner": "gabriele-galeotti",
+        "stars": 50,
+        "forks": 5,
+        "size": 33438,
+        "created": "2021-07-30T22:55:39+00:00",
+        "updated": "2026-03-07T14:55:59+00:00",
+        "pushed": "2026-03-07T14:55:55+00:00",
+        "url": "https://github.com/gabriele-galeotti/SweetAda",
+        "id": 391203838
+    },
+    {
+        "repo": "RF-Swift",
+        "description": "\ud83d\ude80 A powerful multi-platform RF toolbox that deploys specialized radio, hardware, and other security tools in seconds on Linux, Windows, and macOS\u2014supporting x86_64, ARM64 (Raspberry Pi, Apple Silicon), and RISC-V architectures without disrupting your primary OS. \ud83d\udce1\u2728",
+        "owner": "PentHertz",
+        "stars": 288,
+        "forks": 15,
+        "size": 37530,
+        "created": "2024-05-18T13:38:03+00:00",
+        "updated": "2026-03-07T14:11:50+00:00",
+        "pushed": "2026-03-07T23:55:01+00:00",
+        "url": "https://github.com/PentHertz/RF-Swift",
+        "id": 802505489
+    },
+    {
+        "repo": "sonata-linux",
+        "description": "A RISCV based linux for sonata-system boards, optimised for 8M hyper ram and 32M serial flash",
+        "owner": "jrrk2",
+        "stars": 0,
+        "forks": 0,
+        "size": 70,
+        "created": "2026-03-07T16:54:06+00:00",
+        "updated": "2026-03-07T17:49:38+00:00",
+        "pushed": "2026-03-08T06:05:15+00:00",
+        "url": "https://github.com/jrrk2/sonata-linux",
+        "id": 1175397485
+    },
+    {
+        "repo": "SantaCRC",
+        "description": "Config files for my GitHub profile.",
+        "owner": "SantaCRC",
+        "stars": 0,
+        "forks": 0,
+        "size": 2392,
+        "created": "2021-04-11T06:03:30+00:00",
+        "updated": "2026-03-08T06:54:57+00:00",
+        "pushed": "2026-03-08T06:54:54+00:00",
+        "url": "https://github.com/SantaCRC/SantaCRC",
+        "id": 356780986
+    },
+    {
+        "repo": "MLPerf-Tiny",
+        "description": "CFU-based hardware accelerator to optimize MLPerf Tiny image classification inference by implementing SIMD MAC operations, software kernel optimizations, hardware-accelerated quantization post-processing, and systolic-array\u2013based convolution (with im2col) to reduce latency while maintaining at least 75% accuracy.",
+        "owner": "wangzhongyuan11",
+        "stars": 0,
+        "forks": 0,
+        "size": 28796,
+        "created": "2026-03-07T12:24:03+00:00",
+        "updated": "2026-03-07T12:25:42+00:00",
+        "pushed": "2026-03-07T12:25:39+00:00",
+        "url": "https://github.com/wangzhongyuan11/MLPerf-Tiny",
+        "id": 1175231493
+    },
+    {
+        "repo": "ecp5-hello",
+        "description": "\ud83d\udc4b Simplify ECP5 FPGA development with this project, offering an easy-to-use template for quick setups and efficient design workflows.",
+        "owner": "Kuykakuy",
+        "stars": 0,
+        "forks": 1,
+        "size": 1973,
+        "created": "2025-10-03T21:57:09+00:00",
+        "updated": "2026-03-08T04:45:47+00:00",
+        "pushed": "2026-03-08T04:45:44+00:00",
+        "url": "https://github.com/Kuykakuy/ecp5-hello",
+        "id": 1069401140
+    },
+    {
+        "repo": "starred",
+        "description": "A autogenerated list of all the github projects i've starred",
+        "owner": "pbsds",
+        "stars": 9,
+        "forks": 0,
+        "size": 2634,
+        "created": "2022-10-04T18:56:03+00:00",
+        "updated": "2026-03-08T04:59:19+00:00",
+        "pushed": "2026-03-08T04:59:15+00:00",
+        "url": "https://github.com/pbsds/starred",
+        "id": 545656186
+    },
+    {
+        "repo": "kernel",
+        "description": "CitOmni Kernel is a tiny PHP 8.2+ core that boots CitOmni apps. It provides the minimal App container, deep read-only config wrapper, deterministic vendor->providers->app merging, explicit service maps ($app->id), optional compiled caches, and a fail-fast philosophy. No magic-HTTP/CLI own delivery and error handling.",
+        "owner": "citomni",
+        "stars": 0,
+        "forks": 0,
+        "size": 205,
+        "created": "2025-09-21T22:22:45+00:00",
+        "updated": "2026-03-07T23:33:13+00:00",
+        "pushed": "2026-03-07T23:33:09+00:00",
+        "url": "https://github.com/citomni/kernel",
+        "id": 1061433469
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars!",
+        "owner": "utensil",
+        "stars": 29,
+        "forks": 9,
+        "size": 38791,
+        "created": "2019-02-21T12:56:56+00:00",
+        "updated": "2026-03-08T01:15:10+00:00",
+        "pushed": "2026-03-08T01:15:06+00:00",
+        "url": "https://github.com/utensil/awesome-stars",
+        "id": 171871908
+    },
+    {
         "repo": "starList",
         "description": "Export your star's repository list",
         "owner": "hiifong",
         "stars": 17,
         "forks": 5,
-        "size": 149118,
+        "size": 149694,
         "created": "2022-11-02T05:52:24+00:00",
-        "updated": "2026-03-07T03:49:24+00:00",
-        "pushed": "2026-03-07T03:49:20+00:00",
+        "updated": "2026-03-08T03:55:27+00:00",
+        "pushed": "2026-03-08T03:55:24+00:00",
         "url": "https://github.com/hiifong/starList",
         "id": 560725242
+    },
+    {
+        "repo": "awesome-stars",
+        "description": "A curated list of my GitHub stars by stargazed",
+        "owner": "liuzhenqi77",
+        "stars": 24,
+        "forks": 2,
+        "size": 20581,
+        "created": "2019-09-26T15:03:52+00:00",
+        "updated": "2026-03-08T03:17:54+00:00",
+        "pushed": "2026-03-08T03:17:50+00:00",
+        "url": "https://github.com/liuzhenqi77/awesome-stars",
+        "id": 211116919
+    },
+    {
+        "repo": "awesome-stars",
+        "description": null,
+        "owner": "creatorrr",
+        "stars": 0,
+        "forks": 0,
+        "size": 23085,
+        "created": "2025-12-09T06:37:22+00:00",
+        "updated": "2026-03-08T01:09:36+00:00",
+        "pushed": "2026-03-08T01:09:33+00:00",
+        "url": "https://github.com/creatorrr/awesome-stars",
+        "id": 1112825356
     },
     {
         "repo": "awesome-stars",
@@ -20272,10 +20298,10 @@
         "owner": "IndieMinimalist",
         "stars": 1,
         "forks": 0,
-        "size": 32144,
+        "size": 33601,
         "created": "2025-05-11T20:10:48+00:00",
-        "updated": "2026-03-07T00:59:51+00:00",
-        "pushed": "2026-03-07T00:59:48+00:00",
+        "updated": "2026-03-08T01:11:35+00:00",
+        "pushed": "2026-03-08T01:11:32+00:00",
         "url": "https://github.com/IndieMinimalist/awesome-stars",
         "id": 981754715
     }

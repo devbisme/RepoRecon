@@ -6279,32 +6279,6 @@
         "id": 1135192035
     },
     {
-        "repo": "cl-py-generator",
-        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
-        "owner": "plops",
-        "stars": 8,
-        "forks": 0,
-        "size": 7392,
-        "created": "2018-10-24T07:32:54+00:00",
-        "updated": "2026-03-06T06:59:37+00:00",
-        "pushed": "2026-03-06T06:59:33+00:00",
-        "url": "https://github.com/plops/cl-py-generator",
-        "id": 154458175
-    },
-    {
-        "repo": ".dotfiles",
-        "description": null,
-        "owner": "chiplukes",
-        "stars": 0,
-        "forks": 0,
-        "size": 465,
-        "created": "2019-09-22T18:19:08+00:00",
-        "updated": "2026-03-06T21:32:44+00:00",
-        "pushed": "2026-03-06T21:32:40+00:00",
-        "url": "https://github.com/chiplukes/.dotfiles",
-        "id": 210193768
-    },
-    {
         "repo": "HwLang",
         "description": null,
         "owner": "KarelPeeters",
@@ -6316,5 +6290,31 @@
         "pushed": "2026-03-07T01:58:19+00:00",
         "url": "https://github.com/KarelPeeters/HwLang",
         "id": 752856131
+    },
+    {
+        "repo": "cl-py-generator",
+        "description": "generate python code from s-expressions (has been used for lots of data analysis code)",
+        "owner": "plops",
+        "stars": 8,
+        "forks": 0,
+        "size": 8491,
+        "created": "2018-10-24T07:32:54+00:00",
+        "updated": "2026-03-08T00:44:44+00:00",
+        "pushed": "2026-03-08T00:44:41+00:00",
+        "url": "https://github.com/plops/cl-py-generator",
+        "id": 154458175
+    },
+    {
+        "repo": ".dotfiles",
+        "description": null,
+        "owner": "chiplukes",
+        "stars": 0,
+        "forks": 0,
+        "size": 463,
+        "created": "2019-09-22T18:19:08+00:00",
+        "updated": "2026-03-07T22:01:24+00:00",
+        "pushed": "2026-03-07T22:01:21+00:00",
+        "url": "https://github.com/chiplukes/.dotfiles",
+        "id": 210193768
     }
 ]
