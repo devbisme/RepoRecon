@@ -2,56 +2,67 @@
     {
         "title": "AI",
         "search_terms": "Machine Learning OR Artificial Intelligence OR Deep Learning",
-        "JSON_file": "AI"
+        "JSON_file": "AI",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "KiCad",
         "search_terms": "kicad",
-        "JSON_file": "kicad"
+        "JSON_file": "kicad",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "FreeCAD",
         "search_terms": "freecad",
-        "JSON_file": "freecad"
+        "JSON_file": "freecad",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "SKiDL",
         "search_terms": "skidl",
-        "JSON_file": "skidl"
+        "JSON_file": "skidl",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "LiteX",
         "search_terms": "litex",
-        "JSON_file": "litex"
+        "JSON_file": "litex",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "MyHDL",
         "search_terms": "myhdl",
-        "JSON_file": "myhdl"
+        "JSON_file": "myhdl",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "FOSS Chips",
         "search_terms": "skywater OR sky130 OR efabless OR chipIgnite OR openlane",
-        "JSON_file": "foss_chips"
+        "JSON_file": "foss_chips",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "Embedded RTOSes",
         "search_terms": "FreeRTOS OR NuttX OR Zephyr OR RIOT",
-        "JSON_file": "embedded_rtos"
+        "JSON_file": "embedded_rtos",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "Kendryte Microcontrollers",
         "search_terms": "maix OR kendryte OR K210 OR K230 OR K510",
-        "JSON_file": "kendryte_uc"
+        "JSON_file": "kendryte_uc",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "El-Cheapo Microcontrollers",
         "search_terms": "RP2040 OR CH32V OR PY32F",
-        "JSON_file": "el_cheapo_uc"
+        "JSON_file": "el_cheapo_uc",
+        "acceptance_criteria": "Placeholder: define criteria here"
     },
     {
         "title": "Awesome Lists",
         "search_terms": "awesome+curated+list",
-        "JSON_file": "awesome_list"
+        "JSON_file": "awesome_list",
+        "acceptance_criteria": "Placeholder: define criteria here"
     }
 ]
