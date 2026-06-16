@@ -12,7 +12,9 @@ import requests
 import base64
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-model = "gemma4:12b-it-qat"
+# model = "gemma4:12b-it-qat"
+# model = "gemma4-claude"
+model = "gemma4:e2b-it-qat"
 
 # Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
@@ -58,7 +60,7 @@ def ollama_process(prompt, context=""):
         url = "http://localhost:11434/api/generate"
         payload = {
             "model": model,
-            "prompt": f"{context}\n\n{prompt}",
+            "prompt": f"{context}\n\n{prompt[:3500]}",
             "stream": False
         }
         r = requests.post(url, json=payload, timeout=60)
@@ -72,16 +74,46 @@ def check_acceptance(readme, criteria):
     if not readme or not criteria or "Placeholder" in criteria:
         # If no criteria defined or no readme found, treat as pass (or handle as needed)
         return True
-    prompt = f"Based on the following README content, does this repository satisfy these acceptance criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nREADME Content:\n{readme[:2000]}" # Truncate to avoid context overflow
+    prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}" # Truncate to avoid context overflow
     response = ollama_process(prompt)
     if response and "yes" in response.lower():
         return True
     return False
 
-def generate_summary(readme):
-    prompt = f"Summarize the following repository README into a concise description of 100 words or less, focusing on what the project does and its core features:\n\n{readme[:2000]}"
+def generate_summary(readme, search_terms):
+    prompt = f"Summarize the following in 100 words or less, focusing on what the project does and how it pertains to {search_terms}:\n\n{readme}"
     summary = ollama_process(prompt)
     return summary if summary else ""
+
+def enrich_repos(repos, criteria, search_terms):
+    print(f"Processing {len(repos)} candidate repos for enrichment...")
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    enriched_repos = []
+    with ThreadPoolExecutor(max_workers=1) as executor:
+        future_to_repo = {}
+        for repo in repos:
+            def process_candidate(r, c=criteria, s=search_terms):
+                owner = r['owner']
+                repo_name = r['repo']
+                readme = fetch_readme(owner, repo_name)
+                if not readme or not check_acceptance(readme, c):
+                    print(f"Discarded {owner}/{repo_name}")
+                    return None
+                print(f"Accepted {owner}/{repo_name}")
+                summary = generate_summary(readme, s)
+                # Update repo info with the new summary
+                r["description"] = summary if summary else r["description"]
+                return r
+
+            future_to_repo[executor.submit(process_candidate, repo)] = repo.get("id")
+
+        for future in as_completed(future_to_repo):
+            res = future.result()
+            if res:
+                enriched_repos.append(res)
+
+    return enriched_repos
 
 def gather_github_repos(topic):
     title = topic["title"]
@@ -172,6 +204,8 @@ def gather_github_repos(topic):
                     new_repos.append(repo_info)
         start_mo = 1
 
+    new_repos = enrich_repos(new_repos, criteria, search_term)
+
     total_repos = prev_repos
     total_repos.extend(new_repos)
 
@@ -191,36 +225,8 @@ def gather_github_repos(topic):
             no_dup_repos.append(repo)
             del latest_repo_dates[repo_id]
 
-    # --- Enrichment Phase Start ---
-    print(f"Processing {len(no_dup_repos)} candidate repos for enrichment...")
-    from concurrent.futures import ThreadPoolExecutor, as_completed
-
-    final_repos = []
-    with ThreadPoolExecutor(max_workers=1) as executor:
-        future_to_repo = {}
-        for repo in no_dup_repos:
-            def process_candidate(r, c=criteria):
-                owner = r['owner']
-                repo = r['repo']
-                readme = fetch_readme(owner, repo)
-                if not readme or not check_acceptance(readme, c):
-                    print(f"Discarded {owner}/{repo}")
-                    return None
-                print(f"Accepted {owner}/{repo}")
-                summary = generate_summary(readme)
-                # Update repo info with the new summary
-                r["description"] = summary if summary else r["description"]
-                return r
-
-            future_to_repo[executor.submit(process_candidate, repo)] = repo.get("id")
-
-        for future in as_completed(future_to_repo):
-            res = future.result()
-            if res:
-                final_repos.append(res)
-
     with open(repo_file, "w") as f:
-        json.dump(final_repos, f, indent=4)
+        json.dump(no_dup_repos, f, indent=4)
 
 if __name__ == "__main__":
     import argparse
