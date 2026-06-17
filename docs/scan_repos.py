@@ -13,8 +13,8 @@ import base64
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # model = "gemma4:12b-it-qat"
-# model = "gemma4-claude"
-model = "gemma4:e2b-it-qat"
+model = "gemma4-claude"
+# model = "gemma4:e2b-it-qat"
 
 # Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
@@ -52,7 +52,7 @@ def fetch_readme(owner, repo):
                         return file_resp.text
     except Exception:
         pass
-    return None
+    return ""
 
 def ollama_process(prompt, context=""):
     try:
@@ -73,45 +73,39 @@ def ollama_process(prompt, context=""):
 def check_acceptance(readme, criteria):
     if not readme or not criteria or "Placeholder" in criteria:
         # If no criteria defined or no readme found, treat as pass (or handle as needed)
-        return True
-    prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}" # Truncate to avoid context overflow
+        return True, "No criteria defined or no readme found so accept it by default."
+    # prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}" # Truncate to avoid context overflow
+    prompt = f"Does the following content satisfy these criteria? Answer with a 'yes' or 'no' followed with an explanation for your decision.\n\nCriteria: {criteria}\n\nContent:\n{readme}" # Truncate to avoid context overflow
     response = ollama_process(prompt)
-    if response and "yes" in response.lower():
-        return True
-    return False
+    # if response and "yes" in response.lower():
+    if response and "yes" in response[:3].lower():
+        return True, response
+    return False, response
 
 def generate_summary(readme, search_terms):
+    if not readme:
+        return ""
     prompt = f"Summarize the following in 100 words or less, focusing on what the project does and how it pertains to {search_terms}:\n\n{readme}"
     summary = ollama_process(prompt)
     return summary if summary else ""
 
 def enrich_repos(repos, criteria, search_terms):
     print(f"Processing {len(repos)} candidate repos for enrichment...")
-    from concurrent.futures import ThreadPoolExecutor, as_completed
 
     enriched_repos = []
-    with ThreadPoolExecutor(max_workers=1) as executor:
-        future_to_repo = {}
-        for repo in repos:
-            def process_candidate(r, c=criteria, s=search_terms):
-                owner = r['owner']
-                repo_name = r['repo']
-                readme = fetch_readme(owner, repo_name)
-                if not readme or not check_acceptance(readme, c):
-                    print(f"Discarded {owner}/{repo_name}")
-                    return None
-                print(f"Accepted {owner}/{repo_name}")
-                summary = generate_summary(readme, s)
-                # Update repo info with the new summary
-                r["description"] = summary if summary else r["description"]
-                return r
-
-            future_to_repo[executor.submit(process_candidate, repo)] = repo.get("id")
-
-        for future in as_completed(future_to_repo):
-            res = future.result()
-            if res:
-                enriched_repos.append(res)
+    for idx, repo in enumerate(repos, 1):
+        owner = repo['owner']
+        repo_name = repo['repo']
+        readme = fetch_readme(owner, repo_name) + (repo['description'] or "")
+        is_accepted, response = check_acceptance(readme, criteria)
+        if is_accepted:
+            print(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
+            summary = generate_summary(readme, search_terms)
+            # Update repo info with the new summary
+            repo["description"] = summary if summary else repo["description"]
+            enriched_repos.append(repo)
+        else:
+            print(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
 
     return enriched_repos
 
@@ -232,10 +226,20 @@ if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument("topic_file", nargs="?", default="topics.json", help="The name of the topics file.")
+    parser.add_argument("topic_file", help="The name of the topics file.")
+    parser.add_argument("repo_file", help="The name of the file with repo entries.")
     args = parser.parse_args()
 
     with open(args.topic_file, "r") as topic_file:
         topics = json.load(topic_file)
-        for topic in topics:
-            gather_github_repos(topic)
+        # for topic in topics:
+        #     gather_github_repos(topic)
+
+        topic = topics[0]
+        title = topic["title"]
+        search_term = topic["search_terms"]
+        criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
+        with open(args.repo_file, "r") as repo_file:
+            repos = json.load(repo_file)
+            enriched_repos = enrich_repos(repos, criteria, search_term)
+            json.dump(enriched_repos, fp=sys.stdout, indent=4)
