@@ -10,11 +10,11 @@ from datetime import datetime as dt
 from github import Github
 import requests
 import base64
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# model = "gemma4:12b-it-qat"
+debug = True
+
+# Use large context model (131K tokens)
 model = "gemma4-claude"
-# model = "gemma4:e2b-it-qat"
 
 # Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
@@ -74,10 +74,11 @@ def check_acceptance(readme, criteria):
     if not readme or not criteria or "Placeholder" in criteria:
         # If no criteria defined or no readme found, treat as pass (or handle as needed)
         return True, "No criteria defined or no readme found so accept it by default."
-    # prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}" # Truncate to avoid context overflow
-    prompt = f"Does the following content satisfy these criteria? Answer with a 'yes' or 'no' followed with an explanation for your decision.\n\nCriteria: {criteria}\n\nContent:\n{readme}" # Truncate to avoid context overflow
+    if debug:
+        prompt = f"Does the following content satisfy these criteria? Start answer with an initial 'Yes' or 'No' followed by an explanation for your decision.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
+    else:
+        prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
     response = ollama_process(prompt)
-    # if response and "yes" in response.lower():
     if response and "yes" in response[:3].lower():
         return True, response
     return False, response
@@ -85,7 +86,7 @@ def check_acceptance(readme, criteria):
 def generate_summary(readme, search_terms):
     if not readme:
         return ""
-    prompt = f"Summarize the following in 100 words or less, focusing on what the project does and how it pertains to {search_terms}:\n\n{readme}"
+    prompt = f"Summarize the following in 50 words or less, focusing on what the project does and how it pertains to {search_terms}:\n\n{readme}"
     summary = ollama_process(prompt)
     return summary if summary else ""
 
@@ -99,13 +100,15 @@ def enrich_repos(repos, criteria, search_terms):
         readme = fetch_readme(owner, repo_name) + (repo['description'] or "")
         is_accepted, response = check_acceptance(readme, criteria)
         if is_accepted:
-            print(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
+            if debug:
+                print(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
             summary = generate_summary(readme, search_terms)
             # Update repo info with the new summary
             repo["description"] = summary if summary else repo["description"]
             enriched_repos.append(repo)
         else:
-            print(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
+            if debug:
+                print(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
 
     return enriched_repos
 
@@ -113,7 +116,7 @@ def gather_github_repos(topic):
     title = topic["title"]
     search_term = topic["search_terms"]
     repo_file = topic["JSON_file"] + ".json"
-    criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
+    criteria = topic.get("acceptance_criteria", None)
 
     # Load the previously found repos from the JSON file.
     try:
@@ -166,35 +169,28 @@ def gather_github_repos(topic):
                 yr_mo_repos = g.search_repositories(query)
 
                 for repo in yr_mo_repos:
+                    repo_info = {
+                        "repo": repo.name,
+                        "description": repo.description,
+                        "owner": repo.owner.login,
+                        "stars": repo.stargazers_count,
+                        "forks": repo.forks_count,
+                        "size": repo.size,
+                        "created": repo.created_at.isoformat(),
+                        "updated": repo.updated_at.isoformat(),
+                        "pushed": repo.pushed_at.isoformat(),
+                        "url": repo.html_url,
+                        "id": repo.id,
+                    }
                     try:
-                        repo_info = {
-                            "repo": repo.name,
-                            "description": repo.description,
-                            "owner": repo.owner.login,
-                            "stars": repo.stargazers_count,
-                            "forks": repo.forks_count,
-                            "size": repo.size,
-                            "created": repo.created_at.isoformat(),
-                            "updated": repo.updated_at.isoformat(),
-                            "pushed": repo.pushed_at.isoformat(),
-                            "url": repo.html_url,
-                            "id": repo.id,
-                        }
+                        repo_info["created"] = repo.created_at.isoformat()
+                        repo_info["updated"] = repo.updated_at.isoformat()
+                        repo_info["pushed"] = repo.pushed_at.isoformat()
                     except AttributeError as e:
                         dflt_date = dt.strptime(search_date + "-01", "%Y-%m-%d").isoformat()
-                        repo_info = {
-                            "repo": repo.name,
-                            "description": repo.description,
-                            "owner": repo.owner.login,
-                            "stars": repo.stargazers_count,
-                            "forks": repo.forks_count,
-                            "size": repo.size,
-                            "created": dflt_date,
-                            "updated": dflt_date,
-                            "pushed": dflt_date,
-                            "url": repo.html_url,
-                            "id": repo.id,
-                        }
+                        repo_info["created"] = dflt_date
+                        repo_info["updated"] = dflt_date
+                        repo_info["pushed"] = dflt_date
                     new_repos.append(repo_info)
         start_mo = 1
 
