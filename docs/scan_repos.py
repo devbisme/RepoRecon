@@ -20,6 +20,48 @@ model = "gemma4-claude"
 token = os.getenv("REPORECON_GITHUB_TOKEN")
 g = Github(token)
 
+def get_default_repo_branch(owner, repo):
+    url = f"https://api.github.com/repos/{owner}/{repo}"
+    
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "Claude-Code-Fetch-Default-Branch-Name"
+    }
+
+    if token:
+        headers["Authorization"] = f"token {token}"
+    
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    
+    data = response.json()
+    return data["default_branch"]
+
+def get_repo_file_extensions(owner, repo):
+    branch = get_default_repo_branch(owner, repo)
+    url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
+    
+    headers = {
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "Claude-Code-Fetch-Repo-Files"
+    }
+
+    if token:
+        headers["Authorization"] = f"token {token}"
+    
+    response = requests.get(url, headers=headers)
+    response.raise_for_status()
+    
+    data = response.json()
+    
+    file_extensions = set()
+    for item in data.get("tree", []):
+        if item["type"] == "blob":  # blob = file, tree = directory
+            path = item["path"]
+            file_extensions.add(os.path.splitext(path.lower())[1])
+    
+    return file_extensions
+
 def fetch_readme(owner, repo):
     headers = {
         "Accept": "application/vnd.github.v3+json",
@@ -78,10 +120,16 @@ def check_acceptance(readme, criteria):
         prompt = f"Does the following content satisfy these criteria? Start answer with an initial 'Yes' or 'No' followed by an explanation for your decision.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
     else:
         prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
-    response = ollama_process(prompt)
-    if response and "yes" in response[:3].lower():
-        return True, response
-    return False, response
+    yes_no = []
+    eval_set_size = 1
+    while len(yes_no) < eval_set_size:
+        response = ollama_process(prompt)
+        if response:
+            if "yes" in response[:3].lower():
+                yes_no.append(1)
+            elif "no" in response[:2].lower():
+                yes_no.append(0)
+    return sum(yes_no) > eval_set_size // 2, response
 
 def generate_summary(readme, search_terms):
     if not readme:
@@ -97,8 +145,13 @@ def enrich_repos(repos, criteria, search_terms):
     for idx, repo in enumerate(repos, 1):
         owner = repo['owner']
         repo_name = repo['repo']
-        readme = fetch_readme(owner, repo_name) + (repo['description'] or "")
-        is_accepted, response = check_acceptance(readme, criteria)
+        file_extensions = get_repo_file_extensions(owner, repo_name)
+        file_extensions = "File extensions: " +",".join(list(file_extensions))
+        readme = fetch_readme(owner, repo_name)
+        desc = repo['description'] or ""
+        repo_info = f"{file_extensions}\n{readme} {desc}"
+        # repo_info = f"{readme} {desc}\n{file_extensions}"
+        is_accepted, response = check_acceptance(repo_info, criteria)
         if is_accepted:
             if debug:
                 print(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
