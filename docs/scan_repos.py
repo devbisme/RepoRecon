@@ -4,9 +4,7 @@ import json
 import os
 import subprocess
 import sys
-from datetime import datetime
 from datetime import datetime as dt
-# pip install PyGithub
 from github import Github
 import requests
 import base64
@@ -19,6 +17,11 @@ model = "gemma4-claude"
 # Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
 g = Github(token)
+
+def check_timeout(start_time, timeout):
+    if timeout is not None and (dt.now() - start_time).total_seconds() > timeout:
+        print(f"\nTimeout of {timeout} seconds reached.", file=sys.stderr)
+        sys.exit(0)
 
 def get_default_repo_branch(owner, repo):
     url = f"https://api.github.com/repos/{owner}/{repo}"
@@ -174,7 +177,7 @@ def enrich_repos(repos, criteria, search_terms):
 
     return enriched_repos
 
-def gather_github_repos(topic):
+def gather_github_repos(topic, timeout=None, start_time=None):
     title = topic["title"]
     search_term = topic["search_terms"]
     repo_file = topic["JSON_file"] + ".json"
@@ -215,17 +218,20 @@ def gather_github_repos(topic):
     # Search for repos from start year to end year.
     new_repos = []
     for y in range(start_yr, end_yr + 1):
+        check_timeout(start_time, timeout)
         if y == end_yr:
-            end_mo = datetime.now().month
+            end_mo = dt.now().month
         else:
             end_mo = 12
 
         # Loop through each month of the current search year.
         for m in range(start_mo, end_mo + 1):
+            check_timeout(start_time, timeout)
             print(f"Gathering {title} repos for {y}-{m:02} ...")
             search_date = f"{y}-{m:02}"
 
             for date_type in date_types:
+                check_timeout(start_time, timeout)
                 print(f"    Searching {title} repos for {date_type}:{search_date} ...")
                 query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"
                 yr_mo_repos = g.search_repositories(query)
@@ -269,6 +275,7 @@ def gather_github_repos(topic):
                 to_enrich.append(repo)
                 seen_in_scan[rid] = current_pushed
 
+    check_timeout(start_time, timeout)
     new_repos = enrich_repos(to_enrich, criteria, search_term)
 
     total_repos = prev_repos
@@ -294,7 +301,7 @@ def gather_github_repos(topic):
         json.dump(no_dup_repos, f, indent=4)
 
 
-def enrich_local_repos(topic, count=None):
+def enrich_local_repos(topic, count=None, timeout=None, start_time=None):
     repo_file = f"{topic['JSON_file']}.json"
     search_term = topic["search_terms"]
     criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
@@ -308,6 +315,7 @@ def enrich_local_repos(topic, count=None):
     to_enrich = [r for r in repos if r.get("accepted", True) and not r.get("enriched", False)]
 
     if to_enrich:
+        check_timeout(start_time, timeout)
         # Sort by push date descending (newest first)
         def get_push_date(r):
             try:
@@ -346,6 +354,7 @@ if __name__ == "__main__":
     parser.add_argument("topic_file", help="The name of the topics file.")
     parser.add_argument("--mode", choices=["scan", "enrich"], default="scan", help="Mode of operation: 'scan' (default) or 'enrich'.")
     parser.add_argument("--count", type=int, default=None, help="Number of repos to enrich in 'enrich' mode.")
+    parser.add_argument("--timeout", type=int, default=None, help="Timeout in seconds for the entire execution.")
     args = parser.parse_args()
 
     with open(args.topic_file, "r") as topic_file:
@@ -354,8 +363,12 @@ if __name__ == "__main__":
             print("No topics found in file.")
             sys.exit(1)
 
+        start_time = None
+        if args.timeout is not None:
+            start_time = dt.now()
+
         for topic in topics:
             if args.mode == "scan":
-                gather_github_repos(topic)
+                gather_github_repos(topic, timeout=args.timeout, start_time=start_time)
             elif args.mode == "enrich":
-                enrich_local_repos(topic, args.count)
+                enrich_local_repos(topic, count=args.count, timeout=args.timeout, start_time=start_time)
