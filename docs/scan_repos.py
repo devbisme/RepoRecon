@@ -135,7 +135,7 @@ def check_acceptance(readme, criteria):
 def generate_summary(readme, search_terms):
     if not readme:
         return ""
-    prompt = f"Create a terse, 50-word summary of the following, focusing on what the project does and how it relates to {search_terms}. Then append three keywords to categorize this project:\n\n{readme}"
+    prompt = f"Create a terse, 50-word summary of the following, focusing on what the project does and how it relates to {search_terms}. Then append three keywords (excluding {search_terms}) to categorize this project:\n\n{readme}"
     summary = ollama_process(prompt)
     return summary if summary else ""
 
