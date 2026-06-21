@@ -22,7 +22,7 @@ g = Github(token)
 
 def get_default_repo_branch(owner, repo):
     url = f"https://api.github.com/repos/{owner}/{repo}"
-    
+
     headers = {
         "Accept": "application/vnd.github.v3+json",
         "User-Agent": "Claude-Code-Fetch-Default-Branch-Name"
@@ -30,17 +30,17 @@ def get_default_repo_branch(owner, repo):
 
     if token:
         headers["Authorization"] = f"token {token}"
-    
+
     response = requests.get(url, headers=headers)
     response.raise_for_status()
-    
+
     data = response.json()
     return data["default_branch"]
 
 def get_repo_file_extensions(owner, repo):
     branch = get_default_repo_branch(owner, repo)
     url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
-    
+
     headers = {
         "Accept": "application/vnd.github.v3+json",
         "User-Agent": "Claude-Code-Fetch-Repo-Files"
@@ -48,18 +48,18 @@ def get_repo_file_extensions(owner, repo):
 
     if token:
         headers["Authorization"] = f"token {token}"
-    
+
     response = requests.get(url, headers=headers)
     response.raise_for_status()
-    
+
     data = response.json()
-    
+
     file_extensions = set()
     for item in data.get("tree", []):
         if item["type"] == "blob":  # blob = file, tree = directory
             path = item["path"]
             file_extensions.add(os.path.splitext(path.lower())[1])
-    
+
     return file_extensions
 
 def fetch_readme(owner, repo):
@@ -150,18 +150,27 @@ def enrich_repos(repos, criteria, search_terms):
         readme = fetch_readme(owner, repo_name)
         desc = repo['description'] or ""
         repo_info = f"{file_extensions}\n{readme} {desc}"
-        # repo_info = f"{readme} {desc}\n{file_extensions}"
         is_accepted, response = check_acceptance(repo_info, criteria)
+
+        # Initialize status flags if they don't exist
+        if "enriched" not in repo:
+            repo["enriched"] = False
+        if "accepted" not in repo:
+            repo["accepted"] = False
+
+        repo["accepted"] = is_accepted
         if is_accepted:
             if debug:
                 print(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
             summary = generate_summary(readme, search_terms)
             # Update repo info with the new summary
             repo["description"] = summary if summary else repo["description"]
-            enriched_repos.append(repo)
+            repo["enriched"] = True
         else:
             if debug:
                 print(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
+
+        enriched_repos.append(repo)
 
     return enriched_repos
 
@@ -247,7 +256,20 @@ def gather_github_repos(topic):
                     new_repos.append(repo_info)
         start_mo = 1
 
-    new_repos = enrich_repos(new_repos, criteria, search_term)
+    # Filter new_repos to only include those that are newer than existing entries or completely new.
+    prev_repo_data = {r["id"]: dt.strptime(r["pushed"].split("T")[0], "%Y-%m-%d").date() for r in prev_repos}
+    to_enrich = []
+    seen_in_scan = {} # id -> date
+    for repo in new_repos:
+        rid = repo["id"]
+        current_pushed = dt.strptime(repo["pushed"].split("T")[0], "%Y-%m-%d").date()
+        if rid not in prev_repo_data or current_pushed > prev_repo_data[rid]:
+            # Only add if it's the newest version found in this scan too
+            if rid not in seen_in_scan or current_pushed > seen_in_scan[rid]:
+                to_enrich.append(repo)
+                seen_in_scan[rid] = current_pushed
+
+    new_repos = enrich_repos(to_enrich, criteria, search_term)
 
     total_repos = prev_repos
     total_repos.extend(new_repos)
@@ -271,24 +293,69 @@ def gather_github_repos(topic):
     with open(repo_file, "w") as f:
         json.dump(no_dup_repos, f, indent=4)
 
+
+def enrich_local_repos(topic, count=None):
+    repo_file = f"{topic['JSON_file']}.json"
+    search_term = topic["search_terms"]
+    criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
+    with open(repo_file, "r") as f:
+        try:
+            repos = json.load(f)
+        except json.JSONDecodeError:
+            repos = []
+
+    # Filter for accepted, unenriched repos
+    to_enrich = [r for r in repos if r.get("accepted", True) and not r.get("enriched", False)]
+
+    if to_enrich:
+        # Sort by push date descending (newest first)
+        def get_push_date(r):
+            try:
+                return dt.strptime(r["pushed"].split("T")[0], "%Y-%m-%d").date()
+            except (KeyError, ValueError, IndexError):
+                # Fallback to created date if pushed is missing/malformed
+                try:
+                    return dt.strptime(r["created"].split("T")[0], "%Y-%m-%d").date()
+                except (KeyError, ValueError, IndexError):
+                    return dt.min
+
+        to_enrich.sort(key=get_push_date, reverse=True)
+
+        # Take the requested number or all if count is None
+        if count is not None:
+            to_enrich = to_enrich[:count]
+
+        print(f"Enriching {len(to_enrich)} unenriched repos from local file...")
+        enriched_results = enrich_repos(to_enrich, criteria, search_term)
+
+        # Update the original list with results (preserving order/identity where possible)
+        for r in repos:
+            if r in enriched_results:
+                r["enriched"] = True
+
+        with open(repo_file, "w") as f:
+            json.dump(repos, f, indent=4)
+    else:
+        print("No unenriched repositories found to process.")
+
+
 if __name__ == "__main__":
     import argparse
 
     parser = argparse.ArgumentParser()
     parser.add_argument("topic_file", help="The name of the topics file.")
-    parser.add_argument("repo_file", help="The name of the file with repo entries.")
+    parser.add_argument("--mode", choices=["scan", "enrich"], default="scan", help="Mode of operation: 'scan' (default) or 'enrich'.")
+    parser.add_argument("--count", type=int, default=None, help="Number of repos to enrich in 'enrich' mode.")
     args = parser.parse_args()
 
     with open(args.topic_file, "r") as topic_file:
         topics = json.load(topic_file)
-        # for topic in topics:
-        #     gather_github_repos(topic)
+        if not topics:
+            print("No topics found in file.")
+            sys.exit(1)
 
-        topic = topics[0]
-        title = topic["title"]
-        search_term = topic["search_terms"]
-        criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
-        with open(args.repo_file, "r") as repo_file:
-            repos = json.load(repo_file)
-            enriched_repos = enrich_repos(repos, criteria, search_term)
-            json.dump(enriched_repos, fp=sys.stdout, indent=4)
+        for topic in topics:
+            if args.mode == "scan":
+                gather_github_repos(topic)
+            elif args.mode == "enrich":
+                enrich_local_repos(topic, args.count)
