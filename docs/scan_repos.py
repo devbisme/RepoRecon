@@ -117,20 +117,25 @@ def check_acceptance(readme, criteria):
     if not readme or not criteria or "Placeholder" in criteria:
         # If no criteria defined or no readme found, treat as pass (or handle as needed)
         return True, "No criteria defined or no readme found so accept it by default."
+
     if debug:
         prompt = f"Does the following content satisfy these criteria? Start answer with an initial 'Yes' or 'No' followed by an explanation for your decision.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
     else:
         prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
+
+    # Test the repository against the criteria to see if it meets the requirements.
     yes_no = []
-    eval_set_size = 1
-    while len(yes_no) < eval_set_size:
+    num_checks = 1
+    while len(yes_no) < num_checks:
         response = ollama_process(prompt)
         if response:
             if "yes" in response[:3].lower():
                 yes_no.append(1)
             elif "no" in response[:2].lower():
                 yes_no.append(0)
-    return sum(yes_no) > eval_set_size // 2, response
+
+    # Accept the repo if it passed acceptance more than it failed.
+    return sum(yes_no) > num_checks // 2, response
 
 def generate_summary(readme, search_terms):
     if not readme:
@@ -141,20 +146,10 @@ def generate_summary(readme, search_terms):
 
 def enrich_repos(repos, criteria, search_terms, count, timeout):
 
-    # Sort by push date descending (newest first)
-    def get_push_date(r):
-        try:
-            return dt.strptime(r["pushed"].split("T")[0], "%Y-%m-%d").date()
-        except (KeyError, ValueError, IndexError):
-            # Fallback to created date if pushed is missing/malformed
-            try:
-                return dt.strptime(r["created"].split("T")[0], "%Y-%m-%d").date()
-            except (KeyError, ValueError, IndexError):
-                return dt.min
+    # Sort repos by push date descending (newest first).
+    repos.sort(key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(), reverse=True)
 
-    repos.sort(key=get_push_date, reverse=True)
-
-    # Take the requested number or all if count is None
+    # Enrich the requested number of repos or all if count is None
     if count is not None:
         repos = repos[:count]
 
@@ -162,24 +157,21 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
 
     start_time = dt.now()
     for idx, repo in enumerate(repos, 1):
+
         if is_timeout(start_time, timeout):
             break
+        
         owner = repo['owner']
         repo_name = repo['repo']
+        
         file_extensions = get_repo_file_extensions(owner, repo_name)
         file_extensions = "File extensions: " +",".join(list(file_extensions))
         readme = fetch_readme(owner, repo_name)
         desc = repo['description'] or ""
         repo_info = f"{file_extensions}\n{readme} {desc}"
+        
         is_accepted, response = check_acceptance(repo_info, criteria)
 
-        # Initialize status flags if they don't exist
-        if "enriched" not in repo:
-            repo["enriched"] = False
-        if "accepted" not in repo:
-            repo["accepted"] = False
-
-        repo["accepted"] = is_accepted
         if is_accepted:
             if debug:
                 print(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
@@ -188,6 +180,7 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
             repo["description"] = summary if summary else repo["description"]
             repo["enriched"] = True
         else:
+            repo["discarded"] = True
             if debug:
                 print(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
 
@@ -212,10 +205,12 @@ def gather_github_repos(topic, count=None, timeout=None):
 
     earliest_start_yr = 2008
     earliest_start_mo = 1
+    earliest_start_day = 1
     if not prev_repos:
-        # If no repos from a previous search, then start search at earliest possible data.
+        # If no repos from a previous search, then start search at earliest possible date.
         start_yr = earliest_start_yr
         start_mo = earliest_start_mo
+        start_day = earliest_start_day
         # If no existing repos, just search for repos by creation date.
         date_types = ["created"]
     else:
@@ -226,8 +221,12 @@ def gather_github_repos(topic, count=None, timeout=None):
         # Get the year/month of the most recent repo.
         start_yr = int(latest_repo["pushed"][0:4])
         start_mo = int(latest_repo["pushed"][5:7])
+        start_day = int(latest_repo["pushed"][8:10])
         # If there are existing repos, also search by pushed date to catch old repos that were recently pushed.
         date_types = ["pushed", "created"]
+
+    # Start gathering new repos after the latest date for which we have existing repo data.
+    start_date = dt.strptime(f"{start_yr:04}-{start_mo:02}-{start_day:02}", "%Y-%m-%d").date()
 
     # The current year is the last year of the search range.
     end_yr = dt.now().year
@@ -243,7 +242,7 @@ def gather_github_repos(topic, count=None, timeout=None):
         # Loop through each month of the current search year.
         for m in range(start_mo, end_mo + 1):
             print(f"Gathering {title} repos for {y}-{m:02} ...")
-            search_date = f"{y}-{m:02}"
+            search_date = f"{y:04}-{m:02}"
 
             for date_type in date_types:
                 print(f"    Searching {title} repos for {date_type}:{search_date} ...")
@@ -277,23 +276,25 @@ def gather_github_repos(topic, count=None, timeout=None):
         start_mo = 1
 
     for id, new_repo in new_repos.items():
+        new_repo_date = dt.strptime(new_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
         if id in prev_repos:
+            # Replace an existing repo if the new one is more recent.
             prev_repo = prev_repos[id]
             prev_repo_date = dt.strptime(prev_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
-            new_repo_date = dt.strptime(new_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
             if new_repo_date > prev_repo_date:
                 prev_repos[id] = new_repo
-        else:
+        elif new_repo_date >= start_date:
+            # Add a new repo if it was created after the start date.
             prev_repos[id] = new_repo
 
+    date_sorted_repos = sorted(prev_repos.values(), key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date())
     with open(repo_file, "w") as f:
-        json.dump(list(prev_repos.values()), f, indent=4)
+        json.dump(date_sorted_repos, f, indent=4)
 
     enrich_local_repos(topic, count=count, timeout=timeout)
 
 
 def enrich_local_repos(topic, count=None, timeout=None):
-    breakpoint()
     repo_file = f"{topic['JSON_file']}.json"
     search_term = topic["search_terms"]
     criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
@@ -304,10 +305,11 @@ def enrich_local_repos(topic, count=None, timeout=None):
             repos = []
 
     # Filter for accepted, unenriched repos
-    to_enrich = [r for r in repos if r.get("accepted", True) and not r.get("enriched", False)]
+    to_enrich = [r for r in repos if not r.get("enriched", False)]
 
     if to_enrich:
         enrich_repos(to_enrich, criteria, search_term, count, timeout)
+        repos = [r for r in repos if not r.get("discarded", False)]
 
         with open(repo_file, "w") as f:
             json.dump(repos, f, indent=4)
