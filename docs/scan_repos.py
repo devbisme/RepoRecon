@@ -207,6 +207,9 @@ def gather_github_repos(topic, count=None, timeout=None):
     except FileNotFoundError:
         prev_repos = []
 
+    # Create a dictionary of previous repos by ID for easy lookup.
+    prev_repos = {r["id"]: r for r in prev_repos}
+
     earliest_start_yr = 2008
     earliest_start_mo = 1
     if not prev_repos:
@@ -216,10 +219,10 @@ def gather_github_repos(topic, count=None, timeout=None):
         # If no existing repos, just search for repos by creation date.
         date_types = ["created"]
     else:
-        # Else, find the most recent repo and start searching from that year/month.
-        for repo in prev_repos:
+        # Else, get date of the most recent repo and start searching from that year/month.
+        for repo in prev_repos.values():
             repo["pushed"] = repo["pushed"] or repo["created"] or repo["updated"]
-        latest_repo = max(prev_repos, key=lambda x: dt.strptime(x["pushed"][0:7], "%Y-%m"))
+        latest_repo = max(prev_repos.values(), key=lambda x: dt.strptime(x["pushed"][0:7], "%Y-%m"))
         # Get the year/month of the most recent repo.
         start_yr = int(latest_repo["pushed"][0:4])
         start_mo = int(latest_repo["pushed"][5:7])
@@ -230,7 +233,7 @@ def gather_github_repos(topic, count=None, timeout=None):
     end_yr = dt.now().year
 
     # Search for repos from start year to end year.
-    new_repos = []
+    new_repos = {}
     for y in range(start_yr, end_yr + 1):
         if y == end_yr:
             end_mo = dt.now().month
@@ -270,48 +273,27 @@ def gather_github_repos(topic, count=None, timeout=None):
                         repo_info["created"] = dflt_date
                         repo_info["updated"] = dflt_date
                         repo_info["pushed"] = dflt_date
-                    new_repos.append(repo_info)
+                    new_repos[repo.id] = repo_info
         start_mo = 1
 
-    # Filter new_repos to only include those that are newer than existing entries or completely new.
-    prev_repo_data = {r["id"]: dt.strptime(r["pushed"].split("T")[0], "%Y-%m-%d").date() for r in prev_repos}
-    to_enrich = []
-    seen_in_scan = {} # id -> date
-    for repo in new_repos:
-        rid = repo["id"]
-        current_pushed = dt.strptime(repo["pushed"].split("T")[0], "%Y-%m-%d").date()
-        if rid not in prev_repo_data or current_pushed > prev_repo_data[rid]:
-            # Only add if it's the newest version found in this scan too
-            if rid not in seen_in_scan or current_pushed > seen_in_scan[rid]:
-                to_enrich.append(repo)
-                seen_in_scan[rid] = current_pushed
-
-    enrich_repos(to_enrich, criteria, search_term, count, timeout)
-
-    total_repos = prev_repos
-    total_repos.extend(to_enrich)
-
-    # Deduplicate candidates by ID and keep the one with most recent push date.
-    latest_repo_dates = {}
-    for repo in total_repos:
-        repo_id = repo["id"]
-        repo_date = dt.strptime(repo["pushed"].split("T")[0], "%Y-%m-%d").date()
-        if repo_id not in latest_repo_dates or repo_date > latest_repo_dates[repo_id]:
-            latest_repo_dates[repo_id] = repo_date
-
-    no_dup_repos = []
-    for repo in total_repos:
-        repo_id = repo["id"]
-        repo_date = dt.strptime(repo["pushed"].split("T")[0], "%Y-%m-%d").date()
-        if repo_id in latest_repo_dates and repo_date == latest_repo_dates[repo_id]:
-            no_dup_repos.append(repo)
-            del latest_repo_dates[repo_id]
+    for id, new_repo in new_repos.items():
+        if id in prev_repos:
+            prev_repo = prev_repos[id]
+            prev_repo_date = dt.strptime(prev_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
+            new_repo_date = dt.strptime(new_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
+            if new_repo_date > prev_repo_date:
+                prev_repos[id] = new_repo
+        else:
+            prev_repos[id] = new_repo
 
     with open(repo_file, "w") as f:
-        json.dump(no_dup_repos, f, indent=4)
+        json.dump(list(prev_repos.values()), f, indent=4)
+
+    enrich_local_repos(topic, count=count, timeout=timeout)
 
 
 def enrich_local_repos(topic, count=None, timeout=None):
+    breakpoint()
     repo_file = f"{topic['JSON_file']}.json"
     search_term = topic["search_terms"]
     criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
