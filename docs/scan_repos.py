@@ -327,6 +327,8 @@ def enrich_local_repos(topic, count=None, timeout=None):
     repo_file = f"{topic['JSON_file']}.json"
     search_term = topic["search_terms"]
     criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
+    timeout = timeout or topic.get("timeout", None)
+    count = count or topic.get("count", None)
     with open(repo_file, "r") as f:
         try:
             repos = json.load(f)
