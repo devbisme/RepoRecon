@@ -18,15 +18,17 @@ model = "gemma4-claude"
 token = os.getenv("REPORECON_GITHUB_TOKEN")
 g = Github(token)
 
+
 def is_timeout(start_time, timeout):
     return timeout is not None and (dt.now() - start_time).total_seconds() > timeout
+
 
 def get_default_repo_branch(owner, repo):
     url = f"https://api.github.com/repos/{owner}/{repo}"
 
     headers = {
         "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Claude-Code-Fetch-Default-Branch-Name"
+        "User-Agent": "Claude-Code-Fetch-Default-Branch-Name",
     }
 
     if token:
@@ -38,13 +40,14 @@ def get_default_repo_branch(owner, repo):
     data = response.json()
     return data["default_branch"]
 
+
 def get_repo_file_extensions(owner, repo):
     branch = get_default_repo_branch(owner, repo)
     url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
 
     headers = {
         "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Claude-Code-Fetch-Repo-Files"
+        "User-Agent": "Claude-Code-Fetch-Repo-Files",
     }
 
     if token:
@@ -63,10 +66,11 @@ def get_repo_file_extensions(owner, repo):
 
     return file_extensions
 
+
 def fetch_readme(owner, repo):
     headers = {
         "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Claude-Code-Fetch-Repo-Readme"
+        "User-Agent": "Claude-Code-Fetch-Repo-Readme",
     }
 
     if token:
@@ -87,15 +91,26 @@ def fetch_readme(owner, repo):
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             files = r.json()
-            candidates = ["README.md", "README.rst", "README.txt", "README", "readme.md", "readme.rst", "readme"]
+            candidates = [
+                "README.md",
+                "README.rst",
+                "README.txt",
+                "README",
+                "readme.md",
+                "readme.rst",
+                "readme",
+            ]
             for name in candidates:
                 for f in files:
                     if f["name"] == name:
-                        file_resp = requests.get(f["download_url"], headers=headers, timeout=10)
+                        file_resp = requests.get(
+                            f["download_url"], headers=headers, timeout=10
+                        )
                         return file_resp.text
     except Exception:
         pass
     return ""
+
 
 def ollama_process(prompt, context=""):
     try:
@@ -104,7 +119,7 @@ def ollama_process(prompt, context=""):
         payload = {
             "model": model,
             "prompt": f"{context}\n\n{prompt[:3500]}",
-            "stream": False
+            "stream": False,
         }
         r = requests.post(url, json=payload, timeout=60)
         if r.status_code == 200:
@@ -112,6 +127,7 @@ def ollama_process(prompt, context=""):
     except Exception as e:
         print(f"Ollama error: {e}")
     return None
+
 
 def check_acceptance(readme, criteria):
     if not readme or not criteria or "Placeholder" in criteria:
@@ -137,6 +153,7 @@ def check_acceptance(readme, criteria):
     # Accept the repo if it passed acceptance more than it failed.
     return sum(yes_no) > num_checks // 2, response
 
+
 def generate_summary(readme, search_terms):
     if not readme:
         return ""
@@ -144,10 +161,14 @@ def generate_summary(readme, search_terms):
     summary = ollama_process(prompt)
     return summary if summary else ""
 
+
 def enrich_repos(repos, criteria, search_terms, count, timeout):
 
     # Sort repos by push date descending (newest first).
-    repos.sort(key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(), reverse=True)
+    repos.sort(
+        key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(),
+        reverse=True,
+    )
 
     # Enrich the requested number of repos or all if count is None
     if count is not None:
@@ -160,21 +181,24 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
 
         if is_timeout(start_time, timeout):
             break
-        
-        owner = repo['owner']
-        repo_name = repo['repo']
-        
+
+        owner = repo["owner"]
+        repo_name = repo["repo"]
+
         file_extensions = get_repo_file_extensions(owner, repo_name)
-        file_extensions = "File extensions: " +",".join(list(file_extensions))
+        file_extensions = "File extensions: " + ",".join(list(file_extensions))
         readme = fetch_readme(owner, repo_name)
-        desc = repo['description'] or ""
+        desc = repo["description"] or ""
         repo_info = f"{file_extensions}\n{readme} {desc}"
-        
+
         is_accepted, response = check_acceptance(repo_info, criteria)
 
         if is_accepted:
             if debug:
-                print(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
+                print(
+                    f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n",
+                    file=sys.stderr,
+                )
             summary = generate_summary(readme, search_terms)
             # Update repo info with the new summary
             repo["description"] = summary if summary else repo["description"]
@@ -182,7 +206,34 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
         else:
             repo["discarded"] = True
             if debug:
-                print(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n", file=sys.stderr)
+                print(
+                    f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n",
+                    file=sys.stderr,
+                )
+
+
+def enrich_local_repos(topic, count=None, timeout=None):
+    repo_file = f"{topic['JSON_file']}.json"
+    search_term = topic["search_terms"]
+    criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
+    with open(repo_file, "r") as f:
+        try:
+            repos = json.load(f)
+        except json.JSONDecodeError:
+            repos = []
+
+    # Filter for accepted, unenriched repos
+    to_enrich = [r for r in repos if not r.get("enriched", False)]
+
+    if to_enrich:
+        enrich_repos(to_enrich, criteria, search_term, count, timeout)
+        repos = [r for r in repos if not r.get("discarded", False)]
+
+        with open(repo_file, "w") as f:
+            json.dump(repos, f, indent=4)
+    else:
+        print("No unenriched repositories found to process.")
+
 
 def gather_github_repos(topic, count=None, timeout=None):
     title = topic["title"]
@@ -217,7 +268,9 @@ def gather_github_repos(topic, count=None, timeout=None):
         # Else, get date of the most recent repo and start searching from that year/month.
         for repo in prev_repos.values():
             repo["pushed"] = repo["pushed"] or repo["created"] or repo["updated"]
-        latest_repo = max(prev_repos.values(), key=lambda x: dt.strptime(x["pushed"][0:7], "%Y-%m"))
+        latest_repo = max(
+            prev_repos.values(), key=lambda x: dt.strptime(x["pushed"][0:7], "%Y-%m")
+        )
         # Get the year/month of the most recent repo.
         start_yr = int(latest_repo["pushed"][0:4])
         start_mo = int(latest_repo["pushed"][5:7])
@@ -226,7 +279,9 @@ def gather_github_repos(topic, count=None, timeout=None):
         date_types = ["pushed", "created"]
 
     # Start gathering new repos after the latest date for which we have existing repo data.
-    start_date = dt.strptime(f"{start_yr:04}-{start_mo:02}-{start_day:02}", "%Y-%m-%d").date()
+    start_date = dt.strptime(
+        f"{start_yr:04}-{start_mo:02}-{start_day:02}", "%Y-%m-%d"
+    ).date()
 
     # The current year is the last year of the search range.
     end_yr = dt.now().year
@@ -268,7 +323,9 @@ def gather_github_repos(topic, count=None, timeout=None):
                         repo_info["updated"] = repo.updated_at.isoformat()
                         repo_info["pushed"] = repo.pushed_at.isoformat()
                     except AttributeError as e:
-                        dflt_date = dt.strptime(search_date + "-01", "%Y-%m-%d").isoformat()
+                        dflt_date = dt.strptime(
+                            search_date + "-01", "%Y-%m-%d"
+                        ).isoformat()
                         repo_info["created"] = dflt_date
                         repo_info["updated"] = dflt_date
                         repo_info["pushed"] = dflt_date
@@ -280,41 +337,23 @@ def gather_github_repos(topic, count=None, timeout=None):
         if id in prev_repos:
             # Replace an existing repo if the new one is more recent.
             prev_repo = prev_repos[id]
-            prev_repo_date = dt.strptime(prev_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
+            prev_repo_date = dt.strptime(
+                prev_repo["pushed"].split("T")[0], "%Y-%m-%d"
+            ).date()
             if new_repo_date > prev_repo_date:
                 prev_repos[id] = new_repo
         elif new_repo_date >= start_date:
             # Add a new repo if it was created after the start date.
             prev_repos[id] = new_repo
 
-    date_sorted_repos = sorted(prev_repos.values(), key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date())
+    date_sorted_repos = sorted(
+        prev_repos.values(),
+        key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(),
+    )
     with open(repo_file, "w") as f:
         json.dump(date_sorted_repos, f, indent=4)
 
     enrich_local_repos(topic, count=count, timeout=timeout)
-
-
-def enrich_local_repos(topic, count=None, timeout=None):
-    repo_file = f"{topic['JSON_file']}.json"
-    search_term = topic["search_terms"]
-    criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
-    with open(repo_file, "r") as f:
-        try:
-            repos = json.load(f)
-        except json.JSONDecodeError:
-            repos = []
-
-    # Filter for accepted, unenriched repos
-    to_enrich = [r for r in repos if not r.get("enriched", False)]
-
-    if to_enrich:
-        enrich_repos(to_enrich, criteria, search_term, count, timeout)
-        repos = [r for r in repos if not r.get("discarded", False)]
-
-        with open(repo_file, "w") as f:
-            json.dump(repos, f, indent=4)
-    else:
-        print("No unenriched repositories found to process.")
 
 
 if __name__ == "__main__":
@@ -322,9 +361,24 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser()
     parser.add_argument("topic_file", help="The name of the topics file.")
-    parser.add_argument("--mode", choices=["scan", "enrich"], default="scan", help="Mode of operation: 'scan' (default) or 'enrich'.")
-    parser.add_argument("--count", type=int, default=None, help="Number of repos to enrich in 'enrich' mode.")
-    parser.add_argument("--timeout", type=int, default=None, help="Timeout in seconds for the entire execution.")
+    parser.add_argument(
+        "--mode",
+        choices=["scan", "enrich"],
+        default="scan",
+        help="Mode of operation: 'scan' (default) or 'enrich'.",
+    )
+    parser.add_argument(
+        "--count",
+        type=int,
+        default=None,
+        help="Number of repos to enrich in 'enrich' mode.",
+    )
+    parser.add_argument(
+        "--timeout",
+        type=int,
+        default=None,
+        help="Timeout in seconds for the entire execution.",
+    )
     parser.add_argument("--debug", action="store_true", help="Enable debugging.")
     args = parser.parse_args()
 
