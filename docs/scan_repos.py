@@ -20,6 +20,7 @@ from datetime import datetime as dt
 from github import Github
 import requests
 import base64
+from loguru import logger
 
 # Configuration
 debug = True
@@ -177,19 +178,21 @@ def ollama_process(prompt, context=""):
     Returns:
         str or None: The stripped string response from Ollama, or None if an error occurs.
     """
-    try:
-        # Assuming Ollama is running locally on the default port
-        url = "http://localhost:11434/api/generate"
-        payload = {
-            "model": model,
-            "prompt": f"{context}\n\n{prompt[:3500]}", # Truncate to stay within limits
-            "stream": False,
-        }
-        r = requests.post(url, json=payload, timeout=60)
-        if r.status_code == 200:
-            return r.json().get("response", "").strip()
-    except Exception as e:
-        print(f"Ollama error: {e}")
+    num_retries = 2
+    for _ in range(num_retries):
+        try:
+            # Assuming Ollama is running locally on the default port
+            url = "http://localhost:11434/api/generate"
+            payload = {
+                "model": model,
+                "prompt": f"{context}\n\n{prompt[:3500]}", # Truncate to stay within limits
+                "stream": False,
+            }
+            r = requests.post(url, json=payload, timeout=60)
+            if r.status_code == 200:
+                return r.json().get("response", "").strip()
+        except Exception as e:
+            logger.error(f"Ollama error: {e}")
     return None
 
 
@@ -272,7 +275,7 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
     if count is not None:
         repos = repos[:count]
 
-    print(f"Enriching {len(repos)} unenriched repos from local file...")
+    logger.info(f"Enriching {len(repos)} unenriched repos from local file...")
 
     start_time = dt.now()
     for idx, repo in enumerate(repos, 1):
@@ -294,22 +297,14 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
         is_accepted, response = check_acceptance(repo_info, criteria)
 
         if is_accepted:
-            if debug:
-                print(
-                    f"{idx:6d}: Accepted {owner}/{repo_name} - {response}\n\n",
-                    file=sys.stderr,
-                )
+            logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
             summary = generate_summary(readme, search_terms)
             # Update repo info with the new summary if generated successfully
             repo["description"] = summary if summary else repo["description"]
             repo["enriched"] = True
         else:
             repo["discarded"] = True
-            if debug:
-                print(
-                    f"{idx:6d}: Discarded {owner}/{repo_name} - {response}\n\n",
-                    file=sys.stderr,
-                )
+            logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
 
 
 def enrich_local_repos(topic, count=None, timeout=None):
@@ -346,7 +341,7 @@ def enrich_local_repos(topic, count=None, timeout=None):
         with open(repo_file, "w") as f:
             json.dump(repos, f, indent=4)
     else:
-        print("No unenriched repositories found to process.")
+        logger.info("No unenriched repositories found to process.")
 
 
 def gather_github_repos(topic, count=None, timeout=None):
@@ -417,11 +412,11 @@ def gather_github_repos(topic, count=None, timeout=None):
 
         # Loop through each month of the current search year.
         for m in range(start_mo, end_mo + 1):
-            print(f"Gathering {title} repos for {y}-{m:02} ...")
+            logger.info(f"Gathering {title} repos for {y}-{m:02} ...")
             search_date = f"{y:04}-{m:02}"
 
             for date_type in date_types:
-                print(f"    Searching {title} repos for {date_type}:{search_date} ...")
+                logger.debug(f"    Searching {title} repos for {date_type}:{search_date} ...")
                 query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"
                 yr_mo_repos = g.search_repositories(query)
 
@@ -507,12 +502,15 @@ if __name__ == "__main__":
     parser.add_argument("--debug", action="store_true", help="Enable debugging.")
     args = parser.parse_args()
 
-    debug = args.debug
+    # Configure loguru level based on debug flag
+    logger.remove()
+    level = "DEBUG" if args.debug else "INFO"
+    logger.add(sys.stderr, level=level)
 
     with open(args.topic_file, "r") as topic_file:
         topics = json.load(topic_file)
         if not topics:
-            print("No topics found in file.")
+            logger.info("No topics found in file.")
             sys.exit(1)
 
         for topic in topics:
