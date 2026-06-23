@@ -192,7 +192,8 @@ def ollama_process(prompt, context=""):
             if r.status_code == 200:
                 return r.json().get("response", "").strip()
         except Exception as e:
-            logger.error(f"Ollama error: {e}")
+            logger.warning(f"Ollama error: {e}")
+    logger.error("Failed to get response from Ollama after multiple retries.")
     return None
 
 
@@ -275,7 +276,7 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
     if count is not None:
         repos = repos[:count]
 
-    logger.info(f"Enriching {len(repos)} unenriched repos from local file...")
+    logger.info(f"Enriching {len(repos)} repos...")
 
     start_time = dt.now()
     for idx, repo in enumerate(repos, 1):
@@ -341,7 +342,7 @@ def enrich_local_repos(topic, count=None, timeout=None):
         with open(repo_file, "w") as f:
             json.dump(repos, f, indent=4)
     else:
-        logger.info("No unenriched repositories found to process.")
+        logger.info("No raw repos found to enrich.")
 
 
 def gather_github_repos(topic, count=None, timeout=None):
@@ -416,7 +417,7 @@ def gather_github_repos(topic, count=None, timeout=None):
             search_date = f"{y:04}-{m:02}"
 
             for date_type in date_types:
-                logger.debug(f"    Searching {title} repos for {date_type}:{search_date} ...")
+                logger.info(f"    Searching {title} repos for {date_type}:{search_date} ...")
                 query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"
                 yr_mo_repos = g.search_repositories(query)
 
@@ -505,7 +506,8 @@ if __name__ == "__main__":
     # Configure loguru level based on debug flag
     logger.remove()
     level = "DEBUG" if args.debug else "INFO"
-    logger.add(sys.stderr, level=level)
+    logger.add(sys.stderr, level=level, format="\n<level>{level}</level> // <green>{time:HH:mm:ss}</green> // <i>{name}:{line}</i>\n<level>{message}</level>\n")
+    logger.add("scan_repos.log", level=level, format="\n<level>{level}</level> // <green>{time:HH:mm:ss}</green> // <i>{name}:{line}</i>\n<level>{message}</level>\n")
 
     with open(args.topic_file, "r") as topic_file:
         topics = json.load(topic_file)
