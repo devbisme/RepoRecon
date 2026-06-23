@@ -1,4 +1,16 @@
 #!/usr/bin/env python3
+"""
+Repository Scanner and Enricher.
+
+This script provides functionality to discover, gather, and enrich GitHub repository data
+based on predefined topics. It uses the GitHub API for discovery and an LLM (via Ollama)
+for content analysis, acceptance checking, and summary generation.
+
+The workflow typically involves:
+1. Scanning: Finding repositories matching specific search terms within date ranges.
+2. Enrichment: Fetching READMEs, analyzing them against criteria using an LLM,
+   and generating concise summaries for the results.
+"""
 
 import json
 import os
@@ -9,21 +21,46 @@ from github import Github
 import requests
 import base64
 
+# Configuration
 debug = True
 
 # Use large context model (131K tokens)
 model = "gemma4-claude"
 
-# Authenticate with GitHub using a personal access token. If not found, then Github access will be slower.
+# Authenticate with GitHub using a personal access token.
+# If not found, then Github access will be slower and may hit rate limits sooner.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
 g = Github(token)
 
 
 def is_timeout(start_time, timeout):
+    """
+    Check if the elapsed time since start_time exceeds the specified timeout in seconds.
+
+    Args:
+        start_time (datetime): The starting timestamp of an operation.
+        timeout (int or None): The maximum allowed duration in seconds.
+
+    Returns:
+        bool: True if timed out, False otherwise.
+    """
     return timeout is not None and (dt.now() - start_time).total_seconds() > timeout
 
 
 def get_default_repo_branch(owner, repo):
+    """
+    Fetch the default branch name for a given GitHub repository using the REST API.
+
+    Args:
+        owner (str): The owner of the repository.
+        repo (str): The name of the repository.
+
+    Returns:
+        str: The name of the default branch (e.g., 'main' or 'master').
+
+    Raises:
+        requests.exceptions.HTTPError: If the API request fails.
+    """
     url = f"https://api.github.com/repos/{owner}/{repo}"
 
     headers = {
@@ -42,6 +79,16 @@ def get_default_repo_branch(owner, repo):
 
 
 def get_repo_file_extensions(owner, repo):
+    """
+    Retrieve all unique file extensions present in a repository's tree structure.
+
+    Args:
+        owner (str): The owner of the repository.
+        repo (str): The name of the repository.
+
+    Returns:
+        set: A set of lowercase file extensions found in the repo.
+    """
     branch = get_default_repo_branch(owner, repo)
     url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
 
@@ -68,6 +115,17 @@ def get_repo_file_extensions(owner, repo):
 
 
 def fetch_readme(owner, repo):
+    """
+    Fetch the content of a repository's README file from GitHub.
+    Attempts to use the /readme endpoint first, falling back to scanning root contents.
+
+    Args:
+        owner (str): The owner of the repository.
+        repo (str): The name of the repository.
+
+    Returns:
+        str: The content of the README as a UTF-8 string, or an empty string if not found.
+    """
     headers = {
         "Accept": "application/vnd.github.v3+json",
         "User-Agent": "Claude-Code-Fetch-Repo-Readme",
@@ -77,6 +135,7 @@ def fetch_readme(owner, repo):
         headers["Authorization"] = f"Bearer {token}"
 
     try:
+        # Try the dedicated readme endpoint
         url = f"https://api.github.com/repos/{owner}/{repo}/readme"
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
@@ -85,20 +144,15 @@ def fetch_readme(owner, repo):
     except Exception:
         pass
 
-    # Fallback: scan repo root
+    # Fallback: scan repo root for common README filenames
     try:
         url = f"https://api.github.com/repos/{owner}/{repo}/contents/"
         r = requests.get(url, headers=headers, timeout=10)
         if r.status_code == 200:
             files = r.json()
             candidates = [
-                "README.md",
-                "README.rst",
-                "README.txt",
-                "README",
-                "readme.md",
-                "readme.rst",
-                "readme",
+                "README.md", "README.rst", "README.txt", "README",
+                "readme.md", "readme.rst", "readme",
             ]
             for name in candidates:
                 for f in files:
@@ -113,12 +167,22 @@ def fetch_readme(owner, repo):
 
 
 def ollama_process(prompt, context=""):
+    """
+    Send a prompt to a local Ollama instance for processing and return the response.
+
+    Args:
+        prompt (str): The primary instruction or question for the LLM.
+        context (str): Optional additional context to prepend to the prompt.
+
+    Returns:
+        str or None: The stripped string response from Ollama, or None if an error occurs.
+    """
     try:
         # Assuming Ollama is running locally on the default port
         url = "http://localhost:11434/api/generate"
         payload = {
             "model": model,
-            "prompt": f"{context}\n\n{prompt[:3500]}",
+            "prompt": f"{context}\n\n{prompt[:3500]}", # Truncate to stay within limits
             "stream": False,
         }
         r = requests.post(url, json=payload, timeout=60)
@@ -130,31 +194,53 @@ def ollama_process(prompt, context=""):
 
 
 def check_acceptance(readme, criteria):
+    """
+    Use an LLM to determine if a repository's content satisfies specific acceptance criteria.
+
+    Args:
+        readme (str): The content of the README file.
+        criteria (str): The requirements/criteria string.
+
+    Returns:
+        tuple: (bool, str) - A boolean indicating acceptance and the raw LLM response.
+    """
     if not readme or not criteria or "Placeholder" in criteria:
-        # If no criteria defined or no readme found, treat as pass (or handle as needed)
+        # If no criteria defined or no readme found, treat as pass by default.
         return True, "No criteria defined or no readme found so accept it by default."
 
     if debug:
         prompt = f"Does the following content satisfy these criteria? Start answer with an initial 'Yes' or 'No' followed by an explanation for your decision.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
     else:
+        # In production, we want a more deterministic response.
         prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
 
-    # Test the repository against the criteria to see if it meets the requirements.
+    # Test the repository against the criteria to see if it meets requirements.
     yes_no = []
-    num_checks = 1
+    num_checks = 1 # Number of times we want to verify (could be increased for higher confidence)
     while len(yes_no) < num_checks:
         response = ollama_process(prompt)
         if response:
+            # Check the beginning of the response for 'yes' or 'no'.
             if "yes" in response[:3].lower():
                 yes_no.append(1)
             elif "no" in response[:2].lower():
                 yes_no.append(0)
 
-    # Accept the repo if it passed acceptance more than it failed.
+    # Accept if majority of checks passed (or 1/1 for num_checks=1).
     return sum(yes_no) > num_checks // 2, response
 
 
 def generate_summary(readme, search_terms):
+    """
+    Generate a concise summary and keywords for a repository using an LLM.
+
+    Args:
+        readme (str): The content of the README file.
+        search_terms (str): Keywords to focus on or exclude from categorization.
+
+    Returns:
+        str: A generated summary string, or empty if failed.
+    """
     if not readme:
         return ""
     prompt = f"Create a terse, 50-word summary of the following, focusing on what the project does and how it relates to {search_terms}. Then append three keywords (excluding {search_terms}) to categorize this project:\n\n{readme}"
@@ -163,7 +249,19 @@ def generate_summary(readme, search_terms):
 
 
 def enrich_repos(repos, criteria, search_terms, count, timeout):
+    """
+    Iterate through a list of repositories and perform enrichment (acceptance check & summarization).
 
+    Args:
+        repos (list): List of repository dictionaries.
+        criteria (str): Acceptance criteria for the LLM to evaluate against.
+        search_terms (str): Terms used for summary generation context.
+        count (int or None): Maximum number of repos to enrich.
+        timeout (int or None): Global timeout in seconds for this operation.
+
+    Returns:
+        None: Updates the 'repos' list objects in-place.
+    """
     # Sort repos by push date descending (newest first).
     repos.sort(
         key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(),
@@ -185,12 +283,14 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
         owner = repo["owner"]
         repo_name = repo["repo"]
 
+        # Gather metadata for the LLM prompt
         file_extensions = get_repo_file_extensions(owner, repo_name)
         file_extensions = "File extensions: " + ",".join(list(file_extensions))
         readme = fetch_readme(owner, repo_name)
         desc = repo["description"] or ""
         repo_info = f"{file_extensions}\n{readme} {desc}"
 
+        # Perform LLM-based acceptance check
         is_accepted, response = check_acceptance(repo_info, criteria)
 
         if is_accepted:
@@ -200,7 +300,7 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
                     file=sys.stderr,
                 )
             summary = generate_summary(readme, search_terms)
-            # Update repo info with the new summary
+            # Update repo info with the new summary if generated successfully
             repo["description"] = summary if summary else repo["description"]
             repo["enriched"] = True
         else:
@@ -213,6 +313,17 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
 
 
 def enrich_local_repos(topic, count=None, timeout=None):
+    """
+    Load a local JSON file of repositories and perform enrichment based on the topic's configuration.
+
+    Args:
+        topic (dict): Configuration dictionary containing 'JSON_file', 'search_terms', etc.
+        count (int or None): Max repos to enrich.
+        timeout (int or None): Global timeout in seconds.
+
+    Returns:
+        None: Updates the local JSON file with enriched data and removes discarded repos.
+    """
     repo_file = f"{topic['JSON_file']}.json"
     search_term = topic["search_terms"]
     criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
@@ -222,11 +333,12 @@ def enrich_local_repos(topic, count=None, timeout=None):
         except json.JSONDecodeError:
             repos = []
 
-    # Filter for accepted, unenriched repos
+    # Filter for accepted, unenriched repos to process
     to_enrich = [r for r in repos if not r.get("enriched", False)]
 
     if to_enrich:
         enrich_repos(to_enrich, criteria, search_term, count, timeout)
+        # Remove discarded repositories from the final list
         repos = [r for r in repos if not r.get("discarded", False)]
 
         with open(repo_file, "w") as f:
@@ -236,12 +348,23 @@ def enrich_local_repos(topic, count=None, timeout=None):
 
 
 def gather_github_repos(topic, count=None, timeout=None):
+    """
+    Search GitHub for new repositories matching a topic and date range,
+    then update the local JSON file.
+
+    Args:
+        topic (dict): Configuration dictionary containing 'title', 'search_terms', etc.
+        count (int or None): Max repos to gather/enrich in this pass.
+        timeout (int or None): Global timeout in seconds.
+
+    Returns:
+        None: Updates the local JSON file with new repository data.
+    """
     title = topic["title"]
     search_term = topic["search_terms"]
     repo_file = topic["JSON_file"] + ".json"
-    criteria = topic.get("acceptance_criteria", None)
 
-    # Load the previously found repos from the JSON file.
+    # Load the previously found repos from the JSON file to avoid duplicates and determine start date.
     try:
         with open(repo_file, "r") as f:
             try:
@@ -251,7 +374,7 @@ def gather_github_repos(topic, count=None, timeout=None):
     except FileNotFoundError:
         prev_repos = []
 
-    # Create a dictionary of previous repos by ID for easy lookup.
+    # Create a dictionary of previous repos by ID for easy lookup and deduplication.
     prev_repos = {r["id"]: r for r in prev_repos}
 
     earliest_start_yr = 2008
@@ -262,31 +385,27 @@ def gather_github_repos(topic, count=None, timeout=None):
         start_yr = earliest_start_yr
         start_mo = earliest_start_mo
         start_day = earliest_start_day
-        # If no existing repos, just search for repos by creation date.
         date_types = ["created"]
     else:
-        # Else, get date of the most recent repo and start searching from that year/month.
+        # Get the year/month of the most recent repo to determine where to resume search.
         for repo in prev_repos.values():
             repo["pushed"] = repo["pushed"] or repo["created"] or repo["updated"]
         latest_repo = max(
             prev_repos.values(), key=lambda x: dt.strptime(x["pushed"][0:7], "%Y-%m")
         )
-        # Get the year/month of the most recent repo.
         start_yr = int(latest_repo["pushed"][0:4])
         start_mo = int(latest_repo["pushed"][5:7])
         start_day = int(latest_repo["pushed"][8:10])
-        # If there are existing repos, also search by pushed date to catch old repos that were recently pushed.
+        # Search by pushed date to catch old repos that were recently updated/pushed.
         date_types = ["pushed", "created"]
 
-    # Start gathering new repos after the latest date for which we have existing repo data.
+    # Calculate the start date for searching new repositories.
     start_date = dt.strptime(
         f"{start_yr:04}-{start_mo:02}-{start_day:02}", "%Y-%m-%d"
     ).date()
 
-    # The current year is the last year of the search range.
     end_yr = dt.now().year
 
-    # Search for repos from start year to end year.
     new_repos = {}
     for y in range(start_yr, end_yr + 1):
         if y == end_yr:
@@ -323,6 +442,7 @@ def gather_github_repos(topic, count=None, timeout=None):
                         repo_info["updated"] = repo.updated_at.isoformat()
                         repo_info["pushed"] = repo.pushed_at.isoformat()
                     except AttributeError as e:
+                        # Fallback if dates are missing from the API response.
                         dflt_date = dt.strptime(
                             search_date + "-01", "%Y-%m-%d"
                         ).isoformat()
@@ -340,12 +460,14 @@ def gather_github_repos(topic, count=None, timeout=None):
             prev_repo_date = dt.strptime(
                 prev_repo["pushed"].split("T")[0], "%Y-%m-%d"
             ).date()
+            # Replace if the new one is more recent.
             if new_repo_date > prev_repo_date:
                 prev_repos[id] = new_repo
         elif new_repo_date >= start_date:
-            # Add a new repo if it was created after the start date.
+            # Add a new repo if it was created after our search boundary.
             prev_repos[id] = new_repo
 
+    # Sort and save the updated repository list to JSON.
     date_sorted_repos = sorted(
         prev_repos.values(),
         key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(),
@@ -353,6 +475,7 @@ def gather_github_repos(topic, count=None, timeout=None):
     with open(repo_file, "w") as f:
         json.dump(date_sorted_repos, f, indent=4)
 
+    # Trigger enrichment for the newly gathered repos.
     enrich_local_repos(topic, count=count, timeout=timeout)
 
 
