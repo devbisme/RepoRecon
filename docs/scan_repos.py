@@ -152,8 +152,13 @@ def fetch_readme(owner, repo):
         if r.status_code == 200:
             files = r.json()
             candidates = [
-                "README.md", "README.rst", "README.txt", "README",
-                "readme.md", "readme.rst", "readme",
+                "README.md",
+                "README.rst",
+                "README.txt",
+                "README",
+                "readme.md",
+                "readme.rst",
+                "readme",
             ]
             for name in candidates:
                 for f in files:
@@ -185,7 +190,7 @@ def ollama_process(prompt, context=""):
             url = "http://localhost:11434/api/generate"
             payload = {
                 "model": model,
-                "prompt": f"{context}\n\n{prompt[:3500]}", # Truncate to stay within limits
+                "prompt": f"{context}\n\n{prompt[:3500]}",  # Truncate to stay within limits
                 "stream": False,
             }
             r = requests.post(url, json=payload, timeout=60)
@@ -220,7 +225,7 @@ def check_acceptance(readme, criteria):
 
     # Test the repository against the criteria to see if it meets requirements.
     yes_no = []
-    num_checks = 1 # Number of times we want to verify (could be increased for higher confidence)
+    num_checks = 1  # Number of times we want to verify (could be increased for higher confidence)
     while len(yes_no) < num_checks:
         response = ollama_process(prompt)
         if response:
@@ -252,7 +257,7 @@ def generate_summary(readme, search_terms):
     return summary if summary else ""
 
 
-def enrich_repos(repos, criteria, search_terms, count, timeout):
+def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
     """
     Iterate through a list of repositories and perform enrichment (acceptance check & summarization).
 
@@ -262,9 +267,13 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
         search_terms (str): Terms used for summary generation context.
         count (int or None): Maximum number of repos to enrich.
         timeout (int or None): Global timeout in seconds for this operation.
+        batch_size (int): Number of repositories to process in each batch before yielding.
 
     Returns:
         None: Updates the 'repos' list objects in-place.
+
+    Yields:
+        None: Yields control back to the caller after processing each batch.
     """
     # Sort repos by push date descending (newest first).
     repos.sort(
@@ -307,6 +316,11 @@ def enrich_repos(repos, criteria, search_terms, count, timeout):
             repo["discarded"] = True
             logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
 
+        # Yield back to the caller after processing each batch.
+        # The caller can save the repos after each batch so that progress is not lost.
+        if idx % batch_size == 0:
+            yield
+
 
 def enrich_local_repos(topic, count=None, timeout=None):
     """
@@ -320,11 +334,13 @@ def enrich_local_repos(topic, count=None, timeout=None):
     Returns:
         None: Updates the local JSON file with enriched data and removes discarded repos.
     """
+
     repo_file = f"{topic['JSON_file']}.json"
     search_term = topic["search_terms"]
     criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
     timeout = timeout or topic.get("timeout", None)
     count = count or topic.get("count", None)
+
     with open(repo_file, "r") as f:
         try:
             repos = json.load(f)
@@ -335,12 +351,17 @@ def enrich_local_repos(topic, count=None, timeout=None):
     to_enrich = [r for r in repos if not r.get("enriched", False)]
 
     if to_enrich:
-        enrich_repos(to_enrich, criteria, search_term, count, timeout)
-        # Remove discarded repositories from the final list
-        repos = [r for r in repos if not r.get("discarded", False)]
+        # Process the repos in batches, saving each batch so progress is not lost.
+        for _ in enrich_repos(to_enrich, criteria, search_term, count, timeout):
+            # Remove discarded repositories and save the partial results
+            copy_of_repos = [r for r in repos if not r.get("discarded", False)]
+            with open(repo_file, "w") as f:
+                json.dump(copy_of_repos, f, indent=4)
 
+        # Save the final, complete results
         with open(repo_file, "w") as f:
             json.dump(repos, f, indent=4)
+
     else:
         logger.info("No raw repos found to enrich.")
 
@@ -417,7 +438,9 @@ def gather_github_repos(topic, count=None, timeout=None):
             search_date = f"{y:04}-{m:02}"
 
             for date_type in date_types:
-                logger.info(f"    Searching {title} repos for {date_type}:{search_date} ...")
+                logger.info(
+                    f"    Searching {title} repos for {date_type}:{search_date} ..."
+                )
                 query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"
                 yr_mo_repos = g.search_repositories(query)
 
@@ -506,8 +529,16 @@ if __name__ == "__main__":
     # Configure loguru level based on debug flag
     logger.remove()
     level = "DEBUG" if args.debug else "INFO"
-    logger.add(sys.stderr, level=level, format="\n<level>{level}</level> // <green>{time:HH:mm:ss}</green> // <i>{name}:{line}</i>\n<level>{message}</level>\n")
-    logger.add("scan_repos.log", level=level, format="\n<level>{level}</level> // <green>{time:HH:mm:ss}</green> // <i>{name}:{line}</i>\n<level>{message}</level>\n")
+    logger.add(
+        sys.stderr,
+        level=level,
+        format="\n<level>{level}</level> // <green>{time:HH:mm:ss}</green> // <i>{name}:{line}</i>\n<level>{message}</level>\n",
+    )
+    logger.add(
+        "scan_repos.log",
+        level=level,
+        format="\n<level>{level}</level> // <green>{time:HH:mm:ss}</green> // <i>{name}:{line}</i>\n<level>{message}</level>\n",
+    )
 
     with open(args.topic_file, "r") as topic_file:
         topics = json.load(topic_file)
