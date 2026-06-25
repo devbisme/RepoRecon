@@ -58,9 +58,6 @@ def get_default_repo_branch(owner, repo):
 
     Returns:
         str: The name of the default branch (e.g., 'main' or 'master').
-
-    Raises:
-        requests.exceptions.HTTPError: If the API request fails.
     """
     url = f"https://api.github.com/repos/{owner}/{repo}"
 
@@ -72,8 +69,12 @@ def get_default_repo_branch(owner, repo):
     if token:
         headers["Authorization"] = f"token {token}"
 
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+    except Exception:
+        logger.warning(f"Failed to get default branch for {owner}/{repo}")
+        return "master" # Just take a guess...
 
     data = response.json()
     return data["default_branch"]
@@ -101,12 +102,15 @@ def get_repo_file_extensions(owner, repo):
     if token:
         headers["Authorization"] = f"token {token}"
 
-    response = requests.get(url, headers=headers)
-    response.raise_for_status()
-
-    data = response.json()
+    try:
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+    except Exception:
+        logger.warning(f"Failed to get file extensions for {owner}/{repo}")
+        return set()
 
     file_extensions = set()
+    data = response.json()
     for item in data.get("tree", []):
         if item["type"] == "blob":  # blob = file, tree = directory
             path = item["path"]
@@ -139,9 +143,9 @@ def fetch_readme(owner, repo):
         # Try the dedicated readme endpoint
         url = f"https://api.github.com/repos/{owner}/{repo}/readme"
         r = requests.get(url, headers=headers, timeout=10)
-        if r.status_code == 200:
-            data = r.json()
-            return base64.b64decode(data["content"]).decode("utf-8")
+        r.raise_for_status()
+        data = r.json()
+        return base64.b64decode(data["content"]).decode("utf-8")
     except Exception:
         pass
 
@@ -149,26 +153,34 @@ def fetch_readme(owner, repo):
     try:
         url = f"https://api.github.com/repos/{owner}/{repo}/contents/"
         r = requests.get(url, headers=headers, timeout=10)
-        if r.status_code == 200:
-            files = r.json()
-            candidates = [
-                "README.md",
-                "README.rst",
-                "README.txt",
-                "README",
-                "readme.md",
-                "readme.rst",
-                "readme",
-            ]
-            for name in candidates:
-                for f in files:
-                    if f["name"] == name:
-                        file_resp = requests.get(
-                            f["download_url"], headers=headers, timeout=10
-                        )
-                        return file_resp.text
+        r.raise_for_status()
     except Exception:
-        pass
+        logger.warning(f"Failed to get README for {owner}/{repo}")
+        return ""
+
+    files = r.json()
+    candidates = [
+        "README.md",
+        "README.rst",
+        "README.txt",
+        "README",
+        "readme.md",
+        "readme.rst",
+        "readme",
+    ]
+    for name in candidates:
+        for f in files:
+            if f["name"] == name:
+                try:
+                    file_resp = requests.get(
+                        f["download_url"], headers=headers, timeout=10
+                    )
+                    file_resp.raise_for_status()
+                    return file_resp.text
+                except Exception:
+                    pass
+    
+    logger.warning(f"Failed to get README for {owner}/{repo}")
     return ""
 
 
@@ -194,8 +206,8 @@ def ollama_process(prompt, context=""):
                 "stream": False,
             }
             r = requests.post(url, json=payload, timeout=60)
-            if r.status_code == 200:
-                return r.json().get("response", "").strip()
+            r.raise_for_status()
+            return r.json().get("response", "").strip()
         except Exception as e:
             logger.warning(f"Ollama error: {e}")
     logger.error("Failed to get response from Ollama after multiple retries.")
