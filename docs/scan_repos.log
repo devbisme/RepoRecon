@@ -5001,3 +5001,191 @@ Enriching 1 repos...
 DEBUG // 23:54:21 // __main__:329
      1: Discarded rustyoz/svg - No. The provided content describes a Go library for parsing SVG (Scalable Vector Graphics) files. It does not contain any KiCad project files (such as .kicad_pcb, .sch), nor is it described as a KiCad plugin or a utility specifically designed to accept or generate files for KiCad.
 
+
+INFO // 07:22:04 // __main__:450
+Gathering AI repos for 2026-06 ...
+
+
+INFO // 07:22:04 // __main__:454
+    Searching AI repos for pushed:2026-06 ...
+
+
+INFO // 07:24:06 // __main__:454
+    Searching AI repos for created:2026-06 ...
+
+
+INFO // 07:26:13 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 07:26:16 // __main__:450
+Gathering KiCad repos for 2026-06 ...
+
+
+INFO // 07:26:16 // __main__:454
+    Searching KiCad repos for pushed:2026-06 ...
+
+
+INFO // 07:27:19 // __main__:454
+    Searching KiCad repos for created:2026-06 ...
+
+
+INFO // 07:28:28 // __main__:300
+Enriching 100 repos...
+
+
+WARNING // 07:37:05 // __main__:212
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 08:29:13 // __main__:212
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 08:32:56 // __main__:183
+Failed to get README for teeho88/mcp_kicad
+
+
+INFO // 08:34:53 // __main__:450
+Gathering FreeCAD repos for 2026-06 ...
+
+
+INFO // 08:34:53 // __main__:454
+    Searching FreeCAD repos for pushed:2026-06 ...
+
+
+INFO // 08:36:04 // __main__:454
+    Searching FreeCAD repos for created:2026-06 ...
+
+
+INFO // 08:36:33 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:36:33 // __main__:450
+Gathering SKiDL repos for 2026-06 ...
+
+
+INFO // 08:36:33 // __main__:454
+    Searching SKiDL repos for pushed:2026-06 ...
+
+
+INFO // 08:36:36 // __main__:454
+    Searching SKiDL repos for created:2026-06 ...
+
+
+INFO // 08:36:37 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:36:37 // __main__:450
+Gathering LiteX repos for 2026-06 ...
+
+
+INFO // 08:36:37 // __main__:454
+    Searching LiteX repos for pushed:2026-06 ...
+
+
+INFO // 08:36:57 // __main__:454
+    Searching LiteX repos for created:2026-06 ...
+
+
+INFO // 08:37:00 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:37:00 // __main__:450
+Gathering MyHDL repos for 2026-06 ...
+
+
+INFO // 08:37:00 // __main__:454
+    Searching MyHDL repos for pushed:2026-06 ...
+
+
+INFO // 08:37:01 // __main__:454
+    Searching MyHDL repos for created:2026-06 ...
+
+
+INFO // 08:37:02 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:37:02 // __main__:450
+Gathering FOSS Chips repos for 2026-06 ...
+
+
+INFO // 08:37:02 // __main__:454
+    Searching FOSS Chips repos for pushed:2026-06 ...
+
+
+INFO // 08:37:58 // __main__:454
+    Searching FOSS Chips repos for created:2026-06 ...
+
+
+INFO // 08:38:19 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:38:21 // __main__:450
+Gathering Embedded RTOSes repos for 2026-06 ...
+
+
+INFO // 08:38:21 // __main__:454
+    Searching Embedded RTOSes repos for pushed:2026-06 ...
+
+
+INFO // 08:39:34 // __main__:454
+    Searching Embedded RTOSes repos for created:2026-06 ...
+
+
+INFO // 08:40:46 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:40:47 // __main__:450
+Gathering Kendryte Microcontrollers repos for 2026-06 ...
+
+
+INFO // 08:40:47 // __main__:454
+    Searching Kendryte Microcontrollers repos for pushed:2026-06 ...
+
+
+INFO // 08:41:07 // __main__:454
+    Searching Kendryte Microcontrollers repos for created:2026-06 ...
+
+
+INFO // 08:41:14 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:41:14 // __main__:450
+Gathering El-Cheapo Microcontrollers repos for 2026-06 ...
+
+
+INFO // 08:41:14 // __main__:454
+    Searching El-Cheapo Microcontrollers repos for pushed:2026-06 ...
+
+
+INFO // 08:42:27 // __main__:454
+    Searching El-Cheapo Microcontrollers repos for created:2026-06 ...
+
+
+INFO // 08:43:35 // __main__:300
+Enriching 0 repos...
+
+
+INFO // 08:43:36 // __main__:450
+Gathering Awesome Lists repos for 2026-06 ...
+
+
+INFO // 08:43:36 // __main__:454
+    Searching Awesome Lists repos for pushed:2026-06 ...
+
+
+INFO // 08:44:45 // __main__:454
+    Searching Awesome Lists repos for created:2026-06 ...
+
+
+INFO // 08:45:58 // __main__:300
+Enriching 0 repos...
+
