@@ -214,59 +214,59 @@ def ollama_process(prompt, context=""):
     return None
 
 
-def check_acceptance(readme, criteria):
-    """
-    Use an LLM to determine if a repository's content satisfies specific acceptance criteria.
+def parse_acceptance_response(response):
+    """Parse the model response into an acceptance boolean and the remaining text."""
+    if not response:
+        # Don't reject a repo just because the LLM got borked and didn't generate a response.
+        return True, ""
 
-    Args:
-        readme (str): The content of the README file.
-        criteria (str): The requirements/criteria string.
+    text = response.strip()
+    tokens = text.split(None, 1)
+    if tokens:
+        first = tokens[0].lower().rstrip(".,;:")
+        remainder = tokens[1].strip() if len(tokens) > 1 else ""
+        if first == "yes":
+            return True, remainder or ""
+        if first == "no":
+            return False, remainder or "Rejected but no rejection reasons were returned."
 
-    Returns:
-        tuple: (bool, str) - A boolean indicating acceptance and the raw LLM response.
-    """
-    if not readme or not criteria or "Placeholder" in criteria:
-        # If no criteria defined or no readme found, treat as pass by default.
-        return True, "No criteria defined or no readme found so accept it by default."
+    lower_text = text.lower()
+    if lower_text.startswith("yes"):
+        return True, text[3:].strip() or ""
+    if lower_text.startswith("no"):
+        return False, text[2:].strip() or "Rejected but no rejection reasons were returned."
 
-    if debug:
-        prompt = f"Does the following content satisfy these criteria? Start answer with an initial 'Yes' or 'No' followed by an explanation for your decision.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
-    else:
-        # In production, we want a more deterministic response.
-        prompt = f"Does the following content satisfy these criteria? Answer only 'Yes' or 'No'.\n\nCriteria: {criteria}\n\nContent:\n{readme}"
-
-    # Test the repository against the criteria to see if it meets requirements.
-    yes_no = []
-    num_checks = 1  # Number of times we want to verify (could be increased for higher confidence)
-    while len(yes_no) < num_checks:
-        response = ollama_process(prompt)
-        if response:
-            # Check the beginning of the response for 'yes' or 'no'.
-            if "yes" in response[:3].lower():
-                yes_no.append(1)
-            elif "no" in response[:2].lower():
-                yes_no.append(0)
-
-    # Accept if majority of checks passed (or 1/1 for num_checks=1).
-    return sum(yes_no) > num_checks // 2, response
+    # Something strange happened, but don't reject the repo because of that.
+    return True, text
 
 
-def generate_summary(readme, search_terms):
-    """
-    Generate a concise summary and keywords for a repository using an LLM.
+def evaluate_repository(repo_info, criteria, search_terms):
+    """Use a single Ollama call to decide acceptance and return a summary or rejection reasons."""
+    if not repo_info or not criteria or "Placeholder" in criteria:
+        return True, "Accepted by default; no criteria defined or no README content available."
 
-    Args:
-        readme (str): The content of the README file.
-        search_terms (str): Keywords to focus on or exclude from categorization.
+    summary_length = "50-word"
+    prompt = (
+        "You are analyzing a GitHub repository to determine whether it matches the acceptance criteria. "
+        "Answer with a single initial token 'Yes' or 'No', followed by a concise explanation.\n\n"
+        f"If the repo is accepted, follow 'Yes' with a {summary_length} summary of the project followed "
+        "by a newline and three parenthesized keywords "
+        f"(do not repeat or include the search terms '{search_terms}').\n"
+        "If the repo is rejected, follow 'No' with the reasons it was rejected.\n\n"
+        "Output format:\n"
+        "Yes <summary>\n(<keywords>)\n"
+        "or\n"
+        "No <rejection reasons>\n\n"
+        f"Acceptance criteria:\n{criteria}\n\n"
+        f"Repository content:\n{repo_info}"
+    )
 
-    Returns:
-        str: A generated summary string, or empty if failed.
-    """
-    if not readme:
-        return ""
-    prompt = f"Create a terse, 50-word summary of the following, focusing on what the project does and how it relates to {search_terms}. Then append three keywords (excluding {search_terms}) to categorize this project:\n\n{readme}"
-    summary = ollama_process(prompt)
-    return summary if summary else ""
+    response = ollama_process(prompt)
+    if not response:
+        return False, "No response received from Ollama."
+
+    accepted, body = parse_acceptance_response(response)
+    return accepted, body
 
 
 def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
@@ -315,14 +315,12 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         desc = repo["description"] or ""
         repo_info = f"{file_extensions}\n{readme} {desc}"
 
-        # Perform LLM-based acceptance check
-        is_accepted, response = check_acceptance(repo_info, criteria)
+        # Perform LLM-based evaluation and enrich if accepted.
+        is_accepted, response = evaluate_repository(repo_info, criteria, search_terms)
 
         if is_accepted:
             logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
-            summary = generate_summary(readme, search_terms)
-            # Update repo info with the new summary if generated successfully
-            repo["description"] = summary if summary else repo["description"]
+            repo["description"] = response or repo["description"]
             repo["enriched"] = True
         else:
             repo["discarded"] = True

@@ -5189,3 +5189,131 @@ INFO // 08:44:45 // __main__:454
 INFO // 08:45:58 // __main__:300
 Enriching 0 repos...
 
+
+INFO // 09:26:45 // __main__:447
+Gathering KiCad repos for 2026-06 ...
+
+
+INFO // 09:26:45 // __main__:451
+    Searching KiCad repos for pushed:2026-06 ...
+
+
+INFO // 09:27:54 // __main__:451
+    Searching KiCad repos for created:2026-06 ...
+
+
+INFO // 09:29:05 // __main__:299
+Enriching 10 repos...
+
+
+DEBUG // 09:29:41 // __main__:321
+     1: Accepted GuitarML/TouchedOutSynth - This project features a polyphonic capacitive touch synthesizer built on the Daisy Seed platform using Adafruit MPR121 modules. It provides complete hardware design files, including schematics and PCB layouts for manufacturing, alongside Arduino-based firmware designed to create an interactive musical instrument with custom tactile controls. Synthesizer CapacitiveTouch HardwareDesign
+
+
+DEBUG // 09:30:25 // __main__:321
+     2: Accepted INTI-CMNB/kicad_auto - This repository provides Docker images designed for automating hardware design workflows within CI/CD environments. It integrates various tools like KiBot and KiAuto to automate tasks such as generating gerbers, running DRC/ERC checks, and creating Bills of Materials (BOMs), enabling efficient development pipelines through containerized automation scripts.
+Automation, Docker, Electronics
+
+
+DEBUG // 09:30:50 // __main__:321
+     3: Accepted cristianoag/ESP32_CP400 - This project recreates a classic Brazilian home computer, the Prologica CP 400, using modern ESP32-S3 hardware. It includes open hardware designs and software to preserve the original's experience while providing a buildable, hackable platform for enthusiasts of retro computing history.
+ESP32, Retrocomputing, Hardware_Design
+
+
+DEBUG // 09:31:07 // __main__:326
+     4: Discarded orulink-ai/WatcheRobot_esp32 - The repository contains ESP32-S3 based AI assistant robot firmware including voice interaction, servo control, and camera streaming; it lacks any KiCad files, plugins, utilities, or skills related to PCB design software.
+
+
+DEBUG // 09:31:22 // __main__:326
+     5: Discarded Brewforge/homebrew-chinese - The repository is a Chinese community-driven collection of Homebrew packages (Homebrew-Chinese) providing mirrors and local software versions; it contains no files, plugins, utilities, or AI skills related to KiCad or electronic design automation.
+
+
+DEBUG // 09:31:45 // __main__:321
+     6: Accepted INTI-CMNB/kicad_auto_test - This project provides Docker images containing various software utilities and environments designed to automate testing and rendering for KiCad projects. It specifically supports workflows like those used by KiBot, including tools such as pcb2blender for generating board renders within CI/CD pipelines.
+Automation, Docker, Rendering
+
+
+DEBUG // 09:32:08 // __main__:321
+     7: Accepted g200kg/kicad-gerberzipper2 - This tool is an IPC API-compatible plugin for the KiCad PCB editor that automates production workflows. It generates manufacturer-specific Gerber files, ZIP bundles, BOMs, and POS files while also executing DRC checks and producing fabrication PDFs to streamline the transition from design to manufacturing. Fabrication Automation Manufacturing
+
+
+DEBUG // 09:32:40 // __main__:321
+     8: Accepted Tinkerforge/warp-charger - This repository contains hardware design files for various WARP Charger components, including ESP32 Ethernet Bricks and EVSE Bricklets. It also includes firmware source code, documentation, and tools related to the WARP Charger ecosystem. Keywords: Hardware Design, Firmware, Electronics
+
+
+DEBUG // 09:33:05 // __main__:321
+     9: Accepted ionutms/KiCAD_Symbols_Generator - This project automates the creation of electronic component symbols from CSV databases into KiCad-compatible files. It features a web interface for browsing components from various manufacturers like NXP and Texas Instruments, streamlining hardware design workflows by converting raw data into usable symbol libraries for engineers.
+Electronics, Automation, Database
+
+
+DEBUG // 09:33:34 // __main__:321
+    10: Accepted underthenightsky/KiCad-Projects - This repository contains various electronic design files including PCB layouts, schematics, and symbol libraries. It serves as a collection of starter projects for users looking to begin hardware development within this open-source ecosystem.
+Electronics, PCB Design, Schematics
+
+
+INFO // 09:45:13 // __main__:448
+Gathering KiCad repos for 2026-06 ...
+
+
+INFO // 09:45:13 // __main__:452
+    Searching KiCad repos for pushed:2026-06 ...
+
+
+INFO // 09:46:21 // __main__:452
+    Searching KiCad repos for created:2026-06 ...
+
+
+INFO // 09:47:32 // __main__:300
+Enriching 10 repos...
+
+
+DEBUG // 09:47:57 // __main__:322
+     1: Accepted Konstantin-Dudersky/kicad_inventree_lib - This repository provides a component library for KiCad that integrates with InvenTree. It includes symbols and footprints to streamline hardware design workflows by connecting electronic parts directly to an inventory management system, facilitating easier part tracking and selection during the PCB layout process.
+(InvenTree, electronics, components)
+
+
+DEBUG // 09:48:15 // __main__:322
+     2: Accepted DashiellRussell/UNSW_Rocketry_Senior_Flight_Computer - This repository contains hardware design files for a senior flight computer used by UNSW Rocketry. It includes multiple revisions of schematics, PCB layouts, and footprint libraries in KiCad format, along with documentation and BOM exports to support independent fabrication of each iteration.
+(electronics, aerospace, pcb_design)
+
+
+DEBUG // 09:49:13 // __main__:322
+     3: Accepted fussdeek-del/Black-Flipper - This project features a custom open-source wireless hacking tool inspired by Flipper Zero. It includes a 4-layer PCB designed with bare ICs, supporting GPS, LoRa, WiFi, and NFC. The hardware is built for high performance, offering improved range and processing power compared to the original device.
+(Hardware, Electronics, Wireless)
+
+
+DEBUG // 09:49:52 // __main__:322
+     4: Accepted dshills/KiCadAI - A Go toolkit designed for AI-assisted electronic design automation. It provides a client for probing live IPC APIs, direct file writers for schematics and PCBs, and various CLI tools for automated generation, inspection, validation, and placement/routing feedback to enable agents to build native projects from structured intent.
+(EDA, Automation, Electronics)
+
+
+DEBUG // 09:50:22 // __main__:322
+     5: Accepted A89881/E---CAD-CONVERTER - This repository provides a Python-based workspace for translating, validating, and reviewing ECAD projects using a neutral circuit model. It includes tools to export structured data into KiCad schematic files, perform connectivity validation, and generate AI context builders to facilitate LLM-driven electronic design automation workflows.
+(ECAD, CircuitModel, Automation)
+
+
+WARNING // 09:50:26 // __main__:183
+Failed to get README for minuchok/kicadpractice
+
+
+DEBUG // 09:51:08 // __main__:322
+     6: Accepted minuchok/kicadpractice - This repository contains project files for electronic hardware development, including schematics, PCB layouts, symbol libraries, and footprint definitions. It serves as a collection of practice designs for creating and managing circuit board projects using open-source EDA tools, covering the workflow from initial schematic capture to final manufacturing layout.
+(electronics, PCB design, hardware engineering)
+
+
+DEBUG // 09:51:32 // __main__:322
+     7: Accepted Averyy/pcbparts-mcp - This project provides an MCP server enabling AI assistants like Claude and Cursor to search electronic components, retrieve footprints, and access PCB design reference files from distributors such as JLCPCB, Mouser, and DigiKey, facilitating hardware development workflows directly within the LLM interface.
+(electronics, mcp, hardware_design)
+
+
+DEBUG // 09:51:46 // __main__:327
+     8: Discarded Kaizen-579/Kaizen-579 - The repository is a personal portfolio page that lists professional experience and projects but does not contain any KiCad project files, plugins, software utilities, or AI skills related to KiCad.
+
+
+DEBUG // 09:52:03 // __main__:327
+     9: Discarded Scoopforge/Extras-CN - The repository is a collection of software manifests for the Windows package manager "Scoop," specifically targeting Chinese users, and contains no files, plugins, or utilities related to KiCad.
+
+
+DEBUG // 09:52:17 // __main__:327
+    10: Discarded pkgforge-dev/Anylinux-AppImages - This repository focuses on creating portable Linux AppImages using DwarFS and optimized packages, which is unrelated to KiCad projects, plugins, utilities, or AI skills for electronics design software.
+

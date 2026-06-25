@@ -2,56 +2,68 @@
     {
         "title": "AI",
         "search_terms": "Machine Learning OR Artificial Intelligence OR Deep Learning",
-        "JSON_file": "AI"
+        "JSON_file": "AI",
+        "count": 0
     },
     {
         "title": "KiCad",
         "search_terms": "kicad",
-        "JSON_file": "kicad"
+        "JSON_file": "kicad",
+        "acceptance_criteria": "The repo has one or more of the following: 1) files with extensions for KiCad projects, schematics, PCBs, symbol libraries, or footprint libraries, 2) plugins that assist KiCad, 3) software utilities that accept and/or generate files for KiCad, 4) skills or MCPs that allow an AI or LLM to work with KiCad.",
+        "count": 100
     },
     {
         "title": "FreeCAD",
         "search_terms": "freecad",
-        "JSON_file": "freecad"
+        "JSON_file": "freecad",
+        "count": 0
     },
     {
         "title": "SKiDL",
         "search_terms": "skidl",
-        "JSON_file": "skidl"
+        "JSON_file": "skidl",
+        "count": 0
     },
     {
         "title": "LiteX",
         "search_terms": "litex",
-        "JSON_file": "litex"
+        "JSON_file": "litex",
+        "count": 0
     },
     {
         "title": "MyHDL",
         "search_terms": "myhdl",
-        "JSON_file": "myhdl"
+        "JSON_file": "myhdl",
+        "count": 0
     },
     {
         "title": "FOSS Chips",
         "search_terms": "skywater OR sky130 OR efabless OR chipIgnite OR openlane",
-        "JSON_file": "foss_chips"
+        "JSON_file": "foss_chips",
+        "count": 0
     },
     {
         "title": "Embedded RTOSes",
         "search_terms": "FreeRTOS OR NuttX OR Zephyr OR RIOT",
-        "JSON_file": "embedded_rtos"
+        "JSON_file": "embedded_rtos",
+        "count": 0
     },
     {
         "title": "Kendryte Microcontrollers",
         "search_terms": "maix OR kendryte OR K210 OR K230 OR K510",
-        "JSON_file": "kendryte_uc"
+        "JSON_file": "kendryte_uc",
+        "count": 0
     },
     {
         "title": "El-Cheapo Microcontrollers",
         "search_terms": "RP2040 OR CH32V OR PY32F",
-        "JSON_file": "el_cheapo_uc"
+        "JSON_file": "el_cheapo_uc",
+        "count": 0
     },
     {
         "title": "Awesome Lists",
         "search_terms": "awesome+curated+list",
-        "JSON_file": "awesome_list"
+        "JSON_file": "awesome_list",
+        "count": 0
     }
 ]
