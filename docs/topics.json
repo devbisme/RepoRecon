@@ -3,66 +3,67 @@
         "title": "AI",
         "search_terms": "Machine Learning OR Artificial Intelligence OR Deep Learning",
         "JSON_file": "AI",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "KiCad",
         "search_terms": "kicad",
         "JSON_file": "kicad",
-        "acceptance_criteria": "The repo has one or more of the following: 1) files with extensions for KiCad project, schematic, PCB, symbol library, or footprint library, 2) plugins or other software that assists KiCad.",
+        "acceptance_criteria": "The repo has one or more of the following: 1) files with extensions for KiCad projects, schematics, PCBs, symbol libraries, or footprint libraries, 2) plugins that assist KiCad, 3) software utilities that accept and/or generate files for KiCad.",
+        "count": 100
     },
     {
         "title": "FreeCAD",
         "search_terms": "freecad",
         "JSON_file": "freecad",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "SKiDL",
         "search_terms": "skidl",
         "JSON_file": "skidl",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "LiteX",
         "search_terms": "litex",
         "JSON_file": "litex",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "MyHDL",
         "search_terms": "myhdl",
         "JSON_file": "myhdl",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "FOSS Chips",
         "search_terms": "skywater OR sky130 OR efabless OR chipIgnite OR openlane",
         "JSON_file": "foss_chips",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "Embedded RTOSes",
         "search_terms": "FreeRTOS OR NuttX OR Zephyr OR RIOT",
         "JSON_file": "embedded_rtos",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "Kendryte Microcontrollers",
         "search_terms": "maix OR kendryte OR K210 OR K230 OR K510",
         "JSON_file": "kendryte_uc",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "El-Cheapo Microcontrollers",
         "search_terms": "RP2040 OR CH32V OR PY32F",
         "JSON_file": "el_cheapo_uc",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     },
     {
         "title": "Awesome Lists",
         "search_terms": "awesome+curated+list",
         "JSON_file": "awesome_list",
-        "acceptance_criteria": "Placeholder: define criteria here"
+        "count": 0
     }
 ]
