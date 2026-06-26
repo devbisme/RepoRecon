@@ -18,6 +18,7 @@ import subprocess
 import sys
 from datetime import datetime as dt
 from github import Github
+import html_text
 import requests
 import base64
 from loguru import logger
@@ -145,7 +146,8 @@ def fetch_readme(owner, repo):
         r = requests.get(url, headers=headers, timeout=10)
         r.raise_for_status()
         data = r.json()
-        return base64.b64decode(data["content"]).decode("utf-8")
+        html = base64.b64decode(data["content"]).decode("utf-8")
+        return html_text.extract_text(html)
     except Exception:
         pass
 
@@ -176,7 +178,7 @@ def fetch_readme(owner, repo):
                         f["download_url"], headers=headers, timeout=10
                     )
                     file_resp.raise_for_status()
-                    return file_resp.text
+                    return html_text.extract_text(file_resp)
                 except Exception:
                     pass
     
@@ -196,16 +198,17 @@ def ollama_process(prompt, context=""):
         str or None: The stripped string response from Ollama, or None if an error occurs.
     """
     num_retries = 2
-    for _ in range(num_retries):
+    timeout = 60
+    for i in range(num_retries):
         try:
             # Assuming Ollama is running locally on the default port
             url = "http://localhost:11434/api/generate"
             payload = {
                 "model": model,
-                "prompt": f"{context}\n\n{prompt[:3500]}",  # Truncate to stay within limits
+                "prompt": f"{context}\n\n{prompt[:10000]}",  # Truncate to stay within limits
                 "stream": False,
             }
-            r = requests.post(url, json=payload, timeout=60)
+            r = requests.post(url, json=payload, timeout=timeout * (i+1))
             r.raise_for_status()
             return r.json().get("response", "").strip()
         except Exception as e:
@@ -237,13 +240,14 @@ def parse_acceptance_response(response):
         return False, text[2:].strip() or "Rejected but no rejection reasons were returned."
 
     # Something strange happened, but don't reject the repo because of that.
-    return True, text
+    return True, ""
 
 
 def evaluate_repository(repo_info, criteria, search_terms):
     """Use a single Ollama call to decide acceptance and return a summary or rejection reasons."""
     if not repo_info or not criteria or "Placeholder" in criteria:
-        return True, "Accepted by default; no criteria defined or no README content available."
+        # Don't reject the repo. It will be re-evaluated some other time.
+        return True, ""
 
     summary_length = "50-word"
     prompt = (
@@ -262,9 +266,6 @@ def evaluate_repository(repo_info, criteria, search_terms):
     )
 
     response = ollama_process(prompt)
-    if not response:
-        return False, "No response received from Ollama."
-
     accepted, body = parse_acceptance_response(response)
     return accepted, body
 
@@ -318,13 +319,18 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         # Perform LLM-based evaluation and enrich if accepted.
         is_accepted, response = evaluate_repository(repo_info, criteria, search_terms)
 
-        if is_accepted:
+        if not response:
+            # No response, so don't accept or reject the repo.
+            # It will be re-evaluated some other time, maybe with a definitive result.
+            logger.debug(f"{idx:6d}: Deferred {owner}/{repo_name} - No response")
+            pass
+        elif is_accepted:
             logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
             repo["description"] = response or repo["description"]
             repo["enriched"] = True
         else:
-            repo["discarded"] = True
             logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
+            repo["discarded"] = True
 
         # Yield back to the caller after processing each batch.
         # The caller can save the repos after each batch so that progress is not lost.
