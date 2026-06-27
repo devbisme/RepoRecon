@@ -9158,3 +9158,780 @@ Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. 
 DEBUG // 19:55:59 // __main__:332
    381: Discarded darekarradha2005-lab/4-Layer-Mixed-Signal-PCB - The repository contains only documentation (Markdown files and images) regarding a PCB design project but lacks the required KiCad project files (.kicad_pcb, .sch), plugins, software utilities, or AI skills/MCPs specified in the acceptance criteria.
 
+
+INFO // 09:03:08 // __main__:302
+Enriching 1 repos...
+
+
+INFO // 09:04:55 // __main__:302
+Enriching 1 repos...
+
+
+WARNING // 09:05:57 // __main__:216
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+DEBUG // 09:07:42 // __main__:326
+     1: Deferred VJPatz/VArm6 - No response
+
+
+INFO // 09:08:36 // __main__:302
+Enriching 1 repos...
+
+
+WARNING // 09:09:38 // __main__:216
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+DEBUG // 09:11:02 // __main__:329
+     1: Accepted VJPatz/VArm6 - VArm6 is an open-source 6-degree-of-freedom robotic arm project featuring a joystick-controlled system built on Arduino Mega 2560 and PCA9685 PWM driver. It includes momentum-based motion control firmware, detailed wiring instructions, and complete hardware documentation including KiCad schematics for hobbyist electronics enthusiasts to build or modify.
+(robotics, arduino, pwm)
+
+
+INFO // 09:11:38 // __main__:302
+Enriching 1 repos...
+
+
+WARNING // 09:12:40 // __main__:216
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 09:14:40 // __main__:216
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=120)
+
+
+ERROR // 09:14:40 // __main__:217
+Failed to get response from Ollama after multiple retries.
+
+
+DEBUG // 09:14:40 // __main__:326
+     1: Deferred Chiragb16/EdgeSense - No response
+
+
+INFO // 09:15:31 // __main__:304
+Enriching 1 repos...
+
+
+DEBUG // 09:16:19 // __main__:328
+     1: Deferred Chiragb16/EdgeSense - No response
+
+
+INFO // 09:22:13 // __main__:305
+Enriching 1 repos...
+
+
+WARNING // 09:28:25 // __main__:219
+Ollama error: 
+
+
+INFO // 09:37:03 // __main__:305
+Enriching 1 repos...
+
+
+DEBUG // 09:37:08 // __main__:336
+     1: Discarded Chiragb16/EdgeSense - The repository does not meet the acceptance criteria because it lacks files with extensions specific to KiCad projects, schematics, PCBs, symbol libraries or footprint libraries (e.g., .kicad_pcb). Additionally, there are no explicit plugins for KiCad nor software utilities generating such files that would assist users in working directly within the KiCad environment.
+
+# Rejection reasons: Lack of necessary file extensions and absence of relevant tools or libraries; insufficient evidence to support AI/LLM capabilities with respect to KiCad work. 
+(KiCad Design, BLE Integration, Environmental Monitoring)
+
+
+INFO // 09:38:37 // __main__:304
+Enriching 8 repos...
+
+
+DEBUG // 09:38:40 // __main__:331
+     1: Accepted el-puerro/eater-deluxe - The repository features eater-deluxe—a modern retro computer built around the classic 6502 processor and featuring an LCD display and RS232 serial interface for nostalgia with a contemporary twist. (retro_computing, electronics, hardware)
+
+
+DEBUG // 09:38:44 // __main__:335
+     2: Discarded chandos4473-cpu/relay-project-core - (The repo does not contain any file extensions for KiCad projects, nor plugins or utilities that support KiCad functionality. It lacks related skills/MCPs.)
+(Relay Project Summary) (.md,.pdf,.csv), Modular Processor Component, Relays, Arithmetic Logic Unit
+
+
+DEBUG // 09:38:47 // __main__:335
+     3: Discarded tscircuit/tscircuit - (The repository lacks specific KiCad-related files or plugins that directly assist with KiCad projects.)
+
+The project is a React application utilizing Typescript to render electronic circuits. While the GitHub page mentions exporting PCBs, schematics, and BOM for manufacturing, there's no evidence of direct interaction with KiCad software within the repository itself or files specific to it like .kicad_mod or libraries that are associated with KiCad projects.
+
+
+DEBUG // 09:38:52 // __main__:335
+     4: Discarded Part-DB/Part-DB-server - Sorted list of issues: This repository does not meet the acceptance criteria because it lacks KiCad-specific project files or tools. It appears to be a generic inventory management system with no direct association to electronics design software like KiCad. The presence of GitHub Actions for PHPUnit Tests, Static Analysis badges from Codecov and Docker pull requests suggests the repository may not exclusively focus on electronic component databases but rather general web development or project workflow automation that could apply across various domains unrelated to PCB layout design tools like KiCad. Furthermore, references to Part-DB's multi-language support, barcodes/labels generator for parts and storage locations indicate features pertinent to inventory management without direct ties to electronic component databases as one might expect in a repository dedicated solely or primarily focused on the part database aspect of electronics design software repositories.
+
+
+DEBUG // 09:38:58 // __main__:335
+     5: Discarded grumat/glossy-msp430 - Glossy MSP430 does not meet all acceptance criteria; it lacks KiCad specific files and extensions as per requirement #1: A project with one or more of these file types related to KiCad work. Instead, the repository focuses on developing an in-application debugger tool for embedded microprocessors using MSP430 MCUs but not specifically aiding in KiCad workflows nor providing direct interaction plugins/utilities that accept and generate KiCad files as per requirement #2 or 3: A project with plugins to assist Kaicad work, utilities accepting and generating KiCad files.
+
+Moreover, the repository does contain C++ code for a MSP430 development tool which is relevant but this alone doesn't fulfill all acceptance criteria needed specifically linking back to KiCad projects or workflows. 
+
+To add clarity: A project focused on developing an in-application debugger using mspdebug, with refactored C code and the use of VisualGDB/Visual Studio Community for embedded development is commendable but does not directly align with creating a tool that assists KiCad workflows or provides file conversions as per acceptance criteria.
+
+
+DEBUG // 09:39:06 // __main__:331
+     6: Accepted mohammad-aljumaah/555-clock-module - KiCad Pulse Generator (NE555P IC Clock Module Designed by Mohammad Aljumaah)
+(clock generator, NE555 timer module, clock circuit design)
+
+
+# Acceptance criteria for the repository: The repo has one or more of these features - KiCad project files, KiCad plugins, utilities that interface with KiCad.
+
+Repository content is a well-organized set containing clear schematics (.kicad_sch), PCB layouts (kicad_pcb).gerbers and documentation in markdown format for an NE555P timer IC based clock generator project by Mohammad Aljumaah. The document provides the full datasheet, a detailed explanation of how to build and modify this module along with complete hardware design files ready for PCB manufacturing processes like JLCPCB or OSH Park. It includes three main components: schematics (.kicad_sch), Gerbers (Production/Gerbers/), and the production package including zip-packed gerber layers, which is a direct match to one of our acceptance criteria for KiCad projects with files ready for manufacturing without needing additional plugins or utilities.
+
+The project documentation also includes safety notes emphasizing that this clock generator should not be touched directly by humans as it produces electricity and could cause harm – an important consideration in electronics design, showing thoughtfulness beyond the bare hardware circuit itself. Furthermore, Mohammad Aljumaah provides a link to his profile which is good for community engagement but doesn't have any indication of whether he also develops plugins or utilities that work with KiCad specifically as required by our third acceptance criterion; however, it does not disqualify the repo since no strict requirement was given about an additional AI-assistive component. The inclusion of a ZIP file containing Gerber layers is highly beneficial for those interested in PCB fabrication and adheres to modern design practices where ready files are preferable over separate schematic, layout, gerbers or documentation downloads - making it easier for potential users with varying levels of experience from beginners who might need complete setups. 
+
+The project clearly matches the acceptance criteria as a KiCad-based clock generator module and meets all necessary components to be accepted by this specific repository's standards: having files prepared in .kicad_sch, kicad_pcb extensions, gerber layers ready for production, along with detailed documentation. Therefore, it is approved without any additional plugins or AI utilities as they were not part of the specified criteria but their absence does not hinder repo acceptance either since these elements are optional to meet our defined requirements.
+
+
+DEBUG // 09:39:10 // __main__:331
+     7: Accepted nishamparakkal/MCUDatalogger-KiCad - This repository provides a KiCad design for an MCU Datalogger project using ATmega328P microcontroller with real-time clock and dual EEPROMs for data storage. It includes schematics, PCB layout, 3D views, Gerber files, ERC/DRC results: (Electronics, Microcontroller, Data Logging)
+
+
+DEBUG // 09:39:13 // __main__:331
+     8: Accepted nishamparakkal/breadboard-power-supply - The repository contains a KiCad-designed breadboard power supply suitable for various circuits with schematics, PCB layouts and a 3D viewer included for electronics prototyping projects. (electronics hardware design power supply)
+
+
+INFO // 02:00:04 // __main__:457
+Gathering AI repos for 2026-06 ...
+
+
+INFO // 02:00:04 // __main__:462
+    Searching AI repos for pushed:2026-06 ...
+
+
+INFO // 02:03:13 // __main__:462
+    Searching AI repos for created:2026-06 ...
+
+
+INFO // 02:06:33 // __main__:304
+Enriching 0 repos...
+
+
+INFO // 02:06:37 // __main__:457
+Gathering KiCad repos for 2026-06 ...
+
+
+INFO // 02:06:37 // __main__:462
+    Searching KiCad repos for pushed:2026-06 ...
+
+
+INFO // 02:10:34 // __main__:462
+    Searching KiCad repos for created:2026-06 ...
+
+
+INFO // 02:13:48 // __main__:304
+Enriching 100 repos...
+
+
+WARNING // 02:16:13 // __main__:80
+Failed to get default branch for orulink-ai/WatcheRobot_esp32
+
+
+WARNING // 02:16:13 // __main__:113
+Failed to get file extensions for orulink-ai/WatcheRobot_esp32
+
+
+WARNING // 02:16:14 // __main__:163
+Failed to get README for orulink-ai/WatcheRobot_esp32
+
+
+WARNING // 02:16:15 // __main__:80
+Failed to get default branch for ingobeans/ittypda
+
+
+WARNING // 02:16:16 // __main__:113
+Failed to get file extensions for ingobeans/ittypda
+
+
+WARNING // 02:16:16 // __main__:163
+Failed to get README for ingobeans/ittypda
+
+
+WARNING // 02:16:22 // __main__:80
+Failed to get default branch for FreeCAD/FreeCAD
+
+
+WARNING // 02:16:22 // __main__:113
+Failed to get file extensions for FreeCAD/FreeCAD
+
+
+WARNING // 02:16:23 // __main__:163
+Failed to get README for FreeCAD/FreeCAD
+
+
+WARNING // 02:16:24 // __main__:80
+Failed to get default branch for Scoopforge/Extras-CN
+
+
+WARNING // 02:16:25 // __main__:113
+Failed to get file extensions for Scoopforge/Extras-CN
+
+
+WARNING // 02:16:26 // __main__:163
+Failed to get README for Scoopforge/Extras-CN
+
+
+WARNING // 02:16:27 // __main__:80
+Failed to get default branch for pkgforge-dev/Anylinux-AppImages
+
+
+WARNING // 02:16:27 // __main__:113
+Failed to get file extensions for pkgforge-dev/Anylinux-AppImages
+
+
+WARNING // 02:16:28 // __main__:163
+Failed to get README for pkgforge-dev/Anylinux-AppImages
+
+
+WARNING // 02:16:30 // __main__:80
+Failed to get default branch for taotieren/aur-repo
+
+
+WARNING // 02:16:30 // __main__:113
+Failed to get file extensions for taotieren/aur-repo
+
+
+WARNING // 02:16:31 // __main__:163
+Failed to get README for taotieren/aur-repo
+
+
+WARNING // 02:16:32 // __main__:80
+Failed to get default branch for hashgraph-online/awesome-codex-plugins
+
+
+WARNING // 02:16:32 // __main__:113
+Failed to get file extensions for hashgraph-online/awesome-codex-plugins
+
+
+WARNING // 02:16:33 // __main__:163
+Failed to get README for hashgraph-online/awesome-codex-plugins
+
+
+WARNING // 02:16:34 // __main__:80
+Failed to get default branch for anbeime/skill
+
+
+WARNING // 02:16:35 // __main__:113
+Failed to get file extensions for anbeime/skill
+
+
+WARNING // 02:16:35 // __main__:163
+Failed to get README for anbeime/skill
+
+
+WARNING // 02:16:37 // __main__:80
+Failed to get default branch for linuxserver/proot-apps
+
+
+WARNING // 02:16:37 // __main__:113
+Failed to get file extensions for linuxserver/proot-apps
+
+
+WARNING // 02:16:38 // __main__:163
+Failed to get README for linuxserver/proot-apps
+
+
+WARNING // 02:16:39 // __main__:80
+Failed to get default branch for hashgraph-online/awesome-ai-plugins
+
+
+WARNING // 02:16:39 // __main__:113
+Failed to get file extensions for hashgraph-online/awesome-ai-plugins
+
+
+WARNING // 02:16:40 // __main__:163
+Failed to get README for hashgraph-online/awesome-ai-plugins
+
+
+WARNING // 02:16:43 // __main__:80
+Failed to get default branch for hiCozyty/float34
+
+
+WARNING // 02:16:43 // __main__:113
+Failed to get file extensions for hiCozyty/float34
+
+
+WARNING // 02:16:44 // __main__:163
+Failed to get README for hiCozyty/float34
+
+
+WARNING // 02:16:45 // __main__:80
+Failed to get default branch for AchyuthaU24/CAN_USB-
+
+
+WARNING // 02:16:45 // __main__:113
+Failed to get file extensions for AchyuthaU24/CAN_USB-
+
+
+WARNING // 02:16:46 // __main__:163
+Failed to get README for AchyuthaU24/CAN_USB-
+
+
+WARNING // 02:16:47 // __main__:80
+Failed to get default branch for cornelmumamia/KiCAD_Themes
+
+
+WARNING // 02:16:48 // __main__:113
+Failed to get file extensions for cornelmumamia/KiCAD_Themes
+
+
+WARNING // 02:16:49 // __main__:188
+Failed to get README for cornelmumamia/KiCAD_Themes
+
+
+WARNING // 02:18:07 // __main__:163
+Failed to get README for N0t4R0b0t/kicad2print
+
+
+WARNING // 02:18:08 // __main__:80
+Failed to get default branch for CoolNamesAllTaken/kicad-libs
+
+
+WARNING // 02:18:08 // __main__:113
+Failed to get file extensions for CoolNamesAllTaken/kicad-libs
+
+
+WARNING // 02:18:09 // __main__:163
+Failed to get README for CoolNamesAllTaken/kicad-libs
+
+
+WARNING // 02:18:10 // __main__:80
+Failed to get default branch for ravinrabbid/DonCon2040
+
+
+WARNING // 02:18:10 // __main__:113
+Failed to get file extensions for ravinrabbid/DonCon2040
+
+
+WARNING // 02:18:11 // __main__:163
+Failed to get README for ravinrabbid/DonCon2040
+
+
+WARNING // 02:18:13 // __main__:80
+Failed to get default branch for ckflight/Radar3
+
+
+WARNING // 02:18:14 // __main__:113
+Failed to get file extensions for ckflight/Radar3
+
+
+WARNING // 02:18:14 // __main__:163
+Failed to get README for ckflight/Radar3
+
+
+WARNING // 02:18:16 // __main__:80
+Failed to get default branch for anttikes/usb-fm-radio
+
+
+WARNING // 02:18:16 // __main__:113
+Failed to get file extensions for anttikes/usb-fm-radio
+
+
+WARNING // 02:18:17 // __main__:163
+Failed to get README for anttikes/usb-fm-radio
+
+
+WARNING // 02:18:18 // __main__:80
+Failed to get default branch for nevenfo/kicad-ai
+
+
+WARNING // 02:18:18 // __main__:113
+Failed to get file extensions for nevenfo/kicad-ai
+
+
+WARNING // 02:18:19 // __main__:163
+Failed to get README for nevenfo/kicad-ai
+
+
+WARNING // 02:18:21 // __main__:80
+Failed to get default branch for lhr-solar/KiCAD-Sharepoint
+
+
+WARNING // 02:18:21 // __main__:113
+Failed to get file extensions for lhr-solar/KiCAD-Sharepoint
+
+
+WARNING // 02:18:22 // __main__:163
+Failed to get README for lhr-solar/KiCAD-Sharepoint
+
+
+WARNING // 02:18:23 // __main__:80
+Failed to get default branch for mixelpixx/KiCAD-MCP-Server
+
+
+WARNING // 02:18:23 // __main__:113
+Failed to get file extensions for mixelpixx/KiCAD-MCP-Server
+
+
+WARNING // 02:18:24 // __main__:163
+Failed to get README for mixelpixx/KiCAD-MCP-Server
+
+
+WARNING // 02:18:26 // __main__:80
+Failed to get default branch for PeldorVarga/kicad-libs
+
+
+WARNING // 02:18:26 // __main__:113
+Failed to get file extensions for PeldorVarga/kicad-libs
+
+
+WARNING // 02:18:27 // __main__:163
+Failed to get README for PeldorVarga/kicad-libs
+
+
+WARNING // 02:18:28 // __main__:80
+Failed to get default branch for satvikpandurangi/MOSFET-As-Switch-Kicad-Simulation
+
+
+WARNING // 02:18:28 // __main__:113
+Failed to get file extensions for satvikpandurangi/MOSFET-As-Switch-Kicad-Simulation
+
+
+WARNING // 02:18:29 // __main__:163
+Failed to get README for satvikpandurangi/MOSFET-As-Switch-Kicad-Simulation
+
+
+WARNING // 02:18:30 // __main__:80
+Failed to get default branch for satvikpandurangi/Pulse-Code-Modulation-Simulation-kicad
+
+
+WARNING // 02:18:30 // __main__:113
+Failed to get file extensions for satvikpandurangi/Pulse-Code-Modulation-Simulation-kicad
+
+
+WARNING // 02:18:31 // __main__:163
+Failed to get README for satvikpandurangi/Pulse-Code-Modulation-Simulation-kicad
+
+
+WARNING // 02:18:33 // __main__:80
+Failed to get default branch for satvikpandurangi/4bit-Ripple-Carry-Full-Adder-Simulation-Kicad
+
+
+WARNING // 02:18:33 // __main__:113
+Failed to get file extensions for satvikpandurangi/4bit-Ripple-Carry-Full-Adder-Simulation-Kicad
+
+
+WARNING // 02:18:34 // __main__:163
+Failed to get README for satvikpandurangi/4bit-Ripple-Carry-Full-Adder-Simulation-Kicad
+
+
+WARNING // 02:18:35 // __main__:80
+Failed to get default branch for ElectronicCats/faultycat
+
+
+WARNING // 02:18:35 // __main__:113
+Failed to get file extensions for ElectronicCats/faultycat
+
+
+WARNING // 02:18:36 // __main__:163
+Failed to get README for ElectronicCats/faultycat
+
+
+WARNING // 02:18:38 // __main__:80
+Failed to get default branch for TAPR/TAPRx888
+
+
+WARNING // 02:18:39 // __main__:113
+Failed to get file extensions for TAPR/TAPRx888
+
+
+WARNING // 02:18:39 // __main__:163
+Failed to get README for TAPR/TAPRx888
+
+
+WARNING // 02:18:44 // __main__:80
+Failed to get default branch for ChrisWeiss/RAMTester
+
+
+WARNING // 02:18:44 // __main__:113
+Failed to get file extensions for ChrisWeiss/RAMTester
+
+
+WARNING // 02:18:44 // __main__:163
+Failed to get README for ChrisWeiss/RAMTester
+
+
+WARNING // 02:18:46 // __main__:80
+Failed to get default branch for Hady-Ballout/PCB_Design
+
+
+WARNING // 02:18:46 // __main__:113
+Failed to get file extensions for Hady-Ballout/PCB_Design
+
+
+WARNING // 02:18:47 // __main__:163
+Failed to get README for Hady-Ballout/PCB_Design
+
+
+WARNING // 02:18:48 // __main__:80
+Failed to get default branch for jusdisgi/slimsplaydy
+
+
+WARNING // 02:18:48 // __main__:113
+Failed to get file extensions for jusdisgi/slimsplaydy
+
+
+WARNING // 02:18:49 // __main__:163
+Failed to get README for jusdisgi/slimsplaydy
+
+
+WARNING // 02:18:50 // __main__:80
+Failed to get default branch for 1-rafael-1/simple-robot
+
+
+WARNING // 02:18:50 // __main__:113
+Failed to get file extensions for 1-rafael-1/simple-robot
+
+
+WARNING // 02:18:51 // __main__:163
+Failed to get README for 1-rafael-1/simple-robot
+
+
+WARNING // 02:18:53 // __main__:80
+Failed to get default branch for sufst/pcb
+
+
+WARNING // 02:18:53 // __main__:113
+Failed to get file extensions for sufst/pcb
+
+
+WARNING // 02:18:54 // __main__:163
+Failed to get README for sufst/pcb
+
+
+WARNING // 02:18:55 // __main__:80
+Failed to get default branch for D76X/KiCad
+
+
+WARNING // 02:18:55 // __main__:113
+Failed to get file extensions for D76X/KiCad
+
+
+WARNING // 02:18:56 // __main__:163
+Failed to get README for D76X/KiCad
+
+
+WARNING // 02:18:57 // __main__:80
+Failed to get default branch for lzbgt/circuitci
+
+
+WARNING // 02:18:58 // __main__:113
+Failed to get file extensions for lzbgt/circuitci
+
+
+WARNING // 02:18:58 // __main__:163
+Failed to get README for lzbgt/circuitci
+
+
+WARNING // 02:19:00 // __main__:80
+Failed to get default branch for Dechatorn200x/Dev_kit_PCB
+
+
+WARNING // 02:19:00 // __main__:113
+Failed to get file extensions for Dechatorn200x/Dev_kit_PCB
+
+
+WARNING // 02:19:01 // __main__:163
+Failed to get README for Dechatorn200x/Dev_kit_PCB
+
+
+WARNING // 02:19:01 // __main__:80
+Failed to get default branch for blaizard/bzd
+
+
+WARNING // 02:19:02 // __main__:113
+Failed to get file extensions for blaizard/bzd
+
+
+WARNING // 02:19:03 // __main__:163
+Failed to get README for blaizard/bzd
+
+
+WARNING // 02:19:05 // __main__:80
+Failed to get default branch for FOSSEE/eSim
+
+
+WARNING // 02:19:05 // __main__:113
+Failed to get file extensions for FOSSEE/eSim
+
+
+WARNING // 02:19:06 // __main__:163
+Failed to get README for FOSSEE/eSim
+
+
+WARNING // 02:19:07 // __main__:80
+Failed to get default branch for moellere/WireStudio
+
+
+WARNING // 02:19:07 // __main__:113
+Failed to get file extensions for moellere/WireStudio
+
+
+WARNING // 02:19:08 // __main__:163
+Failed to get README for moellere/WireStudio
+
+
+WARNING // 02:19:09 // __main__:80
+Failed to get default branch for upb-lea/kicad_planar_winding_generator
+
+
+WARNING // 02:19:10 // __main__:113
+Failed to get file extensions for upb-lea/kicad_planar_winding_generator
+
+
+WARNING // 02:19:10 // __main__:163
+Failed to get README for upb-lea/kicad_planar_winding_generator
+
+
+WARNING // 02:19:12 // __main__:80
+Failed to get default branch for jonnor/projects
+
+
+WARNING // 02:19:12 // __main__:113
+Failed to get file extensions for jonnor/projects
+
+
+WARNING // 02:19:13 // __main__:163
+Failed to get README for jonnor/projects
+
+
+WARNING // 02:19:14 // __main__:80
+Failed to get default branch for oresat/oresat-kicad
+
+
+WARNING // 02:19:14 // __main__:113
+Failed to get file extensions for oresat/oresat-kicad
+
+
+WARNING // 02:19:15 // __main__:163
+Failed to get README for oresat/oresat-kicad
+
+
+WARNING // 02:19:17 // __main__:80
+Failed to get default branch for 4ms/4ms-kicad-lib
+
+
+WARNING // 02:19:18 // __main__:113
+Failed to get file extensions for 4ms/4ms-kicad-lib
+
+
+WARNING // 02:19:18 // __main__:163
+Failed to get README for 4ms/4ms-kicad-lib
+
+
+WARNING // 02:19:19 // __main__:80
+Failed to get default branch for sksat/kicadiff
+
+
+WARNING // 02:19:20 // __main__:113
+Failed to get file extensions for sksat/kicadiff
+
+
+WARNING // 02:19:20 // __main__:163
+Failed to get README for sksat/kicadiff
+
+
+WARNING // 02:19:21 // __main__:80
+Failed to get default branch for damienmaguire/Stm32-vcu
+
+
+WARNING // 02:19:22 // __main__:113
+Failed to get file extensions for damienmaguire/Stm32-vcu
+
+
+WARNING // 02:19:23 // __main__:163
+Failed to get README for damienmaguire/Stm32-vcu
+
+
+WARNING // 02:19:23 // __main__:80
+Failed to get default branch for eTextile/Synth
+
+
+WARNING // 02:19:24 // __main__:113
+Failed to get file extensions for eTextile/Synth
+
+
+WARNING // 02:19:24 // __main__:163
+Failed to get README for eTextile/Synth
+
+
+WARNING // 02:19:25 // __main__:80
+Failed to get default branch for datacrystals/InverterGen5
+
+
+WARNING // 02:19:26 // __main__:113
+Failed to get file extensions for datacrystals/InverterGen5
+
+
+WARNING // 02:19:27 // __main__:163
+Failed to get README for datacrystals/InverterGen5
+
+
+INFO // 02:19:29 // __main__:457
+Gathering FreeCAD repos for 2026-06 ...
+
+
+INFO // 02:19:29 // __main__:462
+    Searching FreeCAD repos for pushed:2026-06 ...
+
+
+INFO // 02:22:39 // __main__:462
+    Searching FreeCAD repos for created:2026-06 ...
+
+
+INFO // 02:24:38 // __main__:304
+Enriching 0 repos...
+
+
+INFO // 02:24:38 // __main__:457
+Gathering SKiDL repos for 2026-06 ...
+
+
+INFO // 02:24:38 // __main__:462
+    Searching SKiDL repos for pushed:2026-06 ...
+
+
+INFO // 02:24:40 // __main__:462
+    Searching SKiDL repos for created:2026-06 ...
+
+
+INFO // 02:24:41 // __main__:304
+Enriching 0 repos...
+
+
+INFO // 02:24:41 // __main__:457
+Gathering LiteX repos for 2026-06 ...
+
+
+INFO // 02:24:41 // __main__:462
+    Searching LiteX repos for pushed:2026-06 ...
+
+
+INFO // 02:24:48 // __main__:462
+    Searching LiteX repos for created:2026-06 ...
+
+
+INFO // 02:25:38 // __main__:304
+Enriching 0 repos...
+
+
+INFO // 02:25:38 // __main__:457
+Gathering MyHDL repos for 2026-06 ...
+
+
+INFO // 02:25:38 // __main__:462
+    Searching MyHDL repos for pushed:2026-06 ...
+
+
+INFO // 02:25:39 // __main__:462
+    Searching MyHDL repos for created:2026-06 ...
+
+
+INFO // 02:25:40 // __main__:304
+Enriching 0 repos...
+
+
+INFO // 02:25:40 // __main__:457
+Gathering FOSS Chips repos for 2026-06 ...
+
+
+INFO // 02:25:40 // __main__:462
+    Searching FOSS Chips repos for pushed:2026-06 ...
+
