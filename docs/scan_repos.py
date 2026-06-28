@@ -26,11 +26,11 @@ from loguru import logger
 # Configuration
 debug = True
 
-# Use large context model (131K tokens)
-# model = "gemma4-claude"
-# ctx_size = 10000
-model = "phi3:latest"
-ctx_size = 3500
+ctx_size = 4096
+model = "gemma4:12b-it-qat" # accurate, 34s per repo eval 
+# model = "gemma4:e2b" # too permissive, 8s per repo eval
+# model = "gemma4:e4b" # too permissive, 12s per repo eval
+# model = "qwen3.5:9b" # terminates because of thinking too much and exceeds length
 
 # Authenticate with GitHub using a personal access token.
 # If not found, then Github access will be slower and may hit rate limits sooner.
@@ -200,6 +200,8 @@ def ollama_process(prompt, context=""):
     Returns:
         str or None: The stripped string response from Ollama, or None if an error occurs.
     """
+    chars_per_token = 4  # Approximate number of characters per token
+    prompt_size = int(ctx_size * chars_per_token * 0.95)
     num_retries = 2
     timeout = 60
     for i in range(num_retries):
@@ -208,7 +210,7 @@ def ollama_process(prompt, context=""):
             url = "http://localhost:11434/api/generate"
             payload = {
                 "model": model,
-                "prompt": f"{context}\n\n{prompt[:ctx_size]}",  # Truncate to stay within limits
+                "prompt": f"{context}\n\n{prompt[:prompt_size]}",  # Truncate to stay within limits
                 "stream": False,
             }
             r = requests.post(url, json=payload, timeout=timeout * (i+1))
