@@ -202,9 +202,8 @@ def ollama_process(prompt, context=""):
     """
     chars_per_token = 4  # Approximate number of characters per token
     prompt_size = int(ctx_size * chars_per_token * 0.95)
-    num_retries = 2
-    timeout = 60
-    for i in range(num_retries):
+    timeouts = [30, 60, 120]
+    for timeout in timeouts:
         try:
             # Assuming Ollama is running locally on the default port
             url = "http://localhost:11434/api/generate"
@@ -213,7 +212,7 @@ def ollama_process(prompt, context=""):
                 "prompt": f"{context}\n\n{prompt[:prompt_size]}",  # Truncate to stay within limits
                 "stream": False,
             }
-            r = requests.post(url, json=payload, timeout=timeout * (i+1))
+            r = requests.post(url, json=payload, timeout=timeout)
             r.raise_for_status()
             return r.json().get("response", "").strip()
         except Exception as e:
