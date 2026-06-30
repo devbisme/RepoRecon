@@ -122,13 +122,12 @@ def evaluate_repository(repo_info, criteria, search_terms):
         # Don't reject the repo. It will be re-evaluated some other time.
         return True, ""
 
-    summary_length = "50-word"
     prompt = (
-        "You are analyzing a GitHub repository to determine whether it matches the acceptance criteria. "
+        "Determine if the repository content meets the acceptance criteria. "
         "Answer with a single initial token 'Yes' or 'No', followed by a concise explanation.\n\n"
-        f"If the repo is accepted, follow 'Yes' with a {summary_length} summary of the project followed "
+        f"If the repo is accepted, follow 'Yes' with summary of what the project does followed "
         "by a newline and three parenthesized keywords "
-        f"(do not repeat or include the search terms '{search_terms}').\n"
+        f"(do not use '{search_terms}' in the keywords).\n"
         "If the repo is rejected, follow 'No' with the reasons it was rejected.\n\n"
         "Output format:\n"
         "Yes <summary>\n(<keywords>)\n"
@@ -190,13 +189,9 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         else:
             # Gather information about the repo to feed to the LLM.
             file_extensions = set()
-            contents = r.get_contents("")
-            for file_content in contents:
-                if file_content.type == "dir":
-                    # logger.debug(f"{idx:6d}: {owner}/{repo_name} {file_content.path=}")
-                    contents.extend(r.get_contents(file_content.path))
-                else:
-                    file_extensions.add(os.path.splitext(file_content.path.lower())[1])
+            tree = r.get_git_tree(sha=r.default_branch, recursive=True)
+            for elem in tree.tree:
+                file_extensions.add(os.path.splitext(elem.path)[1])
 
             try:
                 readme = html_text.extract_text(
@@ -219,7 +214,7 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
                 pass
             elif is_accepted:
                 logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
-                repo["description"] = response or repo["description"]
+                repo["description"] = response
                 repo["enriched"] = True
             else:
                 logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
@@ -433,6 +428,7 @@ if __name__ == "__main__":
         "scan_repos.log",
         level=level,
         format="\n<level>{level}</level> // <green>{time:HH:mm:ss}</green> // <i>{name}:{line}</i>\n<level>{message}</level>\n",
+        rotation="10 MB",
     )
 
     with open(args.topic_file, "r") as topic_file:
