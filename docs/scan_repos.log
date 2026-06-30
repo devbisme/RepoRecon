@@ -16585,3 +16585,678 @@ Gathering FOSS Chips repos for 2026-06 ...
 INFO // 03:22:20 // __main__:464
     Searching FOSS Chips repos for pushed:2026-06 ...
 
+
+INFO // 08:10:56 // __main__:306
+Enriching 3 repos...
+
+
+DEBUG // 08:11:31 // __main__:330
+     1: Deferred zatelectronic/MODULE_RELAY_SMD - No response
+
+
+DEBUG // 08:11:54 // __main__:333
+     2: Accepted sandraelenac/KiCad-Sample - This repository contains a collection of electronic hardware design projects created with KiCad and Cadence OrCAD Capture/PSpice. It includes PCB layouts, electrical schematics, manufacturing Gerbers, drill files, and pick-and-place data, serving as an educational reference for various designs like the Eater-Deluxe retro computer.
+(electronics, pcb_design, schematics)
+
+
+DEBUG // 08:12:13 // __main__:330
+     3: Deferred zatelectronic/MULTIFUNCTION_SHIELD_V1 - No response
+
+
+INFO // 08:59:22 // __main__:307
+Enriching 3 repos...
+
+
+DEBUG // 09:01:44 // __main__:331
+     1: Deferred zatelectronic/MODULE_RELAY_SMD - No response
+
+
+DEBUG // 09:02:38 // __main__:334
+     2: Accepted sandraelenac/KiCad-Sample - This repository provides a collection of electronic hardware design projects created using KiCad and Cadence OrCAD Capture/PSpice. It contains PCB layouts, schematics, manufacturing files (Gerbers, drill files), and pick-and-place data. These designs serve as educational references for various hardware development projects like the Eater-Deluxe computer.
+(electronics, pcb_design, schematics)
+
+
+DEBUG // 09:03:14 // __main__:331
+     3: Deferred zatelectronic/MULTIFUNCTION_SHIELD_V1 - No response
+
+
+INFO // 15:58:25 // __main__:309
+Enriching 2 repos...
+
+
+INFO // 16:55:10 // __main__:309
+Enriching 2 repos...
+
+
+WARNING // 17:06:00 // __main__:223
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+DEBUG // 17:06:19 // __main__:336
+     1: Accepted zatelectronic/MODULE_RELAY_SMD - This repository provides the design files for a high-level trigger relay module featuring optical isolation. It includes schematics, PCB layout files, 3D models, and BOMs suitable for Arduino or ESP32 integration. The project is designed for robust automation of AC loads with clear assembly instructions and safety warnings.
+(Electronics, PCB, Relay)
+
+
+INFO // 02:00:03 // __main__:458
+Gathering AI repos for 2026-06 ...
+
+
+INFO // 02:00:03 // __main__:463
+    Searching AI repos for pushed:2026-06 ...
+
+
+INFO // 02:03:13 // __main__:463
+    Searching AI repos for created:2026-06 ...
+
+
+INFO // 02:06:29 // __main__:305
+Enriching 0 repos...
+
+
+INFO // 02:06:33 // __main__:458
+Gathering KiCad repos for 2026-06 ...
+
+
+INFO // 02:06:33 // __main__:463
+    Searching KiCad repos for pushed:2026-06 ...
+
+
+INFO // 02:10:17 // __main__:463
+    Searching KiCad repos for created:2026-06 ...
+
+
+INFO // 02:13:29 // __main__:305
+Enriching 100 repos...
+
+
+WARNING // 02:14:00 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:15:03 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:17:20 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:18:12 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:21:36 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:22:35 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:23:53 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:24:50 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:26:59 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:28:00 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:28:51 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:31:04 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:32:35 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:33:25 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:34:28 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:36:17 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:37:30 // __main__:80
+Failed to get default branch for anway0404/Arduino_OpenTherm_shield
+
+
+WARNING // 02:37:31 // __main__:113
+Failed to get file extensions for anway0404/Arduino_OpenTherm_shield
+
+
+WARNING // 02:37:32 // __main__:163
+Failed to get README for anway0404/Arduino_OpenTherm_shield
+
+
+WARNING // 02:37:44 // __main__:80
+Failed to get default branch for taciturnaxolotl/taciturnaxolotl
+
+
+WARNING // 02:37:45 // __main__:113
+Failed to get file extensions for taciturnaxolotl/taciturnaxolotl
+
+
+WARNING // 02:37:45 // __main__:163
+Failed to get README for taciturnaxolotl/taciturnaxolotl
+
+
+WARNING // 02:37:56 // __main__:80
+Failed to get default branch for hashgraph-online/awesome-codex-plugins
+
+
+WARNING // 02:37:56 // __main__:113
+Failed to get file extensions for hashgraph-online/awesome-codex-plugins
+
+
+WARNING // 02:37:57 // __main__:163
+Failed to get README for hashgraph-online/awesome-codex-plugins
+
+
+WARNING // 02:38:11 // __main__:80
+Failed to get default branch for linuxserver/proot-apps
+
+
+WARNING // 02:38:11 // __main__:113
+Failed to get file extensions for linuxserver/proot-apps
+
+
+WARNING // 02:38:12 // __main__:163
+Failed to get README for linuxserver/proot-apps
+
+
+WARNING // 02:38:23 // __main__:80
+Failed to get default branch for stack-chan/stack-chan
+
+
+WARNING // 02:38:23 // __main__:113
+Failed to get file extensions for stack-chan/stack-chan
+
+
+WARNING // 02:38:24 // __main__:163
+Failed to get README for stack-chan/stack-chan
+
+
+WARNING // 02:38:38 // __main__:80
+Failed to get default branch for plocher/kproj
+
+
+WARNING // 02:38:39 // __main__:113
+Failed to get file extensions for plocher/kproj
+
+
+WARNING // 02:38:40 // __main__:163
+Failed to get README for plocher/kproj
+
+
+WARNING // 02:39:10 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:40:09 // __main__:80
+Failed to get default branch for FreeCAD/FreeCAD
+
+
+WARNING // 02:40:10 // __main__:113
+Failed to get file extensions for FreeCAD/FreeCAD
+
+
+WARNING // 02:40:10 // __main__:163
+Failed to get README for FreeCAD/FreeCAD
+
+
+WARNING // 02:40:33 // __main__:80
+Failed to get default branch for taotieren/aur-repo
+
+
+WARNING // 02:40:33 // __main__:113
+Failed to get file extensions for taotieren/aur-repo
+
+
+WARNING // 02:40:34 // __main__:163
+Failed to get README for taotieren/aur-repo
+
+
+WARNING // 02:41:04 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:43:04 // __main__:80
+Failed to get default branch for cornelmumamia/KiCAD_Themes
+
+
+WARNING // 02:43:04 // __main__:113
+Failed to get file extensions for cornelmumamia/KiCAD_Themes
+
+
+WARNING // 02:43:05 // __main__:163
+Failed to get README for cornelmumamia/KiCAD_Themes
+
+
+WARNING // 02:43:35 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:44:30 // __main__:188
+Failed to get README for jmo808/kicadMCP_plugin
+
+
+WARNING // 02:45:21 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:46:08 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:46:52 // __main__:163
+Failed to get README for dvallemo/CANBUS-Sniffer-PCB
+
+
+WARNING // 02:47:12 // __main__:80
+Failed to get default branch for kattschan/hdmiswitcher
+
+
+WARNING // 02:47:12 // __main__:113
+Failed to get file extensions for kattschan/hdmiswitcher
+
+
+WARNING // 02:47:13 // __main__:163
+Failed to get README for kattschan/hdmiswitcher
+
+
+WARNING // 02:47:43 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:49:04 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:49:59 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:50:39 // __main__:80
+Failed to get default branch for futureshocked/KLP-5e-ESP32-sensor-board
+
+
+WARNING // 02:50:39 // __main__:113
+Failed to get file extensions for futureshocked/KLP-5e-ESP32-sensor-board
+
+
+WARNING // 02:50:40 // __main__:163
+Failed to get README for futureshocked/KLP-5e-ESP32-sensor-board
+
+
+WARNING // 02:51:10 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:52:10 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 02:53:19 // __main__:80
+Failed to get default branch for Gekkio/gekkio-kicad-libs
+
+
+WARNING // 02:53:20 // __main__:113
+Failed to get file extensions for Gekkio/gekkio-kicad-libs
+
+
+WARNING // 02:53:20 // __main__:163
+Failed to get README for Gekkio/gekkio-kicad-libs
+
+
+WARNING // 02:53:39 // __main__:80
+Failed to get default branch for vikki-rai-k/Kicad
+
+
+WARNING // 02:53:39 // __main__:113
+Failed to get file extensions for vikki-rai-k/Kicad
+
+
+WARNING // 02:53:40 // __main__:163
+Failed to get README for vikki-rai-k/Kicad
+
+
+WARNING // 02:53:55 // __main__:80
+Failed to get default branch for SergioGasquez/awesome-electronic-engineering
+
+
+WARNING // 02:53:55 // __main__:113
+Failed to get file extensions for SergioGasquez/awesome-electronic-engineering
+
+
+WARNING // 02:53:56 // __main__:163
+Failed to get README for SergioGasquez/awesome-electronic-engineering
+
+
+WARNING // 02:54:26 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:56:13 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:56:46 // __main__:80
+Failed to get default branch for Spaceflight-Rocketry-Giessen-e-V/Telemetry
+
+
+WARNING // 02:56:46 // __main__:113
+Failed to get file extensions for Spaceflight-Rocketry-Giessen-e-V/Telemetry
+
+
+WARNING // 02:56:47 // __main__:163
+Failed to get README for Spaceflight-Rocketry-Giessen-e-V/Telemetry
+
+
+WARNING // 02:57:17 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:57:59 // __main__:80
+Failed to get default branch for Prajin2007/Prajin2007
+
+
+WARNING // 02:57:59 // __main__:113
+Failed to get file extensions for Prajin2007/Prajin2007
+
+
+WARNING // 02:58:00 // __main__:163
+Failed to get README for Prajin2007/Prajin2007
+
+
+WARNING // 02:58:30 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 02:59:11 // __main__:80
+Failed to get default branch for Tinkerforge/evse-v2-bricklet
+
+
+WARNING // 02:59:11 // __main__:113
+Failed to get file extensions for Tinkerforge/evse-v2-bricklet
+
+
+WARNING // 02:59:12 // __main__:163
+Failed to get README for Tinkerforge/evse-v2-bricklet
+
+
+WARNING // 02:59:28 // __main__:80
+Failed to get default branch for AislerHQ/lovely-library
+
+
+WARNING // 02:59:28 // __main__:113
+Failed to get file extensions for AislerHQ/lovely-library
+
+
+WARNING // 02:59:29 // __main__:163
+Failed to get README for AislerHQ/lovely-library
+
+
+WARNING // 02:59:59 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:01:59 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:03:00 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:03:52 // __main__:80
+Failed to get default branch for EmilEmilchen/chess-board
+
+
+WARNING // 03:03:53 // __main__:113
+Failed to get file extensions for EmilEmilchen/chess-board
+
+
+WARNING // 03:03:53 // __main__:163
+Failed to get README for EmilEmilchen/chess-board
+
+
+WARNING // 03:04:23 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:05:43 // __main__:80
+Failed to get default branch for AndreiVladescu/ESP32-Bit-Pirate-Dock
+
+
+WARNING // 03:05:44 // __main__:113
+Failed to get file extensions for AndreiVladescu/ESP32-Bit-Pirate-Dock
+
+
+WARNING // 03:05:45 // __main__:163
+Failed to get README for AndreiVladescu/ESP32-Bit-Pirate-Dock
+
+
+WARNING // 03:06:15 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:07:15 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 03:07:55 // __main__:80
+Failed to get default branch for ToyotaInfoTech/RAMN
+
+
+WARNING // 03:07:55 // __main__:113
+Failed to get file extensions for ToyotaInfoTech/RAMN
+
+
+WARNING // 03:07:56 // __main__:163
+Failed to get README for ToyotaInfoTech/RAMN
+
+
+WARNING // 03:08:10 // __main__:80
+Failed to get default branch for buganini/Kikakuka
+
+
+WARNING // 03:08:11 // __main__:113
+Failed to get file extensions for buganini/Kikakuka
+
+
+WARNING // 03:08:12 // __main__:163
+Failed to get README for buganini/Kikakuka
+
+
+WARNING // 03:08:28 // __main__:80
+Failed to get default branch for Arrow-air/project-caribou
+
+
+WARNING // 03:08:28 // __main__:113
+Failed to get file extensions for Arrow-air/project-caribou
+
+
+WARNING // 03:08:29 // __main__:163
+Failed to get README for Arrow-air/project-caribou
+
+
+WARNING // 03:08:59 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:09:35 // __main__:80
+Failed to get default branch for StephanMoeller/Leonardo-KeycapRio
+
+
+WARNING // 03:09:36 // __main__:113
+Failed to get file extensions for StephanMoeller/Leonardo-KeycapRio
+
+
+WARNING // 03:09:36 // __main__:163
+Failed to get README for StephanMoeller/Leonardo-KeycapRio
+
+
+WARNING // 03:10:06 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:10:58 // __main__:80
+Failed to get default branch for noobychris/vga-sync-combiner-audi-rnse
+
+
+WARNING // 03:10:59 // __main__:113
+Failed to get file extensions for noobychris/vga-sync-combiner-audi-rnse
+
+
+WARNING // 03:10:59 // __main__:163
+Failed to get README for noobychris/vga-sync-combiner-audi-rnse
+
+
+WARNING // 03:11:30 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:12:29 // __main__:80
+Failed to get default branch for PhilipMcGaw/ROV-Conductivity-Temperature-and-Depth-Transducer
+
+
+WARNING // 03:12:29 // __main__:113
+Failed to get file extensions for PhilipMcGaw/ROV-Conductivity-Temperature-and-Depth-Transducer
+
+
+WARNING // 03:12:30 // __main__:163
+Failed to get README for PhilipMcGaw/ROV-Conductivity-Temperature-and-Depth-Transducer
+
+
+WARNING // 03:13:00 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:13:52 // __main__:80
+Failed to get default branch for blwfish/kicad-mcp
+
+
+WARNING // 03:13:52 // __main__:113
+Failed to get file extensions for blwfish/kicad-mcp
+
+
+WARNING // 03:13:53 // __main__:163
+Failed to get README for blwfish/kicad-mcp
+
+
+WARNING // 03:14:23 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:15:09 // __main__:188
+Failed to get README for ben-e-christensen/kicad
+
+
+WARNING // 03:16:03 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:17:47 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:20:50 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:21:50 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+WARNING // 03:23:08 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+INFO // 03:23:33 // __main__:458
+Gathering FreeCAD repos for 2026-06 ...
+
+
+INFO // 03:23:33 // __main__:463
+    Searching FreeCAD repos for pushed:2026-06 ...
+
+
+INFO // 03:26:44 // __main__:463
+    Searching FreeCAD repos for created:2026-06 ...
+
+
+INFO // 03:28:44 // __main__:305
+Enriching 0 repos...
+
+
+INFO // 03:28:44 // __main__:458
+Gathering SKiDL repos for 2026-06 ...
+
+
+INFO // 03:28:44 // __main__:463
+    Searching SKiDL repos for pushed:2026-06 ...
+
+
+INFO // 03:28:46 // __main__:463
+    Searching SKiDL repos for created:2026-06 ...
+
+
+INFO // 03:28:47 // __main__:305
+Enriching 0 repos...
+
+
+INFO // 03:28:47 // __main__:458
+Gathering LiteX repos for 2026-06 ...
+
+
+INFO // 03:28:47 // __main__:463
+    Searching LiteX repos for pushed:2026-06 ...
+
+
+INFO // 03:29:42 // __main__:463
+    Searching LiteX repos for created:2026-06 ...
+
+
+INFO // 03:29:45 // __main__:305
+Enriching 0 repos...
+
+
+INFO // 03:29:45 // __main__:458
+Gathering MyHDL repos for 2026-06 ...
+
+
+INFO // 03:29:45 // __main__:463
+    Searching MyHDL repos for pushed:2026-06 ...
+
+
+INFO // 03:29:46 // __main__:463
+    Searching MyHDL repos for created:2026-06 ...
+
+
+INFO // 03:29:47 // __main__:305
+Enriching 0 repos...
+
+
+INFO // 03:29:47 // __main__:458
+Gathering FOSS Chips repos for 2026-06 ...
+
+
+INFO // 03:29:47 // __main__:463
+    Searching FOSS Chips repos for pushed:2026-06 ...
+
