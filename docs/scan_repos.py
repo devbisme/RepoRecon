@@ -14,10 +14,9 @@ The workflow typically involves:
 
 import json
 import os
-import subprocess
 import sys
 from datetime import datetime as dt
-from github import Github
+from github import Auth, Github
 import html_text
 import requests
 import base64
@@ -27,7 +26,7 @@ from loguru import logger
 debug = True
 
 ctx_size = 4096
-model = "gemma4:12b-it-qat" # accurate, 34s per repo eval 
+model = "gemma4:12b-it-qat"  # accurate, 34s per repo eval
 # model = "gemma4:e2b" # too permissive, 8s per repo eval
 # model = "gemma4:e4b" # too permissive, 12s per repo eval
 # model = "qwen3.5:9b" # terminates because of thinking too much and exceeds length
@@ -35,7 +34,8 @@ model = "gemma4:12b-it-qat" # accurate, 34s per repo eval
 # Authenticate with GitHub using a personal access token.
 # If not found, then Github access will be slower and may hit rate limits sooner.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
-g = Github(token)
+auth = Auth.Token(token)
+g = Github(auth=auth)
 
 
 def is_timeout(start_time, timeout):
@@ -52,143 +52,6 @@ def is_timeout(start_time, timeout):
     return timeout is not None and (dt.now() - start_time).total_seconds() > timeout
 
 
-def get_default_repo_branch(owner, repo):
-    """
-    Fetch the default branch name for a given GitHub repository using the REST API.
-
-    Args:
-        owner (str): The owner of the repository.
-        repo (str): The name of the repository.
-
-    Returns:
-        str: The name of the default branch (e.g., 'main' or 'master').
-    """
-    url = f"https://api.github.com/repos/{owner}/{repo}"
-
-    headers = {
-        "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Claude-Code-Fetch-Default-Branch-Name",
-    }
-
-    if token:
-        headers["Authorization"] = f"token {token}"
-
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-    except Exception:
-        logger.warning(f"Failed to get default branch for {owner}/{repo}")
-        return "master" # Just take a guess...
-
-    data = response.json()
-    return data["default_branch"]
-
-
-def get_repo_file_extensions(owner, repo):
-    """
-    Retrieve all unique file extensions present in a repository's tree structure.
-
-    Args:
-        owner (str): The owner of the repository.
-        repo (str): The name of the repository.
-
-    Returns:
-        set: A set of lowercase file extensions found in the repo.
-    """
-    branch = get_default_repo_branch(owner, repo)
-    url = f"https://api.github.com/repos/{owner}/{repo}/git/trees/{branch}?recursive=1"
-
-    headers = {
-        "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Claude-Code-Fetch-Repo-Files",
-    }
-
-    if token:
-        headers["Authorization"] = f"token {token}"
-
-    try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-    except Exception:
-        logger.warning(f"Failed to get file extensions for {owner}/{repo}")
-        return set()
-
-    file_extensions = set()
-    data = response.json()
-    for item in data.get("tree", []):
-        if item["type"] == "blob":  # blob = file, tree = directory
-            path = item["path"]
-            file_extensions.add(os.path.splitext(path.lower())[1])
-
-    return file_extensions
-
-
-def fetch_readme(owner, repo):
-    """
-    Fetch the content of a repository's README file from GitHub.
-    Attempts to use the /readme endpoint first, falling back to scanning root contents.
-
-    Args:
-        owner (str): The owner of the repository.
-        repo (str): The name of the repository.
-
-    Returns:
-        str: The content of the README as a UTF-8 string, or an empty string if not found.
-    """
-    headers = {
-        "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "Claude-Code-Fetch-Repo-Readme",
-    }
-
-    if token:
-        headers["Authorization"] = f"Bearer {token}"
-
-    try:
-        # Try the dedicated readme endpoint
-        url = f"https://api.github.com/repos/{owner}/{repo}/readme"
-        r = requests.get(url, headers=headers, timeout=10)
-        r.raise_for_status()
-        data = r.json()
-        html = base64.b64decode(data["content"]).decode("utf-8")
-        return html_text.extract_text(html)
-    except Exception:
-        pass
-
-    # Fallback: scan repo root for common README filenames
-    try:
-        url = f"https://api.github.com/repos/{owner}/{repo}/contents/"
-        r = requests.get(url, headers=headers, timeout=10)
-        r.raise_for_status()
-    except Exception:
-        logger.warning(f"Failed to get README for {owner}/{repo}")
-        return ""
-
-    files = r.json()
-    candidates = [
-        "README.md",
-        "README.rst",
-        "README.txt",
-        "README",
-        "readme.md",
-        "readme.rst",
-        "readme",
-    ]
-    for name in candidates:
-        for f in files:
-            if f["name"] == name:
-                try:
-                    file_resp = requests.get(
-                        f["download_url"], headers=headers, timeout=10
-                    )
-                    file_resp.raise_for_status()
-                    return html_text.extract_text(file_resp)
-                except Exception:
-                    pass
-    
-    logger.warning(f"Failed to get README for {owner}/{repo}")
-    return ""
-
-
 def ollama_process(prompt, context=""):
     """
     Send a prompt to a local Ollama instance for processing and return the response.
@@ -202,7 +65,7 @@ def ollama_process(prompt, context=""):
     """
     chars_per_token = 4  # Approximate number of characters per token
     prompt_size = int(ctx_size * chars_per_token * 0.95)
-    timeouts = [30, 60, 120]
+    timeouts = [60, 120]
     for timeout in timeouts:
         try:
             # Assuming Ollama is running locally on the default port
@@ -235,13 +98,19 @@ def parse_acceptance_response(response):
         if first == "yes":
             return True, remainder or ""
         if first == "no":
-            return False, remainder or "Rejected but no rejection reasons were returned."
+            return (
+                False,
+                remainder or "Rejected but no rejection reasons were returned.",
+            )
 
     lower_text = text.lower()
     if lower_text.startswith("yes"):
         return True, text[3:].strip() or ""
     if lower_text.startswith("no"):
-        return False, text[2:].strip() or "Rejected but no rejection reasons were returned."
+        return (
+            False,
+            text[2:].strip() or "Rejected but no rejection reasons were returned.",
+        )
 
     # Something strange happened, but don't reject the repo because of that.
     return True, ""
@@ -312,29 +181,45 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
 
         owner = repo["owner"]
         repo_name = repo["repo"]
-
-        # Gather metadata for the LLM prompt
-        file_extensions = get_repo_file_extensions(owner, repo_name)
-        file_extensions = "File extensions: " + ",".join(list(file_extensions))
-        readme = fetch_readme(owner, repo_name)
-        desc = repo["description"] or ""
-        repo_info = f"{file_extensions}\n{readme} {desc}"
-
-        # Perform LLM-based evaluation and enrich if accepted.
-        is_accepted, response = evaluate_repository(repo_info, criteria, search_terms)
-
-        if not response:
-            # No response, so don't accept or reject the repo.
-            # It will be re-evaluated some other time, maybe with a definitive result.
-            logger.debug(f"{idx:6d}: Deferred {owner}/{repo_name} - No response")
-            pass
-        elif is_accepted:
-            logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
-            repo["description"] = response or repo["description"]
-            repo["enriched"] = True
+        try:
+            r = g.get_repo(f"{owner}/{repo_name}")
+        except Exception as e:
+            logger.debug(
+                f"{idx:6d}: Deferred {owner}/{repo_name} - Repository not found"
+            )
         else:
-            logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
-            repo["discarded"] = True
+            # Gather information about the repo to feed to the LLM.
+            file_extensions = set()
+            contents = r.get_contents("")
+            for file_content in contents:
+                if file_content.type == "dir":
+                    contents.extend(r.get_contents(file_content.path))
+                else:
+                    file_extensions.add(os.path.splitext(file_content.path.lower())[1])
+
+            readme = html_text.extract_text(
+                base64.b64decode(r.get_readme().content).decode("utf-8")
+            )
+
+            desc = repo["description"] or ""
+
+            repo_info = f"{file_extensions}\n{readme} {desc}"
+
+            # Perform LLM-based evaluation and enrich if accepted.
+            is_accepted, response = evaluate_repository(repo_info, criteria, search_terms)
+
+            if not response:
+                # No response, so don't accept or reject the repo.
+                # It will be re-evaluated some other time, maybe with a definitive result.
+                logger.debug(f"{idx:6d}: Deferred {owner}/{repo_name} - No response")
+                pass
+            elif is_accepted:
+                logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
+                repo["description"] = response or repo["description"]
+                repo["enriched"] = True
+            else:
+                logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
+                repo["discarded"] = True
 
         # Yield back to the caller after processing each batch.
         # The caller can save the repos after each batch so that progress is not lost.

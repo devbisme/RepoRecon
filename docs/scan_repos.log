@@ -17260,3 +17260,268 @@ Gathering FOSS Chips repos for 2026-06 ...
 INFO // 03:29:47 // __main__:463
     Searching FOSS Chips repos for pushed:2026-06 ...
 
+
+INFO // 06:52:16 // __main__:305
+Enriching 2 repos...
+
+
+DEBUG // 06:52:17 // __main__:321
+     1: Deferred zatelectronic/MODULE_RELAY_SMD - Repository not found.
+
+
+DEBUG // 06:52:17 // __main__:321
+     2: Deferred zatelectronic/MULTIFUNCTION_SHIELD_V1 - Repository not found.
+
+
+INFO // 06:53:25 // __main__:305
+Enriching 5 repos...
+
+
+DEBUG // 06:53:26 // __main__:321
+     1: Deferred VJPatz/VArm6 - Repository not found.
+
+
+DEBUG // 06:53:26 // __main__:321
+     2: Deferred el-puerro/eater-deluxe - Repository not found.
+
+
+DEBUG // 06:53:27 // __main__:321
+     3: Deferred mohammad-aljumaah/555-clock-module - Repository not found.
+
+
+DEBUG // 06:53:28 // __main__:321
+     4: Deferred nishamparakkal/MCUDatalogger-KiCad - Repository not found.
+
+
+DEBUG // 06:53:29 // __main__:321
+     5: Deferred nishamparakkal/breadboard-power-supply - Repository not found.
+
+
+INFO // 06:54:34 // __main__:305
+Enriching 5 repos...
+
+
+DEBUG // 06:54:34 // __main__:321
+     1: Deferred VJPatz/VArm6 - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 06:54:35 // __main__:321
+     2: Deferred el-puerro/eater-deluxe - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 06:54:36 // __main__:321
+     3: Deferred mohammad-aljumaah/555-clock-module - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 06:54:37 // __main__:321
+     4: Deferred nishamparakkal/MCUDatalogger-KiCad - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 06:54:37 // __main__:321
+     5: Deferred nishamparakkal/breadboard-power-supply - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+INFO // 07:03:00 // __main__:305
+Enriching 5 repos...
+
+
+DEBUG // 07:03:00 // __main__:321
+     1: Deferred VJPatz/VArm6 - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 07:03:01 // __main__:321
+     2: Deferred el-puerro/eater-deluxe - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 07:03:02 // __main__:321
+     3: Deferred mohammad-aljumaah/555-clock-module - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 07:03:03 // __main__:321
+     4: Deferred nishamparakkal/MCUDatalogger-KiCad - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+DEBUG // 07:03:04 // __main__:321
+     5: Deferred nishamparakkal/breadboard-power-supply - 404 {"message": "Not Found", "documentation_url": "https://docs.github.com/rest", "status": "404"}
+
+
+INFO // 07:03:10 // __main__:305
+Enriching 5 repos...
+
+
+DEBUG // 07:24:27 // __main__:321
+     1: Deferred VJPatz/VArm6 - 
+
+
+DEBUG // 07:24:28 // __main__:321
+     2: Deferred el-puerro/eater-deluxe - 
+
+
+DEBUG // 07:24:29 // __main__:321
+     3: Deferred mohammad-aljumaah/555-clock-module - 
+
+
+DEBUG // 07:24:30 // __main__:321
+     4: Deferred nishamparakkal/MCUDatalogger-KiCad - 
+
+
+DEBUG // 07:24:31 // __main__:321
+     5: Deferred nishamparakkal/breadboard-power-supply - 
+
+
+INFO // 07:24:35 // __main__:305
+Enriching 5 repos...
+
+
+INFO // 07:27:34 // __main__:305
+Enriching 5 repos...
+
+
+INFO // 07:28:21 // __main__:305
+Enriching 5 repos...
+
+
+INFO // 07:32:20 // __main__:305
+Enriching 5 repos...
+
+
+INFO // 07:44:04 // __main__:305
+Enriching 5 repos...
+
+
+INFO // 07:46:17 // __main__:305
+Enriching 5 repos...
+
+
+DEBUG // 07:46:49 // __main__:346
+     1: Accepted VJPatz/VArm6 - This project is an open-source 6-degree-of-freedom robotic arm using an Arduino Mega 2560 and PCA9685 driver for joystick control. It features momentum-based motion, customizable acceleration, and includes KiCad schematics to facilitate hardware assembly and modification by users interested in building modular robotics.
+(Robotics, Electronics, Firmware)
+
+
+WARNING // 07:47:25 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+DEBUG // 07:47:57 // __main__:346
+     2: Accepted el-puerro/eater-deluxe - This repository features the Eater-Deluxe, a modern retro computer built around a 6502 processor with an LCD display and RS232 serial interface. It includes a custom PCB design, compatible with software from Ben Eater's breadboard computer, designed for enthusiasts of vintage computing hardware systems.
+(retro_computing, electronics, hardware)
+
+
+WARNING // 07:48:30 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+DEBUG // 07:48:50 // __main__:346
+     3: Accepted mohammad-aljumaah/555-clock-module - This repository provides a complete hardware design for an NE555P timer IC-based clock pulse generator. It includes schematic and PCB layout files, fabrication-ready Gerbers, a comprehensive datasheet, BOM, and assembly instructions. The project produces a ~7 Hz square wave suitable for various digital electronics applications and manufacturing.
+(clock generator, NE555 timer circuit, electronics hardware)
+
+
+WARNING // 07:49:22 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+DEBUG // 07:49:54 // __main__:346
+     4: Accepted nishamparakkal/MCUDatalogger-KiCad - This repository contains a complete microcontroller-based data logger design featuring an ATmega328P, DS1337 RTC, and dual EEPROM memory. It includes schematics, PCB layouts, 3D views, and manufacturing-ready Gerber files, with all designs verified through ERC and DRC checks for hardware production.
+(Microcontroller, Data Logging, Hardware Design)
+
+
+WARNING // 07:50:26 // __main__:219
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=30)
+
+
+DEBUG // 07:50:46 // __main__:346
+     5: Accepted nishamparakkal/breadboard-power-supply - This repository provides a breadboard power supply design created in KiCad for electronics prototyping. It includes schematics and PCB layouts featuring both fixed 5V and adjustable voltage outputs using LM7805 and LM317 regulators, along with 3D viewer files to facilitate hardware design and assembly.
+(circuit_design, power_supply, electronics_hardware)
+
+
+INFO // 07:51:33 // __main__:305
+Enriching 5 repos...
+
+
+DEBUG // 07:52:00 // __main__:346
+     1: Accepted VJPatz/VArm6 - This repository provides an open-source, 6-degree-of-freedom robotic arm controlled by three analog joysticks using an Arduino Mega 2560 and PCA9685 driver. It includes momentum-based motion control logic and complete schematics for hardware assembly, making it a comprehensive resource for building custom hobbyist robotics projects.
+(Robotics, Arduino, Schematics)
+
+
+DEBUG // 07:52:27 // __main__:346
+     2: Accepted el-puerro/eater-deluxe - This repository contains the design for Eater-Deluxe, a modern retro computer based on Ben Eater's 6502 breadboard computer. It features an LCD display, RS232 serial interface, and compatible vintage software. The project includes custom PCB designs and relevant hardware libraries for enthusiasts interested in historical computing and electronics.
+(retro_computing, electronics, hardware)
+
+
+DEBUG // 07:52:51 // __main__:346
+     3: Accepted mohammad-aljumaah/555-clock-module - This repository features an NE555P timer IC-based clock pulse generator producing a ~7 Hz square wave. It includes KiCad project files, including schematics and PCB layouts, fabrication-ready Gerbers, and comprehensive documentation like a full datasheet and BOM for manufacturing custom electronics modules.
+(clock generator, NE555 timer circuit, electronics hardware)
+
+
+DEBUG // 07:53:19 // __main__:346
+     4: Accepted nishamparakkal/MCUDatalogger-KiCad - This repository contains a complete microcontroller-based data logger design featuring an ATmega328P, DS1337 RTC, and dual EEPROM memory. It includes schematics, PCB layouts, 3D views, and manufacturing-ready Gerber files, with all designs verified through ERC and DRC checks for hardware production.
+(Microcontroller, Data Logging, Hardware Design)
+
+
+DEBUG // 07:53:41 // __main__:346
+     5: Accepted nishamparakkal/breadboard-power-supply - This repository features a breadboard power supply design created for electronics prototyping. It includes a fixed 5V output using an LM7805 regulator and an adjustable output via an LM317 regulator. The project provides schematics, PCB layouts, and a 3D viewer to facilitate hardware design and assembly.
+(circuit_design, power_supply, electronics_hardware)
+
+
+INFO // 08:13:44 // __main__:173
+Enriching 5 repos...
+
+
+WARNING // 08:14:47 // __main__:81
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+DEBUG // 08:15:11 // __main__:216
+     1: Accepted VJPatz/VArm6 - This project provides an open-source 6DOF robotic arm controlled by three joysticks using an Arduino Mega 2560 and PCA9685 driver. It features momentum-based motion control and includes editable KiCad schematics for the circuit, allowing users to build or modify the hardware components easily.
+
+(Robotics, Electronics, Arduino)
+
+
+DEBUG // 08:15:39 // __main__:216
+     2: Accepted el-puerro/eater-deluxe - This repository features a retro 6502-based computer project named Eater-Deluxe, complete with custom PCB designs and components like an LCD display and RS232 serial interface. It provides comprehensive files for enthusiasts to build a contemporary hardware implementation compatible with software from Ben Eater's famous breadboard computer.
+(retro_computing, electronics, hardware)
+
+
+DEBUG // 08:16:03 // __main__:216
+     3: Accepted mohammad-aljumaah/555-clock-module - This repository contains a complete hardware design for an NE555P timer-based clock pulse generator that outputs a ~7 Hz square wave. It includes comprehensive project files, including schematics and PCB layouts, alongside fabrication-ready Gerbers, datasheets, BOMs, and assembly instructions suitable for custom electronics manufacturing.
+(clock generator, NE555 timer circuit, electronics hardware)
+
+
+DEBUG // 08:16:27 // __main__:216
+     4: Accepted nishamparakkal/MCUDatalogger-KiCad - This repository contains a complete microcontroller-based data logger design featuring an ATmega328P, DS1337 RTC, and dual EEPROM memory. It includes schematics, PCB layouts, 3D views, and manufacturing-ready Gerber files, with all designs verified through ERC and DRC checks for hardware production.
+(Microcontroller, Data Logging, Hardware Design)
+
+
+DEBUG // 08:16:48 // __main__:216
+     5: Accepted nishamparakkal/breadboard-power-supply - This repository contains a breadboard power supply design, featuring both fixed 5V and adjustable outputs using LM7805 and LM317 regulators. It includes complete schematics, PCB layouts, and 3D views, providing all necessary files for electronics prototyping and hardware assembly.
+(circuit_design, power_supply, electronics_hardware)
+
+
+INFO // 08:22:29 // __main__:174
+Enriching 5 repos...
+
+
+DEBUG // 08:22:57 // __main__:217
+     1: Accepted VJPatz/VArm6 - This project provides an open-source 6-DOF robotic arm controlled by analog joysticks using an Arduino Mega 2560 and PCA9685 driver. It features momentum-based motion control, configurable acceleration, and includes complete KiCad schematics to facilitate hardware assembly and modification for makers and hobbyists.
+(Hardware, Robotics, Electronics)
+
+
+DEBUG // 08:23:46 // __main__:217
+     2: Accepted el-puerro/eater-deluxe - The eater-deluxe is a modern retro computer built around the classic 6502 processor, featuring an LCD display and RS232 serial interface. It maintains compatibility with software from Ben Eater's breadboard computer while providing a contemporary hardware implementation complete with a custom PCB design for enthusiasts of vintage computing systems.
+(retro_computing, electronics, hardware)
+
+
+DEBUG // 08:24:14 // __main__:217
+     3: Accepted mohammad-aljumaah/555-clock-module - This repository contains a complete hardware design for an NE555P timer IC-based clock pulse generator. It provides KiCad project files, including schematics and PCB layouts, fabrication-ready Gerbers, and comprehensive documentation such as a datasheet and BOM, making it suitable for manufacturing custom electronics modules.
+(clock generator, NE555 timer circuit, electronics hardware)
+
+
+DEBUG // 08:25:11 // __main__:217
+     4: Accepted nishamparakkal/MCUDatalogger-KiCad - This repository contains a complete microcontroller-based data logger design featuring an ATmega328P, DS1337 RTC, and dual EEPROM memory for time-stamped storage. It includes verified schematics, PCB layouts, 3D views, and manufacturing-ready Gerber files, making it suitable for production with all ERC and DRC checks completed.
+(Microcontroller, Data Logging, Hardware Design)
+
+
+DEBUG // 08:25:49 // __main__:217
+     5: Accepted nishamparakkal/breadboard-power-supply - This repository provides a breadboard power supply design featuring fixed 5V and adjustable voltage outputs using LM7805 and LM317 regulators. It includes schematics, PCB layouts, and 3D viewer models for electronics prototyping and hardware assembly.
+(circuit_design, power_supply, electronics_hardware)
+
