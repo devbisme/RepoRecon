@@ -193,13 +193,17 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
             contents = r.get_contents("")
             for file_content in contents:
                 if file_content.type == "dir":
+                    # logger.debug(f"{idx:6d}: {owner}/{repo_name} {file_content.path=}")
                     contents.extend(r.get_contents(file_content.path))
                 else:
                     file_extensions.add(os.path.splitext(file_content.path.lower())[1])
 
-            readme = html_text.extract_text(
-                base64.b64decode(r.get_readme().content).decode("utf-8")
-            )
+            try:
+                readme = html_text.extract_text(
+                    base64.b64decode(r.get_readme().content).decode("utf-8")
+                )
+            except Exception:
+                readme = ""
 
             desc = repo["description"] or ""
 
@@ -316,7 +320,7 @@ def gather_github_repos(topic, count=None, timeout=None):
         for repo in prev_repos.values():
             repo["pushed"] = repo["pushed"] or repo["created"] or repo["updated"]
         latest_repo = max(
-            prev_repos.values(), key=lambda x: dt.strptime(x["pushed"][0:7], "%Y-%m")
+            prev_repos.values(), key=lambda x: dt.strptime(x["pushed"][0:10], "%Y-%m-%d")
         )
         start_yr = int(latest_repo["pushed"][0:4])
         start_mo = int(latest_repo["pushed"][5:7])
@@ -329,55 +333,40 @@ def gather_github_repos(topic, count=None, timeout=None):
         f"{start_yr:04}-{start_mo:02}-{start_day:02}", "%Y-%m-%d"
     ).date()
 
-    end_yr = dt.now().year
-
     new_repos = {}
-    for y in range(start_yr, end_yr + 1):
-        if y == end_yr:
-            end_mo = dt.now().month
-        else:
-            end_mo = 12
-
-        # Loop through each month of the current search year.
-        for m in range(start_mo, end_mo + 1):
-            logger.info(f"Gathering {title} repos for {y}-{m:02} ...")
-            search_date = f"{y:04}-{m:02}"
-
-            for date_type in date_types:
-                logger.info(
-                    f"    Searching {title} repos for {date_type}:{search_date} ..."
-                )
-                query = f"{search_term} in:name,description,topics,readme {date_type}:{search_date}"
-                yr_mo_repos = g.search_repositories(query)
-
-                for repo in yr_mo_repos:
-                    repo_info = {
-                        "repo": repo.name,
-                        "description": repo.description,
-                        "owner": repo.owner.login,
-                        "stars": repo.stargazers_count,
-                        "forks": repo.forks_count,
-                        "size": repo.size,
-                        "created": repo.created_at.isoformat(),
-                        "updated": repo.updated_at.isoformat(),
-                        "pushed": repo.pushed_at.isoformat(),
-                        "url": repo.html_url,
-                        "id": repo.id,
-                    }
-                    try:
-                        repo_info["created"] = repo.created_at.isoformat()
-                        repo_info["updated"] = repo.updated_at.isoformat()
-                        repo_info["pushed"] = repo.pushed_at.isoformat()
-                    except AttributeError as e:
-                        # Fallback if dates are missing from the API response.
-                        dflt_date = dt.strptime(
-                            search_date + "-01", "%Y-%m-%d"
-                        ).isoformat()
-                        repo_info["created"] = dflt_date
-                        repo_info["updated"] = dflt_date
-                        repo_info["pushed"] = dflt_date
-                    new_repos[repo.id] = repo_info
-        start_mo = 1
+    for date_type in date_types:
+        logger.info(
+            f"    Searching {title} repos for {date_type}:>={start_date} ..."
+        )
+        query = f"{search_term} in:name,description,topics,readme {date_type}:>={start_date}"
+        repos = g.search_repositories(query)
+        for repo in repos:
+            repo_info = {
+                "repo": repo.name,
+                "description": repo.description,
+                "owner": repo.owner.login,
+                "stars": repo.stargazers_count,
+                "forks": repo.forks_count,
+                "size": repo.size,
+                "created": repo.created_at.isoformat(),
+                "updated": repo.updated_at.isoformat(),
+                "pushed": repo.pushed_at.isoformat(),
+                "url": repo.html_url,
+                "id": repo.id,
+            }
+            try:
+                repo_info["created"] = repo.created_at.isoformat()
+                repo_info["updated"] = repo.updated_at.isoformat()
+                repo_info["pushed"] = repo.pushed_at.isoformat()
+            except AttributeError as e:
+                # Fallback if dates are missing from the API response.
+                dflt_date = dt.strptime(
+                    search_date + "-01", "%Y-%m-%d"
+                ).isoformat()
+                repo_info["created"] = dflt_date
+                repo_info["updated"] = dflt_date
+                repo_info["pushed"] = dflt_date
+            new_repos[repo.id] = repo_info
 
     for id, new_repo in new_repos.items():
         new_repo_date = dt.strptime(new_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
