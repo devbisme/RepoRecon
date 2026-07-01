@@ -26,7 +26,8 @@ from loguru import logger
 debug = True
 
 ctx_size = 4096
-model = "gemma4:12b-it-qat"  # accurate, 34s per repo eval
+model = "gemma4-claude"  # accurate, 34s per repo eval
+# model = "gemma4:12b-it-qat"  # accurate, 34s per repo eval
 # model = "gemma4:e2b" # too permissive, 8s per repo eval
 # model = "gemma4:e4b" # too permissive, 12s per repo eval
 # model = "qwen3.5:9b" # terminates because of thinking too much and exceeds length
@@ -77,10 +78,14 @@ def ollama_process(prompt, context=""):
             }
             r = requests.post(url, json=payload, timeout=timeout)
             r.raise_for_status()
-            return r.json().get("response", "").strip()
+            response = r.json().get("response", "").strip()
+            # if not response:
+            #     breakpoint()
+            #     logger.warning("Ollama finished without errors but generated no response.")
+            return response
         except Exception as e:
             logger.warning(f"Ollama error: {e}")
-    logger.error("Failed to get response from Ollama after multiple retries.")
+    logger.warning("Failed to get response from Ollama after multiple retries.")
     return None
 
 
@@ -91,11 +96,14 @@ def parse_acceptance_response(response):
         return True, ""
 
     text = response.strip()
+
     tokens = text.split(None, 1)
     if tokens:
         first = tokens[0].lower().rstrip(".,;:")
         remainder = tokens[1].strip() if len(tokens) > 1 else ""
         if first == "yes":
+            if not remainder:
+                logger.debug(f"Accepted but no reponse.")
             return True, remainder or ""
         if first == "no":
             return (
@@ -113,6 +121,7 @@ def parse_acceptance_response(response):
         )
 
     # Something strange happened, but don't reject the repo because of that.
+    logger.debug(f"Strange reponse: {text}")
     return True, ""
 
 
@@ -333,8 +342,14 @@ def gather_github_repos(topic, count=None, timeout=None):
         logger.info(
             f"    Searching {title} repos for {date_type}:>={start_date} ..."
         )
+
         query = f"{search_term} in:name,description,topics,readme {date_type}:>={start_date}"
-        repos = g.search_repositories(query)
+        try:
+            repos = g.search_repositories(query)
+        except Exception as e:
+            logger.warning(f"{title } repository search failed: {e}")
+            continue
+        
         for repo in repos:
             repo_info = {
                 "repo": repo.name,
