@@ -26,7 +26,8 @@ from loguru import logger
 debug = True
 
 ctx_size = 4096
-model = "gemma4-claude"  # accurate, 34s per repo eval
+model = "gemma4:e2b-it-qat-128k" # reasonably accurate, 390 repos/hour
+# model = "gemma4-claude"  # accurate, 34s per repo eval
 # model = "gemma4:12b-it-qat"  # accurate, 34s per repo eval
 # model = "gemma4:e2b" # too permissive, 8s per repo eval
 # model = "gemma4:e4b" # too permissive, 12s per repo eval
@@ -139,7 +140,7 @@ def evaluate_repository(repo_info, criteria, search_terms):
         f"(do not use '{search_terms}' in the keywords).\n"
         "If the repo is rejected, follow 'No' with the reasons it was rejected.\n\n"
         "Output format:\n"
-        "Yes <summary>\n(<keywords>)\n"
+        "Yes <summary>\n(<keyword 1>, <keyword 2>, <keyword 3>)\n"
         "or\n"
         "No <rejection reasons>\n\n"
         f"Acceptance criteria:\n{criteria}\n\n"
@@ -198,15 +199,20 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         else:
             # Gather information about the repo to feed to the LLM.
             file_extensions = set()
-            tree = r.get_git_tree(sha=r.default_branch, recursive=True)
-            for elem in tree.tree:
-                file_extensions.add(os.path.splitext(elem.path)[1])
+            try:
+                tree = r.get_git_tree(sha=r.default_branch, recursive=True)
+            except Exception as e:
+                logger.warning(f"{idx:6d}: {owner}/{repo_name} - {e}")
+            else:
+                for elem in tree.tree:
+                    file_extensions.add(os.path.splitext(elem.path)[1])
 
             try:
                 readme = html_text.extract_text(
                     base64.b64decode(r.get_readme().content).decode("utf-8")
                 )
-            except Exception:
+            except Exception as e:
+                logger.warning(f"{idx:6d}: {owner}/{repo_name} - {e}")
                 readme = ""
 
             desc = repo["description"] or ""
