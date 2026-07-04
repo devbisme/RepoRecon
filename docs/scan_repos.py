@@ -17,16 +17,18 @@ import os
 import sys
 from datetime import datetime as dt
 from github import Auth, Github
+from github.Repository import RepositorySearchResult
 import html_text
 import requests
 import base64
 from loguru import logger
+from zoneinfo import ZoneInfo
 
 # Configuration
 debug = True
 
 ctx_size = 4096
-model = "gemma4:e2b-it-qat-128k" # reasonably accurate, 390 repos/hour
+model = "gemma4:e2b-it-qat-128k"  # reasonably accurate, 390 repos/hour
 # model = "gemma4-claude"  # accurate, 34s per repo eval
 # model = "gemma4:12b-it-qat"  # accurate, 34s per repo eval
 # model = "gemma4:e2b" # too permissive, 8s per repo eval
@@ -172,7 +174,7 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
     """
     # Sort repos by push date descending (newest first).
     repos.sort(
-        key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(),
+        key=lambda r: get_date_time(r),
         reverse=True,
     )
 
@@ -220,7 +222,9 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
             repo_info = f"{file_extensions}\n{readme} {desc}"
 
             # Perform LLM-based evaluation and enrich if accepted.
-            is_accepted, response = evaluate_repository(repo_info, criteria, search_terms)
+            is_accepted, response = evaluate_repository(
+                repo_info, criteria, search_terms
+            )
 
             if not response:
                 # No response, so don't accept or reject the repo.
@@ -286,6 +290,30 @@ def enrich_local_repos(topic, count=None, timeout=None):
         logger.info("No raw repos found to enrich.")
 
 
+def get_date_time(repo=None):
+    earliest_date_time = "2008-01-01T00:00:00Z"
+    date_times = []
+    if isinstance(repo, dict):
+        date_times.append(dt.fromisoformat(repo.get("created", earliest_date_time)))
+        date_times.append(dt.fromisoformat(repo.get("pushed", earliest_date_time)))
+        date_times.append(dt.fromisoformat(repo.get("updated", earliest_date_time)))
+    elif isinstance(repo, RepositorySearchResult):
+        date_times.append(
+            dt.fromisoformat(getattr(repo, "created_at", earliest_date_time))
+        )
+        date_times.append(
+            dt.fromisoformat(getattr(repo, "pushed_at", earliest_date_time))
+        )
+        date_times.append(
+            dt.fromisoformat(getattr(repo, "updated_at", earliest_date_time))
+        )
+    elif not repo:
+        date_times.append(dt.fromisoformat(earliest_date_time))
+    else:
+        raise (Exception, "Can't get date from unknown type.")
+    return max(date_times).replace(tzinfo=ZoneInfo("UTC"))
+
+
 def gather_github_repos(topic, count=None, timeout=None):
     """
     Search GitHub for new repositories matching a topic and date range,
@@ -316,46 +344,29 @@ def gather_github_repos(topic, count=None, timeout=None):
     # Create a dictionary of previous repos by ID for easy lookup and deduplication.
     prev_repos = {r["id"]: r for r in prev_repos}
 
-    earliest_start_yr = 2008
-    earliest_start_mo = 1
-    earliest_start_day = 1
-    if not prev_repos:
-        # If no repos from a previous search, then start search at earliest possible date.
-        start_yr = earliest_start_yr
-        start_mo = earliest_start_mo
-        start_day = earliest_start_day
-        date_types = ["created"]
-    else:
-        # Get the year/month of the most recent repo to determine where to resume search.
-        for repo in prev_repos.values():
-            repo["pushed"] = repo["pushed"] or repo["created"] or repo["updated"]
-        latest_repo = max(
-            prev_repos.values(), key=lambda x: dt.strptime(x["pushed"][0:10], "%Y-%m-%d")
+    try:
+        # Get the date-time for the newest repo.
+        start_date_time = get_date_time(
+            max(prev_repos.values(), key=lambda r: get_date_time(r))
         )
-        start_yr = int(latest_repo["pushed"][0:4])
-        start_mo = int(latest_repo["pushed"][5:7])
-        start_day = int(latest_repo["pushed"][8:10])
-        # Search by pushed date to catch old repos that were recently updated/pushed.
-        date_types = ["pushed", "created"]
+    except ValueError:
+        # If there are no repos, start searching from the date that Github started operations.
+        start_date_time = get_date_time()
 
-    # Calculate the start date for searching new repositories.
-    start_date = dt.strptime(
-        f"{start_yr:04}-{start_mo:02}-{start_day:02}", "%Y-%m-%d"
-    ).date()
-
+    # Search and gather new repos starting from the date-time of the newest previous repo.
     new_repos = {}
-    for date_type in date_types:
+    for date_type in ["created", "pushed"]:
         logger.info(
-            f"    Searching {title} repos for {date_type}:>={start_date} ..."
+            f"    Searching {title} repos for {date_type}:>={start_date_time.isoformat()} ..."
         )
 
-        query = f"{search_term} in:name,description,topics,readme {date_type}:>={start_date}"
+        query = f"{search_term} in:name,description,topics,readme {date_type}:>={start_date_time.isoformat()}"
         try:
             repos = g.search_repositories(query)
         except Exception as e:
             logger.warning(f"{title } repository search failed: {e}")
             continue
-        
+
         for repo in repos:
             repo_info = {
                 "repo": repo.name,
@@ -370,39 +381,24 @@ def gather_github_repos(topic, count=None, timeout=None):
                 "url": repo.html_url,
                 "id": repo.id,
             }
-            try:
-                repo_info["created"] = repo.created_at.isoformat()
-                repo_info["updated"] = repo.updated_at.isoformat()
-                repo_info["pushed"] = repo.pushed_at.isoformat()
-            except AttributeError as e:
-                # Fallback if dates are missing from the API response.
-                dflt_date = dt.strptime(
-                    search_date + "-01", "%Y-%m-%d"
-                ).isoformat()
-                repo_info["created"] = dflt_date
-                repo_info["updated"] = dflt_date
-                repo_info["pushed"] = dflt_date
             new_repos[repo.id] = repo_info
 
+    # Add new repos to previous repos.
     for id, new_repo in new_repos.items():
-        new_repo_date = dt.strptime(new_repo["pushed"].split("T")[0], "%Y-%m-%d").date()
+        new_repo_date = get_date_time(new_repo)
         if id in prev_repos:
             # Replace an existing repo if the new one is more recent.
-            prev_repo = prev_repos[id]
-            prev_repo_date = dt.strptime(
-                prev_repo["pushed"].split("T")[0], "%Y-%m-%d"
-            ).date()
-            # Replace if the new one is more recent.
+            prev_repo_date = get_date_time(prev_repos[id])
             if new_repo_date > prev_repo_date:
                 prev_repos[id] = new_repo
-        elif new_repo_date >= start_date:
+        elif new_repo_date >= start_date_time:
             # Add a new repo if it was created after our search boundary.
             prev_repos[id] = new_repo
 
     # Sort and save the updated repository list to JSON.
     date_sorted_repos = sorted(
         prev_repos.values(),
-        key=lambda x: dt.strptime(x["pushed"].split("T")[0], "%Y-%m-%d").date(),
+        key=lambda r: get_date_time(r),
     )
     with open(repo_file, "w") as f:
         json.dump(date_sorted_repos, f, indent=4)
@@ -453,10 +449,14 @@ if __name__ == "__main__":
     )
 
     with open(args.topic_file, "r") as topic_file:
-        topics = json.load(topic_file)
+        try:
+            topics = json.load(topic_file)
+        except Exception as e:
+            logger.error(f"Failed while opening {topic_file.name}: {e}")
+            sys.exit(1)
         if not topics:
             logger.info("No topics found in file.")
-            sys.exit(1)
+            sys.exit(0)
 
         for topic in topics:
             if args.mode == "scan":
