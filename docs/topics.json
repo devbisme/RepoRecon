@@ -22,6 +22,7 @@
         "title": "SKiDL",
         "search_terms": "skidl",
         "JSON_file": "skidl",
+        "acceptance_criteria": "The repo has one or more of the following: 1) one or more Python files that use SKiDL to create electronic systems 2) software utilities that accept and/or generate SKiDL, 3) skills or MCPs that allow an AI or LLM to work with SKiDL. Reject personal portfolio pages and pages with lists having many links to non-SKiDL items.",
         "count": 0
     },
     {
@@ -56,14 +57,15 @@
     },
     {
         "title": "El-Cheapo Microcontrollers",
-        "search_terms": "RP2040 OR CH32V OR PY32F",
+        "search_terms": "RP2040 OR RP2350 OR CH32V OR PY32F",
         "JSON_file": "el_cheapo_uc",
+        "acceptance_criteria": "The repo has one or more of the following that involve these microcontrollers: 1) source code files that target one or more of them 2) software utilities for working with them, 3) descriptive or executable files for building electronic or physical systems that contain them 4) skills or MCPs that allow an AI or LLM to work or design with them. Reject personal portfolio pages and pages with lists having many links to non-SKiDL items.",
         "count": 0
     },
     {
         "title": "Awesome Lists",
         "search_terms": "awesome+curated+list",
         "JSON_file": "awesome_list",
-        "count": 0
+       "count": 0
     }
 ]
