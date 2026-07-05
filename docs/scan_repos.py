@@ -227,14 +227,19 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
             )
 
             if not response:
-                # No response, so don't accept or reject the repo.
-                # It will be re-evaluated some other time, maybe with a definitive result.
-                logger.debug(f"{idx:6d}: Deferred {owner}/{repo_name} - No response")
-                pass
+                # Discard the repo if there hasn't been a response after several attempts.
+                deferred_count = repo.get("deferred", 0) + 1
+                if deferred_count >= 3:
+                    logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries")
+                    repo["discarded"] = True
+                else:
+                    logger.debug(f"{idx:6d}: Deferred {owner}/{repo_name} - No response")
+                    repo["deferred"] += 1
             elif is_accepted:
                 logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
                 repo["description"] = response
                 repo["enriched"] = True
+                repo.pop("deferred", none)  # Remove deferred count since the repo exists.
             else:
                 logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
                 repo["discarded"] = True
