@@ -1,0 +1,102 @@
+/home/devb/projects/RepoRecon/docs/./scan_repos.py:34: DeprecationWarning: Argument login_or_token is deprecated, please use auth=github.Auth.Token(...) instead
+  g = Github(token)
+
+INFO // 11:07:06 // __main__:448
+Gathering KiCad repos for 2026-06 ...
+
+
+INFO // 11:07:06 // __main__:452
+    Searching KiCad repos for pushed:2026-06 ...
+
+Traceback (most recent call last):
+  File "/home/devb/projects/RepoRecon/docs/./scan_repos.py", line 562, in <module>
+    gather_github_repos(topic, count=args.count, timeout=args.timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/devb/projects/RepoRecon/docs/./scan_repos.py", line 458, in gather_github_repos
+    for repo in yr_mo_repos:
+                ^^^^^^^^^^^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/PaginatedList.py", line 98, in __iter__
+    newElements = self._grow()
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/PaginatedList.py", line 109, in _grow
+    newElements = self._fetchNextPage()
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/PaginatedList.py", line 338, in _fetchNextPage
+    headers, data = self.__requester.requestJsonAndCheck(
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        "GET", self.__nextUrl, parameters=self.__nextParams, headers=self.__headers  # type: ignore
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/Requester.py", line 624, in requestJsonAndCheck
+    *self.requestJson(
+     ~~~~~~~~~~~~~~~~^
+        verb,
+        ^^^^^
+    ...<5 lines>...
+        follow_302_redirect=follow_302_redirect,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/Requester.py", line 1046, in requestJson
+    status, responseHeaders, output = self.__requestEncode(
+                                      ~~~~~~~~~~~~~~~~~~~~^
+        cnx, verb, url, parameters, headers, input, encode, follow_302_redirect=follow_302_redirect
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/Requester.py", line 1185, in __requestEncode
+    status, responseHeaders, output = self.__requestRaw(
+                                      ~~~~~~~~~~~~~~~~~^
+        cnx, verb, url, requestHeaders, encoded_input, stream=stream, follow_302_redirect=follow_302_redirect
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/Requester.py", line 1223, in __requestRaw
+    response = cnx.getresponse()
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/github/Requester.py", line 213, in getresponse
+    r = verb(
+        url,
+    ...<4 lines>...
+        allow_redirects=False,
+    )
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/urllib3/connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/site-packages/urllib3/connection.py", line 516, in getresponse
+    httplib_response = super().getresponse()
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/http/client.py", line 1459, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/http/client.py", line 336, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/http/client.py", line 297, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/socket.py", line 723, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/home/devb/.pyenv/versions/3.13.14/lib/python3.13/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+KeyboardInterrupt

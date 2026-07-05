@@ -1,0 +1,693 @@
+
+INFO // 02:00:03 // __main__:459
+Gathering AI repos for 2026-06 ...
+
+
+INFO // 02:00:03 // __main__:464
+    Searching AI repos for pushed:2026-06 ...
+
+Request GET /search/repositories?q=%27Machine+Learning%27+OR+%27Artificial+Intelligence%27+OR+%27Deep+Learning%27+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=10 failed with 403: rate limit exceeded
+Setting next backoff to 9.830038s
+Request GET /search/repositories?q=%27Machine+Learning%27+OR+%27Artificial+Intelligence%27+OR+%27Deep+Learning%27+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=20 failed with 403: rate limit exceeded
+Setting next backoff to 46.355791s
+Request GET /search/repositories?q=%27Machine+Learning%27+OR+%27Artificial+Intelligence%27+OR+%27Deep+Learning%27+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=30 failed with 403: rate limit exceeded
+Setting next backoff to 47.040605s
+
+INFO // 02:02:35 // __main__:464
+    Searching AI repos for created:2026-06 ...
+
+Request GET /search/repositories?q=%27Machine+Learning%27+OR+%27Artificial+Intelligence%27+OR+%27Deep+Learning%27+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=6 failed with 403: rate limit exceeded
+Setting next backoff to 46.291804s
+Request GET /search/repositories?q=%27Machine+Learning%27+OR+%27Artificial+Intelligence%27+OR+%27Deep+Learning%27+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=16 failed with 403: rate limit exceeded
+Setting next backoff to 45.133682s
+Request GET /search/repositories?q=%27Machine+Learning%27+OR+%27Artificial+Intelligence%27+OR+%27Deep+Learning%27+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=26 failed with 403: rate limit exceeded
+Setting next backoff to 44.48737s
+Request GET /search/repositories?q=%27Machine+Learning%27+OR+%27Artificial+Intelligence%27+OR+%27Deep+Learning%27+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=32 failed with 403: rate limit exceeded
+Setting next backoff to 46.037781s
+
+INFO // 02:06:38 // __main__:306
+Enriching 0 repos...
+
+
+INFO // 02:06:42 // __main__:459
+Gathering KiCad repos for 2026-06 ...
+
+
+INFO // 02:06:42 // __main__:464
+    Searching KiCad repos for pushed:2026-06 ...
+
+Request GET /search/repositories?q=kicad+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=8 failed with 403: rate limit exceeded
+Setting next backoff to 36.073133s
+Request GET /search/repositories?q=kicad+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=18 failed with 403: rate limit exceeded
+Setting next backoff to 44.752563s
+Request GET /search/repositories?q=kicad+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=28 failed with 403: rate limit exceeded
+Setting next backoff to 44.582542s
+
+INFO // 02:09:40 // __main__:464
+    Searching KiCad repos for created:2026-06 ...
+
+Request GET /search/repositories?q=kicad+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=4 failed with 403: rate limit exceeded
+Setting next backoff to 45.296779s
+Request GET /search/repositories?q=kicad+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=14 failed with 403: rate limit exceeded
+Setting next backoff to 46.084213s
+Request GET /search/repositories?q=kicad+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=24 failed with 403: rate limit exceeded
+Setting next backoff to 40.753864s
+Request GET /search/repositories?q=kicad+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=30 failed with 403: rate limit exceeded
+Setting next backoff to 6.753845s
+
+INFO // 02:13:05 // __main__:306
+Enriching 100 repos...
+
+
+WARNING // 02:16:15 // __main__:188
+Failed to get README for Aru123321/KiCad
+
+
+WARNING // 02:19:00 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 02:21:34 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 02:26:06 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 02:34:08 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 02:35:47 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 02:37:39 // __main__:113
+Failed to get file extensions for Mark-Islam/kicad
+
+
+WARNING // 02:37:40 // __main__:163
+Failed to get README for Mark-Islam/kicad
+
+
+WARNING // 02:38:34 // __main__:80
+Failed to get default branch for sandraelenac/KiCad-Sample
+
+
+WARNING // 02:38:35 // __main__:113
+Failed to get file extensions for sandraelenac/KiCad-Sample
+
+
+WARNING // 02:38:36 // __main__:163
+Failed to get README for sandraelenac/KiCad-Sample
+
+
+WARNING // 02:42:30 // __main__:80
+Failed to get default branch for zatelectronic/MODULE_RELAY_SMD
+
+
+WARNING // 02:42:30 // __main__:113
+Failed to get file extensions for zatelectronic/MODULE_RELAY_SMD
+
+
+WARNING // 02:42:31 // __main__:163
+Failed to get README for zatelectronic/MODULE_RELAY_SMD
+
+
+WARNING // 02:44:59 // __main__:113
+Failed to get file extensions for zatelectronic/DEVKIT_V1_PIC18F4550
+
+
+WARNING // 02:44:59 // __main__:163
+Failed to get README for zatelectronic/DEVKIT_V1_PIC18F4550
+
+
+WARNING // 02:45:55 // __main__:80
+Failed to get default branch for zatelectronic/FTDI232_COM_RTS
+
+
+WARNING // 02:45:56 // __main__:113
+Failed to get file extensions for zatelectronic/FTDI232_COM_RTS
+
+
+WARNING // 02:45:56 // __main__:163
+Failed to get README for zatelectronic/FTDI232_COM_RTS
+
+
+WARNING // 02:46:43 // __main__:80
+Failed to get default branch for zatelectronic/FTDI232_COM_CTS
+
+
+WARNING // 02:46:44 // __main__:113
+Failed to get file extensions for zatelectronic/FTDI232_COM_CTS
+
+
+WARNING // 02:46:45 // __main__:163
+Failed to get README for zatelectronic/FTDI232_COM_CTS
+
+
+WARNING // 02:47:39 // __main__:80
+Failed to get default branch for zatelectronic/MULTIFUNCTION_SHIELD_V1
+
+
+WARNING // 02:47:39 // __main__:113
+Failed to get file extensions for zatelectronic/MULTIFUNCTION_SHIELD_V1
+
+
+WARNING // 02:47:40 // __main__:163
+Failed to get README for zatelectronic/MULTIFUNCTION_SHIELD_V1
+
+
+WARNING // 02:48:38 // __main__:80
+Failed to get default branch for MaheshChowdaryDamuluri/Arduino-Nano-Project
+
+
+WARNING // 02:48:38 // __main__:113
+Failed to get file extensions for MaheshChowdaryDamuluri/Arduino-Nano-Project
+
+
+WARNING // 02:48:39 // __main__:163
+Failed to get README for MaheshChowdaryDamuluri/Arduino-Nano-Project
+
+
+WARNING // 02:49:29 // __main__:80
+Failed to get default branch for akihiro-kataoka/akihiro-kataoka
+
+
+WARNING // 02:49:29 // __main__:113
+Failed to get file extensions for akihiro-kataoka/akihiro-kataoka
+
+
+WARNING // 02:49:30 // __main__:163
+Failed to get README for akihiro-kataoka/akihiro-kataoka
+
+
+WARNING // 02:50:24 // __main__:80
+Failed to get default branch for zatelectronic/SHIELD_PICO_TERMINAL_BLOCK
+
+
+WARNING // 02:50:24 // __main__:113
+Failed to get file extensions for zatelectronic/SHIELD_PICO_TERMINAL_BLOCK
+
+
+WARNING // 02:50:25 // __main__:163
+Failed to get README for zatelectronic/SHIELD_PICO_TERMINAL_BLOCK
+
+
+WARNING // 02:51:14 // __main__:80
+Failed to get default branch for derpy2289/kicad_stuff
+
+
+WARNING // 02:51:14 // __main__:113
+Failed to get file extensions for derpy2289/kicad_stuff
+
+
+WARNING // 02:51:15 // __main__:163
+Failed to get README for derpy2289/kicad_stuff
+
+
+WARNING // 02:52:12 // __main__:80
+Failed to get default branch for i2cjak/VL53L9CX
+
+
+WARNING // 02:52:12 // __main__:113
+Failed to get file extensions for i2cjak/VL53L9CX
+
+
+WARNING // 02:52:13 // __main__:163
+Failed to get README for i2cjak/VL53L9CX
+
+
+WARNING // 02:52:35 // __main__:80
+Failed to get default branch for ParkDeaho/Wiring_Guide
+
+
+WARNING // 02:52:35 // __main__:113
+Failed to get file extensions for ParkDeaho/Wiring_Guide
+
+
+WARNING // 02:52:36 // __main__:163
+Failed to get README for ParkDeaho/Wiring_Guide
+
+
+WARNING // 02:52:53 // __main__:80
+Failed to get default branch for dipucwc/RF-Microwave-Circuit-Design-Portfolio
+
+
+WARNING // 02:52:54 // __main__:113
+Failed to get file extensions for dipucwc/RF-Microwave-Circuit-Design-Portfolio
+
+
+WARNING // 02:52:54 // __main__:163
+Failed to get README for dipucwc/RF-Microwave-Circuit-Design-Portfolio
+
+
+WARNING // 02:53:53 // __main__:80
+Failed to get default branch for najanaithak/H-Bridge-DC-Motor-Driver-with-PWM
+
+
+WARNING // 02:53:53 // __main__:113
+Failed to get file extensions for najanaithak/H-Bridge-DC-Motor-Driver-with-PWM
+
+
+WARNING // 02:53:54 // __main__:163
+Failed to get README for najanaithak/H-Bridge-DC-Motor-Driver-with-PWM
+
+
+WARNING // 02:54:54 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 02:55:42 // __main__:80
+Failed to get default branch for shackspace/bttf
+
+
+WARNING // 02:55:42 // __main__:113
+Failed to get file extensions for shackspace/bttf
+
+
+WARNING // 02:55:43 // __main__:163
+Failed to get README for shackspace/bttf
+
+
+WARNING // 02:56:06 // __main__:80
+Failed to get default branch for F6ITU/Mentor
+
+
+WARNING // 02:56:06 // __main__:113
+Failed to get file extensions for F6ITU/Mentor
+
+
+WARNING // 02:56:07 // __main__:163
+Failed to get README for F6ITU/Mentor
+
+
+WARNING // 02:56:30 // __main__:80
+Failed to get default branch for ykp74/KiCad
+
+
+WARNING // 02:56:30 // __main__:113
+Failed to get file extensions for ykp74/KiCad
+
+
+WARNING // 02:56:31 // __main__:163
+Failed to get README for ykp74/KiCad
+
+
+WARNING // 02:57:22 // __main__:80
+Failed to get default branch for nicholasaleks/Awesome-Drone-Hacking
+
+
+WARNING // 02:57:22 // __main__:113
+Failed to get file extensions for nicholasaleks/Awesome-Drone-Hacking
+
+
+WARNING // 02:57:23 // __main__:163
+Failed to get README for nicholasaleks/Awesome-Drone-Hacking
+
+
+WARNING // 02:57:37 // __main__:80
+Failed to get default branch for AlbrechtL/rpi-managed-switch-4-port
+
+
+WARNING // 02:57:37 // __main__:113
+Failed to get file extensions for AlbrechtL/rpi-managed-switch-4-port
+
+
+WARNING // 02:57:38 // __main__:163
+Failed to get README for AlbrechtL/rpi-managed-switch-4-port
+
+
+WARNING // 02:58:13 // __main__:80
+Failed to get default branch for jeevan9s/homectrl-sys
+
+
+WARNING // 02:58:13 // __main__:113
+Failed to get file extensions for jeevan9s/homectrl-sys
+
+
+WARNING // 02:58:14 // __main__:163
+Failed to get README for jeevan9s/homectrl-sys
+
+
+WARNING // 02:58:30 // __main__:80
+Failed to get default branch for Chewby/stenchill-kicad-plugin
+
+
+WARNING // 02:58:31 // __main__:113
+Failed to get file extensions for Chewby/stenchill-kicad-plugin
+
+
+WARNING // 02:58:32 // __main__:163
+Failed to get README for Chewby/stenchill-kicad-plugin
+
+
+WARNING // 02:58:47 // __main__:80
+Failed to get default branch for Rogger/schneggi-sensor
+
+
+WARNING // 02:58:48 // __main__:113
+Failed to get file extensions for Rogger/schneggi-sensor
+
+
+WARNING // 02:58:49 // __main__:163
+Failed to get README for Rogger/schneggi-sensor
+
+
+WARNING // 02:59:14 // __main__:80
+Failed to get default branch for thismatters/EurorackKiCAD
+
+
+WARNING // 02:59:14 // __main__:113
+Failed to get file extensions for thismatters/EurorackKiCAD
+
+
+WARNING // 02:59:15 // __main__:163
+Failed to get README for thismatters/EurorackKiCAD
+
+
+WARNING // 03:00:03 // __main__:80
+Failed to get default branch for mamba2410/picowalker-hardware
+
+
+WARNING // 03:00:03 // __main__:113
+Failed to get file extensions for mamba2410/picowalker-hardware
+
+
+WARNING // 03:00:04 // __main__:163
+Failed to get README for mamba2410/picowalker-hardware
+
+
+WARNING // 03:00:57 // __main__:80
+Failed to get default branch for tscircuit/internal-dynamic-import
+
+
+WARNING // 03:00:57 // __main__:113
+Failed to get file extensions for tscircuit/internal-dynamic-import
+
+
+WARNING // 03:00:58 // __main__:163
+Failed to get README for tscircuit/internal-dynamic-import
+
+
+WARNING // 03:01:37 // __main__:80
+Failed to get default branch for Hanqaqa/Easyduino
+
+
+WARNING // 03:01:37 // __main__:113
+Failed to get file extensions for Hanqaqa/Easyduino
+
+
+WARNING // 03:01:38 // __main__:163
+Failed to get README for Hanqaqa/Easyduino
+
+
+WARNING // 03:02:38 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 03:03:04 // __main__:80
+Failed to get default branch for FunDeckHermit/NURD-Template
+
+
+WARNING // 03:03:04 // __main__:113
+Failed to get file extensions for FunDeckHermit/NURD-Template
+
+
+WARNING // 03:03:05 // __main__:163
+Failed to get README for FunDeckHermit/NURD-Template
+
+
+WARNING // 03:03:29 // __main__:80
+Failed to get default branch for rh1tech/frank
+
+
+WARNING // 03:03:29 // __main__:113
+Failed to get file extensions for rh1tech/frank
+
+
+WARNING // 03:03:30 // __main__:163
+Failed to get README for rh1tech/frank
+
+
+WARNING // 03:04:02 // __main__:80
+Failed to get default branch for diedasman/diedasman
+
+
+WARNING // 03:04:03 // __main__:113
+Failed to get file extensions for diedasman/diedasman
+
+
+WARNING // 03:04:04 // __main__:163
+Failed to get README for diedasman/diedasman
+
+
+WARNING // 03:04:55 // __main__:80
+Failed to get default branch for MetaStrawman/chameleon-mesh-node
+
+
+WARNING // 03:04:56 // __main__:113
+Failed to get file extensions for MetaStrawman/chameleon-mesh-node
+
+
+WARNING // 03:04:57 // __main__:163
+Failed to get README for MetaStrawman/chameleon-mesh-node
+
+
+WARNING // 03:05:41 // __main__:80
+Failed to get default branch for thismatters/EurorackSnareDrum
+
+
+WARNING // 03:05:42 // __main__:113
+Failed to get file extensions for thismatters/EurorackSnareDrum
+
+
+WARNING // 03:05:43 // __main__:163
+Failed to get README for thismatters/EurorackSnareDrum
+
+
+WARNING // 03:06:17 // __main__:80
+Failed to get default branch for simukka/r1mx
+
+
+WARNING // 03:06:17 // __main__:113
+Failed to get file extensions for simukka/r1mx
+
+
+WARNING // 03:06:18 // __main__:163
+Failed to get README for simukka/r1mx
+
+
+WARNING // 03:06:55 // __main__:80
+Failed to get default branch for AamirKPathan/TheGitboard2.0
+
+
+WARNING // 03:06:55 // __main__:113
+Failed to get file extensions for AamirKPathan/TheGitboard2.0
+
+
+WARNING // 03:06:56 // __main__:163
+Failed to get README for AamirKPathan/TheGitboard2.0
+
+
+WARNING // 03:07:51 // __main__:80
+Failed to get default branch for ezekiellemana/ATmega32_External_Interrupt_Event_System
+
+
+WARNING // 03:07:52 // __main__:113
+Failed to get file extensions for ezekiellemana/ATmega32_External_Interrupt_Event_System
+
+
+WARNING // 03:07:53 // __main__:163
+Failed to get README for ezekiellemana/ATmega32_External_Interrupt_Event_System
+
+
+WARNING // 03:08:47 // __main__:80
+Failed to get default branch for d3vv3/open-motorcycle-intercom
+
+
+WARNING // 03:08:47 // __main__:113
+Failed to get file extensions for d3vv3/open-motorcycle-intercom
+
+
+WARNING // 03:08:48 // __main__:163
+Failed to get README for d3vv3/open-motorcycle-intercom
+
+
+WARNING // 03:09:14 // __main__:80
+Failed to get default branch for QuantumLogicsLabs/CircuitMind
+
+
+WARNING // 03:09:14 // __main__:113
+Failed to get file extensions for QuantumLogicsLabs/CircuitMind
+
+
+WARNING // 03:09:15 // __main__:163
+Failed to get README for QuantumLogicsLabs/CircuitMind
+
+
+WARNING // 03:10:15 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 03:12:00 // __main__:80
+Failed to get default branch for kaydensigh/drv8313-board
+
+
+WARNING // 03:12:01 // __main__:113
+Failed to get file extensions for kaydensigh/drv8313-board
+
+
+WARNING // 03:12:01 // __main__:163
+Failed to get README for kaydensigh/drv8313-board
+
+
+WARNING // 03:13:01 // __main__:220
+Ollama error: HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)
+
+
+WARNING // 03:14:04 // __main__:80
+Failed to get default branch for york-fs/kicad-library
+
+
+WARNING // 03:14:05 // __main__:113
+Failed to get file extensions for york-fs/kicad-library
+
+
+WARNING // 03:14:05 // __main__:163
+Failed to get README for york-fs/kicad-library
+
+
+WARNING // 03:14:21 // __main__:80
+Failed to get default branch for SPREsxm/claude-pcb-designer
+
+
+WARNING // 03:14:21 // __main__:113
+Failed to get file extensions for SPREsxm/claude-pcb-designer
+
+
+WARNING // 03:14:22 // __main__:163
+Failed to get README for SPREsxm/claude-pcb-designer
+
+
+WARNING // 03:14:57 // __main__:80
+Failed to get default branch for tscircuit/circuit-json-to-kicad
+
+
+WARNING // 03:14:57 // __main__:113
+Failed to get file extensions for tscircuit/circuit-json-to-kicad
+
+
+WARNING // 03:14:58 // __main__:163
+Failed to get README for tscircuit/circuit-json-to-kicad
+
+
+INFO // 03:15:22 // __main__:459
+Gathering FreeCAD repos for 2026-06 ...
+
+
+INFO // 03:15:22 // __main__:464
+    Searching FreeCAD repos for pushed:2026-06 ...
+
+Request GET /search/repositories?q=freecad+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=11 failed with 403: rate limit exceeded
+Setting next backoff to 44.768931s
+Request GET /search/repositories?q=freecad+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=15 failed with 403: rate limit exceeded
+Setting next backoff to 52.91186s
+Request GET /search/repositories?q=freecad+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=25 failed with 403: rate limit exceeded
+Setting next backoff to 43.788786s
+
+INFO // 03:18:40 // __main__:464
+    Searching FreeCAD repos for created:2026-06 ...
+
+Request GET /search/repositories?q=freecad+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06 failed with 403: rate limit exceeded
+Setting next backoff to 44.35262s
+Request GET /search/repositories?q=freecad+in%3Aname%2Cdescription%2Ctopics%2Creadme+created%3A2026-06&page=11 failed with 403: rate limit exceeded
+Setting next backoff to 47.496856s
+
+INFO // 03:20:41 // __main__:306
+Enriching 0 repos...
+
+
+INFO // 03:20:41 // __main__:459
+Gathering SKiDL repos for 2026-06 ...
+
+
+INFO // 03:20:41 // __main__:464
+    Searching SKiDL repos for pushed:2026-06 ...
+
+Request GET /search/repositories?q=skidl+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06 failed with 403: rate limit exceeded
+Setting next backoff to 45.111393s
+
+INFO // 03:21:29 // __main__:464
+    Searching SKiDL repos for created:2026-06 ...
+
+
+INFO // 03:21:30 // __main__:306
+Enriching 0 repos...
+
+
+INFO // 03:21:30 // __main__:459
+Gathering LiteX repos for 2026-06 ...
+
+
+INFO // 03:21:30 // __main__:464
+    Searching LiteX repos for pushed:2026-06 ...
+
+Request GET /search/repositories?q=litex+in%3Aname%2Cdescription%2Ctopics%2Creadme+pushed%3A2026-06&page=4 failed with 403: rate limit exceeded
+Setting next backoff to 37.453796s
+
+INFO // 03:22:16 // __main__:464
+    Searching LiteX repos for created:2026-06 ...
+
+
+INFO // 03:22:18 // __main__:306
+Enriching 0 repos...
+
+
+INFO // 03:22:18 // __main__:459
+Gathering MyHDL repos for 2026-06 ...
+
+
+INFO // 03:22:18 // __main__:464
+    Searching MyHDL repos for pushed:2026-06 ...
+
+
+INFO // 03:22:19 // __main__:464
+    Searching MyHDL repos for created:2026-06 ...
+
+
+INFO // 03:22:20 // __main__:306
+Enriching 0 repos...
+
+
+INFO // 03:22:20 // __main__:459
+Gathering FOSS Chips repos for 2026-06 ...
+
+
+INFO // 03:22:20 // __main__:464
+    Searching FOSS Chips repos for pushed:2026-06 ...
+
+Traceback (most recent call last):
+  File "./scan_repos.py", line 573, in <module>
+    gather_github_repos(topic, count=args.count, timeout=args.timeout)
+  File "./scan_repos.py", line 469, in gather_github_repos
+    for repo in yr_mo_repos:
+  File "/home/devb/.local/lib/python3.7/site-packages/github/PaginatedList.py", line 69, in __iter__
+    newElements = self._grow()
+  File "/home/devb/.local/lib/python3.7/site-packages/github/PaginatedList.py", line 80, in _grow
+    newElements = self._fetchNextPage()
+  File "/home/devb/.local/lib/python3.7/site-packages/github/PaginatedList.py", line 220, in _fetchNextPage
+    "GET", self.__nextUrl, parameters=self.__nextParams, headers=self.__headers
+  File "/home/devb/.local/lib/python3.7/site-packages/github/Requester.py", line 494, in requestJsonAndCheck
+    return self.__check(*self.requestJson(verb, url, parameters, headers, input, self.__customConnection(url)))
+  File "/home/devb/.local/lib/python3.7/site-packages/github/Requester.py", line 525, in __check
+    raise self.createException(status, responseHeaders, data)
+github.GithubException.GithubException: 422 {"message": "Validation Failed", "errors": [{"message": "More than five AND / OR / NOT operators were used.", "resource": "Search", "field": "q", "code": "invalid"}], "documentation_url": "https://docs.github.com/v3/search/", "status": "422"}
+[master 8149227] Topic updates.
+ 7 files changed, 8919 insertions(+), 6391 deletions(-)
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File docs/AI.json is 83.23 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:devbisme/RepoRecon.git
+   fc32a69..8149227  master -> master
