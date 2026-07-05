@@ -195,9 +195,18 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         try:
             r = g.get_repo(f"{owner}/{repo_name}")
         except Exception as e:
-            logger.debug(
-                f"{idx:6d}: Deferred {owner}/{repo_name} - Repository not found"
-            )
+            # Discard the repo if it hasn't been found after several attempts.
+            deferred_count = repo.get("deferred", 0) + 1
+            if deferred_count >= 3:
+                logger.debug(
+                    f"{idx:6d}: Discarded {owner}/{repo_name} - Not found after {deferred_count} tries"
+                )
+                repo["discarded"] = True
+            else:
+                logger.debug(
+                    f"{idx:6d}: Deferred {owner}/{repo_name} - Repository not found"
+                )
+                repo["deferred"] = deferred_count
         else:
             # Gather information about the repo to feed to the LLM.
             file_extensions = set()
@@ -230,16 +239,22 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
                 # Discard the repo if there hasn't been a response after several attempts.
                 deferred_count = repo.get("deferred", 0) + 1
                 if deferred_count >= 3:
-                    logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries")
+                    logger.debug(
+                        f"{idx:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries"
+                    )
                     repo["discarded"] = True
                 else:
-                    logger.debug(f"{idx:6d}: Deferred {owner}/{repo_name} - No response")
-                    repo["deferred"] += 1
+                    logger.debug(
+                        f"{idx:6d}: Deferred {owner}/{repo_name} - No response"
+                    )
+                    repo["deferred"] = deferred_count
             elif is_accepted:
                 logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
                 repo["description"] = response
                 repo["enriched"] = True
-                repo.pop("deferred", none)  # Remove deferred count since the repo exists.
+                repo.pop(
+                    "deferred", None
+                )  # Remove deferred count since the repo exists.
             else:
                 logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
                 repo["discarded"] = True
@@ -424,6 +439,12 @@ if __name__ == "__main__":
         help="Mode of operation: 'scan' (default) or 'enrich'.",
     )
     parser.add_argument(
+        "--topic", 
+        nargs="*",
+        default=[],
+        help="Process a specific topic from the topics file."
+    )
+    parser.add_argument(
         "--count",
         type=int,
         default=None,
@@ -463,8 +484,10 @@ if __name__ == "__main__":
             logger.info("No topics found in file.")
             sys.exit(0)
 
-        for topic in topics:
-            if args.mode == "scan":
-                gather_github_repos(topic, count=args.count, timeout=args.timeout)
-            elif args.mode == "enrich":
-                enrich_local_repos(topic, count=args.count, timeout=args.timeout)
+    for topic in topics:
+        if args.topic and topic["title"].lower() not in args.topic:
+            continue
+        if args.mode == "scan":
+            gather_github_repos(topic, count=args.count, timeout=args.timeout)
+        elif args.mode == "enrich":
+            enrich_local_repos(topic, count=args.count, timeout=args.timeout)
