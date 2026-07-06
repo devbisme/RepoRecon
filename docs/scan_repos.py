@@ -485,7 +485,7 @@ if __name__ == "__main__":
             sys.exit(0)
 
     for topic in topics:
-        if args.topic and topic["title"].lower() not in args.topic:
+        if args.topic and topic["title"].lower() not in args.topic and topic["JSON_file"].lower() not in args.topic:
             continue
         if args.mode == "scan":
             gather_github_repos(topic, count=args.count, timeout=args.timeout)
