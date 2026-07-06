@@ -1,4 +1,5 @@
 #!/bin/bash
+source ~/.bashrc
 
 set -e
 
