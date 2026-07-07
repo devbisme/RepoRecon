@@ -130,9 +130,6 @@ def parse_acceptance_response(response):
 
 def evaluate_repository(repo_info, criteria, search_terms):
     """Use a single Ollama call to decide acceptance and return a summary or rejection reasons."""
-    if not repo_info or not criteria or "Placeholder" in criteria:
-        # Don't reject the repo. It will be re-evaluated some other time.
-        return True, ""
 
     prompt = (
         "Determine if the repository content meets the acceptance criteria. "
@@ -172,6 +169,13 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
     Yields:
         None: Yields control back to the caller after processing each batch.
     """
+
+    # No need to enrich if there's no criteria.
+    if not criteria or criteria.startswith("Placeholder"):
+        # Don't reject the repo. It will be re-evaluated some other time.
+        logger.info(f"No acceptance criteria given so enriching 0 repos")
+        return
+
     # Sort repos by push date descending (newest first).
     repos.sort(
         key=lambda r: get_date_time(r),
@@ -217,7 +221,6 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
             else:
                 for elem in tree.tree:
                     file_extensions.add(os.path.splitext(elem.path)[1])
-
             try:
                 readme = html_text.extract_text(
                     base64.b64decode(r.get_readme().content).decode("utf-8")
@@ -228,7 +231,7 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
 
             desc = repo["description"] or ""
 
-            repo_info = f"{file_extensions}\n{readme} {desc}"
+            repo_info = f"file extensions in repo: {list(file_extensions)}\n{readme} {desc}"
 
             # Perform LLM-based evaluation and enrich if accepted.
             is_accepted, response = evaluate_repository(
