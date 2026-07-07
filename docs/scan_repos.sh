@@ -1,5 +1,6 @@
 #!/bin/bash
 source ~/.bashrc
+source ~/.profile
 
 set -e
 
