@@ -1,3 +1,4 @@
+import base64
 import unittest
 from unittest.mock import patch, MagicMock
 import json
@@ -33,6 +34,7 @@ class TestScanRepos(unittest.TestCase):
             }
         ]
 
+    @patch('docs.scan_repos.g', MagicMock(get_repo=MagicMock(return_value=MagicMock())))
     @patch('docs.scan_repos.get_repo_file_extensions')
     @patch('docs.scan_repos.fetch_readme')
     @patch('docs.scan_repos.evaluate_repository')
@@ -56,6 +58,7 @@ class TestScanRepos(unittest.TestCase):
                 "A short summary of a Python ML project. keywords: ai, training, dataset",
             )
 
+    @patch('docs.scan_repos.g', MagicMock(get_repo=MagicMock(return_value=MagicMock())))
     @patch('docs.scan_repos.get_repo_file_extensions')
     @patch('docs.scan_repos.fetch_readme')
     @patch('docs.scan_repos.evaluate_repository')
@@ -69,6 +72,38 @@ class TestScanRepos(unittest.TestCase):
         for repo in self.mock_repos:
             self.assertFalse(repo.get("enriched", False))
             self.assertFalse(repo.get("accepted", False))
+
+    @patch('docs.scan_repos.evaluate_repository')
+    @patch('docs.scan_repos.html_text.extract_text')
+    def test_enrich_skips_unchanged_already_enriched_repo(self, mock_extract, mock_eval):
+        fake_repo = MagicMock()
+        fake_repo.default_branch = "main"
+        fake_repo.get_git_tree.return_value = MagicMock(tree=[MagicMock(path="repo.py")])
+        fake_repo.get_readme.return_value = MagicMock(
+            content=base64.b64encode(b"# Example repo").decode("utf-8")
+        )
+
+        repo_info = "file extensions in repo: ['.py']\n# Example repo Original description"
+        repo = {
+            "owner": "octo",
+            "repo": "demo",
+            "description": "Original description",
+            "created": "2024-01-01T00:00:00Z",
+            "updated": "2024-01-01T00:00:00Z",
+            "pushed": "2024-01-01T00:00:00Z",
+            "enriched": True,
+            "repo_info_hash": "unchanged-hash",
+        }
+
+        with patch('docs.scan_repos.g', MagicMock(get_repo=MagicMock(return_value=fake_repo))):
+            mock_extract.return_value = "# Example repo"
+            mock_eval.return_value = (True, "Summary")
+            with patch('docs.scan_repos.repo_info_hash', return_value='unchanged-hash'):
+                list(enrich_repos([repo], self.criteria, self.search_terms, None, None, batch_size=1))
+
+        self.assertTrue(repo.get("enriched", False))
+        self.assertEqual(repo.get("description"), "Original description")
+        mock_eval.assert_not_called()
 
     @patch('docs.scan_repos.enrich_repos')
     def test_enrich_from_local_sorting_and_count(self, mock_enrich):
@@ -145,7 +180,7 @@ class TestScanRepos(unittest.TestCase):
                 count = 1
             args = MockArgs()
             enrich_local_repos(test_topic, args)
-            mock_enrich.assert_not_called()
+            mock_enrich.assert_called_once()
         finally:
             if os.path.exists(test_file):
                 os.remove(test_file)
