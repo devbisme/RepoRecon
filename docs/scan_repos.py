@@ -12,6 +12,7 @@ The workflow typically involves:
    and generating concise summaries for the results.
 """
 
+import hashlib
 import json
 import os
 import sys
@@ -128,6 +129,38 @@ def parse_acceptance_response(response):
     return True, ""
 
 
+def get_digest(repo_info):
+    """Return a stable hash for repository content used for enrichment decisions."""
+    return hashlib.sha256(repo_info.encode("utf-8")).hexdigest()[:16] # Shorten for storage efficiency
+
+
+def get_repo_file_extensions(repo):
+    """Return the sorted list of file extensions present in a repository tree."""
+    try:
+        tree = repo.get_git_tree(sha=repo.default_branch, recursive=True)
+    except Exception as e:
+        owner = repo.owner.login
+        repo_name = repo.name
+        logger.warning(f"Unable to read {owner}/{repo_name} repository tree: {e}")
+        return []
+
+    file_extensions = {os.path.splitext(elem.path)[1] for elem in tree.tree}
+    return sorted(file_extensions)
+
+
+def get_repo_readme(repo):
+    """Fetch a repository README and return its extracted text."""
+    try:
+        return html_text.extract_text(
+            base64.b64decode(repo.get_readme().content).decode("utf-8")
+        )
+    except Exception as e:
+        owner = repo.owner.login
+        repo_name = repo.name
+        logger.warning(f"Unable to fetch {owner}/{repo_name} README: {e}")
+        return ""
+
+
 def evaluate_repository(repo_info, criteria, search_terms):
     """Use a single Ollama call to decide acceptance and return a summary or rejection reasons."""
 
@@ -151,11 +184,12 @@ def evaluate_repository(repo_info, criteria, search_terms):
     return accepted, body
 
 
-def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
+def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_size=5):
     """
     Iterate through a list of repositories and perform enrichment (acceptance check & summarization).
 
     Args:
+        title (str): The title of the topic whose repos are being processed.
         repos (list): List of repository dictionaries.
         criteria (str): Acceptance criteria for the LLM to evaluate against.
         search_terms (str): Terms used for summary generation context.
@@ -170,10 +204,14 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         None: Yields control back to the caller after processing each batch.
     """
 
+    if not repos:
+        logger.info(f"{title}: No repos to enrich.")
+        return
+
     # No need to enrich if there's no criteria.
     if not criteria or criteria.startswith("Placeholder"):
         # Don't reject the repo. It will be re-evaluated some other time.
-        logger.info(f"No acceptance criteria given so enriching 0 repos")
+        logger.info(f"{title}: No acceptance criteria given so enriching 0 repos")
         return
 
     # Sort repos by push date descending (newest first).
@@ -182,17 +220,27 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         reverse=True,
     )
 
-    # Enrich the requested number of repos or all if count is None
-    if count is not None:
-        repos = repos[:count]
+    # If count is not specified or is non-positive, process all repos.
+    if not count or count <= 0:
+        count = len(repos)
 
-    logger.info(f"Enriching {len(repos)} repos...")
+    logger.info(f"{title}: Enriching {count} repos...")
 
     start_time = dt.now()
-    for idx, repo in enumerate(repos, 1):
+    cnt = 1  # Counts the number of repos that have been processed (not skipped due to unchanged content).
+    discard_cnt = 0
+    skip_cnt = 0
+    enrich_cnt = 0
+    defer_cnt = 0
+    for repo in repos:
 
-        if is_timeout(start_time, timeout):
+        # Stop if enough repos have been processed or we've run out of time.
+        if is_timeout(start_time, timeout) or cnt > count:
             break
+
+        repo.pop(
+            "enriched", None
+        )  # Remove any previous enriched flag since digests now provides this function.
 
         owner = repo["owner"]
         repo_name = repo["repo"]
@@ -203,35 +251,31 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
             deferred_count = repo.get("deferred", 0) + 1
             if deferred_count >= 3:
                 logger.debug(
-                    f"{idx:6d}: Discarded {owner}/{repo_name} - Not found after {deferred_count} tries"
+                    f"{cnt:6d}: Discarded {owner}/{repo_name} - Not found after {deferred_count} tries"
                 )
                 repo["discarded"] = True
+                discard_cnt += 1
             else:
                 logger.debug(
-                    f"{idx:6d}: Deferred {owner}/{repo_name} - Repository not found"
+                    f"{cnt:6d}: Deferred {owner}/{repo_name} - Repository not found"
                 )
                 repo["deferred"] = deferred_count
+                defer_cnt += 1
         else:
             # Gather information about the repo to feed to the LLM.
-            file_extensions = set()
-            try:
-                tree = r.get_git_tree(sha=r.default_branch, recursive=True)
-            except Exception as e:
-                logger.warning(f"{idx:6d}: {owner}/{repo_name} - {e}")
-            else:
-                for elem in tree.tree:
-                    file_extensions.add(os.path.splitext(elem.path)[1])
-            try:
-                readme = html_text.extract_text(
-                    base64.b64decode(r.get_readme().content).decode("utf-8")
-                )
-            except Exception as e:
-                logger.warning(f"{idx:6d}: {owner}/{repo_name} - {e}")
-                readme = ""
+            repo_info = (
+                f"Topics: {r.get_topics()}\n"
+                f"File extensions: {get_repo_file_extensions(r)}\n"
+                f"Description: {r.description}\n"
+                f"README:\n{get_repo_readme(r)}"
+            )
 
-            desc = repo["description"] or ""
-
-            repo_info = f"file extensions in repo: {list(file_extensions)}\n{readme} {desc}"
+            # See if the repo has changed since it was previously enriched. If not, skip it to save time and LLM API calls.
+            current_hash = get_digest(repo_info)
+            if repo.get("digest") == current_hash:
+                logger.debug(f"{cnt:6d}: Skipping unchanged {owner}/{repo_name}")
+                skip_cnt += 1
+                continue
 
             # Perform LLM-based evaluation and enrich if accepted.
             is_accepted, response = evaluate_repository(
@@ -243,29 +287,40 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
                 deferred_count = repo.get("deferred", 0) + 1
                 if deferred_count >= 3:
                     logger.debug(
-                        f"{idx:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries"
+                        f"{cnt:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries"
                     )
                     repo["discarded"] = True
+                    discard_cnt += 1
                 else:
                     logger.debug(
-                        f"{idx:6d}: Deferred {owner}/{repo_name} - No response"
+                        f"{cnt:6d}: Deferred {owner}/{repo_name} - No response"
                     )
                     repo["deferred"] = deferred_count
+                    defer_cnt += 1
             elif is_accepted:
-                logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
+                logger.debug(f"{cnt:6d}: Accepted {owner}/{repo_name} - {response}")
                 repo["description"] = response
-                repo["enriched"] = True
+                repo["digest"] = current_hash
                 repo.pop(
                     "deferred", None
-                )  # Remove deferred count since the repo exists.
+                )  # Remove any deferred count since the repo exists.
+                enrich_cnt += 1
             else:
-                logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
+                logger.debug(f"{cnt:6d}: Discarded {owner}/{repo_name} - {response}")
                 repo["discarded"] = True
+                discard_cnt += 1
 
         # Yield back to the caller after processing each batch.
         # The caller can save the repos after each batch so that progress is not lost.
-        if idx % batch_size == 0:
+        if cnt % batch_size == 0:
             yield
+
+        # Increment the number of repos processed unless they were skipped because they were unchanged.
+        cnt += 1
+
+    logger.info(
+        f"{title}: Enriched {enrich_cnt} repos, discarded {discard_cnt} repos, skipped {skip_cnt} unchanged repos, deferred decision on {defer_cnt} repos."
+    )
 
 
 def enrich_local_repos(topic, count=None, timeout=None):
@@ -282,8 +337,9 @@ def enrich_local_repos(topic, count=None, timeout=None):
     """
 
     repo_file = f"{topic['JSON_file']}.json"
+    title = topic["title"]
     search_term = topic["search_terms"]
-    criteria = topic.get("acceptance_criteria", "Placeholder: define criteria here")
+    criteria = topic.get("acceptance_criteria", "")
     timeout = timeout or topic.get("timeout", None)
     count = count or topic.get("count", None)
 
@@ -293,24 +349,20 @@ def enrich_local_repos(topic, count=None, timeout=None):
         except json.JSONDecodeError:
             repos = []
 
-    # Filter for accepted, unenriched repos to process
-    to_enrich = [r for r in repos if not r.get("enriched", False)]
+    # Process all repos; the enrichment loop will skip unchanged already-enriched ones
+    # by comparing the current content hash with the stored hash.
 
-    if to_enrich:
-        # Process the repos in batches, saving each batch so progress is not lost.
-        for _ in enrich_repos(to_enrich, criteria, search_term, count, timeout):
-            # Remove discarded repositories and save the partial results
-            copy_of_repos = [r for r in repos if not r.get("discarded", False)]
-            with open(repo_file, "w") as f:
-                json.dump(copy_of_repos, f, indent=4)
-
-        # Save the final, complete results
+    # Process the repos in batches, saving each batch so progress is not lost.
+    for _ in enrich_repos(title, repos, criteria, search_term, count, timeout):
+        # Remove discarded repositories and save the partial results
+        copy_of_repos = [r for r in repos if not r.get("discarded", False)]
         with open(repo_file, "w") as f:
-            copy_of_repos = [r for r in repos if not r.get("discarded", False)]
             json.dump(copy_of_repos, f, indent=4)
 
-    else:
-        logger.info("No raw repos found to enrich.")
+    # Save the final, complete results
+    with open(repo_file, "w") as f:
+        copy_of_repos = [r for r in repos if not r.get("discarded", False)]
+        json.dump(copy_of_repos, f, indent=4)
 
 
 def get_date_time(repo=None):
@@ -387,7 +439,7 @@ def gather_github_repos(topic, count=None, timeout=None):
         try:
             repos = g.search_repositories(query)
         except Exception as e:
-            logger.warning(f"{title } repository search failed: {e}")
+            logger.warning(f"{title} repository search failed: {e}")
             continue
 
         for repo in repos:
@@ -405,6 +457,8 @@ def gather_github_repos(topic, count=None, timeout=None):
                 "id": repo.id,
             }
             new_repos[repo.id] = repo_info
+
+    logger.info(f"    Found {len(new_repos)} new {title} repos.")
 
     # Add new repos to previous repos.
     for id, new_repo in new_repos.items():
@@ -442,10 +496,10 @@ if __name__ == "__main__":
         help="Mode of operation: 'scan' (default) or 'enrich'.",
     )
     parser.add_argument(
-        "--topic", 
+        "--topic",
         nargs="*",
         default=[],
-        help="Process a specific topic from the topics file."
+        help="Process a specific topic from the topics file.",
     )
     parser.add_argument(
         "--count",
@@ -488,7 +542,11 @@ if __name__ == "__main__":
             sys.exit(0)
 
     for topic in topics:
-        if args.topic and topic["title"].lower() not in args.topic and topic["JSON_file"].lower() not in args.topic:
+        if (
+            args.topic
+            and topic["title"].lower() not in args.topic
+            and topic["JSON_file"].lower() not in args.topic
+        ):
             continue
         if args.mode == "scan":
             gather_github_repos(topic, count=args.count, timeout=args.timeout)

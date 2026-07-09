@@ -22,7 +22,7 @@
         "title": "SKiDL",
         "search_terms": "skidl",
         "JSON_file": "skidl",
-        "acceptance_criteria": "The repo has one or more of the following: 1) one or more Python files that use SKiDL to create electronic systems 2) software utilities that accept and/or generate SKiDL, 3) skills or MCPs that allow an AI or LLM to work with SKiDL. Reject personal portfolio pages and pages with lists having many links to non-SKiDL items.",
+        "acceptance_criteria": "The repo has one or more of the following: 1) Python files that use the skidl package to describe an electronic system, 2) software that accepts and/or generates SKiDL or uses SKiDL as part of its operations, 3) skills or MCPs that allow an AI or LLM to work with SKiDL. Reject personal portfolio pages and pages that are mostly lists/tables of links to other projects.",
         "timeout": 1200
     },
     {
