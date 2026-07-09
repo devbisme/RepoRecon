@@ -8,7 +8,6 @@ set -e
 cd "$(dirname "${BASH_SOURCE[0]}")"
 
 # Define paths
-VENV_NAME="reporecon"
 TOPICS_FILE="topics.json"
 
 # Check if topics.json exists
@@ -21,7 +20,7 @@ fi
 echo "Setting Python version to 3.13 with pyenv..."
 eval "$(pyenv init --path)"
 eval "$(pyenv init -)"
-pyenv shell 3.13.14
+pyenv shell 3.13
 
 # Install/upgrade dependencies
 echo "Installing dependencies..."
