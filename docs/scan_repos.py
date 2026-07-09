@@ -131,7 +131,7 @@ def parse_acceptance_response(response):
 
 def repo_info_hash(repo_info):
     """Return a stable hash for repository content used for enrichment decisions."""
-    return hashlib.sha256(repo_info.encode("utf-8")).hexdigest()
+    return hashlib.sha256(repo_info.encode("utf-8")).hexdigest()[:16] # Shorten for storage efficiency
 
 
 def get_repo_file_extensions(repo):
@@ -139,8 +139,8 @@ def get_repo_file_extensions(repo):
     try:
         tree = repo.get_git_tree(sha=repo.default_branch, recursive=True)
     except Exception as e:
-        owner = repo["owner"]
-        repo_name = repo["repo"]
+        owner = repo.owner.login
+        repo_name = repo.name
         logger.warning(f"Unable to read {owner}/{repo_name} repository tree: {e}")
         return []
 
@@ -148,15 +148,15 @@ def get_repo_file_extensions(repo):
     return sorted(file_extensions)
 
 
-def fetch_readme(repo):
+def get_repo_readme(repo):
     """Fetch a repository README and return its extracted text."""
     try:
         return html_text.extract_text(
             base64.b64decode(repo.get_readme().content).decode("utf-8")
         )
     except Exception as e:
-        owner = repo["owner"]
-        repo_name = repo["repo"]
+        owner = repo.owner.login
+        repo_name = repo.name
         logger.warning(f"Unable to fetch {owner}/{repo_name} README: {e}")
         return ""
 
@@ -184,11 +184,12 @@ def evaluate_repository(repo_info, criteria, search_terms):
     return accepted, body
 
 
-def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
+def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_size=5):
     """
     Iterate through a list of repositories and perform enrichment (acceptance check & summarization).
 
     Args:
+        title (str): The title of the topic whose repos are being processed.
         repos (list): List of repository dictionaries.
         criteria (str): Acceptance criteria for the LLM to evaluate against.
         search_terms (str): Terms used for summary generation context.
@@ -204,13 +205,13 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
     """
 
     if not repos:
-        logger.info("No repos to enrich.")
+        logger.info(f"{title}: No repos to enrich.")
         return
 
     # No need to enrich if there's no criteria.
     if not criteria or criteria.startswith("Placeholder"):
         # Don't reject the repo. It will be re-evaluated some other time.
-        logger.info(f"No acceptance criteria given so enriching 0 repos")
+        logger.info(f"{title}: No acceptance criteria given so enriching 0 repos")
         return
 
     # Sort repos by push date descending (newest first).
@@ -219,16 +220,22 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
         reverse=True,
     )
 
-    # Enrich the requested number of repos or all if count is None
-    if count is not None:
-        repos = repos[:count]
+    # If count is not specified or is non-positive, process all repos.
+    if not count or count <= 0:
+        count = len(repos)
 
-    logger.info(f"Enriching {len(repos)} repos...")
+    logger.info(f"{title}: Enriching {count} repos...")
 
     start_time = dt.now()
-    for idx, repo in enumerate(repos, 1):
+    cnt = 1  # Counts the number of repos that have been processed (not skipped due to unchanged content).
+    discard_cnt = 0
+    skip_cnt = 0
+    enrich_cnt = 0
+    defer_cnt = 0
+    for repo in repos:
 
-        if is_timeout(start_time, timeout):
+        # Stop if enough repos have been processed or we've run out of time.
+        if is_timeout(start_time, timeout) or cnt > count:
             break
 
         owner = repo["owner"]
@@ -240,30 +247,30 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
             deferred_count = repo.get("deferred", 0) + 1
             if deferred_count >= 3:
                 logger.debug(
-                    f"{idx:6d}: Discarded {owner}/{repo_name} - Not found after {deferred_count} tries"
+                    f"{cnt:6d}: Discarded {owner}/{repo_name} - Not found after {deferred_count} tries"
                 )
                 repo["discarded"] = True
+                discard_cnt += 1
             else:
                 logger.debug(
-                    f"{idx:6d}: Deferred {owner}/{repo_name} - Repository not found"
+                    f"{cnt:6d}: Deferred {owner}/{repo_name} - Repository not found"
                 )
                 repo["deferred"] = deferred_count
+                defer_cnt += 1
         else:
             # Gather information about the repo to feed to the LLM.
-            file_extensions = get_repo_file_extensions(r)
-            readme = fetch_readme(r)
-            desc = repo["description"] or ""
-            # repo_info = f"file extensions in repo: {list(file_extensions)}\n{readme}"
-            repo_info = f"file extensions in repo: {list(file_extensions)}\n{readme} {desc}"
-            # repo["repo_info_prev"] = repo.get("repo_info", "")
-            # repo["repo_info"] = repo_info
-            # repo["repo_info_hash_prev"] = repo.get("repo_info_hash", "")
-            repo["repo_desc_prev"] = repo.get("repo_desc", "")
-            repo["repo_desc"] = desc
-            current_hash = repo_info_hash(repo_info)
+            repo_info = (
+                f"Topics: {r.get_topics()}\n"
+                f"File extensions: {get_repo_file_extensions(r)}\n"
+                f"Description: {r.description}\n" if r.description else ""
+                f"README:\n{get_repo_readme(r)}"
+            )
 
+            # See if the repo has changed since it was previously enriched. If not, skip it to save time and LLM API calls.
+            current_hash = repo_info_hash(repo_info)
             if repo.get("enriched") and repo.get("repo_info_hash") == current_hash:
-                logger.debug(f"{idx:6d}: Skipping unchanged {owner}/{repo_name}")
+                logger.debug(f"{cnt:6d}: Skipping unchanged {owner}/{repo_name}")
+                skip_cnt += 1
                 continue
 
             # Perform LLM-based evaluation and enrich if accepted.
@@ -276,30 +283,41 @@ def enrich_repos(repos, criteria, search_terms, count, timeout, batch_size=5):
                 deferred_count = repo.get("deferred", 0) + 1
                 if deferred_count >= 3:
                     logger.debug(
-                        f"{idx:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries"
+                        f"{cnt:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries"
                     )
                     repo["discarded"] = True
+                    discard_cnt += 1
                 else:
                     logger.debug(
-                        f"{idx:6d}: Deferred {owner}/{repo_name} - No response"
+                        f"{cnt:6d}: Deferred {owner}/{repo_name} - No response"
                     )
                     repo["deferred"] = deferred_count
+                    defer_cnt += 1
             elif is_accepted:
-                logger.debug(f"{idx:6d}: Accepted {owner}/{repo_name} - {response}")
+                logger.debug(f"{cnt:6d}: Accepted {owner}/{repo_name} - {response}")
                 repo["description"] = response
                 repo["enriched"] = True
                 repo["repo_info_hash"] = current_hash
                 repo.pop(
                     "deferred", None
-                )  # Remove deferred count since the repo exists.
+                )  # Remove any deferred count since the repo exists.
+                enrich_cnt += 1
             else:
-                logger.debug(f"{idx:6d}: Discarded {owner}/{repo_name} - {response}")
+                logger.debug(f"{cnt:6d}: Discarded {owner}/{repo_name} - {response}")
                 repo["discarded"] = True
+                discard_cnt += 1
 
         # Yield back to the caller after processing each batch.
         # The caller can save the repos after each batch so that progress is not lost.
-        if idx % batch_size == 0:
+        if cnt % batch_size == 0:
             yield
+
+        # Increment the number of repos processed unless they were skipped because they were unchanged.
+        cnt += 1
+
+    logger.info(
+        f"{title}: Enriched {enrich_cnt} repos, discarded {discard_cnt} repos, skipped {skip_cnt} unchanged repos, deferred decision on {defer_cnt} repos."
+    )
 
 
 def enrich_local_repos(topic, count=None, timeout=None):
@@ -316,6 +334,7 @@ def enrich_local_repos(topic, count=None, timeout=None):
     """
 
     repo_file = f"{topic['JSON_file']}.json"
+    title = topic["title"]
     search_term = topic["search_terms"]
     criteria = topic.get("acceptance_criteria", "")
     timeout = timeout or topic.get("timeout", None)
@@ -331,7 +350,7 @@ def enrich_local_repos(topic, count=None, timeout=None):
     # by comparing the current content hash with the stored hash.
 
     # Process the repos in batches, saving each batch so progress is not lost.
-    for _ in enrich_repos(repos, criteria, search_term, count, timeout):
+    for _ in enrich_repos(title, repos, criteria, search_term, count, timeout):
         # Remove discarded repositories and save the partial results
         copy_of_repos = [r for r in repos if not r.get("discarded", False)]
         with open(repo_file, "w") as f:
