@@ -129,7 +129,7 @@ def parse_acceptance_response(response):
     return True, ""
 
 
-def repo_info_hash(repo_info):
+def get_digest(repo_info):
     """Return a stable hash for repository content used for enrichment decisions."""
     return hashlib.sha256(repo_info.encode("utf-8")).hexdigest()[:16] # Shorten for storage efficiency
 
@@ -238,6 +238,10 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_siz
         if is_timeout(start_time, timeout) or cnt > count:
             break
 
+        repo.pop(
+            "enriched", None
+        )  # Remove any previous enriched flag since digests now provides this function.
+
         owner = repo["owner"]
         repo_name = repo["repo"]
         try:
@@ -262,13 +266,13 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_siz
             repo_info = (
                 f"Topics: {r.get_topics()}\n"
                 f"File extensions: {get_repo_file_extensions(r)}\n"
-                f"Description: {r.description}\n" if r.description else ""
+                f"Description: {r.description}\n"
                 f"README:\n{get_repo_readme(r)}"
             )
 
             # See if the repo has changed since it was previously enriched. If not, skip it to save time and LLM API calls.
-            current_hash = repo_info_hash(repo_info)
-            if repo.get("enriched") and repo.get("repo_info_hash") == current_hash:
+            current_hash = get_digest(repo_info)
+            if repo.get("digest") == current_hash:
                 logger.debug(f"{cnt:6d}: Skipping unchanged {owner}/{repo_name}")
                 skip_cnt += 1
                 continue
@@ -296,8 +300,7 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_siz
             elif is_accepted:
                 logger.debug(f"{cnt:6d}: Accepted {owner}/{repo_name} - {response}")
                 repo["description"] = response
-                repo["enriched"] = True
-                repo["repo_info_hash"] = current_hash
+                repo["digest"] = current_hash
                 repo.pop(
                     "deferred", None
                 )  # Remove any deferred count since the repo exists.
@@ -493,10 +496,10 @@ if __name__ == "__main__":
         help="Mode of operation: 'scan' (default) or 'enrich'.",
     )
     parser.add_argument(
-        "--topic", 
+        "--topic",
         nargs="*",
         default=[],
-        help="Process a specific topic from the topics file."
+        help="Process a specific topic from the topics file.",
     )
     parser.add_argument(
         "--count",
@@ -539,7 +542,11 @@ if __name__ == "__main__":
             sys.exit(0)
 
     for topic in topics:
-        if args.topic and topic["title"].lower() not in args.topic and topic["JSON_file"].lower() not in args.topic:
+        if (
+            args.topic
+            and topic["title"].lower() not in args.topic
+            and topic["JSON_file"].lower() not in args.topic
+        ):
             continue
         if args.mode == "scan":
             gather_github_repos(topic, count=args.count, timeout=args.timeout)
