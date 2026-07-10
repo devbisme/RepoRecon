@@ -57,7 +57,7 @@
     },
     {
         "title": "El-Cheapo Microcontrollers",
-        "search_terms": "RP2040 OR RP2350 OR CH32V OR PY32F",
+        "search_terms": "RP2040 OR RP2350 OR CH32V OR PY32F OR ESP32",
         "JSON_file": "el_cheapo_uc",
         "acceptance_criteria": "The repo has one or more of the following that involve these microcontrollers: 1) source code files that target one or more of them 2) software utilities for working with them, 3) descriptive or executable files for building electronic or physical systems that contain them 4) skills or MCPs that allow an AI or LLM to work or design with them. Reject personal portfolio pages and pages with lists having many links to non-SKiDL items.",
         "timeout": 1200
