@@ -4,6 +4,9 @@ source ~/.bashrc
 
 set -e
 
+# Output the time and date.
+date
+
 # Change to the docs directory for all operations
 cd "$(dirname "${BASH_SOURCE[0]}")"
 
