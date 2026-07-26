@@ -6,12 +6,17 @@ let tableData = null;  // Data (possibly filtered) to be displayed in the table.
 // Column name and direction for initial sorting of table data.
 let sortString = null;
 let defaultSortString = "pushed:desc";
+let rankSortString = "rank:asc"; // Best matches (rank 1) on top for ranked files.
+
+// Optional JSON file to load directly (e.g. rank.py output), set from ?file= in
+// the URL. This lets ranked files be viewed without an entry in topics.json.
+let dataFileOverride = null;
 
 // DataTable object for the table of repo data.
 let repoTable = null;
 
-// Column definitions for repo DataTable.
-let columnDefs = [
+// Base column definitions for repo DataTable.
+let baseColumnDefs = [
     { className: 'repo', data: 'repo', title: 'Repo', width: '25%' },
     { className: 'description', data: 'description', title: 'Description', width: '40%' },
     { className: 'owner', data: 'owner', title: 'Owner', width: '10%' },
@@ -20,6 +25,22 @@ let columnDefs = [
     { className: 'size', data: 'size', title: 'Size', width: '5%' },
     { className: 'pushed', data: 'pushed', title: 'Pushed', width: '10%' }
 ];
+
+// Leading column shown only for semantically-ranked files produced by rank.py,
+// whose rows carry a "rank" field (1 = best match). DataTables makes it
+// click-sortable automatically.
+let rankColumnDef = { className: 'rank', data: 'rank', title: 'Rank', width: '5%' };
+
+// Active columns for the current table; chosen by setColumns() when data loads.
+let columnDefs = [...baseColumnDefs];
+
+// Prepend the Rank column when the loaded data has been scored by rank.py.
+// Returns true if the data is ranked.
+function setColumns(data) {
+    let hasRank = data.length > 0 && 'rank' in data[0];
+    columnDefs = hasRank ? [rankColumnDef, ...baseColumnDefs] : [...baseColumnDefs];
+    return hasRank;
+}
 
 // Elements of the web page.
 let topicSelector = document.getElementById('topicSelector');
@@ -231,23 +252,37 @@ function preprocessData(data) {
 // Load the rows of Github repo data from the JSON file for that topic, filter them, and then display the table.
 function loadTopic() {
 
-    let jsonFile = topicSelector.value;
-    if (jsonFile === "") {
-        topicTitle.textContent = "";
-        return;
+    let url, title;
+    if (dataFileOverride) {
+        // A specific JSON file (e.g. rank.py output) was requested via ?file=.
+        url = dataFileOverride;
+        title = dataFileOverride;
+    } else {
+        let jsonFile = topicSelector.value;
+        if (jsonFile === "") {
+            topicTitle.textContent = "";
+            return;
+        }
+        url = jsonFile + '.json';
+        title = topicSelector.options[topicSelector.selectedIndex].text;
     }
 
     // Indicate that loading and displaying data on a topic may take a while...
     showWaiting();
 
     // Display the topic title.
-    topicTitle.textContent = topicSelector.options[topicSelector.selectedIndex].text;
+    topicTitle.textContent = title;
 
     // Load the rows of Github repo data from the JSON file for this topic.
-    fetch(jsonFile + '.json')
+    fetch(url)
         .then(response => response.json())
         .then(data => {
             topicData = [...data]; // Save the data for this topic.
+            // Show the Rank column and default to best-first for ranked files.
+            let hasRank = setColumns(topicData);
+            if (hasRank && sortString === defaultSortString) {
+                sortString = rankSortString;
+            }
             preprocessData(topicData); // Preprocess the rows of data in place.
             tableData = filterData(topicData) // Filter the topic data.
             showRepos(tableData); // Show the number of repos in the table.
@@ -262,6 +297,7 @@ function loadTopic() {
 // *** Called from index.html. ***
 // A topic has been selected from the topic selector, so display that topic's data.
 function topicCallback() {
+    dataFileOverride = null; // Selecting a topic overrides any ?file= request.
     clearFilter();  // New topic, so clear any existing filter.
     sortString = defaultSortString; // New topic so use default sorting by last push date, newest at top.
     loadTopic(); // Load the rows of Github repo data from the JSON file for that topic, filter them, and then display the table.
@@ -282,11 +318,18 @@ function convertSortParam(s) {
 
     // Get the column to sort on.
     [col, dir] = s.split(":", 2);
-    try {
-        foundCol = findColumn(col);
+    if (col === "rank" || col === "score") {
+        // Ranking columns exist only for ranked files, so accept them without
+        // checking against the base topic columns.
+        foundCol = col;
     }
-    catch (e) {
-        return defaultSortString;
+    else {
+        try {
+            foundCol = findColumn(col);
+        }
+        catch (e) {
+            return defaultSortString;
+        }
     }
 
     // Set the sort direction.
@@ -333,16 +376,24 @@ function getQueryParams() {
         sort = convertSortParam(sort);
     }
 
-    return [topic, filter, sort];
+    let file = null;
+    if (queryParams.has('file')) {
+        // Load a JSON file directly (e.g. rank.py output) without needing an
+        // entry in topics.json. Not lowercased: filenames are case-sensitive.
+        file = decodeURIComponent(queryParams.get('file')).trim();
+    }
+
+    return [topic, filter, sort, file];
 }
 
 // When the web page first appears, load & display the Github repos for the topic in the URL.
 window.onload = function () {
 
-    // Get the topic, filter, and sort parameters from the URL query string.
-    let [topic, filter, sort] = getQueryParams();
+    // Get the topic, filter, sort, and file parameters from the URL query string.
+    let [topic, filter, sort, file] = getQueryParams();
     filterInput.value = filter;
     sortString = sort;
+    dataFileOverride = file;
 
     // Fetch the available topics, add them to the topic selector, and then load data for the selected topic.
     fetch("topics.json")
@@ -364,7 +415,15 @@ window.onload = function () {
                 topicSelector.appendChild(option);
             });
 
-            // Select the topic specified in the URL query string.            
+            // If a specific file was requested via ?file=, load it directly and
+            // skip topic-selector matching (it need not be listed in topics.json).
+            if (dataFileOverride) {
+                topicSelector.selectedIndex = 0;
+                loadTopic();
+                return;
+            }
+
+            // Select the topic specified in the URL query string.
             let found = false;
             for (let option of topicSelector.options) {
                 if (option.value === topic || option.text.toLowerCase().includes(topic)) {
