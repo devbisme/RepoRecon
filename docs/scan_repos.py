@@ -185,7 +185,7 @@ def evaluate_repository(repo_info, criteria, search_terms):
     return accepted, body
 
 
-def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_size=5):
+def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_date=None, batch_size=5):
     """
     Iterate through a list of repositories and perform enrichment (acceptance check & summarization).
 
@@ -196,6 +196,9 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_siz
         search_terms (str): Terms used for summary generation context.
         count (int or None): Maximum number of repos to enrich.
         timeout (int or None): Global timeout in seconds for this operation.
+        before_date (datetime or None): Only enrich repos dated on or before this date,
+            where a repo's date is the most recent of its created, pushed, and updated
+            timestamps. Defaults to the current date when None.
         batch_size (int): Number of repositories to process in each batch before yielding.
 
     Returns:
@@ -215,28 +218,33 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_siz
         logger.info(f"{title}: No acceptance criteria given so enriching 0 repos")
         return
 
-    # Sort repos by push date descending (newest first).
-    repos.sort(
-        key=lambda r: get_date_time(r),
+    before_date = before_date or dt.now(tz=ZoneInfo("UTC"))
+
+    # Exclude any repos dated after the before-date, then process the remaining
+    # eligible repos in descending order of date (newest first). A repo's date is
+    # the most recent of its created, pushed, and updated timestamps.
+    eligible_repos = sorted(
+        (r for r in repos if get_date_time(r) <= before_date),
+        key=get_date_time,
         reverse=True,
     )
 
-    # If count is not specified or is non-positive, process all repos.
-    if not count or count <= 0:
-        count = len(repos)
+    # If count is not specified or is negative, process all eligible repos.
+    if not count or count < 0:
+        count = len(eligible_repos)
 
     logger.info(f"{title}: Enriching {count} repos...")
 
     start_time = dt.now()
-    cnt = 1  # Counts the number of repos that have been processed (not skipped due to unchanged content).
+    cnt = 0  # Counts the number of repos that have been processed (not skipped due to unchanged content).
     discard_cnt = 0
     skip_cnt = 0
     enrich_cnt = 0
     defer_cnt = 0
-    for repo in repos:
+    for repo in eligible_repos:
 
         # Stop if enough repos have been processed or we've run out of time.
-        if is_timeout(start_time, timeout) or cnt > count:
+        if is_timeout(start_time, timeout) or cnt >= count:
             break
 
         repo.pop(
@@ -324,7 +332,7 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, batch_siz
     )
 
 
-def enrich_local_repos(topic, count=None, timeout=None):
+def enrich_local_repos(topic, count=None, timeout=None, before_date=None):
     """
     Load a local JSON file of repositories and perform enrichment based on the topic's configuration.
 
@@ -332,6 +340,9 @@ def enrich_local_repos(topic, count=None, timeout=None):
         topic (dict): Configuration dictionary containing 'JSON_file', 'search_terms', etc.
         count (int or None): Max repos to enrich.
         timeout (int or None): Global timeout in seconds.
+        before_date (datetime or None): Only enrich repos dated on or before this date,
+            where a repo's date is the most recent of its created, pushed, and updated
+            timestamps. Defaults to the current date when None.
 
     Returns:
         None: Updates the local JSON file with enriched data and removes discarded repos.
@@ -343,6 +354,7 @@ def enrich_local_repos(topic, count=None, timeout=None):
     criteria = topic.get("acceptance_criteria", "")
     timeout = timeout or topic.get("timeout", None)
     count = count or topic.get("count", None)
+    before_date = before_date or dt.now(tz=ZoneInfo("UTC"))
 
     with open(repo_file, "r") as f:
         try:
@@ -354,7 +366,7 @@ def enrich_local_repos(topic, count=None, timeout=None):
     # by comparing the current content hash with the stored hash.
 
     # Process the repos in batches, saving each batch so progress is not lost.
-    for _ in enrich_repos(title, repos, criteria, search_term, count, timeout):
+    for _ in enrich_repos(title, repos, criteria, search_term, count, timeout, before_date):
         # Remove discarded repositories and save the partial results
         copy_of_repos = [r for r in repos if not r.get("discarded", False)]
         with open(repo_file, "w") as f:
@@ -390,7 +402,29 @@ def get_date_time(repo=None):
     return max(date_times).replace(tzinfo=ZoneInfo("UTC"))
 
 
-def gather_github_repos(topic, count=None, timeout=None):
+def parse_before_date(date_str):
+    """
+    Parse a before-date string into a UTC datetime.
+
+    Args:
+        date_str (str or None): An ISO date/datetime string, or None for the current date.
+
+    Returns:
+        datetime: The before-date in UTC. A date without a time component covers
+        the entire day so that all repos dated on that day are considered eligible.
+    """
+    if not date_str:
+        return dt.now(tz=ZoneInfo("UTC"))
+    parsed = dt.fromisoformat(date_str)
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=ZoneInfo("UTC"))
+    # If only a date (midnight, no time component) was given, include the whole day.
+    if (parsed.hour, parsed.minute, parsed.second, parsed.microsecond) == (0, 0, 0, 0):
+        parsed = parsed.replace(hour=23, minute=59, second=59, microsecond=999999)
+    return parsed
+
+
+def gather_github_repos(topic, count=None, timeout=None, before_date=None):
     """
     Search GitHub for new repositories matching a topic and date range,
     then update the local JSON file.
@@ -399,6 +433,8 @@ def gather_github_repos(topic, count=None, timeout=None):
         topic (dict): Configuration dictionary containing 'title', 'search_terms', etc.
         count (int or None): Max repos to gather/enrich in this pass.
         timeout (int or None): Global timeout in seconds.
+        before_date (datetime or None): Only enrich repos dated on or before this date.
+            Defaults to the current date when None.
 
     Returns:
         None: Updates the local JSON file with new repository data.
@@ -482,7 +518,7 @@ def gather_github_repos(topic, count=None, timeout=None):
         json.dump(date_sorted_repos, f, indent=4)
 
     # Trigger enrichment for the newly gathered repos.
-    enrich_local_repos(topic, count=count, timeout=timeout)
+    enrich_local_repos(topic, count=count, timeout=timeout, before_date=before_date)
 
 
 if __name__ == "__main__":
@@ -514,8 +550,20 @@ if __name__ == "__main__":
         default=None,
         help="Timeout in seconds for the entire execution.",
     )
+    parser.add_argument(
+        "--before",
+        default=None,
+        help=(
+            "Before-date (ISO format, e.g. 2026-07-26) for enrichment. "
+            "Repos dated after this date are not enriched; eligible repos are "
+            "processed newest-first. A repo's date is the most recent of its "
+            "created, pushed, and updated timestamps. Defaults to the current date."
+        ),
+    )
     parser.add_argument("--debug", action="store_true", help="Enable debugging.")
     args = parser.parse_args()
+
+    before_date = parse_before_date(args.before)
 
     # Configure loguru level based on debug flag
     logger.remove()
@@ -550,6 +598,10 @@ if __name__ == "__main__":
         ):
             continue
         if args.mode == "scan":
-            gather_github_repos(topic, count=args.count, timeout=args.timeout)
+            gather_github_repos(
+                topic, count=args.count, timeout=args.timeout, before_date=before_date
+            )
         elif args.mode == "enrich":
-            enrich_local_repos(topic, count=args.count, timeout=args.timeout)
+            enrich_local_repos(
+                topic, count=args.count, timeout=args.timeout, before_date=before_date
+            )
