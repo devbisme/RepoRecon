@@ -230,7 +230,7 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
     )
 
     # If count is not specified or is negative, process all eligible repos.
-    if not count or count < 0:
+    if count is None or count < 0:
         count = len(eligible_repos)
 
     logger.info(f"{title}: Enriching {count} repos...")
