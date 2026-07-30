@@ -56,5 +56,5 @@ fi
 
 # Publish the freshly generated scan output to the branch GitHub Pages serves.
 echo "Publishing site to gh-pages..."
-"$REPO_ROOT/publish.sh"
+"$REPO_ROOT/docs/publish.sh"
 echo "Successfully published updates to GitHub."
