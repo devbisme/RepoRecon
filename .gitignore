@@ -1,6 +1,9 @@
 *.log
 *.npz
 
+__pycache__/
+*.pyc
+
 # Scan output is published to the gh-pages branch, not tracked here.
 # topics.json is hand-maintained config, so it stays.
 docs/*.json
