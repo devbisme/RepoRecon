@@ -1,2 +1,7 @@
 *.log
 *.npz
+
+# Scan output is published to the gh-pages branch, not tracked here.
+# topics.json is hand-maintained config, so it stays.
+docs/*.json
+!docs/topics.json
