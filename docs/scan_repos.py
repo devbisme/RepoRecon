@@ -185,7 +185,7 @@ def evaluate_repository(repo_info, criteria, search_terms):
     return accepted, body
 
 
-def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_date=None, batch_size=5):
+def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_date=None, no_digest_only=False, batch_size=5):
     """
     Iterate through a list of repositories and perform enrichment (acceptance check & summarization).
 
@@ -199,6 +199,8 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
         before_date (datetime or None): Only enrich repos dated on or before this date,
             where a repo's date is the most recent of its created, pushed, and updated
             timestamps. Defaults to the current date when None.
+        no_digest_only (bool): Only enrich repos that have no stored digest, i.e. those
+            that have never been successfully enriched.
         batch_size (int): Number of repositories to process in each batch before yielding.
 
     Returns:
@@ -223,8 +225,15 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
     # Exclude any repos dated after the before-date, then process the remaining
     # eligible repos in descending order of date (newest first). A repo's date is
     # the most recent of its created, pushed, and updated timestamps.
+    # When no_digest_only is set, also exclude repos that already carry a digest
+    # since those have already been enriched at least once.
     eligible_repos = sorted(
-        (r for r in repos if get_date_time(r) <= before_date),
+        (
+            r
+            for r in repos
+            if get_date_time(r) <= before_date
+            and not (no_digest_only and r.get("digest"))
+        ),
         key=get_date_time,
         reverse=True,
     )
@@ -332,7 +341,7 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
     )
 
 
-def enrich_local_repos(topic, count=None, timeout=None, before_date=None):
+def enrich_local_repos(topic, count=None, timeout=None, before_date=None, no_digest_only=False):
     """
     Load a local JSON file of repositories and perform enrichment based on the topic's configuration.
 
@@ -343,6 +352,7 @@ def enrich_local_repos(topic, count=None, timeout=None, before_date=None):
         before_date (datetime or None): Only enrich repos dated on or before this date,
             where a repo's date is the most recent of its created, pushed, and updated
             timestamps. Defaults to the current date when None.
+        no_digest_only (bool): Only enrich repos that have no stored digest.
 
     Returns:
         None: Updates the local JSON file with enriched data and removes discarded repos.
@@ -366,7 +376,16 @@ def enrich_local_repos(topic, count=None, timeout=None, before_date=None):
     # by comparing the current content hash with the stored hash.
 
     # Process the repos in batches, saving each batch so progress is not lost.
-    for _ in enrich_repos(title, repos, criteria, search_term, count, timeout, before_date):
+    for _ in enrich_repos(
+        title,
+        repos,
+        criteria,
+        search_term,
+        count,
+        timeout,
+        before_date,
+        no_digest_only=no_digest_only,
+    ):
         # Remove discarded repositories and save the partial results
         copy_of_repos = [r for r in repos if not r.get("discarded", False)]
         with open(repo_file, "w") as f:
@@ -424,7 +443,7 @@ def parse_before_date(date_str):
     return parsed
 
 
-def gather_github_repos(topic, count=None, timeout=None, before_date=None):
+def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_digest_only=False):
     """
     Search GitHub for new repositories matching a topic and date range,
     then update the local JSON file.
@@ -435,6 +454,7 @@ def gather_github_repos(topic, count=None, timeout=None, before_date=None):
         timeout (int or None): Global timeout in seconds.
         before_date (datetime or None): Only enrich repos dated on or before this date.
             Defaults to the current date when None.
+        no_digest_only (bool): Only enrich repos that have no stored digest.
 
     Returns:
         None: Updates the local JSON file with new repository data.
@@ -518,7 +538,13 @@ def gather_github_repos(topic, count=None, timeout=None, before_date=None):
         json.dump(date_sorted_repos, f, indent=4)
 
     # Trigger enrichment for the newly gathered repos.
-    enrich_local_repos(topic, count=count, timeout=timeout, before_date=before_date)
+    enrich_local_repos(
+        topic,
+        count=count,
+        timeout=timeout,
+        before_date=before_date,
+        no_digest_only=no_digest_only,
+    )
 
 
 if __name__ == "__main__":
@@ -560,6 +586,14 @@ if __name__ == "__main__":
             "created, pushed, and updated timestamps. Defaults to the current date."
         ),
     )
+    parser.add_argument(
+        "--no-digest",
+        action="store_true",
+        help=(
+            "Only enrich repos that have no digest, i.e. those that have never been "
+            "successfully enriched. Repos with a digest are left untouched."
+        ),
+    )
     parser.add_argument("--debug", action="store_true", help="Enable debugging.")
     args = parser.parse_args()
 
@@ -599,9 +633,17 @@ if __name__ == "__main__":
             continue
         if args.mode == "scan":
             gather_github_repos(
-                topic, count=args.count, timeout=args.timeout, before_date=before_date
+                topic,
+                count=args.count,
+                timeout=args.timeout,
+                before_date=before_date,
+                no_digest_only=args.no_digest,
             )
         elif args.mode == "enrich":
             enrich_local_repos(
-                topic, count=args.count, timeout=args.timeout, before_date=before_date
+                topic,
+                count=args.count,
+                timeout=args.timeout,
+                before_date=before_date,
+                no_digest_only=args.no_digest,
             )
