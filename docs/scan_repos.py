@@ -39,7 +39,6 @@ model = "gemma4:e2b-it-qat-128k"  # reasonably accurate, 390 repos/hour
 # Authenticate with GitHub using a personal access token.
 # If not found, then Github access will be slower and may hit rate limits sooner.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
-print(f"Github token: {token} {isinstance(token, str)=}")
 auth = Auth.Token(token)
 g = Github(auth=auth)
 
