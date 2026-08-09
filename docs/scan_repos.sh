@@ -29,7 +29,7 @@ pyenv shell 3.13
 echo "Installing dependencies..."
 pip install --upgrade pip > /dev/null
 pip install -r ../requirements.txt 2>/dev/null || \
-    pip install PyGithub loguru requests html-text 2>/dev/null || true
+    pip install PyGithub loguru requests html-text numpy 2>/dev/null || true
 
 # Run the scan_repos script
 echo "Running scan_repos.py with topics.json..."

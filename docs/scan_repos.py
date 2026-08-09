@@ -8,8 +8,21 @@ for content analysis, acceptance checking, and summary generation.
 
 The workflow typically involves:
 1. Scanning: Finding repositories matching specific search terms within date ranges.
-2. Enrichment: Fetching READMEs, analyzing them against criteria using an LLM,
+2. Filtering: For topics that list exemplar repos, embedding each candidate's
+   topics/description/README and discarding those that don't resemble any exemplar.
+3. Enrichment: Fetching READMEs, analyzing them against criteria using an LLM,
    and generating concise summaries for the results.
+
+A topic in the topics file may add these optional keys to turn on step 2:
+
+    "exemplars": [
+        "https://github.com/owner/a-good-example",
+        "https://github.com/owner/another-good-example"
+    ],
+    "similarity_threshold": 0.62
+
+Two or more exemplars are enough; the threshold is calibrated from them and only
+needs to be set by hand when the calibrated value turns out to be too loose or tight.
 """
 
 import hashlib
@@ -20,6 +33,7 @@ from datetime import datetime as dt
 from github import Auth, Github
 from github.Repository import RepositorySearchResult
 import html_text
+import numpy as np
 import requests
 import base64
 from loguru import logger
@@ -35,6 +49,18 @@ model = "gemma4:e2b-it-qat-128k"  # reasonably accurate, 390 repos/hour
 # model = "gemma4:e2b" # too permissive, 8s per repo eval
 # model = "gemma4:e4b" # too permissive, 12s per repo eval
 # model = "qwen3.5:9b" # terminates because of thinking too much and exceeds length
+
+# Embedding configuration for the exemplar similarity filter. The filter compares a
+# candidate repo's topics/description/README against the same content taken from the
+# exemplar repos a topic lists, and drops candidates that don't look like any of them.
+embed_model = "nomic-embed-text"
+embed_max_chars = 8000  # Roughly the model's context; the repo text is truncated to fit.
+# Threshold used when a topic lists only one exemplar and so nothing can be calibrated
+# against. Cosine scores from this model bunch up well above zero, hence the high value.
+default_similarity_threshold = 0.55
+# The calibrated threshold is the tightest exemplar-to-exemplar similarity, relaxed by
+# this factor so candidates that are merely as on-topic as the exemplars still pass.
+threshold_slack = 0.95
 
 # Authenticate with GitHub using a personal access token.
 # If not found, then Github access will be slower and may hit rate limits sooner.
@@ -91,6 +117,225 @@ def ollama_process(prompt, context=""):
             logger.warning(f"Ollama error: {e}")
     logger.warning("Failed to get response from Ollama after multiple retries.")
     return None
+
+
+def ollama_embed(texts):
+    """
+    Embed a list of texts with the local Ollama embedding model.
+
+    Args:
+        texts (list of str): The texts to embed.
+
+    Returns:
+        numpy.ndarray or None: An (len(texts), dim) array of unit-normalized
+        vectors, or None if the embeddings could not be generated. Unit-normalizing
+        here means a cosine similarity later is just a dot product.
+    """
+    if not texts:
+        return None
+
+    timeouts = [60, 120]
+    for timeout in timeouts:
+        try:
+            url = "http://localhost:11434/api/embed"
+            payload = {
+                "model": embed_model,
+                "input": [t[:embed_max_chars] for t in texts],
+            }
+            r = requests.post(url, json=payload, timeout=timeout)
+            r.raise_for_status()
+            vectors = np.array(r.json().get("embeddings", []), dtype=np.float32)
+            if vectors.ndim != 2 or len(vectors) != len(texts):
+                logger.warning("Ollama returned a malformed set of embeddings.")
+                return None
+            norms = np.linalg.norm(vectors, axis=1, keepdims=True)
+            # A zero-length vector has no direction to compare against, so leave it
+            # alone rather than dividing by zero; it will simply score 0 everywhere.
+            norms[norms == 0] = 1.0
+            return vectors / norms
+        except Exception as e:
+            logger.warning(f"Ollama embedding error: {e}")
+    logger.warning("Failed to get embeddings from Ollama after multiple retries.")
+    return None
+
+
+def parse_repo_url(url):
+    """
+    Extract the 'owner/name' portion of a GitHub repository link.
+
+    Args:
+        url (str): A repo URL such as https://github.com/owner/name, or a bare
+            'owner/name' pair.
+
+    Returns:
+        str or None: The 'owner/name' slug, or None if the link can't be parsed.
+    """
+    if not url:
+        return None
+
+    slug = url.strip().rstrip("/")
+    for prefix in ("https://", "http://"):
+        if slug.startswith(prefix):
+            slug = slug[len(prefix):]
+    if slug.startswith("www."):
+        slug = slug[len("www."):]
+    if slug.startswith("github.com/"):
+        slug = slug[len("github.com/"):]
+    if slug.endswith(".git"):
+        slug = slug[: -len(".git")]
+
+    parts = [p for p in slug.split("/") if p]
+    if len(parts) < 2:
+        logger.warning(f"Unable to parse repository link: {url}")
+        return None
+    # Anything past owner/name (tree/main, a sub-path, ...) is not part of the slug.
+    return f"{parts[0]}/{parts[1]}"
+
+
+class VectorFilter:
+    """
+    Similarity filter built from the exemplar repos a topic lists.
+
+    One unit-normalized embedding is kept per exemplar rather than a single averaged
+    vector. A candidate scores as its highest similarity against any one exemplar, so
+    a topic spanning several distinct flavors of project isn't reduced to a midpoint
+    that matches none of them.
+    """
+
+    def __init__(self, vectors, threshold):
+        """
+        Args:
+            vectors (numpy.ndarray): An (n_exemplars, dim) array of unit-normalized
+                exemplar embeddings.
+            threshold (float): Minimum similarity a candidate must reach to pass.
+        """
+        self.vectors = vectors
+        self.threshold = threshold
+
+    def score(self, text):
+        """
+        Score a candidate's repo text against the exemplars.
+
+        Args:
+            text (str): The candidate's topics/description/README text.
+
+        Returns:
+            float or None: The highest similarity against any exemplar, or None if
+            the candidate could not be embedded.
+        """
+        vectors = ollama_embed([text])
+        if vectors is None:
+            return None
+        return float(np.max(self.vectors @ vectors[0]))
+
+    def accepts(self, text):
+        """
+        Decide whether a candidate is sufficiently aligned with the exemplars.
+
+        Args:
+            text (str): The candidate's topics/description/README text.
+
+        Returns:
+            (bool, float or None): Whether the candidate passes, and its score. A
+            candidate that can't be embedded passes with a score of None, so a
+            broken embedding service doesn't silently discard the whole scan.
+        """
+        score = self.score(text)
+        if score is None:
+            return True, None
+        return score >= self.threshold, score
+
+
+def calibrate_threshold(vectors):
+    """
+    Derive a similarity threshold from how tightly the exemplars resemble each other.
+
+    Each exemplar is scored the same way a candidate will be -- against every other
+    exemplar, keeping the best match. The loosest of those scores is the weakest link
+    the topic already tolerates, so it becomes the bar, relaxed by threshold_slack.
+
+    Args:
+        vectors (numpy.ndarray): An (n_exemplars, dim) array of unit-normalized
+            exemplar embeddings.
+
+    Returns:
+        float: The calibrated threshold. Falls back to default_similarity_threshold
+        when there are fewer than two exemplars to compare.
+    """
+    if len(vectors) < 2:
+        logger.warning(
+            f"Only {len(vectors)} exemplar(s) given, so the similarity threshold "
+            f"can't be calibrated. Using {default_similarity_threshold}. Add more "
+            "exemplars or set 'similarity_threshold' in the topic."
+        )
+        return default_similarity_threshold
+
+    similarities = vectors @ vectors.T
+    # Ignore each exemplar's perfect match with itself, i.e. score it leave-one-out.
+    np.fill_diagonal(similarities, -np.inf)
+    return float(np.min(np.max(similarities, axis=1))) * threshold_slack
+
+
+def build_vector_filter(topic, threshold_override=None):
+    """
+    Build a topic's exemplar similarity filter from the repo links it lists.
+
+    Args:
+        topic (dict): Topic configuration. The 'exemplars' key holds the repo links;
+            an optional 'similarity_threshold' key pins the threshold instead of
+            letting it be calibrated from the exemplars.
+        threshold_override (float or None): Threshold that wins over both the topic
+            setting and calibration, for trying values out from the command line.
+
+    Returns:
+        VectorFilter or None: None when the topic lists no exemplars, or when none
+        of them could be fetched and embedded -- in which case scanning proceeds
+        unfiltered rather than discarding everything.
+    """
+    title = topic["title"]
+    urls = topic.get("exemplars") or []
+    if not urls:
+        return None
+
+    texts = []
+    for url in urls:
+        slug = parse_repo_url(url)
+        if not slug:
+            continue
+        try:
+            r = g.get_repo(slug)
+        except Exception as e:
+            logger.warning(f"{title}: Unable to fetch exemplar {slug}: {e}")
+            continue
+        texts.append(format_embed_text(get_repo_content(r, with_extensions=False)))
+
+    if not texts:
+        logger.warning(
+            f"{title}: None of the {len(urls)} exemplar repos could be read, "
+            "so no similarity filtering will be done."
+        )
+        return None
+
+    vectors = ollama_embed(texts)
+    if vectors is None:
+        logger.warning(
+            f"{title}: Exemplar repos could not be embedded, "
+            "so no similarity filtering will be done."
+        )
+        return None
+
+    if threshold_override is not None:
+        threshold = threshold_override
+    elif topic.get("similarity_threshold") is not None:
+        threshold = topic["similarity_threshold"]
+    else:
+        threshold = calibrate_threshold(vectors)
+
+    logger.info(
+        f"{title}: Filtering against {len(texts)} exemplar repos "
+        f"at a similarity threshold of {threshold:.3f}."
+    )
+    return VectorFilter(vectors, threshold)
 
 
 def parse_acceptance_response(response):
@@ -161,6 +406,64 @@ def get_repo_readme(repo):
         return ""
 
 
+def get_repo_topics(repo):
+    """Return a repository's GitHub topics, or an empty list if they can't be read."""
+    try:
+        return repo.get_topics()
+    except Exception as e:
+        owner = repo.owner.login
+        repo_name = repo.name
+        logger.warning(f"Unable to fetch {owner}/{repo_name} topics: {e}")
+        return []
+
+
+def get_repo_content(repo, with_extensions=True):
+    """
+    Gather the repository content that the evaluation and filtering steps work from.
+
+    Args:
+        repo: A PyGithub repository object.
+        with_extensions (bool): Whether to also read the repository tree for its file
+            extensions. That is an extra API call, so it is skipped when the content
+            is only headed for the similarity filter, which ignores extensions.
+
+    Returns:
+        dict: The repo's 'topics', 'extensions', 'description' and 'readme'.
+    """
+    return {
+        "topics": get_repo_topics(repo),
+        "extensions": get_repo_file_extensions(repo) if with_extensions else [],
+        "description": repo.description,
+        "readme": get_repo_readme(repo),
+    }
+
+
+def format_repo_info(content):
+    """Render repo content as the text the LLM evaluates and the digest covers."""
+    return (
+        f"Topics: {content['topics']}\n"
+        f"File extensions: {content['extensions']}\n"
+        f"Description: {content['description']}\n"
+        f"README:\n{content['readme']}"
+    )
+
+
+def format_embed_text(content):
+    """
+    Render repo content as the text the similarity filter embeds.
+
+    File extensions are left out: they describe what a repo is built with rather than
+    what it is about, and they would crowd out README text under the embedding model's
+    context limit. Topics and description lead so they survive truncation of a long
+    README, which is where a project usually states what it is anyway.
+    """
+    return (
+        f"Topics: {content['topics']}\n"
+        f"Description: {content['description']}\n"
+        f"README:\n{content['readme']}"
+    )[:embed_max_chars]
+
+
 def evaluate_repository(repo_info, criteria, search_terms):
     """Use a single Ollama call to decide acceptance and return a summary or rejection reasons."""
 
@@ -184,7 +487,7 @@ def evaluate_repository(repo_info, criteria, search_terms):
     return accepted, body
 
 
-def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_date=None, no_digest_only=False, batch_size=5):
+def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_date=None, no_digest_only=False, batch_size=5, vector_filter=None):
     """
     Iterate through a list of repositories and perform enrichment (acceptance check & summarization).
 
@@ -201,6 +504,9 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
         no_digest_only (bool): Only enrich repos that have no stored digest, i.e. those
             that have never been successfully enriched.
         batch_size (int): Number of repositories to process in each batch before yielding.
+        vector_filter (VectorFilter or None): Similarity filter built from the topic's
+            exemplar repos. Repos that don't resemble any exemplar are discarded
+            before the acceptance criteria are ever applied. No filtering when None.
 
     Returns:
         None: Updates the 'repos' list objects in-place.
@@ -246,6 +552,7 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
     start_time = dt.now()
     cnt = 0  # Counts the number of repos that have been processed (not skipped due to unchanged content).
     discard_cnt = 0
+    filter_cnt = 0  # Discards attributable to the similarity filter.
     skip_cnt = 0
     enrich_cnt = 0
     defer_cnt = 0
@@ -279,53 +586,70 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
                 repo["deferred"] = deferred_count
                 defer_cnt += 1
         else:
-            # Gather information about the repo to feed to the LLM.
-            repo_info = (
-                f"Topics: {r.get_topics()}\n"
-                f"File extensions: {get_repo_file_extensions(r)}\n"
-                f"Description: {r.description}\n"
-                f"README:\n{get_repo_readme(r)}"
+            # Gather information about the repo. The file extensions are held back
+            # for now because reading the repo tree is an extra API call that a repo
+            # rejected by the similarity filter never needs.
+            content = get_repo_content(r, with_extensions=False)
+
+            # Reject repos that don't resemble any of the topic's exemplar repos
+            # before spending an LLM call on them.
+            passes_filter, similarity = (
+                vector_filter.accepts(format_embed_text(content))
+                if vector_filter
+                else (True, None)
             )
 
-            # See if the repo has changed since it was previously enriched. If not, skip it to save time and LLM API calls.
-            current_hash = get_digest(repo_info)
-            if repo.get("digest") == current_hash:
-                logger.debug(f"{cnt:6d}: Skipping unchanged {owner}/{repo_name}")
-                skip_cnt += 1
-                continue
-
-            # Perform LLM-based evaluation and enrich if accepted.
-            is_accepted, response = evaluate_repository(
-                repo_info, criteria, search_terms
-            )
-
-            if not response:
-                # Discard the repo if there hasn't been a response after several attempts.
-                deferred_count = repo.get("deferred", 0) + 1
-                if deferred_count >= 3:
-                    logger.debug(
-                        f"{cnt:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries"
-                    )
-                    repo["discarded"] = True
-                    discard_cnt += 1
-                else:
-                    logger.debug(
-                        f"{cnt:6d}: Deferred {owner}/{repo_name} - No response"
-                    )
-                    repo["deferred"] = deferred_count
-                    defer_cnt += 1
-            elif is_accepted:
-                logger.debug(f"{cnt:6d}: Accepted {owner}/{repo_name} - {response}")
-                repo["description"] = response
-                repo["digest"] = current_hash
-                repo.pop(
-                    "deferred", None
-                )  # Remove any deferred count since the repo exists.
-                enrich_cnt += 1
-            else:
-                logger.debug(f"{cnt:6d}: Discarded {owner}/{repo_name} - {response}")
+            if not passes_filter:
+                logger.debug(
+                    f"{cnt:6d}: Discarded {owner}/{repo_name} - similarity "
+                    f"{similarity:.3f} below threshold {vector_filter.threshold:.3f}"
+                )
                 repo["discarded"] = True
                 discard_cnt += 1
+                filter_cnt += 1
+            else:
+                content["extensions"] = get_repo_file_extensions(r)
+                repo_info = format_repo_info(content)
+
+                # See if the repo has changed since it was previously enriched. If not, skip it to save time and LLM API calls.
+                current_hash = get_digest(repo_info)
+                if repo.get("digest") == current_hash:
+                    logger.debug(f"{cnt:6d}: Skipping unchanged {owner}/{repo_name}")
+                    skip_cnt += 1
+                    continue
+
+                # Perform LLM-based evaluation and enrich if accepted.
+                is_accepted, response = evaluate_repository(
+                    repo_info, criteria, search_terms
+                )
+
+                if not response:
+                    # Discard the repo if there hasn't been a response after several attempts.
+                    deferred_count = repo.get("deferred", 0) + 1
+                    if deferred_count >= 3:
+                        logger.debug(
+                            f"{cnt:6d}: Discarded {owner}/{repo_name} - No reponse after {deferred_count} tries"
+                        )
+                        repo["discarded"] = True
+                        discard_cnt += 1
+                    else:
+                        logger.debug(
+                            f"{cnt:6d}: Deferred {owner}/{repo_name} - No response"
+                        )
+                        repo["deferred"] = deferred_count
+                        defer_cnt += 1
+                elif is_accepted:
+                    logger.debug(f"{cnt:6d}: Accepted {owner}/{repo_name} - {response}")
+                    repo["description"] = response
+                    repo["digest"] = current_hash
+                    repo.pop(
+                        "deferred", None
+                    )  # Remove any deferred count since the repo exists.
+                    enrich_cnt += 1
+                else:
+                    logger.debug(f"{cnt:6d}: Discarded {owner}/{repo_name} - {response}")
+                    repo["discarded"] = True
+                    discard_cnt += 1
 
         # Yield back to the caller after processing each batch.
         # The caller can save the repos after each batch so that progress is not lost.
@@ -336,11 +660,13 @@ def enrich_repos(title, repos, criteria, search_terms, count, timeout, before_da
         cnt += 1
 
     logger.info(
-        f"{title}: Enriched {enrich_cnt} repos, discarded {discard_cnt} repos, skipped {skip_cnt} unchanged repos, deferred decision on {defer_cnt} repos."
+        f"{title}: Enriched {enrich_cnt} repos, discarded {discard_cnt} repos "
+        f"({filter_cnt} by the similarity filter), skipped {skip_cnt} unchanged repos, "
+        f"deferred decision on {defer_cnt} repos."
     )
 
 
-def enrich_local_repos(topic, count=None, timeout=None, before_date=None, no_digest_only=False):
+def enrich_local_repos(topic, count=None, timeout=None, before_date=None, no_digest_only=False, use_vector_filter=True, threshold_override=None):
     """
     Load a local JSON file of repositories and perform enrichment based on the topic's configuration.
 
@@ -352,6 +678,10 @@ def enrich_local_repos(topic, count=None, timeout=None, before_date=None, no_dig
             where a repo's date is the most recent of its created, pushed, and updated
             timestamps. Defaults to the current date when None.
         no_digest_only (bool): Only enrich repos that have no stored digest.
+        use_vector_filter (bool): Whether to apply the similarity filter to topics that
+            list exemplar repos. Topics without exemplars are unaffected either way.
+        threshold_override (float or None): Similarity threshold that wins over the
+            topic setting and over calibration.
 
     Returns:
         None: Updates the local JSON file with enriched data and removes discarded repos.
@@ -374,6 +704,10 @@ def enrich_local_repos(topic, count=None, timeout=None, before_date=None, no_dig
     # Process all repos; the enrichment loop will skip unchanged already-enriched ones
     # by comparing the current content hash with the stored hash.
 
+    # Build the topic's exemplar similarity filter once, up front, so its repos are
+    # fetched and embedded a single time no matter how many candidates are scanned.
+    vector_filter = build_vector_filter(topic, threshold_override) if use_vector_filter else None
+
     # Process the repos in batches, saving each batch so progress is not lost.
     for _ in enrich_repos(
         title,
@@ -384,6 +718,7 @@ def enrich_local_repos(topic, count=None, timeout=None, before_date=None, no_dig
         timeout,
         before_date,
         no_digest_only=no_digest_only,
+        vector_filter=vector_filter,
     ):
         # Remove discarded repositories and save the partial results
         copy_of_repos = [r for r in repos if not r.get("discarded", False)]
@@ -442,7 +777,7 @@ def parse_before_date(date_str):
     return parsed
 
 
-def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_digest_only=False):
+def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_digest_only=False, use_vector_filter=True, threshold_override=None):
     """
     Search GitHub for new repositories matching a topic and date range,
     then update the local JSON file.
@@ -454,6 +789,9 @@ def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_di
         before_date (datetime or None): Only enrich repos dated on or before this date.
             Defaults to the current date when None.
         no_digest_only (bool): Only enrich repos that have no stored digest.
+        use_vector_filter (bool): Whether to apply the topic's exemplar similarity filter.
+        threshold_override (float or None): Similarity threshold that wins over the
+            topic setting and over calibration.
 
     Returns:
         None: Updates the local JSON file with new repository data.
@@ -543,6 +881,8 @@ def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_di
         timeout=timeout,
         before_date=before_date,
         no_digest_only=no_digest_only,
+        use_vector_filter=use_vector_filter,
+        threshold_override=threshold_override,
     )
 
 
@@ -593,6 +933,27 @@ if __name__ == "__main__":
             "successfully enriched. Repos with a digest are left untouched."
         ),
     )
+    parser.add_argument(
+        "--no-vector-filter",
+        action="store_true",
+        help=(
+            "Disable the exemplar similarity filter. By default, a topic that lists "
+            "'exemplars' repo links in the topics file has each candidate repo's "
+            "topics/description/README embedded and compared against those exemplars, "
+            "and candidates that don't resemble any of them are discarded before the "
+            "acceptance criteria are applied. Topics with no exemplars are unaffected."
+        ),
+    )
+    parser.add_argument(
+        "--vector-threshold",
+        type=float,
+        default=None,
+        help=(
+            "Similarity threshold for the exemplar filter, overriding both a topic's "
+            "'similarity_threshold' setting and the value calibrated from how tightly "
+            "its exemplars resemble each other. Useful for trying values out."
+        ),
+    )
     parser.add_argument("--debug", action="store_true", help="Enable debugging.")
     args = parser.parse_args()
 
@@ -637,6 +998,8 @@ if __name__ == "__main__":
                 timeout=args.timeout,
                 before_date=before_date,
                 no_digest_only=args.no_digest,
+                use_vector_filter=not args.no_vector_filter,
+                threshold_override=args.vector_threshold,
             )
         elif args.mode == "enrich":
             enrich_local_repos(
@@ -645,4 +1008,6 @@ if __name__ == "__main__":
                 timeout=args.timeout,
                 before_date=before_date,
                 no_digest_only=args.no_digest,
+                use_vector_filter=not args.no_vector_filter,
+                threshold_override=args.vector_threshold,
             )
