@@ -21,6 +21,21 @@
         "count": 100
     },
     {
+        "title": "PCB HDLs",
+        "exemplars": [
+            "https://github.com/BerkeleyHCI/PolymorphicBlocks",
+            "https://github.com/devbisme/skidl",
+            "https://github.com/google/pcbdl",
+            "https://github.com/atopile/atopile",
+            "https://github.com/diodeinc/pcb",
+            "https://github.com/tscircuit/tscircuit"
+        ],
+        "search_terms": "(circuit OR schematic OR PCB) (DSL OR \"design language\" OR code)",
+        "JSON_file": "pcb_hdls",
+        "acceptance_criteria": "The repo defines or uses a domain-specific language for textually-describing electronic designs for PCBs that are typically created as schematics. Reject languages targeted at ASICs or FPGAs, personal portfolio pages, and pages that are mostly lists/tables of links to projects for unrelated areas.",
+        "count": -1
+    },
+    {
         "title": "LiteX",
         "search_terms": "litex",
         "JSON_file": "litex",
