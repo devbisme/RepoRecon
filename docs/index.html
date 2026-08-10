@@ -68,6 +68,42 @@
         </div>
     </div>
 
+    <!-- Semantic search. app.js moves this into the DataTables wrapper so it sits
+         below the Show/Search controls, just above the table. -->
+    <div id="semanticHost">
+        <div id="semanticDiv">
+            <span id="semanticStatus"></span>
+            <div class="info-icon">
+                <img src="info.png" alt="Info" width="20px" vertical-align="sub">
+                <span class="help-text">
+                    <h3 style="margin-top:0px">Semantic</h3>
+                    <p>
+                    Describe what you are looking for in plain English and press &lt;Enter&gt;.
+                    Each repo's description and your query are converted into vectors by a small language model
+                    that runs entirely inside your browser, and the repos are ranked by how closely their
+                    vectors align with yours. Unlike <b>Filter</b> and <b>Search</b>, this matches on meaning
+                    rather than on literal text, so <b><code>cheap board that talks to WiFi</code></b> can turn
+                    up a repo whose description never uses any of those words.
+                    <p>
+                    <b>The first search on a set of repos is slow.</b> It downloads the language model (about
+                    25 MB) and then computes a vector for every repo in the table, which runs at roughly a
+                    thousand repos per minute. Progress is reported to the left of this icon. The vectors are
+                    then cached in your browser, so every later search over those same repos returns
+                    immediately.
+                    <p>
+                    Only the repos currently in the table are ranked, so use <b>Filter</b> first to cut a large
+                    topic down to a workable size before searching.
+                    <p>
+                    The results appear in a sortable <b>Rank</b> column at the left of the table, with rank 1
+                    being the best match. Emptying this field, or changing the filter or the topic, clears the
+                    ranking.
+                </span>
+            </div>
+            <label for="semanticField">Semantic:</label>
+            <input type="search" id="semanticField" placeholder="Describe what you want <Enter>">
+        </div>
+    </div>
+
     <table id="dataTable" class="hover cell-border order-column"></table>
 
     <script src="app.js"></script>

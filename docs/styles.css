@@ -8,8 +8,35 @@
     z-index: 9999;
 }
 
-#topicSelector, #filterField {
+#topicSelector, #filterField, #semanticField {
     padding: 5px;
+}
+
+/* Semantic search gets its own line below the DataTables Show/Search controls,
+   which float left and right, hence the clear. */
+#semanticDiv {
+    clear: both;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 5px;
+    padding: 8px 0;
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+/* Greyed out while a search is running. */
+#semanticField:disabled {
+    background-color: #f0f0f0;
+    cursor: progress;
+}
+
+/* Progress messages while the model loads and the vectors are computed. */
+#semanticStatus {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    color: #505050;
 }
 
 #topicTitle {
@@ -101,9 +128,11 @@ td.owner {
     text-overflow: ellipsis;
 }
 
+th.rank,
 th.stars,
 th.forks,
 th.size,
+td.rank,
 td.stars,
 td.forks,
 td.size {
