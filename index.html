@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>RepoRecon</title>
+    <meta property="og:title" content="RepoRecon">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Scan through collections of GitHub repositories on various topics.">
+    <meta property="og:image" content="https://devbisme.github.io/RepoRecon/logo.png">
+    <meta property="og:url" content="https://devbisme.github.io/RepoRecon/">
+    <meta name="twitter:title" content="RepoRecon">
+    <meta name="twitter:card" content=summary">
+    <meta name="twitter:description" content="Scan through collections of GitHub repositories on various topics.">
+    <meta name="twitter:image" content="https://devbisme.github.io/RepoRecon/logo.png">
+    <meta name="twitter:url" content="https://devbisme.github.io/RepoRecon/">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    </head>
+<body>
+
+    <div id="bannerDiv"  style="display:flex; justify-content:space-between;padding-bottom: 20px;">
+        <img id="logo" style="vertical-align:middle; text-align:left; background-color: rgba(0, 0, 0, 0);" src="logo.png" alt="RepoRecon">
+        <img id="waiting" style="display:none; text-align:center" src="loading51.gif" alt="Loading..." width="65px">
+        <a id="srclink" style="text-align:right" href="https://github.com/devbisme/RepoRecon" target="_blank">[source]</a>
+    </div>
+
+    <div id="topicFilterDiv" style="display:flex; justify-content:space-between;">
+        <div id="topicSelectorDiv" style="text-align:left;">
+            <label id="topicSelectorLabel" for="topicSelector">Topic:</label>
+            <select id="topicSelector" onchange="topicCallback()"></select>
+        </div>
+        <div id="topicTitleDiv" style="text-align:center">
+            <div id="topicTitle"></div>
+            <div id="numRepos"></div>
+        </div>
+        <div id="filterDiv" style="text-align:right;">
+            <div class="info-icon">
+                <img id="info-icon" src="info.png" alt="Info" width="20px" vertical-align="sub">
+                <span class="help-text">
+                    <h3 style="margin-top:0px">Filter</h3>
+                    <p>
+                    This constructs a table by extracting rows from the complete data set whose column entries
+                    match specified values.
+                    Columns are referenced using the first few letters of their name followed by a colon (:)
+                    and then the value to match.
+                    For example, the filter <b><code>desc:raspberrypi</code></b> would extract all rows having
+                    the string <b><code>raspberrypi</code></b> in their <b>Description</b> column.
+                    <p>
+                    You can use logical operators (&&, ||, and !) and comparison operators (<, >, ==) along with
+                    parentheses for grouping. For example, this would filter for repos having combined stars and forks
+                    greater than 100 and a size of at least 10000:
+                    <p>
+                    <code>(stars: + forks: > 100) && size:>=10000</code>
+                    
+                    <h3>Search</h3>
+                    <p>
+                    This is for "quick-and-dirty" searching. It will do a live search of all columns for the text you enter.
+                    As you type in this field, rows of filtered data that have no matching text in any column will be hidden, leaving
+                    only matching rows.
+                </span>
+            </div>
+            <label for="filterField">Filter:</label>
+            <input type="search" id="filterField" placeholder="Column:Value <Enter>">
+        </div>
+    </div>
+
+    <!-- Semantic search. app.js moves this into the DataTables wrapper so it sits
+         below the Show/Search controls, just above the table. -->
+    <div id="semanticHost">
+        <div id="semanticDiv">
+            <span id="semanticStatus"></span>
+            <div class="info-icon">
+                <img src="info.png" alt="Info" width="20px" vertical-align="sub">
+                <span class="help-text">
+                    <h3 style="margin-top:0px">Semantic</h3>
+                    <p>
+                    Describe what you are looking for in plain English and press &lt;Enter&gt;.
+                    Each repo's description and your query are converted into vectors by a small language model
+                    that runs entirely inside your browser, and the repos are ranked by how closely their
+                    vectors align with yours. Unlike <b>Filter</b> and <b>Search</b>, this matches on meaning
+                    rather than on literal text, so <b><code>cheap board that talks to WiFi</code></b> can turn
+                    up a repo whose description never uses any of those words.
+                    <p>
+                    <b>The first search on a set of repos is slow.</b> It downloads the language model (about
+                    25 MB) and then computes a vector for every repo in the table, which runs at roughly a
+                    thousand repos per minute. Progress is reported to the left of this icon. The vectors are
+                    then cached in your browser, so every later search over those same repos returns
+                    immediately.
+                    <p>
+                    Only the repos currently in the table are ranked, so use <b>Filter</b> first to cut a large
+                    topic down to a workable size before searching.
+                    <p>
+                    The results appear in a sortable <b>Rank</b> column at the left of the table, with rank 1
+                    being the best match. Emptying this field, or changing the filter or the topic, clears the
+                    ranking.
+                </span>
+            </div>
+            <label for="semanticField">Semantic:</label>
+            <input type="search" id="semanticField" placeholder="Describe what you want <Enter>">
+        </div>
+    </div>
+
+    <table id="dataTable" class="hover cell-border order-column"></table>
+
+    <script src="app.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,174 @@
+#srclink {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-size: 12px;
+    /* color: #808080; */
+}
+
+#waiting {
+    z-index: 9999;
+}
+
+#topicSelector, #filterField, #semanticField {
+    padding: 5px;
+}
+
+/* Semantic search gets its own line below the DataTables Show/Search controls,
+   which float left and right, hence the clear. */
+#semanticDiv {
+    clear: both;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 5px;
+    padding: 8px 0;
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+/* Greyed out while a search is running. */
+#semanticField:disabled {
+    background-color: #f0f0f0;
+    cursor: progress;
+}
+
+/* Progress messages while the model loads and the vectors are computed. */
+#semanticStatus {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    color: #505050;
+}
+
+#topicTitle {
+    display: inline-block;
+}
+
+#numRepos {
+    display: inline-block;
+    font-size: 14px;
+    font-style: italic;
+}
+
+#topicFilterDiv,
+.dataTables_length,
+.dataTables_filter,
+#dataTable_paginate {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#filterDiv {
+    text-align: right;
+    padding-bottom: 10px;
+}
+
+.info-icon {
+    position: relative;
+    bottom: -10%; /* Align icon with Filter label. */
+    display: inline-block;
+}
+
+.info-icon .help-text {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    visibility: hidden;
+    width: 400px;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #000;
+    text-align: left;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 100;
+    top: 125%; /* Position the tooltip below the icon */
+    right: 0%; /* Position the tooltip to the right of the icon */
+    opacity: 0;
+    transition: opacity 0.5s;
+}
+
+.info-icon:hover .help-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+#dataTable_info {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    font-style: italic;
+}
+
+#dataTable {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+}
+
+#dataTable thead {
+    font-family: Arial, sans-serif, Helvetica, sans-serif;
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 10;
+}
+
+td.repo {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+td.description {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 10;
+    line-clamp: 10;
+    overflow: hidden;
+}
+
+td.owner {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+th.rank,
+th.stars,
+th.forks,
+th.size,
+td.rank,
+td.stars,
+td.forks,
+td.size {
+    text-align: right !important;
+}
+
+th.pushed {
+    text-align: center !important;
+}
+
+td.pushed {
+    text-align: center;
+}
+
+th {
+    color: white;
+    background-color: #007fd4;
+    border: 1px solid #fff;
+}
+
+
+.odd,
+.odd-row {
+    background-color: #f2f2f2 !important;
+}
+
+.even,
+.even-row {
+    background-color: #ffd080 !important;
+}
+
+tr:hover {
+    background-color: #a5d7fe !important;
+}
+
+.column,
+.sort-button {
+    display: inline-block;
+}
