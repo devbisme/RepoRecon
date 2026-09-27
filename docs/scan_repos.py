@@ -1001,9 +1001,12 @@ if __name__ == "__main__":
     )
     parser.add_argument(
         "--topic",
-        nargs="*",
-        default=[],
-        help="Process a specific topic from the topics file.",
+        action="append",
+        default=None,
+        help=(
+            "Process a specific topic from the topics file, by title or JSON_file name. "
+            "Repeat to process several, e.g. --topic kicad --topic kicad_ai."
+        ),
     )
     parser.add_argument(
         "--count",
