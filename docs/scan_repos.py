@@ -23,6 +23,21 @@ A topic in the topics file may add these optional keys to turn on step 2:
 
 Two or more exemplars are enough; the threshold is calibrated from them and only
 needs to be set by hand when the calibrated value turns out to be too loose or tight.
+
+A topic can instead be derived from another topic's results. It doesn't search
+GitHub; in scan mode it ranks the repos in the source topic's JSON file by how well
+their descriptions match a query (using the same cached embeddings as rank.py) and
+rebuilds its own JSON file from those scoring at or above a threshold:
+
+    {
+        "title": "KiCad AI",
+        "source_file": "kicad",
+        "query": "AI or LLM tools that help design PCBs in KiCad",
+        "query_threshold": 0.6,
+        "JSON_file": "kicad_ai"
+    }
+
+Put a derived topic after its source topic so it filters freshly scanned results.
 """
 
 import hashlib
@@ -38,6 +53,12 @@ import requests
 import base64
 from loguru import logger
 from zoneinfo import ZoneInfo
+
+# rank.py sits next to this file; it's imported as docs.rank when run from the tests.
+try:
+    import rank
+except ModuleNotFoundError:
+    from docs import rank
 
 # Configuration
 debug = True
@@ -61,6 +82,9 @@ default_similarity_threshold = 0.55
 # The calibrated threshold is the tightest exemplar-to-exemplar similarity, relaxed by
 # this factor so candidates that are merely as on-topic as the exemplars still pass.
 threshold_slack = 0.95
+# Query-to-description similarity a repo needs to be kept by a derived topic that
+# doesn't set 'query_threshold'. A guess; check a topic's scores in its output file.
+default_query_threshold = 0.6
 
 # Authenticate with GitHub using a personal access token.
 # If not found, then Github access will be slower and may hit rate limits sooner.
@@ -777,6 +801,67 @@ def parse_before_date(date_str):
     return parsed
 
 
+def filter_source_repos(topic, threshold_override=None):
+    """
+    Rebuild a derived topic's JSON file from the repos in its source topic's file
+    whose descriptions match the topic's query.
+
+    Args:
+        topic (dict): Topic configuration with 'source_file', 'query', 'JSON_file',
+            and an optional 'query_threshold'.
+        threshold_override (float or None): Threshold that wins over the topic setting.
+
+    Returns:
+        None: Writes the matching repos, best first, with "rank" and "score" fields.
+    """
+    title = topic["title"]
+    source_file = topic["source_file"] + ".json"
+    repo_file = topic["JSON_file"] + ".json"
+    query = topic.get("query", "").strip()
+
+    if not query:
+        logger.warning(f"{title}: Derived topic has no 'query', so it was skipped.")
+        return
+    if os.path.abspath(source_file) == os.path.abspath(repo_file):
+        logger.warning(f"{title}: 'source_file' and 'JSON_file' are the same, so it was skipped.")
+        return
+
+    try:
+        with open(source_file, "r") as f:
+            repos = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        logger.warning(f"{title}: Unable to read source file {source_file}: {e}")
+        return
+
+    if threshold_override is not None:
+        threshold = threshold_override
+    else:
+        threshold = topic.get("query_threshold", default_query_threshold)
+
+    logger.info(
+        f'    Filtering {len(repos)} repos from {source_file} against "{query}" '
+        f"at a similarity threshold of {threshold:.3f} ..."
+    )
+
+    # Shares the <source>.vec.npz embedding cache with rank.py, so only repos whose
+    # description changed since the last run get re-embedded.
+    cache_path = topic["source_file"] + ".vec.npz"
+    try:
+        ranked = rank.rank_repos(repos, query, "description", rank.DEFAULT_MODEL, cache_path)
+    except SystemExit:
+        # TODO: rank.py exits on Ollama errors because it's a CLI; catching that here
+        # keeps one failed topic from ending the whole scan.
+        logger.warning(f"{title}: Embedding failed, so {repo_file} was left unchanged.")
+        return
+
+    # rank_repos gives repos with empty descriptions a score of None.
+    matches = [r for r in ranked if r["score"] is not None and r["score"] >= threshold]
+
+    with open(repo_file, "w") as f:
+        json.dump(matches, f, indent=4)
+    logger.info(f"    Wrote {len(matches)} matching {title} repos to {repo_file}.")
+
+
 def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_digest_only=False, use_vector_filter=True, threshold_override=None):
     """
     Search GitHub for new repositories matching a topic and date range,
@@ -968,7 +1053,8 @@ if __name__ == "__main__":
         help=(
             "Similarity threshold for the exemplar filter, overriding both a topic's "
             "'similarity_threshold' setting and the value calibrated from how tightly "
-            "its exemplars resemble each other. Useful for trying values out."
+            "its exemplars resemble each other. Also overrides a derived topic's "
+            "'query_threshold'. Useful for trying values out."
         ),
     )
     parser.add_argument("--debug", action="store_true", help="Enable debugging.")
@@ -1008,7 +1094,13 @@ if __name__ == "__main__":
             and topic["JSON_file"].lower() not in args.topic
         ):
             continue
-        if args.mode == "scan":
+        if "source_file" in topic:
+            # Derived topics are rebuilt from their source file and never LLM-enriched.
+            if args.mode == "scan":
+                filter_source_repos(topic, threshold_override=args.vector_threshold)
+            else:
+                logger.info(f"Skipping derived topic {topic['title']} in {args.mode} mode.")
+        elif args.mode == "scan":
             gather_github_repos(
                 topic,
                 count=args.count,

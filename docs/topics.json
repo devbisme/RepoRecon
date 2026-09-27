@@ -8,6 +8,14 @@
         "timeout": 7200
     },
     {
+        "title": "KiCad AI",
+        "search_terms": "kicad AI",
+        "github_search": false,
+        "JSON_file": "kicad_ai",
+        "acceptance_criteria": "The repo is for an AI-related tool that assists in the use of KiCad for PCB design. Reject personal portfolio pages and pages with lists having many links to non-KiCad items.",
+        "count": 0
+    },
+    {
         "title": "FreeCAD",
         "search_terms": "freecad",
         "JSON_file": "freecad",
@@ -33,7 +41,8 @@
         "search_terms": "(circuit OR schematic OR PCB) (DSL OR \"design language\" OR code)",
         "JSON_file": "pcb_hdls",
         "acceptance_criteria": "The repo defines or uses a domain-specific language for textually-describing electronic designs for PCBs that are typically created as schematics. Reject languages targeted at ASICs or FPGAs, personal portfolio pages, and pages that are mostly lists/tables of links to projects for unrelated areas.",
-        "count": -1
+        "count": -1,
+        "timeout": 1800
     },
     {
         "title": "LiteX",
