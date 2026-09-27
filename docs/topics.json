@@ -8,11 +8,11 @@
         "timeout": 7200
     },
     {
-        "title": "KiCad AI",
-        "search_terms": "kicad AI",
-        "github_search": false,
+        "title": "--> KiCad AI",
+        "source_file": "kicad",
+        "query": "AI, LLM, MCP, skills, agents, copilots for working with KiCad",
+        "query_threshold": 0.75,
         "JSON_file": "kicad_ai",
-        "acceptance_criteria": "The repo is for an AI-related tool that assists in the use of KiCad for PCB design. Reject personal portfolio pages and pages with lists having many links to non-KiCad items.",
         "count": 0
     },
     {
