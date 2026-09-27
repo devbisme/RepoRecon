@@ -800,6 +800,34 @@ def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_di
     search_term = topic["search_terms"]
     repo_file = topic["JSON_file"] + ".json"
 
+    # Topics with "search": false skip the GitHub search; their local repos are still enriched.
+    if topic.get("github_search", True):
+        search_github_repos(title, search_term, repo_file)
+    else:
+        logger.info(f"    Skipping GitHub search for {title} (search disabled in topic).")
+
+    # Trigger enrichment for the newly gathered repos.
+    enrich_local_repos(
+        topic,
+        count=count,
+        timeout=timeout,
+        before_date=before_date,
+        no_digest_only=no_digest_only,
+        use_vector_filter=use_vector_filter,
+        threshold_override=threshold_override,
+    )
+
+
+def search_github_repos(title, search_term, repo_file):
+    """
+    Search GitHub for repositories newer than the newest one in the local JSON file
+    and merge them into that file.
+
+    Args:
+        title (str): Topic title used in log messages.
+        search_term (str): GitHub search terms for the topic.
+        repo_file (str): Path of the topic's local JSON repo file.
+    """
     # Load the previously found repos from the JSON file to avoid duplicates and determine start date.
     try:
         with open(repo_file, "r") as f:
@@ -873,17 +901,6 @@ def gather_github_repos(topic, count=None, timeout=None, before_date=None, no_di
     )
     with open(repo_file, "w") as f:
         json.dump(date_sorted_repos, f, indent=4)
-
-    # Trigger enrichment for the newly gathered repos.
-    enrich_local_repos(
-        topic,
-        count=count,
-        timeout=timeout,
-        before_date=before_date,
-        no_digest_only=no_digest_only,
-        use_vector_filter=use_vector_filter,
-        threshold_override=threshold_override,
-    )
 
 
 if __name__ == "__main__":
