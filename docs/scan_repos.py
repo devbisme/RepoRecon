@@ -45,8 +45,7 @@ import json
 import os
 import sys
 from datetime import datetime as dt
-from github import Auth, Github
-from github.Repository import RepositorySearchResult
+from github import Github
 import html_text
 import numpy as np
 import requests
@@ -59,6 +58,16 @@ try:
     import rank
 except ModuleNotFoundError:
     from docs import rank
+
+# Auth and RepositorySearchResult only exist in newer PyGithub releases.
+try:
+    from github import Auth
+except ImportError:
+    Auth = None
+try:
+    from github.Repository import RepositorySearchResult
+except ImportError:
+    RepositorySearchResult = None
 
 # Configuration
 debug = True
@@ -89,8 +98,12 @@ default_query_threshold = 0.6
 # Authenticate with GitHub using a personal access token.
 # If not found, then Github access will be slower and may hit rate limits sooner.
 token = os.getenv("REPORECON_GITHUB_TOKEN")
-auth = Auth.Token(token)
-g = Github(auth=auth)
+if not token:
+    g = Github()
+elif Auth:
+    g = Github(auth=Auth.Token(token))
+else:
+    g = Github(token)
 
 
 def is_timeout(start_time, timeout):
@@ -762,7 +775,7 @@ def get_date_time(repo=None):
         date_times.append(dt.fromisoformat(repo.get("created", earliest_date_time)))
         date_times.append(dt.fromisoformat(repo.get("pushed", earliest_date_time)))
         date_times.append(dt.fromisoformat(repo.get("updated", earliest_date_time)))
-    elif isinstance(repo, RepositorySearchResult):
+    elif RepositorySearchResult and isinstance(repo, RepositorySearchResult):
         date_times.append(
             dt.fromisoformat(getattr(repo, "created_at", earliest_date_time))
         )
